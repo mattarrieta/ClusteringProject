@@ -1,0 +1,780 @@
+Page 1
+Integral
+In mathematics, an integral assigns numbers to
+functions in a way that describes displacement, area,
+volume, and other concepts that arise by combining
+ infinitesimal data. The process of finding integrals is
+called integration.  Along with differentiation,
+integration is a fundamental, essential operation of
+calculus,[a] and serves as a tool to solve problems in
+mathematics and [URL: "https://en.wikipedia.org/wiki/Physics"] physics involving the area of an
+arbitrary shape, the length of a curve, and the volume
+of a solid, among others.
+The integrals enumerated here are those termed
+definite integrals,  which can be interpreted as the
+signed [URL: "https://en.wikipedia.org/wiki/Area"] area of the region in the plane that is bounded
+by the [URL: "https://en.wikipedia.org/wiki/Graph_of_a_function"] graph of a given [URL: "https://en.wikipedia.org/wiki/Function_(mathematics)"] function between two points in
+the [URL: "https://en.wikipedia.org/wiki/Real_line"] real line. Conventionally, areas above the
+horizontal axis of the plane are positive while areas
+below are negative. Integrals also refer to the concept
+of an antiderivative, a function whose derivative is the
+given function. In this case, they are called indefinite 
+A definite integral of a function can be represented
+as the signed area of the region bounded by its
+graph.
+integrals. The [URL: "https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus"] fundamental theorem of calculus relates
+definite integrals with differentiation and provides a method to compute the definite integral of a function
+when its antiderivative is known.
+Although methods of calculating areas and volumes dated from [URL: "https://en.wikipedia.org/wiki/Ancient_Greek_mathematics"] ancient Greek mathematics, the principles
+of integration were formulated independently by [URL: "https://en.wikipedia.org/wiki/Isaac_Newton"] Isaac Newton and [URL: "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz"] Gottfried Wilhelm Leibniz in the late
+17th century, who thought of the area under a curve as an infinite sum of rectangles of [URL: "https://en.wikipedia.org/wiki/Infinitesimal"] infinitesimal width.
+ Bernhard Riemann later gave a rigorous definition of integrals, which is based on a limiting procedure that
+approximates the area of a [URL: "https://en.wikipedia.org/wiki/Curvilinear_coordinates"] curvilinear region by breaking the region into infinitesimally thin vertical slabs.
+In the early 20th century, [URL: "https://en.wikipedia.org/wiki/Henri_Lebesgue"] Henri Lebesgue generalized Riemann's formulation by introducing what is now
+referred to as the [URL: "https://en.wikipedia.org/wiki/Lebesgue_integration"] Lebesgue integral; it is more robust than Riemann's in the sense that a wider class of
+functions are Lebesgue-integrable.
+Integrals may be generalized depending on the type of the function as well as the [URL: "https://en.wikipedia.org/wiki/Domain_(mathematical_analysis)"] domain over which the
+integration is performed. For example, a [URL: "https://en.wikipedia.org/wiki/Line_integral"] line integral is defined for functions of two or more variables, and
+ the interval of integration is replaced by a curve connecting the two endpoints of the interval. In a surface
+integral, the curve is replaced by a piece of a [URL: "https://en.wikipedia.org/wiki/Surface_(mathematics)"] surface in [URL: "https://en.wikipedia.org/wiki/Three-dimensional_space"] three-dimensional space.
+Contents
+History
+Pre-calculus integration
+Leibniz and Newton
+Formalization
+Historical notation
+[URL: "https://en.wikipedia.org/wiki/Derivative"]
+Page 2
+First use of the term
+Terminology and notation
+Interpretations
+Formal definitions
+Riemann integral
+Lebesgue integral
+Other integrals
+Properties
+Linearity
+Inequalities
+Conventions
+Fundamental theorem of calculus
+First theorem
+Second theorem
+Extensions
+Improper integrals
+Multiple integration
+Line integrals and surface integrals
+Contour integrals
+Integrals of differential forms
+Summations
+Functional integrals
+Applications
+Computation
+Analytical
+Symbolic
+Numerical
+Mechanical
+Geometrical
+Integration by differentiation
+Examples
+Using the Fundamental Theorem of Calculus
+See also
+Notes
+References
+Bibliography
+External links
+Online books
+History
+Page 3
+Pre-calculus integration
+The first documented systematic technique capable of determining integrals is the [URL: "https://en.wikipedia.org/wiki/Method_of_exhaustion"] method of exhaustion of
+the [URL: "https://en.wikipedia.org/wiki/Ancient_Greek"] ancient Greek astronomer [URL: "https://en.wikipedia.org/wiki/Eudoxus_of_Cnidus"] Eudoxus (ca. 370 BC), which sought to find areas and volumes by breaking
+them up into an infinite number of divisions for which the area or volume was known.[1] This method was
+ further developed and employed by Archimedes in the 3rd century BC and used to calculate the area of a
+circle, the [URL: "https://en.wikipedia.org/wiki/Surface_area"] surface area and [URL: "https://en.wikipedia.org/wiki/Volume"] volume of a sphere, area of an ellipse, the area under a parabola, the volume of a
+segment of a [URL: "https://en.wikipedia.org/wiki/Paraboloid"] paraboloid of revolution, the volume of a segment of a [URL: "https://en.wikipedia.org/wiki/Hyperboloid"] hyperboloid of revolution, and the area
+of a spiral.[2]
+A similar method was independently developed in [URL: "https://en.wikipedia.org/wiki/China"] China around the 3rd century AD by [URL: "https://en.wikipedia.org/wiki/Liu_Hui"] Liu Hui, who used
+it to find the area of the circle. This method was later used in the 5th century by Chinese father-and-son
+mathematicians [URL: "https://en.wikipedia.org/wiki/Zu_Chongzhi"] Zu Chongzhi and [URL: "https://en.wikipedia.org/wiki/Zu_Geng_(mathematician)"] Zu Geng to find the volume of a sphere.[3]
+In the Middle East, Hasan Ibn al-Haytham, Latinized as [URL: "https://en.wikipedia.org/wiki/Alhazen"] Alhazen (c. 965 – c. 1040 AD) derived a formula
+for the sum of [URL: "https://en.wikipedia.org/wiki/Fourth_power"] fourth powers.[4] He used the results to carry out what would now be called an integration of
+this function, where the formulae for the sums of integral squares and fourth powers allowed him to
+calculate the volume of a paraboloid.[5]
+The next significant advances in integral calculus did not begin to appear until the 17th century. At this
+time, the work of [URL: "https://en.wikipedia.org/wiki/Bonaventura_Cavalieri"] Cavalieri with his [URL: "https://en.wikipedia.org/wiki/Method_of_Indivisibles"] method of Indivisibles, and work by Fermat, began to lay the
+foundations of modern calculus,[6] with Cavalieri computing the integrals of xn up to degree n = 9 in
+ Cavalieri's quadrature formula.[7] Further steps were made in the early 17th century by [URL: "https://en.wikipedia.org/wiki/Isaac_Barrow"] Barrow and
+Torricelli, who provided the first hints of a connection between integration and differentiation. Barrow
+provided the first proof of the [URL: "https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus"] fundamental theorem of calculus.[8] [URL: "https://en.wikipedia.org/wiki/John_Wallis"] Wallis generalized Cavalieri's method,
+computing integrals of x to a general power, including negative powers and fractional powers.[9]
+Leibniz and Newton
+The major advance in integration came in the 17th century with the independent discovery of the
+ fundamental theorem of calculus by [URL: "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz"] Leibniz and Newton.[10] The theorem demonstrates a connection
+between integration and differentiation. This connection, combined with the comparative ease of
+differentiation, can be exploited to calculate integrals. In particular, the fundamental theorem of calculus
+allows one to solve a much broader class of problems. Equal in importance is the comprehensive
+mathematical framework that both Leibniz and Newton developed. Given the name infinitesimal calculus,
+it allowed for precise analysis of functions within continuous domains. This framework eventually became
+modern calculus, whose notation for integrals is drawn directly from the work of Leibniz.
+Formalization
+While Newton and Leibniz provided a systematic approach to integration, their work lacked a degree of
+rigour. [URL: "https://en.wikipedia.org/wiki/George_Berkeley"] Bishop Berkeley memorably attacked the vanishing increments used by Newton, calling them
+"[URL: "https://en.wikipedia.org/wiki/The_Analyst#Content"] ghosts of departed quantities".[11] Calculus acquired a firmer footing with the development of limits.
+Integration was first rigorously formalized, using limits, by Riemann.[12] Although all bounded piecewise
+continuous functions are Riemann-integrable on a bounded interval, subsequently more general functions
+were considered—particularly in the context of [URL: "https://en.wikipedia.org/wiki/Fourier_analysis"] Fourier analysis—to which Riemann's definition does not
+apply, and [URL: "https://en.wikipedia.org/wiki/Henri_Lebesgue"] Lebesgue formulated a different definition of integral, founded in [URL: "https://en.wikipedia.org/wiki/Measure_(mathematics)"] measure theory (a subfield of
+ real analysis).  Other definitions of integral, extending Riemann's and Lebesgue's approaches, were
+Page 4
+proposed. These approaches based on the real number system are the ones most common today, but
+alternative approaches exist, such as a definition of integral as the [URL: "https://en.wikipedia.org/wiki/Standard_part"] standard part of an infinite Riemann sum,
+based on the [URL: "https://en.wikipedia.org/wiki/Hyperreal_number"] hyperreal number system.
+Historical notation
+The notation for the indefinite integral was introduced by [URL: "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz"] Gottfried Wilhelm Leibniz in 1675.[13] He
+adapted the [URL: "https://en.wikipedia.org/wiki/Integral_symbol"] integral symbol, ∫, from the letter ſ ([URL: "https://en.wikipedia.org/wiki/Long_s"] long s), standing for summa (written as ſumma; Latin for
+"sum" or "total"). The modern notation for the definite integral, with limits above and below the integral
+sign, was first used by [URL: "https://en.wikipedia.org/wiki/Joseph_Fourier"] Joseph Fourier in Mémoires of the French Academy around 1819–20, reprinted in
+his book of 1822.[14]
+ Isaac Newton used a small vertical bar above a variable to indicate integration, or placed the variable inside
+.
+a box. The vertical bar was easily confused with x or x′, which are used to indicate differentiation, and the
+box notation was difficult for printers to reproduce, so these notations were not widely adopted.[15]
+First use of the term
+The term was first printed in Latin by [URL: "https://en.wikipedia.org/wiki/Jacob_Bernoulli"] Jacob Bernoulli in 1690: "Ergo et horum Integralia aequantur".[16]
+Terminology and notation
+In general, the integral of a [URL: "https://en.wikipedia.org/wiki/Real-valued_function"] real-valued function f(x) with respect to a real variable x on an interval [a, b]
+is written as
+The integral sign ∫ represents integration. The symbol dx, called the [URL: "https://en.wikipedia.org/wiki/Differential_(infinitesimal)"] differential of the variable x, indicates
+that the variable of integration is x. The function f(x) is called the integrand, the points a and b are called
+the limits (or bounds) of integration, and the integral is said to be over the interval [a, b], called the interval
+of integration.[17] A function is said to be integrable if its integral over its domain is finite. If limits are
+specified, the integral is called a definite integral.
+When the limits are omitted, as in
+the integral is called an indefinite integral, which represents a class of functions (the antiderivative) whose
+derivative is the integrand.[18] The [URL: "https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus"] fundamental theorem of calculus relates the evaluation of definite
+integrals to indefinite integrals. There are several extensions of the notation for integrals to encompass
+integration on unbounded domains and/or in multiple dimensions (see later sections of this article).
+In advanced settings, it is not uncommon to leave out dx when only the simple Riemann integral is being
+used, or the exact type of integral is immaterial. For instance, one might write
+to express the linearity of the integral, a property shared by the
+Riemann integral and all generalizations thereof.[19]
+Page 5
+Interpretations
+Integrals appear in many practical situations. For instance, from the
+length, width and depth of a swimming pool which is rectangular
+with a flat bottom, one can determine the volume of water it can
+contain, the area of its surface, and the length of its edge. But if it is
+oval with a rounded bottom, integrals are required to find exact and
+rigorous values for these quantities. In each case, one may divide
+the sought quantity into infinitely many [URL: "https://en.wikipedia.org/wiki/Infinitesimal"] infinitesimal pieces, then
+sum the pieces to achieve an accurate approximation.
+For example, to find the area of the region bounded by the graph of
+the function f(x) = √x between x = 0 and x = 1, one can cross
+the interval in five steps (0, 1/5, 2/5, ..., 1), then fill a rectangle
+using the right end height of each piece (thus
+√0, √1/5, √2/5, ...,  √1) and sum their areas to get an
+approximation of 
+Approximations to integral of √x
+from 0 to 1, with 5 yellow right
+endpoint partitions and 12 green left
+endpoint partitions
+which is larger than the exact value. Alternatively, when replacing these subintervals by ones with the left
+end height of each piece, the approximation one gets is too low: with twelve such subintervals the
+approximated area is only 0.6203. However, when the number of pieces increase to infinity, it will reach a
+limit which is the exact value of the area sought (in this case, 2/3). One writes
+which means 2/3 is the result of a weighted sum of function values, √x, multiplied by the infinitesimal
+step widths, denoted by dx, on the interval [0, 1].
+Darboux sums
+Darboux upper sums of the function y = x2
+Formal definitions 
+Darboux lower sums of the function y = x2
+Page 6
+There are many ways of formally defining an integral, not all of which
+are equivalent. The differences exist mostly to deal with differing
+special cases which may not be integrable under other definitions, but
+also occasionally for pedagogical reasons. The most commonly used
+definitions are Riemann integrals and Lebesgue integrals.
+Riemann integral
+The Riemann integral is defined in terms of [URL: "https://en.wikipedia.org/wiki/Riemann_sum"] Riemann sums of
+functions with respect to tagged partitions of an interval.[20] A tagged
+partition of a [URL: "https://en.wikipedia.org/wiki/Closed_interval"] closed interval [a, b] on the real line is a finite sequence Riemann sums converging
+This partitions the interval [a, b] into n sub-intervals [xi−1, xi] indexed by i, each of which is "tagged"
+with a distinguished point ti ∈ [xi−1, xi]. A Riemann sum of a function f with respect to such a tagged
+partition is defined as
+thus each term of the sum is the area of a rectangle with height equal to the function value at the
+distinguished point of the given sub-interval, and width the same as the width of sub-interval,
+Δi = xi−xi−1. The mesh of such a tagged partition is the width of the largest sub-interval formed by the
+partition, maxi=1...n Δi. The Riemann integral of a function f over the interval [a, b] is equal to S if:[21]
+For all
+, 
+there exists such that, for any tagged partition with mesh less than
+When the chosen tags give the maximum (respectively, minimum) value of each interval, the Riemann sum
+becomes an upper (respectively, lower) [URL: "https://en.wikipedia.org/wiki/Darboux_integral"] Darboux sum, suggesting the close connection between the
+Riemann integral and the [URL: "https://en.wikipedia.org/wiki/Darboux_integral"] Darboux integral.
+Lebesgue integral
+It is often of interest, both in theory and applications, to be able to pass to the limit under the integral. For
+instance, a sequence of functions can frequently be constructed that approximate, in a suitable sense, the
+solution to a problem. Then the integral of the solution function should be the limit of the integrals of the
+approximations. However, many functions that can be obtained as limits are not Riemann-integrable, and so
+such limit theorems do not hold with the Riemann integral. Therefore, it is of great importance to have a
+definition of the integral that allows a wider class of functions to be integrated.[22]
+Page 7
+Such an integral is the Lebesgue integral, that exploits the
+following fact to enlarge the class of integrable functions: if the
+values of a function are rearranged over the domain, the
+ integral of a function should remain the same. Thus Henri
+Lebesgue introduced the integral bearing his name, explaining
+this integral thus in a letter to [URL: "https://en.wikipedia.org/wiki/Paul_Montel"] Paul Montel:[23]
+I have to pay a certain sum, which I have
+collected in my pocket. I take the bills and coins
+out of my pocket and give them to the creditor in
+the order I find them until I have reached the total
+sum. This is the Riemann integral. But I can
+proceed differently. After I have taken all the
+money out of my pocket I order the bills and
+coins according to identical values and then I pay
+the several heaps one after the other to the
+creditor. This is my integral. 
+Riemann–Darboux's integration (top) and
+Lebesgue integration (bottom)
+As Folland puts it, "To compute the Riemann integral of f,  one partitions the domain [a, b] into
+subintervals", while in the Lebesgue integral, "one is in effect partitioning the range of f ".[24] The
+ definition of the Lebesgue integral thus begins with a measure, μ. In the simplest case, the Lebesgue
+measure μ(A) of an interval A = [a, b] is its width, b − a, so that the Lebesgue integral agrees with the
+(proper) Riemann integral when both exist.[25] In more complicated cases, the sets being measured can be
+highly fragmented, with no continuity and no resemblance to intervals.
+Using the "partitioning the range of f " philosophy, the integral of a non-negative function f : R → R
+should be the sum over t of the areas between a thin horizontal strip between y = t and y = t + dt. This
+area is just μ{ x : f(x) > t} dt. Let f∗(t) = μ{ x : f(x) > t }. The Lebesgue integral of f is then defined
+by
+where the integral on the right is an ordinary improper Riemann integral (f∗ is a strictly decreasing positive
+function, and therefore has a [URL: "https://en.wikipedia.org/wiki/Well-defined"] well-defined improper Riemann integral).[26] For a suitable class of functions
+(the [URL: "https://en.wikipedia.org/wiki/Measurable_function"] measurable functions) this defines the Lebesgue integral.
+A general measurable function f is Lebesgue-integrable if the sum of the absolute values of the areas of the
+regions between the graph of f and the x-axis is finite:[27]
+In that case, the integral is, as in the Riemannian case, the difference between the area above the x-axis and
+the area below the x-axis:[28]
+where
+Page 8
+Other integrals
+Although the Riemann and Lebesgue integrals are the most widely used definitions of the integral, a
+number of others exist, including:
+The [URL: "https://en.wikipedia.org/wiki/Darboux_integral"] Darboux integral, which is defined by Darboux sums (restricted Riemann sums) yet is
+equivalent to the [URL: "https://en.wikipedia.org/wiki/Riemann_integral"] Riemann integral - a function is Darboux-integrable if and only if it is
+Riemann-integrable. Darboux integrals have the advantage of being easier to define than
+Riemann integrals.
+The [URL: "https://en.wikipedia.org/wiki/Riemann%E2%80%93Stieltjes_integral"] Riemann–Stieltjes integral, an extension of the Riemann integral which integrates with
+respect to a function as opposed to a variable.
+The [URL: "https://en.wikipedia.org/wiki/Lebesgue%E2%80%93Stieltjes_integration"] Lebesgue–Stieltjes integral, further developed by [URL: "https://en.wikipedia.org/wiki/Johann_Radon"] Johann Radon, which generalizes
+both the Riemann–Stieltjes and Lebesgue integrals.
+ The Daniell integral, which subsumes the Lebesgue integral and Lebesgue–Stieltjes
+integral without depending on measures.
+The [URL: "https://en.wikipedia.org/wiki/Haar_integral"] Haar integral, used for integration on locally compact topological groups, introduced by
+ Alfréd Haar in 1933.
+The [URL: "https://en.wikipedia.org/wiki/Henstock%E2%80%93Kurzweil_integral"] Henstock–Kurzweil integral, variously defined by [URL: "https://en.wikipedia.org/wiki/Arnaud_Denjoy"] Arnaud Denjoy, [URL: "https://en.wikipedia.org/wiki/Oskar_Perron"] Oskar Perron, and
+ (most elegantly, as the gauge integral) Jaroslav Kurzweil, and developed by Ralph
+Henstock.
+The [URL: "https://en.wikipedia.org/wiki/It%C3%B4_integral"] Itô integral and [URL: "https://en.wikipedia.org/wiki/Stratonovich_integral"] Stratonovich integral, which define integration with respect to
+ semimartingales such as [URL: "https://en.wikipedia.org/wiki/Wiener_process"] Brownian motion.
+The [URL: "https://en.wikipedia.org/wiki/Young_integral"] Young integral, which is a kind of Riemann–Stieltjes integral with respect to certain
+functions of [URL: "https://en.wikipedia.org/wiki/Bounded_variation"] unbounded variation.
+The [URL: "https://en.wikipedia.org/wiki/Rough_path"] rough path integral, which is defined for functions equipped with some additional "rough
+path" structure and generalizes stochastic integration against both [URL: "https://en.wikipedia.org/wiki/Semimartingale"] semimartingales and
+processes such as the [URL: "https://en.wikipedia.org/wiki/Fractional_Brownian_motion"] fractional Brownian motion.
+The [URL: "https://en.wikipedia.org/wiki/Choquet_integral"] Choquet integral, a subadditive or superadditive integral created by the French
+mathematician Gustave Choquet in 1953.
+Properties
+Linearity
+The collection of Riemann-integrable functions on a closed interval [a, b] forms a [URL: "https://en.wikipedia.org/wiki/Vector_space"] vector space under the
+operations of [URL: "https://en.wikipedia.org/wiki/Pointwise_addition"] pointwise addition and multiplication by a scalar, and the operation of integration
+is a [URL: "https://en.wikipedia.org/wiki/Linear_functional"] linear functional on this vector space. Thus, the collection of integrable functions is closed under taking
+ linear combinations, and the integral of a linear combination is the linear combination of the integrals:[29]
+Page 9
+Similarly, the set of real-valued Lebesgue-integrable functions on a given [URL: "https://en.wikipedia.org/wiki/Measure_(mathematics)"] measure space E with measure μ
+is closed under taking linear combinations and hence form a vector space, and the Lebesgue integral
+is a linear functional on this vector space, so that:[28]
+More generally, consider the vector space of all [URL: "https://en.wikipedia.org/wiki/Measurable_function"] measurable functions on a measure space (E,μ), taking
+values in a [URL: "https://en.wikipedia.org/wiki/Locally_compact_space"] locally compact [URL: "https://en.wikipedia.org/wiki/Complete_metric_space"] complete [URL: "https://en.wikipedia.org/wiki/Topological_vector_space"] topological vector space V over a locally compact [URL: "https://en.wikipedia.org/wiki/Topological_ring"] topological field
+K, f : E → V. Then one may define an abstract integration map assigning to each function f an element of
+V or the symbol ∞,
+that is compatible with linear combinations.[30] In this situation, the linearity holds for the subspace of
+functions whose integral is an element of V (i.e. "finite"). The most important special cases arise when K is
+R, C, or a finite extension of the field Qp of [URL: "https://en.wikipedia.org/wiki/P-adic_number"] p-adic numbers, and V is a finite-dimensional vector space
+over K, and when K = C and V is a complex [URL: "https://en.wikipedia.org/wiki/Hilbert_space"] Hilbert space.
+Linearity, together with some natural continuity properties and normalization for a certain class of "simple"
+functions, may be used to give an alternative definition of the integral. This is the approach of [URL: "https://en.wikipedia.org/wiki/Daniell_integral"] Daniell for
+the case of real-valued functions on a set X, generalized by [URL: "https://en.wikipedia.org/wiki/Nicolas_Bourbaki"] Nicolas Bourbaki to functions with values in a
+locally compact topological vector space. See Hildebrandt 1953 for an axiomatic characterization of the
+integral.
+Inequalities
+A number of general inequalities hold for Riemann-integrable [URL: "https://en.wikipedia.org/wiki/Function_(mathematics)"] functions defined on a [URL: "https://en.wikipedia.org/wiki/Closed_set"] closed and [URL: "https://en.wikipedia.org/wiki/Bounded_set"] bounded
+ interval [a, b] and can be generalized to other notions of integral (Lebesgue and Daniell).
+Upper and lower bounds. An integrable function f on [a, b], is necessarily [URL: "https://en.wikipedia.org/wiki/Bounded_function"] bounded on that
+interval. Thus there are [URL: "https://en.wikipedia.org/wiki/Real_number"] real numbers m and M so that m ≤ f (x) ≤ M for all x in [a, b]. Since
+the lower and upper sums of f over [a, b] are therefore bounded by, respectively, m(b − a)
+and M(b − a), it follows that
+Inequalities between functions.[31] If f(x) ≤ g(x) for each x in [a, b] then each of the upper
+and lower sums of f is bounded above by the upper and lower sums, respectively, of g. Thus
+Page 10
+This is a generalization of the above inequalities, as M(b − a) is the integral of the constant
+function with value M over [a, b]. In addition, if the inequality between functions is strict,
+then the inequality between integrals is also strict. That is, if f(x) < g(x) for each x in [a, b],
+then
+Subintervals. If [c, d] is a subinterval of [a, b] and f (x) is non-negative for all x, then
+Products and absolute values of functions. If f and g are two functions, then we may
+consider their [URL: "https://en.wikipedia.org/wiki/Pointwise_product"] pointwise products and powers, and [URL: "https://en.wikipedia.org/wiki/Absolute_value"] absolute values:
+If f is Riemann-integrable on [a, b] then the same is true for |f|, and
+Moreover, if f and g are both Riemann-integrable then fg is also Riemann-integrable, and
+ This inequality, known as the Cauchy–Schwarz inequality, plays a prominent role in Hilbert
+ space theory, where the left hand side is interpreted as the inner product of two square-
+integrable functions f and g on the interval [a, b].
+Hölder's inequality.[32] Suppose that p and q are two real numbers, 1 ≤ p, q ≤ ∞ with
+1
+p 
++ 1
+q 
+= 1, and f and g are two Riemann-integrable functions. Then the functions |f|p and
+|g|q are also integrable and the following [URL: "https://en.wikipedia.org/wiki/H%C3%B6lder%27s_inequality"] Hölder's inequality holds:
+For p = q = 2, Hölder's inequality becomes the Cauchy–Schwarz inequality.
+Minkowski inequality.[32] Suppose that p ≥ 1 is a real number and f and g are Riemann-
+integrable functions. Then | f |p, | g |p and | f + g |p are also Riemann-integrable and the
+following [URL: "https://en.wikipedia.org/wiki/Minkowski_inequality"] Minkowski inequality holds:
+An analogue of this inequality for Lebesgue integral is used in construction of [URL: "https://en.wikipedia.org/wiki/Lp_space"] Lp spaces.
+Conventions
+In this section, f is a [URL: "https://en.wikipedia.org/wiki/Real_number"] real-valued Riemann-integrable function. The integral
+Page 11
+over an interval [a, b] is defined if a < b. This means that the upper and lower sums of the function f are
+evaluated on a partition a = x0 ≤ x1 ≤ . . . ≤ xn = b whose values xi are increasing. Geometrically, this
+signifies that integration takes place "left to right", evaluating f within intervals [x i , x i +1] where an
+interval with a higher index lies to the right of one with a lower index. The values a and b, the end-points
+of the interval, are called the [URL: "https://en.wikipedia.org/wiki/Limits_of_integration"] limits of integration of f. Integrals can also be defined if a > b:[17]
+With a = b, this implies:
+The first convention is necessary in consideration of taking integrals over subintervals of [a, b]; the second
+says that an integral taken over a degenerate interval, or a point, should be zero. One reason for the first
+convention is that the integrability of f on an interval [a, b] implies that f is integrable on any subinterval
+[c, d], but in particular integrals have the property that if c is any [URL: "https://en.wikipedia.org/wiki/Element_(mathematics)"] element of [a, b], then:[29]
+With the first convention, the resulting relation
+is then well-defined for any cyclic permutation of a, b, and c.
+Fundamental theorem of calculus
+The fundamental theorem of calculus is the statement that [URL: "https://en.wikipedia.org/wiki/Derivative"] differentiation and integration are inverse
+operations: if a [URL: "https://en.wikipedia.org/wiki/Continuous_function"] continuous function is first integrated and then differentiated, the original function is
+retrieved.[33] An important consequence, sometimes called the second fundamental theorem of calculus,
+allows one to compute integrals by using an antiderivative of the function to be integrated.[34]
+First theorem
+Let f be a continuous real-valued function defined on a [URL: "https://en.wikipedia.org/wiki/Interval_(mathematics)#Terminology"] closed interval [a, b]. Let F be the function
+defined, for all x in [a, b], by
+Page 12
+Then, F is continuous on [a, b], differentiable on the open interval (a, b), and
+for all x in (a, b).
+Second theorem
+Let f be a real-valued function defined on a [URL: "https://en.wikipedia.org/wiki/Closed_interval"] closed interval [a, b] that admits an [URL: "https://en.wikipedia.org/wiki/Antiderivative"] antiderivative F on [a, b].
+That is, f and F are functions such that for all x in [a, b],
+If f is integrable on [a, b] then
+Extensions
+Improper integrals
+A "proper" Riemann integral assumes the integrand is defined and
+finite on a closed and bounded interval, bracketed by the limits of
+integration. An improper integral occurs when one or more of these
+conditions is not satisfied. In some cases such integrals may be
+ defined by considering the limit of a sequence of proper Riemann
+integrals on progressively larger intervals.
+If the interval is unbounded, for instance at its upper end, then the
+improper integral is the limit as that endpoint goes to infinity:[35]
+If the integrand is only defined or finite on a half-open interval, for
+instance (a, b], then again a limit may provide a finite result:[36] 
+The [URL: "https://en.wikipedia.org/wiki/Improper_integral"] improper integral 
+has
+unbounded intervals for both domain
+and range.
+That is, the improper integral is the [URL: "https://en.wikipedia.org/wiki/Limit_(mathematics)"] limit of proper integrals as one endpoint of the interval of integration
+approaches either a specified [URL: "https://en.wikipedia.org/wiki/Real_number"] real number, or ∞, or −∞. In more complicated cases, limits are required at
+both endpoints, or at interior points.
+Multiple integration
+Page 13
+Just as the definite integral of a positive function of one variable
+represents the [URL: "https://en.wikipedia.org/wiki/Area"] area of the region between the graph of the function
+and the x-axis, the double integral of a positive function of two
+variables represents the [URL: "https://en.wikipedia.org/wiki/Volume"] volume of the region between the surface
+defined by the function and the plane that contains its domain.[37]
+For example, a function in two dimensions depends on two real
+variables, x and y, and the integral of a function f over the rectangle
+R given as the [URL: "https://en.wikipedia.org/wiki/Cartesian_product"] Cartesian product of two intervals
+can be written
+where the differential dA indicates that integration is taken with
+ respect to area. This double integral can be defined using Riemann
+sums, and represents the (signed) volume under the graph of
+z = f(x,y) over the domain R.[38] Under suitable conditions (e.g., if
+f is continuous), [URL: "https://en.wikipedia.org/wiki/Fubini%27s_theorem"] Fubini's theorem states that this integral can be
+expressed as an equivalent iterated integral[39] 
+Double integral computes volume
+under a surface
+This reduces the problem of computing a double integral to computing one-dimensional integrals. Because
+of this, another notation for the integral over R uses a double integral sign:[38]
+Integration over more general domains is possible. The integral of a function f, with respect to volume, over
+an n-dimensional region D of  is denoted by symbols such as:
+Line integrals and surface integrals
+The concept of an integral can be extended to more general
+domains of integration, such as curved lines and surfaces inside
+higher-dimensional spaces. Such integrals are known as line
+integrals and surface integrals respectively. These have important
+applications in physics, as when dealing with [URL: "https://en.wikipedia.org/wiki/Vector_field"] vector fields.
+A line integral (sometimes called a path integral) is an integral
+where the [URL: "https://en.wikipedia.org/wiki/Function_(mathematics)"] function to be integrated is evaluated along a curve.[40]
+Various different line integrals are in use. In the case of a closed
+curve it is also called a contour integral.
+The function to be integrated may be a [URL: "https://en.wikipedia.org/wiki/Scalar_field"] scalar field or a [URL: "https://en.wikipedia.org/wiki/Vector_field"] vector field.
+The value of the line integral is the sum of values of the field at all
+points on the curve, weighted by some scalar function on the curve 
+A line integral sums together
+elements along a curve.
+Page 14
+(commonly [URL: "https://en.wikipedia.org/wiki/Arc_length"] arc length or, for a vector field, the [URL: "https://en.wikipedia.org/wiki/Inner_product_space"] scalar product of the vector field with a [URL: "https://en.wikipedia.org/wiki/Differential_(infinitesimal)"] differential vector in
+the curve).[41] This weighting distinguishes the line integral from simpler integrals defined on intervals.
+Many simple formulas in physics have natural continuous analogs in terms of line integrals; for example,
+the fact that [URL: "https://en.wikipedia.org/wiki/Mechanical_work"] work is equal to force, F, multiplied by displacement, s, may be expressed (in terms of vector
+quantities) as:[42]
+For an object moving along a path C in a [URL: "https://en.wikipedia.org/wiki/Vector_field"] vector field F such as an [URL: "https://en.wikipedia.org/wiki/Electric_field"] electric field or [URL: "https://en.wikipedia.org/wiki/Gravitational_field"] gravitational field, the
+total work done by the field on the object is obtained by summing up the differential work done in moving
+from s to s + ds. This gives the line integral[43]
+A surface integral generalizes double integrals to integration over a
+ surface (which may be a curved set in space); it can be thought of
+as the [URL: "https://en.wikipedia.org/wiki/Multiple_integral"] double integral analog of the [URL: "https://en.wikipedia.org/wiki/Line_integral"] line integral. The function to be
+integrated may be a [URL: "https://en.wikipedia.org/wiki/Scalar_field"] scalar field or a [URL: "https://en.wikipedia.org/wiki/Vector_field"] vector field. The value of the
+surface integral is the sum of the field at all points on the surface.
+This can be achieved by splitting the surface into surface elements,
+which provide the partitioning for Riemann sums.[44]
+For an example of applications of surface integrals, consider a
+vector field v on a surface S; that is, for each point x in S, v(x) is a
+vector. Imagine that a fluid flows through S,  such that v(x)
+determines the velocity of the fluid at x. The [URL: "https://en.wikipedia.org/wiki/Flux"] flux is defined as the 
+The definition of surface integral
+relies on splitting the surface into
+small surface elements.
+quantity of fluid flowing through S in unit amount of time. To find
+the flux, one need to take the [URL: "https://en.wikipedia.org/wiki/Dot_product"] dot product of v with the unit [URL: "https://en.wikipedia.org/wiki/Normal_(geometry)"] surface normal to S at each point, which will
+give a scalar field, which is integrated over the surface:[45]
+The fluid flux in this example may be from a physical fluid such as water or air, or from electrical or
+magnetic flux. Thus surface integrals have applications in physics, particularly with the [URL: "https://en.wikipedia.org/wiki/Classical_theory"] classical theory of
+electromagnetism.
+Contour integrals
+In [URL: "https://en.wikipedia.org/wiki/Complex_analysis"] complex analysis, the integrand is a [URL: "https://en.wikipedia.org/wiki/Complex-valued_function"] complex-valued function of a complex variable z instead of a real
+function of a real variable x. When a complex function is integrated along a curve in the complex plane,
+the integral is denoted as follows
+This is known as a [URL: "https://en.wikipedia.org/wiki/Contour_integral"] contour integral.
+Integrals of differential forms
+Page 15
+A [URL: "https://en.wikipedia.org/wiki/Differential_form"] differential form is a mathematical concept in the fields of [URL: "https://en.wikipedia.org/wiki/Multivariable_calculus"] multivariable calculus, [URL: "https://en.wikipedia.org/wiki/Differential_topology"] differential topology,
+and tensors. Differential forms are organized by degree. For example, a one-form is a weighted sum of the
+differentials of the coordinates, such as:
+where E, F, G are functions in three dimensions. A differential one-form can be integrated over an oriented
+path, and the resulting integral is just another way of writing a line integral. Here the basic differentials dx,
+dy, dz measure infinitesimal oriented lengths parallel to the three coordinate axes.
+A differential two-form is a sum of the form
+Here the basic two-forms  measure oriented areas parallel to the coordinate
+two-planes. The symbol denotes the [URL: "https://en.wikipedia.org/wiki/Wedge_product"] wedge product, which is similar to the [URL: "https://en.wikipedia.org/wiki/Cross_product"] cross product in the sense
+that the wedge product of two forms representing oriented lengths represents an oriented area. A two-form
+can be integrated over an oriented surface, and the resulting integral is equivalent to the surface integral
+giving the flux of  .
+Unlike the cross product, and the three-dimensional vector calculus, the wedge product and the calculus of
+differential forms makes sense in arbitrary dimension and on more general manifolds (curves, surfaces, and
+their higher-dimensional analogs). The [URL: "https://en.wikipedia.org/wiki/Exterior_derivative"] exterior derivative plays the role of the [URL: "https://en.wikipedia.org/wiki/Gradient"] gradient and [URL: "https://en.wikipedia.org/wiki/Curl_(mathematics)"] curl of vector
+calculus, and [URL: "https://en.wikipedia.org/wiki/Stokes%27_theorem"] Stokes' theorem simultaneously generalizes the three theorems of vector calculus: the
+ divergence theorem, [URL: "https://en.wikipedia.org/wiki/Green%27s_theorem"] Green's theorem, and the [URL: "https://en.wikipedia.org/wiki/Kelvin-Stokes_theorem"] Kelvin-Stokes theorem.
+Summations
+The discrete equivalent of integration is summation. Summations and integrals can be put on the same
+foundations using the theory of [URL: "https://en.wikipedia.org/wiki/Lebesgue_integral"] Lebesgue integrals or [URL: "https://en.wikipedia.org/wiki/Time-scale_calculus"] time-scale calculus.
+Functional integrals
+An integration that is performed not over a variable (or, in physics, over a space or time dimension), but
+over a [URL: "https://en.wikipedia.org/wiki/Function_space"] space of functions, is referred to as a functional integral.
+Applications
+Integrals are used extensively in many areas. For example, in [URL: "https://en.wikipedia.org/wiki/Probability_theory"] probability theory, integrals are used to
+determine the probability of some [URL: "https://en.wikipedia.org/wiki/Random_variable"] random variable falling within a certain range.[46] Moreover, the integral
+under an entire [URL: "https://en.wikipedia.org/wiki/Probability_density_function"] probability density function must equal 1, which provides a test of whether a [URL: "https://en.wikipedia.org/wiki/Function_(mathematics)"] function with
+no negative values could be a density function or not.[47]
+Integrals can be used for computing the [URL: "https://en.wikipedia.org/wiki/Area"] area of a two-dimensional region that has a curved boundary, as
+well as [URL: "https://en.wikipedia.org/wiki/Volume_integral"] computing the volume of a three-dimensional object that has a curved boundary. The area of a two-
+dimensional region can be calculated using the aforementioned definite integral.[48] The volume of a three-
+dimensional object such as a disc or washer can be computed by [URL: "https://en.wikipedia.org/wiki/Disc_integration"] disc integration using the equation for the
+volume of a cylinder, , where is the radius. In the case of a simple disc created by rotating a curve
+about the x-axis, the radius is given by f(x), and its height is the differential dx. Using an integral with
+bounds a and b, the volume of the disc is equal to:[49]
+Page 16
+Integrals are also used in physics, in areas like [URL: "https://en.wikipedia.org/wiki/Kinematics"] kinematics to find quantities like displacement, time, and
+velocity. For example, in rectilinear motion, the displacement of an object over the time interval is
+given by:
+where is the velocity expressed as a function of time.[50] The work done by a force
+function of position) from an initial position to a final position is:[51] 
+(given as a
+Integrals are also used in thermodynamics, where [URL: "https://en.wikipedia.org/wiki/Thermodynamic_integration"] thermodynamic integration is used to calculate the
+difference in free energy between two given states.
+Computation
+Analytical
+ The most basic technique for computing definite integrals of one real variable is based on the fundamental
+theorem of calculus. Let f(x) be the function of x to be integrated over a given interval [a, b]. Then, find
+an antiderivative of f; that is, a function F such that F′ = f on the interval. Provided the integrand and
+integral have no [URL: "https://en.wikipedia.org/wiki/Mathematical_singularity"] singularities on the path of integration, by the fundamental theorem of calculus,
+Sometimes it is necessary to use one of the many techniques that have been developed to evaluate integrals.
+Most of these techniques rewrite one integral as a different one which is hopefully more tractable.
+ Techniques include integration by substitution, integration by parts, integration by trigonometric
+substitution, and [URL: "https://en.wikipedia.org/wiki/Partial_fractions_in_integration"] integration by partial fractions.
+Alternative methods exist to compute more complex integrals. Many [URL: "https://en.wikipedia.org/wiki/Nonelementary_integral"] nonelementary integrals can be
+expanded in a [URL: "https://en.wikipedia.org/wiki/Taylor_series"] Taylor series and integrated term by term. Occasionally, the resulting infinite series can be
+summed analytically. The method of convolution using [URL: "https://en.wikipedia.org/wiki/Meijer_G-function"] Meijer G-functions can also be used, assuming that
+the integrand can be written as a product of Meijer G-functions. There are also many less common ways of
+calculating definite integrals; for instance, [URL: "https://en.wikipedia.org/wiki/Parseval%27s_identity"] Parseval's identity can be used to transform an integral over a
+rectangular region into an infinite sum. Occasionally, an integral can be evaluated by a trick; for an example
+of this, see [URL: "https://en.wikipedia.org/wiki/Gaussian_integral"] Gaussian integral.
+ Computations of volumes of solids of revolution can usually be done with disk integration or shell
+integration.
+Specific results which have been worked out by various techniques are collected in the [URL: "https://en.wikipedia.org/wiki/Lists_of_integrals"] list of integrals.
+[URL: "https://en.wikipedia.org/wiki/Displacement_(vector)"]
+Page 17
+Symbolic
+Many problems in mathematics, physics, and engineering involve integration where an explicit formula for
+the integral is desired. Extensive [URL: "https://en.wikipedia.org/wiki/Lists_of_integrals"] tables of integrals have been compiled and published over the years for
+this purpose. With the spread of computers, many professionals, educators, and students have turned to
+ computer algebra systems that are specifically designed to perform difficult or tedious tasks, including
+integration. Symbolic integration has been one of the motivations for the development of the first such
+systems, like [URL: "https://en.wikipedia.org/wiki/Macsyma"] Macsyma and Maple.
+A major mathematical difficulty in symbolic integration is that in many cases, a relatively simple function
+does not have integrals that can be expressed in [URL: "https://en.wikipedia.org/wiki/Closed-form_expression"] closed form involving only [URL: "https://en.wikipedia.org/wiki/Elementary_function"] elementary functions, include
+ rational and [URL: "https://en.wikipedia.org/wiki/Exponential_function"] exponential functions, logarithm, [URL: "https://en.wikipedia.org/wiki/Trigonometric_functions"] trigonometric functions and [URL: "https://en.wikipedia.org/wiki/Inverse_trigonometric_functions"] inverse trigonometric functions,
+and the operations of multiplication and composition. The [URL: "https://en.wikipedia.org/wiki/Risch_algorithm"] Risch algorithm provides a general criterion to
+determine whether the antiderivative of an elementary function is elementary, and to compute it if it is.
+However, functions with closed expressions of antiderivatives are the exception, and consequently,
+computerized algebra systems have no hope of being able to find an antiderivative for a randomly
+constructed elementary function. On the positive side, if the 'building blocks' for antiderivatives are fixed in
+advance, it may still be possible to decide whether the antiderivative of a given function can be expressed
+using these blocks and operations of multiplication and composition, and to find the symbolic answer
+ whenever it exists. The Risch algorithm, implemented in Mathematica, Maple and other computer algebra
+systems, does just that for functions and antiderivatives built from rational functions, radicals, logarithm,
+and exponential functions.
+Some special integrands occur often enough to warrant special study. In particular, it may be useful to have,
+in the set of antiderivatives, the [URL: "https://en.wikipedia.org/wiki/Special_functions"] special functions (like the [URL: "https://en.wikipedia.org/wiki/Legendre_function"] Legendre functions, the [URL: "https://en.wikipedia.org/wiki/Hypergeometric_function"] hypergeometric function,
+the [URL: "https://en.wikipedia.org/wiki/Gamma_function"] gamma function, the [URL: "https://en.wikipedia.org/wiki/Incomplete_gamma_function"] incomplete gamma function and so on). Extending the Risch's algorithm to include
+such functions is possible but challenging and has been an active research subject.
+ More recently a new approach has emerged, using D-finite functions, which are the solutions of linear
+differential equations with polynomial coefficients. Most of the elementary and special functions are D-
+finite, and the integral of a D-finite function is also a D-finite function. This provides an algorithm to
+express the antiderivative of a D-finite function as the solution of a differential equation. This theory also
+allows one to compute the definite integral of a D-function as the sum of a series given by the first
+coefficients, and provides an algorithm to compute any coefficient.
+Numerical
+ Definite integrals may be approximated using several methods of numerical integration. The rectangle
+method relies on dividing the region under the function into a series of rectangles corresponding to function
+values and multiplies by the step width to find the sum. A better approach, the [URL: "https://en.wikipedia.org/wiki/Trapezoidal_rule"] trapezoidal rule, replaces the
+rectangles used in a Riemann sum with trapezoids. The trapezoidal rule weights the first and last values by
+one half, then multiplies by the step width to obtain a better approximation.[52] The idea behind the
+trapezoidal rule, that more accurate approximations to the function yield better approximations to the
+integral, can be carried further: [URL: "https://en.wikipedia.org/wiki/Simpson%27s_rule"] Simpson's rule approximates the integrand by a piecewise quadratic
+function.[53]
+Riemann sums, the trapezoidal rule, and Simpson's rule are examples of a family of quadrature rules called
+the [URL: "https://en.wikipedia.org/wiki/Newton%E2%80%93Cotes_formulas"] Newton–Cotes formulas. The degree n Newton–Cotes quadrature rule approximates the polynomial on
+each subinterval by a degree n polynomial. This polynomial is chosen to interpolate the values of the
+function on the interval.[54] Higher degree Newton–Cotes approximations can be more accurate, but they
+ require more function evaluations, and they can suffer from numerical inaccuracy due to Runge's
+Page 18
+ phenomenon. One solution to this problem is Clenshaw–Curtis
+quadrature, in which the integrand is approximated by expanding it
+in terms of [URL: "https://en.wikipedia.org/wiki/Chebyshev_polynomials"] Chebyshev polynomials.
+ Romberg's method halves the step widths incrementally, giving
+trapezoid approximations denoted by T(h0), T(h1), and so on,
+where hk+1 is half of hk. For each new step size, only half the new
+function values need to be computed; the others carry over from the
+previous size. It then [URL: "https://en.wikipedia.org/wiki/Interpolation"] interpolate a polynomial through the
+approximations, and extrapolate to T(0).  [URL: "https://en.wikipedia.org/wiki/Gaussian_quadrature"] Gaussian quadrature
+ evaluates the function at the roots of a set of orthogonal
+polynomials.[55] An n-point Gaussian method is exact for
+polynomials of degree up to 2n − 1.
+The computation of higher-dimensional integrals (for example,
+volume calculations) makes important use of such alternatives as
+ Monte Carlo integration.[56] 
+Numerical quadrature methods:
+rectangle method, trapezoidal rule,
+Romberg's method, Gaussian
+quadrature
+Mechanical
+The area of an arbitrary two-dimensional shape can be determined using a measuring instrument called
+planimeter. The volume of irregular objects can be measured with precision by the fluid [URL: "https://en.wikipedia.org/wiki/Displacement_(fluid)"] displaced as the
+object is submerged.
+Geometrical
+Area can sometimes be found via [URL: "https://en.wikipedia.org/wiki/Geometrical"] geometrical [URL: "https://en.wikipedia.org/wiki/Compass-and-straightedge_construction"] compass-and-straightedge constructions of an equivalent
+square.
+Integration by differentiation
+Kempf, Jackson and Morales demonstrated mathematical relations that allow an integral to be calculated by
+means of differentiation. Their calculus involves the [URL: "https://en.wikipedia.org/wiki/Dirac_delta_function"] Dirac delta function and the [URL: "https://en.wikipedia.org/wiki/Partial_derivative"] partial derivative operator
+ .  This can also be applied to functional integrals, allowing them to be computed by functional
+differentiation.[57]
+Examples
+Using the Fundamental Theorem of Calculus
+The [URL: "https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus"] fundamental theorem of calculus allows for straightforward calculations of basic functions.
+Page 19
+See also
+ Integral equation
+ Integral symbol
+Notes
+a. Integral calculus is a very well established mathematical discipline for which there are many
+sources. See Apostol 1967 and Anton, Bivens & Davis 2016, for example.
+References
+1. Burton 2011, p. 117.
+2. Heath 2002.
+3. Katz 2009, pp. 201–204.
+4. Katz 2009, pp. 284–285.
+5. Katz 2009, pp. 305–306.
+6. Katz 2009, pp. 516–517.
+7. Struik 1986, pp. 215–216.
+8. Katz 2009, pp. 536–537.
+9. Burton 2011, pp. 385–386.
+10. Stillwell 1989, p. 131.
+11. Katz 2009, pp. 628–629.
+12. Katz 2009, p. 785.
+13. Burton 2011, p. 414; Leibniz 1899, p. 154.
+14. Cajori 1929, pp. 249–250; Fourier 1822, §231.
+15. Cajori 1929, p. 246.
+16. Cajori 1929, p. 182.
+17. Apostol 1967, p. 74.
+18. Anton, Bivens & Davis 2016, p. 259.
+19. Apostol 1967, p. 69.
+20. Anton, Bivens & Davis 2016, pp. 286−287.
+21. Krantz 1991, p. 173.
+22. Rudin 1987, p. 5.
+23. Siegmund-Schultze 2008, p. 796.
+24. Folland 1999, pp. 57–58.
+25. Bourbaki 2004, p. IV.43.
+26. Lieb & Loss 2001, p. 14.
+27. Folland 1999, p. 53.
+28. Rudin 1987, p. 25.
+29. Apostol 1967, p. 80.
+30. Rudin 1987, p. 54.
+31. Apostol 1967, p. 81.
+32. Rudin 1987, p. 63.
+33. Apostol 1967, p. 202.
+Page 20
+34. Apostol 1967, p. 205.
+35. Apostol 1967, p. 416.
+36. Apostol 1967, p. 418.
+37. Anton, Bivens & Davis 2016, p. 895.
+38. Anton, Bivens & Davis 2016, p. 896.
+39. Anton, Bivens & Davis 2016, p. 897.
+40. Anton, Bivens & Davis 2016, p. 980.
+41. Anton, Bivens & Davis 2016, p. 981.
+42. Anton, Bivens & Davis 2016, p. 697.
+43. Anton, Bivens & Davis 2016, p. 991.
+44. Anton, Bivens & Davis 2016, p. 1014.
+45. Anton, Bivens & Davis 2016, p. 1024.
+46. Feller 1966, p. 1.
+47. Feller 1966, p. 3.
+48. Apostol 1967, pp. 88–89.
+49. Apostol 1967, pp. 111–114.
+50. Anton, Bivens & Davis 2016, p. 306.
+51. Apostol 1967, p. 116.
+52. Dahlquist & Björck 2008, pp. 519–520.
+53. Dahlquist & Björck 2008, pp. 522–524.
+54. Kahaner, Moler & Nash 1989, p. 144.
+55. Kahaner, Moler & Nash 1989, p. 147.
+56. Kahaner, Moler & Nash 1989, pp. 139–140.
+57. Kempf 2015.
+Bibliography
+Anton, Howard; Bivens, Irl C.; Davis, Stephen (2016), Calculus: Early Transcendentals
+(11th ed.), John Wiley & Sons, ISBN 978-[URL: "https://en.wikipedia.org/wiki/Special:BookSources/978-1-118-88382-2"] 1-118-88382-2
+ Apostol, Tom M. (1967), Calculus, Vol. 1: One-Variable Calculus with an Introduction to
+ Linear Algebra (https://archive.org/details/calculus01apos) (2nd ed.), Wiley, ISBN 978-0-
+471-00005-1
+ Bourbaki, Nicolas (2004), Integration I, Springer-Verlag, ISBN 3-[URL: "https://en.wikipedia.org/wiki/Special:BookSources/3-540-41129-1"] 540-41129-1. In particular
+chapters III and IV.
+Burton, David M. (2011), The History of Mathematics: An Introduction (7th ed.), McGraw-Hill,
+ISBN 978-[URL: "https://en.wikipedia.org/wiki/Special:BookSources/978-0-07-338315-6"] 0-07-338315-6
+ Cajori, Florian (1929), A History Of Mathematical Notations Volume II (https://archive.org/det
+ ails/historyofmathema00cajo_0/page/247), Open Court Publishing, ISBN 978-0-486-67766-
+8
+ Dahlquist, Germund; Björck, Åke (2008), "Chapter 5: Numerical Integration" (https://web.arch
+ive.org/web/20070615185623/http://www.mai.liu.se/~akbjo/NMbook.html), Numerical
+ Methods in Scientific Computing, Volume I, Philadelphia: SIAM, archived from the original (h
+ttp://www.mai.liu.se/~akbjo/NMbook.html) on 2007-06-15
+ Feller, William (1966), An introduction to probability theory and its applications (https://archiv
+e.org/details/introductiontopr02fell_0), John Wiley & Sons
+Page 21
+Folland, Gerald B. (1999), Real Analysis: Modern Techniques and Their Applications
+(2nd ed.), John Wiley & Sons, ISBN 0-[URL: "https://en.wikipedia.org/wiki/Special:BookSources/0-471-31716-0"] 471-31716-0
+ Fourier, Jean Baptiste Joseph (1822), Théorie analytique de la chaleur (https://books.googl
+e.com/books?id=TDQJAAAAIAAJ), Chez Firmin Didot, père et fils, p. §231
+ Available in translation as Fourier, Joseph (1878), The analytical theory of heat (https://archi
+ve.org/details/analyticaltheory00fourrich), Freeman, Alexander (trans.), Cambridge
+University Press, pp. 200–201
+ Heath, T. L., ed. (2002), The Works of Archimedes (https://archive.org/details/worksofarchim
+ede029517mbp), Dover, ISBN 978-[URL: "https://en.wikipedia.org/wiki/Special:BookSources/978-0-486-42084-4"] 0-486-42084-4
+(Originally published by Cambridge University Press, 1897, based on J. L. Heiberg's Greek
+version.)
+ Hildebrandt, T. H. (1953), "Integration in abstract spaces" (http://projecteuclid.org/euclid.bam
+s/1183517761), [URL: "https://en.wikipedia.org/wiki/Bulletin_of_the_American_Mathematical_Society"] Bulletin of the American Mathematical Society, 59 (2): 111–139,
+ doi:10.1090/S0002-9904-1953-09694-X (https://doi.org/10.1090%2FS0002-9904-1953-096
+94-X), ISSN 0273-[URL: "https://www.worldcat.org/issn/0273-0979"] 0979 (https://www.worldcat.org/issn/0273-0979)
+Kahaner, David; [URL: "https://en.wikipedia.org/wiki/Cleve_Moler"] Moler, Cleve; Nash, Stephen (1989), "Chapter 5: Numerical Quadrature",
+ Numerical Methods and Software (https://archive.org/details/numericalmethods0000kaha),
+Prentice Hall, ISBN 978-[URL: "https://en.wikipedia.org/wiki/Special:BookSources/978-0-13-627258-8"] 0-13-627258-8
+ Kallio, Bruce Victor (1966), A History of the Definite Integral (https://web.archive.org/web/201
+40305054035/https://circle.ubc.ca/bitstream/id/132341/UBC_1966_A8%20K3.pdf) (PDF)
+ (M.A. thesis), University of British Columbia, archived from the original (https://circle.ubc.ca/b
+itstream/id/132341/UBC_1966_A8%20K3.pdf) (PDF) on 2014-03-05, retrieved 2014-02-28
+Katz, Victor J. (2009), A History of Mathematics: An Introduction, [URL: "https://en.wikipedia.org/wiki/Addison-Wesley"] Addison-Wesley,
+ISBN 978-[URL: "https://en.wikipedia.org/wiki/Special:BookSources/978-0-321-38700-4"] 0-321-38700-4
+Kempf, Achim; Jackson, David M.; Morales, Alejandro H. (2015), "How to (path-)integrate by
+differentiating", Journal of Physics: Conference Series, [[]], 626: 012015
+ Krantz, Steven G. (1991), Real Analysis and Foundations (https://books.google.com/books?i
+d=OI-0vu1rb7MC&pg=PA173), CRC Press, ISBN 0-[URL: "https://en.wikipedia.org/wiki/Special:BookSources/0-8493-7156-2"] 8493-7156-2
+ Leibniz, Gottfried Wilhelm (1899), Gerhardt, Karl Immanuel (ed.), Der Briefwechsel von
+Gottfried Wilhelm Leibniz mit Mathematikern. Erster Band (http://name.umdl.umich.edu/AAX
+2762.0001.001), Berlin: Mayer & Müller
+ Lieb, Elliott; [URL: "https://en.wikipedia.org/wiki/Michael_Loss"] Loss, Michael (2001), Analysis, [URL: "https://en.wikipedia.org/wiki/Graduate_Studies_in_Mathematics"] Graduate Studies in Mathematics, vol. 14
+(2nd ed.), [URL: "https://en.wikipedia.org/wiki/American_Mathematical_Society"] American Mathematical Society, ISBN 978-[URL: "https://en.wikipedia.org/wiki/Special:BookSources/978-0821827833"] 0821827833
+ Rudin, Walter (1987), "Chapter 1: Abstract Integration", Real and Complex Analysis
+(International ed.), McGraw-Hill, ISBN 978-[URL: "https://en.wikipedia.org/wiki/Special:BookSources/978-0-07-100276-9"] 0-07-100276-9
+ Saks, Stanisław (1964), Theory of the integral (http://matwbn.icm.edu.pl/kstresc.php?tom=7&
+wyd=10&jez=) (English translation by L. C. Young. With two additional notes by Stefan
+Banach. Second revised ed.), New York: Dover
+Siegmund-Schultze, Reinhard (2008), "Henri Lebesgue", in Timothy Gowers; June Barrow-
+Green; Imre Leader (eds.), Princeton Companion to Mathematics, Princeton University
+Press, ISBN 978-[URL: "https://en.wikipedia.org/wiki/Special:BookSources/978-0-691-11880-2"] 0-691-11880-2.
+ Stillwell, John (1989), Mathematics and Its History (https://archive.org/details/mathematicsits
+hi0000stil), Springer, ISBN 0-[URL: "https://en.wikipedia.org/wiki/Special:BookSources/0-387-96981-0"] 387-96981-0
+Stoer, Josef; Bulirsch, Roland (2002), "Topics in Integration", Introduction to Numerical
+Analysis (3rd ed.), Springer, ISBN 978-[URL: "https://en.wikipedia.org/wiki/Special:BookSources/978-0-387-95452-3"] 0-387-95452-3.
+ Struik, Dirk Jan, ed. (1986), A Source Book in Mathematics, 1200-1800, Princeton, New
+Jersey: Princeton University Press, ISBN 0-[URL: "https://en.wikipedia.org/wiki/Special:BookSources/0-691-08404-1"] 691-08404-1
+W3C (2006), [URL: "http://www.w3.org/TR/arabic-math/"] Arabic mathematical notation (http://www.w3.org/TR/arabic-math/)
+Page 22
+External links
+ "Integral" (https://www.encyclopediaofmath.org/index.php?title=Integral), Encyclopedia of
+Mathematics, [URL: "https://en.wikipedia.org/wiki/European_Mathematical_Society"] EMS Press, 2001 [1994]
+ Online Integral Calculator (http://www.wolframalpha.com/calculators/integral-calculator/),
+[URL: "https://en.wikipedia.org/wiki/Wolfram_Alpha"] Wolfram Alpha.
+Online books
+ Keisler, H. Jerome, Elementary Calculus: An Approach Using Infinitesimals (http://www.mat
+h.wisc.edu/~keisler/calc.html), University of Wisconsin
+ Stroyan, K. D., A Brief Introduction to Infinitesimal Calculus (https://web.archive.org/web/200
+50911104158/http://www.math.uiowa.edu/~stroyan/InfsmlCalculus/InfsmlCalc.htm),
+University of Iowa
+ Mauch, Sean, Sean's Applied Math Book (https://web.archive.org/web/20060415161115/htt
+p://www.its.caltech.edu/~sean/book/unabridged.html), CIT, an online textbook that includes a
+complete introduction to calculus
+Crowell, Benjamin, [URL: "http://www.lightandmatter.com/calc/"] Calculus (http://www.lightandmatter.com/calc/), Fullerton College, an
+online textbook
+Garrett, Paul, [URL: "http://www.math.umn.edu/~garrett/calculus/"] Notes on First-Year Calculus (http://www.math.umn.edu/~garrett/calculus/)
+Hussain, Faraz, [URL: "http://www.understandingcalculus.com/"] Understanding Calculus (http://www.understandingcalculus.com), an online
+textbook
+ Johnson, William Woolsey (1909) Elementary Treatise on Integral Calculus (http://babel.hat
+hitrust.org/cgi/pt?id=miun.aam9447.0001.001;view=1up;seq=9), link from HathiTrust.
+Kowalk, W. P., [URL: "http://einstein.informatik.uni-oldenburg.de/20910.html"] Integration Theory (http://einstein.informatik.uni-oldenburg.de/20910.html),
+University of Oldenburg. A new concept to an old problem. Online textbook
+ Sloughter, Dan, Difference Equations to Differential Equations (http://math.furman.edu/~dcs/
+book), an introduction to calculus
+ Numerical Methods of Integration (http://numericalmethods.eng.usf.edu/topics/integration.ht
+ml) at Holistic Numerical Methods Institute
+ P. S. Wang, Evaluation of Definite Integrals by Symbolic Manipulation (https://web.archive.or
+g/web/20060917023831/http://www.lcs.mit.edu/publications/specpub.php?id=660) (1972) —
+a cookbook of definite integral techniques
+Retrieved from "[URL: "https://en.wikipedia.org/w/index.php?title=Integral&oldid=1093717409"] https://en.wikipedia.org/w/index.php?title=Integral&oldid=1093717409"
+This page was last edited on 18 June 2022, at 11:54 (UTC).
+Text is available under the [URL: "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"] Creative Commons Attribution-ShareAlike License 3.0;additional terms may apply. By
+using this site, you agree to the [URL: "https://foundation.wikimedia.org/wiki/Terms_of_Use"] Terms of Use and [URL: "https://foundation.wikimedia.org/wiki/Privacy_policy"] Privacy Policy. Wikipedia® is a registered trademark of the
+ Wikimedia Foundation, Inc., a non-profit organization.

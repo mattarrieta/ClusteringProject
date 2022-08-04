@@ -1,0 +1,82 @@
+Page 1
+Vince Kaminski
+Enterprise – Wide Risk Management. 
+Discussion notes for RAC/Research off-site
+January 16, 2000
+This document reviews the definition and implementation guidelines of Enterprise -
+Wide Risk Management (EWRM) for Enron Corp. EWRM is a relatively poorly defined
+concept, often abused by some consulting and software firms, which has different
+meaning (if any) to different people. Our objective is to define this term from the point
+of view of Enron Corp. and to discuss the implementation plan. The document is divided
+into three sections:
+I.  EWRM: Definition
+II.  Enron Corp. EWRM System: Outline of different modules
+III.  Implementation requirements
+I.  EWRM: DEFINITION.
+Enterprise – Wide Risk Management is currently a buzzword repeated constantly at
+different conferences and financial press articles, but the truth is that neither any
+company has truly implemented such a system so far, nor any vendor has offered a
+satisfactory off-the-shelf software solution. In the most general sense, EWRM is defined
+as a comprehensive management of different financial exposures that a company faces,
+using a set of specialized information technology solutions. This definition is quite fuzzy,
+but the trend is unmistakable, and the stock analysts, credit rating agencies, lenders, and
+ultimately customers will penalize any company that does not move in the general
+direction of defining and implementing such a system. 
+At a lower level of abstraction, EWRM often means:
+a. Extension of Value-at-Risk to the entire trading portfolio. This is the
+least ambitious definition, applicable to companies that failed to
+develop a risk management system for a trading operation with
+sufficient coverage, and struggle to catch up.
+b. Integration of Value-at-Risk with credit risk management. Enron has
+accomplished this objective in our original design of the VaR system
+for the trading operation, but most financial institutions have only
+recently begun to address this issue.
+c. Creation of a Data Warehouse. A data warehouse is defined as a
+centralized database that allows aggregating information about
+different company exposures. Although this is a sound concept in
+itself (one cannot measure risk without data), an operational definition
+of such a database is not a trivial matter. In a company that is evolving
+very rapidly, creation of an inflexible, centralized database quickly
+1
+Page 2
+becomes an obstacle to risk management. An over-centralized
+database becomes very costly to maintain and is never in sync with the
+company’s business. 
+d. Integrated management of a company’s different financial exposures.
+Traditionally, companies had a tendency to pigeonhole different
+exposures into homogeneous classes (market risk, credit risk,
+sovereign risk, operational risk, legal risk), ignoring in the process
+interactions between different types of risks and estimation of
+economic capital required to support different exposures (individually
+and jointly). In most cases, separate teams manage different exposures,
+without sufficient communication flows between them.
+Our definition of Enron’s EWRM will be provided by stating what it is, and, often more
+importantly, what it is not:
+a. EWRM System is a process for systematic identification, measurement,
+reporting and monitoring of different exposures Enron faces, across all
+its operations and business units. As the list of potential exposures is
+practically infinite; judgment and understanding of the company’s
+business will be required to define the list of risk factors that will be
+captured within the system.
+b. A family of related IT modules capturing, aggregating and measuring
+the exposures will support the system. This means that our objective is
+not to develop a holistic model of the entire company that will serve as a
+platform for risk measurement. Such models require too much time to
+build and in the case of a company as dynamic as Enron would be
+always obsolete.
+c. The objective of each module will be measurement of the order of
+magnitude of an exposure to a specific risk. This means that we are not
+tying to reproduce in each case for the precision of the VaR system for
+every case. Rather, we are interested in capturing the directional impact
+of a change in external conditions on Enron. This approach is dictated
+by the imprecise and incomplete nature of the data: the information is
+dispersed through the organization and, in many cases, it resides in so
+many different locations (spreadsheets, data bases, hard copy
+documents. Accessing and aggregating all the information is difficult,
+without incurring a prohibitive cost. Of course, judgment should be used
+in each case and the degree of precision of each module will depend on
+the circumstances. 
+d. Each module should use to the maximum extent possible the
+information about the magnitude of different risks available from
+different units of Enron. The expertise contained in different units of
+2

@@ -1,0 +1,361 @@
+Page 1
+Differential calculus
+In mathematics, differential calculus is a subfield of [URL: "https://en.wikipedia.org/wiki/Calculus"] calculus that
+studies the rates at which quantities change.[1] It is one of the two
+traditional divisions of calculus, the other being [URL: "https://en.wikipedia.org/wiki/Integral_calculus"] integral calculus—the
+study of the area beneath a curve.[2]
+The primary objects of study in differential calculus are the [URL: "https://en.wikipedia.org/wiki/Derivative"] derivative
+of a function, related notions such as the differential, and their
+applications. The derivative of a function at a chosen input value
+describes the rate of change of the function near that input value. The
+process of finding a derivative is called differentiation. Geometrically,
+ the derivative at a point is the slope of the tangent line to the graph of
+the function at that point, provided that the derivative exists and is
+defined at that point. For a [URL: "https://en.wikipedia.org/wiki/Real-valued_function"] real-valued function of a single real
+variable, the derivative of a function at a point generally determines the
+best [URL: "https://en.wikipedia.org/wiki/Linear_approximation"] linear approximation to the function at that point. 
+The graph of a function, drawn in
+black, and a tangent line to that
+function, drawn in red. The slope
+of the tangent line equals the
+derivative of the function at the
+marked point.
+Differential calculus and integral calculus are connected by the [URL: "https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus"] fundamental theorem of calculus, which
+states that differentiation is the reverse process to integration.
+Differentiation has applications in nearly all quantitative disciplines. In physics, the derivative of the
+ displacement of a moving body with respect to time is the [URL: "https://en.wikipedia.org/wiki/Velocity"] velocity of the body, and the derivative of the
+velocity with respect to time is acceleration. The derivative of the [URL: "https://en.wikipedia.org/wiki/Momentum"] momentum of a body with respect to [URL: "https://en.wikipedia.org/wiki/Time"] time
+equals the force applied to the body; rearranging this derivative statement leads to the famous F = ma
+equation associated with [URL: "https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion#Newton's_second_law"] Newton's second law of motion. The [URL: "https://en.wikipedia.org/wiki/Reaction_rate"] reaction rate of a [URL: "https://en.wikipedia.org/wiki/Chemical_reaction"] chemical reaction is a
+derivative. In [URL: "https://en.wikipedia.org/wiki/Operations_research"] operations research, derivatives determine the most efficient ways to transport materials and
+design factories.
+Derivatives are frequently used to find the [URL: "https://en.wikipedia.org/wiki/Maxima_and_minima"] maxima and minima of a function. Equations involving
+derivatives are called [URL: "https://en.wikipedia.org/wiki/Differential_equations"] differential equations and are fundamental in describing [URL: "https://en.wikipedia.org/wiki/Natural_phenomenon"] natural phenomena.
+Derivatives and their generalizations appear in many fields of mathematics, such as [URL: "https://en.wikipedia.org/wiki/Complex_analysis"] complex analysis,
+ functional analysis, [URL: "https://en.wikipedia.org/wiki/Differential_geometry"] differential geometry, [URL: "https://en.wikipedia.org/wiki/Measure_theory"] measure theory, and [URL: "https://en.wikipedia.org/wiki/Abstract_algebra"] abstract algebra.
+Contents
+Derivative
+History of differentiation
+Applications of derivatives
+Optimization
+Calculus of variations
+Physics
+Differential equations
+Mean value theorem
+Taylor polynomials and Taylor series
+Implicit function theorem
+[URL: "https://en.wikipedia.org/wiki/File:Tangent_to_a_curve.svg"]
+Page 2
+See also
+Notes
+References
+Derivative
+The derivative of  at the point is the slope of the
+tangent to  .[3] In order to gain an intuition for this, one
+must first be familiar with finding the slope of a linear equation,
+written in the form  . The slope of an equation is its
+steepness. It can be found by picking any two points and dividing
+the change in  by the change in  ,  meaning that
+. For, the graph of  has a
+slope of , as shown in the diagram below: 
+The graph of an arbitrary function
+. The orange line is tangent
+to  , meaning at that exact
+point, the slope of the curve and the
+straight line are the same.
+The graph of
+For brevity,  is often written as  ,
+with being the Greek letter Delta, meaning 'change
+in'. The slope of a linear equation is constant, meaning
+that the steepness is the same everywhere. However,
+many graphs, for instance ,  vary in their
+steepness. This means that you can no longer pick any
+two arbitrary points and compute the slope. Instead, 
+The derivative at different points of a differentiable
+function
+the slope of the graph can be computed by considering
+the tangent line—a line that 'just touches' a particular point.[Note 1] The slope of a curve at a particular point
+is equal to the slope of the tangent to that point. For example, has a slope of at  because the
+slope of the tangent line to that point is equal to :
+Page 3
+The graph of  , with a straight
+line that is tangent to  . The
+slope of the tangent line is equal to
+. (Note that the axes of the graph do
+not use a 1:1 scale.)
+The derivative of a [URL: "https://en.wikipedia.org/wiki/Function_(mathematics)"] function is then simply the slope of this tangent line.[Note 2] Even though the tangent
+line only touches a single point at the point of tangency, it can be approximated by a line that goes through
+two points. This is known as a [URL: "https://en.wikipedia.org/wiki/Secant_line"] secant line. If the two points that the secant line goes through are close
+together, then the secant line closely resembles the tangent line, and, as a result, its slope is also very similar:
+The dotted line goes through the
+points and , which both
+lie on the curve . Because
+these two points are fairly close
+together, the dotted line and tangent
+line have a similar slope. As the two
+points become closer together, the
+error produced by the secant line
+becomes vanishingly small.
+The advantage of using a secant line is that its slope can be calculated directly. Consider the two points on
+the graph and  , where is a small number. As before, the slope of the
+line passing through these two points can be calculated with the formula . This gives
+As gets closer and closer to , the slope of the secant line gets closer and closer to the slope of the
+tangent line. This is formally written as
+Page 4
+The above expression means 'as  gets closer and closer to 0, the slope of the secant line gets closer and
+closer to a certain value'. The value that is being approached is the derivative of  ; this can be written as
+. If
+For example, 
+derivative of 
+, the derivative can also be written as  , with representing an infinitesimal change.
+represents an infinitesimal change in x.[Note 3] In summary, if
+is 
+,  then the
+provided such a limit exists.[4][Note 4] We have thus succeeded in properly defining the derivative of a
+function, meaning that the 'slope of the tangent line' now has a precise mathematical meaning.
+Differentiating a function using the above definition is known as differentiation from first principles. Here is
+a proof, using differentiation from first principles, that the derivative of  is  :
+As approaches ,  approaches . Therefore, . This proof can be generalised to
+show that  if  and are constants. This is known as the [URL: "https://en.wikipedia.org/wiki/Power_rule"] power rule. For example, 
+.  However, many other functions cannot be differentiated as easily as
+ polynomial functions, meaning that sometimes further techniques are needed to find the derivative of a
+function. These techniques include the [URL: "https://en.wikipedia.org/wiki/Chain_rule"] chain rule, [URL: "https://en.wikipedia.org/wiki/Product_rule"] product rule, and [URL: "https://en.wikipedia.org/wiki/Quotient_rule"] quotient rule. Other functions cannot be
+differentiated at all, giving rise to the concept of differentiability.
+A closely related concept to the derivative of a function is its differential. When x and y are real variables,
+the derivative of f at x is the slope of the tangent line to the graph of f at x. Because the source and target of
+f are one-dimensional, the derivative of f is a real number. If x and y are vectors, then the best linear
+approximation to the graph of f depends on how f changes in several directions at once. Taking the best
+linear approximation in a single direction determines a [URL: "https://en.wikipedia.org/wiki/Partial_derivative"] partial derivative, which is usually denoted 
+∂y
+∂x. The
+linearization of f in all directions at once is called the [URL: "https://en.wikipedia.org/wiki/Total_derivative"] total derivative.
+History of differentiation
+The concept of a derivative in the sense of a [URL: "https://en.wikipedia.org/wiki/Tangent_line"] tangent line is a very old one, familiar to [URL: "https://en.wikipedia.org/wiki/Ancient_Greece"] Greek geometers
+such as [URL: "https://en.wikipedia.org/wiki/Euclid"] Euclid (c. 300 BC), [URL: "https://en.wikipedia.org/wiki/Archimedes"] Archimedes (c. 287–212 BC) and [URL: "https://en.wikipedia.org/wiki/Apollonius_of_Perga"] Apollonius of Perga (c. 262–190 BC).[5]
+ Archimedes also made use of indivisibles, although these were primarily used to study areas and volumes
+rather than derivatives and tangents (see [URL: "https://en.wikipedia.org/wiki/The_Method_of_Mechanical_Theorems"] The Method of Mechanical Theorems).
+Page 5
+The use of infinitesimals to study rates of change can be found in [URL: "https://en.wikipedia.org/wiki/Indian_mathematics"] Indian mathematics, perhaps as early as
+500 AD, when the astronomer and mathematician [URL: "https://en.wikipedia.org/wiki/Aryabhata"] Aryabhata (476–550) used infinitesimals to study the
+ orbit of the Moon.[6] The use of infinitesimals to compute rates of change was developed significantly by
+ Bhāskara II (1114–1185); indeed, it has been argued[7] that many of the key notions of differential calculus
+can be found in his work, such as "[URL: "https://en.wikipedia.org/wiki/Rolle%27s_theorem"] Rolle's theorem".[8]
+The mathematician, [URL: "https://en.wikipedia.org/wiki/Sharaf_al-D%C4%ABn_al-T%C5%ABs%C4%AB"] Sharaf al-Dīn al-Tūsī (1135–1213), in his Treatise on Equations, established conditions
+for some cubic equations to have solutions, by finding the maxima of appropriate cubic polynomials. He
+obtained, for example, that the maximum (for positive x) of the cubic ax2 – x3 occurs when x = 2a / 3,
+and concluded therefrom that the equation ax2 = x3 + c has exactly one positive solution when
+c = 4a3 / 27, and two positive solutions whenever 0 < c < 4a3 / 27.[9] The historian of science,
+ Roshdi Rashed,[10] has argued that al-Tūsī must have used the derivative of the cubic to obtain this result.
+Rashed's conclusion has been contested by other scholars, however, who argue that he could have obtained
+the result by other methods which do not require the derivative of the function to be known.[11]
+ The modern development of calculus is usually credited to Isaac Newton (1643–1727) and Gottfried
+Wilhelm Leibniz (1646–1716), who provided independent[12] and unified approaches to differentiation and
+ derivatives. The key insight, however, that earned them this credit, was the fundamental theorem of
+calculus relating differentiation and integration: this rendered obsolete most previous methods for
+ computing areas and volumes,[13] which had not been significantly extended since the time of Ibn al-
+Haytham (Alhazen).[14] For their ideas on derivatives, both Newton and Leibniz built on significant earlier
+ work by mathematicians such as Pierre de Fermat (1607-1665),  Isaac Barrow (1630–1677),  René
+Descartes (1596–1650), [URL: "https://en.wikipedia.org/wiki/Christiaan_Huygens"] Christiaan Huygens (1629–1695), [URL: "https://en.wikipedia.org/wiki/Blaise_Pascal"] Blaise Pascal (1623–1662) and [URL: "https://en.wikipedia.org/wiki/John_Wallis"] John Wallis
+(1616–1703). Regarding Fermat's influence, Newton once wrote in a letter that "I had the hint of this
+method [of fluxions] from Fermat's way of drawing tangents, and by applying it to abstract equations,
+directly and invertedly, I made it general."[15] Isaac Barrow is generally given credit for the early
+development of the derivative.[16] Nevertheless, Newton and Leibniz remain key figures in the history of
+differentiation, not least because Newton was the first to apply differentiation to [URL: "https://en.wikipedia.org/wiki/Theoretical_physics"] theoretical physics, while
+Leibniz systematically developed much of the notation still used today.
+Since the 17th century many mathematicians have contributed to the theory of differentiation. In the 19th
+ century, calculus was put on a much more rigorous footing by mathematicians such as Augustin Louis
+Cauchy (1789–1857), [URL: "https://en.wikipedia.org/wiki/Bernhard_Riemann"] Bernhard Riemann (1826–1866), and [URL: "https://en.wikipedia.org/wiki/Karl_Weierstrass"] Karl Weierstrass (1815–1897). It was also
+during this period that the differentiation was generalized to [URL: "https://en.wikipedia.org/wiki/Euclidean_space"] Euclidean space and the [URL: "https://en.wikipedia.org/wiki/Complex_plane"] complex plane.
+Applications of derivatives
+Optimization
+If f is a [URL: "https://en.wikipedia.org/wiki/Differentiable_function"] differentiable function on ℝ (or an [URL: "https://en.wikipedia.org/wiki/Open_interval"] open interval) and x is a [URL: "https://en.wikipedia.org/wiki/Local_maximum"] local maximum or a [URL: "https://en.wikipedia.org/wiki/Local_minimum"] local minimum of
+f, then the derivative of f at x is zero. Points where f'(x) = 0 are called [URL: "https://en.wikipedia.org/wiki/Critical_point_(mathematics)"] critical points or [URL: "https://en.wikipedia.org/wiki/Stationary_point"] stationary points
+(and the value of f at x is called a [URL: "https://en.wikipedia.org/wiki/Critical_value"] critical value). If f is not assumed to be everywhere differentiable, then
+points at which it fails to be differentiable are also designated critical points.
+[URL: "https://en.wikipedia.org/wiki/Second_derivative"] If f is twice differentiable, then conversely, a critical point x of f can be analysed by considering the second
+derivative of f at x :
+if it is positive, x is a local minimum;
+if it is negative, x is a local maximum;
+Page 6
+if it is zero, then x could be a local minimum, a local maximum, or neither. (For example,
+f(x) = x3 has a critical point at x = 0, but it has neither a maximum nor a minimum there,
+whereas f(x) = ± x4 has a critical point at x = 0 and a minimum and a maximum,
+respectively, there.)
+This is called the [URL: "https://en.wikipedia.org/wiki/Second_derivative_test"] second derivative test. An alternative approach, called the [URL: "https://en.wikipedia.org/wiki/First_derivative_test"] first derivative test, involves
+considering the sign of the f' on each side of the critical point.
+Taking derivatives and solving for critical points is therefore often a simple way to find local minima or
+maxima, which can be useful in optimization. By the [URL: "https://en.wikipedia.org/wiki/Extreme_value_theorem"] extreme value theorem, a continuous function on a
+ closed interval must attain its minimum and maximum values at least once. If the function is differentiable,
+the minima and maxima can only occur at critical points or endpoints.
+This also has applications in graph sketching: once the local minima and maxima of a differentiable
+function have been found, a rough plot of the graph can be obtained from the observation that it will be
+either increasing or decreasing between critical points.
+In [URL: "https://en.wikipedia.org/wiki/Higher_dimension"] higher dimensions, a critical point of a [URL: "https://en.wikipedia.org/wiki/Scalar_(mathematics)"] scalar valued function is a point at which the [URL: "https://en.wikipedia.org/wiki/Gradient"] gradient is zero. The
+ second derivative test can still be used to analyse critical points by considering the [URL: "https://en.wikipedia.org/wiki/Eigenvalue"] eigenvalues of the
+ Hessian matrix of second partial derivatives of the function at the critical point. If all of the eigenvalues are
+positive, then the point is a local minimum; if all are negative, it is a local maximum. If there are some
+positive and some negative eigenvalues, then the critical point is called a "[URL: "https://en.wikipedia.org/wiki/Saddle_point"] saddle point", and if none of
+these cases hold (i.e., some of the eigenvalues are zero) then the test is considered to be inconclusive.
+Calculus of variations
+One example of an optimization problem is: Find the shortest curve between two points on a surface,
+assuming that the curve must also lie on the surface. If the surface is a plane, then the shortest curve is a
+line. But if the surface is, for example, egg-shaped, then the [URL: "https://en.wikipedia.org/wiki/Shortest_path_problem"] shortest path is not immediately clear. These
+paths are called geodesics, and one of the most fundamental problems in the calculus of variations is finding
+geodesics. Another example is: Find the smallest area surface filling in a closed curve in space. This surface
+is called a [URL: "https://en.wikipedia.org/wiki/Minimal_surface"] minimal surface and it, too, can be found using the calculus of variations.
+Physics
+Calculus is of vital importance in physics: many physical processes are described by equations involving
+derivatives, called [URL: "https://en.wikipedia.org/wiki/Differential_equation"] differential equations. Physics is particularly concerned with the way quantities change
+and develop over time, and the concept of the "[URL: "https://en.wikipedia.org/wiki/Time_derivative"] time derivative" — the rate of change over time — is
+essential for the precise definition of several important concepts. In particular, the time derivatives of an
+object's position are significant in [URL: "https://en.wikipedia.org/wiki/Newtonian_physics"] Newtonian physics:
+ velocity is the derivative (with respect to time) of an object's displacement (distance from the
+original position)
+ acceleration is the derivative (with respect to time) of an object's velocity, that is, the second
+derivative (with respect to time) of an object's position.
+For example, if an object's position on a line is given by
+then the object's velocity is
+Page 7
+and the object's acceleration is
+which is constant.
+Differential equations
+ A differential equation is a relation between a collection of functions and their derivatives. An ordinary
+differential equation is a differential equation that relates functions of one variable to their derivatives with
+respect to that variable. A [URL: "https://en.wikipedia.org/wiki/Partial_differential_equation"] partial differential equation is a differential equation that relates functions of more
+than one variable to their [URL: "https://en.wikipedia.org/wiki/Partial_derivative"] partial derivatives. Differential equations arise naturally in the physical sciences,
+in mathematical modelling, and within mathematics itself. For example, [URL: "https://en.wikipedia.org/wiki/Newton%27s_second_law"] Newton's second law, which
+describes the relationship between acceleration and force, can be stated as the ordinary differential equation
+The [URL: "https://en.wikipedia.org/wiki/Heat_equation"] heat equation in one space variable, which describes how heat diffuses through a straight rod, is the
+partial differential equation
+Here u(x,t) is the temperature of the rod at position x and time t and α is a constant that depends on how
+fast heat diffuses through the rod.(2-3¡)-(3+2)
+Mean value theorem
+The mean value theorem gives a relationship between values of the
+derivative and values of the original function. If f(x) is a real-
+valued function and a and b are numbers with a < b, then the
+mean value theorem says that under mild hypotheses, the slope
+between the two points (a, f(a)) and (b, f(b)) is equal to the
+slope of the tangent line to f at some point c between a and b. In
+other words, 
+The mean value theorem: For each
+In practice, what the mean value theorem does is control a function differentiable function
+in terms of its derivative. For instance, suppose that f has derivative with there is a  with
+equal to zero at each point. This means that its tangent line is
+horizontal at every point, so the function should also be horizontal. 
+.
+The mean value theorem proves that this must be true: The slope
+between any two points on the graph of f must equal the slope of one of the tangent lines of f. All of those
+slopes are zero, so any line from one point on the graph to another point will also have slope zero. But that
+Page 8
+says that the function does not move up or down, so it must be a horizontal line. More complicated
+conditions on the derivative lead to less precise but still highly useful information about the original
+function.
+Taylor polynomials and Taylor series
+The derivative gives the best possible linear approximation of a function at a given point, but this can be
+very different from the original function. One way of improving the approximation is to take a quadratic
+approximation. That is to say, the linearization of a real-valued function f(x) at the point x0 is a linear
+ polynomial a + b(x − x0), and it may be possible to get a better approximation by considering a quadratic
+polynomial a + b(x − x0)  + c(x − x0)2.  Still better might be a cubic polynomial
+a + b(x − x0) + c(x − x0)2 + d(x − x0)3, and this idea can be extended to arbitrarily high degree
+polynomials. For each one of these polynomials, there should be a best possible choice of coefficients a, b,
+c, and d that makes the approximation as good as possible.
+In the [URL: "https://en.wikipedia.org/wiki/Neighbourhood_(mathematics)"] neighbourhood of x0, for a the best possible choice is always f(x0), and for b the best possible
+choice is always f'(x0). For c, d, and higher-degree coefficients, these coefficients are determined by
+higher derivatives of f. c should always be 
+f''(x0)
+2 , and d should always be 
+f'''(x0)
+3! . Using these coefficients
+gives the Taylor polynomial of f. The Taylor polynomial of degree d is the polynomial of degree d which
+ best approximates f, and its coefficients can be found by a generalization of the above formulas. Taylor's
+theorem gives a precise bound on how good the approximation is. If f is a polynomial of degree less than or
+equal to d, then the Taylor polynomial of degree d equals f.
+The limit of the Taylor polynomials is an infinite series called the Taylor series. The Taylor series is
+frequently a very good approximation to the original function. Functions which are equal to their Taylor
+series are called [URL: "https://en.wikipedia.org/wiki/Analytic_function"] analytic functions. It is impossible for functions with discontinuities or sharp corners to be
+analytic; moreover, there exist [URL: "https://en.wikipedia.org/wiki/Smooth_function"] smooth functions which are also not analytic.
+Implicit function theorem
+Some natural geometric shapes, such as circles, cannot be drawn as the [URL: "https://en.wikipedia.org/wiki/Graph_of_a_function"] graph of a function. For instance, if
+f(x, y) = x2 + y2 − 1, then the circle is the set of all pairs (x, y) such that f(x, y) = 0. This set is called
+the zero set of f, and is not the same as the graph of f, which is a paraboloid. The implicit function theorem
+converts relations such as f(x, y) = 0 into functions. It states that if f is [URL: "https://en.wikipedia.org/wiki/Continuously_differentiable"] continuously differentiable, then
+around most points, the zero set of f looks like graphs of functions pasted together. The points where this is
+not true are determined by a condition on the derivative of f. The circle, for instance, can be pasted together
+from the graphs of the two functions ± √1 - x2. In a neighborhood of every point on the circle except
+(−1, 0) and (1, 0), one of these two functions has a graph that looks like the circle. (These two functions
+also happen to meet (−1, 0) and (1, 0), but this is not guaranteed by the implicit function theorem.)
+The implicit function theorem is closely related to the [URL: "https://en.wikipedia.org/wiki/Inverse_function_theorem"] inverse function theorem, which states when a
+function looks like graphs of [URL: "https://en.wikipedia.org/wiki/Invertible_function"] invertible functions pasted together.
+See also
+ Differential (calculus)
+ Differential geometry
+Page 9
+ Numerical differentiation
+ Techniques for differentiation
+ List of calculus topics
+ Notation for differentiation
+Notes
+1. This is not a formal definition of what a tangent line is. The definition of the derivative as a
+limit makes rigorous this notion of tangent line.
+2. Though the technical definition of a [URL: "https://en.wikipedia.org/wiki/Function_(mathematics)"] function is somewhat involved, it is easy to appreciate
+what a function is intuitively. A function takes an input and produces an output. For example,
+the function takes a number and squares it. The number that the function
+performs an operation on is often represented using the letter , but there is no difference
+whatsoever between writing and writing . For this reason, is often
+described as a 'dummy variable'.
+3. The term infinitesimal can sometimes lead people to wrongly believe there is an 'infinitely
+small number'—i.e. a positive real number that is smaller than any other real number. In fact,
+the term 'infinitesimal' is merely a shorthand for a limiting process. For this reason, is not
+a fraction—rather, it is the limit of a fraction.
+4. Not every function can be differentiated, hence why the definition only applies if 'the limit
+exists'. For more information, see the Wikipedia article on differentiability.
+References
+1. [URL: "https://www.merriam-webster.com/dictionary/differential+calculus"] "Definition of DIFFERENTIAL CALCULUS" (https://www.merriam-webster.com/dictionary/dif
+ferential+calculus). www.merriam-webster.com. Retrieved 2020-05-09.
+2. [URL: "https://www.merriam-webster.com/dictionary/integral+calculus"] "Definition of INTEGRAL CALCULUS" (https://www.merriam-webster.com/dictionary/integral
++calculus). www.merriam-webster.com. Retrieved 2020-05-09.
+3. Alcock, Lara (2016). How to Think about Analysis. New York: Oxford University Press.
+pp. 155–157. ISBN 978-[URL: "https://en.wikipedia.org/wiki/Special:BookSources/978-0-19-872353-0"] 0-19-872353-0.
+4. Weisstein, Eric W. [URL: "https://mathworld.wolfram.com/Derivative.html"] "Derivative" (https://mathworld.wolfram.com/Derivative.html).
+mathworld.wolfram.com. Retrieved 2020-07-26.
+5. [URL: "https://en.wikipedia.org/wiki/Edmund_F._Robertson"] See Euclid's Elements, The Archimedes Palimpsest and O'Connor, John J.; Robertson,
+ Edmund F., "Apollonius of Perga" (https://mathshistory.st-andrews.ac.uk/Biographies/Apollo
+nius.html), [URL: "https://en.wikipedia.org/wiki/MacTutor_History_of_Mathematics_archive"] MacTutor History of Mathematics archive, [URL: "https://en.wikipedia.org/wiki/University_of_St_Andrews"] University of St Andrews
+6. [URL: "https://mathshistory.st-andrews.ac.uk/Biographies/Aryabhata_I.html"] O'Connor, John J.; Robertson, Edmund F., "Aryabhata the Elder" (https://mathshistory.st-andr
+ews.ac.uk/Biographies/Aryabhata_I.html), [URL: "https://en.wikipedia.org/wiki/MacTutor_History_of_Mathematics_archive"] MacTutor History of Mathematics archive,
+ University of St Andrews
+7. [URL: "http://turnbull.mcs.st-and.ac.uk/~history/Projects/Pearce/Chapters/Ch8_5.html"] Ian G. Pearce. Bhaskaracharya II. (http://turnbull.mcs.st-and.ac.uk/~history/Projects/Pearce/
+Chapters/Ch8_5.html)
+8. Broadbent, T. A. A.; Kline, M. (October 1968). "Reviewed work(s): The History of Ancient
+Indian Mathematics by C. N. Srinivasiengar". The Mathematical Gazette. 52 (381): 307–8.
+ doi:10.2307/3614212 (https://doi.org/10.2307%2F3614212). JSTOR 3614212 (https://www.j
+stor.org/stable/3614212).
+9. J. L. Berggren (1990). "Innovation and Tradition in Sharaf al-Din al-Tusi's Muadalat", Journal
+of the American Oriental Society 110 (2), pp. 304-309.
+Page 10
+10. Cited by J. L. Berggren (1990). "Innovation and Tradition in Sharaf al-Din al-Tusi's
+Muadalat", Journal of the American Oriental Society 110 (2), pp. 304-309.
+11. J. L. Berggren (1990). "Innovation and Tradition in Sharaf al-Din al-Tusi's Muadalat", Journal
+of the American Oriental Society 110 (2), pp. 304-309.
+12. Newton began his work in 1666 and Leibniz began his in 1676. However, Leibniz published
+his first paper in 1684, predating Newton's publication in 1693. It is possible that Leibniz saw
+drafts of Newton's work in 1673 or 1676, or that Newton made use of Leibniz's work to refine
+his own. Both Newton and Leibniz claimed that the other plagiarized their respective works.
+This resulted in a bitter [URL: "https://en.wikipedia.org/wiki/Newton-Leibniz_calculus_controversy"] controversy between them over who first invented calculus, which
+shook the mathematical community in the early 18th century.
+13. This was a monumental achievement, even though a restricted version had been proven
+previously by [URL: "https://en.wikipedia.org/wiki/James_Gregory_(astronomer_and_mathematician)"] James Gregory (1638–1675), and some key examples can be found in the
+work of [URL: "https://en.wikipedia.org/wiki/Pierre_de_Fermat"] Pierre de Fermat (1601–1665).
+14. Victor J. Katz (1995), "Ideas of Calculus in Islam and India", Mathematics Magazine 68 (3):
+163-174 [165-9 & 173-4]
+15. Sabra, A I. (1981). Theories of Light: From Descartes to Newton. Cambridge University
+Press. p. 144. ISBN 978-0521284363.
+16. Eves, H. (1990).
+J. Edwards (1892). [URL: "https://archive.org/details/in.ernet.dli.2015.109607"] Differential Calculus (https://archive.org/details/in.ernet.dli.2015.109607).
+ London: MacMillan and Co. p. 1 (https://archive.org/details/in.ernet.dli.2015.109607/page/n5
+12).
+Retrieved from "[URL: "https://en.wikipedia.org/w/index.php?title=Differential_calculus&oldid=1086995146"] https://en.wikipedia.org/w/index.php?title=Differential_calculus&oldid=1086995146"
+This page was last edited on 9 May 2022, at 17:36 (UTC).
+Text is available under the [URL: "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"] Creative Commons Attribution-ShareAlike License 3.0;additional terms may apply. By
+using this site, you agree to the [URL: "https://foundation.wikimedia.org/wiki/Terms_of_Use"] Terms of Use and [URL: "https://foundation.wikimedia.org/wiki/Privacy_policy"] Privacy Policy. Wikipedia® is a registered trademark of the
+ Wikimedia Foundation, Inc., a non-profit organization.

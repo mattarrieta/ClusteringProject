@@ -1,0 +1,446 @@
+CrossMarkDomains[1]: springer.com
+Creator: Adobe InDesign 15.0 (Windows)
+ModDate: 2022/04/19 16:36:17+02'00'
+Trapped: 
+CreationDate: 2022/04/15 13:22:10 (UTC)
+CrossmarkMajorVersionDate: 2010-04-23
+Subject: Genome Medicine, https://doi.org/10.1186/s13073-022-01044-8
+Author: Sinah Engel
+Title: Preventing disease progression in multiple sclerosis—insights from large real-world cohorts
+CrossmarkDomainExclusive: true
+robots: noindex
+Producer: Adobe PDF Library 15.0; modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)
+doi: 10.1186/s13073-022-01044-8
+CrossMarkDomains[2]: springerlink.com
+xmp:xmp:CreateDate: 2022-04-15T13:22:10
+xmp:xmp:CreatorTool: Adobe InDesign 15.0 (Windows)
+xmp:xmp:ModifyDate: 2022-04-19T16:36:17+02:00
+xmp:xmp:MetadataDate: 2022-04-19T16:36:17+02:00
+xmp:dc:format: application/pdf
+xmp:dc:identifier: https://doi.org/10.1186/s13073-022-01044-8
+xmp:dc:publisher: BioMed Central
+xmp:dc:description: Genome Medicine, https://doi.org/10.1186/s13073-022-01044-8
+xmp:dc:title: Preventing disease progression in multiple sclerosis—insights from large real-world cohorts
+xmp:dc:creator: Sinah Engel; Frauke Zipp
+xmp:crossmark:DOI: 10.1186/s13073-022-01044-8
+xmp:crossmark:MajorVersionDate: 2010-04-23
+xmp:crossmark:CrossmarkDomainExclusive: true
+xmp:crossmark:CrossMarkDomains: springer.com; springerlink.com
+xmp:prism:url: https://doi.org/10.1186/s13073-022-01044-8
+xmp:prism:doi: 10.1186/s13073-022-01044-8
+xmp:prism:issn: 1756-994X
+xmp:prism:aggregationType: journal
+xmp:prism:publicationName: Genome Medicine
+xmp:prism:copyright: The Author(s)
+xmp:pdfx:CrossmarkMajorVersionDate: 2010-04-23
+xmp:pdfx:CrossmarkDomainExclusive: true
+xmp:pdfx:doi: 10.1186/s13073-022-01044-8
+xmp:pdfx:robots: noindex
+xmp:pdfx:CrossMarkDomains: springer.com; springerlink.com
+xmp:pdf:Producer: Adobe PDF Library 15.0; modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)
+xmp:pdf:Trapped: False
+xmp:xmpMM:DocumentID: uuid:3e4c2810-854c-42ce-8d17-48e47d30ec07
+xmp:xmpMM:InstanceID: uuid:6a12d699-a4fd-4d6d-91fb-d644e433ca58
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:3e4c2810-854c-42ce-8d17-48e47d30ec07
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2022-04-15T13:55:19Z
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:author:name: Frauke Zipp
+xmp:author:orcid: http://orcid.org/0000-0002-1231-1928
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdfx/1.3/
+xmp:pdfaSchema:prefix: pdfx
+xmp:pdfaSchema:schema: Adobe Document Info PDF eXtension Schema
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Mirrors crossmark:MajorVersionDate
+xmp:pdfaProperty:name: CrossmarkMajorVersionDate
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Mirrors crossmark:CrossmarkDomainExclusive
+xmp:pdfaProperty:name: CrossmarkDomainExclusive
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Mirrors crossmark:DOI
+xmp:pdfaProperty:name: doi
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Mirrors crossmark:CrosMarkDomains
+xmp:pdfaProperty:name: CrossMarkDomains
+xmp:pdfaProperty:valueType: seq Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A name object indicating whether the document has been modified to include trapping information
+xmp:pdfaProperty:name: robots
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: ID of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXVersion
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Conformance level of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXConformance
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Company creating the PDF
+xmp:pdfaProperty:name: Company
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Date when document was last modified
+xmp:pdfaProperty:name: SourceModified
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://crossref.org/crossmark/1.0/
+xmp:pdfaSchema:prefix: crossmark
+xmp:pdfaSchema:schema: Crossmark Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Usual same as prism:doi
+xmp:pdfaProperty:name: DOI
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: The date when a publication was publishe.
+xmp:pdfaProperty:name: MajorVersionDate
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: CrossmarkDomainExclusive
+xmp:pdfaProperty:name: CrossmarkDomainExclusive
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: CrossMarkDomains
+xmp:pdfaProperty:name: CrossMarkDomains
+xmp:pdfaProperty:valueType: seq Text
+xmp:pdfaSchema:namespaceURI: http://prismstandard.org/namespaces/basic/2.0/
+xmp:pdfaSchema:prefix: prism
+xmp:pdfaSchema:schema: Prism Schema
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: This element provides the url for an article or unit of content. The attribute platform is optionally allowed for situations in which multiple URLs must be specified. PRISM recommends that a subset of the PCV platform values, namely “mobile” and “web”, be used in conjunction with this element. NOTE: PRISM recommends against the use of the #other value allowed in the PRISM Platform controlled vocabulary. In lieu of using #other please reach out to the PRISM group at prism-wg@yahoogroups.com to request addition of your term to the Platform Controlled Vocabulary.
+xmp:pdfaProperty:name: url
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: The Digital Object Identifier for the article.
+The DOI may also be used as the dc:identifier. If used as a dc:identifier, the URI form should be captured, and the bare identifier should also be captured using prism:doi. If an alternate unique identifier is used as the required dc:identifier, then the DOI should be specified as a bare identifier within prism:doi only. If the URL associated with a DOI is to be specified, then prism:url may be used in conjunction with prism:doi in order to provide the service endpoint (i.e. the URL).
+xmp:pdfaProperty:name: doi
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: ISSN for an electronic version of the issue in which the resource occurs. Permits publishers to include a second ISSN, identifying an electronic version of the issue in which the resource occurs (therefore e(lectronic)Issn. If used, prism:eIssn MUST contain the ISSN of the electronic version.
+xmp:pdfaProperty:name: issn
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Volume number
+xmp:pdfaProperty:name: volume
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Issue number
+xmp:pdfaProperty:name: number
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Starting page
+xmp:pdfaProperty:name: startingPage
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Ending page
+xmp:pdfaProperty:name: endingPage
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: The aggregation type specifies the unit of aggregation for a content collection. Comment PRISM recommends that the PRISM Aggregation Type Controlled Vocabulary be used to provide values for this element. Note: PRISM recommends against the use of the #other value currently allowed in this controlled vocabulary. In lieu of using #other please reach out to the PRISM group at info@prismstandard.org to request addition of your term to the Aggregation Type Controlled Vocabulary.
+xmp:pdfaProperty:name: aggregationType
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:descripBOOKMARKS:
+Preventing disease progression in multiple sclerosis—insights from large real-world cohorts
+  Abstract
+  Background
+  Prevention and early diagnosis of MS
+  Prognostication for personalized treatment
+  Conclusions
+  Acknowledgements
+  References
+Page 1
+Engel and Zipp ﻿Genome Medicine (2022) 14:41 
+https://doi.org/10.1186/s13073-022-01044-8
+COMMENT  Open Access
+Preventing disease progression in multiple
+sclerosis—insights from large real-world cohorts
+Sinah Engel* and Frauke Zipp  [URL: "http://orcid.org/0000-0002-1231-1928"]  
+Abstract 
+Multiple sclerosis is a chronic neuroinflammatory disease with a highly heterogeneous disease course. Preventing
+lasting disability requires early identification of persons at risk and novel approaches towards patient stratification for
+personalized treatment decisions. In this comment, we discuss the importance of large datasets of real-world cohorts
+in order to address this unmet need.
+Keywords:  Biomarkers, Multi-omics, Patient stratification, Personalized treatment
+Background
+Multiple sclerosis (MS) is a chronic autoimmune-medi-
+ated disease affecting the central nervous system (CNS) 
+through inflammatory and neurodegenerative processes. 
+Although thousands of patients have benefitted from the
+recent introduction of highly efficient immunotherapies, 
+including monoclonal antibodies against integrins (natal-
+izumab), CD52 (alemtuzumab), and CD20 (ocrelizumab, 
+ofatumumab),  there is also a considerable proportion
+of patients who experience ongoing disease activity and
+progression of disability. Within 20 years of diagnosis, 
+30–60% of patients with initial episodic clinical attacks
+followed by complete or partial recovery (so-called
+relapsing-remitting MS (RRMS)) convert to a secondary
+progressive disease course (SPMS) with relapse-inde-
+pendent disability progression resulting in severe limita-
+tions of the quality of life, whereas others are spared from
+persisting neurological deficits despite long disease dura-
+tion and old age [1]. This apparent heterogeneity between
+individual patients highlights the importance of more
+personalized treatment approaches, especially in order to
+prevent disease progression. Real-world cohorts are a key
+*Correspondence: sinah.engel@unimedizin-mainz.de
+Department of Neurology, Focus Program Translational Neuroscience
+(FTN) and Immunotherapy (FZI), Rhine‑Main Neuroscience Network
+(rmn2), University Medical Center of the Johannes Gutenberg University
+Mainz, Langenbeckstr. 1, 55131 Mainz, Germany 
+element to address this unmet need, since datasets from
+large observational studies, registries, and multi-omics 
+approaches allow pharmaceutically independent testing
+of hypotheses in the presence of high heterogeneity in
+disease pathology, course, therapy response, and occur-
+rence of side effects. Of similar importance are novel
+methodologies for prognostication and patient stratifi-
+cation, in particular, in deeply phenotyped (i.e., patients
+with available data on multiple molecular levels) real-
+world cohorts.
+Prevention and early diagnosis of MS
+Insights gained from large international real-world
+cohorts demonstrate that early efficacious treatment is
+crucial for the long-term outcome of MS patients. How-
+ever, there is increasing evidence of substantial neuronal
+damage already occurring in presymptomatic patients
+(e.g.,  in patients with abnormalities in magnetic reso-
+nance imaging (MRI) without clinical symptoms, the
+so-called radiologically isolated syndrome) and even in
+a prodromal phase that precedes the detection of first
+abnormalities in MRI. For example, increased neurofila-
+ment light chain (NfL) levels, a biomarker of neuronal
+damage, have been detected in blood samples obtained
+from seemingly healthy US military personnel up to 6
+years before they presented with the first clinical epi-
+sode of MS [2]. Moreover, large-scale cognitive testing
+©The Author(s) 2022. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this
+licence, visit [URL: "http://creativecommons.org/licenses/by/4.0/"] http://​creat​iveco​mmons.​org/​licen​ses/​by/4.​0/.The Creative Commons Public Domain Dedication waiver ([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://​creat​iveco​
+ mmons.​org/​publi​cdoma​in/​zero/1.​0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+Page 2
+Engel and Zipp ﻿Genome Medicine (2022) 14:41  Page 2 of 3
+of more than 20,000 individuals revealed that men later
+receiving a diagnosis of MS had lower cognitive scores
+than healthy controls up to 2 years before their first clini-
+cal event [3]. These observations highlight that delaying
+treatment initiation until clinical disease onset might be
+too late for preventing long-term progression of physical
+and cognitive impairment. Thus, strategies that enable
+the identification of individuals at risk and of patients
+with presymptomatic MS along with the initiation of pre-
+ventive measures (e.g., modification of known risk factors
+like smoking and obesity, disease-specific education, and
+early detection examinations) might be a key to overcom-
+ing MS progression.
+To date, studies by the International Multiple Scle-
+rosis Genetics Consortium (IMSGC), an international
+research collaboration aiming to identify the genetic
+basis of MS and its disease course, have identified
+233 independent genome-wide significant associa-
+tions with MS susceptibility by leveraging genotype
+data from more than 48,000 MS patients and almost
+70,000 controls [4].  Of note, many of these associa-
+tions would not have been detected in smaller-scope
+studies due to minor contributions of individual vari-
+ants to the overall genetic risk. There have already
+been attempts, for example, through the development
+of polygenic risk scores, to leverage the knowledge
+of these genetic risk variants in order to identify per-
+sons at risk to develop MS. In addition, the clinical
+implementation of new biomarkers such as serum NfL
+[5] may be feasible in the near future. With regard to
+enabling an earlier diagnosis, two recent studies con-
+ducted in large national registries provide interest-
+ing insights into how the population-wide screening
+of electronic health records could be used to identify
+MS patients before they perceive signs of neurological
+deficits. The first is a matched cohort study that used
+data linked from health administrative and clinical
+databases from four Canadian provinces and included
+14,428 MS patients and 72,059 matched controls. The
+authors observed a steadily increasing annual health-
+care use between 5 years and 1 year before the first
+demyelinating event [6]. In a second population-based
+observational study, the occurrence of a variety of
+clinical disturbances with particular attention to auto-
+nomic symptoms, psychiatric conditions, cognitive
+impairment, fatigue, and pain was compared between
+10,204 patients who would later receive a diagnosis of
+MS or clinically isolated syndrome (i.e., a clinical epi-
+sode suggestive of MS but not fulfilling the diagnostic
+criteria of dissemination in time and space) and 39,448
+controls. Remarkably, MS patients had a significantly
+higher risk of presenting with symptoms like gastro-
+intestinal disturbances, anxiety and mood disorders, 
+fatigue, and pain up to 10 years prior to the first men-
+tion of an MS diagnosis in their healthcare records. 
+The authors suggested that the integration of these
+symptoms into the diagnostic procedure might aid in
+earlier diagnosis [7].
+Findings from these real-world cohort studies have
+considerably contributed to our understanding of MS
+disease course as they have led to the identification of
+a presymptomatic phase (the MS prodrome) and have
+highlighted the importance of timely preventive meas-
+ures. Moreover, they indicate potential strategies for
+the early identification of persons at risk.
+Prognostication for personalized treatment
+Large datasets and intelligent computational approaches
+have laid the foundation for current evidence on demo-
+graphic, clinical, MRI, and cerebrospinal fluid- and
+blood-based biomarkers with prognostic potential in
+MS that may aid patient stratification and consultation. 
+For example, in a recent international collaborative work
+including almost 3,000 MS patients, higher age at disease
+onset, reaching moderate disability levels due to persist-
+ing neurological deficits reflected by an Expanded Disa-
+bility Status Scale (EDSS) score of at least 3 points within
+the first year after disease onset, and impairment of
+motor functions were associated with aggressive MS [8].
+On the other hand, younger age at disease onset, lower
+number of relapses within the first years after onset, and
+full recovery from the first relapse were associated with
+a favorable disease course, as was being female [9]. An
+additional recent study aimed to define MS subtypes
+based on a data-driven assessment of MRI alterations
+[10]. By applying a novel unsupervised machine learn-
+ing algorithm with the ability to model heterogeneity of
+phenotypes along with distinct temporal progression pat-
+terns in almost 10,000 MRI scans of patients with MS and
+healthy controls, the authors identified three MRI-based
+subtypes: cortex-led, normal-appearing white matter-
+led, and lesion-led. Remarkably, these subtypes differed
+with regard to disability progression, disease activity, and
+treatment response, which suggests that they reflect dif-
+ferent pathobiological mechanisms relevant to disease
+manifestation and could be used for patient stratification
+and personalized treatment decisions [10].
+Importantly, a recent genome-wide association study
+of MS disease progression conducted by the IMSGC
+was able to demonstrate for the first time that there is a
+genetic basis for MS severity that is clearly distinguish-
+able from the genetic architecture of MS susceptibility
+[11]. This highlights a link between the molecular back-
+ground of MS and its phenotypic presentation. However, 
+genetic variation alone will not be able to unravel a con-
+dition as complex as MS, since it is most probable that
+Page 3
+Engel and Zipp   ﻿Genome Medicine (2022) 14:41  Page 3 of 3
+hundreds of weak genetic factors interact with each other
+and the environment to elicit disease phenotypes. There-
+fore, it is necessary to also investigate data types that
+reflect biological processes more dynamically, e.g., in an
+integrative multi-omics approach. For example, quantita-
+tive gene expression data obtained from transcriptomic
+or proteomic studies could be combined with knowledge
+of genetic risk factors (after solving interface problems
+with existing databases and data harmonization), as is
+done in quantitative trait locus analyses that investigate
+the associations between risk loci and gene expression
+levels, in order to better understand the mechanisms
+involved in MS pathogenesis and for the stratification of
+patients into disease endotypes. To this aim, deeply phe-
+notyped cohorts are needed. 
+Funding
+This study was supported by the Deutsche Forschungsgemeinschaft (DFG, 
+SFB CRC-TR-128 to F.Z.).
+Availability of data and materials
+Not applicable.
+Declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Received: 30 March 2022 Accepted: 4 April 2022
+Conclusions
+The current major challenges in the management of MS
+patients include the identification of persons at risk to
+enable preventive strategies and early diagnosis along
+with patient stratification for prognostication and tar-
+geted treatment decisions. Large real-world cohorts have
+already contributed to our understanding of pathology
+and disease entities as well as of treatment responses and
+associated adverse events. However, in order to further
+increase our knowledge of risk factors and to avoid per-
+sisting and progressing disability, it is necessary to foster
+methodological innovations that will allow us to acquire
+more detailed insights into the pathomechanisms, espe-
+cially of the difficult-to-target local processes within the
+CNS. A key future task for advancing the goal of eventual
+translation to the clinic is the generation of large well-
+characterized and deeply phenotyped longitudinal data-
+sets of patients of diverse ethnic backgrounds and diverse
+conditions (e.g.,  response to nutrition, environment, 
+therapy) to enable sufficiently powered study designs
+that may yield generalizable results. In our opinion, this
+can only be achieved through the integration of existing
+real-world cohorts including biosample collections, in
+an international and multi-disciplinary collaboration of
+researchers, clinicians, and patients alike.
+Abbreviations
+CIS: Clinically isolated syndrome; CNS: Central nervous system; EDSS: 
+Expanded Disability Status Scale; IMSGC: International Multiple Sclerosis
+Genetics Consortium; MRI: Magnetic resonance imaging; MS: Multiple
+sclerosis; NfL: Neurofilament light chain; RRMS: Relapsing-remitting multiple
+sclerosis; SPMS: Secondary progressive multiple sclerosis.
+Acknowledgements
+The authors thank Dr. Cheryl Ernest for proofreading and editing the
+manuscript.
+Authors’ contributions
+SE and FZ: conceptualization and writing of the manuscript. The authors read
+and approved the final manuscript. 
+References
+1.  Larochelle C, Uphaus T, Prat A, Zipp F. Secondary progression in multiple
+sclerosis: neuronal exhaustion or distinct pathology? Trends Neurosci. 
+2016;39(5):325–39.
+2.  Bjornevik K, Munger KL, Cortese M, Barro C, Healy BC, Niebuhr DW, et al. 
+Serum neurofilament light chain levels in patients with presymptomatic
+multiple sclerosis. JAMA Neurol. 2020;77(1):58–64.
+3.  Cortese M, Riise T, Bjornevik K, Bhan A, Farbu E, Grytten N, et al. Preclinical
+disease activity in multiple sclerosis: a prospective study of cognitive
+performance prior to first symptom. Ann Neurol. 2016;80(4):616–24.
+4.  International Multiple Sclerosis Genetics Consortium. Multiple sclerosis
+genomic map implicates peripheral immune cells and microglia in
+susceptibility. Science. 2019;365(6460).
+5.  Bittner S, Oh J, Havrdová EK, Tintoré M, Zipp F. The potential of
+serum neurofilament as biomarker for multiple sclerosis. Brain. 
+2021;144(10):2954–63.
+6.  Wijnands JMA, Kingwell E, Zhu F, Zhao Y, Hogg T, Stadnyk K, et al. 
+Health-care use before a first demyelinating event suggestive of a
+multiple sclerosis prodrome: a matched cohort study. Lancet Neurol. 
+2017;16(6):445–51.
+7.  Disanto G, Zecca C, MacLachlan S, Sacco R, Handunnetthi L, Meier UC, 
+et al. Prodromal symptoms of multiple sclerosis in primary care. Ann
+Neurol. 2018;83(6):1162–73.
+8.  Malpas CB, Manouchehrinia A, Sharmin S, Roos I, Horakova D, Havrdova
+EK, et al. Early clinical markers of aggressive multiple sclerosis. Brain. 
+2020;143(5):1400–13.
+9.  Crielaard L, Kavaliunas A, Ramanujam R, Olsson T, Hillert J, Stridh P, et al. 
+Factors associated with and long-term outcome of benign multiple
+sclerosis: a nationwide cohort study. J Neurol Neurosurg Psychiatry. 
+2019;90(7):761–7.
+10.  Eshaghi A, Young AL, Wijeratne PA, Prados F, Arnold DL, Narayanan S, 
+et al. Identifying multiple sclerosis subtypes using unsupervised machine
+learning and MRI data. Nat Commun. 2021;12(1):2078.
+11.  Harroud A, Multiple MS, International Multiple Sclerosis Genetics
+Consortium. The genetic basis of multiple sclerosis severity suggests
+central nervous system involvement (ECTRIMS 2021 -P927). Mult Scler J. 
+2021;27:756.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub-
+lished maps and institutional affiliations.

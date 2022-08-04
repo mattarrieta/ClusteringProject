@@ -1,0 +1,25 @@
+Page 1
+During the present California energy debacle its seems that a lot of finger pointing is going on to blame one
+party or another for physical lack of electrical energy. 
+One thing I found interesting is that there seems to be no cross check system in place to check the
+legitimacy of the ISO saying that there isn’t enough power on one or another particular grid segment to
+sustain reliable service. My personal experience here in Louisiana last summer is that Entergy was
+reporting a lack of electricity in my area but we had no brown outs or loss of electrical service at all. 
+I had a conversation with a man who works for a local utility and he stated that often a modeling program
+is used to predict brownouts / overload scenario’s and these programs were often incorrect. 
+I think ENRON should start a company that would use technology to check the legitimacy of overloading
+as reported by a ISO. The company could be called ENRON Energy Evaluation Enterprise. It would work
+as follows. A small fleet of mobile trailers that have buildings mounted on them could be set up at different
+sites that have multiple high voltage lines coming together to form a portion of a grid. Some type of clamp
+on amp meters and voltmeters could be hooked to different circuits and the electrical energy could be
+monitored using rtu’s with power monitoring programs installed in them. These rtu’s could be installed in
+the trailers along with a firewall computer which would then be connected to a Starband satellite system for
+remote data collection. These trailers could be moved at times and the regional ISO should not be aware of
+when or what circuit is being monitored. 
+The regional generators may want to have access to such data to protect themselves from law suits, also the
+FERC may need this data to grade a ISO or generator on its operational efficiency. 
+The data that was received could be stored in the ENRON data warehouse system for future evaluation. 
+This is just a brief synopsis of my idea I am sure that there are issues I’m not aware of and problems that
+would be encountered that would have to be overcome. But with the prediction of power shortages across
+the nation in the future this could possibly be sold as ENRON helping to alleviate the predicted energy
+shortage. 

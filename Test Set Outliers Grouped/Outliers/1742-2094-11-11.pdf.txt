@@ -1,0 +1,1021 @@
+BOOKMARKS:
+Abstract
+Introduction
+  Macrophage migration inhibitory factor
+  MIF in the central nervous system
+  MIF and glucocorticoids
+  MIF and antidepressant treatments
+  MIF and neurogenesis
+  MIF as a biomarker
+Discussion
+Conclusion
+Abbreviations
+Competing interests
+Authors’ contributions
+Acknowledgements
+References
+Page 1
+Bloom and Al-Abed Journal of Neuroinflammation 2014, 11:11
+http://www.jneuroinflammation.com/content/11/1/11 
+JOURNAL OF
+NEUROINFLAMMATION
+REVIEW
+MIF: Mood Improving/Inhibiting Factor?
+Joshua Bloom1,2* and Yousef Al-Abed2 
+Open Access
+Abstract
+Although major depressive disorder imposes a serious public health burden and affects nearly one in six individuals
+in developed countries over their lifetimes, there is still no consensus on its pathophysiology. Inflammation and
+cytokines have emerged as a promising new avenue in depression research, and, in particular, macrophage
+migration inhibitory factor (MIF) has been shown to be significant in depression physiology. In this review we
+summarize current research on MIF and depression. We highlight the arguments for MIF as a pro- and
+antidepressant species and discuss the potential implications for therapeutics.
+Keywords: MIF, Depression, Neuroinflammation, Neurogenesis, Antidepressant, Biomarker
+Introduction
+Major depressive disorder (MDD) is a clinical syndrome
+defined by chronic disturbances in emotion and ideation
+that are accompanied by somatic or neurovegetative symp-
+toms [1]. The disease has a worldwide lifetime prevalence
+of 12%, with the prevalence in developed countries (USA
+and Europe) as high as 18% [2]; this figure is increasing
+over time [3]. Additionally, depressive mood is often co-
+morbid with other psychiatric conditions such as anxiety
+and eating disorders, as well as with chronic medical condi-
+tions such as cancer, cardiovascular disease, neurological
+disorders, and chronic inflammatory diseases [4];  this is
+often called ‘secondary depression’  [5]. Comorbid depres-
+sion significantly worsens outcomes in coronary heart dis-
+ease, diabetes mellitus, and stroke [6,7].  Depression can
+also cause cognitive symptoms [8] that can produce severe
+psychosocial deficits [9]. Despite these considerations, treat-
+ment for depression has not changed significantly in recent
+years. Current treatments do not adequately address cogni-
+tive deficits in depression [10], and there remain few solu-
+tions for treatment-resistant depression, which affects
+almost half of the patient population [11].
+One of the reasons for the slow progress in this area is
+the lack of a unified theory of the pathobiology of depres-
+sion. Several hypotheses are currently supported by re-
+search. One of the oldest is the monoamine theory, which
+asserts that depression is caused by a depletion of
+* Correspondence: [URL: "mailto:jbloom2@nshs.edu"] jbloom2@nshs.edu
+1Hofstra North Shore-LIJ School of Medicine, Hempstead, NY 11549, USA
+2Center for Molecular Innovation, The Feinstein Institute for Medical
+Research, 350 Community Drive, Manhasset, NY 11030, USA 
+monoamines (such as serotonin or norepinephrine) in the
+brain [12]. Selective serotonin reuptake inhibitors (SSRIs)
+operate on this premise, and they are currently among the
+first-line treatments for major depression [13].  However,
+this theory fails to explain the delay in remission during
+treatment with SSRIs, or why depletion of monoamines
+does not reproduce depressive symptoms in healthy con-
+trols. As a result, a neurotrophic theory of depression has
+emerged: atrophic changes are found in the postmortem
+brains of MDD patients, and increases in neurogenesis or
+neuroplastic factors have antidepressant effects [12].  Any
+unified theory of depression would doubtless need to in-
+corporate aspects of both of these hypotheses.
+A large body of evidence has also pointed to an inflam-
+matory etiology in depression [14].  Depressed mood
+develops in nearly a third of patients treated with recom-
+binant interferon alpha, and is more prevalent in patients
+with chronic inflammatory diseases [15,16].  Systemic in-
+flammation produces sickness behavior that resembles de-
+pression in both patients and rodent models [17]. One of
+the challenges of this hypothesis is explaining how periph-
+eral cytokines can cross the blood brain barrier and affect
+the central nervous system to induce depression. One pro-
+posed explanation centers on the cytokine-activated en-
+zyme indoleamine 2,3-dioxygenase, which has been shown
+to induce depression-like behavior. It degrades neural tryp-
+tophan into 3-hydroxykyurenin and quinolinic acid; in
+addition to being neurotoxic, these metabolites also drain
+local stores of tryptophan, which is a prerequisite in the
+synthesis of serotonin [18].
+© 2014 Bloom and Al-Abed; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the
+Creative Commons Attribution License ([URL: "http://creativecommons.org/licenses/by/2.0"] http://creativecommons.org/licenses/by/2.0), which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original work is properly cited. The Creative Commons Public
+Domain Dedication waiver ([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this
+article, unless otherwise stated.
+Page 2
+Bloom and Al-Abed Journal of Neuroinflammation 2014, 11:11
+http://www.jneuroinflammation.com/content/11/1/11 
+Page 2 of 9
+Macrophage migration inhibitory factor
+With mounting evidence for a role for cytokines in de-
+pression, macrophage migration inhibitory factor (MIF)
+has emerged as a strong candidate for a pathophysio-
+logical role. MIF is one of the first cytokines to be inves-
+tigated, originally identified by its ability to prevent
+random migration of macrophages. It is released from
+intracellular pools by T- and B-lymphocytes, monocytes,
+macrophages, dendritic cells, neutrophils, eosinophils,
+mast cells, and basophils. It is also widely distributed in
+tissues [19].  Its release is triggered when cells are ex-
+posed to microbial products, pro-inflammatory cyto-
+kines, or specific antigens. Upon release, it acts in an
+autocrine and paracrine fashion to induce production of
+pro-inflammatory cytokines [20].  It also opposes the
+anti-inflammatory activity of glucocorticoids [21], which
+will be discussed later. Finally, it has been shown to have
+a role in cellular responses to DNA damage and cell
+cycle regulation [22]. MIF has been implicated in several
+disease conditions, including sepsis [23],  acute respira-
+tory distress syndrome [24],  tuberculosis [25],  and dia-
+betes [26].
+MIF has been shown to bind the transmembrane re-
+ceptor CD74 and complex with CD44, with subsequent
+signal transduction via extracellular signal-regulated ki-
+nases (ERK1/ERK2),  which are subtypes of mitogen-
+activated protein kinases (MAPK) [27].  This leads to
+several downstream effects that mediate the physio-
+logical effects of MIF. Particularly significant is the pro-
+duction of prostaglandin E2 (PGE2).  Upregulation of
+phospholipase A2 (PLA2) is likely important in both the
+pro-inflammatory cascade and inhibition of glucocortic-
+oid activity [28]. MIF also increases expression of TLR4,
+which is involved in immune responses to pathogenic
+bacteria as well as the pathogenesis of endotoxemia [29].
+In addition, MIF promotes survival of pro-inflammatory
+cells by inhibition of the tumor suppressor p53 [30].
+MIF has been shown bind and inhibit JUN-activation
+domain-binding protein 1 (Jab1), a coactivator of activa-
+tor protein 1 (AP1),  which is involved in cell growth.
+MIF also acts as an enzyme in vitro,  showing D-
+dopachrome tautomerase and thiol protein oxidoreduc-
+tase activities [31,32].
+There are multiple lines of research pointing to a role
+for MIF in the pathobiology of depression. These find-
+ings have (i) identified MIF expression in the brain, par-
+ticularly in areas significant to the behavioral symptoms
+of depression; (ii) established the significance of the
+hypothalamic-pituitary-adrenal (HPA) axis in depression,
+with which MIF has an intricate relationship; (iii) shown
+an interaction between MIF and both lifestyle and
+pharmacological antidepressant treatments; (iv) deter-
+mined a connection between MIF and neurogenesis, an-
+other important avenue of depression research; and (v) 
+explored MIF as a biomarker in major depression and
+other mood disorders. There is still much uncertainty
+about MIF’s exact pathophysiologic role, and whether its
+activity promotes or obstructs pathological processes in
+depression. The goal of this review is to summarize
+current research on the topic, highlight evidence for
+MIF as a pro- or antidepressant, and address the poten-
+tial for future developments in this area.
+MIF in the central nervous system
+Although MIF was originally identified as a product of
+T-lymphocytes, it was later discovered to be ubiquitous,
+with especially high expression rates in epithelia and
+endocrine tissues [20]. Several studies have also highlighted
+MIF expression in the central nervous system (CNS).
+Immunostaining of bovine brain has established MIF
+expression in the subependymal astrocytes, CA3/CA4
+pyramidal cells of the hippocampus, and granule cells of
+the dentate gyrus [33].  Similar techniques have been
+used to localize MIF expression in rat brain to choroid
+plexus epithelia, ventricular ependymal cells, and cerebral
+astrocytes; the presence of MIF mRNA in astrocytes
+and neurons has also been confirmed with in situ
+hybridization [34]. An analysis of rat brain by Bacher
+and colleagues revealed MIF expression in neurons of
+the cortex, hypothalamus, hippocampus, cerebellum,
+and pons [35]. Conboy et al. used immunohistochemistry
+to establish MIF expression in astrocytes and the sub-
+granular zone of the hippocampus [36].  Interestingly,
+several of these areas contain proliferating or maturing
+cell populations, which is an important consideration
+for neurogenesis. There is significant regional association
+with glucocorticoid activation.
+MIF has also been isolated in human brain tissue, with
+high levels of MIF mRNA expression in all regions [37].
+Human neural MIF maintains high expression levels
+throughout life (compared to other tissues, whose levels
+decline with age),  which has led some to propose a
+maintenance role for MIF in isomerization of reactive
+catecholamine metabolites to neuromelanin precursors
+[38]. Neuromelanin has been shown to be neuroprotec-
+tive in the pathobiology of Parkinson’s disease due to its
+role as a scavenger and sink for toxic metabolites [39].
+MIF has putative roles in several CNS inflammatory
+conditions, including multiple sclerosis [40] and cerebral
+ischemia-reperfusion injury [41], as well as being impli-
+cated in tumor growth in the CNS [19].
+Extensive research has been done in identifying brain
+areas significant in depression. Schmidt and colleagues
+identified corticostriatal projection neurons as being es-
+sential for antidepressant response [42].  A 2008 review
+of neuroimaging, lesioning, and postmortem analyses
+posits a visceromotor network underlying the physiology
+of emotion and mood, with dysfunction in this circuit
+Page 3
+Bloom and Al-Abed Journal of Neuroinflammation 2014, 11:11
+http://www.jneuroinflammation.com/content/11/1/11 
+Page 3 of 9
+leading to the symptoms of depression [43].  This net-
+work involves interplay between the medial prefrontal
+cortex, amygdala, hippocampus, and various limbic
+structures. It is noteworthy that this circuit includes the
+hippocampus, one of the areas previously identified as
+showing high MIF expression. This model has been ap-
+plied to deep brain stimulation, an emerging approach
+to treatment-resistant depression [44].
+MIF and glucocorticoids
+As mentioned above, MIF opposes the activity of glu-
+cocorticoids on the immune system. This activity of
+glucocorticoids is well understood, and oral corticoste-
+roids are in use by 0.5% of the general population. Glu-
+cocorticoids are produced endogenously as cortisol
+and released by the adrenal glands upon stimulation by
+adrenocorticotropic hormone (ACTH), secreted by cor-
+ticotropic cells of the anterior pituitary; those cells re-
+lease ACTH in response to stimulation by hypothalamic
+corticotropin-releasing hormone (CRH). This process is
+called the HPA axis. Corticosteroids bind cytosolic re-
+ceptors that dimerize and translocate to the nucleus,
+downregulating transcription of pro-inflammatory cy-
+tokines and decreasing production of prostaglandins
+[21].  These effects are mediated by interactions with
+NFkB [45],  an important transcriptional regulator.
+Specifically, glucocorticoids upregulate expression of
+annexin 1 [46] and MAPK phosphatase 1 (MPK1) [47],
+which both cause downregulation of PLA2. In addition
+to being involved with the production of prostaglan-
+dins and leukotrienes from arachidonic acid, PLA2
+also stimulates release of cytokines via Jun N-terminal
+kinases (JNK) [48].
+As discussed above, MIF causes upregulation of PLA2,
+likely downstream of ERK1/2 signaling pathways [28]. It
+may also affect NFkB via its interaction with Jab1, which
+can lead to suppression of the inhibitory binding factor
+of NFkB (IkB) [22].  MIF is expressed in cells at every
+level of the HPA axis [49]. Its plasma levels follow a cir-
+cadian rhythm that is comparable to that observed for
+plasma cortisol [21],  and it is released from pituitary
+cells by CRH in a dose-dependent fashion [50]. Cortisol
+has also been shown to induce secretion of MIF with a
+bell-shaped dose response curve [51],  in which high
+levels suppress MIF production. This seems to indicate a
+homeostatic balance between MIF and glucocorticoids,
+with the dominant species determining whether to pro-
+mote immune responses (in infection) or dampen them
+(to protect from the harmful effects of inflammation).
+It is well established that patients with MDD experi-
+ence dysregulation of the HPA axis, manifesting as alter-
+ations in cortisol secretion and loss of suppression by
+dexamethasone [52,53]. These abnormalities manifest in
+40 to 60% of patients with MDD [54].  This HPA 
+dysregulation is similar to the hormonal changes ob-
+served in Cushing’s disease, albeit to a lesser degree [55];
+interestingly, Cushing’s patients experience a greater
+incidence of mood disorders, which resolve upon
+normalization of cortisol levels [56]. Although patients
+with MDD do not experience Cushingoid symptoms per
+se,  strong associations have been found between the
+hypercortisolism of depression and physical changes as-
+sociated with Cushing’s disease, including hippocampal
+atrophy, cognitive impairment, and abdominal obesity
+[55]. These hormonal changes seem to be related to ad-
+renal hyperresponsiveness to ACTH [54] as well as al-
+tered responses to glucocorticoids, especially at the
+level of negative feedback in the pituitary [17].
+The relationship between altered glucocorticoid signal-
+ing and depression has been reiterated in mouse models,
+although there is still insufficient evidence to substanti-
+ate a true ‘glucocorticoid receptor theory of depression’
+[57],  especially since roughly half of MDD patients do
+not manifest HPA abnormalities. However, HPA dysreg-
+ulation may represent one pathway among many that
+converge to produce the symptoms of depression. Sig-
+nificantly, stress and corticosteroids have also been
+shown to inhibit hippocampal neurogenesis; this effect is
+reversed by antidepressants [58].  MIF’s role in this
+scheme has been investigated: Edwards et al. found that
+MIF levels were 40% higher in healthy volunteers who
+showed depressive symptoms on the Beck Depression
+Inventory (BDI), and elevated MIF was associated with
+decreased cortisol response to acute stress and lower
+morning cortisol values [59].
+MIF and antidepressant treatments
+Antidepressant response is a commonly used paradigm
+in depression research. Since the pathobiology and gen-
+etics of depression remain unknown, and many of its
+symptoms are impossible to replicate in an animal
+model, it has become necessary to design experimental
+models based on reproducible responses to established
+antidepressant treatments [60,61].  These models utilize
+both classical treatments, such as selective serotonin re-
+uptake inhibitors (SSRIs) and electroconvulsive therapy
+(ECT), as well as new treatments like increased physical
+activity and deep brain stimulation [62].
+MIF has been tested against traditional antidepressant
+treatments. An assay of motivated behavior has shown
+an association between the ERK1/2 pathway and re-
+sponses to tricyclic antidepressants [63].  Conboy and
+colleagues determined that fluoxetine, a commonly ad-
+ministered SSRI [13], causes an increase in neurons im-
+munoreactive for MIF. They also found that MIF
+knockout (KO) mice and mice given the MIF inhibitor
+[64] ISO-1 showed decreased neurogenesis after admin-
+istration of fluoxetine. In addition, deletion of MIF
+Page 4
+Bloom and Al-Abed Journal of Neuroinflammation 2014, 11:11
+http://www.jneuroinflammation.com/content/11/1/11 
+Page 4 of 9
+resulted in increased depressive symptoms in the Porsolt
+forced swim test for behavioral despair (FST) and im-
+pairments in hippocampal spatial learning and memory
+in the Morris water maze. They concluded from these
+results that MIF is significant in the neurogenic effects
+of antidepressants [36].
+Physical activity (PA) is emerging as an exciting new
+avenue of therapy for depression. PA has relatively few
+adverse effects, and can positively influence other
+physiological and psychological disorders. PA has been
+shown to be immunomodulatory, promoting expression
+of certain cytokines and immune cells and reducing
+others, as reviewed elsewhere [65]. PA also induces pro-
+duction of erythropoietin (EPO),  a glycoprotein hor-
+mone involved in red blood cell hematopoiesis [66].
+EPO and its receptor have recently been elaborated in
+the CNS [67], and they have been shown to have neuro-
+trophic and neuroprotective effects [68].
+Moon et al. found that the antidepressant effects of exer-
+cise were partially mediated by MIF, which they concluded
+functions as an antidepressant [69]. Using data from mRNA
+microarrays, they determined that both voluntary exercise
+and ECT induce MIF. Similar to the results from Conboy
+et al. [36], MIF−/− mice showed increased depressive behav-
+ior and decreased antidepressant effects from exercise on
+the FST. Intracerebroventricular (icv) MIF administration
+had a direct antidepressant effect on the FST. They
+also analyzed gene expression patterns for brain-derived
+neurotrophic factor (BDNF),  an important species in
+neurogenesis [70], and tryptophan hydroxylase-2 (Tph2),
+a rate-limiting enzyme in brain production of serotonin
+[71]. Both were upregulated in exercise and icv adminis-
+tration of MIF. Induction of Tph2 by MIF was matched
+with increased expression of serotonin in a recombinant
+cell line. It was further determined that these effects are
+all dependent on CD74 and ERK1/2, both established fac-
+tors in MIF signal transduction [20,64].
+MIF and neurogenesis
+MIF is known to have a role in embryonic development
+and cellular proliferation. As mentioned above, it pro-
+motes cell growth and inhibits apoptosis via inhibition
+of p53, a tumor suppressor protein. Swant et al. estab-
+lished in fibroblasts that RhoA GTPase is an important
+link between MIF and cyclin D1, which promotes cell
+cycle progression by phosphorylation of Rb, another
+tumor suppressor protein [72]. Inactivation of Rb leads
+to disinhibition of E2F, which promotes synthesis of S
+phase proteins and subsequent cellular proliferation
+[73]. MIF directly stimulates activation of RhoA.
+Ito and colleagues determined that MIF is an import-
+ant factor in embryonic development of zebrafish, a
+commonly used model for embryogenesis. Using whole-
+mount in situ hybridization (WISH) they detected 
+widespread MIF expression in embryonic structures, in-
+cluding eyes, tectum, branchial arches, and gut struc-
+tures. Using antisense Morpholino-mediated knockdown
+(MO), they determined that MIF MO fish displayed a re-
+producible phenotype of abnormal development in eyes
+and cartilage structures, and, significantly, in brain struc-
+tures such as the tectum and fourth ventricle [74]. Simi-
+lar expression patterns have been observed in avian,
+murine, and other mammalian models [75-77]. MIF has
+also been shown to promote proliferation and survival of
+neural stem progenitor cells in vitro [78].
+It is notable that MIF expression in the brain is local-
+ized in regions of cellular proliferation. As discussed
+above, MIF expression has been found in proliferating
+cells of the subgranular zone of the hippocampus, and is
+modulated by treatments affecting neurogenesis (chronic
+stress, corticosteroids, and antidepressants).  MIF dele-
+tion by genetics or inhibitors also attenuates both basal
+and induced neurogenesis [36].  Similarly, Moon et al.
+found that MIF induces the production of BDNF [69],
+whose role in neurogenesis is well-established [70].  A
+summary of results from significant animal studies of
+MIF and depression can be found in Table 1.
+MIF as a biomarker
+With inflammation implicated in pathophysiology of de-
+pression, several groups have examined cytokines as de-
+pression biomarkers [79]. Rodent studies have indicated
+that serum MIF increases in response to acute stress
+[49,80]. Several groups have examined MIF levels in hu-
+man serum in the context of depressive symptoms. A
+study of male undergraduate students presented with a
+public speaking task determined that subjects with mild
+to moderate depression on the BDI demonstrated higher
+baseline serum levels of MIF as well as increased lym-
+phocytes [59,81].  Similar results have been reported in
+pregnant women, where an association was determined
+between depressive symptoms and increased MIF. In-
+creased serum MIF was also observed after an immune
+challenge in pregnant patients with depressive symptoms
+as measured by the Center for Epidemiologic Studies
+Depression Scale (CES-D) [82]. Interestingly, studies of
+healthy patients with negative mood symptoms as mea-
+sured by the Zung self-rating depression scale (SDS)
+showed no significant association between serum MIF
+and SDS mood scores [83]; associations were found with
+IL-1β, a species known to be elevated in depression [84].
+MIF has also been examined as a biomarker in the
+context of clinical depression. In a drug trial examining
+celecoxib add-on therapy to reboxetine (a norepineph-
+rine reuptake inhibitor), MDD patients had an increased
+serum MIF at baseline with no change during treatment
+[85].  Similar results were found in an analysis of
+leukocyte mRNA expression in serum from participants
+Page 5
+Bloom and Al-Abed Journal of Neuroinflammation 2014, 11:11
+http://www.jneuroinflammation.com/content/11/1/11 
+Page 5 of 9
+Table 1 Animal studies of macrophage migration inhibitory factor (MIF) in the setting of depression or depressive
+etiologies
+Authors Model (n)  Intervention Analysis  Results
+Conboy Adult male Wistar rats (48)
+et al. [36] 
+Chronic unpredictable stress, Immunohistochemistry for Ki-67,
+chronic corticosterone MIF-IR cells in dentate gyrus 
+MIF co-localizes with proliferative
+markers
+MIF levels correlate with
+neurogenesis
+WT and MIF KO mice (16)  Fluoxetine (ip, od/14days),
+ISO1 (od/14days) 
+Immunohistochemistry for PCNA,
+DCX, BrdU, Ki-67, MIF-IR cells in
+dentate gyrus 
+Loss of MIF results in decreased
+basal and antidepressant-
+stimulated neurogenesis
+WT and MIF KO mice
+(9, 16, 20, 8) 
+Acute stress exposure ELISA for serum corticosterone,
+Western blot for receptor expression 
+MIF KO mice show no significant
+difference from WT in levels of
+serum glucocorticoids or receptor
+expression
+WT and MIF KO mice (52, 20) None  FST, water maze, acoustic fear
+conditioning 
+MIF KO mice show increased
+behavioral despair
+MIF KO mice show impaired
+hippocampal spatial learning and
+memory, intact amygdalar fear
+conditioning
+Moon Male Sprague–Dawley rats
+et al. [69] (13, 4) 
+Voluntary exercise (running
+wheel), ECS (55 mA pulses,
+100/s) 
+RT-PCR, Western blot,
+immunohistochemistry for MIF
+mRNA/protein 
+MIF mRNA is upregulated by
+exercise and ECS
+Neuro-2A and RBL-2H3 cells (3);  MIF (300 ng/mL), exercise/ECS RT-PCR for candidate genes (Bdnf,
+WT and MIF KO mice (12 to  (see above), MIF (icv), CD74 Fgf2) and neurogenesis genes (Dcx,
+16); male Sprague–Dawley rats siRNA, CT04 (5ug/mL), U0126 Pax6), HPLC for 5HT, Western blot
+(8 to 12)  (10 uM)  for P-ERK1/2 
+MIF induces expression of BDNF
+and Tph2, and also increases
+intracellular concentrations of 5HT
+Effects on BDNF, Tph2, and 5HT
+are CD74 and ERK1/2 dependent
+WT and MIF KO mice (12 to  Exercise (see above), MIF (icv) FST
+16); male Sprague–Dawley rats
+(16 to 20) 
+MIF KO mice show diminished
+antidepressant effects of exercise
+Exogenous recombinant MIF has
+antidepressant activity
+ECS = electroconvulsive shock; FST = forced swim test; icv = intracerebroventricular injection; ip = intraperitoneal injection; IR = immunoreactive; KO = knockout;
+od = once daily; WT = wild-type.
+in the Genome-based Therapeutic Drugs for Depression
+(GENDEP) project. In addition to observing increased
+MIF in MDD patients compared to healthy controls, the
+group also found that treatment responders had signifi-
+cantly higher levels of serum MIF than patients who
+resisted treatment. MIF levels were shown to reduce
+over time in this study, but this was not associated with
+treatment response [86]. Results of human studies with
+MIF and depression are summarized in Table 2.
+Discussion
+Despite significant evidence for MIF involvement in
+the pathobiology of depression, some uncertainty re-
+mains about its exact role. MIF is an established spe-
+cies in the brain with suggested protective roles against
+neurodegenerative disease [38].  Multiple groups have
+identified a role for MIF in mediating antidepressant
+activities, and have shown that loss of MIF results in
+an antidepressant phenotype; there is even evidence
+that MIF has direct antidepressant effects. These stud-
+ies have linked MIF to monoamine production and
+neurogenesis, both implicated in the pathobiology of 
+depression [36,69].  Conversely, increased serum MIF
+has been identified in both patients with major depres-
+sion and healthy subjects with depressive symptoms
+[81,82,85,86],  although these studies have shown
+mixed results [83].  At least one study has associated
+these changes with the HPA axis, which has also been
+implicated in depression [59]. See Figure 1 for a sum-
+mary of putative roles for MIF in depression.
+It seems counterintuitive to assert that MIF is both an
+antidepressant and a biomarker of depression. However,
+it is important to realize that the Conboy and Moon
+studies were working with MIF native to the brain, while
+the biomarker studies were analyzing MIF levels in per-
+ipheral blood. MIF does not cross the blood brain bar-
+rier [87,88], and differential expression in the two areas
+may explain the differing observations. MIF levels in
+plasma may be incidental to the mechanisms of depres-
+sion or may arise as a consequence of a different but
+related process. It is also possible that the two results
+are not mutually exclusive, and increased MIF in de-
+pressed individuals is a physiological adaptation to the
+pathobiological changes of depression. It is notable in
+Page 6
+Bloom and Al-Abed Journal of Neuroinflammation 2014, 11:11
+http://www.jneuroinflammation.com/content/11/1/11 
+Page 6 of 9
+Table 2 Controlled studies of macrophage migration inhibitory factor (MIF) in major depressive disorder (MDD) or
+depressive mood
+Authors Subjects Depression Intervention
+measures (duration) 
+Analysis (t)  Pertinent results
+Hawkley 75 subjects BDI
+et al. [81] 
+Public speaking stress Serum MIF (0, 15 minutes) MIF levels are increased in subjects showing mild to
+task (once)  moderate depression (BDI)
+MIF levels are unaffected by the public speaking
+stress task
+Edwards 126 healthy BDI
+et al. [59] subjects 
+UCLA-R 
+Public speaking stress ELISA for serum MIF (0, 3, 15, MIF levels are increased at baseline in subjects
+task (once)  45 minutes)  showing high depressive symptoms (BDI)
+MIF levels do not change over the time course
+measured
+Christian 22 pregnant CES-D
+et al. [82] subjects 
+Vaccination for  ELISA for serum MIF (0, 1
+influenza virus (once) weeks) 
+Pregnant women with depressive symptoms (CES-D)
+show increased MIF levels at 1 week
+Katsuura 209 healthy Zung-SDS None
+et al. [83] subjects 
+Multiplex suspension array
+for serum levels of multiple
+immune mediators (0) 
+MIF levels are not significantly associated with
+depressive symptoms (SDS)
+Musil
+et al. [85] 
+32 MDD
+patients, 20
+healthy
+controls 
+DSM-IV
+HRSD 
+Treatment with
+reboxetine and add-
+on celecoxib
+(5weeks) 
+ELISA for serum MIF, TGFB,
+and sCD14 (0, 3, 5 weeks) 
+MIF levels are increased at baseline in MDD patients
+MIF levels are unchanged during reboxetine
+treatment
+Celecoxib reduces HamD scores but does not affect
+MIF levels
+Cattaneo
+et al. [86] 
+74 MDD
+patients, 34
+healthy
+controls 
+DSM-IV
+MADRS
+HRSD 
+Treatment with
+escitalopram or
+nortryptiline
+(8 weeks) 
+qPCR for serum leukocyte MIF mRNA levels are increased at baseline in
+mRNA levels of several treatment-responsive MDD patients; MIF mRNA levels
+candidate genes (0, 8 weeks) decrease during treatment, but with no correlation to
+treatment response
+BDI
+All studies collected serum from subjects at the times indicated (0 = baseline) for measurements of peripheral MIF levels. BDI = Beck Depression Inventory;
+CES-D = Center for Epidemiologic Studies Depression Scale; DSM-IV = Diagnostics and Statistics Manual of Mental Disorders, 4th edition; HRSD = Hamilton Depression
+Scale 17-item version; MADRS = Montgomery-Asberg Depression Rating Scale; SDS = Self-Rating Depression Scale; UCLA-R = Revised UCLA Loneliness Scale.
+this regard that increased MIF in depressed patients has
+been found to correlate with treatment response [86].
+MIF underlies the pathophysiology of several disease
+conditions, and MIF inhibition is well characterized and
+widely used in research [64].  Anti-MIF antibodies are
+currently being investigated in Phase I clinical trials [89].
+It seems inevitable that some form of MIF inhibitors will
+soon become available at the clinical level. When this 
+occurs, MIF’s role in depression - whatever it may be -
+will be highly relevant. If MIF is found to promote de-
+pression, then MIF inhibitors could be investigated as
+antidepressants; ISO-1, the most tested MIF inhibitor,
+has already been shown to cross the blood brain barrier
+[36].  If MIF acts as an antidepressant, then anti-MIF
+therapeutics can be engineered not to cross the blood
+brain barrier, bypassing depression as a possible off-
+target effect.
+BDNF 
+neurogenesis
+MIF GCs
+Tph2 
+5HT
+NM 
+neuroprotection
+antidepressants
+exercise
+Figure 1 Putative roles for macrophage migration inhibitory
+factor (MIF) in depression. GCs = glucocorticoids; NM = neuromelanin.
+(Single column fitting figure; color for Web only). 
+Conclusion
+There are clear gaps in the research concerning MIF and
+depression. Future studies should work to elucidate the
+relationship between central and peripheral MIF in de-
+pression, if any exists. Further work should also be done
+to clarify MIF’s role as a pro- or antidepressant and its
+place in the pathobiology of depression. It may be useful
+to further analyze relationships with factors in and out
+of the monoamine and neurogenic pathways that have
+been shown to impact depression. Imaging studies have
+emerged as an important modality in neuropsychiatric
+disorders, including depression [90,91]; it may prove in-
+teresting to test how alterations in MIF expression affect
+the presentation of the disease on imaging studies. One
+Page 7
+Bloom and Al-Abed Journal of Neuroinflammation 2014, 11:11
+http://www.jneuroinflammation.com/content/11/1/11 
+Page 7 of 9
+advantage in these projects will be the fact that MIF is a
+well-studied molecule, with both established inhibitors
+and KO strains in rodent models.
+Although there is much to be done, it seems beyond
+doubt that MIF has great potential in studies of the
+mechanisms of major depression. In addition to interact-
+ing with known elements involved in the physiological
+changes of depression, it is also active in the brain and
+can be shown to have independent effects on the depres-
+sion phenotype. In addition to expanding our knowledge
+about this still-enigmatic disease, such studies can also
+inform current drug development efforts with anti-MIF
+therapy, as well as possibly provide the stagnant field of
+antidepressant treatment with a valuable new target in
+modifying the course of this disease.
+Abbreviations
+ACTH: adrenocorticotropic hormone; AP1: activator protein 1; BDI: Beck
+Depression Inventory; BDNF: brain-derived neurotrophic factor; CES-D: Center
+for Epidemiologic Studies Depression Scale; CNS: central nervous system;
+CRH: corticotrophin releasing hormone; ECT: electroconvulsive therapy;
+EPO: erythropoietin; ERK: extracellular signal-related kinase; FST: Porsolt
+forced swim test; GENDEP: Genome-based Therapeutic Drugs for Depression
+project; HPA: hypothalamic-pituitary-adrenal; HRSD: Hamilton Depression
+Scale 17-item version; icv: intracerebroventricular; IkB: inhibitory binding
+factor of NFkB; IFN: interferon; IL: interleukin; Jab1: JUN-activation domain
+binding protein 1; JNK: JUN N-terminal kinase; KO: knockout;
+MADRS: Montgomery-Asberg Depression Rating Scale; MAPK: mitogen-
+activated protein kinase; MDD: major depressive disorder; MIF: macrophage
+migration inhibitory factor; MO: Morpholino-mediated knockdown;
+NF: nuclear factor; PA: physical activity; PGE2: prostaglandin E2;
+PLA2: phospholipase A2; SDS: Zung self-rating depression scale;
+SSRI: selective serotonin reuptake inhibitor; Tph2: tryptophan hydroxylase-2;
+UCLA-R: Revised UCLA Loneliness Scale; WISH: whole-mount in situ
+hybridization.
+Competing interests
+Joshua Bloom has received an MD/PhD candidate stipend from the Hofstra
+North Shore LIJ School of Medicine. Yousef Al Abed is the inventor or co-
+inventor of several small-molecule inhibitors of MIF. The authors declare no
+other conflicts of interests.
+Authors’ contributions
+JB designed and drafted the manuscript; YA conceived of the study, helped
+draft the manuscript, and gave final approval of the version to be published.
+Both authors read and approved the final manuscript.
+Acknowledgements
+We thank Roman Sankowski, Sonya VanPatten, and Christine Metz for their
+critical reading and assistance with the manuscript.
+Received: 5 December 2013 Accepted: 7 January 2014
+Published: 21 January 2014
+References
+1.  American Psychiatric Association: Diagnostic and Statistical Manual of Mental
+Disorders, Fifth Edition (DSM-5). 5th edition. Washington DC: American
+Psychiatric Association; 2013.
+2.  Kessler RC, Ormel J, Petukhova M, McLaughlin KA, Green JG, Russo LJ, Stein
+DJ, Zaslavsky AM, Aguilar-Gaxiola S, Alonso J, Andrade L, Benjet C, de Giro-
+lamo G, de Graaf R, Demyttenaere K, Fayyad J, Haro JM, Hu CY, Karam A,
+Lee S, Lepine J-P, Matchsinger H, Mihaescu-Pintia C, Posada-Villa J, Sagar R,
+Ustün TB: Development of lifetime comorbidity in the World Health
+Organization world mental health surveys. Arch Gen Psychiatry 2011,
+68:90–100.
+3.  Andrade L, Caraveo-Anduaga JJ, Berglund P, Bijl RV, de Graaf R, Vollebergh
+W, Dragomirecka E, Kohn R, Keller M, Kessler RC, Kawakami N, Kiliç C, Offord 
+D, Ustün TB, Wittchen H-U: The epidemiology of major depressive epi-
+sodes: results from the International Consortium of Psychiatric Epidemi-
+ology (ICPE) surveys. Int J Methods Psychiatr Res 2003, 12:3–21.
+4.  Kessler RC, Chiu WT, Demler O, Merikangas KR, Walters EE: Prevalence,
+severity, and comorbidity of 12-month DSM-IV disorders in the National
+Comorbidity Survey Replication. Arch Gen Psychiatry 2005, 62:617–627.
+5.  Cowen PJ: Classification of depressive disorders. Curr Top Behav Neurosci
+2013, 14:3–13.
+6.  Kravitz RL, Ford DE: Introduction: chronic medical conditions and
+depression - the view from primary care. Am J Med 2008, 121:S1–S7.
+7.  Katon W, Fan M-Y, Unützer J, Taylor J, Pincus H, Schoenbaum M: Depression and
+diabetes: a potentially lethal combination. J Gen Intern Med 2008,
+23:1571–1575.
+8.  Biringer E, Mykletun A, Sundet K, Kroken R, Stordal KI, Lund A: A
+longitudinal analysis of neurocognitive function in unipolar depression.
+J Clin Exp Neuropsychol 2007, 29:879–891.
+9.  Martínez-Arán A, Vieta E, Colom F, Torrent C, Sánchez-Moreno J,
+Reinares M, Benabarre A, Goikolea JM, Brugué E, Daban C, Salamero
+M: Cognitive impairment in euthymic bipolar patients: implications
+for clinical and functional outcome. Bipolar Disord 2004, 6:224–232.
+10. Behnken A, Schöning S, Gerss J, Konrad C, de Jong-Meyer R, Zwanzger P,
+Arolt V: Persistent non-verbal memory impairment in remitted major
+depression - caused by encoding deficits? J Affect Disord 2010, 122:144–148.
+11. Trivedi MH, Rush AJ, Wisniewski SR, Nierenberg AA, Warden D, Ritz L,
+Norquist G, Howland RH, Lebowitz B, McGrath PJ, Shores-Wilson K, Biggs
+MM, Balasubramani GK, Fava M, STAR*D Study Team: Evaluation of
+outcomes with citalopram for depression using measurement-based care in
+STAR*D: implications for clinical practice. Am J Psychiatry 2006, 163:28–40.
+12. Krishnan V, Nestler EJ: The molecular neurobiology of depression.
+Nature 2008, 455:894–902.
+13. Gibbons RD, Hur K, Brown CH, Davis JM, Mann JJ: Benefits from
+antidepressants: synthesis of six-week patient-level outcomes from double-
+blind placebo-controlled randomized trials of fluoxetine and venlafaxine.
+Arch Gen Psychiatry 2012, 69:572–579.
+14. Anisman H, Hayley S: Inflammatory factors contribute to depression and
+its comorbid conditions. Sci Signal 2012, 5:pe45–pe45.
+15. Dantzer R, O’Connor JC, Freund GG, Johnson RW, Kelley KW: From inflammation
+to sickness and depression: when the immune system subjugates the brain.
+Nat Rev Neurosci 2008, 9:46–56.
+16. Miller AH, Maletic V, Raison CL: Inflammation and its discontents: the role
+of cytokines in the pathophysiology of major depression. Biol Psychiatry
+2009, 65:732–741.
+17. Raison CL, Miller AH: When not enough is too much: the role of insufficient
+glucocorticoid signaling in the pathophysiology of stress-related disorders.
+Am J Psychiatry 2003, 160:1554–1565.
+18. Dobos N, de Vries EFJ, Kema IP, Patas K, Prins M, Nijholt IM, Dierckx RA, Korf J,
+den JA B, Luiten PGM, Eisel ULM: The role of indoleamine 2,3-dioxygenase in a
+mouse model of neuroinflammation-induced depression. J Alzheimers Dis
+2012, 28:905–915.
+19. Savaskan NE, Fingerle-Rowson G, Buchfelder M, Eyüpoglu IY: Brain miffed
+by macrophage migration inhibitory factor. Int J Cell Biol 2012, 2012:1–11.
+20. Calandra T, Roger T: Macrophage migration inhibitory factor: a regulator
+of innate immunity. Nat Rev Immunol 2003, 3:791–800.
+21. Flaster H, Bernhagen J, Calandra T, Bucala R: The macrophage migration
+inhibitory factor-glucocorticoid dyad: regulation of inflammation and
+immunity. Mol Endocrinol 2007, 21:1267–1280.
+22. Kleemann R, Hausser A, Geiger G, Mischke R, Burger-Kentischer A, Flieger O,
+Johannes FJ, Roger T, Calandra T, Kapurniotu A, Grell M, Finkelmeier D, Brunner H,
+Bernhagen J: Intracellular action of the cytokine MIF to modulate AP-1 activity
+and the cell cycle through Jab1. Nature 2000, 408:211–216.
+23. Calandra T, Echtenacher B, Roy DL, Pugin J, Metz CN, Hültner L,
+Heumann D, Männel D, Bucala R, Glauser MP: Protection from septic
+shock by neutralization of macrophage migration inhibitory factor.
+Nat Med 2000, 6:164–170.
+24. Lue H, Kleemann R, Calandra T, Roger T, Bernhagen J: Macrophage
+migration inhibitory factor (MIF): mechanisms of action and role in
+disease. Microbes Infect 2002, 4:449–460.
+25. Das R, Koo MS, Kim BH, Jacob ST: Macrophage Migration Inhibitory Factor
+(MIF) is a critical mediator of the innate immune response to
+mycobacterium tuberculosis. Proc Natl Acad Sci USA 2013,
+110(32):E2997–E3006.
+Page 8
+Bloom and Al-Abed Journal of Neuroinflammation 2014, 11:11
+http://www.jneuroinflammation.com/content/11/1/11 
+Page 8 of 9
+26. Toso C, Emamaullee JA, Merani S, Shapiro AMJ: The role of macrophage
+migration inhibitory factor on glucose metabolism and diabetes.
+Diabetologia 2008, 51:1937–1946.
+27. Leng L, Bucala R: Insight into the biology of macrophage migration
+inhibitory factor (MIF) revealed by the cloning of its cell surface
+receptor. Cell Res 2006, 16:162–168.
+28. Mitchell RA, Metz CN, Peng T, Bucala R: Sustained mitogen-activated
+protein kinase (MAPK) and cytoplasmic phospholipase A2 activation by
+macrophage migration inhibitory factor (MIF). Regulatory role in cell
+proliferation and glucocorticoid action. J Biol Chem 1999, 274:18100–18106.
+29. Roger T, David J, Glauser MP, Calandra T: MIF regulates innate immune
+responses through modulation of Toll-like receptor 4. Nature 2001,
+414:920–924.
+30. Hudson JD, Shoaibi MA, Maestro R, Carnero A, Hannon GJ, Beach DH: A
+proinflammatory cytokine inhibits p53 tumor suppressor activity. J Exp
+Med 1999, 190:1375–1382.
+31. Rosengren E, Bucala R, Aman P, Jacobsson L, Odh G, Metz CN, Rorsman H:
+The immunoregulatory mediator macrophage migration inhibitory factor
+(MIF) catalyzes a tautomerization reaction. Mol Med 1996, 2:143–149.
+32. Kleemann R, Kapurniotu A, Frank RW, Gessner A, Mischke R, Flieger O,
+Jüttner S, Brunner H, Bernhagen J: Disulfide analysis reveals a role for
+macrophage migration inhibitory factor (MIF) as thiol-protein
+oxidoreductase. J Mol Biol 1998, 280:85–102.
+33. Nishibori M, Nakaya N, Tahara A, Kawabata M, Mori S, Saeki K: Presence of
+macrophage migration inhibitory factor (MIF) in ependyma, astrocytes
+and neurons in the bovine brain. Neurosci Lett 1996, 213:193–196.
+34. Ogata A, Nishihira J, Suzuki T, Nagashima K, Tashiro K: Identification of
+macrophage migration inhibitory factor mRNA expression in neural cells
+of the rat brain by in situ hybridization. Neurosci Lett 1998, 246:173–177.
+35. Bacher M, Meinhardt A, Lan HY, Dhabhar FS, Mu W, Metz CN, Chesney JA,
+Gemsa D, Donnelly T, Atkins RC, Bucala R: MIF expression in the rat brain:
+implications for neuronal function. Mol Med 1998, 4:217–230.
+36. Conboy L, Varea E, Castro JE, Sakouhi-Ouertatani H, Calandra T, Lashuel HA,
+Sandi C: Macrophage migration inhibitory factor is critically involved in
+basal and fluoxetine-stimulated adult hippocampal cell proliferation and
+in anxiety, depression, and memory-related behaviors. Mol Psychiatry
+2010, 16:533–547.
+37. Matsunaga J: Enzyme activity of macrophage migration inhibitory factor
+toward oxidized catecholamines. J Biol Chem 1999, 274:3268–3271.
+38. Solano F, Hearing VJ, García-Borrón JC: Neurotoxicity due to o-quinones:
+neuromelanin formation and possible mechanisms for o-quinone
+detoxification. Neurotox Res 2000, 1:153–169.
+39. Rao K, Hegde M, Anitha S, Musicco M, Zucca F, Turro N, Zecca L: Amyloid β
+and neuromelanin - toxic or protective molecules? The cellular context
+makes the difference. Prog Neurobiol 2006, 78:364–373.
+40. Kithcart AP, Cox GM, Sielecki T, Short A, Pruitt J, Papenfuss T, Shawler T,
+Gienapp I, Satoskar AR, Whitacre CC: A small-molecule inhibitor of
+macrophage migration inhibitory factor for the treatment of inflammatory
+disease. FASEB J 2010, 24:4459–4466.
+41. Chen Y, Wu X, Yu S, Lin X, Wu J, Li L, Zhao J, Zhao Y: Neuroprotection of
+tanshinone IIA against cerebral ischemia/reperfusion injury through
+inhibition of macrophage migration inhibitory factor in rats. PLoS ONE
+2012, 7:e40165.
+42. Schmidt EF, Warner-Schmidt JL, Otopalik BG, Pickett SB, Greengard P, Heintz
+N: Identification of the cortical neurons that mediate antidepressant
+responses. Cell 2012, 149:1152–1163.
+43. Drevets WC, Price JL, Furey ML: Brain structural and functional
+abnormalities in mood disorders: implications for neurocircuitry models
+of depression. Brain Struct Funct 2008, 213:93–118.
+44. Mayberg HS: Targeted electrode-based modulation of neural circuits for
+depression. J Clin Invest 2009, 119:717–725.
+45. Ling J, Kumar R: Crosstalk between NFkB and glucocorticoid signaling: a
+potential target of breast cancer therapy. Cancer Lett 2012, 322:119–126.
+46. Roviezzo F, Getting SJ, Paul-Clark MJ, Yona S, Gavins FNE, Perretti M, Hannon
+R, Croxtall JD, Buckingham JC, Flower RJ: The annexin-1 knockout mouse:
+what it tells us about the inflammatory response. J Physiol Pharmacol
+2002, 53:541–553.
+47. Lasa M, Abraham SM, Boucheron C, Saklatvala J, Clark AR: Dexamethasone
+causes sustained expression of mitogen-activated protein kinase (MAPK)
+phosphatase 1 and phosphatase-mediated inhibition of MAPK p38.
+Mol Cell Biol 2002, 22:7802–7811. 
+48. Swantek JL, Cobb MH, Geppert TD: Jun N-terminal kinase/stress-activated
+protein kinase (JNK/SAPK) is required for lipopolysaccharide stimulation
+of tumor necrosis factor alpha (TNF-alpha) translation: glucocorticoids
+inhibit TNF-alpha translation by blocking JNK/SAPK. Mol Cell Biol 1997,
+17:6274–6282.
+49. Baugh JA, Donnelly SC: Macrophage migration inhibitory factor: a
+neuroendocrine modulator of chronic inflammation. J Endocrinol 2003,
+179:15–23.
+50. Bucala R: MIF rediscovered: cytokine, pituitary hormone, and
+glucocorticoid-induced regulator of the immune response. FASEB J 1996,
+10:1607–1613.
+51. Calandra T, Bernhagen J, Metz CN, Spiegel LA, Bacher M, Donnelly T, Cerami
+A, Bucala R: MIF as a glucocorticoid-induced modulator of cytokine
+production. Nature 1995, 377:68–71.
+52. Kathol RG, Jaeckle RS, Lopez JF, Meller WH: Pathophysiology of HPA axis
+abnormalities in patients with major depression: an update. Am J
+Psychiatry 1989, 146:311–317.
+53. Pariante CM, Nemeroff CB, Miller AH: Glucocorticoid receptors in
+depression. Isr J Med Sci 1995, 31:705–712.
+54. Parker KJ, Schatzberg AF, Lyons DM: Neuroendocrine aspects of
+hypercortisolism in major depression. Horm Behav 2003, 43:60–66.
+55. Brown ES, Varghese FP, McEwen BS: Association of depression with
+medical illness: does cortisol play a role? Biol Psychiatry 2004, 55:1–9.
+56. Plotsky PM, Owens MJ, Nemeroff CB: Psychoneuroendocrinology of
+depression. Hypothalamic-pituitary-adrenal axis. Psychiatr Clin North Am
+1998, 21:293–307.
+57. Neigh GN, Nemeroff CB: Reduced glucocorticoid receptors: consequence
+or cause of depression? Trends Endocrinol Metab 2006, 17:124–125.
+58. Joëls M, Karst H, Krugers HJ, Lucassen PJ: Chronic stress: implications for
+neuronal morphology, function and neurogenesis. Front Neuroendocrinol
+2007, 28:72–96.
+59. Edwards KM, Bosch JA, Engeland CG, Cacioppo JT, Marucha PT: Elevated
+macrophage migration inhibitory factor (MIF) is associated with
+depressive symptoms, blunted cortisol reactivity to acute stress, and
+lowered morning cortisol. Brain Behav Immun 2010, 24:1202–1208.
+60. Cryan JF, Markou A, Lucki I: Assessing antidepressant activity in rodents:
+recent developments and future needs. Trends Pharmacol Sci 2002,
+23:238–245.
+61. Berton O, Hahn CG, Thase ME: Are we getting closer to valid translational
+models for major depression? Science 2012, 338:75–79.
+62. Perez-Caballero L, Rez-Egea RPE, Romero-Grimaldi C, Puigdemont D, Molet
+J, Caso J-R, Mico J-A, Rez VPE, Leza J-C, Berrocoso E: Early responses to
+deep brain stimulation in depression are modulated by anti-
+inflammatory drugs. Mol Psychiatry 2013:1–8. doi:10.1038/mp.2013.63.
+63. Gourley SL, Wu FJ, Kiraly DD, Ploski JE, Kedves AT, Duman RS, Taylor JR:
+Regionally specific regulation of ERK MAP kinase in a model of
+antidepressant-sensitive chronic depression. Biol Psychiatry 2008,
+63:353–359.
+64. Al-Abed Y, VanPatten S: MIF as a disease target: ISO-1 as a proof-of-
+concept therapeutic. Future Med Chem 2011, 3:45–63.
+65. Baune BT: Treating depression and depression-like behavior with physical
+activity: an immune perspective. Front Psychiatry 2013:1–27. doi:10.3389/
+fpsyt.2013.00003.
+66. Miskowiak KW, Vinberg M, Harmer CJ, Ehrenreich H, Kessing LV:
+Erythropoietin: a candidate treatment for mood symptoms and memory
+dysfunction in depression. Psychopharmacology (Berl) 2011, 219:687–698.
+67. Marti HH, Wenger RH, Rivas LA, Straumann U, Digicaylioglu M, Henn V,
+Yonekawa Y, Bauer C, Gassmann M: Erythropoietin gene expression in
+human, monkey and murine brain. Eur J Neurosci 1996, 8:666–676.
+68. Brines M, Cerami A: Emerging biological roles for erythropoietin in the
+nervous system. Nat Rev Neurosci 2005, 6:484–494.
+69. Moon HY, Kim SH, Yang YR, Song P, Yu HS, Park HG, Hwang O, Lee-Kwon
+W, Seo JK, Hwang D, Choi JH, Bucala R, Ryu SH, Kim YS, Suh P-G:
+Macrophage migration inhibitory factor mediates the antidepressant actions
+of voluntary exercise. Proc Natl Acad Sci USA 2012, 109:13094–13099.
+70. Shirayama Y, Chen AC-H, Nakagawa S, Russell DS, Duman RS: Brain-derived
+neurotrophic factor produces antidepressant effects in behavioral
+models of depression. J Neurosci 2002, 22:3251–3261.
+71. Gutknecht L, Waider J, Kraft S, Kriegebaum C, Holtmann B, Reif A, Schmitt A,
+Lesch K-P: Deficiency of brain 5-HT synthesis but serotonergic neuron
+formation in Tph2 knockout mice. J Neural Transm 2008, 115:1127–1132.
+Page 9
+Bloom and Al-Abed Journal of Neuroinflammation 2014, 11:11
+http://www.jneuroinflammation.com/content/11/1/11 
+Page 9 of 9
+72. Swant JD: Rho GTPase-dependent signaling is required for macrophage
+migration inhibitory factor-mediated expression of cyclin D1. J Biol Chem
+2005, 280:23066–23072.
+73. Weinberg RA: The retinoblastoma protein and cell cycle control. Cell 1995,
+81:323–330.
+74. Ito K, Yoshiura Y, Ototake M, Nakanishi T: Macrophage migration inhibitory
+factor (MIF) is essential for development of zebrafish, Danio rerio.
+Dev Comp Immunol 2008, 32:664–672.
+75. Wistow GJ, Shaughnessy MP, Lee DC, Hodin J, Zelenka PS: A macrophage
+migration inhibitory factor is expressed in the differentiating cells of the
+eye lens. Proc Natl Acad Sci USA 1993, 90:1272–1275.
+76. Kobayashi S, Satomura K, Levsky JM, Sreenath T, Wistow GJ, Semba I, Shum
+L, Slavkin HC, Kulkarni AB: Expression pattern of macrophage migration
+inhibitory factor during embryogenesis. Mech Dev 1999, 84:153–156.
+77. Suzuki T, Ogata A, Tashiro K, Nagashima K, Tamura M, Nishihira J:
+Augmented expression of macrophage migration inhibitory factor (MIF)
+in the telencephalon of the developing rat brain. Brain Res 1999,
+816:457–462.
+78. Ohta S, Misawa A, Fukaya R, Inoue S, Kanemura Y, Okano H, Kawakami Y,
+Toda M: Macrophage migration inhibitory factor (MIF) promotes cell
+survival and proliferation of neural stem/progenitor cells. J Cell Sci 2012,
+125:3210–3220.
+79. Dowlati Y, Herrmann N, Swardfager W, Liu H, Sham L, Reim EK, Lanctôt KL:
+A meta-analysis of cytokines in major depression. Biol Psychiatry 2010,
+67:446–457.
+80. Lu XT, Liu YF, Zhao L, Li WJ, Yang RX, Yan FF, Zhao YX, Jiang F: Chronic
+psychological stress induces vascular inflammation in rabbits. Stress 2013,
+16:87–98.
+81. Hawkley LC, Bosch AJ, Engeland GC, Marucha TP, Cacioppo TJ: Cytokines.
+Boca Raton, FL: CRC Press; 2006. 33487-2742.
+82. Christian LM, Franco A, Iams JD, Sheridan J, Glaser R: Depressive symptoms
+predict exaggerated inflammatory responses to an in vivo immune
+challenge among pregnant women. Brain Behav Immun 2010, 24:49–53.
+83. Katsuura S, Kamezaki Y, Yamagishi N, Kuwano Y, Nishida K, Masuda K,
+Tanahashi T, Kawai T, Arisawa K, Rokutan K: Circulating vascular endothelial
+growth factor is independently and negatively associated with trait
+anxiety and depressive mood in healthy Japanese university students.
+Int J Psychophysiol 2011, 81:38–43.
+84. Zunszain PA, Hepgul N, Pariante CM: Inflammation and depression.
+Curr Top Behav Neurosci 2013, 14:135–151.
+85. Musil R, Schwarz MJ, Riedel M, Dehning S, Cerovecki A, Spellmann I, Arolt V,
+Müller N: Elevated macrophage migration inhibitory factor and
+decreased transforming growth factor-beta levels in major depression -
+No influence of celecoxib treatment. J Affect Disord 2011, 134:217–225.
+86. Cattaneo A, Gennarelli M, Uher R, Breen G, Farmer A, Aitchison KJ, Craig IW,
+Anacker C, Zunsztain PA, McGuffin P, Pariante CM: Candidate genes
+expression profile associated with antidepressants response in the
+GENDEP study: differentiating between baseline ‘Predictors’ and
+longitudinal ‘Targets’. Neuropsychopharmacology 2012, 38:377–385.
+87. Bacher M, Weihe E, Dietzschold B, Meinhardt A, Vedder H, Gemsa D, Bette
+M: Borna disease virus-induced accumulation of macrophage migration
+inhibitory factor in rat brain astrocytes is associated with inhibition of
+macrophage infiltration. Glia 2002, 37:291–306.
+88. Arjona A, Foellmer HG, Town T, Leng L, McDonald C, Wang T, Wong SJ,
+Montgomery RR, Fikrig E, Bucala R: Abrogation of macrophage migration
+inhibitory factor decreases West Nile virus lethality by limiting viral
+neuroinvasion. J Clin Invest 2007, 117:3059–3066.
+89. Kyhos B, Spak D: Baxter initiates phase I clinical trial with anti-MIF
+antibody in patients with solid tumors. 2012:1–2. [URL: "http://www.baxter.com/press_room/press_releases/2012/09_05_12_anti-mif.html"] http://www.baxter.com/
+ press_room/press_releases/2012/09_05_12_anti-mif.html.
+90. Schneider B, Prvulovic D: Novel biomarkers in major depression. Curr Opin
+Psychiatry 2013, 26:47–53.
+91. Pandya M, Altinay M, Malone DA, Anand A: Where in the brain is
+depression? Curr Psychiatry Rep 2012, 14:634–642.
+doi:10.1186/1742-2094-11-11
+Cite this article as: Bloom and Al-Abed: MIF: Mood Improving/Inhibiting
+Factor? Journal of Neuroinflammation 2014 11:11. 
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color ﬁgure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at
+www.biomedcentral.com/submit

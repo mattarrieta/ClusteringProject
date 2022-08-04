@@ -1,0 +1,1127 @@
+CrossMarkDomains[1]: springer.com
+Creator: Adobe InDesign 15.0 (Windows)
+ModDate: 2022/06/10 06:39:35+02'00'
+Trapped: 
+CreationDate: 2022/06/06 17:08:44 (UTC)
+CrossmarkMajorVersionDate: 2010-04-23
+Subject: Microbiome, https://doi.org/10.1186/s40168-022-01281-4
+Author: Niels van Best
+Title: Should we modulate the neonatal microbiome and what should be the goal?
+CrossmarkDomainExclusive: true
+robots: noindex
+Producer: Adobe PDF Library 15.0; modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)
+doi: 10.1186/s40168-022-01281-4
+CrossMarkDomains[2]: springerlink.com
+xmp:xmp:CreateDate: 2022-06-06T17:08:44
+xmp:xmp:CreatorTool: Adobe InDesign 15.0 (Windows)
+xmp:xmp:ModifyDate: 2022-06-10T06:39:35+02:00
+xmp:xmp:MetadataDate: 2022-06-10T06:39:35+02:00
+xmp:dc:format: application/pdf
+xmp:dc:identifier: https://doi.org/10.1186/s40168-022-01281-4
+xmp:dc:publisher: BioMed Central
+xmp:dc:description: Microbiome, https://doi.org/10.1186/s40168-022-01281-4
+xmp:dc:title: Should we modulate the neonatal microbiome and what should be the goal?
+xmp:dc:creator: Niels van Best; Maria Gloria Dominguez-Bello; Mathias W. Hornef; Eldin Jašarević; Katri Korpela; Trevor D. Lawley
+xmp:crossmark:DOI: 10.1186/s40168-022-01281-4
+xmp:crossmark:MajorVersionDate: 2010-04-23
+xmp:crossmark:CrossmarkDomainExclusive: true
+xmp:crossmark:CrossMarkDomains: springer.com; springerlink.com
+xmp:prism:url: https://doi.org/10.1186/s40168-022-01281-4
+xmp:prism:doi: 10.1186/s40168-022-01281-4
+xmp:prism:issn: 2049-2618
+xmp:prism:aggregationType: journal
+xmp:prism:publicationName: Microbiome
+xmp:prism:copyright: The Author(s)
+xmp:pdfx:CrossmarkMajorVersionDate: 2010-04-23
+xmp:pdfx:CrossmarkDomainExclusive: true
+xmp:pdfx:doi: 10.1186/s40168-022-01281-4
+xmp:pdfx:robots: noindex
+xmp:pdfx:CrossMarkDomains: springer.com; springerlink.com
+xmp:pdf:Producer: Adobe PDF Library 15.0; modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)
+xmp:pdf:Trapped: False
+xmp:xmpMM:DocumentID: uuid:92b99743-6d84-4b76-b390-b9319b6c3c80
+xmp:xmpMM:InstanceID: uuid:a5dce94b-ba4a-4086-b4ff-add0709a8c57
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:92b99743-6d84-4b76-b390-b9319b6c3c80
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2022-06-09T04:55:53Z
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdfx/1.3/
+xmp:pdfaSchema:prefix: pdfx
+xmp:pdfaSchema:schema: Adobe Document Info PDF eXtension Schema
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Mirrors crossmark:MajorVersionDate
+xmp:pdfaProperty:name: CrossmarkMajorVersionDate
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Mirrors crossmark:CrossmarkDomainExclusive
+xmp:pdfaProperty:name: CrossmarkDomainExclusive
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Mirrors crossmark:DOI
+xmp:pdfaProperty:name: doi
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Mirrors crossmark:CrosMarkDomains
+xmp:pdfaProperty:name: CrossMarkDomains
+xmp:pdfaProperty:valueType: seq Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A name object indicating whether the document has been modified to include trapping information
+xmp:pdfaProperty:name: robots
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: ID of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXVersion
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Conformance level of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXConformance
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Company creating the PDF
+xmp:pdfaProperty:name: Company
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Date when document was last modified
+xmp:pdfaProperty:name: SourceModified
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://crossref.org/crossmark/1.0/
+xmp:pdfaSchema:prefix: crossmark
+xmp:pdfaSchema:schema: Crossmark Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Usual same as prism:doi
+xmp:pdfaProperty:name: DOI
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: The date when a publication was publishe.
+xmp:pdfaProperty:name: MajorVersionDate
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: CrossmarkDomainExclusive
+xmp:pdfaProperty:name: CrossmarkDomainExclusive
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: CrossMarkDomains
+xmp:pdfaProperty:name: CrossMarkDomains
+xmp:pdfaProperty:valueType: seq Text
+xmp:pdfaSchema:namespaceURI: http://prismstandard.org/namespaces/basic/2.0/
+xmp:pdfaSchema:prefix: prism
+xmp:pdfaSchema:schema: Prism Schema
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: This element provides the url for an article or unit of content. The attribute platform is optionally allowed for situations in which multiple URLs must be specified. PRISM recommends that a subset of the PCV platform values, namely “mobile” and “web”, be used in conjunction with this element. NOTE: PRISM recommends against the use of the #other value allowed in the PRISM Platform controlled vocabulary. In lieu of using #other please reach out to the PRISM group at prism-wg@yahoogroups.com to request addition of your term to the Platform Controlled Vocabulary.
+xmp:pdfaProperty:name: url
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: The Digital Object Identifier for the article.
+The DOI may also be used as the dc:identifier. If used as a dc:identifier, the URI form should be captured, and the bare identifier should also be captured using prism:doi. If an alternate unique identifier is used as the required dc:identifier, then the DOI should be specified as a bare identifier within prism:doi only. If the URL associated with a DOI is to be specified, then prism:url may be used in conjunction with prism:doi in order to provide the service endpoint (i.e. the URL).
+xmp:pdfaProperty:name: doi
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: ISSN for an electronic version of the issue in which the resource occurs. Permits publishers to include a second ISSN, identifying an electronic version of the issue in which the resource occurs (therefore e(lectronic)Issn. If used, prism:eIssn MUST contain the ISSN of the electronic version.
+xmp:pdfaProperty:name: issn
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Volume number
+xmp:pdfaProperty:name: volume
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Issue number
+xmp:pdfaProperty:name: number
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Starting page
+xmp:pdfaProperty:name: startingPage
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Ending page
+xmp:pdfaProperty:name: endingPage
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: The aggregation type specifies the unit of aggregation for a content collection. Comment PRISM recommends that the PRISM Aggregation Type Controlled Vocabulary be used to provide values for this element. Note: PRISM recommends against the use of the #other value currently allowed in this controlled vocabulary. In lieu of using #other please reach out to the PRISM group at info@prismstandard.org to request addition of your term to the Aggregation Type Controlled Vocabulary.
+xmp:pdfaProperty:name: aggregationType
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Title of the magazine, or other publicatiBOOKMARKS:
+Should we modulate the neonatal microbiome and what should be the goal?
+  A neonatal microbiome of opportunity?
+    Mathias W. Hornef and Niels van Best
+  Influence of the prenatal maternal microbiome on neonatal health?
+    Eldin Jašarević
+  Should we vaginally seed the neonatal microbiome after C-section?
+    Maria Gloria Dominguez-Bello
+  Should we restore the neonatal microbiome after C-section with fecal microbiota transplantation or probiotics?
+    Katri Korpela
+  Maternal Microbiome Transmission as Inspiration for Translational Research
+    Trevor D. Lawley
+  References
+Page 1
+van Best et al. Microbiome (2022) 10:74 
+https://doi.org/10.1186/s40168-022-01281-4
+COMMENTA RY  Open Access
+Should we modulate the neonatal
+microbiome and what should be the goal?
+Niels van Best1,2*, Maria Gloria Dominguez‑Bello3*, Mathias W. Hornef1*, Eldin Jašarević4*, Katri Korpela5* and
+Trevor D. Lawley6* 
+Neonatal microbiome initialization and maturation have
+been a major focus of recent microbiome research. Peri-
+natal influence factors, in particular the birth type by vag-
+inal birth or Cesarean section, have been identified as a
+critical determinant of early-life microbiota composition
+and development. Different therapeutic approaches have
+been proposed and tested for neonatal microbiome res-
+toration in C-section infants, which have received wide-
+spread scientific, clinical and public attention. To provide
+an overview and broader context of the current state of
+the scientific discourse, Microbiome asked several experts
+in the field to present their perspectives on neonatal
+microbiota establishment and maturation, the impact of
+C-sections, and the potential for early-life microbiome
+restoration. In an accompanying editorial, we also outline
+key questions and knowledge gaps around this topic [1].
+*Correspondence: n.vanbest@maastrichtuniversity.nl; mg.dominguez-
+bello@rutgers.edu; mhornef@ukaachen.de; jasarevice@mwri.magee.edu; katri.
+korpela@helsinki.fi; tl2@sanger.ac.uk
+1 Institute of Medical Microbiology, RWTH University Hospital Aachen, 
+Aachen, Germany
+2 Department of Medical Microbiology, School of Nutrition
+and Translational Research in Metabolism (NUTRIM), Maastricht University, 
+Maastricht, The Netherlands
+3 Departments of Biochemistry and Microbiology and of Anthropology, 
+and Institute for Food, Nutrition and Health, Rutgers University, New
+Brunswick, NJ, USA
+4 Department of Computational and Systems Biology, Department
+of Obstetrics, Gynecology and Reproductive Sciences, Magee‑Womens
+Research Institute, University of Pittsburgh School of Medicine, PA, 
+Pittsburgh, USA
+5 Human Microbiome Research Program, Faculty of Medicine, University
+of Helsinki, Helsinki, Finland
+6 Wellcome Sanger Institute and Microbiotica, Cambridge, UK 
+A neonatal microbiome of opportunity?
+Mathias W. Hornef and Niels van Best
+After birth more than during any later time in life, the
+microbiome undergoes dramatic changes with rapidly
+rising bacterial density, major initial compositional fluc-
+tuations, the stepwise emergence of organ- and site-
+specific communities and a steady increase in bacterial
+diversity. The observed rapid rise in bacterial density at
+some anatomical sites is stunning and challenges our
+textbook knowledge on tissue homeostasis in the pres-
+ence of microbial immune stimuli [2].  It may help to
+explain differences in the type and degree of the neo-
+nate’s innate immune response to infection [3]. It may
+also contribute to the etiology of necrotizing enterocolitis
+(NEC), a dysregulated proinflammatory response of the
+immature gut tissue of preterm neonates, illustrating the
+tightly intertwined relationship between tissue and cell
+development and host-microbial interaction.
+The compositional fluctuations during the postnatal
+period most likely reflect the influence of endogenous
+or exogenous mechanisms on early bacterial colonizers, 
+so-called pioneer bacteria [4–6].  Beside host-mediated
+selection, priority effects also appear to contribute to the
+early-life assembly of a stable gut microbial ecosystem
+[7–9]. The influence of specific bacterial species on the
+overall microbiome composition may therefore depend
+on the order and timing in which they arrive. Clearly, 
+the mother represents a major source for the establish-
+ment of the microbiome consistent with the idea of
+the transgenerational transmission of an evolutionary
+optimized and beneficial assembly of microorganisms. 
+Despite early reports on the role of the mother’s vaginal
+bacteria, the infant gut microbiota originates from the
+©The Author(s) 2022, corrected publication 2022. Open Access This article is licensed under a Creative Commons Attribution 4.0
+International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you
+give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes
+were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated
+otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not
+permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To
+view a copy of this licence, visit [URL: "http://creativecommons.org/licenses/by/4.0/"] http://​creat​iveco​mmons.​org/​licen​ses/​by/4.​0/.The Creative Commons Public Domain Dedication waiver
+([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://​creat​iveco​mmons.​org/​publi​cdoma​in/​zero/1.​0/) applies to the data made available in this article, unless otherwise stated in a
+credit line to the data.
+Page 2
+van Best et al. Microbiome (2022) 10:74  Page 2 of 9
+mother’s fecal microbiota most likely transmitted by the
+intense contact during the birth process [10, 11]. This
+early transmission event during vaginal delivery appears
+to be of key importance. A number of studies have shown
+that birth by C-section is associated with an increased
+colonization rate by opportunistic pathogens [12] as
+well as several immune-mediated diseases including
+inflammatory bowel disease, asthma, and juvenile arthri-
+tis [13, 14]. In addition, children delivered by primary
+c-section exhibit a higher risk of developing food allergy
+in later life [15]. This effect is independent of the perio-
+perative antibiotic prophylaxis and thus most likely the
+result of an impaired bacterial transmission and altered
+immune imprinting [14–16]. Other factors such as diet
+(i.e. breastfeeding vs. formula feeding), siblings, pets and
+the natural environment also contribute in shaping the
+infant’s microbiota and immune system but the identifi-
+cation of their individual contribution is challenging due
+to the presence of many confounders.
+Another finding highlights the non-redundant role of
+the birth process as an early transmission event. In the
+adult host, different anatomical locations such as skin, 
+gut or oral cavity are colonized by highly organ- and even
+site-specific communities. However, this anatomical spe-
+cialization is not detected directly after birth but emerges
+only with time [5, 17]. This finding suggests the existence
+of organ-specific selective mechanisms, which remain
+largely uncharacterized. For example, our group showed
+that the microbiome composition was highly similar
+between the colon and small intestine early after birth
+but diverged into a site-specific microbiota after weaning. 
+This anatomical specialization was paralleled by hepatic
+secretion of bile acids into the small intestinal lumen, a
+potential driver of microbiota selection [5]. Other poten-
+tial drivers of the early small intestinal microbiome might
+represent the age-dependent switch in the spectrum of
+antimicrobial peptides or the Toll-like receptor (TLR)5-
+mediated suppression of colonization by flagellated bac-
+teria [6, 18].
+The initially reduced bacterial diversity opens ecologi-
+cal niches both for commensal and pathogenic bacte-
+ria and thereby explains the enhanced susceptibility of
+neonates to infection [19]. Most likely, it also explains
+why probiotic bacteria in early life exhibit at least some
+degree of colonization and exert much more pronounced
+effects than in adults [20]. The prolonged persistence of
+certain probiotic strains, especially bifidobacteria, exerts
+beneficial effects in neonates by increasing the coloniza-
+tion resistance and promoting a more stable microbial
+composition that protects against pathobiont-induced
+diseases such as NEC. In addition, the initially reduced
+bacterial diversity may render the neonate’s microbiota 
+particularly susceptible to exogenous factors such as
+early life antibiotics and diet [21, 22].
+The bacterial composition during early life appears to
+be of particular importance since specific microbial sig-
+nals and metabolic factors influence the immune prim-
+ing in a non-redundant fashion. Immune priming in
+turn determines the life-long susceptibility to immune-
+mediated and metabolic diseases [23–25]. Also host fac-
+tors orchestrate the exposure of immune cells to luminal
+microbial stimuli and antigens. For instance, the decreas-
+ing epidermal growth factor (EGF) levels in breast milk
+around weaning foster mucosal translocation of micro-
+bial stimuli during the so-called ‘weaning reaction’ and
+induce enhanced expression of interferon (IFN)-ɣ and
+tumor necrosis factor (TNF)-ɑ and the generation of
+specific regulatory T cells [26]. This induction of specific
+regulatory T cells during the weaning reaction protects
+from inflammatory diseases in adults and represents
+an intriguing example of the combined influence of the
+microbiota, diet, and ontogeny in priming of the immune
+system and lifelong gut homeostasis.
+Given the accessibility and functional importance, it
+is tempting to manipulate the early microbiota, i.e. by
+the administration of selected probiotics, prebiotics and
+postbiotics (bacterial metabolites) in order to improve
+the health outcome [20, 27, 28]. In addition, some efforts
+have been made in which neonates born by C-section
+were directly exposed to the maternal fecal microbiota
+upon delivery via fecal microbiota transplantation (FMT) 
+to foster the maternal-neonatal microbiome transfer. 
+However, our mechanistic understanding of the host
+regulatory effects, bacterial interactions, metabolic fac-
+tors and influence of the microbiome on the neonate host
+are still incomplete. More mechanistic studies are needed
+to identify microbial or metabolic targets, establish inter-
+ventional strategies, characterize possible adverse effects
+and define the patient groups that benefit most from safe
+and effective targeted interventions.
+Influence of the prenatal maternal microbiome
+on neonatal health?
+Eldin Jašarević
+For more than a century, epidemiological studies dem-
+onstrated that maternal lifetime experiences, namely
+psychosocial stress, malnutrition, and infectious burden, 
+predict poorer long-term outcomes across a variety of
+domains [29]. Offspring outcomes associated with these
+maternal exposures include higher risk for type 2 diabe-
+tes, obesity, cardiovascular disease, cancers, as well as
+neurodevelopmental and neuropsychiatric disorders [30, 
+31]. Disruption to the assembly and development of the
+neonatal microbiome is associated with similar nega-
+tive health outcomes, catalyzing a rich body of literature
+Page 3
+van Best   et al. Microbiome (2022) 10:74  Page 3 of 9
+examining the links between maternal lifetime expo-
+sures, the maternal and offspring microbiome, and last-
+ing health trajectories [32–45].
+A conceptual framework emerging from these stud-
+ies suggests that environmental exposure during preg-
+nancy alters maternal microbiota and these communities
+are subsequently transferred to offspring, influencing
+susceptibility to disease. One challenge in establishing
+causality between maternal exposures, microbiota, and
+offspring phenotype is that these environmental per-
+turbations exert disruptive effects on both mother and
+developing fetus. In other words, offspring develop in a
+prenatal environment that is shaped by lifetime expo-
+sures to environmental conditions, and at birth, neonates
+are colonized by microbiota shaped by the same factors. 
+Innovative approaches and methods are now needed to
+disentangle the complex interactions between lifetime
+exposures, the disruption of pregnancy, and coloniza-
+tion at birth. One such effort involved exposing fetal
+mice to prenatal stress, followed by C-section delivery
+and inoculation with distinct microbial communities
+[46]. In these studies, transplantation of microbiota from
+stressed dams into treatment naïve C-section delivered
+pups was sufficient to recapitulate phenotypes observed
+in stress-exposed offspring, establishing a mechanistic
+link between maternal microbiota and negative health
+outcomes in offspring [46].
+A central argument in the debate regarding the safety
+and efficacy of vaginal seeding and fecal microbiota trans-
+plantation procedures hinges on whether birth-associ-
+ated microbial exposure has any lasting health benefits, 
+such that a lack of exposure prevents the initiation of a
+developmentally-important event [27, 28, 47, 48]. Recent
+strain-resolved microbiome analyses showed that mater-
+nal vaginal bacteria –Lactobacillus crispatus, Atopobium
+vaginae,  Gardnerella vaginalis– are recovered from
+the stool of newborns, providing support for neonatal
+inheritance of maternal vaginal microbiota [49]. These
+bacteria are members of distinct community state types
+(CSTs) [50–52]. Specifically, CST I (L. crispatus) and CST
+IV (G. vaginalis, A. vaginae) exhibit distinct metabolic
+and immune properties in the female reproductive tract
+[53–56],  suggesting that CST-specific properties could
+be transferred to offspring. We used our C-section and
+oral gavage protocol to inoculate mouse pups with either
+CST I or CST IV and assessed outcomes across develop-
+ment and into adulthood. Birth-associated exposure to
+CST I and CST IV resulted in transient colonization of
+the intestinal tract in C-section delivered mice and was
+sufficient to elicit CST-specific transcriptional signatures
+in the neonatal ileum, as well as sex-specific differences
+in adulthood [57]. Epidemiological studies demonstrated
+that maternal obesity and presence of vaginal G. vaginalis 
+are two common risk factors associated with increased
+risk for adverse obstetric outcomes [58–63]. We estab-
+lished a two-hit model to determine whether mater-
+nal obesity and presence of vaginal G. vaginalis, alone
+or in combination, would affect the offspring postnatal
+response to CST I or CST IV exposure at birth [57]. Sur-
+prisingly, neonates that gestated in a two-hit environment
+showed a pathological immune response and decreased
+survival following exposure to CST IV, a pattern that was
+not observed in CST I exposed offspring. This pathologi-
+cal response to the postnatal microbiota was associated
+with disruption to the development of the placenta and
+fetal ileum in the two-hit neonates [57]. If these results
+bear any translational relevance, they underscore that
+prenatal exposures directly shape how offspring respond
+to their postnatal microbial environment and that one
+unforeseen consequence of high-risk pregnancies may be
+a pathological response to the colonizing microbiota and
+increased neonatal morbidity.
+While this area of research will undoubtedly contribute
+significant insight into postnatal microbiota transplanta-
+tion procedures and effects on health, this topic has also
+garnered a growing fascination in public discourse over
+the last several years. Reflecting a trickle-down effect
+on social attitudes, a recent study examining attitudes
+towards vaginal seeding reported that pregnant individu-
+als viewed these procedures as replicating a natural pro-
+cess and may help reduce maternal shame and guilt about
+undergoing c-section [64]. This self-reported shame and
+guilt about undergoing a lifesaving procedure reflects
+a long cultural history of blaming mothers for negative
+outcomes in their children, particularly mothers from
+historically oppressed groups [65].  Moving forward, 
+we must take great care in anticipating how research
+describing cesarean delivery as a ‘missed opportunity’ 
+that can be ‘recovered’, ‘naturalized,’ ‘restored,’ and ‘recon-
+stituted’ by vaginal seeding and fecal microbiota trans-
+plantation will be interpreted in popular discussions, 
+and how the resultant discourse may inform policies on
+bodily autonomy and reproductive health in our current
+sociopolitical climate.
+Should we vaginally seed the neonatal microbiome
+after C‑section?
+Maria Gloria Dominguez‑Bello
+C-section delivery impairs the intergenerational transfer
+of the maternal microbiome, altering natural colonization
+by pioneer communities of different infant epithelia in
+different body sites. C-section and pre or perinatal anti-
+biotics are associated with increased risk of autoimmune
+and metabolic diseases in humans and in mice. Thus, as
+we perform medical practices that have collateral costs, 
+we need to restore and minimize the damage.
+Page 4
+van Best et al. Microbiome (2022) 10:74  Page 4 of 9
+I want to share three ideas regarding neonatal micro-
+biota seeding at birth:
+1-Nature design for fish, amphibians, reptiles, birds and
+mammals- entitles the offspring being born through
+a canal that is i) colonized by microbes and ii) shared
+with the defecation canal (cloaca) or adjacent to it
+(vagina).  This non-random design favors transmis-
+sion of maternal gut bacteria which will successfully
+colonize the offspring’s gut. Thus, it is not surprising
+that fecal transplant to newborns is effective in colo-
+nizing the infant gut [28].
+2-In humans, the vaginal canal in the late third gesta-
+tional trimester does contain bacteria shared with
+feces, and furthermore, shared also with oral, nose
+and skin sites [48]. This extraordinary opening of the
+vaginal ecosystem to colonization by bacteria from
+other sites is consistent with the provision of pio-
+neer communities for all of the baby’s sites. Vaginal
+seeding of C-section babies normalizes the microbi-
+ome development in the infant gut, skin and mouth, 
+making them resemble more those of vaginally born
+infants, than those of C-section born infants.
+3-Given the serious consequences for the baby of
+impaired microbiota transmission at birth, restora-
+tion needs to be implemented with current state of
+the art, minimizing both infection risks for the baby
+and the costs of inaction. Why use “the real stuff”,
+and not wait until we understand better which are
+the exact bacteria and when to give them? Because
+of the complexity of biological fluids (we are still per-
+forming blood transfusions because we don’t know
+yet how to reconstitute blood from purified compo-
+nents).
+Recapitulating natural exposures at birth after careful
+examination of the maternal vaginal health will not put
+the baby at higher risk of infections than vaginally born
+infants. In the crucial windows of infancy, correct pro-
+gramming will determine future health, and thus impacts
+and perturbations cannot be followed by inaction, but
+by rehabilitation to provide what was missing to restore
+organisms and ecosystem functions that are crucial for
+health.
+Should we restore the neonatal microbiome
+after C‑section with fecal microbiota
+transplantation or probiotics?
+Katri Korpela
+The gut microbiota is being increasingly recognized as
+an important part of human physiology and a significant
+contributor to health. This is especially true in infants, 
+where the gut microbiota influences the developing 
+immune system and overall physiology. Gut microbi-
+ota composition in infancy is associated with a range of
+health outcomes in later childhood, most prominently
+weight and immune health [66–72]. Factors known to
+disrupt normal gut microbiota development in infants
+– C-section birth, antibiotics, and lack of breastfeeding
+– are also associated with weight and immune develop-
+ment [14, 73–78]. The links between early-life antibiotic
+use with asthma and overweight have been shown to be
+mediated by gut microbiota [75, 79]. Furthermore, mouse
+experiments have shown that altering the gut microbiota
+at a young age alters metabolic and immunological devel-
+opment [80–83]. We have shown in humans that cor-
+recting aberrant gut microbiota development in infants
+reduces the risk of allergic disease in a high-allergy-risk
+cohort [84, 85], strongly indicating a causal role of gut
+microbiota in disease development. Overall, there is evi-
+dence that the gut microbiota plays a significant role in
+infant development, and promoting a healthy gut micro-
+biota is warranted.
+The case for microbiota restoration is especially clear
+for infants born by C-section. The important colonisers
+of infant gut and primary utilisers of breast milk oligo-
+saccharides, Bifidobacterium and Bacteroides strains, 
+are naturally transferred from the mother’s gut during
+birth [86]. They are non-spore-forming anaerobes, which
+have a poor ability to survive in the environment and are
+thus dependent on vertical transfer at birth. This transfer
+is disrupted by C-section birth [86], leading to reduced
+abundance and delayed colonisation of these important
+bacteria in the infant gut [87]. Alarmingly, intrapartum
+antibiotics administered to the mother have a similar
+impact on the infant gut microbiota as C-section birth
+[88, 89]. In addition, bifidobacteria are strongly negatively
+affected by antibiotics given to the infant [90]. Infants
+born by c-section, or exposed to intrapartum or postpar-
+tum antibiotics would very likely benefit from microbiota
+restoration.
+Since the maternal gut is the natural source of microbes
+to the infant gut, maternal fecal microbiota transfer
+(FMT) is an effective method of microbiota restoration
+in CS-born neonates [28]. Mimicking the natural verti-
+cal transfer of microbiota at birth, FMT provides the
+infant with a large diversity of maternal microbes, and
+the ones adapted to the infant gut flourish and colonise
+essentially permanently [86]. On the contrary, inocula-
+tion of the infant with maternal vaginal microbes has
+limited efficacy: Two studies have shown that while
+swabbing the infant with vaginal microbes increases the
+relative abundance of lactobacilli, it fails to restore Bac-
+teroides and other fecal bacteria [47, 48]. In a re-analysis
+of the data, we showed that the gut microbiota of vagi-
+nally seeded infants resembles that of untreated CS-born
+Page 5
+van Best   et al. Microbiome (2022) 10:74  Page 5 of 9
+infants, rather than that of vaginally born infants [28].
+Oral administration of maternal vaginal microbes to CS-
+born infants has been shown to produce no significant
+differences in gut microbiota compared to no treatment
+[91]. The vagina is a poor source of gut microbes [91, 92],
+likely due to the highly selective vaginal environment
+with a low pH that inhibits the growth of fecal microbes.
+While maternal FMT is effective, it is unlikely to be
+a feasible standard solution for all neonates. Careful
+screening of the mother is required due to the poten-
+tial of transmitting pathogens. Indeed, often the most
+common reason for intrapartum antibiotic treatment is
+maternal carriage of group B streptococcus, which can
+cause a dangerous infection in the infant. Infants of these
+mothers would benefit from microbiota restoration but
+FMT may not be a safe option. FMT from a universal
+donor could be a solution, and an intriguing question is
+whether FMT from a universal donor is as effective as
+maternal FMT. While there is some evidence to suggest
+that strains from an infant’s own mother may be particu-
+larly compatible with the infant’s gut [86], some mothers
+may harbor a suboptimal microbiota e.g. due to antibi-
+otic use or disease. Further research is needed on FMT
+to infants.
+Probiotics can be used to restore at least part of the
+normal infant gut microbiota [85, 93, 94]. Products con-
+taining infant gut-adapted bifidobacteria, such as Bifi-
+dobacterium longum subsp. infantis,  B. breve,  and B. 
+bifidum, are likely to be useful. Since many such strains
+are currently on the market and safe, their use in C-sec-
+tion-born and antibiotic-exposed infants is highly rec-
+ommendable. Short-term administration of probiotics to
+C-section-born neonates in the hospital appears promis-
+ing [95] and warrants further study. Further development
+of probiotic products specifically for the neonate could
+provide a practical and cost-effective solution of micro-
+biota restoration. However, it is possible that a small and
+standardized set of strains is not effective in all individu-
+als regarding all health outcomes. It should be noted
+that restoration efforts are unlikely to be successful if the
+infant is not breastfed, as human milk oligosaccharides
+support the growth of the beneficial microbes.
+The long-term health benefits of infant microbiota
+restoration should be investigated especially in different
+risk groups. Experimental restoration of gut microbiota
+provides a way to test causality in the link between infant
+gut microbiota and later health. Such long-term studies
+will take time, but there is sufficient evidence to adopt
+microbiota restoration practices before conclusive results
+on health benefits are available. In addition to micro-
+biota restoration, however, efforts are needed to reduce
+microbiota disruption by promoting vaginal birth and 
+breastfeeding, and carefully considering the need for rou-
+tine prophylactic antibiotics during birth.
+Maternal Microbiome Transmission as Inspiration
+for Translational Research
+Trevor D. Lawley
+Maternal transmission of microbes to their neonates is an
+unappreciated form of kinship involving microbes from
+gut, urogenital, oral and skin microbiotas [96]. Common
+maternally transmitted bacteria found in the gut micro-
+biota of vaginally delivered babies who were breastfed
+include Bacteroides species, Parabacteriodes species, 
+Escherichia coli and Bifidobacteria species that are highly
+adapted to co-colonize neonates as an ecosystem in sym-
+biotic relationships that have co-evolved over many mil-
+lennia [97]. After c-section birth, many of these bacterial
+species do not transmit to neonates, possibly due to the
+inhibitory effects of antibiotic exposure or competition
+from opportunistic environmental pathogens [12]. There
+is a need to develop a deep microbiological, evolutionary
+and ecological understanding of maternal transmission
+and its impact on microbiota acquisition and assembly
+in neonates to identify pioneering and keystone bacterial
+species and strains that provide beneficial properties.
+The key challenge is to determine how these mater-
+nally transmitted microbes influence the longer-term
+growth, development and disease resistance of a baby
+[23].  Much of our current understanding of maternal
+transmission and early life microbiota assembly comes
+from large birth cohorts that track the microbiome of
+individual babies long-term while building a personalized
+biobank of biological samples linked to various metadata
+to enable large-scale, data-driven discovery [23, 98–101].
+High-resolution metagenomics and anaerobic culturing
+coupled to whole-genome phylogenetic analysis are the
+most reliable approaches to identify maternal-neonate
+transmission events at the species and strain levels [12, 
+49, 102, 103]. However, the outputs of these studies are
+primarily associations that link bacterial taxa to clini-
+cal phenotypes, allowing for the generation of biological
+hypotheses, but the mechanisms remain poorly under-
+stood and unproven. There is a need to culture and
+biobank pioneering and keystone microbial species from
+neonates that potentially code for beneficial properties to
+enable experimental testing and biological discovery.
+As an example of maternally transmitted bacteria, 
+species of Bifidobacterium (phylum Actinobacteria) are
+highly adapted for maternal transmission and coloniza-
+tion of the neonatal intestine [104], through both fae-
+cal-oral and breastmilk-oral transmission [105]. There
+are many Bifidobacterium species described, however, 
+B. breve,  B. bifidum and B. longum are commonly
+found in the neonatal gut microbiotas in the UK [12], 
+Page 6
+van Best et al. Microbiome (2022) 10:74  Page 6 of 9
+Sweden, Russia and USA [99]. Importantly, B. longum 
+subsp. infantis is not common in neonates born in any
+of these Western world countries, but is the dominant
+founder bacterium in neonates from Low- and Middle-
+Income Countries Bangladesh [106], Gambia [107] and
+Malawi [108]. It is possible that B. longum subsp. infan-
+tis has been lost from Westernized human populations
+due to modern lifestyles, such as diets, antibiotics, etc. 
+Bifidobacteria play a pioneering role in nucleating and
+shaping the gut microbiota assembly by supporting the
+acquisition and colonisation of new beneficial microbes
+through cooperation such as cross-feeding human milk
+oligosaccharides (HMOs) [109],  or through the inhi-
+bition of pathogen colonisation [110].  More recently, 
+B. infantis has been shown to harbour highly evolved
+pathways that metabolise breastmilk, releasing indole-
+3-lactic acid to shape immune development [111].
+There are likely numerous more human-adapted func-
+tions and metabolites to be discovered from gut bacte-
+rial species beyond Bifidobacteria that have co-evolved
+to transmit from mother to child that could potentially
+be exploited therapeutically.
+We need to innovate ways to protect and nurture a
+baby’s microbiota to optimize growth, development and
+disease resistance. Understanding the ecological pro-
+cesses and mechanisms of maternal transmission and
+early life microbiota acquisition and assembly holds
+the key to biological discovery to enable translational
+sciences. We need to consider alternatives to antibiot-
+ics that spare a baby’s microbiota, and also therapies
+that can recover/restore the microbiota after antibiotic
+therapy. Microbiota transplantation studies in neo-
+nates using undefined maternal microbiomes have been
+undertaken but longer-term we envision more sophisti-
+cated, defined approaches [48, 91]. A deep understand-
+ing of maternal transmission and neonate microbiome
+assembly will guide the discovery and development of
+a variety of novel products based on microbes or their
+metabolites, such as Live Bacterial Products, ration-
+ally designed prebiotics, small molecule bioactives and
+targeted phage therapies. Breastmilk is rich in immu-
+noglobulins, lactoferrin, cytokines and growth factors
+and provides passive immunity to the infant while the
+immune system is developing [112]. Breastmilk is also
+enriched in Human Milk Oligosaccharides (HMOs) 
+that serve as nutrients and energy for maternally
+transmitted bacteria, and potentially inducers of ben-
+eficial functions. We need to understand the interplay
+between neonatal gut microbiome assembly and breast-
+milk and will likely find bioactives derived from bacte-
+ria, potentially induced by breastmilk, with activities
+that act directly on human cells within the gut but also
+at systemic sites impacting immunological, metabolic 
+and cognitive development. We believe maternal trans-
+mission is deeply evolved and there are opportunities
+to consider maternal transmission in a global context, 
+including maternal microbiota transmission as evo-
+lutionarily conserved in humans but adapted to local
+lifestyles and cultures, to establish and strengthen
+Global Health and translational research on early life
+microbiotas.
+Authors’ contributions
+The author(s) read and approved the final manuscript.
+Declarations
+Competing interests
+The authors declare that they have no competing interests.
+References
+  1.  Florian Fricke W, Ravel J. More data needed on neonatal microbi‑
+ome seeding. Microbiome. 2022;10(1). [URL: "https://doi.org/10.1186/s40168-022-01282-3"] https://​doi.​org/​10.​1186/​
+ s40168-​022-​01282-3.
+  2.  Palmer C, Bik EM, DiGiulio DB, Relman DA, Brown PO. Development of
+the human infant intestinal microbiota. PLoS Biol. 2007;5:e177.
+  3.  Hornef MW, Torow N. “Layered immunity” and the “neonatal window
+of opportunity” - timed succession of non-redundant phases to
+establish mucosal host-microbial homeostasis after birth. Immunology. 
+2020;159:15–25.
+  4.  Roswall J, Olsson LM, Kovatcheva-Datchary P, Nilsson S, Tremaroli V, 
+Simon M-C, et al. Developmental trajectory of the healthy human
+gut microbiota during the first 5 years of life. Cell Host Microbe. 
+2021;29:765–76.e3.
+  5.  van Best N, Rolle-Kampczyk U, Schaap FG, Basic M, Olde Damink SWM, 
+Bleich A, et al. Bile acids drive the newborn’s gut microbiota maturation. 
+Nat Commun. 2020;11:3692.
+  6.  Fulde M, Sommer F, Chassaing B, van Vorst K, Dupont A, Hensel M, et al. 
+Neonatal selection by Toll-like receptor 5 influences long-term gut
+microbiota composition. Nature. 2018;560:489–93.
+  7.  Martínez I, Maldonado-Gomez MX, Gomes-Neto JC, Kittana H, Ding H, 
+Schmaltz R, et al. Experimental evaluation of the importance of coloni‑
+zation history in early-life gut microbiota assembly. Elife. 2018;7. [URL: "https://doi.org/10.7554/eLife.36521"] https://​
+ doi.​org/​10.​7554/​eLife.​36521.
+  8.  Feng L, Raman AS, Hibberd MC, Cheng J, Griffin NW, Peng Y, et al. 
+Identifying determinants of bacterial fitness in a model of human gut
+microbial succession. Proc Natl Acad Sci U S A. 2020;117:2622–33.
+  9.  Sprockett D, Fukami T, Relman DA. Role of priority effects in the early-
+life assembly of the gut microbiota. Nat Rev Gastroenterol Hepatol. 
+2018;15:197–205.
+  10.  Dominguez-Bello MG, Costello EK, Contreras M, Magris M, Hidalgo G, 
+Fierer N, et al. Delivery mode shapes the acquisition and structure of
+the initial microbiota across multiple body habitats in newborns. Proc
+Natl Acad Sci U S A. 2010;107:11971–5.
+  11.  Mitchell CM, Mazzoni C, Hogstrom L, Bryant A, Bergerat A, Cher A, et al. 
+Delivery Mode Affects Stability of Early Infant Gut Microbiota. Cell Rep
+Med. 2020;1:100156.
+  12.  Shao Y, Forster SC, Tsaliki E, Vervier K, Strang A, Simpson N, et al. Stunted
+microbiota and opportunistic pathogen colonization in caesarean-
+section birth. Nature. 2019;574:117–21.
+  13.  Sevelsted A, Stokholm J, Bisgaard H. Risk of Asthma from
+Cesarean Delivery Depends on Membrane Rupture. J Pediatr. 
+2016;171(38–42):e1–4.
+Page 7
+van Best   et al. Microbiome (2022) 10:74  Page 7 of 9
+  14.  Sevelsted A, Stokholm J, Bønnelykke K, Bisgaard H. Cesarean section
+and chronic immune disorders. Pediatrics. 2015;135:e92–8.
+  15.  Eggesbø M, Botten G, Stigum H, Nafstad P, Magnus P. Is delivery by
+cesarean section a risk factor for food allergy? J Allergy Clin Immunol. 
+2003;112:420–6.
+  16.  Dierikx T, Berkhout D, Eck A, Tims S, van Limbergen J, Visser D, et al. 
+Influence of timing of maternal antibiotic administration during caesar‑
+ean section on infant microbial colonisation: a randomised controlled
+trial. Gut. 2021. [URL: "https://doi.org/10.1136/gutjnl-2021-324767"] https://​doi.​org/​10.​1136/​gutjnl-​2021-​324767.
+  17.  Chu DM, Ma J, Prince AL, Antony KM, Seferovic MD, Aagaard KM. Matu‑
+ration of the infant microbiome community structure and function
+across multiple body sites and in relation to mode of delivery. Nat Med. 
+2017;23:314–26.
+  18.  Ménard S, Förster V, Lotz M, Gütle D, Duerr CU, Gallo RL, et al. Develop‑
+mental switch of intestinal antimicrobial peptide expression. J Exp Med. 
+2008;205:183–93.
+  19.  Yatsunenko T, Rey FE, Manary MJ, Trehan I, Dominguez-Bello MG, 
+Contreras M, et al. Human gut microbiome viewed across age and
+geography. Nature. 2012;486:222–7.
+  20.  van Best N, Trepels-Kottek S, Savelkoul P, Orlikowsky T, Hornef MW, 
+Penders J. Influence of probiotic supplementation on the developing
+microbiota in human preterm neonates. Gut Microbes. 2020;12:1–16.
+  21.  Gregory KE, Samuel BS, Houghteling P, Shan G, Ausubel FM, Sadreyev RI, 
+et al. Influence of maternal breast milk ingestion on acquisition of the
+intestinal microbiome in preterm infants. Microbiome. 2016;4:68.
+  22.  Schulfer AF, Schluter J, Zhang Y, Brown Q, Pathmasiri W, McRitchie S, 
+et al. The impact of early-life sub-therapeutic antibiotic treatment
+(STAT) on excessive weight is robust despite transfer of intestinal
+microbes. ISME J. 2019;13:1280–92.
+  23.  Renz H, Adkins BD, Bartfeld S, Blumberg RS, Farber DL, Garssen J, et al. 
+The neonatal window of opportunity-early priming for life. J Allergy
+Clin Immunol. 2018;141:1212–4.
+  24.  Gensollen T, Iyer SS, Kasper DL, Blumberg RS. How colonization
+by microbiota in early life shapes the immune system. Science. 
+2016;352:539–44.
+  25.  Oh SF, Praveena T, Song H, Yoo J-S, Jung D-J, Erturk-Hasdemir D, et al. 
+Host immunomodulatory lipids created by symbionts from dietary
+amino acids. Nature. 2021;600:302–7.
+  26.  Al Nabhani Z, Dulauroy S, Marques R, Cousu C, Al Bounny S, Déjardin
+F, et al. A Weaning Reaction to Microbiota Is Required for Resistance to
+Immunopathologies in the Adult. Immunity. 2019;50:1276–88.e5.
+  27.  Mueller NT, Hourigan SK, Hoffmann DE, Levy L, von Rosenvinge EC, 
+Chou B, et al. Bacterial Baptism: Scientific, Medical, and Regulatory
+Issues Raised by Vaginal Seeding of C-Section-Born Babies. J Law Med
+Ethics. 2019;47:568–78.
+  28.  Korpela K, Helve O, Kolho K-L, Saisto T, Skogberg K, Dikareva E, et al. 
+Maternal Fecal Microbiota Transplantation in Cesarean-Born Infants
+Rapidly Restores Normal Gut Microbial Development: A Proof-of-Con‑
+cept Study. Cell. 2020;183:324–34.e5.
+  29.  Hertzman C. Putting the concept of biological embedding in historical
+perspective. Proc Natl Acad Sci U S A. 2012;109(Suppl 2):17160–7.
+  30.  Berens AE, Jensen SKG, Nelson CA 3rd. Biological embedding of child‑
+hood adversity: from physiological mechanisms to clinical implications. 
+BMC Med. 2017;15:135.
+  31.  Bale TL. Epigenetic and transgenerational reprogramming of brain
+development. Nat Rev Neurosci. 2015;16:332–44.
+  32.  O’Mahony SM, Marchesi JR, Scully P, Codling C, Ceolho A-M, Quigley
+EMM, et al. Early life stress alters behavior, immunity, and microbiota in
+rats: implications for irritable bowel syndrome and psychiatric illnesses. 
+Biol Psychiatry. 2009;65:263–7.
+  33.  Gur TL, Shay L, Palkar AV, Fisher S, Varaljay VA, Dowd S, et al. Prenatal
+stress affects placental cytokines and neurotrophins, commensal
+microbes, and anxiety-like behavior in adult female offspring. Brain
+Behav Immun. 2017;64:50–8.
+  34.  Bailey MT, Lubach GR, Coe CL. Prenatal stress alters bacterial colo‑
+nization of the gut in infant monkeys. J Pediatr Gastroenterol Nutr. 
+2004;38:414–21.
+  35.  Zijlmans MAC, Korpela K, Riksen-Walraven JM, de Vos WM, de Weerth C. 
+Maternal prenatal stress is associated with the infant intestinal micro‑
+biota. Psychoneuroendocrinology. 2015;53:233–45. 
+  36.  Buffington SA, Di Prisco GV, Auchtung TA, Ajami NJ, Petrosino JF, Costa-
+Mattioli M. Microbial Reconstitution Reverses Maternal Diet-Induced
+Social and Synaptic Deficits in Offspring. Cell. 2016;165:1762–75.
+  37.  Jašarević E, Howerton CL, Howard CD, Bale TL. Alterations in the
+Vaginal Microbiome by Maternal Stress Are Associated With Meta‑
+bolic Reprogramming of the Offspring Gut and Brain. Endocrinology. 
+2015;156:3265–76.
+  38.  Jašarević E, Howard CD, Misic AM, Beiting DP, Bale TL. Stress during
+pregnancy alters temporal and spatial dynamics of the maternal and
+offspring microbiome in a sex-specific manner. Sci Rep. 2017. [URL: "https://doi.org/10.1038/srep44182"] https://​
+ doi.​org/​10.​1038/​srep4​4182.
+  39.  Hsiao EY, McBride SW, Hsien S, Sharon G, Hyde ER, McCue T, et al. Micro‑
+biota modulate behavioral and physiological abnormalities associated
+with neurodevelopmental disorders. Cell. 2013;155:1451–63.
+  40.  Kim S, Kim H, Yim YS, Ha S, Atarashi K, Tan TG, et al. Maternal gut bac‑
+teria promote neurodevelopmental abnormalities in mouse offspring. 
+Nature. 2017;549:528–32.
+  41.  Hantsoo L, Jašarević E, Criniti S, McGeehan B, Tanes C, Sammel MD, 
+et al. Childhood adversity impact on gut microbiota and inflam‑
+matory response to stress during pregnancy. Brain Behav Immun. 
+2019;75:240–50.
+  42.  Lundgren SN, Madan JC, Emond JA, Morrison HG, Christensen BC, Kara‑
+gas MR, et al. Maternal diet during pregnancy is related with the infant
+stool microbiome in a delivery mode-dependent manner. Microbiome. 
+2018. [URL: "https://doi.org/10.1186/s40168-018-0490-8"] https://​doi.​org/​10.​1186/​s40168-​018-​0490-8.
+  43.  Arrieta M-C, Stiemsma LT, Dimitriu PA, Thorson L, Russell S, Yurist-
+Doutsch S, et al. Early infancy microbial and metabolic alterations affect
+risk of childhood asthma. Sci Transl Med. 2015;7:307ra152.
+  44.  Conrad ML, Ferstl R, Teich R, Brand S, Blümer N, Yildirim AO, et al. 
+Maternal TLR signaling is required for prenatal asthma protection by
+the nonpathogenic microbe Acinetobacter lwoffii F78. J Exp Med. 
+2009;206:2869–77.
+  45.  Alhasan MM, Cait AM, Heimesaat MM, Blaut M, Klopfleisch R, Wedel A, 
+et al. Antibiotic use during pregnancy increases offspring asthma sever‑
+ity in a dose-dependent manner. Allergy. 2020;75:1979–90.
+  46.  Jašarević E, Howard CD, Morrison K, Misic A, Weinkopff T, Scott P, et al. 
+The maternal vaginal microbiome partially mediates the effects of
+prenatal stress on offspring gut and hypothalamus. Nat Neurosci. 
+2018;21:1061–71.
+  47.  Dominguez-Bello MG, De Jesus-Laboy KM, Shen N, Cox LM, Amir A, 
+Gonzalez A, et al. Partial restoration of the microbiota of cesarean-born
+infants via vaginal microbial transfer. Nat Med. 2016;22:250–3.
+  48.  Song SJ, Wang J, Martino C, Jiang L, Thompson WK, Shenhav L, et al. 
+Naturalization of the microbiota developmental trajectory of Cesarean-
+born neonates after vaginal seeding. Med. 2021:951–64.e5. [URL: "https://doi.org/10.1016/j.medj.2021.05.003"] https://​doi.​
+ org/​10.​1016/j.​medj.​2021.​05.​003.
+  49.  Ferretti P, Pasolli E, Tett A, Asnicar F, Gorfer V, Fedi S, et al. Mother-to-
+Infant Microbial Transmission from Different Body Sites Shapes the
+Developing Infant Gut Microbiome. Cell Host Microbe. 2018;24:133–45.
+e5.
+  50.  Ravel J, Gajer P, Abdo Z, Schneider GM, Koenig SSK, McCulle SL, et al. 
+Vaginal microbiome of reproductive-age women. Proc Natl Acad Sci U
+S A. 2011;108(Suppl 1):4680–7.
+  51.  Ravel J, Brotman RM, Gajer P, Ma B, Nandy M, Fadrosh DW, et al. Daily
+temporal dynamics of vaginal microbiota before, during and after
+episodes of bacterial vaginosis. Microbiome. 2013;1:29.
+  52.  Gajer P, Brotman RM, Bai G, Sakamoto J, Schütte UME, Zhong X, et al. 
+Temporal dynamics of the human vaginal microbiota. Sci Transl Med. 
+2012;4:132ra52.
+  53.  Gopinath S, Iwasaki A. Cervicovaginal microbiota: simple is better. 
+Immunity. 2015;2:790–1. https://doi.org/10.1016/j.immuni.2015.05.006.
+  54.  Anahtar MN, Byrne EH, Doherty KE, Bowman BA, Yamamoto HS, 
+Soumillon M, et al. Cervicovaginal bacteria are a major modulator of
+host inflammatory responses in the female genital tract. Immunity. 
+2015;42:965–76.
+  55.  Bayigga L, Nabatanzi R, Ssekagiri A, Kateete DP, Sekikubo M, Anderson
+DJ, et al. Diverse vaginal microbiome was associated with pro-inflam‑
+matory vaginal milieu among pregnant women in Uganda. Hum Micro‑
+biome J. 2020:100076. [URL: "https://doi.org/10.1016/j.humic.2020.100076"] https://​doi.​org/​10.​1016/j.​humic.​2020.​100076.
+  56.  Gosmann C, Anahtar MN, Handley SA, Farcasanu M, Abu-Ali G, Bowman
+BA, et al. Lactobacillus-Deficient Cervicovaginal Bacterial Communities
+Page 8
+van Best et al. Microbiome (2022) 10:74  Page 8 of 9
+Are Associated with Increased HIV Acquisition in Young South African
+Women. Immunity. 2017;46:29–37.
+  57.  Jašarević E, Hill EM, Kane PJ, Rutt L, Gyles T, Folts L, et al. The composi‑
+tion of human vaginal microbiota transferred at birth affects offspring
+health in a mouse model. Nat Commun. 2021;12:6289.
+  58.  Cnattingius S, Villamor E, Johansson S, Edstedt Bonamy A-K, Persson M, 
+Wikström A-K, et al. Maternal obesity and risk of preterm delivery. JAMA. 
+2013;309:2362–70.
+  59.  Elovitz MA, Gajer P, Riis V, Brown AG, Humphrys MS, Holm JB, et al. Cervi‑
+covaginal microbiota and local immune response modulate the risk of
+spontaneous preterm delivery. Nat Commun. 2019;10:1305.
+  60.  DiGiulio DB, Callahan BJ, McMurdie PJ, Costello EK, Lyell DJ, Robacze‑
+wska A, et al. Temporal and spatial variation of the human microbiota
+during pregnancy. Proc Natl Acad Sci U S A. 2015;112:11060–5.
+  61.  Callahan BJ, DiGiulio DB, Goltsman DSA, Sun CL, Costello EK, Jegana‑
+than P, et al. Replication and refinement of a vaginal microbial signature
+of preterm birth in two racially distinct cohorts of US women. Proc Natl
+Acad Sci U S A. 2017;114:9966–71.
+  62.  Fettweis JM, Serrano MG, Brooks JP, Edwards DJ, Girerd PH, Parikh
+HI, et al. The vaginal microbiome and preterm birth. Nat Med. 
+2019;25:1012–21.
+  63.  Serrano MG, Parikh HI, Brooks JP, Edwards DJ, Arodz TJ, Edupuganti L, 
+et al. Racioethnic diversity in the dynamics of the vaginal microbiome
+during pregnancy. Nat Med. 2019;25:1001–11.
+  64.  Butler ÉM, Reynolds AJ, Derraik JGB, Wilson BC, Cutfield WS, Grigg CP. 
+The views of pregnant women in New Zealand on vaginal seeding: a
+mixed-methods study. BMC Pregnancy Childbirth. 2021;21:49.
+  65.  Richardson SS. The Maternal Imprint: The Contested Science of
+Maternal-Fetal Effects: University of Chicago Press; 2021.
+  66.  Kalliomäki M, Collado MC, Salminen S, Isolauri E. Early differences in
+fecal microbiota composition in children may predict overweight. Am J
+Clin Nutr. 2008;87:534–8.
+  67.  Abrahamsson TR, Jakobsson HE, Andersson AF, Björkstén B, Engstrand L, 
+Jenmalm MC. Low diversity of the gut microbiota in infants with atopic
+eczema. J Allergy Clin Immunol. 2012;129:434–40 440.e1–2.
+  68.  Abrahamsson TR, Jakobsson HE, Andersson AF, Björkstén B, Engstrand
+L, Jenmalm MC. Low gut microbiota diversity in early infancy precedes
+asthma at school age. Clin Exp Allergy. 2014;44:842–50.
+  69.  Azad MB, Konya T, Guttman DS, Field CJ, Sears MR, HayGlass KT, et al. 
+Infant gut microbiota and food sensitization: associations in the first
+year of life. Clin Exp Allergy. 2015;45:632–43.
+  70.  Kostic AD, Gevers D, Siljander H, Vatanen T, Hyötyläinen T, Hämäläinen
+A-M, et al. The dynamics of the human infant gut microbiome in devel‑
+opment and in progression toward type 1 diabetes. Cell Host Microbe. 
+2015;17:260–73.
+  71.  Dogra S, Sakwinska O, Soh S-E, Ngom-Bru C, Brück WM, Berger B, et al. 
+Dynamics of infant gut microbiota are influenced by delivery mode
+and gestational duration and are associated with subsequent adiposity. 
+MBio. 2015;6. [URL: "https://doi.org/10.1128/mBio.02419-14"] https://​doi.​org/​10.​1128/​mBio.​02419-​14.
+  72.  Korpela K, Zijlmans MAC, Kuitunen M, Kukkonen K, Savilahti E, Salonen
+A, et al. Childhood BMI in relation to microbiota in infancy and lifetime
+antibiotic use. Microbiome. 2017;5:26.
+  73.  Wang L, Alamian A, Southerland J, Wang K, Anderson J, Stevens M. 
+Cesarean section and the risk of overweight in grade 6 children. Eur J
+Pediatr. 2013;172:1341–7.
+  74.  Wohl DL, Curry WJ, Mauger D, Miller J, Tyrie K. Intrapartum antibiotics
+and childhood atopic dermatitis. J Am Board Fam Med. 2015;28:82–9.
+  75.  Korpela K, Salonen A, Virta LJ, Kekkonen RA, de Vos WM. Association of
+Early-Life Antibiotic Use and Protective Effects of Breastfeeding: Role of
+the Intestinal Microbiota. JAMA Pediatr. 2016;170:750–7.
+  76.  Hansen S, Halldorsson TI, Olsen SF, Rytter D, Bech BH, Granström C, et al. 
+Birth by cesarean section in relation to adult offspring overweight and
+biomarkers of cardiometabolic risk. Int J Obes. 2018;42:15–9.
+  77.  Andersen V, Möller S, Jensen PB, Møller FT, Green A. Caesarean Delivery
+and Risk of Chronic Inflammatory Diseases (Inflammatory Bowel Dis‑
+ease, Rheumatoid Arthritis, Coeliac Disease, and Diabetes Mellitus): A
+Population Based Registry Study of 2,699,479 Births in Denmark During
+1973-2016. Clin Epidemiol. 2020;12:287–93.
+  78.  Baron R, Taye M, Besseling-van der Vaart I, Ujčič-Voortman J, Szajewska
+H, Seidell JC, et al. The relationship of prenatal and infant antibiotic 
+exposure with childhood overweight and obesity: a systematic review. 
+J Dev Orig Health Dis. 2020;11:335–49.
+  79.  Patrick DM, Sbihi H, Dai DLY, Al Mamun A, Rasali D, Rose C, et al. 
+Decreasing antibiotic use, the gut microbiota, and asthma incidence
+in children: evidence from population-based and prospective cohort
+studies. Lancet Respir Med. 2020;8:1094–105.
+  80.  Cho I, Yamanishi S, Cox L, Methé BA, Zavadil J, Li K, et al. Antibiotics in
+early life alter the murine colonic microbiome and adiposity. Nature. 
+2012;488:621–6.
+  81.  Russell SL, Gold MJ, Hartmann M, Willing BP, Thorson L, Wlodarska M, 
+et al. Early life antibiotic-driven changes in microbiota enhance suscep‑
+tibility to allergic asthma. EMBO Rep. 2012;13:440–7.
+  82.  Cox LM, Yamanishi S, Sohn J, Alekseyenko AV, Leung JM, Cho I, et al. 
+Altering the intestinal microbiota during a critical developmental
+window has lasting metabolic consequences. Cell. 2014;158:705–21.
+  83.  Nobel YR, Cox LM, Kirigin FF, Bokulich NA, Yamanishi S, Teitler I, et al. 
+Metabolic and metagenomic outcomes from early-life pulsed antibi‑
+otic treatment. Nat Commun. 2015;6:7486.
+  84.  Kuitunen M, Kukkonen K, Juntunen-Backman K, Korpela R, Poussa
+T, Tuure T, et al. Probiotics prevent IgE-associated allergy until age
+5 years in cesarean-delivered children but not in the total cohort. 
+J Allergy Clin Immunol. 2009:335–41. [URL: "https://doi.org/10.1016/j.jaci.2008.11.019"] https://​doi.​org/​10.​1016/j.​jaci.​
+ 2008.​11.​019.
+  85.  Korpela K, Salonen A, Vepsäläinen O, Suomalainen M, Kolmeder
+C, Varjosalo M, et al. Probiotic supplementation restores normal
+microbiota composition and function in antibiotic-treated and in
+caesarean-born infants. Microbiome. 2018;6:182.
+  86.  Korpela K, Costea P, Coelho LP, Kandels-Lewis S, Willemsen G, 
+Boomsma DI, et al. Selective maternal seeding and environment
+shape the human gut microbiome. Genome Res. 2018;28:561–8.
+  87.  Korpela K, de Vos WM. Early life colonization of the human gut: 
+microbes matter everywhere. Curr Opin Microbiol. 2018;44:70–8.
+  88.  Azad MB, Konya T, Persaud RR, Guttman DS, Chari RS, Field CJ, et al. 
+Impact of maternal intrapartum antibiotics, method of birth and
+breastfeeding on gut microbiota during the first year of life: a pro‑
+spective cohort study. BJOG. 2016;123:983–93.
+  89.  Stearns JC, Simioni J, Gunn E, McDonald H, Holloway AC, Thabane L, 
+et al. Intrapartum antibiotics for GBS prophylaxis alter colonization
+patterns in the early infant gut microbiome of low risk infants. Sci
+Rep. 2017;7:16527.
+  90.  Korpela K, Salonen A, Saxen H, Nikkonen A, Peltola V, Jaakkola T, 
+et al. Antibiotics in early life associate with specific gut microbiota
+signatures in a prospective longitudinal infant cohort. Pediatr Res. 
+2020:438–43. [URL: "https://doi.org/10.1038/s41390-020-0761-5"] https://​doi.​org/​10.​1038/​s41390-​020-​0761-5.
+  91.  Wilson BC, Butler ÉM, Grigg CP, Derraik JGB, Chiavaroli V, Walker N, et al. 
+Oral administration of maternal vaginal microbes at birth to restore gut
+microbiome development in infants born by caesarean section: A pilot
+randomised placebo-controlled trial. EBioMedicine. 2021;69:103443.
+  92.  Sakwinska O, Foata F, Berger B, Brüssow H, Combremont S, Mercenier
+A, et al. Does the maternal vaginal microbiota play a role in seeding the
+microbiota of neonatal gut and nose? Benefic Microbes. 2017;8:763–78.
+  93.  Rasmussen MA, Thorsen J, Dominguez-Bello MG, Blaser MJ, Mortensen
+MS, Brejnrod AD, et al. Ecological succession in the vaginal microbiota
+during pregnancy and birth. ISME J. 2020;14:2325–35.
+  94.  Garcia Rodenas CL, Lepage M, Ngom-Bru C, Fotiou A, Papagaroufalis K, 
+Berger B. Effect of Formula Containing Lactobacillus reuteri DSM 17938
+on Fecal Microbiota of Infants Born by Cesarean-Section. J Pediatr
+Gastroenterol Nutr. 2016;63:681–7.
+  95.  Hurkala J, Lauterbach R, Radziszewska R, Strus M, Heczko P. Effect of a
+Short-Time Probiotic Supplementation on the Abundance of the Main
+Constituents of the Gut Microbiota of Term Newborns Delivered by
+Cesarean Section-A Randomized, Prospective, Controlled Clinical Trial. 
+Nutrients. 2020:12. [URL: "https://doi.org/10.3390/nu12103128"] https://​doi.​org/​10.​3390/​nu121​03128.
+  96.  Browne HP, Neville BA, Forster SC, Lawley TD. Transmission of the gut
+microbiota: spreading of health. Nat Rev Microbiol. 2017;15:531–43.
+  97.  Moeller AH, Caro-Quintero A, Mjungu D, Georgiev AV, Lonsdorf EV, Mul‑
+ler MN, et al. Cospeciation of gut microbiota with hominids. Science. 
+2016;353:380–2.
+  98.  Stewart CJ, Ajami NJ, O’Brien JL, Hutchinson DS, Smith DP, Wong MC, 
+et al. Temporal development of the gut microbiome in early childhood
+from the TEDDY study. Nature. 2018;562:583–8.
+Page 9
+van Best   et al. Microbiome (2022) 10:74  Page 9 of 9
+  99.  Vatanen T, Kostic AD, d’Hennezel E, Siljander H, Franzosa EA, Yassour
+M, et al. Variation in Microbiome LPS Immunogenicity Contributes to
+Autoimmunity in Humans. Cell. 2016;165:842–53.
+100.  Subbarao P, Anand SS, Becker AB, Befus AD, Brauer M, Brook JR, et al. 
+The Canadian Healthy Infant Longitudinal Development (CHILD) Study: 
+examining developmental origins of allergy and asthma: Table 1. Thorax
+BMJ. 2015;70:998–1000.
+101.  Stokholm J, Blaser MJ, Thorsen J, Rasmussen MA, Waage J, Vinding RK, et al. Maturation of the gut microbiome and risk of asthma in child‑
+hood. Nat Commun. 2018;9:141.
+102.  Nayfach S, Rodriguez-Mueller B, Garud N, Pollard KS. An integrated
+metagenomics pipeline for strain profiling reveals novel pat‑
+terns of bacterial transmission and biogeography. Genome Res. 
+2016;26:1612–25.
+103.  Yassour M, Jason E, Hogstrom LJ, Arthur TD, Tripathi S, Siljander H, et al. 
+Strain-Level Analysis of Mother-to-Child Bacterial Transmission during
+the First Few Months of Life. Cell Host Microbe. 2018;24:146–54.e4.
+104.  Duranti S, Lugli GA, Mancabelli L, Armanini F, Turroni F, James K, et al. 
+Maternal inheritance of bifidobacterial communities and bifidophages
+in infants through vertical transmission. Microbiome. 2017;5:66.
+105.  Fehr K, Moossavi S, Sbihi H, Boutin RCT, Bode L, Robertson B, et al. 
+Breastmilk Feeding Practices Are Associated with the Co-Occurrence of
+Bacteria in Mothers’ Milk and the Infant Gut: the CHILD Cohort Study. 
+Cell Host Microbe. 2020;28:285–97.e4.
+106.  Huda MN, Lewis Z, Kalanetra KM, Rashid M, Ahmad SM, Raqib R, 
+et al. Stool microbiota and vaccine responses of infants. Pediatrics. 
+2014;134:e362–72.
+107.  Davis JCC, Lewis ZT, Krishnan S, Bernstein RM, Moore SE, Prentice AM, 
+et al. Growth and Morbidity of Gambian Infants are Influenced by
+Maternal Milk Oligosaccharides and Infant Gut Microbiota. Sci Rep. 
+2017;7:40466.
+108.  Aakko J, Grześkowiak Ł, Asukas T, Päivänsäde E, Lehto K-M, Fan Y-M, 
+et al. Lipid-based Nutrient Supplements Do Not Affect Gut Bifidobac‑
+terium Microbiota in Malawian Infants: A Randomized Trial. J Pediatr
+Gastroenterol Nutr. 2017;64:610–5.
+109.  Lawson MAE, O’Neill IJ, Kujawska M, Gowrinadh Javvadi S, Wijeyesekera
+A, Flegg Z, et al. Breast milk-derived human milk oligosaccharides
+promote Bifidobacterium interactions within a single ecosystem. ISME
+J. 2020;14:635–48.
+110.  Fukuda S, Toh H, Hase K, Oshima K, Nakanishi Y, Yoshimura K, et al. 
+Bifidobacteria can protect from enteropathogenic infection through
+production of acetate. Nature. 2011;469:543–7.
+111.  Henrick BM, Rodriguez L, Lakshmikanth T, Pou C, Henckel E, Arzoomand
+A, et al. Bifidobacteria-mediated immune system imprinting early in life. 
+Cell. 2021;184:3884–98.e11.
+112.  Dawod B, Marshall JS, Azad MB. Breastfeeding and the developmental
+origins of mucosal immunity: how human milk shapes the innate
+and adaptive mucosal immune systems. Curr Opin Gastroenterol. 
+2021;37:547–56.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub‑
+lished maps and institutional affiliations. 
+Ready to submit your research? Choose BMC and benefit from: 
+• fast, convenient online submission
+• thorough peer review by experienced researchers in your ﬁeld 
+• rapid publication on acceptance
+• support for research data, including large and complex data types
+• gold Open Access which fosters wider collaboration and increased citations
+• maximum visibility for your research: over 100M website views per year
+At BMC, research is always in progress.
+Learn more biomedcentral.com/submissions

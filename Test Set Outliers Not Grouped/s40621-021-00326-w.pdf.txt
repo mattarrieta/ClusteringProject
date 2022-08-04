@@ -1,0 +1,685 @@
+Keywords: Catastrophic injury,Sudden cardiac arrest,Head trauma,Exertional heat stroke,School athletics
+Creator: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+ModDate: 2021/05/11 17:34:33+02'00'
+CreationDate: 2021/05/09 01:04:50+08'00'
+Producer: Acrobat Distiller 10.0.0 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)
+Subject: Injury Epidemiology, 2021, doi:10.1186/s40621-021-00326-w
+Author: Yuri Hosokawa
+Title: Epidemiology of sudden death in organized school sports in Japan
+xmp:pdf:Keywords: Catastrophic injury,Sudden cardiac arrest,Head trauma,Exertional heat stroke,School athletics
+xmp:pdf:Producer: Acrobat Distiller 10.0.0 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)
+xmp:dc:format: application/pdf
+xmp:dc:identifier: 10.1186/s40621-021-00326-w
+xmp:dc:publisher: Injury Epidemiology
+xmp:dc:description: Injury Epidemiology, 2021, doi:10.1186/s40621-021-00326-w
+xmp:dc:subject: Catastrophic injury; Sudden cardiac arrest; Head trauma; Exertional heat stroke; School athletics
+xmp:dc:title: Epidemiology of sudden death in organized school sports in Japan
+xmp:dc:creator: Yuri Hosokawa; Yuki Murata; Rebecca L. Stearns; Miwako Suzuki-Yamanaka; Kristen L. Kucera; Douglas J. Casa
+xmp:xmp:ModifyDate: 2021-05-11T17:34:33+02:00
+xmp:xmp:MetadataDate: 2021-05-11T17:34:33+02:00
+xmp:xmp:CreateDate: 2021-05-09T01:04:50+08:00
+xmp:xmp:CreatorTool: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+xmp:xmpMM:DocumentID: uuid:a915faff-9718-434d-b6d6-b2a19d298fac
+xmp:xmpMM:InstanceID: uuid:b85505bc-9850-4545-ac81-9abbdd2b356d
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:a915faff-9718-434d-b6d6-b2a19d298fac
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2021-05-09T05:55:56+08:00
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:author:name: Yuri Hosokawa
+xmp:author:orcid: http://orcid.org/0000-0001-9138-5361
+xmp:pdfaSchema:schema: Springer Nature ORCID Schema
+xmp:pdfaSchema:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/
+xmp:pdfaSchema:prefix: sn
+xmp:pdfaProperty:name: authorInfo
+xmp:pdfaProperty:valueType: Bag AuthorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Author information: contains the name of each author and his/her ORCID (ORCiD: Open Researcher and Contributor ID). An ORCID is a persistent identifier (a non-proprietary alphanumeric code) to uniquely identify scientific and other academic authors.
+xmp:pdfaProperty:name: editorInfo
+xmp:pdfaProperty:valueType: Bag EditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Editor information: contains the name of each editor and his/her ORCID identifier.
+xmp:pdfaProperty:name: seriesEditorInfo
+xmp:pdfaProperty:valueType: Bag SeriesEditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Series editor information: contains the name of each series editor and his/her ORCID identifier.
+xmp:pdfaType:type: AuthorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/authorInfo/
+xmp:pdfaType:prefix: author
+xmp:pdfaType:description: Specifies the types of author information: name and ORCID of an author.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an author.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an author.
+xmp:pdfaType:type: EditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/editorInfo/
+xmp:pdfaType:prefix: editor
+xmp:pdfaType:description: Specifies the types of editor information: name and ORCID of an editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an editor.
+xmp:pdfaType:type: SeriesEditorInformation
+xmp:pdfaType:namespaceURBOOKMARKS:
+Abstract
+  Background
+  Methods
+  Results
+  Conclusions
+Background
+Methods
+  Data sources
+  Data analysis
+Results
+  Analysis by sport
+  Cause of death
+Discussion
+Conclusions
+Acknowledgements
+Authors’ contributions
+Funding
+Availability of data and materials
+Declarations
+Ethics approval and consent to participate
+Consent for publication
+Competing interests
+Author details
+References
+Publisher’s Note
+Page 1
+Hosokawa et al. Injury Epidemiology (2021) 8:27
+https://doi.org/10.1186/s40621-021-00326-w
+ORIGINAL CONTRIBUTION  Open Access
+Epidemiology of sudden death in
+organized school sports in Japan
+Yuri Hosokawa1* [URL: "http://orcid.org/0000-0001-9138-5361"] , Yuki Murata2, Rebecca L. Stearns3, Miwako Suzuki-Yamanaka4, Kristen L. Kucera5 and
+Douglas J. Casa3
+Abstract
+Background: Nearly half of the sudden deaths documented in Japanese middle and high school occurred during
+school organized sport activities. However, no study to date has calculated the incidence rates of these deaths by
+sport. Therefore, this study aimed to describe the epidemiology of sudden death in organized school sports in
+Japan.
+Methods: Data submitted to Japan Sport Council (JSC) Injury and Accident Mutual Aid Benefit System between
+2005 and 2016 were retrieved from JSC website for analysis (n = 1137). Case information on fatal incidents that
+occurred during organized school sports in middle and high school students were extracted for analysis (n = 198).
+Descriptive statistics about activity type, sex, sport, cause of death, and presence of on-site trained medical
+personnel were calculated using frequencies and proportions. Sudden death incidence rates were expressed per
+100,000 athlete-years with 95% confidence intervals (CI).
+Results: The overall incidence rate of sports-related death was 0.38 deaths per 100,000 athlete-years (95%CI = 0.30,
+0.45). Only three cases (2%) reported having trained medical personnel on-site at the time of death. Most deaths were
+in male student athletes (n = 149/162, 92%), with 7.5 times greater fatality rate in male compared to female student
+athletes (incidence rate ratio, 7.5; 95%CI = 4.43, 13.22). Baseball (n = 25/162, 15.4%), judo (n = 24/162, 14.8%), soccer/
+futsal (n = 20/162, 12.3%), and basketball (n = 18/162, 11.1%) accounted for 53.7% of deaths. Accounting for the
+number of participants in the respective sport, the three highest average incident rates of death were reported in
+rugby (4.59 deaths per 100,000 athlete-years, 95%CI = 2.43, 6.75), judo (3.76 deaths per 100,000 athlete-years, 95%CI =
+1.58, 5.93), and baseball (0.59 deaths per 100,000 athlete-years, 95%CI = 0.38, 0.79). The top three causes of death were
+sudden cardiac arrest (n = 68/162, 42.0%), head trauma (n = 32/162, 19.8%), and heat related injury (n = 25/162, 15.4%).
+Conclusions: In conclusion, the highest rates of sports-related death among Japanese student athletes were observed
+in the following: rugby, male athletes, and during practices. The leading cause of death was sudden cardiac arrest.
+Keywords: Catastrophic injury, Sudden cardiac arrest, Head trauma, Exertional heat stroke, School athletics
+* Correspondence: [URL: "mailto:yurihosokawa@waseda.jp"] yurihosokawa@waseda.jp
+1Faculty of Sport Sciences, Waseda University, 2-579-15 Mikajima,
+Tokorozawa, Saitama, Japan
+Full list of author information is available at the end of the article
+© The Author(s). 2021 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit [URL: "http://creativecommons.org/licenses/by/4.0/"] http://creativecommons.org/licenses/by/4.0/.
+The Creative Commons Public Domain Dedication waiver ([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://creativecommons.org/publicdomain/zero/1.0/) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.
+Page 2
+Hosokawa et al. Injury Epidemiology (2021) 8:27  Page 2 of 7
+Background
+School organized sport participation provides a valuable
+opportunity for students to stay physically active, start a
+new sport, and fosters psychosocial growth in the form
+of teamwork, leadership, and accountability. Japan
+Sports Agency and Japanese school systems have
+regarded school organized sport as an extension of
+formal education that is supervised and coached by
+faculty members of the school (Japan Sport Agency
+2018; Nakazawa 2014). Participation in school organized
+sport is often viewed as an introduction to an active life-
+style to extend a healthy life span (Hallal et al. 2006;
+Monma et al. 2019);  however, it could also predispose
+student athletes to sustain injuries that may range from
+minor to fatal (Kamiya et al. 2015; Kuroyanagi et al.
+2001; Miyake et al. 2016; Takagishi et al. 2019;
+Takahashi et al. 2019).
+Death of a student athlete during school organized
+sport not only impacts the victim’s family and team,
+but the community at large. According to Japan Sport
+Council (JSC) Injury and Accident Mutual Aid Benefit
+System, middle and high schools documented an
+average of 360 claims for catastrophic and fatal inci-
+dents each year from school sanctioned activities from
+2015 to 2018, 46% of which were related to sport
+participation (outside of physical education) (Japan
+Sport Council n.d.-a).  School nurse may be on call
+afterschool when school organized sports take place;
+however, the level of access varies greatly by school.
+In addition, current school safety guidelines set forth
+by the Ministry of Education, Culture, Sports, Science
+and Technology focus on community safety, traffic
+safety, and natural disaster safety but not sports-
+specific safety considerations. Therefore, school
+administration, staff, and faculty are not equipped
+with knowledge and skills regarding prevention and
+management of sport-specific emergencies. Conse-
+quently, when fatal sports incidents do occur, they
+are managed in a reactive fashion, where cases are
+examined retrospectively to identify the mechanisms
+and causes of death through interviews, but often fall
+short on implementing proactive risk mitigation
+strategies. At the time of the current study, no na-
+tionwide policy has specifically aimed to improve
+health and safety of student athletes in the context of
+school organized sport participation.
+Each year, JSC Injury and Accident Mutual Aid Benefit
+System receives insurance claims data from schools for
+catastrophic and fatal incidents that occurred during
+school sanctioned events (Japan Sport Council n.d.-a).
+The mutual aid benefit system covers medical expenses
+and compensation for injuries or death, if the accident
+that results in injury, illness, disability, or death occurred
+under the supervision of schools. The liability for the 
+premium is borne by the national government, school,
+and parents and guardians, and eligibility for benefits
+applies regardless of the school’s liability. After the
+student-athlete is discharged from the hospital, parents
+and guardians will submit necessary medical record in-
+formation to the school, who will process the mutual aid
+benefit system application to JSC. The benefit will be
+paid out to the parents and guardians of the insuree if
+the claim application is submitted to JSC within 2 years
+of the incident. Ninety-five percent of the students of
+both public and private institutions nationwide (e.g.,
+compulsory education schools, high schools, kindergar-
+ten, nursery school) subscribe to this mutual aid benefit
+system with 99.9 and 97.8% of middle and high school
+students, respectively, covered under this system (Japan
+Sport Council n.d.-b).  No study to date has examined
+the incidence of sport-related death using the current
+dataset.
+Methods
+A retrospective epidemiology study design was used to
+describe the epidemiology of sudden death in organized
+middle school and high school sports in Japan.
+Data sources
+Insurance claims submitted to JSC Injury and Accident
+Mutual Aid Benefit System between 2005 and 2016 were
+retrieved from JSC website for analysis (n = 1137).  The
+database is publicly accessible on the website (Japan
+Sport Council n.d.-a).  Case information on fatal inci-
+dents occurring during organized school sports in mid-
+dle and high school students were extracted by YH for
+further analysis (n = 198). In Japan, middle school covers
+grades 7th through 9th (12 to 15 years old) and high
+school covers grades 10th through 12th (15 to 18 years
+old).  Data categorization used in the JSC database was
+used in this study for: activity type (practice, scrimmage,
+game, training camp, other), sport (badminton, baseball,
+basketball, boxing, cycling, fencing, gymnastics, handball,
+hiking, ice hockey, judo, kendo, kyudo, rugby ski, soccer,
+softball, swim table tennis, track and field [long distance,
+pole vault, short distance, throwing],  volleyball, wrest-
+ling, other) and cause of death (cervical spine trauma,
+drowning, head trauma, heat related injury, internal
+organ trauma, lightning, sudden cardiac arrest, suffoca-
+tion, and unknown cause). Cause of death was registered
+in the database by JSC staff according to the medical
+diagnosis provided by the physician in the medical
+records submitted by the insuree.
+Population data for middle and high school student
+athletes were retrieved from public online databases
+of national governing bodies that manage the mem-
+bership data of these athletes annually (All Japan
+High School Athletic Federation, 2017; Nippon Junior
+Page 3
+Hosokawa et al. Injury Epidemiology (2021) 8:27  Page 3 of 7
+High School Physical Culture Association n.d.-a; Nip-
+pon Junior High School Physical Culture Associ-
+ation n.d.-b). Due to missing data in some years from
+the publicly available data source, data from 2016 was
+used as the estimate of participant numbers in all
+years. Since high school baseball is governed by Japan
+High School Baseball Federation, membership data
+was retrieved separately from its official website
+(Japan High School Baseball Federation n.d.).
+Data analysis
+Descriptive statistics related to information about activ-
+ity type, sex, sport, cause of death, and presence of on-
+site trained medical personnel were calculated using fre-
+quencies and proportions. Presence of on-site trained
+medical personnel was determined by YH from review-
+ing case details. Sudden death incidence rates were
+expressed per 100,000 athlete-years (AY) with 95% con-
+fidence intervals (CI). Incidence rates overall and by gen-
+der were calculated using the total number of middle
+and high school student athletes in the rate denomin-
+ator. Incidence rate ratio and 95% CI between male and
+female student athletes was also calculated. Sport-
+specific incidence rates were calculated for sports with
+five or more reported deaths, and utilized the number of
+participants in the sport in the rate denominator. Fish-
+er’s exact test (FET) with Monte Carlo simulation was
+used to examine the pattern in the proportion of re-
+ported causes of death (sudden cardiac arrest, head
+trauma, heat related injury, and all other causes of 
+death) over the 12-year period. A significance level of
+p < 0.05 was set a priori.
+Results
+Fatalities were reported during practice (n = 120/198,
+60.6%), scrimmage (n = 16/198, 8.1%), game (n = 10/198,
+5.1%), training camp (n = 16/198, 8.1%), and other (n =
+36/198, 18.2%). For the remainder of the analysis, fatal-
+ities that occurred during other activities were removed
+from the analysis since they either (1) did not have fur-
+ther details to suggest that they occurred during prac-
+tice, scrimmage, game, or training camp, or (2) the
+report suggested that they occurred during the down-
+time of sport participation (e.g., found dead in bed the
+morning after the practice, motor vehicle accident on
+the way to athletic venue).
+The overall incidence rate of sports-related death was
+0.38 deaths per 100,000 AY (highest, 0.56 deaths per
+100,000 AY; lowest, 0.19 deaths per 100,000 AY). Most
+fatalities were in male student athletes (n = 149/162,
+92%), with a 7.5 times greater fatality rate (95%CI = 4.43,
+13.22) in male compared to female student athletes
+(male, 0.60 deaths per 100,000 AY, 95%CI = 0.46, 0.73;
+female, 0.08 deaths per 100,000 AY, 95%CI = 0.03, 0.13).
+Only three deaths (2%) reported having trained medical
+personnel on-site at the time of incident.
+Analysis by sport
+The number of fatalities by sport is summarized in Fig. 1.
+Baseball (n = 25/162, 15.4%),  judo (n = 24/162, 14.8%),
+Fig. 1 Number of fatal incidents reported during organized school sports in Japanese middle and high school between 2005 and 2016 by sport
+Page 4
+Hosokawa et al. Injury Epidemiology (2021) 8:27  Page 4 of 7
+soccer/futsal (n = 20/162, 12.3%), and basketball (n = 18/
+162, 11.1%) accounted for 53.7% of fatalities. Incidence
+rates per 100,000 AY were calculated for sports with five
+or more reported deaths (e.g., baseball, judo, soccer/fut-
+sal, basketball, and rugby, tennis, kendo, badminton, and
+volleyball). Accounting for the number of participants in
+the respective sports, the three highest incident rates of
+death were reported in rugby (4.59 deaths per 100,000
+AY, 95%CI = 2.43, 6.75),  judo (3.76 deaths per 100,
+000AY, 95%CI = 1.58, 5.93),  and baseball (0.59 deaths
+per 100,000AY, 95%CI = 0.38, 0.79) (Table 1).
+Cause of death
+The cause of death during organized school sports is
+summarized in Fig. 2. Sudden cardiac arrest (n = 68/162,
+42.0%),  head trauma (n = 32/162, 19.8%),  and heat
+related injury (n = 25/162, 15.4%) were the top three
+known causes of death. The proportion of sudden
+cardiac arrest, head trauma, heat related injury, and all
+other causes of death varied by year (FET [33] = 46.48,
+p = 0.02) (Fig. 3).
+Discussion
+Examination of deaths that occurred during organized
+school sports documented in JSC database between 2005
+and 2016 revealed that the overall incidence rate of
+sport-related death was 0.38 deaths per 100,000 AY, with
+7.5 times greater rate in male compared to female stu-
+dent athletes. To our knowledge, this is the first study
+reporting the incident rate of death per 100,000 athlete-
+years during organized school sports in Japan. A previ-
+ous study by Kuroyanagi et al. examined sudden deaths
+documented in elementary, middle, and high school stu-
+dents of the twenty-three special wards of Tokyo
+between 1976 and 1995 (Kuroyanagi et al. 2001). In their
+study, a total of 255 deaths were reported, of which 43 
+deaths happened during participation in school orga-
+nized sports on campus. However, the incident rate per
+student-years was not calculated, and the sex difference
+was reported using a ratio (i.e., male to female ratio of
+reported death was 2 to 1),  which does not provide a
+valid sex comparison since the total number of male
+participants was greater than that of female.
+The three leading causes of death during organized
+school sports in Japan were comparable with those re-
+ported in the United States: sudden cardiac arrest, head
+trauma, and heat related injury (Boden et al. 2013; Casa
+et al. 2012b).  This is an expected finding since sport-
+related deaths tend to occur during extreme exertion or
+from direct trauma (Boden et al. 2013).  However, it
+should be noted that an ethnicity-based difference was
+observed in the absence of exertional sickling related
+death in our Japanese cohort; a risk factor commonly
+seen in people of African descent that is often associ-
+ated with death when a training that is too novel, too
+much, too soon, or too intense is implemented (Casa
+et al. 2012a).
+When accounting for the number of participants in
+the respective sport, rugby (4.59/100,000 AY) and judo
+(3.76/100,000 AY) had notably higher incidence rates of
+death compared to other sports. Rugby and judo were
+also the top two sports in reported numbers of head
+trauma deaths, and were the only two sports where the
+reported number of deaths due to head trauma exceeded
+sudden cardiac arrest (rugby: head trauma n = 6, sudden
+cardiac arrest n = 2; judo: head trauma n = 17, sudden
+cardiac arrest n = 1). This finding aligns with the high in-
+tensity and collision-involving nature of these sports. Re-
+cent American football injury research in the United
+States, from both media and direct reporting during a
+12-year period, indicate that the incidence of sports-
+related deaths was 0.79 per 100,000 AY and 3.44 per
+Table 1 Overall incident rates of death during organized school sports in Japanese middle and high school by sport between 2005
+and 2016
+Sport  Number of deaths Number of athletes Incident rate per 100,000 athlete-years 95%CI
+Rugby  13  283,224  4.59  2.43  6.75
+Judo  24  638,340  3.76  1.58  5.93
+Baseball 25  4,264,644  0.59  0.38  0.79
+Kendo  8  1,600,332  0.50  0.17  0.83
+Soccer/ Futsal 20  4,972,080  0.40  0.26  0.55
+Basketball 18  5,620,116  0.32  0.18  0.46
+Badminton 6  2,975,640  0.20  0.08  0.32
+Tennis  11  6,604,788  0.17  0.10  0.24
+Volleyball 5  3,852,084  0.13  0.04  0.22
+Population data for middle school and high school student athletes were retrieved from the Nippon Junior High School Physical Culture Association and All Japan
+High School Athletic Federation membership data (middle school, [URL: "http://njpa.sakura.ne.jp/pdf/kamei/h28kameiseito_m.pdf"] http://njpa.sakura.ne.jp/pdf/kamei/h28kameiseito_m.pdf and [URL: "http://njpa.sakura.ne.jp/pdf/kamei/h28kameiseito_f.pdf"] http://njpa.sakura.ne.jp/pdf/kamei/
+ h28kameiseito_f.pdf; high school, [URL: "https://www.zen-koutairen.com/pdf/reg-28nen.pdf"] https://www.zen-koutairen.com/pdf/reg-28nen.pdf). Due to missing data in some years, data from 2016 was used as the
+estimate of participant numbers in all years
+Page 5
+Hosokawa et al. Injury Epidemiology (2021) 8:27  Page 5 of 7
+Fig. 2 Cause of death reported during organized school sports in Japanese middle and high school between 2005 and 2016
+100,000 AY for high school and collegiate athletes,
+respectively (Kucera et al. 2020).  Although these data
+cannot be used as a direct comparison against our study
+results due to differences in data collection methods, the
+findings in Japan were high because they exceed the rate
+observed in collegiate American football, which has the
+highest incidence rate of sports-related fatalities in colle-
+giate sports in the United States.
+There are two factors that may have affected a signifi-
+cantly high fatality rate reported in Japan. First, school
+organized sports in Japan are played throughout the aca-
+demic year (April through March), 5 days a week. Fur-
+thermore, training camps, games, and tournaments are
+often scheduled during the holiday breaks, and students
+take part in the team activity for the duration of their
+time at the school (i.e.,  3 years).  Therefore, the total
+exposure to organized school activity is much greater in
+a given year compared to student athletes in the United
+States, where students participate in sports by seasons.
+Second, most school organized sports in Japan are solely
+supervised and coached by faculty members of the 
+school (Nakazawa 2014).  Before the introduction of
+external hiring policies (i.e., hiring non-faculty members)
+for school extracurricular activities in 2017, faculty
+members were assigned to sports that they may or may
+not be familiar with. The current analysis presented in
+this paper represents the pre-policy period, where such
+options were unavailable. According to the report from
+the Japan Sports Association, 45.9% of middle school
+and 40.9% of high school faculty members who were
+assigned to supervise school organized sport teams were
+not physical education teachers nor had the experience
+of playing the assigned sport (Japan Sports Association
+2014). This is of concern as individuals with minimum,
+if any, knowledge of the sport and risks associated with
+the activity are responsible for the health and safety of
+the student athletes. While coaches are members of their
+respective sports governing bodies, the lack of regulatory
+systems for coaching qualifications at middle and high
+school sports makes it difficult to implement standard-
+ized coaching education as a requirement. According to
+the national survey conducted in 2015, 99% of middle
+Fig. 3 Number of fatal incidents reported during organized school sports in Japanese middle and high school by year and cause between 2005
+and 2016
+Page 6
+Hosokawa et al. Injury Epidemiology (2021) 8:27  Page 6 of 7
+and high schools in Japan have at least one automated
+external defibrillator on campus (The Ministry of
+Education, Culture, Sports, Science and Technology-
+Japan, 2015);  however, the same survey reported that
+only 68.4 and 58.8% of middle and high schools offer
+first aid and cardiopulmonary resuscitation training to
+all faculty members. This discrepancy further highlights
+the lack of human resource and training to ensure the
+health and safety of student athletes. Lastly, only three
+reported cases in the current study had trained medical
+personnel on-site at the time of incident. This is in con-
+trast with school organized sports in the United States,
+where 86% of athletes have access to certified athletic
+trainer for medical services (Pike et al. 2017).  When a
+certified athletic trainer was present to assist in the re-
+suscitation at the site of sudden cardiac arrest, 83% (24/
+29) of athletes survived; whereas the percentage was
+lower (47%;  9/19) when a certified athletic trainer was
+not present (Drezner et al. 2019).  While we cannot
+imply causation from this finding, future improvement
+in access to trained medical personnel on campus may
+influence the number of sudden cardiac arrest sruvivals.
+Sociocultural factors of Japanese school organized
+sports should also be considered in when interpreting
+results from the current study. A previous study
+(Mochizuki and Tomozoe 2016) suggests that origins of
+catastrophic injuries in Japanese school organized sports
+are due to lack of knowledge among coaches and use of
+physical hardship as a pedagogy for development. The
+zero tolerance culture for weakness has resulted in delay
+in appropriate activity modification and treatment when
+student athletes were suffering from potentially lethal
+conditions Future research should investigate
+organizational risk factors associated with catastrophic
+incidents during school organized sports to elucidate fu-
+ture strategies for prevention of sports-related fatalities.
+Our dataset observed a drop in the number of deaths
+in 2008 and 2012 (Fig. 3).  While we cannot make an
+inference, 2012 corresponds with the year when Judo
+became a required subject in physical education for boys
+and girls in middle school nationwide. This change has
+brought national attention to safety issues in judo, which
+heightened awareness regarding acquisition of proper
+skills and designing practice sessions that match the skill
+level of novice students. Detailed review of our dataset
+revealed that Judo had one fatal head trauma and one
+fatal cervical spine trauma from 2012 to 2016, which
+was substantially fewer than sixteen deaths reported
+between 2005 and 2011. This change in judo alone may
+have influenced the drop in the number of deaths from
+2012 to 2016.
+This study is not without limitations. First, authors re-
+trieved the claims data from the publicly accessible data-
+base of JSC Injury and Accident Mutual Aid Benefit 
+System, (Japan Sport Council n.d.-c) which is not de-
+signed for epidemiology research. For example, categor-
+ies used to label causes of death in this system were
+created by JSC and do not follow code systems often
+seen in medical chart and injury surveillance systems.
+Additionally, the decision to submit claim information is
+made by school personnel, who may or may not have
+the ability to correctly identify deaths that occurred due
+to school organized sport participation. However, re-
+gardless of the shortcomings of the JSC database, it is
+the only national database that currently collects com-
+prehensive claims reports on catastrophic and fatal in-
+juries that resulted in insurance benefit payouts.
+Another limitation is our estimate of population data for
+rate denominators, which was derived from the member-
+ship data from 2016. This estimation does not account
+for changes in participation over time which could im-
+pact the rates. Furthermore, we did not have data on
+school characteristics to examine the confounding vari-
+ables that may influence the chance of survival (e.g.,
+presence of emergency action plans, accessibility to au-
+tomated external defibrillator, number of years coaching
+the sport, completion of safety training).  Lastly, future
+studies should examine factors that may have influenced
+the significantly low incidence rate among female stu-
+dent athletes. Previous studies have consistently reported
+a lower prevalence of sudden death among female ath-
+letes in sports; however, the precise mechanism is not
+well-understood (Colombo et al. 2019; Endres et al.
+2019; Finocchiaro et al. 2016).  Therefore, more studies
+are needed to improve the understanding of the causes
+of death among female athletes and to elucidate if differ-
+ent risk factors exist when compared to the male
+counterpart.
+Conclusions
+In conclusion, the incidence rate of sports-related death
+among Japanese student athletes was highest in male
+rugby players, and fatalities most often occurred during
+practice and were due to sudden cardiac arrest. The top
+three causes of death were sudden cardiac arrest, head
+trauma, and heat related injury, accounting for 77.2% of
+all reported cases. Therefore, future efforts on preven-
+tion and emergency preparedness should prioritize these
+conditions. Additionally, few incidents had trained med-
+ical personnel on-site at the time of the catastrophic
+event during school organized athletics in Japan. These
+findings call for national and organizational actions to
+reconsider the current structure of school organized
+sports and to improve access to medical personnel dur-
+ing school organized sports.
+Acknowledgements
+Not applicable.
+Page 7
+Hosokawa et al. Injury Epidemiology (2021) 8:27  Page 7 of 7
+Authors’ contributions
+YH led the conceptualization and design of the study, led analyses and data
+interpretation, and drafted the initial manuscript. RLS, YM, MY, KK, and DJC
+assisted with analyses, data interpretation, and reviewed and revised the
+manuscript. All authors read and approved the final manuscript.
+Funding
+Not applicable.
+Availability of data and materials
+The dataset analyzed in the current study is freely available on Japan Sport
+Council Injury and Accident Mutual Aid Benefit System database at [URL: "https://www.jpnsport.go.jp/anzen/anzen_school/anzen_school/tabid/822/Default.aspx"] https://
+ www.jpnsport.go.jp/anzen/anzen_school/anzen_school/tabid/822/Default.
+aspx.
+Declarations
+Ethics approval and consent to participate
+Consent to participate was neither required nor possible in this retrospective
+ecological study which consisted of secondary analysis of a pre-existing sur-
+veillance dataset which contained no student-athlete personal identifiers.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Author details
+1Faculty of Sport Sciences, Waseda University, 2-579-15 Mikajima,
+Tokorozawa, Saitama, Japan. 2Graduate School of Education and Human
+Development, Nagoya University, Nagoya, Aichi, Japan. 3Korey Stringer
+Institute, Department of Kinesiology, University of Connecticut, Storrs, CT,
+USA. 4Graduate School of Sport Sciences, Waseda University, Tokorozawa,
+Saitama, Japan. 5Department of Exercise and Sport Science, University of
+North Carolina Chapel Hill, Chapel Hill, NC, USA.
+Received: 8 January 2021 Accepted: 18 March 2021
+References
+All Japan High School Athletic Federation. 2016 All Japan High School Athletic
+Federation membership data. 2017. [cited 2021 Feb 23]. Available from:
+ https://www.zen-koutairen.com/pdf/reg-28nen.pdf.
+Boden BP, Breit I, Beachler JA, Williams A, Mueller FO. Fatalities in high school
+and college football players. Am J Sports Med. 2013;41(5):1108–16. [URL: "https://doi.org/10.1177/0363546513478572"] https://
+ doi.org/10.1177/0363546513478572.
+Casa DJ, Anderson SA, Baker L, Bennett S, Bergeron MF, Connolly D, et al. The
+inter-association task force for preventing sudden death in collegiate
+conditioning sessions: best practices recommendations. J Athl Train. 2012a;
+47(4):477–80. [URL: "https://doi.org/10.4085/1062-6050-47.4.08"] https://doi.org/10.4085/1062-6050-47.4.08.
+Casa DJ, Guskiewicz KM, Anderson SA, Courson RW, Heck JF, Jimenez CC, et al.
+National Athletic Trainers’ association position statement: preventing sudden
+death in sports. J Athl Train. 2012b;47(1):96–118. [URL: "https://doi.org/10.4085/1062-6050-47.1.96"] https://doi.org/10.4085/1
+ 062-6050-47.1.96.
+Colombo CSS d S, Ghorayeb N, Garcia TG, Francisco RC, Colombo CSS d S,
+Ghorayeb N, et al. Sudden cardiac death in sports: why its prevalence is so
+different by gender? International journal of cardiovascular sciences.
+Sociedade Brasileira de Cardiologia. 2019;32(4):414–7.
+Drezner JA, Peterson DF, Siebert DM, Thomas LC, Lopez-Anderson M, Suchsland
+MZ, et al. Survival after exercise-related sudden cardiac arrest in young
+athletes: can we do better? Sports Health. 2019;11(1):91–8. [URL: "https://doi.org/10.1177/1941738118799084"] https://doi.org/1
+ 0.1177/1941738118799084.
+Endres BD, Kerr ZY, Stearns RL, Adams WM, Hosokawa Y, Huggins RA, et al.
+Epidemiology of sudden death in organized youth sports in the United
+States, 2007–2015. J Athl Train. 2019;54(4):349–55. [URL: "https://doi.org/10.4085/1062-6050-358-18"] https://doi.org/10.4085/1
+ 062-6050-358-18.
+Finocchiaro G, Papadakis M, Robertus J-L, Dhutia H, Steriotis AK, Tome M, et al.
+Etiology of sudden death in sports: insights from a United Kingdom regional
+registry. J Am Coll Cardiol. 2016;67(18):2108–15. [URL: "https://doi.org/10.1016/j.jacc.2016.02.062"] https://doi.org/10.1016/j.ja
+ cc.2016.02.062. 
+Hallal PC, Victora CG, Azevedo MR, Wells JCK. Adolescent physical activity and
+health: a systematic review. Sports Med. 2006;36(12):1019–30. [URL: "https://doi.org/10.2165/00007256-200636120-00003"] https://doi.
+ org/10.2165/00007256-200636120-00003.
+Japan High School Baseball Federation. Membership Statistics. n.d. [cited 2021 Feb
+23]. Available from: [URL: "http://www.jhbf.or.jp/data/statistical/index_koushiki.html"] http://www.jhbf.or.jp/data/statistical/index_koushiki.html
+Japan Sport Agency. Comprehensive Guidelines for Athletic Club Activities. 2018
+[cited 2020 Sep 17]. Available from: [URL: "https://www.mext.go.jp/sports/b_menu/shingi/013_index/toushin/__icsFiles/afieldfile/2018/03/19/1402624_1.pdf"] https://www.mext.go.jp/sports/b_menu/
+ shingi/013_index/toushin/__icsFiles/afieldfile/2018/03/19/1402624_1.pdf
+Japan Sport Council. School Accident Database. n.d.-a [cited 2020a Sep 17].
+Available from: [URL: "https://www.jpnsport.go.jp/anzen/anzen_school/anzen_school/tabid/822/Default.aspx"] https://www.jpnsport.go.jp/anzen/anzen_school/anzen_
+ school/tabid/822/Default.aspx
+Japan Sport Council. Reiwa 2nd School Safety and Disaster Mutual Aid Benefit
+Guide. n.d.-b [cited 2020b Sep 17]. Available from: [URL: "https://www.jpnsport.go.jp/anzen/Tabid/998/Default.aspx"] https://www.jpnsport.go.
+ jp/anzen/Tabid/998/Default.aspx
+Japan Sport Council. School Safety Department. n.d.-c [cited 2020c Oct 2].
+Available from: [URL: "https://www.jpnsport.go.jp/corp/english/activities/tabid/395/Default.aspx"] https://www.jpnsport.go.jp/corp/english/activities/tabid/395/
+ Default.aspx
+Japan Sports Association. 学校運動部活動指導者の実態に関する調査. 2014
+[cited 2020 Sep 2]. Available from: [URL: "https://www.japan-sports.or.jp/Portals/0/data/katsudousuishin/doc/houkokusho.pdf"] https://www.japan-sports.or.jp/Portals/0/da
+ ta/katsudousuishin/doc/houkokusho.pdf
+Kamiya K, Funahashi H, Mano Y. A study on the occurrence of sudden death
+during sports activities in schools, using text-mining analysis. J Japan Soc
+Sports Industry. 2015;25(2):313–25.
+Kucera KL, Klossner D, Colgate B, Cantu RC. Annual Survey of Football Injury
+Research 1931–2019. 2020 [cited 2020 Dec 24]. Available from: [URL: "https://nccsir.unc.edu/files/2020/09/Annual-Football-2019-Fatalities-FINAL-updated-20200618.pdf"] https://nccsir.
+ unc.edu/files/2020/09/Annual-Football-2019-Fatalities-FINAL-updated-202
+ 00618.pdf
+Kuroyanagi K, Kumagai T, Matsuo Y, Nagai T, Kurosu A, Saotome A, et al.
+Epidemiological Analysis of Sudden Death in School Students. Nihon Kyukyu
+Igakukai Zasshi. Jpn Assoc Acute Med. 2001;12(1):20–9.
+Miyake E, Yatsunami M, Kurabayashi J, Teruya K, Sekine Y, Endo T, et al. A
+prospective epidemiological study of injuries in Japanese National
+Tournament-Level Badminton Players from Junior High School to university.
+Asian J Sports Med. 2016;7(1):e29637. [URL: "https://doi.org/10.5812/asjsm.29637"] https://doi.org/10.5812/asjsm.29637.
+Mochizuki K, Tomozoe H. Legal knowldege of catastrophic injuries in
+extracurricular sport activities. Theory and Practice in Extracurricular Sports
+Activities. 運動部活動の理論と実践. 1st ed. Tokyo: Taishukan Shoten; 2016.
+p. 107–16.
+Monma T, Takeda F, Noguchi H, Takahashi H, Watanabe T, Tamiya N. Exercise or
+sports in midlife and healthy life expectancy: an ecological study in all
+prefectures in Japan. BMC Public Health. 2019;19:1 [cited 2021 Mar 1].
+Available from: [URL: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6734340/"] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6734340/.
+Nakazawa A. Seeing sports as educational activities: a postwar history of
+extracurricular sports activities in Japan. Hitotsubashi J Soc Stud. 2014;45:1–14.
+Nippon Junior High School Physical Culture Association. 2016 Nippon Junior
+High School Physical Culture Association membership data: male. n.d.-a
+[cited 2021a Feb 23]. Available from: [URL: "http://njpa.sakura.ne.jp/pdf/kamei/h28kameiseito_m.pdf"] http://njpa.sakura.ne.jp/pdf/kamei/h28ka
+ meiseito_m.pdf
+Nippon Junior High School Physical Culture Association. 2016 Nippon Junior
+High School Physical Culture Association membership data: female. n.d.-b
+[cited 2021b Feb 23]. Available from: [URL: "http://njpa.sakura.ne.jp/pdf/kamei/h28kameiseito_f.pdf"] http://njpa.sakura.ne.jp/pdf/kamei/h28ka
+ meiseito_f.pdf
+Pike AM, Pryor RR, Vandermark LW, Mazerolle SM, Casa DJ. Athletic trainer
+Services in Public and Private Secondary Schools. J Athl Train. 2017;52(1):5–
+11. [URL: "https://doi.org/10.4085/1062-6050-51.11.15"] https://doi.org/10.4085/1062-6050-51.11.15.
+Takagishi K, Matsuura T, Masatomi T, Chosa E, Tajika T, Iwama T, et al. Shoulder
+and elbow pain in junior high school baseball players: results of a
+nationwide survey. J Orthop Sci. 2019;24(4):708–14. [URL: "https://doi.org/10.1016/j.jos.2018.12.018"] https://doi.org/10.1016/j.
+ jos.2018.12.018.
+Takahashi S, Nagano Y, Ito W, Kido Y, Okuwaki T. A retrospective study of
+mechanisms of anterior cruciate ligament injuries in high school basketball,
+handball, judo, soccer, and volleyball. Medicine (Baltimore). 2019;98(26):
+e16030. [URL: "https://doi.org/10.1097/MD.0000000000016030"] https://doi.org/10.1097/MD.0000000000016030.
+The Ministry of Education, Culture, Sports, Science and Technology-Japan. Survey
+on the public-access AED dissemination in schools [in Japanese]. 2015. [cited
+2021 Feb 22]. Available from: [URL: "https://www.mext.go.jp/component/a_menu/education/detail/__icsFiles/afieldfile/2017/03/24/1289307_12.pdf"] https://www.mext.go.jp/component/a_menu/
+ education/detail/__icsFiles/afieldfile/2017/03/24/1289307_12.pdf
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+[URL: "https://nccsir.unc.edu/files/2020/09/Annual-Football-2019-Fatalities-FINAL-updated-20200618.pdf"]

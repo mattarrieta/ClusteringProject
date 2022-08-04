@@ -1,0 +1,735 @@
+Author: Deborah Swinglehurst
+CreationDate: 2015/06/18 21:20:57+08'00'
+Creator: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+CrossMarkDomains[1]: springer.com
+CrossMarkDomains[2]: springerlink.com
+CrossmarkDomainExclusive: true
+CrossmarkMajorVersionDate: 2015-06-18
+Keywords: 
+ModDate: 2016/09/21 06:45:33+05'30'
+Producer: Acrobat Distiller 11.0.9(Windows)
+Subject: BMC Health Services Research, 2015, doi:10.1186/s12913-015-0851-y
+Title: Confronting the quality paradox: towards new characterisations of ‘quality’ in contemporary healthcare
+doi: 10.1186/s12913-015-0851-y
+xmp:crossmark:DOI: 10.1186/s12913-015-0851-y
+xmp:crossmark:MajorVersionDate: 2015-06-18
+xmp:crossmark:CrossmarkDomainExclusive: true
+xmp:crossmark:CrossMarkDomains: springer.com; springerlink.com
+xmp:pdf:Producer: Acrobat Distiller 11.0.9(Windows)
+xmp:pdfx:CrossmarkMajorVersionDate: 2015-06-18
+xmp:pdfx:CrossmarkDomainExclusive: true
+xmp:pdfx:doi: 10.1186/s12913-015-0851-y
+xmp:pdfx:CrossMarkDomains: springer.com; springerlink.com
+xmp:prism:url: http://dx.doi.org/10.1186/s12913-015-0851-y
+xmp:prism:doi: 10.1186/s12913-015-0851-y
+xmp:prism:issn: 1472-6963
+xmp:prism:aggregationType: journal
+xmp:prism:publicationName: BMC Health Services Research
+xmp:prism:copyright: Swinglehurst et al.
+xmp:dc:format: application/pdf
+xmp:dc:identifier: 10.1186/s12913-015-0851-y
+xmp:dc:publisher: BMC Health Services Research
+xmp:dc:description: BMC Health Services Research, 2015, doi:10.1186/s12913-015-0851-y
+xmp:dc:title: Confronting the quality paradox: towards new characterisations of ‘quality’ in contemporary healthcare
+xmp:dc:creator: Deborah Swinglehurst
+xmp:xmp:CreatorTool: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+xmp:xmp:ModifyDate: 2016-09-21T06:45:33+05:30
+xmp:xmp:CreateDate: 2015-06-18T21:20:57+08:00
+xmp:xmp:MetadataDate: 2016-09-21T06:45:33+05:30
+xmp:xmpMM:DocumentID: uuid:edb4acd4-7132-4084-811f-18ee6e13d7d2
+xmp:xmpMM:InstanceID: uuid:623fadc0-74fc-41aa-b232-2dc5b0cdabd2
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:182e38f2-5057-4b17-a4db-47039d81cc4f
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2015-06-19T14:39:07+08:00
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:97fd3395-0b6a-465e-968a-853179fd5b82
+xmp:stEvt:parameters: converted to PDF/A-1b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2016-09-21T06:45:33+05:30
+xmp:pdfaid:part: 1
+xmp:pdfaid:conformance: B
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdf/1.3/
+xmp:pdfaSchema:prefix: pdf
+xmp:pdfaSchema:schema: Adobe PDF Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A name object indicating whether the document has been modified to include trapping information
+xmp:pdfaProperty:name: Trapped
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/mm/
+xmp:pdfaSchema:prefix: xmpMM
+xmp:pdfaSchema:schema: XMP Media Management Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: UUID based identifier for specific incarnation of a document
+xmp:pdfaProperty:name: InstanceID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: The common identifier for all versions and renditions of a document.
+xmp:pdfaProperty:name: DocumentID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: The common identifier for all versions and renditions of a document.
+xmp:pdfaProperty:name: OriginalDocumentID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaSchema:namespaceURI: http://www.aiim.org/pdfa/ns/id/
+xmp:pdfaSchema:prefix: pdfaid
+xmp:pdfaSchema:schema: PDF/A ID Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Part of PDF/A standard
+xmp:pdfaProperty:name: part
+xmp:pdfaProperty:valueType: Integer
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Amendment of PDF/A standard
+xmp:pdfaProperty:name: amd
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Conformance level of PDF/A standard
+xmp:pdfaProperty:name: conformance
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:schema: Springer ORCiD Schema
+xmp:pdfaSchema:namespaceURI: http://springer.com/ns/xmpExtensions/1.0/
+xmp:pdfaSchema:prefix: springer
+xmp:pdfaProperty:name: authorInfo
+xmp:pdfaProperty:valueType: AuthorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Author information: contains the name of each author and his/her ORCiD (ORCiD: Open Researcher and Contributor ID). An ORCiD is a persistent identifier (a non-proprietary alphanumeric code) to uniquely identify scientific and other academic authors.
+xmp:pdfaType:type: AuthorInformation
+xmp:pdfaType:namespaceURI: http://springer.com/ns/xmpExtensions/1.0/authorinfo/
+xmp:pdfaType:prefix: author
+xmp:pdfaType:description: Specifies the types of author information: name and ORCID of an author.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an author.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an author.
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdfx/1.3/
+xmp:pdfaSchema:prefix: pdfx
+xmp:pdfaSchema:schema: PDF/X ID Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: ID of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXVersion
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Conformance level of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXConformance
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Company creating the PDF
+xmp:pdfaProperty:name: Company
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Date when document was last modified
+xmp:pdfaProperty:name: SourceModified
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Mirrors crossmark:CrosMarkDomains
+xmp:pdfaProperty:name: CrossMarkDomains
+xmp:pdfaProperty:valueType: Seq Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Mirrors crossmark:CrossmarkDomainExclusive
+xmp:pdfaProperty:name: CrossmarkDomainExclusive
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Mirrors crossmark:MajorVersionDate
+xmp:pdfaProperty:name: CrossmarkMajorVersionDate
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Mirrors crossmark:DOI
+xmp:pdfaProperty:name: doi
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://crossref.org/crossmark/1.0/
+xmp:pdfaSchema:prefix: crossmark
+xmp:pdfaSchema:schema: crossmark
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: CrossMarkDomains
+xmp:pdfaProperty:name: CrossMarkDomains
+xmp:pdfaProperty:valueType: Seq Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: CrossmarkDomainExclusive
+xmp:pdfaProperty:name: CrossmarkDomainExclusive
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Usual same as prism:doi
+xmp:pdfaProperty:name: DOI
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: The date when a publication was published.
+xmp:pdfaProperty:name: MajorVersionDate
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://prismstandard.org/namespaces/basic/2.0/
+xmp:pdfaSchema:prefix: prism
+xmp:pdfaSchema:schema: Prism
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: The aggregation type specifies the unit of aggregation for a content collection. 
+Comment 
+PRISM recommends that the PRISM Aggregation Type Controlled Vocabulary be used to provide values for this element. 
+Note: PRISM recommends against the use of the #other value currently allowed in this controlled vocabulary. In lieu of using #other please reach out to the PRISM group at info@prismstandard.org to request addition of your term to the Aggregation Type Controlled Vocabulary.
+xmp:BOOKMARKS:
+Abstract
+Editorial
+  1. The practices of assuring quality in healthcare
+  2. Giving ‘space to the story’
+  3. Addressing moral complexity in the clinic, the classroom and the academy
+Moving beyond the quality paradox
+Competing interests
+Authors’ contributions
+Acknowledgments
+Author details
+References
+Page 1
+Swinglehurst et al. BMC Health Services Research (2015) 15:240
+DOI 10.1186/s12913-015-0851-y
+EDITORIAL  Open Access
+Confronting the quality paradox: towards
+new characterisations of ‘quality’ in
+contemporary healthcare
+Deborah Swinglehurst1*, Nathan Emmerich2, Jo Maybin3, Sophie Park4 and Sally Quilligan5
+Abstract
+This editorial introduces the special Biomed Central cross-journal collection The Many Meanings of ‘Quality’ in Healthcare:
+Interdisciplinary Perspectives, setting out the context for the development of the collection, and presenting brief summaries
+of all the included papers in three broad themes 1) the practices of assuring quality in healthcare 2) giving ‘space to
+the story’ 3) addressing moral complexity in the clinic, the classroom and the academy. The editorial concludes with
+reflections on some of the key messages that emerge from the papers which are relevant to policymakers and
+practitioners who seek to improve the quality of healthcare.
+Editorial
+This special Biomed Central cross-journal collection The
+Many Meanings of ‘Quality’ in Healthcare: Interdisciplin-
+ary Perspectives presents papers written by authors with a
+range of disciplinary backgrounds (spanning medicine, so-
+cial policy, anthropology, accountancy, philosophy, design,
+to name a few) whose work engages directly with notions
+of ‘quality’  in healthcare. The inspiration for this collec-
+tion began with a colloquium of the same title which we
+organised in June 2013 at Cumberland Lodge, Great
+Windsor Park, UK [1,2].  This event brought together
+health professionals, academics, policymakers and patient
+representatives (predominantly but not exclusively UK-
+based) to unpack the notion of ‘quality’ in healthcare, of-
+fering an opportunity to share insights, and to discuss and
+debate contemporary programmes of quality implementa-
+tion, evaluation and improvement. We wanted to identify
+some of the key processes and attributes of quality in
+healthcare, and explore the professional values required to
+support and improve it. We were also keen to discover
+what might emerge when scholars from a diverse range of
+disciplines were provided with a critical space in which to
+wrestle with an important, controversial and politically
+charged topic. We are delighted that we have been able to
+capitalise on the ongoing enthusiasm and critical insights
+* Correspondence: [URL: "mailto:d.swinglehurst@qmul.ac.uk"] d.swinglehurst@qmul.ac.uk
+1Centre for Primary Care and Public Health, Queen Mary, University of
+London, London UK
+Full list of author information is available at the end of the article 
+of the colloquium presenters and their co-authors in this
+collection.
+The assiduous pursuit of ‘quality’  (usually defined with
+terms such as safety, effectiveness, and positive patient ex-
+perience [3,4]) is actively shaping delivery of healthcare both
+nationally and internationally [5]. The UK has been at the
+forefront of many such quality initiatives. Examples include:
+the introduction of the Quality and Outcomes Framework
+in 2004 (an incentive scheme that rewards general practi-
+tioners financially for demonstrating achievement across a
+range of clinical and organisational indicators); the compul-
+sory revalidation of doctors since 2012 (revalidation of
+nurses and midwives is planned from 2016),  and the
+mandatory inspection of health and social care services by
+an independent regulatory body, the Care Quality Commis-
+sion, which publishes its findings as performance ratings.
+Given the prominence of the term ‘quality’ across health
+policy and practice and its centrality to many international
+efforts to improve healthcare, it is perhaps surprising to
+suggest that what we might mean when we speak of ‘qual-
+ity’ remains obscure and worthy of debate [6]. However the
+case for pausing to reconsider and extend our understand-
+ings of ‘quality’ is strong, especially since it is increasingly
+recognised that the pursuit and measurement of quality in
+healthcare often fails to deliver anticipated benefits and
+may have perverse consequences, undermining rather than
+strengthening the characteristics it seeks to assure and re-
+quiring excessive data gathering by healthcare staff [7–11].
+© 2015 Swinglehurst et al. This is an Open Access article distributed under the terms of the Creative Commons Attribution
+License ([URL: "http://creativecommons.org/licenses/by/4.0"] http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any
+medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver ([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://
+ creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Page 2
+Swinglehurst et al. BMC Health Services Research (2015) 15:240  Page 2 of 6
+This ‘quality paradox’  resonates through the papers pub-
+lished in this special issue and is, in essence, the ‘wicked’
+problem that we seek to illuminate and explore [12]. Al-
+though the point of departure is healthcare activity in the
+UK, the papers speak to the issue of ‘quality’ in ways which
+are likely to be of relevance to policymakers and practi-
+tioners internationally.
+The collection brings together both empirical research
+papers and articles that primarily offer theoretical engage-
+ment and analysis. Whilst some authors grapple with fun-
+damental conceptual concerns, others explore the practical
+ways in which ‘quality’ may (or may not) become enacted
+in the real world of healthcare. We believe that the value of
+the special issue lies not only in the rich variety of perspec-
+tives it presents, but in appreciating the connections, syner-
+gies and lines of argument as they play out across the
+collection. Therefore, we strongly encourage readers to put
+aside disciplinary allegiances and consider straying beyond
+the articles that seem most immediately appealing. Whilst
+there are doubtless many alternative ways of categorising
+the papers by theme, and any such categorisation overlooks
+areas of overlap and linkage, we will summarise the papers
+in three broad groupings: the practices of assuring quality
+in healthcare; giving ‘space to the story’;  and addressing
+moral complexity in the clinic, the classroom and the
+academy.
+1. The practices of assuring quality in healthcare
+One important theme to emerge from the papers is how
+the principles and systems which are intended to assure
+and improve the quality of healthcare are realised in
+practice. These papers emphasise the need to attend to
+the everyday activities of patients, carers, clinicians and
+administrators in producing and accounting for high
+quality care in order to fully grasp their meanings and
+consequences.
+Simon Cohn’s paper focuses on the concept of ‘trust’
+in healthcare, which has received renewed attention as a
+possible counter-balance to the dehumanising effects of
+audit and market based processes for quality assurance.
+Challenging the common conception of trust as a psy-
+chological state resulting from deliberative evaluations of
+an individual’s behaviour, Cohn draws on ethnographic
+data from a UK diabetes clinic to show how in this con-
+text, trust constitutes a ‘sense of stability and predictabil-
+ity’ for patients which emerges from a particular set of
+relationships between people (extending beyond the
+doctor-patient dyad to include family members), physical
+objects (such as patient notes) and the wider material
+environment [13]. He warns that singular, generalizable
+concepts or measures of trust will necessarily overlook
+the context-specific, dynamic and contingent qualities of
+these relationships which give meaning to the trust
+concept. 
+Dane Pflueger’s paper makes the case for paying equiva-
+lent attention to the ways in which data are produced and
+used in dominant approaches to accounting for quality in
+healthcare [14]. Pflueger sets out how tools such as the pa-
+tient experience survey programmes and the UK Quality
+and Outcomes Framework are based on a concern to ‘cap-
+ture information, as a camera might’. In this context quality
+improvement efforts become focused on perfecting the
+technical process of data collection (‘developing sharper and
+better lenses’ by adjusting data for case mix, for example),
+but managers and others fail to attend to the ways in which
+such data get produced in practice. Drawing on insights
+from the ‘social studies of accounting’ literature, Pflueger de-
+scribes how accounting ‘does not just find things out but
+makes them up’, as particular tools impose certain sets of
+‘preoccupations and objectives’  in order to make things
+knowable. Pflueger does not suggest abandoning such ap-
+proaches but rather calls for a more sociologically-informed
+approach to the use of accounting, for example, cultivating a
+‘skeptical calculative culture’ in which data about care qual-
+ity are used as an invitation to discussion rather than a pre-
+scription for action.
+Swinglehurst and Greenhalgh’s paper on the production
+of care records in general practice provides just such an ex-
+ample of the benefits of attending to the practices by which
+data for audit are produced [15]. Drawing on an ethnog-
+raphy of the work of administrators in two GP practices, the
+authors demonstrate how in these cases coding patients’
+medical records was not principally a matter of ‘capturing’
+specific diagnoses in code form, but instead comprised nu-
+anced acts of interpretation, judgement and relationship-
+building in order to produce a record which met the mul-
+tiple and potentially conflicting needs of doctors, patients
+and managers.
+Greenhalgh and colleagues’ paper on quality in telehealth
+and telecare provides an example of rooting quality stan-
+dards in the lived experience of service users and providers
+[16].  Using the principles of experience-based co-design,
+the authors collected ethnographic data on service users’
+and carers’ experiences of illness and assistive technologies,
+and drew on interviews with healthcare providers and tech-
+nology designers. The gathered insights formed the basis of
+a collaborative workshop in which the participants collect-
+ively developed a set of ‘design principles’ for telehealth and
+telecare products and services. The project found that ‘as-
+sistive technologies will always need skilled human work,
+inter-sectoral negotiation and social infrastructure to en-
+sure that they “work”’, and developed a framework to sup-
+port the implementation of these principles in the design
+and delivery of services.
+The papers within this theme make a number of import-
+ant contributions to contemporary policy debates about
+how to improve quality in healthcare. They illuminate
+how and why efforts to develop processes and products
+Page 3
+Swinglehurst et al. BMC Health Services Research (2015) 15:240  Page 3 of 6
+intended to ensure against quality problems necessarily fail
+in their ambitions to certainty, and can in fact be insidious.
+They emphasise how all systems, processes and technologies
+are in practice socially negotiated, and warn that a failure to
+attend to this fact can result in ineffective policies and unin-
+tended consequences. The papers also illustrate that while it
+is necessary to recognise the limitations of dominant ra-
+tional systems of audit and management, it is important to
+move beyond pitching the ‘rational’ against the ‘real’, or ‘sys-
+tems’ against ‘human’ approaches, and to attend instead to
+how people can and do overcome the dysfunctional and
+counterproductive effects of dominant approaches to assur-
+ing the quality of healthcare in practice.
+2. Giving ‘space to the story’
+The papers in this theme focus on the gap between what
+is easily measurable and what is meaningful in relation
+to the quality of healthcare, and critique the tendency
+for dominant approaches to quality evaluation to privilege
+the former.
+Kelly et al. provide a practical illustration of using narra-
+tive and interpretation to bridge the world of biomedicine
+and the patient’s life-world [17]. They report on a project
+which used sewing workshops with local Bangladeshi
+women as a site for developing conversations about key
+health issues such as the importance of vitamin D. Through
+art and story-sharing the women found a way to explore is-
+sues that might not otherwise have been discussed or heard
+within the constraints of the consulting room. While the
+project outcomes may be difficult to measure, participants
+gained confidence through sharing stories and experiences,
+and group discussion gave precedence to the patients’ nar-
+ratives, while still enabling clinicians to share their own ex-
+pertise. The authors conceptualise the quality of these
+encounters in terms of ‘ensuring a space for the story’ for
+both patients and professionals.
+The potential value of offering staff and patients the
+opportunity to share stories and experiences is also ex-
+plored in Thomson’s paper [18]. Thomson describes an
+innovative outpatient project that used design-led, par-
+ticipatory methods based on the metaphor of the pa-
+tient’s journey to help patients with multiple sclerosis
+and health care staff to develop a collective vision of
+how care could be improved in the outpatient depart-
+ment in the future.
+Renedo and Marston highlight a particular challenge
+that may arise from efforts to involve patients in quality
+improvement initiatives. Drawing on ethnographic ob-
+servation and analysis of interviews with patients en-
+gaged in this work, the authors advise practitioners to
+be aware that neoliberal ideals and rationalities domin-
+ant in policy and service delivery contexts may shape
+patients’  own accounts of what quality improvement
+means (or should mean) in practice [19].  They report 
+that although patients’  accounts initially focused on
+quality improvement as dependent on collective action,
+they quickly shifted towards an emphasis on the respon-
+sibilities of the individual patient to improve their own
+health. This finding resonates with Pflueger’s suggestion
+that how quality is accounted for and operationalised in
+dominant health policy discourse actively shapes practices
+on the ground in ways that can be constraining as well as
+enabling [14].
+Papers by Tomlinson, and Farr and Cressey, also ad-
+dress the need to ensure a space for the story, this time
+with a particular focus on professionals’  narratives
+[20,21].  Authors of both papers argue that this space
+should be one in which the tacit, intangible and rela-
+tional dimensions of care can be voiced, and heard, as
+important aspects of quality in practice. Through in-
+depth qualitative interviews with health professionals
+and managers, Farr and Cressey conclude that staff
+values and personal and professional standards are core
+to understanding how quality is co-produced in service
+interactions, challenging us to consider that what
+emerges in practice may not always align with standard
+performance metrics and may, at times (and for good
+reason) be at odds with accepted ‘best practice’  [21].
+Tomlinson suggests that one way to access these values and
+standards is through narrative clinical supervision, which
+can foster a culture that is supportive, educational, self-
+critical, outward-looking, patient-focussed, and centred on
+patient safety and quality care [20].
+Millar et al. present findings from an interview study
+in which they analysed the narratives of national NHS
+policy actors on the role of hospital board oversight
+of quality and safety [22]. The authors weave these nar-
+ratives around two key themes developed from the
+academic literature on assuring quality: ‘trust’  and
+‘intelligence’. In particular the authors argue for the im-
+portance of triangulating different forms of intelligence
+to inform quality and safety activities, bringing together
+performance data (such as hospital acquired infection
+rates) with ‘softer’ forms of intelligence gained through
+feedback and interactions with staff, patients and the
+public. They call for a form of trust that goes beyond
+usual metrics and proactively engages the qualitative di-
+mensions of hospital life, “characterised by styles of
+leadership and behaviours that are attentive to the needs
+and concerns of both staff and patients”.
+The papers in this section challenge normative under-
+standings of quality, that is the ‘taken-for-granted’ ways in
+which ‘quality’ tends to be conceptualised and ‘talked about’.
+For these authors, a full appreciation of ‘quality’ means pay-
+ing close attention to the unmeasurable, relational and (rela-
+tively) ‘hidden’  dimensions of care by seeking to connect
+with the values, culture and life-worlds of patients and staff.
+‘Stories’ are one important means of achieving this.
+Page 4
+Swinglehurst et al. BMC Health Services Research (2015) 15:240  Page 4 of 6
+3. Addressing moral complexity in the clinic, the
+classroom and the academy
+The papers in this final theme all focus on the ‘ethical’ in
+order to tackle notions of quality from a distinctly norma-
+tive perspective. The first paper by Emmerich et al. sug-
+gests that we should reflect on the ethical consequences of
+quality of care discourses and the instruments of govern-
+ance that have arisen in their wake [23]. Concern for the
+quality of care has become translated into particular bur-
+eaucratic processes that seek its assurance through audit.
+Emmerich et al. argue that bodies like the Care Quality
+Commission (CQC) are therefore predisposed to privilege
+what is auditable over what is not. The reflexive nature of
+social reality means that institutions that are subject to
+such audits respond by prioritising the phenomena that
+are measured by ‘quality of care’  instruments. This can
+have adverse consequences for quality of care as what is
+not, or cannot be, subject to audit and evaluation may be-
+come neglected, deprioritised and otherwise compro-
+mised; ‘quality of care’ audits can be seen as ‘symbolically
+violent’. In a message that resonates with that of Pflueger
+[14], the authors do not recommend abandoning the audit
+approach entirely. Rather, they suggest that there is an
+ethical need to acknowledge the limitations of audit and
+work to augment and modulate the ways in which quality
+of care is evaluated and subsequently managed.
+Stevenson et al. engage with the ethical review of re-
+search from the perspective of its quality [24]. In recent
+times there has been a growing concern about the way
+in which processes and procedures of ethical govern-
+ance impact on research, especially qualitative social
+science research [25]. The authors begin with what is,
+by now, a reasonably familiar point: qualitative research
+tends to be poorly received by Research Ethics Commit-
+tees (RECs) and IRBs (Institutional Research Boards).
+Not only has this observation failed to drive any real
+change to the approach taken to ethical review, but the
+authors present evidence of a more worrying concern -
+that the quality of some types of research may be com-
+promised because of the failure to revise the approach
+taken to ethics review. Drawing on their own experience
+with the UK’s National Research Ethics Service (NRES),
+Stevenson et al. argue that the current ‘pre-dictive’ ap-
+proach to review fails to recognise one of the key virtues
+of a qualitative approach - its fluid or iterative nature,
+whereby the research process is responsive to insights
+generated as the research proceeds. As such, the review
+process impacts negatively on the quality of qualitative
+research. The authors do not call for an end to ethical
+review but suggest an alternative approach which they
+call ‘iterative ethics’.  This would, they argue, allow
+researchers to engage with review committees without
+compromising the integrity of qualitative research or
+the ethical relationship between researchers and research 
+participants. In short, Stevenson et al. identify an urgent
+need to reflect critically on the ethics of ethical review.
+Wintrup also draws our attention to an important prob-
+lem which is not usually addressed in ethics education for
+clinicians. She is critical of the tendency of training courses
+to focus on solving problems, with insufficient attention
+paid to the complex, ‘contested arenas’ or broader ‘imper-
+fect’ socio-political contexts in which ethical problems in
+healthcare occur [26]. Wintrup recommends that we reject
+the tendency to simplify cases, instead embracing the ‘case’
+as a complex, socially situated and constructed phenomena,
+influenced by broader structural conditions and macro pol-
+itical arrangements of power and influence. She urges edu-
+cators to embrace these issues and suggests that in doing
+so healthcare professionals will become more inclined to
+consider and engage with the ethico-political questions
+raised by the provision of health care. This, she suggests
+will contribute to securing a quality healthcare service for
+the future.
+In the final paper within this theme, author Iona
+Heath opens with the challenging and thought-provoking
+statement that quality is a contemporary catchword “that
+seldom has real substance and all too often become a
+slogan for the exercise of power” [27]. Quality assurance
+and evaluation, she argues, have become an irresistible
+machine that bends practice to its will. This machine
+absorbs the time, attention and resources of frontline
+practitioners and does so largely in the interests of con-
+formity and standardization, objectifying both patient
+and doctor and ignoring all that is unique in their
+human subjectivity. For example, Heath points out that
+the Quality and Outcomes Framework applied to UK
+General Practice is designed on the basis of average or
+‘standardized’ patients, and constructed on the basis of
+populations without co-morbidities or other complicat-
+ing factors, a model which she suggests is, at best, in-
+appropriate. Like several other authors in this collection
+she is also critical of over-reliance of quality assessment
+on quantitative data: “numbers have taken the place of
+words” as our understanding of quality has been re-
+stricted by our preference for quantification. She ends
+on a salutary note: “we waste effort, money and time
+collecting data and pursuing quality targets so that we
+have less time to listen and we risk losing sight of the
+human suffering subject”.
+Moving beyond the quality paradox
+In common with other ‘wicked’ problems [12] there is no
+single simple solution to the ‘quality’ of healthcare conun-
+drum. However, the clear message from this collection is
+that the assumptions which underpin many, if not most,
+current approaches to managing the ‘quality’ of healthcare
+lie open to contest. How quality is often imagined in the
+minds of health policy makers and practitioners is not – it
+Page 5
+Swinglehurst et al. BMC Health Services Research (2015) 15:240  Page 5 of 6
+would seem - how it comes to be. Several of the papers in
+this collection offer promising suggestions for more con-
+structive approaches to improving the ‘quality’ of care pro-
+viding some glimpses of possible alternative practices. They
+challenge us to be more imaginative in how we ‘measure’
+quality and more committed to seeing any such ‘measure-
+ment’  as a starting point in the project of characterising
+care in the context of complex, inherently unpredictable
+environments populated by unique individuals with unique
+needs [23,24,27]. Suggestions that arise from this collection
+include fostering a ‘skeptical calculative culture’  [14], and
+giving more explicit consideration to what measurement
+practices such as audit are capable of revealing, concealing
+and producing [14,23], and triangulating different forms of
+data, deliberately seeking out connections and disconnec-
+tions between them [14,22]. We are reminded that quality
+of care involves arrangements of people, practices and
+materialities that go beyond the patient-clinician dyad
+[13,15,16,22], and that standards of care quality must be
+rooted in the lived experience of patients, their carers, cli-
+nicians and managers [16-18,21,22], rather than on impo-
+verished proxy representations. Finally, there is a moral
+imperative to ensure that professional education embraces
+the morally complex, messy realities of patients’ lives and
+socio-political contexts within which patients and practi-
+tioners interact [20,26,27].
+We would like to express our grateful thanks to the edi-
+tors of the six participating journals at BioMed Central
+(BMC Medicine; BMC Health Services Research; BMC Med-
+ical Ethics; BMC Family Practice; BMC Medical Education;
+Philosophy, Ethics and Humanities in Medicine) for making
+possible this cross-journal special issue by utilising their
+Open Access online publishing space. We can think of few
+other platforms that would bring together such an eclectic
+group of papers, and hope that this project may sow a seed
+for similar publishing ventures that connect otherwise dis-
+persed and seemingly ‘unconnected’ facets of wide ranging
+topics such as ‘quality’ in healthcare.
+Competing interests
+The authors declare they have no competing interests.
+Authors’ contributions
+The conference on which this special collection and editorial are based was
+organised by a committee comprising all of the authors of this editorial, led
+by DS. DS acted as Associate Editor for the cross-journal collection to which
+this editorial contributes and refers. All of the included papers were subject
+to independent peer review in line with BMC editorial policy. All of the
+authors (DS, NE, JM, SP, SQ) contributed to writing the paper. All authors
+read and approved the final manuscript.
+Acknowledgments
+The conference on which this collection of papers is based was supported
+financially by Cumberland Lodge as part of the Cumberland Colloquium
+series and also by the Wellcome Trust, through an Ethics and Society Grant.
+It was held in association with the Open Section of the Royal Society of
+Medicine. The funders were not involved in writing of this manuscript nor in
+the selection or review of papers for the special collection. 
+Author details
+1Centre for Primary Care and Public Health, Queen Mary, University of
+London, London UK. 2School of Politics, International Studies & Philosophy,
+Queen’s University Belfast, Belfast UK. 3Policy Directorate, The King’s Fund,
+London, UK. 4Department of Primary Care & Population Health, Institute of
+Epidemiology & Health, University College London, London UK. 5Clinical and
+Communication Skills Unit, School of Clinical Medicine, University of
+Cambridge, Cambridge UK.
+Received: 11 March 2015 Accepted: 24 April 2015
+References
+1.  Swinglehurst D, Emmerich N, Maybin J, Park S, Quilligan S. The Many
+Meanings of ‘Quality’ in Healthcare: Interdisciplinary Perspectives.
+Cumberland Lodge: Colloquium Report. 2013. Download from
+ www.cumberlandlodge.ac.uk/quality. Accessed 29/4/2015.
+2.  Swinglehurst D, Emmerich N, Maybin J, Park S, Quilligan S. Rethinking ‘quality’
+in health care. Journal of Health Services Research and Policy. 2014;19:65–6.
+3.  Institute of Medicine. Crossing the quality chasm: A new health system for
+the 21st century. Washington D.C: National Academies Press; 2001.
+4.  National Quality Board: Quality in the new health system. Department of
+Health; 2013.
+5.  Christianson J, Leatherman S, Sutherland K. Financial incentives, healthcare
+providers and quality improvements: a review of the evidence. London:
+Health Foundation; 2007.
+6.  Nelson J. Quality of care: a preface. Theor Med Bioeth. 2012;33:237–42.
+7.  McDonald R. Paying for performance in healthcare organisations.
+International Journal of Health Policy and Management. 2014;2:59–60.
+8.  Mid Staffordshire NHS Foundation Trust: Public inquiry - chaired by Robert
+Francis QC. Final Report. 2013. [URL: "http://www.midstaffspublicinquiry.com/report"] www.midstaffspublicinquiry.com/report.
+Accessed 29/4/2015
+9.  Mannion R, Braithwaite J. Unintended consequences of performance
+measurement in healthcare: 20 salutary lessons from the English National
+Health Service. Intern Med J. 2012;42:574.
+10. Farrar M. Bureaucracy and Regulatory review. A report of early findings and
+recommendations. London: NHS Confederation; 2013. available at: [URL: "http://www.england.nhs.uk/iscg/wp-content/uploads/sites/4/2013/07/ISCG-003-002.pdf"] http://
+ www.england.nhs.uk/iscg/wp-content/uploads/sites/4/2013/07/ISCG-003-002.pdf.
+Accessed 29/4/2015
+11. Langdown C, Peckham S. The use of financial incentives to help improve
+health outcomes: is the quality and outcomes framework fit for purpose? A
+systematic review. J Public Health. 2013;36:251–8.
+12. Gibson B. Framing and taming ‘wicked’ problems. In: Lin V, Gibson B,
+editors. Evidence-based health policy. Oxford: Oxford University Press; 2003.
+13. Cohn S. ‘Trust my doctor, trust my pancreas’: the multiplicity of trust
+practices in health care settings. Philos Ethics Humanit Med. 2015;10:9.
+14. Pflueger D. Accounting for Quality: On the relationship between accounting
+and quality improvement in the UK National Health Service. BMC Health
+Serv Res. 2015;15:178.
+15. Swinglehurst D, Greenhalgh T. Caring for the patient, caring for the record:
+an ethnographic study of ‘back office’ work in upholding quality of care in
+general practice. BMC Health Serv Res. 2015;15:177.
+16. Greenhalgh T, Procter R, Wherton J, Sugarhood P, Hinder S, Rouncefield M.
+What is quality in assistive living technology? The ARCHIE framework for
+effective telehealth and telecare services. BMC Med. 2015;13:91.
+17. Kelly M, Rivas C, Foell J, Llewellyn-Davies J, England D, Cocciadiferro A, et al.
+Unmasking quality: exploring meanings of health by doing art. BMC Primary
+Care. 2015;16:28.
+18. Thomson A, Rivas C, Giovannoni G. Multiple Sclerosis Outpatient future
+Groups: Improving the quality of participant interaction and ideation tools
+within service improvement activities. BMC Health Serv Res. 2015;15:105.
+19. Renedo A, Marston C. How patients perceive and shape ‘quality’: an
+ethnographic study of patient involvement in healthcare quality
+improvement. BMC Health Serv Res. 2015;15:122.
+20. Tomlinson J. Using clinical supervision to improve the quality and safety of
+patient care: a response to Berwick and Francis. BMC Med Educ. 2015;xx:yy–zz.
+21. Farr M, Cressey P. Understanding staff perspectives of quality in practice in
+healthcare. BMC Health Services Research. 2015;15:123.
+22. Millar R, Freeman T, Mannion R. Hospital board oversight of quality and
+safety: a stakeholder analysis exploring the role of trust and intelligence.
+BMC Health Services Research. 2015;15:196.
+Page 6
+Swinglehurst et al. BMC Health Services Research (2015) 15:240
+23. Emmerich N, Swinglehurst D, Maybin J, Park S, Quilligan S. Caring for
+Quality of Care: Symbolic Violence and the Bureaucracies of Audit.
+BMC Medical Ethics. 2015;16:23.
+24. Stevenson F, Gibson W, Pelletier C, Chrysikou V, Park S. Reconsidering
+‘ethics’ and ‘quality’ in healthcare research: the case for an iterative ethical
+paradigm. BMC Medical Ethics. 2015;16:21.
+25. Emmerich N. Between the accountable and the auditable. Research Ethics.
+2013;9:175–86.
+26. Wintrup J. The changing landscape of care: does ethics education have a
+new role to play in helath practice? BMC Medical Ethics. 2015;16:22.
+27. Heath I. Arm in arm with righteousness. Philos Ethics Humanit Med.
+2015;10:7. 
+Page 6 of 6
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color ﬁgure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at
+www.biomedcentral.com/submit

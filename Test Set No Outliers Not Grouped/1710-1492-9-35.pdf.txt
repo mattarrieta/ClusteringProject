@@ -1,0 +1,658 @@
+BOOKMARKS:
+Abstract
+  Background
+  Methods/Aims
+  Conclusion
+Introduction
+Methods
+  Recruitment
+  Inclusion criteria
+  Exclusion criteria
+  Food Allergy related Quality of Life Questionnaires-(FAQLQ)
+  Non-Responder Questionnaire (NRQ)
+  Single dose Oral Food Challenge (OFC)
+  Criteria for a positive OFC result
+  Blood test
+  Sample size estimation
+  Ethics/Patient safety
+Discussion
+Conclusion
+Additional files
+Competing interests
+Authors’ contributions
+Authors’ information
+Acknowledgement
+Author details
+References
+Page 1
+Zurzolo et al. Allergy, Asthma & Clinical Immunology 2013, 9:35
+http://www.aacijournal.com/content/9/1/35  ALLERGY, ASTHMA & CLINICAL
+IMMUNOLOGY
+RESEARCH  Open Access
+Peanut Allergen Threshold Study (PATS):
+validation of eliciting doses using a novel
+single-dose challenge protocol
+Giovanni A Zurzolo1,2, Katrina J Allen1,3,4, Steve L Taylor5, Wayne G Shreffler6, Joseph L Baumert5,
+Mimi L K Tang1,3,4, Lyle C Gurrin7, Michael L Mathai2, Julie A Nordlee5, Audrey DunnGalvin8
+and Jonathan O’B Hourihane8*
+Abstract
+Background: The eliciting dose (ED) for a peanut allergic reaction in 5% of the peanut allergic population, the
+ED05, is 1.5 mg of peanut protein. This ED05 was derived from oral food challenges (OFC) that use graded,
+incremental doses administered at fixed time intervals. Individual patients’ threshold doses were used to generate
+population dose-distribution curves using probability distributions from which the ED05 was then determined. It is
+important to clinically validate that this dose is predictive of the allergenic response in a further unselected group
+of peanut-allergic individuals.
+Methods/Aims: This is a multi-centre study involving three national level referral and teaching centres.
+(Cork University Hospital, Ireland, Royal Children’s Hospital Melbourne, Australia and Massachusetts General Hospital,
+Boston, U.S.A.) The study is now in process and will continue to run until all centres have recruited 125 participates
+in each respective centre.
+A total of 375 participants, aged 1–18 years will be recruited during routine Allergy appointments in the centres.
+The aim is to assess the precision of the predicted ED05 using a single dose (6 mg peanut = 1.5 mg of peanut
+protein) in the form of a cookie. Validated Food Allergy related Quality of Life Questionnaires-(FAQLQ) will be
+self-administered prior to OFC and 1 month after challenge to assess the impact of a single dose OFC on FAQL.
+Serological and cell based in vitro studies will be performed.
+Conclusion: The validation of the ED05 threshold for allergic reactions in peanut allergic subjects has potential
+value for public health measures. The single dose OFC, based upon the statistical dose-distribution analysis of past
+challenge trials, promises an efficient approach to identify the most highly sensitive patients within any given
+food-allergic population.
+Keywords: Eliciting dose (ED), Food Allergy related Quality of Life Questionnaires-(FAQLQ), Single dose, Peanut
+thresholds, Oral Food Challenges (OFC), Voluntary Incidental Trace Allergen Labelling (VITAL), Peanut Allergen
+Threshold Study (PATS)
+Introduction
+The eliciting dose (ED) for a peanut allergic reaction in
+5% of the peanut allergic population (ED05) has been es-
+timated at 1.5 mg of peanut protein. This ED05 estimate
+was derived from the statistical dose- distribution of pea-
+nut allergic individuals (children and adults).  All
+* Correspondence: [URL: "mailto:J.Hourihane@ucc.ie"] J.Hourihane@ucc.ie
+8Paediatrics and Child Health, University College, Cork, Ireland
+Full list of author information is available at the end of the article 
+individuals participated in oral food challenge (OFC)
+protocols that use graded, incremental doses adminis-
+tered at short, fixed time intervals, as shown in Figure 1,
+with a strong, monotonic relationship between dose and
+the proportion of study participants reacting at each ac-
+tual or extrapolated dose [1]. It is not always possible to
+determine whether a reaction has occurred to a discrete
+threshold dose of allergen or alternatively has been the
+result of the cumulative dose consumed by the allergic
+© 2013 Zurzolo et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License ([URL: "http://creativecommons.org/licenses/by/2.0"] http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly cited.
+Page 2
+Zurzolo et al. Allergy, Asthma & Clinical Immunology 2013, 9:35
+http://www.aacijournal.com/content/9/1/35 
+Page 2 of 7
+Figure 1 Population dose distribution models for peanut thresholds. Adapted from the manuscript title “Clinical challenge data for
+development of allergen management thresholds for precautionary labeling of foods- VITAL 2.0” [1].
+individual at the time of reaction. Statistical methods can
+be used to model the dose-distribution of the peanut-
+allergic population when the precise threshold dose is
+known to fall within a defined dosing interval but the exact
+threshold value is unknown [2,3]. Since the ED05 is de-
+rived from statistical dose-distribution models of the
+peanut-allergic population, it is important to clinically val-
+idate that this dose is predictive of the allergenic response
+in a further unselected group of peanut-allergic individuals.
+This issue is of importance to all stakeholders in food
+allergy because over the last 10 years an increasing num-
+ber of food manufacturers have incorporated voluntary
+allergen precautionary statements which advise the aller-
+gic consumer of the potential presence of allergens using
+“may contain allergen” statements which are not legis-
+lated for and are variable in content around the world
+[4]. Regulatory thresholds for allergen labelling currently
+do not exist in most countries, with the exception of
+Japan and Switzerland. Voluntary industry-led initiatives
+that use clinical thresholds as the basis for precautionary
+labelling decisions are based on ED estimates derived from
+multiple dosing food challenges. Although attempts to
+improve labelling have been introduced in some countries
+(e.g. Australia with Voluntary Incidental Trace Allergen
+Labelling VITAL 2.0), these are still hampered by being vol-
+untary and currently are considered to lack credibility [5].
+This study aims to assess the precision of the pre-
+dicted ED05 using a single dose (6 mg peanut = 1.5 mg
+of peanut protein, approximately 1/100th of a peanut 
+kernel) challenge and to validate the modelling that has
+been used to develop precautionary labelling criteria
+for VITAL 2.0, as currently VITAL 2.0 uses ED01
+(0.2 mg of peanut protein) to estimate its reference
+doses [6]. In addition this study will examine whether
+95% of peanut-allergic consumers are tolerant of an
+amount that is more than 5 times higher than the
+VITAL ED01 threshold, thus suggesting if 95% of partic-
+ipants are tolerant to an ED05 then there would be an
+exceedingly low probability that they would react to an
+ED01. The ED05 has been chosen pragmatically as it
+will allow the study to proceed with the recruitment of
+an achievable number of peanut-allergic individuals to
+provide sufficient statistical power to validate the accur-
+acy of the population threshold distribution of peanut
+allergic individuals (discussed in detail below). A validation
+study of the ED01 would have required a prohibitively
+large, much more expensive study. In contrast it would be
+feasible to study further the 5% of subjects who DO react
+at ED05, with lower doses, including the ED01.
+We feel it is important to standardise this approach at
+an international level since the findings in this study
+have consequences for the food manufacturing industry
+at a global level. Our plans to initiate this study have re-
+cently been supported in a review by a large multidiscip-
+linary European group [7].  This may contribute to
+improvement of precautionary labelling thresholds to be
+set for use by regulators and manufacturers to protect
+the food allergic consumer.
+Page 3
+Zurzolo et al. Allergy, Asthma & Clinical Immunology 2013, 9:35
+http://www.aacijournal.com/content/9/1/35 
+Page 3 of 7
+Methods
+Recruitment
+This is a multi-centre study involving three teaching cen-
+tres. A total 375 participants will be recruited (125 in each
+centre) during their follow-up appointments in the
+Department of Allergy in each respective centre.
+Inclusion criteria
+Each patient must meet all of the following criteria to be
+enrolled in this study.
+ Age between 1 to 18 years old and
+ Demonstrate evidence of peanut allergy as defined
+by either
+(a) History of unequivocal exposure (including
+accidental) and typical acute allergic reaction
+within the preceding 2 years and positive peanut
+SPT/sIgE, or
+(b) Positive oral food challenge with peanut
+performed within 2 years - either open oral food
+challenge or DBPCFC (Double-blind, placebo-
+controlled food challenges)
+(c) Peanut never ingested, but sensitisation to
+peanut above the 95% positive predictive value
+(PPV) for clinical allergy, i.e. peanut serum IgE ≥
+to 15 kU/L (by CAP FEIA) and/or peanut SPT
+wheal size ≥ to 8 mm within 2 months of the
+single dose challenge.
+Exclusion criteria
+Patients meeting any of the following criteria will be ex-
+cluded from the study.
+ Family or child does not consent to participate
+ Medically unfit for challenge according to local unit
+OFC guidelines/protocol (e.g., high fever, unwell
+with intercurrent illness,
+ Any objective sign of an acute allergic reaction
+ Oral corticosteroids within 14 days prior to
+challenge
+ Episode of anaphylaxis of any cause in 4 weeks prior
+to challenge
+ Use of antihistamines within 5 days of oral food
+challenge
+ Asthma that is not well controlled as demonstrated
+by FEVI < 85% of predicted best.
+Food Allergy related Quality of Life
+Questionnaires-(FAQLQ)
+Validated FAQL questionnaires will be self-administered
+prior to OFC and 1 month after challenge to assess whether
+the impact of this novel single dose OFC protocol is similar
+to that of “routine” diagnostic OFC, (Figure 2) (Additional
+files 1, 2 and 3). 
+Non-Responder Questionnaire (NRQ)
+We aim to administer a non-responder questionnaire
+(NRQ): a set of questions intended to permit compari-
+son of basic demographic and clinical allergy data in
+those choosing not to participate and in study partici-
+pants (Additional file 4). The NRQ that we have devel-
+oped is similar to the NRQ that was used by Osborne
+et al. (2010) [8].
+Single dose Oral Food Challenge (OFC)
+A standard OFC administers multiple doses over 45–
+120 minutes depending on the challenge protocol. We will
+give a single dose of peanut, taken in isolation, at the level
+of the predicted ED05 (6 mg whole peanut = 1.5 mg pea-
+nut protein) in the form of a cookie consisting of granu-
+lated sugar, brown sugar, all-purpose wheat flour, vegetable
+shortening, salt and baking soda. Peanut flour will be added
+at a level that represents 6 mg whole peanut equivalent to
+1/100th of whole peanut. For subjects allergic to other
+cookie ingredients e.g. wheat, the peanut dose will be ad-
+ministered in a food known to be tolerated. The challenge
+materials are shelf-stable and are manufactured at The Uni-
+versity of Nebraska and then distributed to participating
+clinic centres.
+Criteria for a positive OFC result
+Only objective criteria will be used in the validation of the
+ED05, since that dose was predicted on the basis of
+challenge-associated objective responses only. Objective
+criteria are outlined by Sampson et al. in the PRACTALL
+criteria [9] and have been validated in the Healthnuts
+study [10].  These criteria include urticaria, perioral or
+periorbital angioedema, vomiting, diarrhoea, respiratory
+or cardiovascular compromise (including anaphylaxis) and
+rhinoconjuctivitis. All objective signs will be quantitated in
+number, site and duration of presence. Participants in
+OFC often expect severe outcomes following ingestion;
+this may manifest as subjective symptoms. Subjective
+symptoms will be recorded but not used in the analysis of
+the reactions to validate the derived ED05 because the
+ED05 was developed only on the basis of objective reac-
+tions. Subjective symptoms to be recorded include: Head-
+ache, dizziness, bloating, abdominal pain, cramps, muscle
+aches, aching joints, anxiety, tension, agitation [11,12].
+The prior agreed objective criteria for a positive OFC
+result are any objective signs occurring within 2 hours of
+ingestion. All objective signs will be recorded:
+ 3 or more concurrent noncontact urticaria
+persisting for at least 5 minutes;
+ perioral or periorbital angioedema;
+ rhinoconjunctivitis
+ diarrhoea
+ vomiting (excluding gag reflex); or
+Page 4
+Zurzolo et al. Allergy, Asthma & Clinical Immunology 2013, 9:35
+http://www.aacijournal.com/content/9/1/35 
+Page 4 of 7
+Informed consent
+Yes
+Quality of Life
+(QOL)food
+allergy
+questionnaire
+If participant is
+subsequently is
+found to be
+ineligible
+Data will be
+destroy
+Only data from
+non-responder
+will be kept
+End of
+study
+No follow
+up
+Figure 2 Study design diagram. 
+Assessed for eligibility
+Single dose OFC 
+(Cookie) 
+No
+Blood test
+2hrs observation in
+the department
+Discussions of results by
+principal investigator via
+information handouts and study
+Phone call the next day to
+ensure no late reactions
+QOL food allergy questionnaire 1
+month after challenge
+Phone call to remind
+participants of QOL 
+Non-
+responder
+questionnaire
+End of
+recruitment
+ evidence of circulatory or respiratory compromise
+(anaphylaxis eg, persistent cough, wheeze, change in
+voice, stridor, difficulty breathing, and collapse) [10].
+Blood test
+A blood sample (10 ml) will be taken for peanut com-
+ponent analysis and quantitative peanut-specific IgE
+fluoroenzyme immunoassays 20 minutes after OFC. 
+100, 150, 200 and 375 if the estimated prevalence is equal
+to the nominal value of 5%, are displayed in Table 1. A
+sample size of 150 corresponds to a lower confidence limit
+of 2.3% and an upper confidence limit of 10%. While this
+implies that the population proportion may be as little as
+half or as much as double the observed proportion, this
+calculation is conservative since it uses the sample size
+expected in a single centre, not from the three centres
+Sample size estimation
+The population proportion of peanut allergic children
+who react to the nominal ED05 dose of peanut will be
+estimated, separately for each of the three participating
+centres, as the corresponding observed proportion of
+participants. If, based on these three proportions, there
+is strong evidence against the null hypothesis that the
+proportion reacting is the same in all three centres then
+centre-specific estimates will be reported, otherwise the
+proportion aggregated over all three centres will serve as
+a single centre-independent estimate. 95% confidence
+intervals for these population proportions will be calcu-
+lated using the properties of the binomial distribution.
+Example of 95% confidence intervals for sample sizes 70, 
+Table 1 Projected 95% confidence intervals for the
+prevalence of clinical reactivity in peanut allergic
+children and adults receiving the ED05 
+dose
+(6 mg of whole peanut = 1.5 mg of peanut protein)
+for sample sizes ranging from 70 to 200
+Sample size
+(of peanut allergic
+individuals)
+70 
+Value of target
+prevalence
+(5% for the ED05
+)
+5% 
+Projected 95%
+confidence
+interval
+0.9% - 12%
+100  5%  1.6% - 11%
+150  5%  2.3% - 10%
+200  5%  2.4% - 9%
+375  5%  3.1% - 7.8%
+Page 5
+Zurzolo et al. Allergy, Asthma & Clinical Immunology 2013, 9:35
+http://www.aacijournal.com/content/9/1/35 
+Page 5 of 7
+combined, so it is sufficiently accurate to rule out gross in-
+compatibility between the nominal and observed propor-
+tion of participants reacting.
+Summary statistics will be used to compare the fea-
+tures of participants and non-participants, and of ED05-
+reactors and non-reactors. Variables to be examined will
+include clinical severity of previous reactions, age, sex,
+SPT wheal size and peanut component-specific IgE
+levels. Multivariable logistic regression analyses will be
+used to identify combinations of these features that
+identify the low-dose reactors.
+Ethics/Patient safety
+This Study has been approved by Cork University Hospital
+Research Ethics Committee (ECM 4 g), Royal Children’s
+Hospital Human Research Ethics Committee (HRECApp
+32166A),  and Massachusetts General Hospital Research
+Ethics Committee (2012P002475). Written, informed par-
+ental and adolescent consent and assent from younger
+children will be recorded before participation in the PATS
+challenge. An External Safety Monitor has been appointed
+who is an experienced allergist, not otherwise involved in
+this study or related studies in the study centres.
+Discussion
+The estimation of the threshold dose for allergic reaction
+to peanut in peanut allergic subjects has potential value
+for public health measures. The use of statistical dose-
+distribution modelling based upon the results of low-
+dose clinical challenges of peanut-allergic individuals has
+been viewed as a strong approach to estimation of the
+population threshold for peanut [13,14].
+However, the clinical determination of individual
+thresholds is based upon graded incrementally increas-
+ing challenge doses administered at convenient time in-
+tervals, sometimes as short as 15–20 minutes between
+doses. The individual threshold doses are frequently
+reported as cumulative doses because it is impossible to
+claim that each dose is fully assimilated before adminis-
+tration of the next dose [15].
+Allen et al. (2013) used this approach to estimate a
+population threshold for the peanut-allergic population
+based upon challenges of 750 individuals. The ED05 from
+the log normal dose-distribution was 6 mg of whole pea-
+nut or 1.5 mg of peanut protein. Since cumulative doses
+were used in the evaluation of individual challenges and
+subsequent statistical dose-distribution modelling, it is im-
+portant to validate the peanut ED05 using a single-dose
+approach. Peanut is the best-studied food allergen in terms
+of low dose OFC to date. This novel PATS approach could
+be adapted for other major food allergens, if this proposed
+clinical study supports the statistically determined ED05
+based upon population dose-distribution modelling [1]. 
+The plan to approach all peanut allergic subjects in 3
+distinct geographical regions the varied or permissive
+entry criteria and the analysis of the non-participants
+will address the most common criticism of OFC studies:
+how representative of the general peanut allergic popula-
+tion are the subjects who volunteered? Peanut allergic
+subjects who have food challenges are highly selected
+and they may not represent the whole spectrum of re-
+activity to peanut in peanut allergic subjects [16].
+The strict requirement for only objective signs being
+used to determine a case is important, because subjective
+reactions are known to resolve during a routine OFC that
+is continued until objective signs are recorded [10,17].
+Peanut allergic patients are usually advised to avoid
+foods that are labelled as “may contain” peanut. A recent
+study by Madsen et al. (2012) has showed that it is under-
+stood and accepted by clinicians, patients and food pro-
+ducers that zero risk is not a realistic or attainable option
+[18]. However clinical risk communications that are not
+specific may increase anxiety and risk taking behaviours
+without increasing awareness, confidence or safety [7].
+Currently there is no standard approach being used by
+all manufacturers in relation to precautionary labelling.
+This may be due, in part, to the lack of agreement
+among the scientific community regarding clinically safe
+threshold levels. If this current study validates the ED05
+this will aid the scientific and medical communities and
+also the manufacturing industry in the use of quantita-
+tive precautionary labelling, backed with sound scientific
+evidence for the establishment of safe threshold levels
+for 95% of the peanut allergic community.
+The PATS study offers a new clinical paradigm and
+methodology with regards to assessing clinical risk; this
+current study may potentially define the 5% of patients
+who are most highly sensitive. Validated questionnaires
+assessing FAQL have shown patients gain nearly as much
+from a “failed” OFC as they do from a “passed” OFC,
+probably due to decreased uncertainty about the next and
+future reactions [19] and we hypothesise that individual
+families may also show such an improvement after a PATS
+single dose challenge. This tangible impact could promote
+adoption of PATS single dose peanut challenges in units
+not currently performing diagnostic OFC. If this proposed
+clinical study supports the statistically determined ED05
+based upon population dose-distribution modelling of
+peanut, it may show promise for clinical validation of
+other allergenic food sources where sufficient threshold
+data is available to model the population dose-distribution.
+Eventually a single-dose diagnostic OFC using other food
+allergens may be adopted as well.
+Clinicians may be able to use PATS single dose OFCs
+as they are easier to perform than routine diagnostic
+OFC or DBPCFC and they could contribute to the com-
+plex analysis of risk that clinicians currently make in a
+Page 6
+Zurzolo et al. Allergy, Asthma & Clinical Immunology 2013, 9:35
+http://www.aacijournal.com/content/9/1/35 
+Page 6 of 7
+heuristic fashion that varies between practitioners. Cur-
+rently clinicians make value judgements about whether
+they believe a child to be exquisitely sensitive to a food
+or not and therefore what to advise with regards to
+avoiding trace amounts of allergen in food (i.e. foods
+with precautionary labelling).
+The single dose protocol does not replace current clin-
+ical food challenges which are for the diagnosis of food al-
+lergy but would provide extra clinical information of
+patients’  level of risk and could help inform consumer
+choices and physician advice to patients regarding precau-
+tionary labelling [20,21]. This project may offer a practical
+way to discern whether allergic patients can safely ingest
+foods with labels such as “may contain traces”, although
+this outcome would require collaboration with the food
+industry and more uniform adoption of criteria for use
+of precautionary labels as proposed in the Australian
+VITAL strategy.
+Conclusion
+The PATS single dose OFC, based upon the statistical
+dose-distribution analysis of past challenge trials, promises
+an efficient approach to identify the most highly sensitive
+patients within any given food-allergic population. The
+peanut protocol described herein will evaluate the practi-
+cality of this approach and allow assessment of its safety.
+The validation of the ED05 originally statistically deter-
+mined from the dose-distribution analysis would be a
+major benefit of the study as it would serve to inform gov-
+ernments in the application of a more transparent and
+sensible approach in the use of precautionary labelling. It
+will also aid public health agencies in the establishment of
+approaches to allergen management that will protect the
+vast majority of food-allergic consumers/patients.
+Additional files
+ Additional file 1: Food Allergy Quality of Life Questionnaire –Parent
+Form (0–12 years).
+ Additional file 2: Food Allergy Quality of Life Questionnaire–Child
+Form (8–12 years).
+ Additional file 3: Food Allergy Quality of Life
+Questionnaire–Teenager Form (13-18 years).
+ Additional file 4: Peanut single dose study, non-participant
+questionnaire.
+Competing interests
+GZ declares that he has no competing interests. JH has received speaker
+honoraria and travel support from Stallergenes, Nutricia, Mead Johnson,
+Pfizer, Astra Zeneca, and MSD. He has received research funding from
+Danone and Stallergenes. KA has received speaker’s honorarium from Pfizer,
+Abbott and Danone. ST declares that he has no competing interests. WS, JB,
+LG, MM, MT, JN, ADG declares that he has no competing interests.
+Authors’ contributions
+GZ made substantial contribution to the conception, design and revising the
+manuscript. KA is local clinical PI on the study and made substantial 
+contributions to the development of the study design and protocol made
+substantial contribution to the conception and design of the manuscript. ST
+devised the original research concept with JH, JB and others and has revised
+the manuscript critically for important intellectual content. WS has revised
+the manuscript critically for important intellectual content. JB devised the
+original research concept with JH, ST and others and has revised the
+manuscript critically for important intellectual content. MT has contributed to
+refinement of the study protocol and review of manuscript LG reviewed the
+epidemiological study design, proposed the statistical analysis plan and
+contributed to the writing and revision of the paper. MM has contributed to
+the revision of the paper. JN has contributed to the drafting of the
+manuscript. ADG contributed to study design and has contributed in
+drafting and revising the manuscript. JH is lead clinical PI on the study and
+developed the original research concept with ST. He made substantial
+intellectual contribution to the manuscript, has been involved in drafting
+and giving final approval of the version to be published. All authors read
+and approved the final manuscript.
+Authors’ information
+Giovanni Zurzolo is a PhD scholar and is funded by the Victoria University.
+Professor Katrina J. Allen, paediatric gastroenterologist and is funded by the
+Viertel Senior Medical Research Followership. Steve Taylor is a Professor at the
+University of Nebraska-Lincoln and co-Director of Food Allergy Research &
+Resource Program (FARRP), a food industry-funded consortium with 70
+supporting food companies. Wayne Shreffler is the Chief of Pediatric Allergy
+and Immunology at MGH and Associate Professor of Pediatrics at Harvard
+Medical School. Joseph Baumert is an Assistant Professor at the University of
+Nebraska-Lincoln and co-Director of Food Allergy Research & Resource Program
+(FARRP). A/Prof Mimi Tang is the Director of the Department of Allergy and
+Immunology, Royal Children’s Hospital, Melbourne. A/Prof Lyle Gurrin is a Senior
+Lecturer in Biostatistics at The Centre for Molecular, Environmental, Genetic and
+Analytic (MEGA) Epidemiology. A/Prof Michael Mathai is a Senior Lecturer at The
+College of Health and Biomedicine at Victoria University. Julie Nordlee work’s at
+FARRP at the University of Nebraska-Lincoln. Audrey DunnGalvin is a Lecturer in
+Clinical Psychology in UCC, Cork. Jonathan Hourihane is a Professor of
+Paediatrics and Child Health in UCC, Cork.
+Acknowledgement
+This project is funded by Food Allergy Research & Resource Program (FARRP).
+Dr Dean Tey who is a consultant Paediatrician at the Department of Allergy at
+the Royal Children’s Hospital Melbourne for his contribution to the manuscript.
+The Murdoch Childrens Research Institute is supported by funding from the
+Victorian Government’s Operational Infrastructure Support Program. Also to
+Victoria University for providing funding for the publishing of this manuscript.
+Author details
+1Murdoch Childrens Research Institute, Melbourne, Australia. 2Biomedical and
+Lifestyle Diseases Unit, School of Biomedical and Health Sciences, Victoria
+University, Melbourne, Australia. 3Department of Allergy and Immunology,
+Royal Children’s Hospital, Melbourne, Australia. 4University of Melbourne
+Department of Paediatrics, Melbourne, Australia. 5Food Allergy Research and
+Resource Program, University of Nebraska, Lincoln, Nebraska. 6Food Allergy
+Centre and the Centre for Immunology and Inflammatory Disease,
+Massachusetts General Hospital/Harvard Medical School, Boston, USA.
+7Melbourne School of Population and Global Health, University of
+Melbourne, Melbourne, Australia. 8Paediatrics and Child Health, University
+College, Cork, Ireland.
+Received: 6 June 2013 Accepted: 14 August 2013
+Published: 12 September 2013
+References
+1.  Allen KJ, Remington BC, Baumert JL, Crevel R, Houben GF, Brooks-Taylor S,
+et al: Clinical challenge data for development of allergen management
+thresholds for precautionary labeling of foods- VITAL 2.0. J Allergy Clin
+Immun 2013: In press.
+2.  Taylor SL, Crevel RWR, Sheffield D, Kabourek J, Baumert J: Threshold dose for
+peanut: risk characterization based upon published results from challenges
+of peanut-allergic individuals. Food Chem Toxicol 2009, 47(6):1198–1204.
+3.  Taylor SL, Moneret-Vautrin DA, Crevel RWR, Sheffield D, Morisset M, Dumont
+P, et al: Threshold dose for peanut: risk characterization based upon
+Page 7
+Zurzolo et al. Allergy, Asthma & Clinical Immunology 2013, 9:35
+http://www.aacijournal.com/content/9/1/35 
+Page 7 of 7
+diagnostic oral challenge of a series of 286 peanut-allergic individuals.
+Food Chem Toxicol 2010, 48(3):814–819.
+4.  Zurzolo GA, Mathai ML, Koplin JJ, Allen KJ: Precautionary allergen labelling
+following new labelling practice in Australia. J Paediatr Child Health 2013,
+49(4):E306. E10.
+5.  Zurzolo G, Koplin J, Mathai M, Mimi T, Allen K: Perceptions of
+precautionary labelling among parents of children with food allergy and
+anaphylaxis. Med J Aust 2013, 198(11):621–623. Epub 2013/08/08.
+6.  Allergen, Bureau: Summary of the VITAL scientific expert panel
+recommendations; 2011. Available from: [URL: "http://www.allergenbureau.net/downloads/vital/VSEP-Summary-Report-Oct-2011.pdf"] http://www.allergenbureau.net/
+ downloads/vital/VSEP-Summary-Report-Oct-2011.pdf.
+7.  Madsen CB, Hattersley S, Allen KJ, Beyer K, Chan CH, Godefroy SB, et al: Can
+we define a tolerable level of risk in food allergy? Report from a
+EuroPrevall/UK Food Standards Agency workshop. Clinical & Experimental
+Allergy 2012, 42(1):30–37. n/a-n/a.
+8.  Osborne NJ, Koplin JJ, Martin PE, Gurrin LC, Thiele L, Tang ML, et al: The
+HealthNuts population-based study of paediatric food allergy: validity,
+safety and acceptability. Clinical & Experimental Allergy 2010, 40(10):1516–1522.
+9.  Sampson HA, Gerth van Wijk R, Bindslev-Jensen C, Sicherer S, Teuber SS,
+Burks AW, et al: Standardizing double-blind, placebo-controlled oral food
+challenges: American academy of allergy, asthma and immunology–
+European academy of allergy and clinical immunology PRACTALL
+consensus report. J Allergy Clin Immun 2012, 130(6):1260–1274.
+10. Koplin JJ, Tang MLK, Martin PE, Osborne NJ, Lowe AJ, Ponsonby A-L, et al:
+Predetermined challenge eligibility and cessation criteria for oral food
+challenges in the HealthNuts population-based study of infants. J Allergy
+Clin Immun 2012, 129(4):1145–1147.
+11. DunnGalvin A, Hourihane JB: Developmental Aspects of Health Related
+Quality of Life (HRQL) in Food Related Chronic Disease: the example of
+food allergy. In Handbook of Behavior, Food and Nutrition. Edited by Preedy
+VR, Watson RR, Martin CR. New York: Springer; 2011:3077–3098.
+12. DunnGalvin A, Hourihane JOB: Chapter 3 developmental trajectories in
+food allergy: a review. In Advances in food and nutrition research. Edited by
+Steve LT. Waltham, Massachusetts, USA: Academic Press; 2009:65–100.
+13. Kruizinga AG, Briggs D, Crevel RWR, Knulst AC, Bosch LMC, Houben GF:
+Probabilistic risk assessment model for allergens in food: sensitivity
+analysis of the minimum eliciting dose and food consumption.
+Food Chem Toxicol 2008, 46(5):1437–1443.
+14. Madsen CB, Hattersley S, Buck J, Gendel SM, Houben GF, Hourihane JOB,
+et al: Approaches to risk assessment in food allergy: report from a
+workshop “developing a framework for assessing the risk from allergenic
+foods”. Food Chem Toxicol 2009, 47(2):480–489.
+15. Mills ENC, Valovirta E, Madsen C, Taylor SL, Vieths S, Anklam E, et al:
+Information provision for allergic consumers – where are we going with
+food allergen labelling? Allergy 2004, 59(12):1262–1268.
+16. Marklund B, Wilde-Larsson B, Ahlstedt S, Nordstrom G: Adolescents’
+experiences of being food-hypersensitive: a qualitative study. BMC Nurs
+2007, 6:8. Epub 2007/10/10.
+17. Hourihane JOB, Bedwani SJ, Dean TP, Warner JO: Randomised, double
+blind, crossover challenge study of allergenicity of peanut oils in
+subjects allergic to peanuts. BMJ 1997, 314(7087):1084.
+18. Madsen CB, Crevel R, Chan C-H, Dubois AEJ, DunnGalvin A, Flokstra-de Blok
+BMJ, et al: Food allergy: stakeholder perspectives on acceptable risk.Regul Toxicol Pharmacol 2012, 57(2–3):256–265.
+19. DunnGalvin A, Cullinane C, Daly DA, Flokstra-de Blok BMJ, Dubois AEJ,
+Hourihane JOB: Longitudinal validity and responsiveness of the Food
+Allergy Quality of Life Questionnaire – Parent Form in children 0–12
+years following positive and negative food challenges. Clinical &
+Experimental Allergy 2010, 40(3):476–485.
+20. DunnGalvin A, Gaffney A, Hourihane JOB: Developmental pathways in
+food allergy: a new theoretical framework. Allergy 2009, 64(4):560–568.
+21. DunnGalvin A, Hourihane JOB: Self-assessment of reaction thresholds in
+food allergy: a new theory of risk taking which changes over time.
+J Allergy Clin Immun 2009, 123(2):S142.
+doi:10.1186/1710-1492-9-35
+Cite this article as: Zurzolo et al.: Peanut Allergen Threshold Study
+(PATS): validation of eliciting doses using a novel single-dose challenge
+protocol. Allergy, Asthma & Clinical Immunology 2013 9:35. 
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color ﬁgure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at
+www.biomedcentral.com/submit

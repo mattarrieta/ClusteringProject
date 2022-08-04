@@ -1,0 +1,1367 @@
+Page 1
+doi:10.5598/imafungus.2018.09.01.12  IMA FUNGUS · 9(1): 185–198 (2018) 
+ARTICLE Sequence-based nomenclature: a reply to Thines et al. and Zamora et al. 
+DQG SURYLVLRQV IRU DQ DPHQGHG SURSRVDO ³IURP WKH ÀRRU´ WR DOORZ '1$
+sequences as types of names
+Robert Lücking1, Paul M. Kirk2 and David L. Hawksworth3
+1Botanischer Garten und Botanisches Museum, Freie Universität Berlin, Königin-Luise-Straße 6-8, D-14195 Berlin, Germany; corresponding author
+e-mail: r.luecking@bgbm.org
+2State Key Laboratory of Mycology, Institute of Microbiology, Chinese Academy of Sciences, Beijing 100101, China; Biodiversity Informatics &
+Spatial Analysis, Royal Botanic Gardens, Kew, Richmond, Surrey TW9 3DS, UK
+3Comparative Plant and Fungal Biology, Royal Botanic Gardens, Kew, Richmond, Surrey TW9 3DS, UK; Department of Life Sciences, The
+Natural History Museum, Cromwell Road, London SW7 5BD, UK; Jilin Agricultural University, Chanchung, Jilin province, 130118 China
+Abstract: We reply to two recently published, multi-authored opinion papers by opponents of sequence-
+based nomenclature, namely Zamora et al. (,0$ )XQJXV 9: 167–175,2018) and Thines et al. (,0$ )XQJXV 9:
+177–183, 2018). While we agree with some of the principal arguments brought forward by these authors, we
+address misconceptions and demonstrate that some of the presumed evidence presented in these papers
+has been wrongly interpreted. We disagree that allowing sequences as types would fundamentally alter the
+nature of types, since a similar nature of abstracted features as type is already allowed in the Code (Art. 
+40.5), namely an illustration. We also disagree that there is a high risk of introducing artifactual taxa, as
+WKLV ULVN FDQ EH TXDQWL¿HG DW ZHOO EHORZ    FRQVLGHULQJ WKH YDULRXV W\SHV RI KLJK WKURXJKSXW VHTXHQFLQJ
+errors. Contrary to apparently widespread misconceptions, sequence-based nomenclature cannot be based
+on similarity-derived OTUs and their consensus sequences, but must be derived from rigorous, multiple
+alignment-based phylogenetic methods and quantitative, single-marker species recognition algorithms, using
+original sequence reads; it is therefore identical in its approach to single-marker studies based on physical
+types, an approach allowed by the Code. We recognize the limitations of the ITS as a single fungal barcoding
+marker, but point out that these result in a conservative approach, with “false negatives” surpassing “false
+positives”; a desirable feature of sequence-based nomenclature. Sequence-based nomenclature does not
+aim at accurately resolving species, but at naming sequences that represent unknown fungal lineages so that
+these can serve as a means of communication, so ending the untenable situation of an exponentially growing
+QXPEHU RI XQODEHOHG IXQJDO VHTXHQFHV WKDW ¿OO RQOLQH UHSRVLWRULHV 7KH ULVNV DUH RXWZHLJKHG E\ WKH JDLQV
+obtained by a reference library of named sequences spanning the full array of fungal diversity. Finally, we
+elaborate provisions in addition to our original proposal to amend the Code that would take care of the issues
+brought forward by opponents to this approach. In particular, taking up the idea of the Candidatus status of
+invalid, provisional names in prokaryote nomenclature, we propose a compromise that would allow valid
+publication of voucherless, sequence-based names in a consistent manner, but with the obligate designation
+as “nom. seq.” (nomen sequentiae). Such names would not have priority over specimen- or culture-based
+QDPHV XQOHVV HLWKHU HSLW\SL¿HG ZLWK D SK\VLFDO W\SH RU DGRSWHG IRU SURWHFWLRQ RQ WKH UHFRPPHQGDWLRQ RI D
+committee of the ,QWHUQDWLRQDO &RPPLVVLRQ RQ WKH 7D[RQRP\ RI )XQJL following evaluation based on strict
+quality control of the underlying studies based on established rules or recommendations. 
+Key words: 
+Aspergillus
+Daldinia
+Fusarium
+IMC11
+International Commission on
+the Taxonomy of Fungi
+ITS barcoding marker
+Morchella
+nom. seq.
+Penicillium
+Article info: Submitted: 30 May 2018; Accepted: 8 June 2018; Published: 11 June 2018.
+BACKGROUND
+Prior to the 19th International Botanical Congress in Shenzen
+,%&  LQ-XO\  D¿UVWSURSRVDOWRIRUPDOO\ DGRSWQDPHV
+based on sequence types for so-called “dark matter fungi” was
+put forward (Hawksworth et al. 2016). This proposal received
+moderate attention in the mycological community (Hibbett et
+al. 2016, Grube et al. 2017, Seifert 2017, Hibbett 2018, Ryberg 
+& Nilsson 2018) and was rejected by the Nomenclatural
+Section at IMC 2017 but with the formation of a Special
+Committee to look into the matter across all groups covered
+by the Code (Hawksworth et al. 2017). That Committee is
+charged with reporting to the 20th Congress in Rio de Janeriro
+LQ  :LWK WKH GHFLVLRQ WKDW QRPHQFODWXUDO UXOHV VSHFL¿F
+to Fungi are now under the responsibility of the International
+Mycological Congresses (IMCs) and form a separate chapter
+© 2018 International Mycological Association
+You are free to share - to copy, distribute and transmit the work, under the following conditions:
+Attribution: <RX PXVW DWWULEXWH WKH ZRUN LQ WKH PDQQHU VSHFL¿HG E\ WKH DXWKRU RU OLFHQVRU EXW QRW LQ DQ\ ZD\ WKDW VXJJHVWV WKDW WKH\ HQGRUVH \RX RU \RXU XVH RI WKH ZRUN
+Non-commercial: <RX PD\ QRW XVH WKLV ZRUN IRU FRPPHUFLDO SXUSRVHV
+No derivative works: <RX PD\ QRW DOWHU WUDQVIRUP RU EXLOG XSRQ WKLV ZRUN
+For any reuse or distribution, you must make clear to others the license terms of this work, which can be found at http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode. Any of the above conditions can be waived if you get
+permission from the copyright holder. Nothing in this license impairs or restricts the author’s moral rights.
+VOLUME 9 ·  NO. 1  185
+Page 2
+Lücking et al.
+ARTICLE
+in the Code (Hawksworth et al. 2017, Turland et al. 2018), this
+matter in so far as it relates to fungi can be decided on at an
+International Mycological Congress. The original proposal was
+consequently published in revised form for consideration by the
+upcoming 11th International Mycological Congress (IMC11) in
+San Juan, Puerto Rico in July 2018 (Hawksworth et al. 2018),
+with a supporting positional paper on how to address potential
+challenges of this approach (Lücking & Hawksworth 2018). The
+mycological community has rather passionately responded to
+this second proposal, and since then, an intense discussion
+has developed including two opposingt papers in this issue, 
+one by some members of the International Commission on
+the Taxonomy of Fungi (ICTF) and another with 412 authors
+(Thines et al. 2018, Zamora et al. 2018). While our co-author
+on the two proposals, David Hibbett, has responded separately
+in this issue to Seifert’s (2017) editorial on sequence-based
+nomenclature (Hibbett 2018), here we provide a reply to the
+WZR PXOWL DXWKRUHG SDSHUV DV ZH FRQVLGHU D FODUL¿FDWLRQ RI
+certain misconceptions and incorrectly interpreted evidence
+regarding the original proposal and the nature of sequence-
+based nomenclature is required as a basis for informed debate
+in Puerto Rico.
+RESPONSES
+Part I. Reply to Zamora et al. “Considerations
+and consequences of allowing DNA sequence
+data as types of fungal taxa”
+Species versus DNA sequences
+We agree with what is outlined by Zamora et al. (2018: 169) on
+this matter in practically every detail. However, the arguments
+put forward highlight the limitations of a single marker
+for species delimitations, an issue that applies generally
+to DNA sequencing methods and to all markers (as those
+authors correctly state), and is not unique to the approach of
+sequence-based nomenclature. Therefore, it cannot stand as
+an argument against sequence-based nomenclature, while
+the same approach is regularly allowed for specimen-based
+nomenclature. The Code does not require new species to
+be based on multiple markers, or indeed any molecular data
+at all. A polyphasic approach to species delimitation, using
+multiple markers and an array of phenotypic characters, is
+certainly the desired “gold standard”. Yet, however complex
+evolutionary processes may be, in most groups of fungi, 
+species are reasonably well-delimited using either a single
+barcoding marker (be it ITS or another locus) or a maximum
+of two to three combined markers (see below in Reply to
+Thines et al. Point 1).
+For practical reasons, in a given group, sequence-based
+nomenclature has to be executed with a single marker, 
+WR HQIRUFH FRQJUXHQFH DQG DYRLG SDUDOOHO FODVVL¿FDWLRQV
+(Lücking & Hawksworth 2018: 153), and in lieu of reasons for
+alternative loci (e.g. in Aspergillus, Fusarium, Penicillium; see
+below), the locus of choice is the ITS fungal barcoding marker, 
+if not for the simple reason that almost all environmental fungal
+meta-barcoding sequences in the Sequence Read Archive
+(SRA) correspond to ITS – and there are now more than a
+billion (!) of them (Lücking & Hawksworth 2018: 144). Being 
+fully aware of the limitations of using ITS as the single marker
+to perform sequence-based nomenclature, we reiterate here
+(and below) two important aspects of this approach:
+%  Sequence-based nomenclature does not aim at accurately
+resolving species, simply because in a substantial
+number of cases it cannot do that. Sequence-based
+nomenclature aims at naming sequences that represent
+unknown fungal lineages so that these sequences can
+serve as proper references and the untenable situation
+of an exponentially growing number of unlabeled fungal
+VHTXHQFHV WKDW ¿OO RQOLQH UHSRVLWRULHV PD\ EH OLPLWHG DQG
+stop making taxonomic assessments of newly generated
+VHTXHQFH GDWD LQFUHDVLQJO\ PRUH GLI¿FXOW )LJ 
+%  Being aware of the limitations of using ITS as a single
+PDUNHU ZLWK WKH ULVNV RI LQVXI¿FLHQW UHVROXWLRQ LQ VRPH
+lineages (“false negatives”) or hypervariability in others
+(“false positives”), we consider these risks outweighed
+by the gains obtained by a reference library of named
+sequences facilitating communication across the full
+array of fungal diversity.
+Impact on nomenclatural types
+Zamora et al. (2018: 170) state: “An acceptance of the proposal
+would fundamentally alter the meaning of nomenclatural
+types. This is because instead of using a physical object as
+the type of a name, we would just use information from a
+character of the organism as the type.” We disagree. Firstly, 
+there is no fundamental change to the meaning of types, since
+precisely in fungi it is already possible to use an illustration
+of a character as type “ LI WKHUH DUH WHFKQLFDO GLI¿FXOWLHV
+of preservation or if it is impossible to preserve a specimen
+that would show the features attributed to the taxon ...” (Art. 
+40.5). This provision was used to establish the lichenicolous
+genus Lawreymyces, with seven species, using images of
+the ITS sequences (Hawksworth 2017, Lücking & Moncada
+2017), the latter triggering the Nomenclatural Section of the
+Shenzen IBC to insert a new example in the Code making
+clear that such images of DNA sequences are “not depictions
+of features of the organism” (Turland et al. 2018: Art. 40.5
+Ex. 6).  While we disagree with this decision, as a DNA
+VHTXHQFH LV D IHDWXUH RI DQ RUJDQLVP ZH ¿QG LW KDUG WR DUJXH
+that a drawing of, for example spore characters, is allowable
+as a type but a DNA sequence is not. Both forms of types
+are conceptually similar in nature as they are impressions
+of features and are not photographic images of physical
+structures; to have a sequence type would not therefore be
+D IXQGDPHQWDO FKDQJH LQ RXU RSLQLRQ ,W LV GLI¿FXOW WR DUJXH
+that an illustration is more diagnostic than a DNA sequence, 
+DV H[HPSOL¿HG E\ WKH QHZ FK\WULG Fimicolochytrium jonesii 
+based on an illustration as type, but the authors themselves
+acknowledged that morphological characters in this case
+are “... not completely accurate in assigning chytrids to the
+correct genus or species, thus emphasizing the importance
+of molecular characters for identifying these taxa.” (Simmons
+& Longcore 2012: 1229).
+Zamora et al. (2018: 170) rightfully argue that even for
+fungi only known from sequences, it is not necessary to
+designate the sequence as type, since conceptually the
+underlying sample contains the type and there are also
+186  IMA FUNGUS
+Page 3
+VOLUME 
+9 
+· 
+NO. 
+1 
+Sequence-
+based 
+nomenclature 
+– 
+a 
+reply 
+to 
+issues 
+raised Fig. 1. BLAST result of an unnamed sequence (GenBank accession HM069408) representing an unnamed species of Archaeorhizomyces (Rosling et al. 2011). The BLAST result gives no clue as to the
+phylogenetic relationships of this sequence. 
+ARTICLE 187
+Page 4
+Lücking et al.
+ARTICLE
+Box 1
+Candidatus names (extracted from ICPN Appendix 11)
+“(3) A name of an organism in the status of Candidatus consists of the word Candidatus, followed by a “vernacular
+HSLWKHW´ WKDW FRQVLVWV RI HLWKHU D JHQXV QDPH ZLWK D VSHFL¿F HSLWKHW RU RQO\ D JHQXV QDPH RU RQO\ D VSHFL¿F
+epithet. ... the word Candidatus, but not the vernacular epithet is printed in italics.”
+“ $ &DQGLGDWXV QDPH LV E\ GH¿QLWLRQ D SUHOLPLQDU\ QDPH DQG WKHUHIRUH KDV QR VWDQGLQJ LQ SURNDU\RWH
+nomenclature.”
+“ $ OLVW LQ WKH IRUP RI D FRGL¿HG UHFRUG RI RUJDQLVPV RI WKH VWDWXV &DQGLGDWXV LV NHSW E\ WKH -XGLFLDO &RPPLVVVLRQ
+RI WKH ,&63 LQ FRRSHUDWLRQ ZLWK WKH (GLWRULDO %RDUG RI WKH ,-6(0 DQG LV SXEOLVKHG LQ WKDW MRXUQDO LQ DSSURSULDWH
+intervals.”
+techniques that can make fungal structures containing the
+target sequences visible, and none of these require changes
+to the Code. We do not only agree, but all these possibilities
+were evaluated previously (Lücking & Hawksworth 2018: 
+146ff, Table 1). The proposal to allow the actual sequence as
+type is based on three arguments: 
+%  Even if there is a specimen or culture as type, if
+sequence data are available, the relationships of the
+taxon will always be evaluated based on sequence data. 
+Sequences from types (Schoch et al.  2014),  not the
+SK\VLFDO W\SHV WKHPVHOYHV ¿[ WKH DSSOLFDWLRQ RI D QDPH LQ
+a phylogenetic framework, so type sequences essentially
+serve as proxies for physical types and from there, the
+step to have sequences as actual types is small. 
+%  Fungi known from sequences only can be validly described
+under the current Code using a physical type, such as
+the underlying sample, as has been done with Piromyces
+cryptodigmaticus )OLHJHURYi et al. in Kirk 2012). However, 
+this approach is not optimal as the type is ambiguous and
+just serves as a formality, whereas the species name will
+be evaluated based on its type sequence. Even a FISH
+type (e.g. as a permanent slide), while visualizing the
+actual fungus, for practical purposes is useless as a type
+in terms of assessment or reproducibility of characters.
+%  In voucherless fungi, a sequence type has several
+advantages over other forms of types, including broad
+accessibility and unlimited long-term storage of multiple
+copies without quality loss. This does not apply if the type
+is the underlying sample, DNA extract, or FISH type.
+Impact on names of taxa and future taxonomic
+studies
+The arguments in this section largely correspond to points (6) 
+and (9) of Thines et al. (2018) and are addressed below, with
+reference to Lücking & Hawksworth (2018: 152f).
+Reliability and extent of data
+The arguments in this section largely correspond to points (2) 
+to (6) of Thines et al. (2018) and are addressed below, with
+reference to Lücking & Hawksworth (2018: 148ff).
+Candidate names
+Zamora et al. (2018) propose to alternatively consider the
+approach of so-called “candidate names” as suggested in the
+,QWHUQDWLRQDO &RGH RI 1RPHQFODWXUH RI 3URNDU\RWHV (ICNP; 
+Parker et al. 2015) for archaea and bacteria that cannot
+EH FXOWXUHG DQG VR GR QRW IXO¿O  WKH UHTXLUHPHQWV IRU YDOLG
+description under that Code. We appreciate this suggestion
+as a constructive alternative. The ICNP has three provisions
+for candidate names (Box 1).
+While this concept could be applied to the case of
+voucherless fungi known only from sequences, there is one
+aspect which we consider detrimental to the idea of avoiding
+“chaos”, as so vehemently advocated by the opponents of
+sequence-based nomenclature. The Candidatus names are
+invalid and have no standing under the prokaryote code. 
+Further, for those unfamiliar with this system, this causes
+confusion as the italicized word “Candidatus” at the start of
+the species name gives the impression that these are taxa in a
+genus Candidatus, as in “Candidatus Liberibacter africanus” 
+and “Candidatus Brocadia anammoxidans"; the nuances of
+type faces are not easily appreciated by editors and non-
+specialists and can be found all italicized in the literature.
+With such a provision in fungal nomenclature, there would
+be no rules as to how to coin names beyond “Candidatus”,
+or any system to which authors should adhere in such
+nomenclatural acts. We fear this would generate more
+confusion than adoption of any formal sequence nomenclature, 
+including the notion that parts of the mycological community
+could simply choose to ignore these names. Validity of names
+is an indispensable component of an ideal sequence-based
+nomenclature, since only then nomenclatural acts can be
+formally evaluated and judged against agreed rules.
+7KH LGHD RI XVLQJ D XQLTXH SUH¿[ VXFK DV ³'1$´ IRU
+sequence-based fungal taxa and the provision that such
+names have no priority over specimen- or culture-based
+names are analogous to the Candidatus concept and
+essentially have the same effect (see below under point 9).
+Another potentially useful approach similar in concept to the
+Candidatus concept would be to develop rules for sequence-
+based names separately, perhaps in a Code of Practice
+agreed by the ICTF, rather than to change the Articles relating
+to types. That way, while formally binding, sequence-based
+nomenclature could be regulated outside the main body of
+the Code, with the possibility of including provision as to how
+sequence-based names are to be derived and evaluated.
+There is an established nomenclatural practice, already
+familiar to many mycologists, to append a notation after a
+name to indicate nomenclatural status, such as “nom. inval.”,
+“nom. illegit.”, “nom. nud.”, “nom. nov.”, “nom. cons.”, “nom. 
+sanct.”, or “nom. prov.”. The use of provisional names (“nom.
+188  IMA FUNGUS
+Page 5
+Sequence-based nomenclature – a reply to issues raised
+prov.”) is analogous to the Candidatus concept in that it is
+used when an author wishes to have more material before
+formally validating a taxon name, but wants to have a label
+to discuss it. However, this has the disadvantage that this
+could encourage an explosion of invalid unregulated names. 
+We suggest that a more acceptable alternative would be the
+use of an addition “nom. seq.” (“nomen sequentiae”) after any
+sequence-based name in a parallel manner, but ruling that
+such names would then be validly published but not have
+priority over names based on physical types (specimens or
+cultures), or illustrations.
+Part II. Reply to Thines et al. “Ten reasons why
+a sequence-based nomenclature is not useful
+for fungi anytime soon”
+1. The resolution of barcoding loci, especially
+ITS, varies among different groups
+The authors correctly point out that the variation of the
+fungal barcoding marker ITS is not uniform at the same
+hierarchical level, in particular species, among different
+groups of fungi. Lücking & Hawksworth (2018: 150f, Box 4) 
+never claimed that this would be the case, and discussed this
+problem in detail. Principally, there can be three outcomes: 
+(a) ITS-based clades principally correspond to species-
+level clades; (b) ITS-based clades only resolve (generally
+monophyletic) species complexes (underestimation of actual
+species richness or “false negative”); or (c) ITS-based clades
+FRUUHVSRQG WR LQIUDVSHFL¿F OLQHDJHV RYHUHVWLPDWLRQ RI DFWXDO
+species richness or “false positive”).
+In many fungi in which ITS phylogenies have been placed
+in the context of multi-locus approaches and/or phenotype
+variation, the ITS barcoding locus works reasonably well
+for species delimitation (e.g. Roy et al. 1998, Geml et al.
+2006, Weir et al. 2012, Gomes et al. 2013, Walter et al. 
+2013, Moncada et al. 2014, Lücking et al. 2014a, 2017, Del
+Prado et al. 2016). Even in Oomycota, besides cox1 and
+cox2, ITS is routinely used for species delimitation (Thines
+& Kummer 2013). There are, however, also cases in which
+ITS only resolves species complexes (“false negatives”),
+including in genera such as Aspergillus, Fusarium, Morchella,
+Penicillium,  and Pseudocercospora;  in these instances, 
+additional barcoding markers such as calmodulin (CAL),
+ȕ WXEXOLQ %HQ$ RU WUDQVODWLRQ HORQJDWLRQ IDFWRU DOSKD 
+(TEF1) have been proposed (Crous et al. 2013, Samson et
+al. 2014, Visagie et al. 2014, O’Donnell et al. 2015, Richard
+et al. 2015). In contrast, highly variable ITS within a species
+(potentially leading to “false positives”), such as in the lichen-
+forming Cetraria aculeata )HUQiQGH]0HQGR]D et al. 2011),
+appears to be rare (and is also subject to interpretation of the
+species concept applied), which means that sequence-based
+nomenclature using the ITS barcoding locus would tend to be
+conservative, certainly a desirable attribute.
+In spite of the many studies available, Thines et al. 
+(2018: 178) cite a single paper (Stadler et al. 2014a, cited
+as “b”) for their argument of potentially conserved ITS and its
+presumed subpar performance compared to other markers: 
+“7KH ,76 UHJLRQV DUH UDWKHU FRQVHUYHG LQ PDQ\ VSHFLHV
+groups, in particular within the Sordariomycetes and other 
+classes of Ascomycota (Stadler et al. 2014b).” We examined
+the cited study, a polyphasic revision of the genus Daldinia 
+(Xylariaceae), and found the following statements:
+%  (p. 23) “The preliminary molecular phylogeny of Daldinia 
+SUHVHQWHG KHUH LV H[FOXVLYHO\ EDVHG RQ ,76 U'1$ JHQH
+sequence data.” The study relied on ITS as a single
+marker, even if presumably inappropriate.
+%  (p. 23) “Finally, most taxa of xylarioid Xylariaceae ... were
+RPLWWHG VLQFH WKHLU ,76 UHJLRQV VHTXHQFHV >VLF@ ZHUH
+found to contain too many DNA portions that could not be
+aligned with certainty.” This points to variable, rather than
+conserved, ITS; in most Fungi, ITS is not well alignable
+between genera but more or less readily between species, 
+and according to these authors, Xylariaceae do not seem
+to be an exception.
+%  (p. 27) “With few exceptions, the molecular phylogeny
+EDVHG RQ ,76 QU'1$ GDWD ODUJHO\ VXSSRUWV WKLV FRQFHSW
+and in one case (D. andina) the molecular data even gave
+hints where to place the respective fungus.”. This phrase
+refers to infrageneric divisions of Daldinia predicted by
+phenotype features including natural products, i.e. there
+is a high level of congruence between ITS data and
+phenotype features.
+%  (p. 132) “The species groups outlined in this monograph
+were mostly recognised as reasonably well supported
+JURXSLQJV E\ WKH ,76 U51$ JHQH SK\ORJHQ\”  The
+authors recognized species complexes based on ITS
+and proceeded in establishing new taxa, such as Daldinia
+starbaeckii, within these complexes, based for instance
+on variation of ascospore size and chemical products, 
+although the ITS did not provide any such separation, for
+instance from D. eschscholtzii.
+Thines et al. (2018: 178) use these results as argument
+for conserved ITS in Daldinia,  although in the absence
+RI HYLGHQFH IURP RWKHU PDUNHUV ZH ¿QG WKLV LV D FLUFXODU
+conclusion; also, in other groups of Fungi, analogous variation
+KDV EHHQ LQWHUSUHWHG DV LQWUDVSHFL¿F H J FKHPLFDO YDULDWLRQ
+in species of Usnea (Mark et al. 2016). Therefore, until more
+markers are analyzed, such as in the genera cited above, we
+FDQQRW DJUHH ZLWK WKLV VSHFL¿F H[DPSOH DQG FRQVLGHU RWKHU
+better studied genera such as Fusarium more appropriate
+H[DPSOHV RI FRQVHUYHG ,76 +RZHYHU WR FRQVLGHU LQVXI¿FLHQW
+resolution a failure of the concept of a barcoding marker is
+LQ RXU YLHZ LOO GH¿QHG 6SHFLHV DUH QRW ¿[HG HQWLWLHV LQ WLPH
+but emerge, evolve, and speciate, or become extinct. This
+process does not happen overnight but may take geological
+time spans; therefore, we cannot expect that the ITS, or any
+other marker, will resolve clades in the same way across
+all taxa, a point elaborated by Zamora et al. (2018: 169; 
+see above). Species complexes that radiated recently are
+likely to exhibit low resolution, and ancient species already
+in the process of subsequent speciation are likely to have
+highly variable ITS. That does not mean that ITS undergoes
+different evolutionary mechanisms in different clades, but
+simply that some species-level clades are older or younger
+than others. Recently radiating species complexes could
+DOVR EH LQWHUSUHWHG DV LQIUDVSHFL¿F OLQHDJHV OHDGLQJ WR WKH
+question of whether ITS properly resolves species depends
+VOLUME 9 ·  NO. 1 
+ARTICLE 
+189
+Page 6
+Lücking et al.
+ARTICLE
+on the ranking of such lineages (e.g. James et al  2QXĠɅ
+Brännström et al. 2017).
+Thines et al. (2018: 177) state that “The idea of using
+VHTXHQFH VLPLODULW\ DV D PHDVXUH RI GH¿QLQJ WD[D LV WHPSWLQJ
+...”. There appears to be a widespread misconception that
+sequence-based nomenclature, in particular when based on
+ITS, should rely on sequence similarity, a concept derived
+from clustering techniques and employed, for instance, 
+in the UNITE species hypotheses (Kõljalg et al. 2013).
+Lücking & Hawksworth (2018: 154ff) explicitly state that
+FOXVWHULQJ WHFKQLTXHV DQG SUH GH¿QHG VLPLODULW\ WKUHVKROGV
+are inappropriate to delimit lineages, and that instead
+multiple alignment-based phylogenetic approaches and
+quantitative species delimination methods should be used. 
+These methods are independent of any a priori similarity
+threshold level, and instead the similarity between (sister) 
+lineages is determined a posteriori and usually variable
+between clades and dependent on the time of speciation and
+other evolutionary parameters (such as population size and
+structure). In our proposed approach, sequence similarity is
+not at a measure to be considered (see also below under
+point 7).
+2. There is a high risk of introducing artefacts
+as new species
+We do agree that there is a risk, and this was addressed
+in Lücking & Hawksworth (2018: 148ff). However, based on
+published evidence, this risk is low and manageable (e.g. 
+Lindner et al. 2013). Thines et al. (2018) cite erroneous
+base calls stemming from careless editing of Sanger contigs
+(particularly in terminal regions) or from sequencing errors, 
+including TAQ polymerase errors, as one of the high risk
+factors. According to these authors, “... most widely used
+polymerases ...  have a high rate of incorporating wrong
+nucleotides ...” (Thines et al. 2018: 178). In reality, reported
+TAG polymerase errors are less than 0.1% of replicated bases
+(Chen et al. 1991, Keohavong & Thilly 1998), on average less
+than one base in a full ITS sequence of 500 to 600 bases, a
+SURSRUWLRQ WKDW IDOOV ZHOO ZLWKLQ LQWUDVSHFL¿F YDULDWLRQ DQG LQ D
+phylogenetic context provides no risk whatsoever of resulting
+in artifactual species recognition. The authors are correct in
+stating that terminal portions of Sanger sequences are often
+of subpar quality (actually much more so in protein-coding
+markers than in ribosomal DNA), but such portions can be
+easily recognized and trimmed, reducing the probability of
+any artifactual effect to practically zero. 
+Thines et al. (2018) fail to recognize the most important
+single nucleotide sequencing errors in high throughput
+sequencing, namely CAFIE errors, addressed in Lücking &
+Hawksworth (2018: 149ff). CAFIE errors on average are at
+levels an order of magnitude higher than TAG polymerase
+errors, at around 1 % (Lücking et al. 2014b), corresponding
+to about 5–6 bases in a full length ITS sequence. However, 
+due to the stochastic distribution of these errors within the
+ITS (including the highly conserved 5.8S region), multiple
+alignment-based phylogenetic methods are robust against
+such errors and recover species-level clades accurately
+(Lücking & Hawksworth 2018: 155). In contrast, clustering
+methods are highly susceptible to sequencing errors, which
+largely account for a substantial overestimation of OTUs 
+in environmental studies relying on clustering approaches
+(Lücking & Hawksworth 2018: 154ff).
+We agree with Thines et al. (2018) that chimeras are
+the most critical source of artifactual ITS sequences, both
+in Sanger and high-throughput sequencing. However, there
+DUH PHWKRGV RI DXWRPDWLFDOO\ ¿OWHULQJ FKLPHULF VHTXHQFHV
+that reduce the potential risk to about 1 % (Edgar et al. 
+2011, Quince et al. 2011, Schloss et al. 2011, Porazinska et
+al. 2012, Kim et al. 2013, Mysara et al. 2015, Edgar 2016),
+a proportion that certainly cannot be considered high. In
+addition, Sanger-generated chimeras can rather easily be
+detected as they can form long but unsupported branches, 
+since they combine unique sequence patterns from unrelated
+ITS1 and ITS2 portions (hence a long stem branch) with
+DI¿QLWLHV WR WZR GLVWLQFW VHSDUDWH FODGHV KHQFH ZLWK ORZ
+support since bootstrapping will pull individual sequences
+to one of these other clades based on subsampling). High-
+WKURXJKSXW VHTXHQFLQJ +76 FKLPHUDV DUH PRUH GLI¿FXOW WR
+GHWHFW EXW DUH DOVR PRUH HDVLO\ ¿OWHUHG VLQFH FKLPHULF 3&5
+products mostly result in sequences with subpar signal quality
+DQG VR UDUHO\ SDVV WKURXJK TXDOLW\ ¿OWHUV ,I WKH\ GR WKH\ DUH
+H[WUHPHO\ GLI¿FXOW WR UHFRJQL]H DV FKLPHUDV EXW GH¿QLQJ WD[D
+through sequences originating from independent samples
+reduces this risk considerably, since the probability of
+congruent chimeras originating from two or more independent
+samples is close to zero.
+Thines et al. (2018) mention intragenomic divergence of
+ITS sequences as a risk factor, a problem already addressed
+LQ WKHLU ¿UVW SRLQW ZLWK D VWXG\ RQ Fusarium (O’Donnell &
+Cigelnik 1997).  Another case cited is Xylaria hypoxylon 
+3HUãRK et al. 2009, Stadler et al. 2014b), for which Stadler
+et al. (2014b: 65) state: “Remarkably, three cultures obtained
+independently from cultures derived from the same perithe-
+FLXP RI WKH HSLW\SH PDWHULDO JDYH WKUHH VOLJKWO\ GLIIHUHQW ,76
+sequences. This indicates that DNA sequencing will not al-
+ways lead to 100 % reproducible results, and special care
+should be taken not to overestimate the value of molecular
+techniques for estimation of species numbers and diversity.”
+We examined the three cited epitype sequences (AM993141, 
+AM993142, AM993144). All three align for a total length of
+512 bases, and we found the only difference to be a single
+base call in position 86 of sequence AM993144, exhibiting
+an A instead of a G. This variation amounts to 0.06 % of all
+base calls in the three sequences, i.e. less than the average
+of reported error levels of TAG polymerase. It could therefore
+be a simple sequencing error or else variation to be expected
+in the presence of concerted evolution; such variation is not
+rare in Sanger sequences (evidenced by double peaks in in-
+dividual positions), but has no real impact on species recog-
+nition. It cannot be taken as a “high risk of introducing arte-
+facts as new species.”
+Thines et al. (2018) list further examples to underline
+their point of aberrant intragenomic behaviour of ITS repeats. 
+However, the studies of Won & Renner (2005) and Harpke
+& Peterson (2008), as evidence for ITS degeneration, refer
+to vascular plants in Gnetum and Cactaceae This can hardly
+be used to assess evolutionary processes concerning
+the ribosomal DNA cistron, including the ITS, in Fungi,
+particularly since speciation based on hybridization and
+allopolyploidy, cited in those studies as a potential cause of
+190  IMA FUNGUS
+Page 7
+Sequence-based nomenclature – a reply to issues raised
+ITS degeneration, is widespread in vascular plants, but is of
+uncertain frequency in Fungi. A more appropriate reference
+for Fungi would have been Li et al. (2013), which according to
+Thines et al. (2018) underlines a potential lack of concerted
+evolution, but mostly deals with presumed ITS pseudogenes
+in Ophiocordiceps sinensis.  Pseudogenes evolve within
+the genome of one lineage and explore new phylospace
+independent from other lineages; they therefore should
+not cluster with ITS variants of other lineages. An example
+is the study of Lindner & Banik (2011) on Laetiporus, in
+which a single species, L. cincinnatus, was found to contain
+multiple ITS variants. All these cluster with support with
+other species, in particular L. sulphureus (see also Lücking
+& Hawksworth 2018: 151ff), and the only explanation for
+such a pattern is hybridization and introgression, not ITS
+degeneration and pseudogene formation. The distinction
+between pseudogenes and hybridization is critical, since
+the latter does not “... produce artefact shadow taxa ...”
+as Thines et al. (2018: 178) claim, but corresponds to real
+species, independent whether of their ITS is detected in
+the hybrid genome of another species. Implementating ITS
+meta-barcoding in Candida s.lat.,  Colabella et al.  (2018) 
+found, depending on mapping procedures, identity values for
+reads from strains of two different species to the expected
+ITS sequence (from Sanger sequencing) of between 97.9% 
+and 99.8%. These values were interpreted as intragenomic
+variation, but could at least in part be due to sequencing
+errors, as the proportions compare with those found by
+Lücking et al. (2014b); nevertheless, the suggested mapping
+procedures resulted in rather high accuracy to detect the
+correct species. The authors also found that some reads were
+“... highly homologous ... to the rDNA of other species ...”
+(Colabella et al. 2018: 99), further supporting the hypothesis
+WKDW LQWUDJHQRPLF ,76 YDULDWLRQ LV FKLHÀ\ GXH WR K\EULGL]DWLRQ
+rather than pseudogene formation.
+3. There is no consensus regarding the data
+type or amount needed for species delimitation
+We wholeheartedly agree with this point! However, such
+D FRQVHQVXV LV QRW QHFHVVDU\ $ VFLHQWL¿F DSSURDFK WKDW
+UHOLHV RQ D SUH GH¿QHG FRQVHQVXV VXFK DV FOXVWHULQJ
+EDVHG RQ VLPLODULW\ WKUHVKROGV LV ÀDZHG 5DWKHU VFLHQWL¿F
+analysis should be independent and not be based on a priori 
+assumptions and instead enable us to test assumptions a
+posteriori. There are numerous analytical methods to properly
+analyze sequence data, elaborated in Lücking & Hawksworth
+(2018),  and statistical approaches can be employed to
+determine how many independent sequences of a certain
+length are needed to render clades statistically reliable (see
+below under point 7).
+4. Voucherless data are not reproducible
+Thines et al. (2018) argue that DNA sequence types without
+physical voucher specimens are not reproducible. In addition, 
+DNA sequence types do not allow the assessment of other
+characters, including phenotype and other molecular
+markers. While the latter statement is correct (and discussed
+further below and in Lücking & Hawksworth 2018: 146ff),
+this has little to do with reproducibility. The latter refers to
+WKH RULJLQDO GDWD L H WKH VHTXHQFH V XVHG WR GH¿QH D 
+species and in particular the sequence type, and not the
+assessment of additional features. This issue has rarely been
+questioned in Sanger sequences, although the problem of
+reproducibility applies equally to both Sanger and HTS data
+and both have analogous underlying sources. Sanger and
+HTS sequences come from specimens or environmental
+samples, respectively, and these can always be restudied
+(if stored properly) or other specimens or samples can be
+gathered under the same conditions. Both generate DNA
+extracts and PCR products that can be reanalyzed, and both
+UHVXOW LQ VHTXHQFHV UHDGV EDVHG RQ WUDFH ¿OHV WKDW FDQ EH
+reassessed. Unfortunately, in most cases neither specimens
+nor samples, or DNA extracts and PCR products, or trace
+¿OHV DUH UHDGLO\ DFFHVVLEOH WR LQYHVWLJDWRUV RWKHU WKDQ WKRVH
+who produced the data, and proper storage is often not
+guaranteed. However, reproducibility of the original sequence
+data is possible in quite an analogous way in both Sanger
+and HTS sequences, so potential problems of reproducibility
+equally apply to both. Therefore, this cannot be used as an
+argument against sequence-based nomenclature.
+In addition, sequences are evaluated in an alignment-
+based phylogenetic context and potential problems can
+be detected that way. An example is GenBank accession
+AF356664, which caused an entire class of Fungi,
+Eurotiomycetes, to erroneously appear nested within another
+class, Lecanoromycetes,  due to a “multilocus chimera” 
+(Lücking & Nelsen 2018).  Highly congruent sequences
+originating from independent sources have an astronomically
+low possibility to be artifactual, which provides a means of
+testing the data without the need to go back to the source
+and reproduce the actual sequence (see below). The same
+approach can (and must) be used in sequence-based
+nomenclature (Hawksworth et al. 2016, 2018, Lücking &
+Hawksworth 2018: 149ff).
+ 6HTXHQFHEDVHG W\SHV FDQQRW EH YHUL¿HG
+We are not sure why the authors list this as a separate
+point, as it is fully congruent with their previous argument. 
+As mentioned above, a simple but effective means of testing
+a sequence is whether the same or a highly congruent
+sequence occurs in independent samples. Areliable statistical
+test can be employed to compute the probability that N
+sequences of length L from X independent samples are so
+similar that they cluster with strong support in a monophyletic
+clade, but instead of being of common descent represent
+VHTXHQFLQJ DUWLIDFWV ,W FDQ EH VKRZQ WKDW IRU 1 DQG ;   DQG
+/   H J VHSDUDWH ,76 RU ,76 UHJLRQV WKLV SUREDELOLW\
+becomes astronomically small. Even if the sequences are
+from the same sample or run, the same principle applies, 
+since HTS sequences are generated from independent PCR
+products in separate wells and the repetition of the same
+stochastic sequencing error, including chimeras, in separate
+PCR products and wells is highly unlikely and substantially
+decreases with increasing number of congruent sequences. 
+Ergo, HTS-derived sequence types can be effectively tested, 
+and so can the resulting clades.
+6. Sequence-based types are not relatable
+Thines et al. (2018) again argue that sequence types cannot
+be attached to specimens (which is indeed the essence of
+VOLUME 9 ·  NO. 1 
+ARTICLE 
+191
+Page 8
+Lücking et al.
+ARTICLE
+sequence-based nomenclature) and that therefore other
+characters cannot be assessed, a valid argument but
+essentially repeating points (4) and (5). Sequence-based
+nomenclature needs to be based on the molecular data
+of a single marker in order to work, and this is indeed a
+shortcoming of this approach, acknowledged by Lücking &
+Hawksworth (2018: 146ff). However, this issue relates in
+part to the potential limitations of ITS as a single barcoding
+marker (see also reply to Zamora et al. above), many of
+which are perceived rather than real, as shown in Lücking &
+Hawksworth (2018: 150ff), and do not relate to the use of a
+sequence type per se. While some limitations exist, the gain
+in producing named reference sequences across a broad
+UDQJH RI XQFODVVL¿HG IXQJDO OLQHDJHV VXUHO\ IDU VXUSDVVHV LWV
+problems.
+We do agree with Thines et al. (2018: 179) that: 
+“Presently about 120 000 species are acknowledged, but
+there are more than 400 000 names ... Only a mere fraction
+of the 120 000 accepted species have DNA sequences
+GHSRVLWHG ,I VSHFLHV ZHUH QDPHG EDVHG RQ HQYLURQPHQWDO
+sequences, and they were given the same status as species
+with specimens, the risk would arise that all work done
+EHIRUH WKH ¿UVW '1$ VHTXHQFHV ZHUH GHSRVLWHG LQ *HQ%DQN
+in 1991, would be deliberately ignored.” Since priority only
+applies within the same rank, we have to be concerned with
+approximately 240 000 species level names in Fungi as of
+this date (not 400 000), but this number is still extremely
+high considering that only a fraction, approximately 35 000
+names or 15 %,  have sequence data attached to them
+(Lücking & Hawksworth 2018: 152). This is in our view the
+core problem of sequence-based nomenclature, and Lücking
+& Hawksworth (2018: 152ff) considered this at some length, 
+not only quantifying the problem but also offering solutions, 
+something not acknowledged by Thines et al. (2018). Lücking
+& Hawksworth (2018: 153 Table 2) computed the average
+statistical synonym error rate, i.e. the proportion of new
+VHTXHQFH EDVHG VSHFLHV DFWXDOO\ FRQVSHFL¿F ZLWK SUHYLRXVO\
+established names lacking sequence data, as function of
+predicted overall species richness of Fungi. The proportion
+of inadvertent synonyms among new names based on
+sequences only ranges from about 20 % (assuming 700 000
+fungal species), to about 10 % (assuming 1.5 million), to
+about 5 % (assuming 3 million). If currently there are 240 000
+species level names in fungi, with 120 000 species accepted, 
+and the number of true synonyms among the remaining 120
+000 names ranges between zero and 60 000, the historical
+error rate of inadvertent synonymy lies between 33 % and
+50 %. While a projected synonym error rate in sequence-
+based nomenclature between 5 % and 20 % compares quite
+favorably to the historical error rate based on physical types, 
+this rate is still too high; Lücking & Hawksworth (2018: 153, 
+Box 5) therefore proposed: “For a new species based on a
+sequence type, without a physical voucher specimen, to be
+validly established ... available names in the containing genus
+>PXVW@ KDYH EHHQ OLQNHG WR D SK\ORJHQHWLFDOO\ GH¿QHG DQG
+named clade different from that with the new species ... or
+must have been established as valid species or synonyms in
+RWKHU JHQHUD >,Q DGGLWLRQ@ 1DPHV EDVHG RQ VHTXHQFH W\SHV
+are not given priority over names based on physical types ...,
+XQOHVV ODWHU HSLW\SL¿HG ZLWK D PDWFKLQJ VSHFLPHQ RU FXOWXUH” 
+Finally, Thines et al. (2018: 179) argue that “... sequence
+data do not relate to any real-world object.” This is the same as
+saying that spoors, even if distorted, are not caused by actual
+animals but are artifacts of tracking. The entire community of
+biodiversity researchers, evolutionists, geneticists, etc., may
+hopefully join us in disagreeing with this statement.
+7. Sequences of reported OTUs are derived, 
+not actual sequences
+This is another point based on a misconception. While studies
+based on environmental sequence data often operate with
+cluster-derived OTUs, only in some cases are these reported
+as consensus sequences; in reality, each OTU is the cluster
+of original sequence reads contained therein. Data from
+environmental sequencing studies deposited in the SRA are
+exclusively original reads, not OTU consensus sequences. 
+These reads are as real as Sanger sequences; in fact, HTS
+reads are raw sequences whereas Sanger sequences are
+typically consensus contigs of two or more raw sequences, 
+so the argument of “derived” consensus sequences applies
+more to Sanger sequences than to HTS reads. While we
+agree with the statement that “OTU sequences do not need
+to correspond to an actual sequence found in an organism, 
+as they are derived sequences” (Thines et al. 2018: 180), this
+argument is not pertinent since a DNA sequence type cannot
+be a cluster- or clade-based consensus but must always be
+the actual sequence best representing the clade.
+Since Lücking & Hawksworth (2018) unmistakably
+advocated that clustering methods are inappropriate for
+delimiting sequence-based taxa (see above),  we are
+astonished by the statement that “... it would be unclear
+where to draw boundaries between the different OTUs as
+there will always be the potential for overlap between OTUs if
+they are derived from rather similar sequences.” (Thines et al. 
+2018: 180). The authors apparently ignore the fundamental
+principles of multiple alignment-based phylogenetic analyses
+and quantitative species recognition methods now routinely
+applied to delimit clades, whether based on single or multiple
+markers, methods used by themselves on multiple occasions
+H J 3HUãRK et al. 2009, Thines & Kummer 2013, Choi et
+al. 2015, Liu et al. 2016, Kijpornyongpan & Aime 2017, 
+Hongsanan et al. 2017, Raja et al  5pEORYi et al. 2018).
+8. Sequence-based types favour well-funded
+large mycology labs and leave researchers in
+developing countries behind
+This statement appears to assume that sequence-based
+nomenclature is introduced by the same researchers that
+produce the environmental sequence data. This contradicts
+the statement made on the same page under their point (9):
+“,I LW LV SRVVLEOH WR SXEOLVK QHZ VSHFLHV IURP WKH FRPSXWHU MXVW
+on the basis of a DNA sequence ...”
+Sequence-based nomenclature is essentially a computa-
+tional exercise; it is by no means trivial and requires con-
+siderable skill and understanding, but in terms of logistics, 
+all that is needed is a computer and access to the internet, 
+with freely available software and multi-core servers such
+as CIPRES (Miller et al. 2010), as well as the corresponding
+data repositories (SRA, GenBank). The SRA currently holds
+more than a billion fungal ITS reads (Lücking & Hawksworth
+192  IMA FUNGUS
+Page 9
+Sequence-based nomenclature – a reply to issues raised
+2018: 144) and just analysing these in a solid phylogenetic
+context would keep numerous researchers occupied for quite
+some time without any new environmental sequence data be-
+ing generated. Such analyses can be done in virtually any
+part of the world which, quite to the contrary, gives research-
+ers in less developed countries access to an entirely new di-
+mension of fungal biodiversity research, research that almost
+nobody has been doing to this point, so why keep others from
+doing it?
+9. Allowing sequence-based types would be
+detrimental for mycology as a discipline
+We respectfully disagree. Citing Nilsson et al. (2016),
+Thines et al. (2018: 180) state: “,I WKH DFW RI SXEOLVKLQJ D
+sequence could be seen as the formal act of introducing a
+new species, there is a high risk that interest in the actual
+discovery of the organism would diminish, as the discovery
+of the actual organism would become the equivalent of an
+HSLW\SL¿FDWLRQ ZKLFK ZRXOG SUREDEO\ EH GRQH IRU RQO\ D IHZ
+highly prevalent or interesting organisms.´ :H ¿QG LW GLI¿FXOW
+to follow this argument. If bigfoot would be formally named
+based on its footprints (some authors relate it to the extinct
+ape genus Gigantopithecus,  so it might already have a
+name), people would not stop looking for the creature (even
+if DNA data suggest that its Himalayan counterpart, the yeti, 
+may just be a bear; see Sykes et al. 2014, Gutiérrez et al.
+2015). Also, mycology cannot be reduced to naming things. 
+Fungal nomenclature is a part of mycology, but the essence
+of mycology is elucidating the role of fungi in ecosystems, 
+their impact as pathogens of crops and humans, and their
+innumerable potential applications in food, pharmaceutics, 
+acid and enzyme production, and biological control. None
+of this can be done with sequences; the physical fungus is
+always required, and hence naming sequences is not a threat
+WR DQ\ RWKHU ¿HOG RI P\FRORJ\
+Notably, the authors apparently inadvertently make this
+argument themselves: “Another problematic issue is that if
+sequence data were accepted as type, specimens might be
+seen as obsolete ... This could herald the end of fungaria
+and the decline of culture collections, even though these
+might hold the key for substances of unpredictable value for
+human welfare, such as antibiotics, therapeutically relevant
+metabolites, as well as platform chemicals and enzymes for
+biotechnology.” Since (ITS) sequence data are only useful
+WR GH¿QH FODGHV DQG KROG QR LQIRUPDWLRQ RQ IHDWXUHV RU
+properties, let alone possible importance and applications, 
+there would be no reason or pressure to reduce or eliminate
+fungaria or culture collections. Naming sequences does not
+change the need for having the actual fungus at hand; to the
+contrary, providing a formal nomenclatural framework for
+fungi known only from sequences makes obtaining funding
+for the study of these and assessments of their potential
+properties more likely, especially based on the context in
+which the sequences were detected. With sequence-based
+QRPHQFODWXUH RWKHU ¿HOGV RI P\FRORJ\ ZRXOG QRW VWRS RU
+slow down, but we would not have to wait for centuries until
+a substantial portion of the fungi on Earth has been named.
+We agree that: “There is also the risk that in systems
+where quantity in research is valued higher than quality, 
+massive amounts of names without detailed quality checks 
+ZRXOG EH SXEOLVKHG ÀRRGLQJ IXQJDO QRPHQFODWXUH ZLWK WHQV
+of thousands of meaningless names that would need to be
+sorted out in future decades or centuries.” (Thines et al. 2018: 
+180). Together with the risk of naming species that already
+have a name not attached to a sequence, this is certainly
+the most critical issue of this approach, and therefore we
+advocate strict quality control (e.g. Lücking & Hawksworth
+2018: 156, Box 6). Such quality control can be enforced, and
+while nomenclaturists argue that rules how to perform science
+should not be part of the Code, complementary guidance can
+be agreed and provided by international bodies such as the
+ICTF. We see a viable solution in giving sequence-based
+QDPHV D XQLTXH LGHQWL¿HU VXFK DV D ³nom. seq.´ VXI¿[ see
+above), which are accepted as valid but do not have priority
+over specimen-, culture-, or illustration-based names. Such
+names could then be fully incorporated into the fungal system
+L H UHPRYLQJ WKH VXI¿[ DQG WKH SULRULW\ OLPLWDWLRQ WKURXJK
+WZR PHFKDQLVPV D HSLW\SL¿FDWLRQ ZLWK D SK\VLFDO VSHFLPHQ
+or culture; or (b) periodical evaluation of a list of names by a
+committee operating under the ICTF and applying rigorous
+quality control.
+Interestingly,Thines et al. (2018: 180) also appear to
+argue for some sort of sequence-based nomenclature: “...
+nonmycologists ... often tend to assign the species or genus
+name according to the most similar DNA sequence found in a
+BLAST search. This has led to manifold inaccuracies, which
+has prompted ... to encourage a more accurate treatment
+RI WKH WD[RQRP\ RI WKH VSHFLHV $ '1$ EDVHG W\SL¿FDWLRQ
+would send the wrong signal also to the scientists of other
+communities who, for a correct interpretation of their results, 
+rely on mycologists providing sound species concepts using
+polyphasic methodology.´ 7KH LVVXH LV QRW WKDW LGHQWL¿FDWLRQV
+are naively based on BLAST searches, but that BLAST
+searches increasingly return results such as “uncultured
+IXQJXV´ DQG VLPLODU XQVSHFL¿HG GHVLJQDWLRQV )LJ  ,I WKHVH
+entities do not start to be formally named in some way, the
+problem will intensify exponentially.
+Thines et al. (2018) postulate that mycologists will
+eventually provide “...  sound species concepts using
+polyphasic methodology”, which is certainly a desirable goal, 
+but is not bound to happen within a reasonable time frame, 
+due to the enormous number of fungal species that need to be
+named. Assuming a reasonable time frame of 50 to 100 years
+(Lücking & Hawksworth 2018: 145, Box 1) and a predicted
+number of between 1.5 and 3 million fungal species, the
+current rate of little over 2000 new species per year would have
+to be increased to between 15 000 and 60 000 new species
+per year (Fig. 2). Since 2008, the number of new species
+described each year has increased on average by 100; 
+projecting this increase would result in 7500 new species per
+year by 2068 (50 years) and 12 500 new species per year by
+the year 2118 (100 years). By then, we would have described
+an impressive 757 000 new species and surpassed plants. 
+However, not only would this linear increase not approach
+the minimum rate to describe 1.5 million new species within
+100 years, but it would be unrealistic. The current increase of
+about 100 additional new species per year is largely based
+on more effective approaches to detect and describe new
+fungal species, including an increased number of mycology
+students particularly in tropical regions of the world, such as
+VOLUME 9 ·  NO. 1 
+ARTICLE 
+193
+Page 10
+Lücking et al.
+ARTICLE 
+Fig. 2. Necessary increase in the rate of newly described fungal species per year to reach a certain predicted number within reasonable time
+frames of 50 and 100 years, respectively.
+at the Federal University of Pernambuco in Brazil (https://
+www3.ufpe.br/ppgbf/index.php?option=com_content&view=
+article&id=445&Itemid=246), and the Mushroom Research
+Centre in Thailand (http://www.mushroomresearchcentre.
+com),  and the Key State Laboratory of Mycology in the
+Chinese Academy of Sciences. However, this tendency may
+reach a plateau, because of a lack of posts in mycology for
+WKH HPHUJLQJ VWXGHQWV $OVR P\FRORJ\ DQG RWKHU ¿HOGV DUH
+increasingly shifting towards applied high-tech areas, and
+the support for alpha-taxonomy, biodiversity inventories, 
+and naming organisms can sadly be expected to further
+decrease. We therefore predict that the annual rate of new
+fungal species being described from physical specimens and
+cultures will rise but level off at below 5000 species per year, 
+possibly even below 3000. Of the “50 most wanted fungi” 
+based on environmental sequencing data (Nilsson et al.
+2016), one has been formally described based on cultures
+(James & Seifert 2017, Torres-Cruz et al. 2017), so “... the
+KDUG ZRUN RI ¿QGLQJ DQG GHVFULELQJ WKHVH XQNQRZQV ”
+(James & Seifert 2017: 362) indeed proceeds at a slow pace. 
+However strong the desire may be to name fungi based only
+on physical specimens or cultures, for hundreds of thousands
+to millions of species this is not possible, unless we are
+content to wait several more centuries, when most of the
+habitats potentially yielding new species will have vanished.
+10. An introduction of sequence-based
+nomenclature is impossible at present due to
+the fast pace at which sequencing technologies
+develop
+The development of new technology has shaped fungal
+FODVVL¿FDWLRQV DQG DOO RWKHU ¿HOGV RI VFLHQFH YLUWXDOO\ VLQFH
+the beginning of time, factually since the start of fungal 
+nomenclature in 1753 (Crous et al.  2015).  In no single
+case when new technologies developed, such as the light
+microscope, tools to analyze chemical products, the electron
+PLFURVFRSH DQG ¿QDOO\ '1$ VHTXHQFLQJ WKH P\FRORJLFDO
+FRPPXQLW\ ¿UVW HYDOXDWHG WKH QHZ PHWKRGRORJLHV EHIRUH
+WKH\ VWDUWHG WR EH XVHG DV WRROV LQ WKH IRUPDO FODVVL¿FDWLRQ RI
+fungi. We do not see the reason why this should not be the
+case now. 
+At the start of formal fungal nomenclature, fungi were
+HVVHQWLDOO\ FODVVL¿HG EDVHG RQ WKHLU PRUSKRORJ\ DQG
+substrate ecology (including hosts).Today we know that a
+FODVVL¿FDWLRQ EDVHG RQ D SRO\SKDVLF DSSURDFK LQFOXGLQJ
+molecular data, anatomy, chemistry, morphology, etc. is
+much more robust. Yet, even if we sometimes may wish
+away the additional work required to assess old types and
+protologues, we never seriously considered a provision in the
+Code WKDW IXQJDO QRPHQFODWXUH VKRXOG KDYH VWDUWHG RI¿FLDOO\
+in 1990. Even if we did: molecular sequencing is constantly
+developing, having started with a few selected markers and
+techniques that now seem ancient and obsolete; yet there
+was no movement proposing to wait in formalizing results
+from molecular studies until techniques became more
+advanced. Why now? We cannot help to see this reluctance
+DV EDVHG RQ LUUDWLRQDO IHDU UDWKHU WKDQ VFLHQWL¿F DUJXPHQWV
+Even if we waited for entire genome sequences to be derived
+from environmental DNA, these likely would not result in
+VLJQL¿FDQW DGYDQFHV RYHU VWXGLHV XVLQJ VHOHFWHG PDUNHUV
+rendering the considerable amount of additional resources
+to obtain and analyse genomes from numerous species
+almost futile. Wherever technology will be taking us, the
+bulk of species delimitation studies and environmental meta-
+barcoding approaches will continue to use few, selected
+barcoding markers (e.g. Quaedvlieg et al. 2012). Also, if
+194  IMA FUNGUS
+Page 11
+Sequence-based nomenclature – a reply to issues raised 
+ARTICLE FODGHV DUH FOHDUO\ GH¿QHG DQG VXSSRUWHG EDVHG RQ VLQJOH RU
+few markers, no new technology in the future will essentially
+chance this.
+We agree with Thines et al. (2018: 181) in saying: “At
+present, any such approaches are probably as useful as
+LW KDG EHHQ WR GH¿QH FRPPXQLFDWLRQ VWDQGDUGV IRU FXUUHQW
+PRELOH SKRQHV ZKHQ WKH ¿UVW SRUWDEOH WHOHSKRQHV DSSHDUHG
+in the late 80’s.” Indeed, relating to this analogy: we do not
+propose to set future communication standards, we propose
+to start using portable phones! Why? Because only their
+use, however primitive, fosters their advancement. The
+computational community is already putting substantial
+resources into phylogeny-based analyses of environmental
+sequences that compete with clustering methods in speed
+but far surpass them in accuracy (Berger et al. 2011, Zhang et
+al. 2013, Carbone et al. 2017, Barbera et al. 2018). Allowing
+IRUPDO VHTXHQFH QRPHQFODWXUH ZRXOG VWLPXODWH WKLV ¿HOG LQ
+XQSUHFHGHQWHG ZD\V DQG DOO P\FRORJLVWV ZRXOG SUR¿W IURP
+this.
+PROPOSALS
+In order to progress this issue at IMC11, rather than let it
+drift and be a potential source of confusion and frustration
+for at least another four years, we suggest two alternatives
+EH FRQVLGHUHG DV DPHQGPHQWV IURP WKH ÀRRU RI WKH
+Nomenclature Session:
+(1) In the event of the proposals being accepted, to add the
+following Note to Chapter F of the Code under Art. F.4.2: 
+Note: Sequence-based names are to be registered in one
+RI WKH DSSURYHG UHSRVLWRULHV DQG DOORFDWHG DQ LGHQWL¿HU 
+EXW LQGLFDWHG E\ WKH DGGLWLRQ RI WKH VXI¿[ ³nom. seq.”
+(nomen sequentium)  after the name to indicate the
+special status of those names: Such names have priority
+over other sequence-based names, but do not have
+priority over names based on physical types (including
+FXOWXUHV RU LOOXVWUDWLRQV XQWLO HSLW\SL¿HG E\ D PDWFKLQJ
+specimen or culture or included in a list of protected
+names. 
+(2) In the event of the formal proposals F-005 and F-006
+(Hawksworth et al. 2018) not being accepted, to add the
+following new Note and an Example to Chapter F of the Code 
+under Art. F. 5.5 (which deals with registration matters):
+“Note X: In the case of designations based on molecular
+sequence data where there is no specimen or illustration
+available to serve as a nomenclatural type, the
+designations are to be registered in one of the approved
+UHSRVLWRULHV DQG DOORFDWHG DQ LGHQWL¿HU  EXW ZKHQ
+released after effective publication such designations
+are to have “nom. seq.” (nomen sequentium) appended
+to indicate that the names are effectively published but
+UHPDLQ QRW YDOLGO\ SXEOLVKHG XQWLO W\SL¿HG DV UHTXLUHG E\
+this Code.
+Example X: The designation Hawksworthiomyces
+sequentia de Beer & al. (in Fungal Biology 120: 1332. 
+ ZDV DVVLJQHG WKH LGHQWL¿HU 0% EXW DV LW
+lacks a Code-compliant type it is to be referred to as
+H. sequentia de Beer & al. nom. seq. or H. sequentia 
+nom. seq., but not H. sequentia. The designation would
+remain available for use but not be validly published until
+W\SL¿HG E\ D VSHFLPHQ RU LOOXVWUDWLRQ DQG SULRULW\ ZRXOG
+GDWH IURP WKH ¿QDO DFW RI YDOLGDWLRQ WKH ODWHU W\SL¿FDWLRQ
+Box 2
+Possible topics and guidance that might be included in a Code of Practice on the introduction of
+sequence-based names. 
+In fungal nomenclature, when novel lineages are detected based on environmental (or analogous) sequence
+data alone, without a physical specimen or illustration, designations of new taxa can be formally introduced
+under the following conditions:
+%  Sequence-based names must always be used with the agreed designation indicating their special status, for
+example Neoarchaeorhizomyces nom. seq. and; Neoarchaeorhizomyces paradoxus nom. seq.
+%  Limitations of priority in relation to specimen- and illustration-based names.
+%  Sequence-based names should not be introduced in genera that contain names not linked to
+SK\ORJHQHWLFDOO\ GH¿QHG FODGHV
+%  Registration in the mandated repositories is required.
+%  Sequence-based names should be introduced in accordance with the following protocol: 
+(a) Full ITS as the barcoding marker. 
+(b) Multiple alignment-based phylogenetic analysis in combination with quantitative, single-marker species
+recognition methods; clustering methods with preset similarity thresholds are not allowed. 
+F $ FODGH IRUPDOO\ UHFRJQL]HG DV VSHFLHV PXVW FRQWDLQ DW OHDVW ¿YH VHTXHQFHV IURP ¿YH LQGHSHQGHQW
+VDPSOHV WR EH LGHQWL¿HG E\ WKHLU 65$ VDPSOH DFFHVVLRQ QXPEHUV RU *% DFFHVVLRQ QXPEHUV
+(d) The type sequence is not the clade consensus but the individual sequence best matching the clade
+consensus (to be determined quantitatively using an identify matrix).
+(e) The underlying phylogeny used to establish new species in a given genus should contain all other
+species previously established in the genus.
+VOLUME 9 ·  NO. 1  195
+Page 12
+Lücking et al.
+ARTICLE 
+196 
+The ,QWHUQDWLRQDO &RGH RI 1RPHQFODWXUH IRU DOJDH IXQJL DQG
+plants has always been careful not to make rules relating
+WR WD[RQRPLF SUDFWLFH LQ RUGHU QRW WR FRQVWUDLQ VFLHQWL¿F
+approaches, but we see advantage in having some additional
+guidance available which is provided by the international
+VFLHQWL¿F FRPPXQLW\ DQG LQ WKH FDVH RI IXQJL WKLV FRXOG EH WKH
+ICTF. Such guidance could be on the lines of what is included
+here in Box 2, which would be analogous to Appendix 11 in
+the prokaryote Code.
+ACKNOWLEDGEMENTS
+We appreciate the frank and open contributions to this debate
+provided by many of our mycological colleagues around the world, 
+ZKLFK KDYH DVVLVWHG XV LQ WKH FODUL¿FDWLRQ RI RXU LGHDV DQG WKH
+IRUPXODWLRQ RI WKH PRGL¿HG SURSRVDOV DQG SURYLVLRQV QRZ PDGH
+REFERENCES
+Barbera P, Kozlov AM, Czech L, Morel B, Darriba D, et al. (2018) 
+EPA-ng: massively parallel evolutionary placement of genetic
+sequences. BioRxiv: 291658.
+Berge, SA, Krompass D, Stamatakis A (2011) Performance, 
+accuracy, and web server for evolutionary placement of short
+sequence reads under maximum likelihood. Systematic Biology 
+60: 291–302.
+Carbone I, White JB, Miadlikowska J, Arnold AE, Miller MA et
+al. (2017) T-BAS: Tree-Based Alignment Selector toolkit for
+phylogenetic-based placement, alignment downloads and
+metadata visualization: an example with the Pezizomycotina tree
+of life. Bioinformatics 33: 1160–1168.
+&KHQ - 6DKRWD $ 6WDPEURRN 3- 7LVFK¿HOG -$  3RO\PHUDVH
+FKDLQ UHDFWLRQ DPSOL¿FDWLRQ DQG VHTXHQFH DQDO\VLV RI KXPDQ
+mutant adenine phosphoribosyltransferase genes: the nature
+and frequency of errors caused by Taq DNA polymerase. 
+Mutation Research 31: 169–176.
+Choi YJ, Klosterman SJ, Kummer V, Voglmayr H, Shin HD, Thines
+M (2015) Multi-locus tree and species tree approaches toward
+resolving a complex clade of downy mildews (Straminipila,
+Oomycota), including pathogens of beet and spinach. Molecular
+Phylogenetics and Evolution 86: 24–34.
+Colabella C, Corte L, Roscini L, Bassetti M, Tascini C, et al. (2018) 
+NGS barcode sequencing in taxonomy and diagnostics, an
+application in “Candida” pathogenic yeasts with a metagenomic
+perspectiv. ,0$ )XQJXV 9: 91–105.
+&URXV 3: %UDXQ 8 +XQWHU *& :LQJ¿HOG 0- 9HUNOH\ *-0 et al.
+(2013) Phylogenetic lineages in Pseudocercospora. Studies in
+Mycology 75: 37–114.
+&URXV 3: +DZNVZRUWK '/ :LQJ¿HOG 0-  ,GHQWLI\LQJ DQG
+naming plant pathogenic fungi: past, present, and future. Annual
+Review of Phytopathology 53: 247–267.
+Del-Prado R, Divakar PK, Lumbsch HT, Crespo AM (2016) Hidden
+genetic diversity in an asexually reproducing lichen forming
+fungal group. PloS One 11 (8): e0161031.
+Edgar, RC (2016) UCHIME2: improved chimera prediction for
+amplicon sequencing. bioRxiv: 074252.
+Edgar RC, Haas BJ, Clemente JC, Quince C, Knight R (2011) 
+UCHIME improves sensitivity and speed of chimera detection. 
+Bioinformatics 27: 2194–2200.
+)HUQiQGH]Ʌ0HQGR]D ) 'RPDVFKNH 6 *DUFtD 0$ -RUGDQ 3 0DUWtQ
+MP, Printzen C (2011) Population structure of mycobionts
+and photobionts of the widespread lichen Cetraria aculeata.
+Molecular Ecology 20: 1208–1232.
+Geml J, Laursen GA, O’Neill K, Nusbaum HC, Taylor DL (2006) 
+%HULQJLDQ RULJLQV DQG FU\SWLF VSHFLDWLRQ HYHQWV LQ WKH À\ DJDULF
+(Amanita muscaria). Molecular Ecology 15: 225–239.
+Gomes RR, Glienke C, Videira SIR, Lombard L, Groenewald JZ, 
+Crous PW (2013) Diaporthe: a genus of endophytic, saprobic
+and plant pathogenic fungi. Persoonia 31: 1–41.
+Grube M, Gaya E, Kauserud H, Smith AM, Avery SV, et al. (2017) 
+The next generation fungal diversity researcher. Fungal Biology
+Reviews 31: 124–130.
+Gutiérrez EE, Pine RH (2015) No need to replace an “anomalous” 
+primate (Primates)  with an “anomalous” bear (Carnivora,
+Ursidae). ZooKeys 487: 141–154.
+Harpke D, Peterson A (2008) Extensive 5.8 S nrDNA polymorphism
+in Mammillaria (Cactaceae)  with special reference to the
+LGHQWL¿FDWLRQ RI SVHXGRJHQLF LQWHUQDO WUDQVFULEHG VSDFHU UHJLRQV
+Journal of Plant Research 121: 261–270.
+Hawksworth DL (2017) DNA sequences as types: a potential loophole
+in the rules discovered. ,0$ )XQJXV 8: (4).
+Hawksworth DL, Hibbett DS, Kirk PM, Lücking R (2016) (308–310) 
+Proposals to permit DNA sequence data to serve as types of
+names of Fungi. Taxon 65: 899–900.
+Hawksworth DL, May TW, Redhead SA (2017) Fungal nomenclature
+evolving: changes adopted by the 19th International Botanical
+Congress in Shenzhen 2017, and procedures for the Fungal
+Nomenclature Session at the 11th International Mycological
+Congress in Puerto Rico 2018. ,0$ )XQJXV 8: 211–218.
+Hawksworth DL, Hibbett DS, Kirk PM, Lücking R (2018) (F-005-006) 
+Proposals to permit DNA sequence data to be used as types of
+names of fungi. ,0$ )XQJXV 9: v–vi.
+Hibbett D (2018) More than a handful of dirt: sequence-based species
+description and the role of the ICN (a response to Seifert). ,0$
+Fungus 9: (20)–(22).
+Hibbett D, Abarenkov K, Koljalg U, Öpik M, Chai B, et al. (2016) 
+6HTXHQFH EDVHG FODVVL¿FDWLRQ DQG LGHQWL¿FDWLRQ RI Fungi.
+Mycologia 108: 1049–1068.
+Hongsanan S, Maharachchikumbura SS, Hyde KD, Samarakoon
+MC, Jeewon R, et al.  (2017) An updated phylogeny of
+Sordariomycetes based on phylogenetic and molecular clock
+evidence. Fungal Diversity 84: 25–41.
+James TY, Seifert KA (2017) Description of %L¿JXUDWXV DGHODLGDH:
+The hunt ends for one of the” Top 50 Most Wanted Fungi”.
+Mycologia 109: 361–362.
+James TY, Moncalvo JL, Li S, Vilgalys R (2001) Polymorphism at the
+ribosomal DNA spacers and its relation to breeding structure of
+the widespread mushroom Schizophyllum commune. Genetics 
+157: 149–161.
+Keohavong P, Thilly WG (1989) Fidelity of DNA polymerases in DNA
+DPSOL¿FDWLRQ Proceedings of the National Academy of Sciences, 
+USA 86: 9253–9257.
+Kijpornyongpan T, Aime MC (2017) Taxonomic revisions in the
+Microstromatales: two new yeast species, two new genera, and
+validation of Jaminaea and two Sympodiomycopsis species. 
+Mycological Progress 16: 495–505.
+Kim M, Lee KH, Yoon SW, Kim BS, Chun J, Yi H (2013) Analytical
+tools and databases for metagenomics in the next-generation
+IMA FUNGUS
+Page 13
+Sequence-based nomenclature – a reply to issues raised
+sequencing era. *HQRPLFV ,QIRUPDWLFV 11: 102–113.
+Kirk PM (2012) Nomenclatural novelties. ,QGH[ RI )XQJL 1: 1.
+Kõljalg U, Nilsson RH, Abarenkov K, Tedersoo L, Taylor AF, et
+al.  7RZDUGV D XQL¿HG SDUDGLJP IRU VHTXHQFHɅbased
+LGHQWL¿FDWLRQ RI Fungi. Molecular Ecology 22: 5271–5277.
+Li Y, Jiao L, Yao YJ (2013) Non-concerted ITS evolution in Fungi, as
+revealed from the important medicinal fungus Ophiocordyceps
+sinensis. Molecular Phylogenetics and Evolution 68: 373–379.
+Lindner DL, Banik MT (2011) Intragenomic variation in the ITS
+U'1$ UHJLRQ REVFXUHV SK\ORJHQHWLF UHODWLRQVKLSV DQG LQÀDWHV
+estimates of operational taxonomic units in the genus Laetiporus.
+Mycologia 103: 731–740.
+Lindner DL, Carlsen T, Nilsson HR, Davey M, Schumacher T, 
+Kauserud H (2013) Employing 454 amplicon pyrosequencing to
+reveal intragenomic divergence in the internal transcribed spacer
+rDNA region in Fungi. Ecology and Evolution 3: 1751–1764.
+Liu F, Wang M, Damm U, Crous PW, Cai L (2016) Species boundaries
+in plant pathogenic fungi: a Colletotrichum case study. BMC
+Evolutionary Biology 16: 81.
+Lücking R, Hawksworth DL (2018) Formal description of sequence-
+based voucherless Fungi: promises and pitfalls, and how to
+resolve them. ,0$ )XQJXV 9: 143–166.
+Lücking R, Moncada B (2017) Dismantling Marchandiomphalina 
+into Agonimia (Verrucariaceae) and Lawreymyces gen. nov. 
+(Corticiaceae):  setting a precedent to the formal recognition
+of thousands of voucherless Fungi based on type sequences. 
+Fungal Diversity 84: 119–138.
+Lücking R, Nelsen MP (2018) Ediacarans, protolichens, and lichen-
+derived Penicillium: a critical reassessment of the evolution of
+lichenization in fungi. In Transformative Paleobotany (Krings M
+et al. (eds.): in press. Amsterdam: Elsevier.
+Lücking R, Dal Forno M, Sikaroodi M, Gillevet PM, Bungartz F, 
+et al.  (2014a) A single macrolichen constitutes hundreds of
+unrecognized species. Proceedings of the National Academy of
+Sciences, USA 111: 11091–11096.
+Lücking R, Lawrey JD, Gillevet PM, Sikaroodi M, Dal Forno M, 
+Berger SA (2014b) Multiple ITS haplotypes in the genome of the
+lichenized basidiomycete Cora inversa (Hygrophoraceae): fact
+or artifact? Journal of Molecular Evolution 78: 148–162.
+Lücking R, Dal Forno M, Moncada B, Coca LF, Vargas-Mendoza LY, 
+et al. (2017) Turbo-taxonomy to assemble a megadiverse lichen
+genus: seventy new species of Cora (Basidiomycota: Agaricales:
+Hygrophoraceae), honouring David Leslie Hawksworth’s seven-
+tieth birthday. Fungal Diversity 84: 139–207.
+Mark K, Saag L, Leavitt SD, Will-Wolf S, Nelsen MP, et al. (2016) 
+Evaluation of traditionally circumscribed species in the
+lichen-forming genus Usnea,  section Usnea (Parmeliaceae,
+Ascomycota) using a six-locus dataset. Organisms, Diversity &
+Evolution 16: 497–524.
+Miller MA, Pfeiffer W, Schwartz T(2010) Creating the CIPRES Science
+Gateway for inference of large phylogenetic trees. Proceedings
+of the Gateway Computing Environments Workshop (GCE): 1–8. 
+New Orleans.
+0RQFDGD % /FNLQJ 5 6XiUH] $  0ROHFXODU SK\ORJHQ\ RI WKH
+genus Sticta (lichenized Ascomycota: Lobariaceae) in Colombia. 
+Fungal Diversity 64: 205–231.
+Mysara M, Saeys Y, Leys N, Raes J, Monsieurs P (2015) CATCh, 
+DQ HQVHPEOH FODVVL¿HU IRU FKLPHUD GHWHFWLRQ LQ 6 U51$
+sequencing studies. Applied and Environmental Microbiology 
+81:1573–1584. 
+Nilsson RH, Wurzbacher C, Bahram M, Coimbra VR, Larsson E, et
+al. (2016) Top 50 most wanted fungi. MycoKeys 12: 29–40.
+O’Donnell K, Cigelnik E (1997) Two divergent intragenomic rDNA ITS2
+types within a monophyletic lineage of the fungus Fusarium are
+nonorthologous. Molecular Phylogenetics and Evolution 7: 103–116.
+O’Donnell K, Ward TJ, Robert VARG, Crous PW, Geiser DM, Kang S
+ '1$ VHTXHQFH EDVHG LGHQWL¿FDWLRQ RI Fusarium: current
+status and future directions. Phytoparasitica 43: 583–595.
+2QXĠɅBrännström I, Tibell L, Johannesson H ( 2017) A worldwide
+phylogeography of the whiteworm lichens Thamnolia reveals
+three lineages with distinct habitats and evolutionary histories. 
+Ecology and Rvolution 7: 3602–3615.
+Parker CT, Tindall BJ, Garrity GM (2015) International Code of
+Nomenclature of Prokaryotes. ,QWHUQDWLRQDO -RXUQDO RI 6\VWHPDWLF
+and Evolutionary Microbiology: DOI 10.1099/ijsem.0.000778.
+3HUãRK ' 0HOFKHU 0 *UDI . )RXUQLHU - 6WDGOHU 0 5DPEROG *
+(2009) Molecular and morphological evidence for the delimitation
+of Xylaria hypoxylon. Mycologia 101: 256–268.
+Porazinska DL, Giblin-Davis RM, Sung W, Thomas WK (2012) The
+nature and frequency of chimeras in eukaryotic metagenetic
+samples. Journal of Nematology 44: 18–25.
+4XDHGYOLHJ : *URHQHZDOG -= GH -HV~V <ixH]0RUDOHV 0 &URXV
+PW (2012) DNA barcoding of Mycosphaerella species of
+quarantine importance to Europe. Persoonia 29: 101–115.
+Quince C, Lanzen A, Davenport RJ, Turnbaugh PJ (2011) Removing
+noise from pyrosequenced amplicons. BMC Bioinformatics 12: 38.
+Raja HA, Miller AN, Pearce CJ, Oberlies NH (2017) Fungal
+LGHQWL¿FDWLRQ XVLQJ PROHFXODU WRROV D SULPHU IRU WKH QDWXUDO
+products research community. Journal of Natural Products 80:
+756–770.
+5pEORYi 0 0LOOHU $1 5pEORYi . âWČSiQHN 9  3K\ORJHQHWLF
+FODVVL¿FDWLRQ DQG JHQHULF GHOLQHDWLRQ RI Calyptosphaeria 
+gen. nov., Lentomitella, Spadicoides, Torrentispora and other
+morphologically similar fungi based on a six-locus dataset
+(Sordariomycetes). Studies in Mycology 89: 1–62.
+Richard F, Bellanger JM, Clowez P, Hansen K, O’Donnell K, et al.
+(2015) True morels (Morchella, Pezizales) of Europe and North
+America: evolutionary relationships inferred from multilocus data
+DQG D XQL¿HG WD[RQRP\ Mycologia 107: 359–382.
+Rosling A, Cox F, Cruz-Martinez K, Ihrmark K, Grelet GA, et al. (2011) 
+Archaeorhizomycetes: unearthing an ancient class of ubiquitous
+soil Fungi. Science 333: 876–879.
+Roy BA, Vogler DR, Bruns TD, Szaro TM (1998) Cryptic species in
+the Puccinia monoica complex. Mycologia 90: 846–853.
+Ryberg M, Nilsson RH (2018) New light on names and naming of
+dark taxa. MycoKeys 30: 31–39.
+Samson RA, Visagie CM, Houbraken J, Hong SB, Hubka V, et al.
+ 3K\ORJHQ\ LGHQWL¿FDWLRQ DQG QRPHQFODWXUH RI WKH JHQXV
+Aspergillus. Studies in Mycology 78: 141–173.
+Schloss PD, Gevers D, Westcott SL (2011) Reducing the effects of
+3&5 DPSOL¿FDWLRQ DQG VHTXHQFLQJ DUWLIDFWV RQ 6 U51$EDVHG
+studies. PloS One 6 (12): e27310.
+Schoch CL, Robbertse B, Robert V, Vu D, Cardinali G, et al. (2014).
+)LQGLQJ QHHGOHV LQ KD\VWDFNV OLQNLQJ VFLHQWL¿F QDPHV UHIHUHQFH
+specimens and molecular data for Fungi. Database 2014: 1–21.
+Seifert KA (2017) When should we describe species? ,0$ )XQJXV 
+8: (37)–(39).
+Simmons DR, Longcore JE (2012) Thoreauomyces gen. 
+nov.,  Fimicolochytrium gen. nov. and additional species in
+Geranomyces. Mycologia 104: 1229–1243.
+VOLUME 9 ·  NO. 1 
+ARTICLE 
+197
+Page 14
+ARTICLE
+Lücking et al.
+Stadler M, Læssøe T, Fournier J, Decock C, Schmieschek B, et
+al. (2014a) A polyphasic taxonomy of Daldinia (Xylariaceae).
+Studies in Mycology 77: 1–143.
+Stadler M, Hawksworth DL, Fournier J (2014b) The application of
+the name Xylaria hypoxylon, based on Clavaria hypoxylon of
+Linnaeus. ,0$ )XQJXV 5: 57–66.
+Sykes BC, Mullis RA, Hagenmuller C, Melton TW, Sartori M (2014) 
+Genetic analysis of hair samples attributed to yeti, bigfoot and
+other anomalous primates. Proceedings of the Royal Society of
+London B 281: 20140161.
+Thines M, Crous PW, Aime MC, Aoki T, Cai L, et al. (2018) Ten
+reasons why a sequence-based nomenclature is not useful for
+fungi anytime soon. ,0$ )XQJXV 8: 177–183.
+Thines M, Kummer V (2013) Diversity and species boundaries in
+ÀRULFRORXV GRZQ\ PLOGHZV Mycological Progress 12: 321–329.
+Torres-Cruz TJ, Billingsley Tobias TL, Almatruk M, Hesse C, Kuske
+CR, et al. (2017) %L¿JXUDWXV DGHODLGDH gen. et sp. nov., a new
+member of Mucoromycotina with endophytic and soil-dwelling
+habitats. Mycologia 109:363–378.
+Turland NJ, Wiersema JH, Barrie FR, Greuter W, Hawksworth DL, 
+et al. (2018) ,QWHUQDWLRQDO &RGH RI 1RPHQFODWXUH IRU DOJDH 
+fungi, and plants (Shenzhen Code) adopted by the Nineteenth
+,QWHUQDWLRQDO %RWDQLFDO &RQJUHVV 6KHQ]KHQ &KLQD -XO\ .
+[Regnum Vegetabile no. 159.] Oberreifenberg: Koeltz Botanical
+Books.
+Visagie CM, Houbraken J, Frisvad JC, Hong SB, Klaassen CHW, 
+et al   ,GHQWL¿FDWLRQ DQG QRPHQFODWXUH RI WKH JHQXV
+Penicillium. Studies in Mycology 78: 343–371.
+:DOWKHU *  3DZáRZVND -  $ODVWUXH\,]TXLHUGR $  :U]RVHN 0
+Rodriguez-Tudela JL, et al. (2013) DNA barcoding in Mucorales:
+an inventory of biodiversity. Persoonia 30: 11–47.
+Weir BS, Johnston PR, Damm U (2012) The Colletotrichum gloeo-
+sporioides species complex. Studies in Mycology 73: 115–180.
+Won H, Renner SS (2005) The internal transcribed spacer of
+nuclear ribosomal DNA in the gymnosperm Gnetum. Molecular
+Phylogenetics and Evolution 36: 581–597.
+Zamora JC, Svensson M, Kirschner R, Olariaga I, Ryman S, et
+al. (2018) Considerations and consequences of allowing DNA
+sequence data as types of fungal taxa. ,0$ )XQJXV 9: 167–175.
+Zhang J, Kapli P, Pavlidis P, Stamatakis A (2013) A general species
+delimitation method with applications to phylogenetic placements. 
+Bioinformatics 29: 2869–2876.
+198  IMA FUNGUS

@@ -1,0 +1,517 @@
+Page 1
+Calculus of variations
+The calculus of variations is a field of [URL: "https://en.wikipedia.org/wiki/Mathematical_analysis"] mathematical analysis that uses variations, which are small changes in functions and functionals, to find maxima and
+minima of functionals: [URL: "https://en.wikipedia.org/wiki/Map_(mathematics)"] mappings from a set of [URL: "https://en.wikipedia.org/wiki/Function_(mathematics)"] functions to the [URL: "https://en.wikipedia.org/wiki/Real_number"] real numbers.[a] Functionals are often expressed as [URL: "https://en.wikipedia.org/wiki/Definite_integral"] definite integrals involving functions and their
+derivatives. Functions that maximize or minimize functionals may be found using the [URL: "https://en.wikipedia.org/wiki/Euler%E2%80%93Lagrange_equation"] Euler–Lagrange equation of the calculus of variations.
+A simple example of such a problem is to find the curve of shortest length connecting two points. If there are no constraints, the solution is a [URL: "https://en.wikipedia.org/wiki/Straight_line"] straight line between
+the points. However, if the curve is constrained to lie on a surface in space, then the solution is less obvious, and possibly many solutions may exist. Such solutions
+are known as [URL: "https://en.wikipedia.org/wiki/Geodesic"] geodesics. A related problem is posed by [URL: "https://en.wikipedia.org/wiki/Fermat%27s_principle"] Fermat's principle: light follows the path of shortest [URL: "https://en.wikipedia.org/wiki/Optical_length"] optical length connecting two points, which depends
+upon the material of the medium. One corresponding concept in [URL: "https://en.wikipedia.org/wiki/Mechanics"] mechanics is the [URL: "https://en.wikipedia.org/wiki/Principle_of_least_action"] principle of least/stationary action.
+Many important problems involve functions of several variables. Solutions of [URL: "https://en.wikipedia.org/wiki/Boundary_value_problem"] boundary value problems for the [URL: "https://en.wikipedia.org/wiki/Laplace_equation"] Laplace equation satisfy the [URL: "https://en.wikipedia.org/wiki/Dirichlet%27s_principle"] Dirichlet's principle.
+ Plateau's problem requires finding a surface of minimal area that spans a given contour in space: a solution can often be found by dipping a frame in a solution of
+soap suds. Although such experiments are relatively easy to perform, their mathematical interpretation is far from simple: there may be more than one locally
+minimizing surface, and they may have non-trivial topology.
+Contents
+History
+Extrema
+Euler–Lagrange equation
+Example
+Beltrami's identity
+Euler–Poisson equation
+Du Bois-Reymond's theorem
+Lavrentiev phenomenon
+Functions of several variables
+Dirichlet's principle
+Generalization to other boundary value problems
+Eigenvalue problems
+Sturm–Liouville problems
+Eigenvalue problems in several dimensions
+Applications
+Optics
+Snell's law
+Fermat's principle in three dimensions
+Connection with the wave equation
+Mechanics
+Further applications
+Variations and sufficient condition for a minimum
+See also
+Notes
+References
+Further reading
+External links
+History
+The calculus of variations may be said to begin with [URL: "https://en.wikipedia.org/wiki/Newton%27s_minimal_resistance_problem"] Newton's minimal resistance problem in 1687, followed by the [URL: "https://en.wikipedia.org/wiki/Brachistochrone_curve"] brachistochrone curve problem raised by
+ Johann Bernoulli (1696).[2] It immediately occupied the attention of [URL: "https://en.wikipedia.org/wiki/Jakob_Bernoulli"] Jakob Bernoulli and the [URL: "https://en.wikipedia.org/wiki/Guillaume_de_l%27H%C3%B4pital"] Marquis de l'Hôpital, but [URL: "https://en.wikipedia.org/wiki/Leonhard_Euler"] Leonhard Euler first elaborated the subject,
+beginning in 1733. [URL: "https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange"] Lagrange was influenced by Euler's work to contribute significantly to the theory. After Euler saw the 1755 work of the 19-year-old Lagrange,
+Euler dropped his own partly geometric approach in favor of Lagrange's purely analytic approach and renamed the subject the calculus of variations in his 1756
+lecture  Elementa  Calculi
+Variationum.[3][4][URL: "https://en.wikipedia.org/wiki/Calculus_of_variations#endnote_%22Euler_waited_until_Lagrange_had_published_on_the_subject_in_1762_..._before_he_committed_his_lecture_..._to_print,_so_as_not_to_rob_Lagrange_of_his_glory._Indeed,_it_was_only_Lagrange's_method_that_Euler_called_Calculus_of_Variations.%22"] [1] (https://en.wikipedia.org/wiki/Calculus_of_variations#endnote_%22Euler_waited_until_Lagrange_had_published_on_the_subject_in_1762_..._before_he_committe
+ Legendre (1786) laid down a method, not entirely satisfactory, for the discrimination of maxima and minima. [URL: "https://en.wikipedia.org/wiki/Isaac_Newton"] Isaac Newton and [URL: "https://en.wikipedia.org/wiki/Gottfried_Leibniz"] Gottfried Leibniz also gave some
+early attention to the subject.[5] To this discrimination [URL: "https://en.wikipedia.org/wiki/Vincenzo_Brunacci"] Vincenzo Brunacci (1810), [URL: "https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss"] Carl Friedrich Gauss (1829), [URL: "https://en.wikipedia.org/wiki/Sim%C3%A9on_Poisson"] Siméon Poisson (1831), [URL: "https://en.wikipedia.org/wiki/Mikhail_Ostrogradsky"] Mikhail Ostrogradsky
+(1834), and [URL: "https://en.wikipedia.org/wiki/Carl_Gustav_Jakob_Jacobi"] Carl Jacobi (1837) have been among the contributors. An important general work is that of [URL: "https://en.wikipedia.org/wiki/Pierre_Fr%C3%A9d%C3%A9ric_Sarrus"] Sarrus (1842) which was condensed and improved by
+ Cauchy (1844). Other valuable treatises and memoirs have been written by [URL: "https://en.wikipedia.org/wiki/Strauch"] Strauch (1849), [URL: "https://en.wikipedia.org/wiki/John_Hewitt_Jellett"] Jellett (1850), [URL: "https://en.wikipedia.org/wiki/Otto_Hesse"] Otto Hesse (1857), [URL: "https://en.wikipedia.org/wiki/Alfred_Clebsch"] Alfred Clebsch (1858), and Lewis
+Buffett Carll (1885), but perhaps the most important work of the century is that of Weierstrass. His celebrated course on the theory is epoch-making, and it may be
+asserted that he was the first to place it on a firm and unquestionable foundation. The [URL: "https://en.wikipedia.org/wiki/Hilbert%27s_twentieth_problem"] 20th and the [URL: "https://en.wikipedia.org/wiki/Hilbert%27s_twenty-third_problem"] 23rd [URL: "https://en.wikipedia.org/wiki/Hilbert_problems"] Hilbert problem published in 1900 encouraged further
+development.[5]
+Page 2
+In the 20th century [URL: "https://en.wikipedia.org/wiki/David_Hilbert"] David Hilbert, [URL: "https://en.wikipedia.org/wiki/Oskar_Bolza"] Oskar Bolza, [URL: "https://en.wikipedia.org/wiki/Gilbert_Ames_Bliss"] Gilbert Ames Bliss, [URL: "https://en.wikipedia.org/wiki/Emmy_Noether"] Emmy Noether, [URL: "https://en.wikipedia.org/wiki/Leonida_Tonelli"] Leonida Tonelli, [URL: "https://en.wikipedia.org/wiki/Henri_Lebesgue"] Henri Lebesgue and [URL: "https://en.wikipedia.org/wiki/Jacques_Hadamard"] Jacques Hadamard among others made
+significant contributions.[5] [URL: "https://en.wikipedia.org/wiki/Marston_Morse"] Marston Morse applied calculus of variations in what is now called [URL: "https://en.wikipedia.org/wiki/Morse_theory"] Morse theory.[6] [URL: "https://en.wikipedia.org/wiki/Lev_Pontryagin"] Lev Pontryagin, [URL: "https://en.wikipedia.org/wiki/R._Tyrrell_Rockafellar"] Ralph Rockafellar and F. H.
+Clarke developed new mathematical tools for the calculus of variations in [URL: "https://en.wikipedia.org/wiki/Optimal_control_theory"] optimal control theory.[6] The [URL: "https://en.wikipedia.org/wiki/Dynamic_programming"] dynamic programming of [URL: "https://en.wikipedia.org/wiki/Richard_Bellman"] Richard Bellman is an
+alternative to the calculus of variations.[7][8][9][b]
+Extrema
+The calculus of variations is concerned with the maxima or minima (collectively called extrema) of functionals. A functional maps [URL: "https://en.wikipedia.org/wiki/Function_(mathematics)"] functions to scalars, so
+functionals have been described as "functions of functions." Functionals have extrema with respect to the elements of a given [URL: "https://en.wikipedia.org/wiki/Function_space"] function space defined over a
+given domain. A functional is said to have an extremum at the function if  has the same [URL: "https://en.wikipedia.org/wiki/Sign_(mathematics)"] sign for all in an arbitrarily small
+neighborhood of [c] The function is called an extremal function or extremal.[d] The extremum is called a local maximum if  everywhere in an
+arbitrarily small neighborhood of and a local minimum if  there. For a function space of continuous functions, extrema of corresponding functionals are
+called strong extrema or weak extrema, depending on whether the first derivatives of the continuous functions are respectively all continuous or not.[11]
+Both strong and weak extrema of functionals are for a space of continuous functions but strong extrema have the additional requirement that the first derivatives of
+the functions in the space be continuous. Thus a strong extremum is also a weak extremum, but the [URL: "https://en.wikipedia.org/wiki/Converse_(logic)"] converse may not hold. Finding strong extrema is more
+difficult than finding weak extrema.[12] An example of a [URL: "https://en.wikipedia.org/wiki/Necessity_and_sufficiency"] necessary condition that is used for finding weak extrema is the [URL: "https://en.wikipedia.org/wiki/Euler%E2%80%93Lagrange_equation"] Euler–Lagrange equation.[13][e]
+Euler–Lagrange equation
+Finding the extrema of functionals is similar to finding the maxima and minima of functions. The maxima and minima of a function may be located by finding the
+points where its derivative vanishes (i.e., is equal to zero). The extrema of functionals may be obtained by finding functions for which the [URL: "https://en.wikipedia.org/wiki/Functional_derivative"] functional derivative is
+equal to zero. This leads to solving the associated [URL: "https://en.wikipedia.org/wiki/Euler%E2%80%93Lagrange_equation"] Euler–Lagrange equation.[f]
+Consider the functional
+where 
+are constants,
+is twice continuously differentiable,
+is twice continuously differentiable with respect to its arguments and
+If the functional attains a [URL: "https://en.wikipedia.org/wiki/Local_minimum"] local minimum at and
+for any number close to 0, 
+is an arbitrary function that has at least one derivative and vanishes at the endpoints and then
+The term is called the variation of the function and is denoted by [1][g]
+Substituting for in the functional the result is a function of
+Since the functional has a minimum for  the function has a minimum at  and thus,[h]
+Taking the [URL: "https://en.wikipedia.org/wiki/Total_derivative"] total derivative of  where  and  are considered as functions of rather than yields
+and because and
+Therefore,
+Page 3
+where  when and we have used [URL: "https://en.wikipedia.org/wiki/Integration_by_parts"] integration by parts on the second term. The second term on the second line vanishes because
+at  and by definition. Also, as previously mentioned the left side of the equation is zero so that
+According to the [URL: "https://en.wikipedia.org/wiki/Fundamental_lemma_of_calculus_of_variations"] fundamental lemma of calculus of variations, the part of the integrand in parentheses is zero, i.e.
+which is called the Euler–Lagrange equation. The left hand side of this equation is called the [URL: "https://en.wikipedia.org/wiki/Functional_derivative"] functional derivative of  and is denoted
+In general this gives a second-order [URL: "https://en.wikipedia.org/wiki/Ordinary_differential_equation"] ordinary differential equation which can be solved to obtain the extremal function The Euler–Lagrange equation is a
+necessary, but not sufficient, condition for an extremum A sufficient condition for a minimum is given in the section Variations and sufficient condition for a
+minimum.
+Example
+In order to illustrate this process, consider the problem of finding the extremal function
+and  The [URL: "https://en.wikipedia.org/wiki/Arc_length"] arc length of the curve is given by 
+which is the shortest curve that connects two points
+with
+Note that assuming y is a function of x loses generality; ideally both should be a function of some other parameter. This approach is good solely for instructive
+purposes.
+The Euler–Lagrange equation will now be used to find the extremal function that minimizes the functional
+with
+Since does not appear explicitly in  the first term in the Euler–Lagrange equation vanishes for all  and thus,
+Substituting for and taking the derivative,
+Thus
+for some constant Then
+where
+Page 4
+Solving, we get
+which implies that
+is a constant and therefore that the shortest curve that connects two points and  is
+and we have thus found the extremal function that minimizes the functional
+other words, the shortest distance between two points is a straight line.[i] 
+so that is a minimum. The equation for a straight line is  In
+Beltrami's identity
+In physics problems it may be the case that  meaning the integrand is a function of
+Euler–Lagrange equation can be simplified to the [URL: "https://en.wikipedia.org/wiki/Beltrami_identity"] Beltrami identity[16] 
+and  but does not appear separately. In that case, the
+where is a constant. The left hand side is the [URL: "https://en.wikipedia.org/wiki/Legendre_transformation"] Legendre transformation of with respect to
+ The intuition behind this result is that, if the variable is actually time, then the statement implies that the Lagrangian is time-independent. By Noether's
+theorem, there is an associated conserved quantity. In this case, this quantity is the Hamiltonian, the Legendre transform of the Lagrangian, which (often) coincides
+with the energy of the system. This is (minus) the constant in Beltrami's identity.
+Euler–Poisson equation
+If depends on higher-derivatives of  that is, if
+then must satisfy the Euler–[URL: "https://en.wikipedia.org/wiki/Sim%C3%A9on_Denis_Poisson"] Poisson equation,[17]
+Du Bois-Reymond's theorem
+The discussion thus far has assumed that extremal functions possess two continuous derivatives, although the existence of the integral requires only first
+derivatives of trial functions. The condition that the first variation vanishes at an extremal may be regarded as a weak form of the Euler–Lagrange equation. The
+theorem of Du Bois-Reymond asserts that this weak form implies the strong form. If  has continuous first and second derivatives with respect to all of its
+arguments, and if
+then has two continuous derivatives, and it satisfies the Euler–Lagrange equation.
+Lavrentiev phenomenon
+Hilbert was the first to give good conditions for the Euler–Lagrange equations to give a stationary solution. Within a convex area and a positive thrice
+differentiable Lagrangian the solutions are composed of a countable collection of sections that either go along the boundary or satisfy the Euler–Lagrange
+equations in the interior.
+However [URL: "https://en.wikipedia.org/wiki/Mikhail_Lavrentyev"] Lavrentiev in 1926 showed that there are circumstances where there is no optimum solution but one can be approached arbitrarily closely by increasing
+numbers of sections. The Lavrentiev Phenomenon identifies a difference in the infimum of a minimization problem across different classes of admissible functions.
+For instance the following problem, presented by Manià in 1934:[18]
+Page 5
+Clearly, minimizes the functional, but we find any function gives a value bounded away from the infimum.
+Examples (in one-dimension) are traditionally manifested across and  but Ball and Mizel[19] procured the first functional that displayed Lavrentiev's
+Phenomenon across and for  There are several results that gives criteria under which the phenomenon does not occur - for instance
+'standard growth', a Lagrangian with no dependence on the second variable, or an approximating sequence satisfying Cesari's Condition (D) - but results are often
+particular, and applicable to a small class of functionals.
+Connected with the Lavrentiev Phenomenon is the repulsion property: any functional displaying Lavrentiev's Phenomenon will display the weak repulsion
+property.[20]
+Functions of several variables
+For example, if  denotes the displacement of a membrane above the domain in the plane, then its potential energy is proportional to its surface area:
+ Plateau's problem consists of finding a function that minimizes the surface area while assuming prescribed values on the boundary of ; the solutions are called
+minimal surfaces. The Euler–Lagrange equation for this problem is nonlinear:
+See Courant (1950) for details.
+Dirichlet's principle
+It is often sufficient to consider only small displacements of the membrane, whose energy difference from no displacement is approximated by
+The functional is to be minimized among all trial functions that assume prescribed values on the boundary of If is the minimizing function and is an
+arbitrary smooth function that vanishes on the boundary of then the first variation of  must vanish:
+Provided that u has two derivatives, we may apply the divergence theorem to obtain
+where is the boundary of
+result is 
+is arclength along and  is the normal derivative of on Since vanishes on and the first variation vanishes, the
+for all smooth functions v that vanish on the boundary of The proof for the case of one dimensional integrals may be adapted to this case to show that
+in
+The difficulty with this reasoning is the assumption that the minimizing function u must have two derivatives. Riemann argued that the existence of a smooth
+minimizing function was assured by the connection with the physical problem: membranes do indeed assume configurations with minimal potential energy.
+Riemann named this idea the [URL: "https://en.wikipedia.org/wiki/Dirichlet_principle"] Dirichlet principle in honor of his teacher [URL: "https://en.wikipedia.org/wiki/Peter_Gustav_Lejeune_Dirichlet"] Peter Gustav Lejeune Dirichlet. However Weierstrass gave an example of a variational
+problem with no solution: minimize
+among all functions that satisfy  and    can be made arbitrarily small by choosing piecewise linear functions that make a transition
+between −1 and 1 in a small neighborhood of the origin. However, there is no function that makes [j] Eventually it was shown that Dirichlet's principle is
+valid, but it requires a sophisticated application of the regularity theory for [URL: "https://en.wikipedia.org/wiki/Elliptic_partial_differential_equation"] elliptic partial differential equations; see Jost and Li–Jost (1998).
+Generalization to other boundary value problems
+A more general expression for the potential energy of a membrane is
+Page 6
+This corresponds to an external force density in  an external force on the boundary and elastic forces with modulus acting on The
+function that minimizes the potential energy with no restriction on its boundary values will be denoted by Provided that and are continuous, regularity
+theory implies that the minimizing function will have two derivatives. In taking the first variation, no boundary condition need be imposed on the increment
+The first variation of  is given by
+If we apply the divergence theorem, the result is
+If we first set  on the boundary integral vanishes, and we conclude as before that
+in  Then if we allow to assume arbitrary boundary values, this implies that must satisfy the boundary condition
+on This boundary condition is a consequence of the minimizing property of : it is not imposed beforehand. Such conditions are called natural boundary
+conditions.
+The preceding reasoning is not valid if vanishes identically on In such a case, we could allow a trial function
+function, 
+where is a constant. For such a trial
+By appropriate choice of  can assume any value unless the quantity inside the brackets vanishes. Therefore, the variational problem is meaningless unless
+This condition implies that net external forces on the system are in equilibrium. If these forces are in equilibrium, then the variational problem has a solution, but it
+is not unique, since an arbitrary constant may be added. Further details and examples are in Courant and Hilbert (1953).
+Eigenvalue problems
+Both one-dimensional and multi-dimensional eigenvalue problems can be formulated as variational problems.
+Sturm–Liouville problems
+The Sturm–Liouville eigenvalue problem involves a general quadratic form
+where is restricted to functions that satisfy the boundary conditions
+Let be a normalization integral
+The functions and are required to be everywhere positive and bounded away from zero. The primary variational problem is to minimize the ratio
+among all satisfying the endpoint conditions. It is shown below that the Euler–Lagrange equation for the minimizing is
+where is the quotient
+It can be shown (see Gelfand and Fomin 1963) that the minimizing has two derivatives and satisfies the Euler–Lagrange equation. The associated will be
+denoted by ; it is the lowest eigenvalue for this equation and boundary conditions. The associated minimizing function will be denoted by  This
+variational characterization of eigenvalues leads to the [URL: "https://en.wikipedia.org/wiki/Rayleigh%E2%80%93Ritz_method"] Rayleigh–Ritz method: choose an approximating as a linear combination of basis functions (for example
+trigonometric functions) and carry out a finite-dimensional minimization among such linear combinations. This method is often surprisingly accurate.
+The next smallest eigenvalue and eigenfunction can be obtained by minimizing under the additional constraint
+This procedure can be extended to obtain the complete sequence of eigenvalues and eigenfunctions for the problem.
+Page 7
+The variational problem also applies to more general boundary conditions. Instead of requiring that vanish at the endpoints, we may not impose any condition at
+the endpoints, and set
+where and are arbitrary. If we set  the first variation for the ratio is
+where λ is given by the ratio  as previously.After integration by parts,
+If we first require that vanish at the endpoints, the first variation will vanish for all such only if
+If satisfies this condition, then the first variation will vanish for arbitrary only if
+These latter conditions are the natural boundary conditions for this problem, since they are not imposed on trial functions for the minimization, but are instead a
+consequence of the minimization.
+Eigenvalue problems in several dimensions
+Eigenvalue problems in higher dimensions are defined in analogy with the one-dimensional case. For example, given a domain with boundary in three
+dimensions we may define
+and
+Let be the function that minimizes the quotient
+where 
+with no condition prescribed on the boundary The Euler–Lagrange equation satisfied by is
+The minimizing must also satisfy the natural boundary condition
+on the boundary This result depends upon the regularity theory for elliptic partial differential equations; see Jost and Li–Jost (1998) for details. Many
+extensions, including completeness results, asymptotic properties of the eigenvalues and results concerning the nodes of the eigenfunctions are in Courant and
+Hilbert (1953).
+Applications
+Optics
+[URL: "https://en.wikipedia.org/wiki/Fermat%27s_principle"] Fermat's principle states that light takes a path that (locally) minimizes the optical length between its endpoints. If the -coordinate is chosen as the parameter along
+the path, and  along the path, then the optical length is given by
+where the refractive index
+ε) is 
+depends upon the material.If we try  then the [URL: "https://en.wikipedia.org/wiki/First_variation"] first variation of (the derivative of with respect to
+After integration by parts of the first term within brackets, we obtain the Euler–Lagrange equation
+Page 8
+The light rays may be determined by integrating this equation. This formalism is used in the context of [URL: "https://en.wikipedia.org/wiki/Lagrangian_optics"] Lagrangian optics and [URL: "https://en.wikipedia.org/wiki/Hamiltonian_optics"] Hamiltonian optics.
+Snell's law
+There is a discontinuity of the refractive index when light enters or leaves a lens. Let
+where and are constants. Then the Euler–Lagrange equation holds as before in the region where or  and in fact the path is a straight line
+there, since the refractive index is constant. At the  must be continuous, but may be discontinuous. After integration by parts in the separate regions
+and using the Euler–Lagrange equations, the first variation takes the form
+The factor multiplying is the sine of angle of the incident ray with the axis, and the factor multiplying is the sine of angle of the refracted ray with the
+axis. [URL: "https://en.wikipedia.org/wiki/Snell%27s_law"] Snell's law for refraction requires that these terms be equal. As this calculation demonstrates, Snell's law is equivalent to vanishing of the first variation of
+the optical path length.
+Fermat's principle in three dimensions
+It is expedient to use vector notation: let
+tangent vector. The optical length of the curve is given by 
+let be a parameter, let  be the parametric representation of a curve and let  be its
+Note that this integral is invariant with respect to changes in the parametric representation of  The Euler–Lagrange equations for a minimizing curve have the
+symmetric form
+where
+It follows from the definition that satisfies
+Therefore, the integral may also be written as
+This form suggests that if we can find a function whose gradient is given by then the integral is given by the difference of at the endpoints of the interval
+of integration. Thus the problem of studying the curves that make the integral stationary can be related to the study of the level surfaces of In order to find such a
+function, we turn to the wave equation, which governs the propagation of light. This formalism is used in the context of [URL: "https://en.wikipedia.org/wiki/Lagrangian_optics"] Lagrangian optics and [URL: "https://en.wikipedia.org/wiki/Hamiltonian_optics"] Hamiltonian optics.
+Connection with the wave equation
+The [URL: "https://en.wikipedia.org/wiki/Wave_equation"] wave equation for an inhomogeneous medium is
+where is the velocity, which generally depends upon Wave fronts for light are characteristic surfaces for this partial differential equation: they satisfy
+Page 9
+We may look for solutions in the form
+In that case, satisfies
+where According to the theory of [URL: "https://en.wikipedia.org/wiki/First-order_partial_differential_equation"] first-order partial differential equations, if
+along a system of curves (the light rays) that are given by 
+then satisfies
+These equations for solution of a first-order partial differential equation are identical to the Euler–Lagrange equations if we make the identification
+We conclude that the function is the value of the minimizing integral as a function of the upper end point. That is, when a family of minimizing curves is
+constructed, the values of the optical length satisfy the characteristic equation corresponding the wave equation. Hence, solving the associated partial differential
+equation of first order is equivalent to finding families of solutions of the variational problem. This is the essential content of the [URL: "https://en.wikipedia.org/wiki/Hamilton%E2%80%93Jacobi_theory"] Hamilton–Jacobi theory, which
+applies to more general variational problems.
+Mechanics
+In classical mechanics, the action, is defined as the time integral of the Lagrangian, The Lagrangian is the difference of energies,
+where is the [URL: "https://en.wikipedia.org/wiki/Kinetic_energy"] kinetic energy of a mechanical system and its [URL: "https://en.wikipedia.org/wiki/Potential_energy"] potential energy. [URL: "https://en.wikipedia.org/wiki/Hamilton%27s_principle"] Hamilton's principle (or the action principle) states that the motion of a
+conservative holonomic (integrable constraints) mechanical system is such that the action integral
+is stationary with respect to variations in the path The Euler–Lagrange equations for this system are known as Lagrange's equations:
+and they are equivalent to Newton's equations of motion (for such systems).
+The conjugate momenta are defined by
+For example, if
+then
+ Hamiltonian mechanics results if the conjugate momenta are introduced in place of by a Legendre transformation of the Lagrangian into the Hamiltonian
+defined by
+The Hamiltonian is the total energy of the system: Analogy with Fermat's principle suggests that solutions of Lagrange's equations (the particle
+trajectories) may be described in terms of level surfaces of some function of  This function is a solution of the [URL: "https://en.wikipedia.org/wiki/Hamilton%E2%80%93Jacobi_equation"] Hamilton–Jacobi equation:
+Page 10
+Further applications
+Further applications of the calculus of variations include the following:
+The derivation of the [URL: "https://en.wikipedia.org/wiki/Catenary"] catenary shape
+Solution to [URL: "https://en.wikipedia.org/wiki/Newton%27s_minimal_resistance_problem"] Newton's minimal resistance problem
+Solution to the [URL: "https://en.wikipedia.org/wiki/Brachistochrone_curve"] brachistochrone problem
+Solution to the [URL: "https://en.wikipedia.org/wiki/Tautochrone_curve"] tautochrone problem
+Solution to [URL: "https://en.wikipedia.org/wiki/Isoperimetric"] isoperimetric problems
+Calculating [URL: "https://en.wikipedia.org/wiki/Geodesic"] geodesics
+Finding [URL: "https://en.wikipedia.org/wiki/Minimal_surface"] minimal surfaces and solving [URL: "https://en.wikipedia.org/wiki/Plateau%27s_problem"] Plateau's problem
+ Optimal control
+ Analytical mechanics, or reformulations of Newton's laws of motion, most notably [URL: "https://en.wikipedia.org/wiki/Lagrangian_mechanics"] Lagrangian and [URL: "https://en.wikipedia.org/wiki/Hamiltonian_mechanics"] Hamiltonian mechanics;
+Geometric optics, especially Lagrangian and [URL: "https://en.wikipedia.org/wiki/Hamiltonian_optics"] Hamiltonian optics;
+ Variational method (quantum mechanics), one way of finding approximations to the lowest energy eigenstate or ground state, and some
+excited states;
+ Variational Bayesian methods, a family of techniques for approximating intractable integrals arising in Bayesian inference and machine
+learning;
+ Variational methods in general relativity, a family of techniques using calculus of variations to solve problems in Einstein's general theory of
+relativity;
+ Finite element method is a variational method for finding numerical solutions to boundary-value problems in differential equations;
+ Total variation denoising, an [URL: "https://en.wikipedia.org/wiki/Image_processing"] image processing method for filtering high variance or noisy signals.
+Variations and sufficient condition for a minimum
+Calculus of variations is concerned with variations of functionals, which are small changes in the functional's value due to small changes in the function that is its
+argument. The first variation[k] is defined as the linear part of the change in the functional, and the second variation[l] is defined as the quadratic part.[22]
+For example, if  is a functional with the function as its argument, and there is a small change in its argument from to
+function in the same function space as then the corresponding change in the functional is[m] 
+where is a
+The functional is said to be differentiable if
+where is a linear functional,[n]  is the norm of [o] and  as  The linear functional is the first variation of  and is denoted by,[26]
+The functional is said to be twice differentiable if
+where is a linear functional (the first variation),
+variation of  and is denoted by,[28] 
+is a quadratic functional,[p] and  as  The quadratic functional is the second
+The second variation is said to be strongly positive if
+for all and for some constant .[29]
+Using the above definitions, especially the definitions of first variation, second variation, and strongly positive, the following sufficient condition for a minimum of
+a functional can be stated.
+Sufficient condition for a minimum:
+The functional
+[q][r] 
+has a minimum at  if its first variation at  and its second variation is strongly positive at  [30]
+See also
+ First variation  [URL: "https://en.wikipedia.org/wiki/Isoperimetric_inequality"] Isoperimetric inequality
+Page 11
+ Variational principle
+ Variational bicomplex
+ Fermat's principle
+ Principle of least action
+ Infinite-dimensional optimization
+ Finite element method
+ Functional analysis
+ Ekeland's variational principle
+ Inverse problem for Lagrangian mechanics
+ Obstacle problem
+ Perturbation methods
+ Young measure
+ Optimal control
+ Direct method in calculus of variations 
+ Noether's theorem
+ De Donder–Weyl theory
+ Variational Bayesian methods
+ Chaplygin problem
+ Nehari manifold
+ Hu–Washizu principle
+ Luke's variational principle
+ Mountain pass theorem
+ Category:Variational analysts
+ Measures of central tendency as solutions to variational problems
+ Stampacchia Medal
+ Fermat Prize
+ Convenient vector space
+Notes
+a. Whereas [URL: "https://en.wikipedia.org/wiki/Calculus"] elementary calculus is about [URL: "https://en.wikipedia.org/wiki/Infinitesimal"] infinitesimally small changes in the values of functions without changes in the function itself, calculus
+of variations is about infinitesimally small changes in the function itself, which are called variations.[1]
+b. See [URL: "https://en.wikipedia.org/wiki/Harold_J._Kushner"] Harold J. Kushner (2004): regarding Dynamic Programming, "The calculus of variations had related ideas (e.g., the work of
+Caratheodory, the Hamilton-Jacobi equation). This led to conflicts with the calculus of variations community."
+c. The neighborhood of is the part of the given function space where
+number that specifies the size of the neighborhood.[10] 
+over the whole domain of the functions, with a positive
+d. Note the difference between the terms extremal and extremum. An extremal is a function that makes a functional an extremum.
+e. For a sufficient condition, see section Variations and sufficient condition for a minimum.
+f. The following derivation of the Euler–Lagrange equation corresponds to the derivation on pp. 184–185 of Courant & Hilbert (1953).[14]
+g. Note that and
+constraints. 
+are evaluated at the same values of which is not valid more generally in variational calculus with non-holonomic
+h. The product is called the first variation of the functional and is denoted by Some references define the [URL: "https://en.wikipedia.org/wiki/First_variation"] first variation differently by
+leaving out the factor.
+i. As a historical note, this is an axiom of Archimedes. See e.g. Kelland (1843).[15]
+j. The resulting controversy over the validity of Dirichlet's principle is explained by Turnbull.[21]
+k. The first variation is also called the variation, differential, or first differential.
+l. The second variation is also called the second differential.
+m. Note that and the variations below, depend on both and The argument has been left out to simplify the notation. For example, 
+could have been written [23]
+n. A functional is said to be linear if    and    where are functions and is a real number.[24]
+o. For a function that is defined for
+[25] 
+where and are real numbers, the norm of is its maximum absolute value, i.e. 
+p. A functional is said to be quadratic if it is a bilinear functional with two argument functions that are equal. A bilinear functional is a functional
+that depends on two argument functions and is linear when each argument function in turn is fixed while the other argument function is
+variable.[27]
+q. For other sufficient conditions, see in Gelfand & Fomin 2000,
+Chapter 5: "The Second Variation. Sufficient Conditions for a Weak Extremum" – Sufficient conditions for a weak minimum are given
+by the theorem on p. 116.
+Chapter 6: "Fields. Sufficient Conditions for a Strong Extremum" – Sufficient conditions for a strong minimum are given by the
+theorem on p. 148.
+r. One may note the similarity to the sufficient condition for a minimum of a function, where the first derivative is zero and the second derivative is
+positive.
+References
+1. Courant & Hilbert 1953, p. 184
+2. [URL: "https://en.wikipedia.org/wiki/Israel_Gelfand"] Gelfand, I. M.; [URL: "https://en.wikipedia.org/wiki/Sergei_Fomin"] Fomin, S. V. (2000). Silverman, Richard A. (ed.).
+ Calculus of variations (https://books.google.com/books?id=YkFLGQ
+eGRw4C) (Unabridged repr. ed.). Mineola, New York: Dover
+Publications. p. 3. ISBN 978-0486414485.
+3. [URL: "https://books.google.com/books?id=75vJL_Y-PvsC&pg=PA249"] Thiele, Rüdiger (2007). "Euler and the Calculus of Variations" (http
+s://books.google.com/books?id=75vJL_Y-PvsC&pg=PA249). In
+Bradley, Robert E.; Sandifer, C. Edward (eds.). Leonhard Euler:
+Life, Work and Legacy. Elsevier. p. 249. ISBN 9780080471297.
+4. [URL: "https://books.google.com/books?id=_iTnBwAAQBAJ&pg=110&q=%22Indeed+after%22"] Goldstine, Herman H. (2012). A History of the Calculus of Variations
+from the 17th through the 19th Century (https://books.google.com/bo
+oks?id=_iTnBwAAQBAJ&pg=110&q=%22Indeed+after%22).
+Springer Science & Business Media. p. 110.
+ISBN 9781461381068.
+5. van Brunt, Bruce (2004). The Calculus of Variations. Springer.
+ISBN 978-[URL: "https://en.wikipedia.org/wiki/Special:BookSources/978-0-387-40247-5"] 0-387-40247-5. 
+6. Ferguson, James (2004). "Brief Survey of the History of the
+ Calculus of Variations and its Applications". arXiv:math/0402357 (ht
+tps://arxiv.org/abs/math/0402357).
+7. [URL: "https://en.wikipedia.org/wiki/Dimitri_Bertsekas"] Dimitri Bertsekas. Dynamic programming and optimal control.
+Athena Scientific, 2005.
+8. [URL: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC527981"] Bellman, Richard E. (1954). "Dynamic Programming and a new
+formalism in the calculus of variations" (https://www.ncbi.nlm.nih.go
+v/pmc/articles/PMC527981). Proc. Natl. Acad. Sci. 40 (4): 231–235.
+ Bibcode:1954PNAS...40..231B (https://ui.adsabs.harvard.edu/abs/1
+ 954PNAS...40..231B). doi:10.1073/pnas.40.4.231 (https://doi.org/1
+ 0.1073%2Fpnas.40.4.231). PMC 527981 (https://www.ncbi.nlm.nih.
+ gov/pmc/articles/PMC527981). PMID 16589462 (https://pubmed.nc
+bi.nlm.nih.gov/16589462).
+9. [URL: "http://a2c2.org/awards/richard-e-bellman-control-heritage-award"] "Richard E. Bellman Control Heritage Award" (http://a2c2.org/award
+s/richard-e-bellman-control-heritage-award). American Automatic
+Control Council. 2004. Retrieved 2013-07-28.
+Page 12
+10. [URL: "https://en.wikipedia.org/wiki/Richard_Courant"] Courant, R; [URL: "https://en.wikipedia.org/wiki/David_Hilbert"] Hilbert, D (1953). Methods of Mathematical Physics.
+Vol. I (First English ed.). New York: Interscience Publishers, Inc.
+p. 169. ISBN 978-0471504474.
+11. Gelfand & Fomin 2000, pp. 12–13
+12. Gelfand & Fomin 2000, p. 13
+13. Gelfand & Fomin 2000, pp. 14–15
+14. [URL: "https://en.wikipedia.org/wiki/Richard_Courant"] Courant, R.; [URL: "https://en.wikipedia.org/wiki/David_Hilbert"] Hilbert, D. (1953). Methods of Mathematical Physics.
+Vol. I (First English ed.). New York: Interscience Publishers, Inc.
+ISBN 978-0471504474.
+15. [URL: "https://books.google.com/books?id=yQCFAAAAIAAJ&pg=PA58"] Kelland, Philip (1843). Lectures on the principles of demonstrative
+mathematics (https://books.google.com/books?id=yQCFAAAAIAAJ
+&pg=PA58). p. 58 – via Google Books.
+16. [URL: "http://mathworld.wolfram.com/Euler-LagrangeDifferentialEquation.html"] Weisstein, Eric W. "Euler–Lagrange Differential Equation" (http://ma
+thworld.wolfram.com/Euler-LagrangeDifferentialEquation.html).
+mathworld.wolfram.com. Wolfram. Eq. (5).
+17. Kot, Mark (2014). "Chapter 4: Basic Generalizations". A First
+Course in the Calculus of Variations. American Mathematical
+Society. ISBN 978-[URL: "https://en.wikipedia.org/wiki/Special:BookSources/978-1-4704-1495-5"] 1-4704-1495-5.
+18. Manià, Bernard (1934). "Sopra un esempio di Lavrentieff".
+Bollenttino dell'Unione Matematica Italiana. 13: 147–153. 
+19. Ball & Mizel (1985). "One-dimensional Variational problems whose
+Minimizers do not satisfy the Euler-Lagrange equation". Archive for
+Rational Mechanics and Analysis. 90 (4): 325–388.
+ Bibcode:1985ArRMA..90..325B (https://ui.adsabs.harvard.edu/abs/
+ 1985ArRMA..90..325B). doi:10.1007/BF00276295 (https://doi.org/1
+[URL: "https://api.semanticscholar.org/CorpusID:55005550"] 0.1007%2FBF00276295). S2CID 55005550 (https://api.semanticsc
+holar.org/CorpusID:55005550).
+20. [URL: "https://doi.org/10.1016%2Fj.matpur.2007.06.002"] Ferriero, Alessandro (2007). "The Weak Repulsion property" (http
+s://doi.org/10.1016%2Fj.matpur.2007.06.002). Journal de
+Mathématiques Pures et Appliquées. 88 (4): 378–388.
+ doi:10.1016/j.matpur.2007.06.002 (https://doi.org/10.1016%2Fj.mat
+pur.2007.06.002).
+21. [URL: "http://turnbull.mcs.st-and.ac.uk/~history/Biographies/Riemann.html"] Turnbull. "Riemann biography" (http://turnbull.mcs.st-and.ac.uk/~his
+tory/Biographies/Riemann.html). UK: U. St. Andrew.
+22. Gelfand & Fomin 2000, pp. 11–12, 99
+23. Gelfand & Fomin 2000, p. 12, footnote 6
+24. Gelfand & Fomin 2000, p. 8
+25. Gelfand & Fomin 2000, p. 6
+26. Gelfand & Fomin 2000, pp. 11–12
+27. Gelfand & Fomin 2000, pp. 97–98
+28. Gelfand & Fomin 2000, p. 99
+29. Gelfand & Fomin 2000, p. 100
+30. Gelfand & Fomin 2000, p. 100, Theorem 2
+Further reading
+ Benesova, B. and Kruzik, M.: "Weak Lower Semicontinuity of Integral Functionals and Applications" (http://epubs.siam.org/doi/abs/10.1137/16
+M1060947). SIAM Review 59(4) (2017), 703–766.
+ Bolza, O.: [URL: "http://quod.lib.umich.edu/cgi/t/text/text-idx?c=umhistmath;idno=ACM2513"] Lectures on the Calculus of Variations (http://quod.lib.umich.edu/cgi/t/text/text-idx?c=umhistmath;idno=ACM2513). Chelsea
+ Publishing Company, 1904, available on Digital Mathematics library. 2nd edition republished in 1961, paperback in 2005, ISBN 978-1-4181-
+8201-4.
+Cassel, Kevin W.: [URL: "https://books.google.com/books?id=pNHFJTKixisC"] Variational Methods with Applications in Science and Engineering (https://books.google.com/books?id=pNHFJTKixisC),
+Cambridge University Press, 2013.
+Clegg, J.C.: [URL: "https://books.google.com/books/about/Calculus_of_variations.html?id=qTnvAAAAMAAJ"] Calculus of Variations (https://books.google.com/books/about/Calculus_of_variations.html?id=qTnvAAAAMAAJ), Interscience
+Publishers Inc., 1968.
+ Courant, R.: [URL: "https://books.google.com/books?id=GCDSBwAAQBAJ"] Dirichlet's principle, conformal mapping and minimal surfaces (https://books.google.com/books?id=GCDSBwAAQBAJ).
+Interscience, 1950.
+ Dacorogna, Bernard: "Introduction (http://www.worldscientific.com/doi/suppl/10.1142/p967/suppl_file/p967_chap01.pdf)" Introduction to the
+ Calculus of Variations (http://www.worldscientific.com/worldscibooks/10.1142/p967), 3rd edition. 2014, World Scientific Publishing, ISBN 978-
+1-78326-551-0.
+Elsgolc, L.E.: [URL: "https://books.google.com/books?id=MAU_AwAAQBAJ"] Calculus of Variations (https://books.google.com/books?id=MAU_AwAAQBAJ), Pergamon Press Ltd., 1962.
+Forsyth, A.R.: [URL: "https://archive.org/stream/CalculusOfVariations/Forsyth-CalculusOfVariations#page/n3/mode/2up"] Calculus of Variations (https://archive.org/stream/CalculusOfVariations/Forsyth-CalculusOfVariations#page/n3/mode/2up),
+Dover, 1960.
+ Fox, Charles: An Introduction to the Calculus of Variations (https://books.google.com/books/about/An_Introduction_to_the_Calculus_of_Varia.
+html?id=PV2IovCWTcYC), Dover Publ., 1987.
+ Giaquinta, Mariano; Hildebrandt, Stefan: Calculus of Variations I and II, Springer-Verlag, ISBN 978-3-662-03278-7 and ISBN 978-3-662-
+06201-2
+Jost, J. and X. Li-Jost: [URL: "https://books.google.com/books?id=QN8Iw7fUA-8C"] Calculus of Variations (https://books.google.com/books?id=QN8Iw7fUA-8C). Cambridge University Press, 1998.
+[URL: "https://books.google.com/books?id=_T3ez-32YVsC"] Lebedev, L.P. and Cloud, M.J.: The Calculus of Variations and Functional Analysis with Optimal Control and Applications in Mechanics (http
+s://books.google.com/books?id=_T3ez-32YVsC), World Scientific, 2003, pages 1–98.
+Logan, J. David: [URL: "https://books.google.com/books?id=nUk_AQAAIAAJ"] Applied Mathematics (https://books.google.com/books?id=nUk_AQAAIAAJ), 3rd edition. Wiley-Interscience, 2006
+Pike, Ralph W. [URL: "https://web.archive.org/web/20070705141725/http://www.mpri.lsu.edu/bookindex.html"] "Chapter 8: Calculus of Variations" (https://web.archive.org/web/20070705141725/http://www.mpri.lsu.edu/bookindex.html).
+ Optimization for Engineering Systems (http://www.mpri.lsu.edu/bookindex.html). Louisiana State University. Archived from the original (http://w
+ww.mpri.lsu.edu/textbook/Chapter8-b.htm) on 2007-07-05.
+ Roubicek, T.: "Calculus of variations (https://web.archive.org/web/20150510023928/http://www.wiley-vch.de/books/sample/3527411887_c17.
+ pdf)". Chap.17 in: Mathematical Tools for Physicists (https://web.archive.org/web/20150510021514/http://www.wiley-vch.de/publish/en/books/f
+ orthcomingTitles/MA00/3-527-41188-7/?sID=nrgsqk516u2v9ffab8u7io1dq4). (Ed. M. Grinfeld) J. Wiley, Weinheim, 2014, ISBN 978-3-527-
+41188-7, pp. 551–588.
+ Sagan, Hans: Introduction to the Calculus of Variations (https://books.google.com/books/about/Introduction_to_the_Calculus_of_Variatio.htm
+l?id=abhS8PgpBskC), Dover, 1992.
+ Weinstock, Robert: Calculus of Variations with Applications to Physics and Engineering (https://books.google.com/books?id=6wSVuWH1Prs
+C), Dover, 1974 (reprint of 1952 ed.).
+External links
+ Variational calculus (https://www.encyclopediaofmath.org/index.php/Variational_calculus). [URL: "https://en.wikipedia.org/wiki/Encyclopedia_of_Mathematics"] Encyclopedia of Mathematics.
+ calculus of variations (https://planetmath.org/calculusofvariations). [URL: "https://en.wikipedia.org/wiki/PlanetMath"] PlanetMath.
+ Calculus of Variations (http://mathworld.wolfram.com/CalculusofVariations.html). [URL: "https://en.wikipedia.org/wiki/MathWorld"] MathWorld.
+ Calculus of variations (https://web.archive.org/web/20170609215523/http://www.exampleproblems.com/wiki/index.php/Calculus_of_Variation
+s). Example problems.
+ Mathematics - Calculus of Variations and Integral Equations (https://www.youtube.com/playlist?list=PL521C2DFD15FF568C). Lectures on
+YouTube.
+Page 13
+[URL: "http://neo-classical-physics.info/uploads/3/0/6/5/3065888/geodesic_fields_-_pt._2.pdf"] Selected papers on Geodesic Fields. Part I (http://neo-classical-physics.info/uploads/3/0/6/5/3065888/geodesic_fields_-_pt._1.pdf), Part II (htt
+p://neo-classical-physics.info/uploads/3/0/6/5/3065888/geodesic_fields_-_pt._2.pdf).
+Retrieved from "[URL: "https://en.wikipedia.org/w/index.php?title=Calculus_of_variations&oldid=1090990110"] https://en.wikipedia.org/w/index.php?title=Calculus_of_variations&oldid=1090990110"
+This page was last edited on 1 June 2022, at 15:20 (UTC).
+ Text is available under the Creative Commons Attribution-ShareAlike License 3.0;additional terms may apply. By using this site, you agree to the Terms of Use and Privacy
+Policy. Wikipedia® is a registered trademark of the [URL: "https://www.wikimediafoundation.org/"] Wikimedia Foundation, Inc., a non-profit organization.

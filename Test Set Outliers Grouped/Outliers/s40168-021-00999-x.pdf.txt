@@ -1,0 +1,1411 @@
+Keywords: Meromictic lakes,Anoxic basin,Arctic Ocean,Sulfur cycling,Organic sulfur,Sulfur intermediates,Redox gradients,Metagenomics
+Creator: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+ModDate: 2021/02/16 14:47:13+01'00'
+CreationDate: 2021/02/15 08:49:43+08'00'
+Producer: Acrobat Distiller 10.0.0 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)
+Subject: Microbiome, 2021, doi:10.1186/s40168-021-00999-x
+Author: Adrien Vigneron
+Title: Genomic evidence for sulfur intermediates as new biogeochemical hubs in a model aquatic microbial ecosystem
+xmp:pdf:Keywords: Meromictic lakes,Anoxic basin,Arctic Ocean,Sulfur cycling,Organic sulfur,Sulfur intermediates,Redox gradients,Metagenomics
+xmp:pdf:Producer: Acrobat Distiller 10.0.0 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)
+xmp:dc:format: application/pdf
+xmp:dc:identifier: 10.1186/s40168-021-00999-x
+xmp:dc:publisher: Microbiome
+xmp:dc:description: Microbiome, 2021, doi:10.1186/s40168-021-00999-x
+xmp:dc:subject: Meromictic lakes; Anoxic basin; Arctic Ocean; Sulfur cycling; Organic sulfur; Sulfur intermediates; Redox gradients; Metagenomics
+xmp:dc:title: Genomic evidence for sulfur intermediates as new biogeochemical hubs in a model aquatic microbial ecosystem
+xmp:dc:creator: Adrien Vigneron; Perrine Cruaud; Alexander I. Culley; Raoul-Marie Couture; Connie Lovejoy; Warwick F. Vincent
+xmp:xmp:ModifyDate: 2021-02-16T14:47:13+01:00
+xmp:xmp:MetadataDate: 2021-02-16T14:47:13+01:00
+xmp:xmp:CreateDate: 2021-02-15T08:49:43+08:00
+xmp:xmp:CreatorTool: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+xmp:xmpMM:DocumentID: uuid:e2bb8aef-2eda-423d-804f-5d412de181d1
+xmp:xmpMM:InstanceID: uuid:99aa4e9c-7a34-4690-92d5-d24c956de1b8
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:e2bb8aef-2eda-423d-804f-5d412de181d1
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2021-02-15T20:08:35+08:00
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:author:name: Adrien Vigneron
+xmp:author:orcid: http://orcid.org/0000-0003-3552-8369
+xmp:author:name: Perrine Cruaud
+xmp:author:orcid: http://orcid.org/0000-0001-8628-3600
+xmp:author:name: Alexander I. Culley
+xmp:author:orcid: http://orcid.org/0000-0001-6639-9112
+xmp:author:name: Raoul-Marie Couture
+xmp:author:orcid: http://orcid.org/0000-0003-4940-3372
+xmp:author:name: Connie Lovejoy
+xmp:author:orcid: http://orcid.org/0000-0001-8027-2281
+xmp:author:name: Warwick F. Vincent
+xmp:author:orcid: http://orcid.org/0000-0001-9055-1938
+xmp:pdfaSchema:schema: Springer Nature ORCID Schema
+xmp:pdfaSchema:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/
+xmp:pdfaSchema:prefix: sn
+xmp:pdfaProperty:name: authorInfo
+xmp:pdfaProperty:valueType: Bag AuthorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Author information: contains the name of each author and his/her ORCID (ORCiD: Open Researcher and Contributor ID). An ORCID is a persistent identifier (a non-proprietary alphanumeric code) to uniquely identify scientific and other academic authors.
+xmp:pdfaProperty:name: editorInfo
+xmp:pdfaProperty:valueType: Bag EditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Editor information: contains the name of each editor and his/her ORCID identifier.
+xmp:pdfaProperty:name: seriesEditorInfo
+xmp:pdfaProperty:valueType: Bag SeriesEditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Series editor information: contains the name of each series editor and his/her ORCID identifier.
+xmp:pdfaType:type: AuthorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/authorInfo/
+xmp:pdfaType:prefix: author
+xmp:pdfaType:description: Specifies the types of author information: name and ORCID of an author.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an author.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an author.
+xmp:pdfaType:type: EditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/editorInfo/
+xmp:pdfaType:prefix: editor
+xmp:pdfaType:description: Specifies the types of editor information: name and ORCID of an editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an editor.
+xmp:pdfaType:type: SeriesEditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/seriesEditorInfo/
+xmp:pdfaType:prefix: seriesEditor
+xmp:pdfaType:description: Specifies the types of series editor information: name and ORCID of a series editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of a series editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of a series editor.
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdf/1.3/
+xmp:pdfaSchema:prefix: pdf
+xmp:pdfaSchema:schema: Adobe PDF Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A name object indicating whether the document has been modified to include trapping information
+xmp:pdfaProperty:name: Trapped
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/mm/
+xmp:pdfaSchema:prefix: xmpMM
+xmp:pdfaSchema:schema: XMP Media Management Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: UUID based identifier for specific incarnation of a document
+xmp:pdfaProperty:name: InstanceID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: The common identifier for all versions and renditions of a document.
+xmp:pdfaProperty:name: OriginalDocumentID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A reference to the original document from which this one is derived. It is a minimal reference; missing components can be assumed to be unchanged. For example, a new version might only need to specify the instance ID and version number of the previous version, or a rendition might only need to specify the instance ID and rendition class of the original.
+xmp:pdfaProperty:name: DerivedFrom
+xmp:pdfaProperty:valueType: ResourceRef
+xmp:pdfaType:description: Identifies a portion of a document. This can be a position at which the document has been changed since the most recent event history (stEvt:changed). For a resource within an xmpMM:Ingredients list, the ResourceRef uses this type to identify both the portion of the containing document that refers to the resource, and the portion of the referenced resource that is referenced.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Part#
+xmp:pdfaType:prefix: stPart
+xmp:pdfaType:type: Part
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/t/pg/
+xmp:pdfaSchema:prefix: xmpTPg
+xmp:pdfaSchema:schema: XMP Paged-Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A structure containing the characteristics of a font used in a document
+xmp:pdfaProperty:name: Fonts
+xmp:pdfaProperty:valueType: Bag Font
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: XMP08 Spec: An ordered array of plate names that are needed to print the document (including any in contained documents).
+xmp:pdfaProperty:name: PlateNames
+xmp:pdfaProperty:valueType: Seq Text
+xmp:pdfaType:description: A structure containing the characteristics of a font used in a document.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Font#
+xmp:pdfaType:prefix: stFnt
+xmp:pdfaType:type: Font
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdfx/1.3/
+xmp:pdfaSchema:prefix: pdfx
+xmp:pdfaSchema:schema: Adobe Document Info PDF eXtension Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: ID of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXVersion
+xmp:pdfaProperty:valueType: Text
+xmp:pBOOKMARKS:
+Abstract
+  Background
+  Results
+  Conclusions
+Background
+Results
+  Microbial community composition
+  Depth distribution of sulfur cycling genes
+  Metagenome assembled genomes of S-cycling populations
+    Sulfur-oxidizing populations
+    Sulfur-reducing populations
+    Organic sulfur utilizing populations
+  Microbial network for sulfur metabolism
+Discussion
+  New microbial agents and genes for sulfur transformation
+  Utilization of sulfur cycle intermediates
+  Organic sulfur molecules as SCI sources
+Conclusions
+Methods
+  Sample collection and nucleic acid extraction
+  Quantitative PCR
+  Illumina MiSeq Amplicon library preparation, sequencing and analysis
+  Metagenomic library preparation, sequencing and analysis
+  Binning and functional characterization
+  Statistical analysis
+Supplementary Information
+Abbreviations
+Acknowledgements
+Authors’ contributions
+Funding
+Availability of data and materials
+Ethics approval and consent to participate
+Consent for publication
+Competing interests
+Author details
+References
+Publisher’s Note
+Page 1
+Vigneron et al. Microbiome (2021) 9:46
+https://doi.org/10.1186/s40168-021-00999-x
+RESEARCH  Open Access
+Genomic evidence for sulfur intermediates
+as new biogeochemical hubs in a model
+aquatic microbial ecosystem
+Adrien Vigneron1,2,3* [URL: "http://orcid.org/0000-0003-3552-8369"] , Perrine Cruaud3,4  [URL: "http://orcid.org/0000-0001-8628-3600"] , Alexander I. Culley2,3  [URL: "http://orcid.org/0000-0001-6639-9112"] , Raoul-Marie Couture2,5  [URL: "http://orcid.org/0000-0003-4940-3372"] , Connie Lovejoy1,3,6* and
+Warwick F. Vincent1,2
+Abstract
+Background: The sulfur cycle encompasses a series of complex aerobic and anaerobic transformations of S-containing
+molecules and plays a fundamental role in cellular and ecosystem-level processes, influencing biological carbon transfers and
+other biogeochemical cycles. Despite their importance, the microbial communities and metabolic pathways involved in
+these transformations remain poorly understood, especially for inorganic sulfur compounds of intermediate oxidation states
+(thiosulfate, tetrathionate, sulfite, polysulfides). Isolated and highly stratified, the extreme geochemical and environmental
+features of meromictic ice-capped Lake A, in the Canadian High Arctic, provided an ideal model ecosystem to resolve the
+distribution and metabolism of aquatic sulfur cycling microorganisms along redox and salinity gradients.
+Results: Applying complementary molecular approaches, we identified sharply contrasting microbial communities and
+metabolic potentials among the markedly distinct water layers of Lake A, with similarities to diverse fresh, brackish and saline
+water microbiomes. Sulfur cycling genes were abundant at all depths and covaried with bacterial abundance. Genes for
+oxidative processes occurred in samples from the oxic freshwater layers, reductive reactions in the anoxic and sulfidic
+bottom waters and genes for both transformations at the chemocline. Up to 154 different genomic bins with potential for
+sulfur transformation were recovered, revealing a panoply of taxonomically diverse microorganisms with complex metabolic
+pathways for biogeochemical sulfur reactions. Genes for the utilization of sulfur cycle intermediates were widespread
+throughout the water column, co-occurring with sulfate reduction or sulfide oxidation pathways. The genomic bin
+composition suggested that in addition to chemical oxidation, these intermediate sulfur compounds were likely produced
+by the predominant sulfur chemo- and photo-oxidisers at the chemocline and by diverse microbial degraders of organic
+sulfur molecules.
+Conclusions: The Lake A microbial ecosystem provided an ideal opportunity to identify new features of the biogeochemical
+sulfur cycle. Our detailed metagenomic analyses across the broad physico-chemical gradients of this permanently stratified
+lake extend the known diversity of microorganisms involved in sulfur transformations over a wide range of environmental
+conditions. The results indicate that sulfur cycle intermediates and organic sulfur molecules are major sources of electron
+donors and acceptors for aquatic and sedimentary microbial communities in association with the classical sulfur cycle.
+Keywords: Meromictic lakes, Anoxic basin, Arctic Ocean, Sulfur cycling, Organic sulfur, Sulfur intermediates, Redox gradients,
+Metagenomics
+* Correspondence: [URL: "mailto:avignero@gmail.com"] avignero@gmail.com; [URL: "mailto:connie.lovejoy@bio.ulaval.ca"] connie.lovejoy@bio.ulaval.ca
+1Département de Biologie, Université Laval, Québec, QC, Canada
+Full list of author information is available at the end of the article
+© The Author(s). 2021 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit [URL: "http://creativecommons.org/licenses/by/4.0/"] http://creativecommons.org/licenses/by/4.0/.
+The Creative Commons Public Domain Dedication waiver ([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://creativecommons.org/publicdomain/zero/1.0/) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.
+Page 2
+Vigneron et al. Microbiome (2021) 9:46  Page 2 of 14
+Background
+The sulfur cycle encompasses complex energetic pro-
+cesses where sulfur (S) ions and molecules in different
+oxidation states, from the most reduced (− 2: sulfides,
+H2
+S/HS−) to the most oxidised (+ 6: sulfate, SO42
+−), are
+transformed through oxidation, reduction, dispropor-
+tionation [1] and putative comproportionation [2] by
+taxonomically diverse microorganisms. The sulfur cycle
+is tightly interwoven with carbon, nitrogen and metal cy-
+cles, and is tied to both cellular and ecosystem-level pro-
+cesses [3]. In marine sediments, sulfate is an ubiquitous
+electron acceptor and sulfate-reducing microorganisms
+have been estimated to contribute to up to 29% of or-
+ganic matter remineralisation in aquatic environments
+[4]. Sulfate reducers can generate massive concentrations
+of sulfides, which in turn serve as an electron donor for
+symbiotic or free-living sulfur-oxidizing microorganisms
+that recycle sulfides into sulfate [5].
+Although sulfate reduction and sulfide oxidation have
+received the most attention, our knowledge of the iden-
+tity of microorganisms and metabolic pathways involved
+in these processes is limited and novel lineages of micro-
+organisms mediating steps in the sulfur cycle remain to
+be discovered [6, 7]. Furthermore, sulfur cycling is highly
+complex; sulfur transformations by microorganisms and
+the geochemical reactivity of reduced sulfur molecules
+with metal oxides generate several inorganic sulfur com-
+pounds of intermediate oxidation states such as thiosul-
+fate (S2
+O32
+−), tetrathionate (S4
+O62
+−), sulfite (SO32
+−), and
+polysulfides (S2−
+n+1
+). These inorganic S compounds are
+all substrates for further microbial oxidation, reduction
+or disproportionation [3, 8] and precipitation with re-
+duced metals [9]. The rapid recycling of these sulfur spe-
+cies has biogeochemical significance, especially in low
+sulfate environments, where the rapid turn-over of these
+compounds provides an opportunity for shortcuts in the
+sulfur cycling and potentially sustains a large variety of
+microorganisms [10]. However, because efficient micro-
+bial use drives their concentrations down to the picomo-
+lar range, the importance of these compounds and the
+associated microbial processes remain unrecognised. An
+alternative strategy to uncover such processes is to look
+for genomic evidence of the identity, ecology and func-
+tional properties of microbes metabolizing these
+compounds.
+The genetic underpinning of sulfur transformations is
+still poorly resolved and is complicated by the bidirec-
+tional activities of key enzymes and by the diversity and
+complexity of many enzymatic pathways. For example,
+the metabolic pathways involved in sulfur compounds
+disproportionation remains unknown and even the exact
+mechanisms involved in sulfide oxidation remain little
+understood [1, 11]. Another important, yet largely over-
+looked component of the sulfur cycle involves the 
+utilisation and formation of organo-sulfur molecules
+(OSM).  These labile metabolites, including sulfonate
+(compounds with a R-SO3
+− functional group) and sulfo-
+nium such as dimethylsulphoniopropionate (DMSP), are
+produced by macro- and micro-algae and may represent
+an important source of sulfur for certain microorgan-
+isms in freshwaters [12, 13] and oceans, where the gen-
+etic potential for transformation of OSM is widespread
+in marine bacteria [14].
+Due to the abundance of sulfur compounds in sea
+water, much of our knowledge about sulfur cycles comes
+from marine sediments, which constitute a major bio-
+tope for sulfur cycling microorganisms [3]. However, the
+distribution of sulfur cycling microorganisms is not lim-
+ited to marine environments, and sulfur cycling microor-
+ganisms also have important ecological roles in
+environments with low sulfate concentrations such as
+wetlands and lakes [7, 15].
+Marine-derived lakes are natural laboratories for un-
+derstanding the sulfur cycle. In the polar regions, melt-
+ing ice sheets lead to an isostatic rebound of the
+continents, isolating fjords that become seawater-
+trapped lakes. Melting snow and glaciers then discharge
+freshwater into these lakes that float on the denser sea-
+water beneath. This density gradient is re-enforced by a
+mostly permanent ice cover, resulting in meromictic
+lakes that are layered physically and chemically with
+well-defined environments, enabling the development of
+complex and stable microbial communities along light,
+nutrient and redox gradients [16]. The water column of
+these lakes is divided into a mixolimnion consisting of
+the oxic surface freshwater layer immediately beneath
+the ice, and an anoxic and sulfidic monimolimnion, de-
+rived from the marine bottom layer. The chemocline at
+the interface between these layers is a zone of highest
+chemical reactivity in the lake, typically associated with
+elevated microbial activity and intense sulfur cycling [17,
+18]. Phototrophic or chemotrophic sulfur oxidisers that
+recycle sulfides produced in the anoxic monimolimnion
+overlap or coexist in the chemocline, depending on oxy-
+gen and light penetration [19]. The activity of these mi-
+croorganisms results in the production of sulfate and
+sulfur deposits outside the cells, leading to yellow or or-
+ange coloration of the water [20]. In addition, metal ox-
+ides (iron and manganese) frequently accumulate in
+meromictic lakes [21], leading to chemical oxidation of
+sulfur species.
+The broad range of physico-chemical conditions in a sin-
+gle water column makes polar meromictic ecosystems ideal
+lake-size laboratories to investigate sulfur-cycling microor-
+ganisms and metabolic pathways. We hypothesised that
+sulfur cycle intermediate (SCI) molecules such as thiosul-
+fate, tetrathionate, sulfite and polysulfides are a major
+source of energy for aquatic microbial communities, and
+Page 3
+Vigneron et al. Microbiome (2021) 9:46  Page 3 of 14
+that related biogeochemical processes would be evident in
+a polar meromictic lake because of the prolonged selection
+of microbial species and functions across stable biogeo-
+chemical gradients.
+To test this hypothesis, we analysed the microbial com-
+munity composition, abundance and metabolic potential in
+Lake A (83°00′N, 75°30′W), a deep marine-derived mero-
+mictic lake in the Canadian High Arctic (Fig. 1a), with a
+focus on sulfur cycling microorganisms across light and
+redox gradients. Applying genome-centric metagenomics,
+we recovered a large variety of sulfur cycling microorgan-
+isms with contrasting and complex metabolic pathways in-
+volved in sulfur transformations. We elucidated the
+importance of sulfur cycle intermediates as well as organic
+sulfur molecules as potential energy sources for microor-
+ganisms over the broad range of geochemical conditions
+that are represented in this model biogeochemical system.
+Results
+Oxygen, salinity and temperature profiles of Lake A,
+measured at the sampling time (18 July 2017),  showed
+that the water column under the ice was highly strati-
+fied, with similar profiles to previous years [21].  The
+freshwater oxygenated mixolimnion extended to the
+chemocline, located from 12 to 24 m below the upper
+ice surface ice, and marine-derived saline, anoxic water
+occurred below 24 m (Fig. 1b).
+Microbial community composition
+Microbial community composition and abundance was
+investigated by 16S rRNA and 16S rRNA gene sequen-
+cing and quantification (qPCR) down the water column
+with discrete samples from 2, 6, 14, 22, 34, 40, 55, and
+65 m. In addition, shotgun metagenomes were also se-
+quenced from each water layer and 16S rRNA gene se-
+quences were extracted from the metagenomic dataset
+and analysed along with the amplicon data to detect any
+microbial lineages that might have been missed due to
+PCR primer bias (Fig. 1d).  Bacteria represented nearly
+100% of the 16S rRNA genes in both qPCR and metage-
+nomic data in the upper freshwater samples and 90% in
+the saline water samples (Supplementary Figure S1);
+therefore, only the bacterial community is detailed in
+this study. The bacterial community compositions of
+replicate samples were highly similar (Fig. 1c and Sup-
+plementary Figure S1).  Although the number of rRNA
+genes may fluctuate depending on species and physio-
+logical state, detection of 16S rRNA was used as a proxy
+for identifying metabolically active microorganisms [22].
+Taxonomic profiles from 16S rRNA and 16S rRNA
+genes were largely congruent, with 92% of the bacterial
+lineages being detected using these two approaches, sug-
+gesting that these communities were likely active (Sup-
+plementary Figure S2). The results were also congruent 
+with the microbial community composition recovered
+from metagenomic data with the exceptions of SAR11
+(up to 3.8% and 1.5% of the 16S rRNA genes in meta-
+genomes and amplicons respectively) and Patescibac-
+teria (14.8% and 4.4% of the 16S rRNA genes in
+metagenomes and amplicons respectively) lineages,
+which appeared to be underestimated by amplicon se-
+quencing (Fig. 1c and Supplementary Figure S2).
+The different depth strata of the lake had sharply con-
+trasting community structures (non-parametric multi-
+variate analysis of variances, NPMANOVA, p = 0.0001,
+Fig. 1c, d). The bacterial community from the 2 m sam-
+ple collected immediately beneath the ice was dominated
+by Flavobacteriales (39% of the 16S rRNA metagenomic
+reads),  Burkholderiales (10%) and Actinobacteria HgcI
+(13%).  At 6 m, Cyanobacteria (12%),  Verrucomicrobia
+(Chtoniobacteraceae,  14%)  and Actinobacteria HgcI
+(16%) were predominant. At the freshwater-saline transi-
+tion (14 m), the proportion of Alphaproteobacteria (7%),
+including SAR11, Planctomycetes (4%) and Bacteroidetes
+(10%) increased. At the bottom of the oxic-anoxic transi-
+tion zone (22 m),  the microbial community was domi-
+nated by Alphaproteobacteria (13%), including members
+of the Rhodospirillalles (17%),  Marinimicrobia,  also
+known as SAR406 (14%),  Chlorobiaceae (6%)  and
+Cyanobacteria (4%).  In the anoxic saline strata of the
+lower water column (34, 40, 55 and 65 m), the microbial
+community was mainly dominated by Chloroflexi (up to
+19% at 55 m),  Desulfobacteraceae,  including the SEEP
+SRB1 lineage (10%),  Atribacteria (up to 9% at 40 m),
+Patescibacteria (up to 15% at 34 m) and Omnitrophi-
+caeota (up to 12% at 65 m). The proportion of unclassi-
+fied reads also increased with depth, from only 4% of the
+reads in surface water to 40% at 65 m in the 16S rRNA
+gene amplicon datasets (Supplementary Figure S1).
+However, up to 28% of the unclassified reads of the 65
+m samples were related to a single operational taxo-
+nomic unit (OTU, 97% similarity) distantly related (96%
+sequence similarity) to a sequence recovered from the
+Okinawa Trough. Quantification of 16S rRNA genes in-
+dicated a  relatively constant bacterial abundance
+throughout the water column, with on average 1.36 ±
+0.6 × 104 16S rRNA genes ml−1,  except for the oxic-
+anoxic transition zone where bacterial abundance
+reached 5.33 × 104 16S rRNA genes ml−1 (Fig. 1d).
+Depth distribution of sulfur cycling genes
+Shotgun metagenomes from the eight depths were se-
+quenced to evaluate the metabolic potential of Lake A
+microbial communities. A total of 10,378 different genes
+(KEGG Orthologues) were identified in the metagen-
+omes. Hierarchical clustering of the overall metabolic
+potentials (all detected KOs) of the samples was congru-
+ent with the clustering based on taxonomic profiles and
+Page 4
+Vigneron et al. Microbiome (2021) 9:46  Page 4 of 14
+Fig. 1 Overview of the physicochemical and microbial features of Lake A. a General location and photograph of Lake A. b Physicochemical
+profiles in the lake. Photosynthetically active radiation data are derived from Charvet et al. 2012, SO42
+−, H2
+S, total Mn and total Fe were
+extrapolated from Gibson et al. 2002. c NMDS of the bacterial community based on Bray-Curtis dissimilarity index calculated with 16S rRNA
+amplicons and metagenomic datasets. d Relative bacterial abundance (qPCR) and community composition based on 16S rRNA genes from
+metagenomes. The size of the circles represents the relative abundance of genes for each lineage. Only lineages with relative proportions > 1% of
+the reads in at least one sample are shown. Overall size of the community and associated qPCR bar is related to qPCR data. qPCR data are
+expressed in number of 16S rRNA genes per mL of lake water
+geochemical data, with two major clusters: the freshwater
+samples (2, 6 and 14 m) and the saline anoxic samples (34,
+40, 55 and 65 m); and the oxycline sample (22 m) branch-
+ing separately on the dendrogram (Fig. 2). A large number
+of genes involved in sulfur cycling were identified in all
+samples and were distinctly distributed vertically accord-
+ing to the physicochemical gradients (Fig. 2).
+Genes for thiosulfate oxidation (soxABCDXYZ,  doxD,
+tsdA, TST and pdo_Rho, corresponding to a gene of per-
+sulfide dioxygenase fused with a rhodanese domain)
+were detected in all freshwater samples (from 2 to 22
+m). Hydrogen sulfide (soxABCDXYZ) and sulfite (soeAB,
+suoX) oxidation genes were mainly identified in the most 
+oxygenated freshwater layers, whereas genes for sulfide
+(fccAB), and polysulfide (SQR and Hdr-like, a novel gene
+involved in bacterial sulfur oxidation [23]) oxidation
+pathways were mainly found in the micro-oxic condi-
+tions of the oxycline waters (14 and 22 m) (Fig. 2). Few
+of these genes were also detected in anoxic waters. By
+contrast, genes involved in dissimilatory sulfate and sul-
+fite reduction pathways (dsrAB, aprAB, sat, qmo, asrAB)
+were mainly detected in saline and anoxic waters (34, 40,
+55 and 65 m). Polysulfide and thiosulfate reductases (Psr
+and Phs) are complex iron–sulfur molybdoenzymes with
+such a close phylogenetic relationship and with so few
+characterised representatives, that distinction based on
+Page 5
+Vigneron et al. Microbiome (2021) 9:46  Page 5 of 14
+Fig. 2 Distribution of sulfur cycling genes. a Vertical profiles of sulfur cycling genes identified in metagenomes along geochemical gradients
+(heat map of salinity, oxygen, SO42
+− and H2
+S). Hierarchical clustering at the right was computed based on all KEGG orthologues identified in
+metagenomes. Numbers of genes per sample and per gene are after normalization. b Schematic representation of the sulfur cycle. Names of the
+enzymes are available in Supplementary Table S1
+sequence of the catalytic unit (phsA-psrA) is currently
+impossible [24]. Here, we used the more characterised B
+and C subunits of the thiosulfate reductase (phsBC), en-
+coding the electron transporter and anchor as a proxy of
+the entire thiosulfate reducing Phs complex. Although
+anchor proteins could be involved in other functional
+pathways, phsBC and ttrBC, are among the rare genes of
+anchor and electron transfer protein characterised in
+Kegg orthology suggesting evidence that these KOs are
+associated with their described functions [25].  Further-
+more, in absence of phsBC genes, we considered the
+presence of psrA-phsA gene as an indicator of the poly-
+sulfide reductase complex psrABC rather than phsABC.
+Given the limited information about these genes, we
+considered this to be a pragmatic and best supportable
+approach. As sulfate and sulfite reduction pathways,
+thiosulfate (phsBC) and tetrathionate (ttrABC,  otr) re-
+ductions and polysulfide and elemental sulfur reductions
+(psrA, hydABCD, npsr) were detected in saline and an-
+oxic waters. All oxidative and reductive pathways were
+detected at the bottom of the oxycline (22 m) (Fig. 2).
+Genes for the transformation of organic sulfur mole-
+cules (sulfonium and sulfonate) were also identified (Fig.
+2).  Genes involved in degradation of dimethylsulfonio-
+propionate (dddLQKPW,  dmdA),  methanesulfonate
+(msmA) and other sulfonates, such as cysteine (cuyAZ),
+sulfopropanediol (hspN), taurine (tauA) or sulfoacetalde-
+hyde (xsc) were detected throughout the water column
+but in higher proportion in freshwater. By contrast,
+genes coding dimethyl sulfoxide reductases (dmsABC)
+were mainly found in anoxic saline waters (Fig. 2). Genes
+for sulfatases (betC and arslA),  catalysing hydrolysis of
+sulfate esters, were abundant throughout the water 
+column, with higher numbers at the bottom of the oxy-
+cline (22 m) (Fig. 2).
+Metagenome assembled genomes of S-cycling
+populations
+A total of 250 genomic bins with > 50% completeness
+and < 5% contamination levels were recovered from the
+combined metagenomic dataset (Supplementary Table 1,
+Figure S4). Among them, 154 genomic bins (61.4%) har-
+boured genes for sulfur cycling (Fig. 3). Taxonomic affili-
+ation of these bins, inferred from 16S rRNA gene and
+other ribosomal protein sequences, indicated a large di-
+versity of sulfur cycling microorganisms representing
+most of the predominant lineages identified in the water
+column by 16S rRNA gene approaches. The most repre-
+sented lineages in bins with sulfur transformation genes
+(Fig. 3) were Bacteroidetes (21 different bins), Alphapro-
+teobacteria (17 bins), Parcubacteria (17 bins), Omnitro-
+phicaeota (12 bins), Chloroflexi (12 bins), Actinobacteria
+(11 bins), Deltaproteobacteria (9 bins), Planctomycetes (9
+bins) and Marinimicrobia (8 bins).
+Sulfur-oxidizing populations
+The potential for thiosulfate oxidation was widespread
+in the community (Figs. 3 and 4). Numerous Parcubac-
+teria, Actinobacteria and Chloroflexi bins included genes
+for the thiosulfate:quinone dehydrogenase (doxD), while
+the gene for the thiosulfate dehydrogenase (tsdA) was
+mainly detected in Alphaproteobacteria and Bacteroi-
+detes. Genes of persulfide dioxygenase fused with a rho-
+danese domain (pdo_rho),  potentially involved in
+thiosulfate oxidation [26] were widespread in the Bacter-
+oidetes and Planctomycetes bins (Fig. 3).  The
+Page 6
+Vigneron et al. Microbiome (2021) 9:46  Page 6 of 14
+Fig. 3 Key genes for inorganic and organic sulfur transformation identified in the 154 genomic bins with sulfur cycling genes. Colors in the outer
+circle represent the taxonomic affiliations of the bins. Bins are sorted per depth where they have been recovered. Ox. Oxidation Red. Reduction.
+Details are provided in supplementary Table S1
+SoxABCDXYZ complex for thiosulfate oxidation was also
+identified in Alpha- and Beta-proteobacteria (Fig. 3).  In
+addition to Sox genes, oxidative DsrAB genes were identified
+in Alphaproteobacteria, indicating potential for H2
+S oxida-
+tion to sulfate. Oxidative DsrAB genes and genes for sulfide
+(fccAB) and sulfur oxidation through the sulfide:quinone ox-
+idoreductase (SQR) were identified in the Chlorobiaceae as
+well as in few Alphaproteobacteria bins. Betaproteobacteria
+bins harboured genes for sulfite oxidation (soeAB and sorB).
+The SQR gene was also detected in Cyanobacteria, Actino-
+bacteria,  Bacteroidetes,  Gamma- and Deltaproteobacteria.
+Sulfur and thiosulfate oxidation through a Hdr-like complex
+[23] was identified in one alphaproteobacterial bin.
+Sulfur-reducing populations
+The potential for thiosulfate reduction through thiosul-
+fate reductase (PhsBC genes) was identified in 
+Bacteroidetes bins recovered from anoxic samples (Figs.
+3 and 4).  Tetrathionate reductase genes (ttrABC) were
+mainly found in Rhodospirillales bins while genes coding
+the octoheme tetrathionate reductase (otr),  involved in
+tetrathionate and potentially nitrite and hydroxylamine
+reduction [27] (Supplementary Figure S3), were detected
+in few Desulfobacteraceae,  Anaerolineae,  Chlorobiaceae
+and Bacteroidetes bins. The sulfate reduction pathway
+(DsrAB, AprAB, Sat and Qmo genes) was identified in
+Deltaproteobacteria bins as well as in one Chloroflexi,
+two Planctomycetes and in Candidatus Nealsonbacteria,
+Ca. Zixibacteria and Ca. Abyssubacteria bins recovered
+from the saline anoxic waters (Figs. 3 and 4). Anaerobic
+sulfite reductase genes (asrAB)  were detected in all
+Omnitrophica bins as well as in two Planctomycetes and
+two Parcubacteria bins. Polysulfide reductase genes
+(psrA) were found in Deltaproteobacteria as well as in
+Page 7
+Vigneron et al. Microbiome (2021) 9:46  Page 7 of 14
+Fig. 4 Depth distribution of metabolic potentials identified in the genomic bins. Each point represents a genomic bin with the color
+corresponding to its taxonomy
+some Marinimicrobia and Bacteroidetes bins. Sulfhydro-
+genase genes (hydABCD), involved in S0 and polysulfide
+reduction were also identified in genomic bins. However,
+while HydACD genes were detected in 8 Parcubacteria
+bins, including Ca. Kuenenbacteria, the gene coding the
+beta subunit (hydB) was detected only in half of these
+bins. By contrast hydB alone was also detected in Omni-
+trophica,  Marinimicrobia and WOR1 (Ca. Saganbac-
+teria) bins (Fig. 3).  NADH-dependent persulfide
+reductase genes (npsr), involved in persulfide, polysulfide
+or S0 reduction were identified in Deltaproteobacteria,
+Ca. Abyssubacteria and Calditrichaeota as well as in two
+Planctomycetes bins. A fusion of DsrE, Npsr and TusA
+genes and including two rhodanese regions was also
+identified in the metagenomic sequences and in two bins
+related to Ca.  Nealsonbacteria and Phycisphaeraceae
+(Fig. 3), suggesting a novel gene. Rhodanese regions and
+TusA protein are involved in sulfur binding and intracel-
+lular transport while both DsrE and Npsr are involved in
+sulfur reduction, suggesting a role in intracellular elem-
+ental sulfur reduction for this new gene.
+Organic sulfur utilizing populations
+A metabolic potential for organic sulfur utilisation was
+detected in 87 bins, mainly related to proteobacterial lin-
+eages, was recovered throughout the water column (Fig.
+4). The potential for transformation of dimethylsulfonio-
+propionate (DMSP) into dimethylsulfide (DMS) was de-
+tected in Alphaproteobacteria bins, including SAR11/
+Pelagibacter bin (Figs. 3 and 4).  By contrast, genes for
+anaerobic dimethylsulfoxide reductase (dmsAB)  were
+identified in Deltaproteobacteria,  Chloroflexi and few
+Bacteroidetes bins. The metabolic potential for sulfonate
+degradation, including genes coding for enzymes in-
+volved cysteine (cuyAZ),  sulfopropanediol (hspN), 
+taurine (tauA) and sulfoacetaldehyde (xsc) catabolism,
+was mainly found in Actinobacteria, Planctomycetes and
+Alpha- and Beta-proteobacteria bins (Figs. 3, 4 and 5).
+Multiple (more than 10) sulfatase genes were identified
+in some Planctomycetes, Bacteroidetes,  Alphaproteobac-
+teria and Chloroflexi bins.
+Microbial network for sulfur metabolism
+Based on the identified genes, metabolic capabilities of
+Lake A populations were inferred to determine which S-
+containing molecules were potentially produced or con-
+sumed throughout the water column (Fig. 5). Up to 100
+different bins (65% of the bins with S-cycling genes)
+were predicted to be associated with hydrogen sulfide
+production or consumption. Metabolic potentials involv-
+ing the production or consumption of polysulfides (89
+bins, 58%),  thiosulfate (72 bins, 47%) and tetrathionate
+(61 bins, 40%) were also widespread in the Lake A com-
+munity (Fig. 5).  A metabolic potential associated with
+sulfite and sulfate was less represented in the community
+with only 46 bins (30%) associated with sulfite and 30
+bins (19%) with sulfate (Fig. 5).
+Discussion
+Ice-capped, permanently stratified Lake A is an extreme
+microbial ecosystem, where strong, persistent environ-
+mental gradients provide a natural model for broader
+understanding of aquatic biogeochemical cycles. The
+water physico-chemical stratification profile measured in
+2017 in Lake A has been observed since 1974 [21, 28],
+indicating a highly stable system and allowing extrapola-
+tion of geochemical profiles from historical data. Based
+on a previous complete geochemical characterization of
+the lake waters [21], high concentrations of sulfate occur
+in the chemocline and in the anoxic waters, where
+Page 8
+Vigneron et al. Microbiome (2021) 9:46  Page 8 of 14
+Fig. 5 Sulfur cycling network of the Lake A microbiome. a Genomic bins are represented as circles with color corresponding to their taxonomic
+affiliation and size corresponding to the average number of reads mapping on the genomic bin. Genomic bins are connected to sulfur
+compounds (white circle with pie chart) predicted to be utilised (blue link) or produced (purple link). For each sulfur molecule, the ring pie chart
+represents the proportion of consumption (blue) and production (purple) and the size of the pie chart is proportional to the number of
+connections. b Metabolic network overlaid with the potential for organic sulfur molecule utilisation in green
+sulfide concentrations increase with depth (Fig. 1). High
+manganese concentrations (total Mn) were also detected
+at the chemocline, with a peak of iron (total Fe) a few
+meters below (Fig. 1 [21]). Finally, under similar condi-
+tions of snow and ice cover, photosynthetically available
+radiation (PAR) was detected down to 20 m (Fig. 1 [28]).
+These extrapolations were supported by the depth distri-
+bution of green sulfur bacteria (Chlorobium) that con-
+firmed light and sulfide transition zones around 24 m.
+Together, these observations indicate a stable and in-
+tense redox gradient throughout the water column for
+microbial selection and growth.
+DNA- and RNA-based amplicon sequencing was ini-
+tially carried out to determine the composition of the
+total and potentially active microbial community in the 
+water column. The results of the amplicon sequencing
+revealed that each depth sampled had a unique micro-
+bial community composition, and we therefore se-
+quenced metagenomes for all depths. We extracted 16S
+rRNA genes from metagenomes to detect any microbial
+lineages that might have been underestimated due to
+PCR primer bias. Since we found few discrepancies, we
+have chosen to present here the microbial community
+detected by the metagenomic analyses. The amplicon re-
+sults remain valuable as indicators of potential activity
+and facilitated comparisons of our data with more com-
+monly reported amplicon data from elsewhere. Finally,
+we extended our analyses with quantitative PCR since
+neither the amplicon nor metagenomic approaches pro-
+vided estimations of abundances.
+Page 9
+Vigneron et al. Microbiome (2021) 9:46  Page 9 of 14
+The ensemble of RNA and DNA-based 16S amplicon
+and metagenomic sequencing from High Arctic Lake A
+revealed multiple contiguous layers of complex yet stable
+and potentially active microbial communities, with puta-
+tive metabolism aligning with the geochemical gradients
+of the lake (Fig. 1). The microbial community of the oxic
+mixolimnion beneath the ice was consistent with cold
+freshwater communities, with lineages of the Verrucomi-
+crobia, Bacteroidetes, Actinobacteria, Cyanobacteria and
+Betaproteobacteria,  which are frequently observed in
+northern lakes and rivers [29–31].  At the chemocline,
+alphaproteobacterial chemotrophic sulfur oxidisers and
+phototrophic sulfur oxidisers (Chlorobiaceae), both pre-
+viously observed in microbial surveys of Antarctica [17,
+32] and temperate meromictic lakes [19, 33] co-occurred
+since the lower depth limits of the Lake A photic and
+aerobic zones coincided (Fig. 1). The chemocline micro-
+bial community also shared major similarities with mar-
+ine communities with, for example, high proportions of
+Marinimicrobia (SAR406),  Pelagibacter (SAR11) and
+Deltaproteobacteria SAR324, which are frequently de-
+tected in seawater, hadal waters in the deep ocean, dys-
+oxic marine waters and oxygen minimum zones [24, 34–
+36]. By contrast, the microbial community of the saline
+anoxic monimolimnion showed homologies with deep-
+sea hypersaline anoxic basin communities, notably with
+sequences related to Chloroflexi MSBL5, Desulfobactera-
+ceae MSBL7, Planctomycetes MSBL9 and Cloacimona-
+dales MSBL8 [37].  At these depths, the microbial
+community also shared similarities with anoxic and sulfi-
+dic marine sediments, where Deltaproteobacteria SEEP
+SRB1 and Desulfarculaceae,  Atribacteria,  Omnitrophica
+and Chloroflexi members also flourish [38].  Taken to-
+gether, these results reveal that, cascading along its geo-
+chemical gradients, the Lake A water column hosts a
+panoply of microorganisms, relevant to a broad range of
+environments and environmental conditions from oxic
+freshwaters to anoxic marine sediments. It is rare for a
+single study to cover the entire range of freshwater oxic
+to marine anoxic conditions. In this way, we were able
+to track amplicons and MAGs that had peaks in one en-
+vironment but were able to persist in adjacent layers,
+providing insight into environmental selection. The find-
+ing of organisms usually associated with anoxic sedi-
+ments suggests that sulfur metabolisms associated with
+sediments can occur in anoxic pelagic zones and our ob-
+servations expand the available known habitats for these
+pathways.
+New microbial agents and genes for sulfur transformation
+From surface layers to the bottom, most of the genomic
+bins (61.4%) recovered from Lake A included genes for
+sulfur cycling (Figs. 3 and 4).  Furthermore, bacterial
+abundance in Lake A was correlated with the average 
+number of metabolic pathways for sulfur transformation
+per bin (R2 = 0.69, p = 0.04), supporting the notion that
+sulfur cycling represents a major process in Lake A wa-
+ters and involves a large microbial diversity. Reconstruc-
+tion of genomic bins highlighted that in addition to the
+conventional taxa associated with the classical sulfur
+cycle in meromictic saline lakes such as sulfate-reducing
+Desulfobacteraceae, sulfur-oxidizing Alphaproteobacteria
+and phototrophic sulfur oxidizing Chlorobiaceae [17],
+various lineages with poorly known ecological functions
+are also involved in sulfur transformations. Among these
+lineages, key genes of sulfur metabolism were identified
+in Ca. WOR1 (Saganbacteria),  SAR86, Lentisphaerae,
+Aminicentantes,  Marinimicrobia,  Calditrichaeota,  Abys-
+subacteria,  Omnitrophica and Parcubacteria,  thereby
+expanding the known diversity of sulfur cycling bacteria
+(Fig. 3 and Supplementary Table S1).
+A strong functional redundancy in sulfur transform-
+ation pathways was detected throughout the water col-
+umn, with taxonomically diverse microorganisms having
+similar metabolic pathways (Figs. 3 and 4). For example,
+sulfide oxidation potential through SQR and the Sox-
+ABCXYZ complex was identified in Alphaproteobacteria
+(Rhodospirillales)  and Gammaproteobacteria SAR86.
+Oxidative DsrAB genes were also identified in half of the
+Rhodospirillales bins and in the Deltaproteobacteria
+SAR324, while the modified Hdr-like complex, also in-
+volved in sulfide oxidation was discovered in another
+Alphaproteobacteria bin, congruent with experimental
+evidence in the Alphaproteobacterium Hyphomicrobium
+denitrificans [23]. In addition, the SoxABCXYZ complex
+coupled with SoeAB genes were detected in Betaproteo-
+bacteria bins whereas SQR, FccAB and the oxidative
+DsrAB genes were ascertained in the Chlorobiaceae bin
+[32] (Fig. 3).  These multiple pathways for sulfide and
+sulfite oxidations occurred in the freshwater and chemo-
+cline layers (Fig. 4), suggesting that sulfides sustain mul-
+tiple ecological niches in aquatic environments over
+space and time. If the occurrence of these various sulfur-
+oxidizing pathways and lineages at the chemocline is
+supported by the chemical profiles, their identification in
+the upper freshwater samples, coupled with the co-
+detection of sulfonate degradation genes (Fig. 2),  sug-
+gests that organic sulfur molecules may also support
+sulfur-oxidizing populations in non-sulfidic waters,
+multiplying the availability of ecological niches and
+allowing functional redundancy.
+In the anoxic saline waters of Lake A, the dissimilatory
+sulfate reduction pathway (Sat, Qmo, AprAB and DsrAB
+genes) occurred in the Deltaproteobacteria bins as ex-
+pected [7], but was also found in genomic bins affiliated
+with Chlorolexi, Planctomycetes, Calditrichaeota and Ca.
+Nealsonbacteria, Ca. Abyssubacteria and Ca.  Zixibac-
+teria (Fig. 3, Supplementary Table S1).  These results
+Page 10
+Vigneron et al. Microbiome (2021) 9:46  Page 10 of 14
+provide an ecological context for these new lineages of
+sulfate reducers that were previously proposed after
+mining of combined metagenomic datasets [6].  Our
+metagenomic survey also predicted a sulfite reduction
+potential (AsrAB genes) for Omnitrophica members
+(Figs. 3 and 4), confirming previous mining of publicly
+available metagenomes [6], as well as for few Planctomy-
+cetes and Patescibacteria populations in the sulfidic wa-
+ters of the monimolimnion.
+Patescibacteria, Planctomycetes and Chloroflexi phyla
+showed the strongest variability of genomic potential
+within their lineages (Figs. 3 and 4). Each of these phyla
+included populations predicted to gain energy from thio-
+sulfate oxidation, sulfate and sulfite reduction as well as
+polysulfide/elemental sulfur reduction or oxidation. A
+new fusion gene probably involved in elemental sulfur/
+polysulfide reduction was also identified in two genomic
+bins affiliated with Patescibacteria and Planctomycetes
+phyla. Sequence comparison with public databases indi-
+cated that this gene is also present in a single-cell gen-
+ome related to the Planctomycetes-derived phylum of
+the Kiritimatiellaeota, isolated from a deep continental
+microoxic subsurface aquifer [39],  suggesting that this
+gene might be relevant in microoxic conditions. Interest-
+ingly, Planctomycetes, Chloroflexi and Ca.  Nealsonbac-
+teria (Patescibacteria)  genomic bins also included
+numerous genes (> 10 per bin) coding for sulfatases.
+These hydrolytic enzymes potentially release sulfate
+from sulfated organic matter [40],  providing additional
+electron acceptors throughout the water column. To-
+gether, these results extend the diversity of sulfur cycling
+microorganisms and metabolic pathways. They suggest
+new fundamental roles in sulfur cycling for members of
+the Patescibacteria,  Planctomycetes and Chloroflexi in
+aquatic environments, with strong ecological niche dif-
+ferentiation within members of these lineages.
+Utilization of sulfur cycle intermediates
+Sulfur cycle intermediates (SCIs: thiosulfate, tetrathio-
+nate, sulfite, polysulfides, elemental sulfur) have a large
+biogeochemical significance in anoxic and marine envi-
+ronments, creating shortcuts around the classic sulfur
+cycle [1, 8]. The potential for oxidation and reduction of
+these sulfur molecules was widespread in the Lake A mi-
+crobial community, with taxonomically diverse lineages
+potentially using SCIs as electron donors or acceptors
+(Fig. 3). The number of genes for SCI metabolism and
+sulfate reduction was similar, suggesting that SCI utilisa-
+tion represents a quantitatively important process in
+Lake A sulfur cycling (Fig. 2). Furthermore, the number
+of genomic bins with SCI utilization genes exceeded the
+number of bins with sulfate reduction and hydrogen sul-
+fide oxidization pathways and SCIs were major hubs in 
+the sulfur network (Fig. 5), indicating a wide diversity of
+microorganisms able to process SCIs.
+The potential to use SCIs was shared among specialists
+that have the genetic potential to use only a limited
+range of these molecules, and generalists that could po-
+tentially metabolise a broad range of sulfur compounds
+including sulfate or hydrogen sulfide. The specialists in-
+cluded some members of the Parcubacteria with the po-
+tential limited to thiosulfate oxidation, Omnitrophica
+with only genes for sulfite reduction and Bacteroidetes
+populations with the metabolic potentials for thiosulfate
+and polysulfide oxidation. By contrast, generalists were
+mainly represented by members of the Deltaproteobac-
+teria or Alphaproteobacteria lineages with a large suite
+of sulfur transformation genes, suggesting high variabil-
+ity in substrate utilization (Fig. 4).
+The taxonomically diverse microorganisms observed
+here are likely fuelled by microbial phototrophic and
+chemotrophic hydrogen sulfide oxidations that generate
+SCIs of various oxidation states [8], as well as by abiotic
+oxidation of hydrogen sulfide with iron and manganese
+oxides present in elevated concentrations in Lake A (Fig.
+1) [21]. Although SCIs have not been measured in Lake
+A, a sulfidic smell and a yellow-orange color of the water
+below 22 m was detected during sampling supporting
+the presence of polysulfides and aqueous elemental sul-
+fur in the water, and the metabolic potentials detected in
+metagenomic dataset. Together, these results indicated a
+strong ecological role for SCIs by providing an energy
+source for a diverse and abundant microbial community
+in the fresh, brackish and saline waters.
+Organic sulfur molecules as SCI sources
+Oxidised organic sulfur molecules, such as sulfonate and
+sulfonium, are produced by phytoplankton, especially di-
+noflagellates, as osmoprotectants, cryoprotectant, antiox-
+idants [41] or predator deterrents in aquatic
+environments [42], and they are an important source of
+sulfur and carbon for pelagic bacteria in the ocean [14]
+and likely freshwaters. These compounds are even found
+in metabolomes of diatoms [43]. Eukaryotic microalgae
+including dinoflagellates such as Polarella and Scripp-
+siella with wide salinity tolerances have been previously
+reported in Lake A [28]. In addition, we detected Chry-
+sophyceae and other ochrophytes (data not shown) in
+metagenomes from the oxic mixolimnion, and given that
+large eukaryotic algae would sink to greater depths, the
+presence of eukaryotic sulfur metabolites throughout the
+Lake A water column is to be expected. The genetic cap-
+acity for OSM degradation was widely distributed, oc-
+curring in 56% of the genomic bins (Figs. 3, 4 and 5).
+Proteobacterial lineages were detected as major sulfonate
+degraders in the mixolimnion and chemocline. Since
+these degradation processes release sulfite in the water,
+Page 11
+Vigneron et al. Microbiome (2021) 9:46  Page 11 of 14
+our results suggest that organic sulfur molecules might
+have an important ecological role, providing sulfur com-
+pounds of intermediate oxidation states in aerobic and
+microaerobic aquatic systems regardless of salinity and
+sulfate concentrations.
+Genes for DMSP utilisation, identified in the freshwater
+and brackish waters of the lake were also detected in
+Alphaproteobacteria (Rhodospirillales and SAR11/Pelagi-
+bacter bins) and Actinobacteria (Acidimicrobiia),  as re-
+ported in surface oceans [14].  In addition, numerous
+genes for respiration of dimethylsulfoxide (DMSO) were
+identified in the anoxic monimolimnion and in Desulfo-
+bacteraceae, Chloroflexi and Bacteroidetes bins, suggesting
+that algal metabolites could sink within senescent phyto-
+plankton cells from the upper water column and then be
+used as an alternative energy source by anaerobic micro-
+bial populations in the lower water column.
+Conclusions
+Isolated and permanently stratified, High-Arctic mero-
+mictic saline Lake A offered an ideal opportunity to un-
+cover and dissect the pathways of microbial sulfur
+metabolism across oxygen, sulfate, sulfide and salinity
+gradients. Although the chemocline harboured the taxo-
+nomically and functionally most diverse and abundant
+microbial community, demarcating this layer as a hot-
+spot for microbial activity and sulfur transformations as
+in other meromictic lakes [17, 19],  genes for sulfur
+transformations were identified throughout the water
+column, and provided new insights into sulfur cycling by
+microorganisms over an unusually wide range of envir-
+onmental conditions. The pathways and taxa involved in
+sulfide oxidation and sulfate reduction were complex
+and diverse. However, the metagenomic dataset revealed
+that sulfur transformations were not limited to these
+classic processes and that multiple sulfur cycling path-
+ways may be simultaneously operating throughout the
+water column, with taxonomically diverse populations
+using sulfur cycle intermediates as electron donors or
+acceptors. Genes for organic sulfur molecule degradation
+and respiration were also abundant and widely distrib-
+uted in the microbial community, suggesting that phyto-
+plankton metabolites might also be a major source of
+energy for freshwater and marine bacteria. Our data ex-
+tend the diversity of sulfur cycle lineages and metabolic
+pathways in aquatic ecosystems and emphasise the eco-
+logical importance of sulfur cycle intermediates as key
+hubs for electron flow and energy production over a
+wide range of environmental conditions.
+Methods
+Sample collection and nucleic acid extraction
+In summer 2017 (18 July 2017), three independent 24-
+cm-diameter holes were drilled through the ice (0.6 m 
+thickness) near the middle of Lake A (Ellesmere Island,
+82° 59.667′ N, 75° 26.602′ W; Fig. 1a). Oxygen concen-
+tration, salinity and temperature profiles throughout the
+water column were measured using a YSI-EXO2 profiler
+(Xylem, Inc., Yellow Springs, USA) to 65 m, which was
+the length of the instrument cable, to determine sam-
+pling depth. Eight sampling depths (2, 6, 14, 22, 34, 40,
+55 and 65 m) were selected to cover all identified water
+layers (Fig. 1). A Limnos water sampler (KC, Denmark),
+which was previously rinsed with 10% HCl, then sterile
+MilliQ water and maintained closed until sampling, was
+lowered into the ice holes down to the sampling depth.
+Water was visibly orange in the 22 m, 34 m, 40 m, 55 m
+and 65 m samples. For each selected depth, 1 L of each
+triplicate water sample was directly filtered through sep-
+arate 0.22-μm pore size Sterivex filters and then stored
+below – 50 °C until nucleic acid extraction.
+Nucleic acids (DNA and RNA) of two of the replicates
+samples per depth were extracted from the same Steri-
+vex filters using Qiagen Allprep DNA/RNA Mini Kit.
+The Sterivex cartridges were opened and the membrane
+filters were cut into small pieces before the lysis steps, as
+previously described [44].  All steps of the nucleic acid
+extractions, from the opening of the filters to the nucleic
+acid resuspension in autoclaved, filtered and UV-treated
+water, were carried out in a sterile laminar flow cabinet.
+Negative control (no template) of nucleic acids extrac-
+tion was simultaneously carried out. The DNA extracts
+were stored at – 20 °C until library preparation. For
+RNA extracts, two additional DNase steps (DNase I,
+Ambion, Foster City, CA, USA) were carried out to re-
+move any trace of carried over DNA. The absence of
+DNA contamination was confirmed by amplification of
+16S rRNA genes with bacterial primers using the RNA
+extracts (undiluted and diluted 10 times) as template,
+with no product detected after 35 PCR cycles. The RNA
+was then immediately converted to cDNA using a High-
+Capacity cDNA Reverse Transcription kit (Applied Bio-
+systems, Foster City, CA, USA) and stored as cDNA at −
+20 °C until library preparation.
+Quantitative PCR
+The abundance of bacterial and archaeal 16S rRNA
+genes was estimated on the two replicate samples per
+depth using quantitative PCR (qPCR) with primers
+Bact1369f/Bact1492r [45] and Arc787f/Arc1059r [46],
+respectively. Quantification was performed in triplicate
+with a range of template concentrations (0.1, 0.5, 1 ng of
+DNA) to compensate for any PCR inhibition. Genomic
+DNA extracted from Methylomonas methanica
+(DSM25384) and Methanosarcina acetivorans
+(DSM2834) were serially diluted to construct standard
+curves (concentration ranged from 102 to 106 16S rRNA
+genes per reaction). The R2 of standard curves obtained
+Page 12
+Vigneron et al. Microbiome (2021) 9:46  Page 12 of 14
+by qPCR were above 0.99, PCR efficiencies were above
+88.7%,  and melting curves showed no trace of non-
+specific amplifications. Threshold cycle (Ct) of the sam-
+ples ranged from 15 to 25 cycles whereas Ct of negative
+controls (water) were all after 37 cycles. The qPCR re-
+sults were expressed in terms of 16S rRNA gene num-
+bers per millilitre of water sample (Fig. 1d).
+Illumina MiSeq Amplicon library preparation, sequencing
+and analysis
+Microbial community composition of the samples was
+determined by high-throughput sequencing of bacterial
+and archaeal 16S rRNA (cDNA) and 16S rRNA genes
+(DNA) using primers targeting the bacterial V4–V5 re-
+gion (S-D-Bact-0516-a-S-18/S-D-Bact-0907-a-A-20; 460
+bp product) [47] and the archaeal V1–V3 region (A27F/
+Arc518R; 500 bp),  respectively [48].  All PCR reactions
+were carried out following [49].  Samples and negative
+controls of nucleic acids extraction, transcription and
+PCRs were sequenced using an Illumina MiSeq v3 kit at
+the IBIS/Laval University, Plate-forme d’Analyses Géno-
+miques (Québec, QC). Reads were assembled into single
+paired-end sequences, curated and clustered into OTUs
+(97% sequence similarity) as detailed in a GitHub reposi-
+tory ([URL: "https://github.com/CruaudPe/MiSeq_Multigenique"] https: / /github. com/ CruaudPe/ MiSeq_
+Multigenique). OTUs detected in negative controls were
+removed from the analysis as described [27]. Taxonomic
+affiliations of the reads were determined with Mothur
+[50] using BLAST against Silva database release 132 as
+reference [51].
+Metagenomic library preparation, sequencing and
+analysis
+One metagenome per sample depth (8 metagenomes)
+was constructed using a Nextera XT Library Kit (Illu-
+mina, San Diego, CA, USA). The 8 metagenomes were
+pooled equimolarly then sequenced in two Illumina
+MiSeq (2 × 300 bp) runs and one Illumina NexSeq run
+(2 × 150 bp) at the Institut de Biologie Integrative et des
+Systèmes (IBIS) sequencing platform (Université Laval,
+Canada) and at the CGEB–Integrated Microbiome Re-
+source (Dalhousie University, Canada),  respectively.
+Datasets were quality filtered using the Trimmomatic
+tool [52],  with default settings. Paired-end joining was
+done using FLASH2 [53].  The 16S rRNA reads longer
+than 110 bp were isolated from metagenomic reads
+using REAGO 1.1 [54], and taxonomic assignments were
+performed as for the 16S rRNA gene amplicons.
+Each metagenome was assembled separately from
+paired-end reads passing quality filtering using SPAdes
+[55].  Assembled contigs and mapping files (BAM files
+generated using BBmap) were uploaded to the Depart-
+ment of Energy Joint Genome Institute (DOE-JGI) IMG/
+MER analysis pipeline [56] for gene calling and 
+functional annotation. To account for differences in se-
+quencing depth between samples, metagenomes were
+normalised to the size of the smallest dataset.
+Binning and functional characterization
+For metagenome assembled genome reconstruction, all
+quality filtered sequences were pooled and co-assembled
+using MEGAHIT [57]. Read coverage of the contigs was
+carried out using bwa-mem ([URL: "http://bio-bwa.sourceforge.net"] http://bio-bwa.sourceforge.
+net), followed by contig binning using MetaBAT-2 [58]
+with contigs longer than 2000 bp. The completeness and
+contamination level of the combined genomic bins were
+then evaluated using CheckM [59].  Only bins with a
+contamination level under 5% and completeness above
+50% were analysed. Genetic composition of genomic
+bins was then explored using KEGG [25] and MetaCyc
+[60] pathway mappers with genes identified by IMG/
+MER in the co-assembly. The results were checked
+manually and the presence of specific pathways not
+characterised in the KEGG database was determined
+using BLASTP with parameters detailed in the notes for
+Supplementary Table 1. In addition, presence and affili-
+ation of genes coding molybdenum enzymes (DMSO re-
+ductase family) was investigated using GraftM and its
+DMSO superfamily package [61].  Taxonomic affiliation
+of the bins was based on 16S rRNA gene when present
+in the bin as well as on taxonomic affiliation and phylo-
+genetic analysis of ribosomal protein genes. Protein se-
+quence alignments were performed using Clustal Omega
+[62] and phylogenetic tree of concatenated sequences of
+ribosomal protein alignment and otr protein sequence
+alignment were conducted using FastTree 2 [63] with
+the JTT+CAT model and visualised using iTOL [64].
+Statistical analysis
+Statistical analyses of the data set (Student’s t test, non-
+parametric multivariate analysis of variance (NPMA
+NOVA),  Bray-Curtis-based dissimilarity index calcula-
+tions and correlation-based clustering, non-metric multi-
+dimensional scale (NMDS)) were carried out according
+to recommendations of the Guide to Statistical Analysis
+in Microbial Ecology [65],  using PAST software [66].
+Sulfur cycling network was represented using the soft-
+ware environment R implemented with the igraph pack-
+age [67].
+Supplementary Information
+The online version contains supplementary material available at [URL: "https://doi.org/10.1186/s40168-021-00999-x"] https://doi.
+ org/10.1186/s40168-021-00999-x.
+Additional file 1: Supplementary Figure S1. Heatmap representing
+the bacterial community composition in each sample determined using
+16S rRNA gene (D), 16S rRNA (R) and 16S rRNA reads recovered from
+metagenomic data (M). Results of the two duplicate samples are shown
+for 16S rRNA gene and 16s rRNA. Only lineages with relative abundance
+Page 13
+Vigneron et al. Microbiome (2021) 9:46  Page 13 of 14
+>1% in at least one sample are shown. The right part of the graph
+represents the bacterial 16S rRNA gene quantification in the duplicate
+samples (blue bars), as well as the relative proportion between bacteria
+and archaea determined by 16S rRNA gene qPCR quantification (D; red
+bars) and in the metagenomic dataset (M; purple bar).
+Additional file 2: Supplementary Figure S2. Relative proportion of
+bacterial lineages obtained with the different molecular approaches a)
+Relative proportion of bacterial lineages observed in the rRNA gene
+amplicon dataset and rRNA amplicon dataset. b) Relative proportion of
+bacterial lineages observed in the rRNA gene amplicon dataset and in
+the metagenomic dataset. Each point represents a bacterial lineage as
+defined in Supplementary Figure S1. Points are color coded according to
+their sample of origin.
+Additional file 3: Supplementary Figure S3. Phylogenetic tree of the
+octaheme c-type cytochrome tetrathionate reductase genes (Otr). The
+tree is rooted with octaheme c-type cytochrome nitrite reductase.
+Additional file 4: Supplementary Figure S4. Phylogenetic tree of the
+genomic bins. The tree is based on concatenated alignment of ribosomal
+protein genes. Only bins with more than 50% of the ribosomal protein
+genes are included in the tree. The branches are color coded according
+to the taxonomy in Fig. 1.
+Additional file 5: Supplementary Table S1. Description of the
+genomic bins with sulfur-cycling genes identified in the Lake A micro-
+biome presented in Figure 3.
+Abbreviations
+S: Sulfur; OSM: Organo-sulfur molecules; SCI: Sulfur cycle intermediate;
+DMS: Dimethylsulfide; DMSP: Dimethylsulfoniopropionate;
+DMSO: Dimethylsulfoxide; OTU: Operational taxonomic unit;
+qPCR: Quantitative polymerase chain reaction; NMDS: Non-metric
+multidimensional scaling; NPMANOVA: Non-parametric multivariate analysis
+of variance; MSBL: Mediterranean Sea Brine Lake; Ca.: Candidatus;
+BLAST: Basic Local Alignment Search Tool; PAR: Photosynthetically available
+radiation
+Acknowledgements
+We thank Denis Sarrazin (Centre d’études nordiques) and members of the
+Culley Viral Discovery and Ecology Laboratory (ViDEL) for assisting the
+sampling effort, Parks Canada for access to facilities, Polar Continental Shelf
+Program and Canadian Helicopter Ltd. for the logistic support, and Calcul
+Quebec for computing resources and technical support.
+Authors’ contributions
+A.V. and W.F.V. designed the research. W.F.V. and A.I.C obtained funding,
+logistics and permits for the research. A.I.C. and W.F.V. conducted the field
+sampling. A.V. generated the molecular data. A.V. and P.C. analysed the data.
+A.V. wrote the paper with W.F.V., C.L., P.C., R.-M.C. and A.I.C. All authors read
+and approved the final manuscript.
+Funding
+This work was supported by the program Sentinel North financed by the
+Canada First Research Excellence Fund (CFREF); the Natural Sciences and
+Engineering Research Council of Canada (NSERC); the CNR (Italy)–Université
+Laval UMI-MicroMeNu program; the fond de Recherche du Quebec Nature
+et Technologies (FQRNT); and the Network of Centres of Excellence
+ArcticNet.
+Availability of data and materials
+Assembled metagenome data are available in IMG/MR ([URL: "https://img.jgi.doe.gov/mer/"] https://img.jgi.doe.
+ gov/mer/) under the following accession numbers: 3300033443, 3300033444,
+3300033445, 3300033439, 3300033411, 3300033473, 3300033474 and
+3300033495. Co-assembly is also available on IMG/MR under accession num-
+ber 3300033064. Raw amplicon sequences and bin files were deposited in
+the NCBI public database under Bioproject PRJNA616293 ([URL: "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA616293"] https://www.ncbi.
+ nlm.nih.gov/bioproject/PRJNA616293). In-house scripts used in this study are
+available on GitHub/CruaudPe. Environmental metadata were previously
+published [21] and additional data are available in the Nordicana D database
+([URL: "http://www.cen.ulaval.ca/nordicanad"] http://www.cen.ulaval.ca/nordicanad). 
+Ethics approval and consent to participate
+All necessary permits were obtained for this study, specifically a Nunavut
+Research License for research in Nunavut, and a Parks Canada Research and
+Collection Permit, for sampling in Quttinirpaaq National Park.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Author details
+1Département de Biologie, Université Laval, Québec, QC, Canada. 2Centre
+d’études nordiques (CEN), Takuvik Joint International Laboratory, Université
+Laval, Québec, QC, Canada. 3Institut de Biologie Intégrative et des Systèmes,
+Université Laval, Québec, QC, Canada. 4Département de Biochimie, de
+Microbiologie et de Bio-informatique, Université Laval, Québec, QC, Canada.
+5Département de Chimie, Université Laval, Québec, QC, Canada. 6Québec
+Océan, Université Laval, Québec, QC, Canada.
+Received: 17 November 2020 Accepted: 4 January 2021
+References
+1.  Jørgensen BB, Findlay AJ, Pellerin A. The biogeochemical sulfur cycle of
+marine sediments. Front Microbiol. 2019;10:849.
+2.  Amend JP, Aronson HS, Macalady J, LaRowe DE. Another chemolithotrophic
+metabolism missing in nature: sulfur comproportionation. Environ Microbiol.
+2020;22:1971–6.
+3.  Wasmund K, Mußmann M, Loy A. The life sulfuric: microbial ecology of
+sulfur cycling in marine sediments. Environ Microbiol Rep. 2017;9:323–44.
+4.  Bowles MW, Mogollón JM, Kasten S, Zabel M, Hinrichs K-U. Global rates of
+marine sulfate reduction and implications for sub–sea-floor metabolic
+activities. Science. 2014;344:889.
+5.  Sievert SM, Hügler M, Taylor CD, Wirsen CO. Sulfur oxidation at deep-sea
+hydrothermal vents. In: Dahl C, Friedrich CG, editors. Microb Sulfur Metab.
+Berlin, Heidelberg: Springer Berlin Heidelberg; 2008. p. 238–58.
+6.  Anantharaman K, Hausmann B, Jungbluth SP, Kantor RS, Lavy A, Warren LA,
+et al. Expanded diversity of microbial groups that shape the dissimilatory
+sulfur cycle. ISME J. 2018;12:1715–28.
+7.  Vigneron A, Cruaud P, Alsop E, de Rezende JR, Head IM, Tsesmetzis N.
+Beyond the tip of the iceberg; a new view of the diversity of sulfite- and
+sulfate-reducing microorganisms. ISME J. 2018;12:2096–9.
+8.  Findlay AJ, Kamyshny A. Turnover rates of intermediate sulfur species (Sx2-
+S0, S2
+O32-
+, S4
+O62-
+, SO32-
+) in anoxic freshwater and sediments. Front
+Microbiol. 2017;8:2551.
+9.  Rickard D, Morse JW. Acid volatile sulfide (AVS). Mar Chem. 2005;97:141–97.
+10. Jørgensen BB. A thiosulfate shunt in the sulfur cycle of marine sediments.
+Science. 1990;249:152.
+11. Wang R, Lin J-Q, Liu X-M, Pang X, Zhang C-J, Yang C-L, et al. Sulfur
+oxidation in the acidophilic autotrophic Acidithiobacillus spp. Front
+Microbiol. 2019;9:3290.
+12. Fakhraee M, Li J, Katsev S. Significant role of organic sulfur in supporting
+sedimentary sulfate reduction in low-sulfate environments. Geochim
+Cosmochim Acta. 2017;213:502–16.
+13. Couture R-M, Fischer R, Van Cappellen P, Gobeil C. Non-steady state
+diagenesis of organic and inorganic sulfur in lake sediments. Geochim
+Cosmochim Acta. 2016;194:15–33.
+14. Landa M, Burns AS, Durham BP, Esson K, Nowinski B, Sharma S, et al. Sulfur
+metabolites that facilitate oceanic phytoplankton–bacteria carbon flux. ISME
+J. 2019;13:2536–50.
+15. Hausmann B, Pelikan C, Herbold CW, Köstlbacher S, Albertsen M, Eichorst
+SA, et al. Peatland Acidobacteria with a dissimilatory sulfur metabolism.
+ISME J. 2018;12:1729–42.
+16. Cavicchioli R. Microbial ecology of Antarctic aquatic systems. Nat Rev
+Microbiol. 2015;13:691–706.
+17. Lauro FM, DeMaere MZ, Yau S, Brown MV, Ng C, Wilkins D, et al. An integrative
+study of a meromictic lake ecosystem in Antarctica. ISME J. 2011;5:879–95.
+18. Peduzzi S, Tonolla M, Hahn D. Isolation and characterization of aggregate-
+forming sulfate-reducing and purple sulfur bacteria from the chemocline of
+meromictic Lake Cadagno, Switzerland. FEMS Microbiol Ecol. 2003;45:29–37.
+Page 14
+Vigneron et al. Microbiome (2021) 9:46  Page 14 of 14
+19. Pjevac P, Korlević M, Berg JS, Bura-Nakić E, Ciglenečki I, Amann R, et al.
+Community shift from phototrophic to chemotrophic sulfide oxidation
+following anoxic holomixis in a stratified seawater lake. Appl Environ
+Microbiol. 2015;81:298.
+20. Mas J, Van Gemerden H. Storage products in purple and green sulfur bacteria.
+In: Blankenship RE, Madigan MT, Bauer CE, editors. Anoxygenic Photosynthetic
+Bacteria. [Internet]. Dordrecht: Springer Netherlands; 1995. p. 973–90.
+21. Gibson JAE, Vincent WF, Van Hove P, Belzile C, Wang X, Muir D.
+Geochemistry of ice-covered, meromictic Lake A in the Canadian High
+Arctic. Aquat Geochem. 2002;8:97–119.
+22. Blazewicz SJ, Barnard RL, Daly RA, Firestone MK. Evaluating rRNA as an
+indicator of microbial activity in environmental communities: limitations
+and uses. ISME J. 2013;7:2061.
+23. Koch T, Dahl C. A novel bacterial sulfur oxidation pathway provides a new
+link between the cycles of organic and inorganic sulfur compounds. ISME J.
+2018;12:2479–91.
+24. van Vliet DM, von Meijenfeldt FAB, Dutilh BE, Villanueva L, Sinninghe
+Damsté JS, Stams AJM, et al. The bacterial sulfur cycle in expanding dysoxic
+and euxinic marine waters. Environ Microbiol. n/a. Available from: [URL: "https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15265"] https://sfa
+ mjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15265.
+25. Kanehisa M, Araki M, Goto S, Hattori M, Hirakawa M, Itoh M, et al. KEGG for linking
+genomes to life and the environment. Nucleic Acids Res. 2008;36:D480–4.
+26. Motl N, Skiba MA, Kabil O, Smith JL, Banerjee R. Structural and biochemical
+analyses indicate that a bacterial persulfide dioxygenase–rhodanese fusion
+protein functions in sulfur assimilation. J Biol Chem. 2017;292:14026–38.
+27. Atkinson SJ, Mowat CG, Reid GA, Chapman SK. An octaheme c-type
+cytochrome from Shewanella oneidensis can reduce nitrite and
+hydroxylamine. FEBS Lett. 2007;581:3805–8.
+28. Charvet S, Vincent WF, Comeau A, Lovejoy C. Pyrosequencing analysis of
+the protist communities in a High Arctic meromictic lake: DNA preservation
+and change. Front Microbiol. 2012;3:422.
+29. Tran P, Ramachandran A, Khawasek O, Beisner BE, Rautio M, Huot Y, et al.
+Microbial life under ice: Metagenome diversity and in situ activity of
+Verrucomicrobia in seasonally ice-covered lakes. Environ Microbiol. 2018:2568–84.
+30. Vigneron A, Lovejoy C, Cruaud P, Kalenitchenko D, Culley A, Vincent WF.
+Contrasting winter versus summer microbial communities and metabolic
+functions in a permafrost thaw lake. Front Microbiol. 2019;10:1656.
+31. Cruaud P, Vigneron A, Fradette M-S, Dorea CC, Culley AI, Rodriguez MJ, et al.
+Annual bacterial community cycle in a seasonally ice-covered river reflects
+environmental and climatic conditions. Limnol Oceanogr. 2020;65:S21-37.
+32. Ng C, DeMaere MZ, Williams TJ, Lauro FM, Raftery M, Gibson JA, et al.
+Metaproteogenomic analysis of a dominant green sulfur bacterium from
+Ace Lake, Antarctica. ISME J. 2010;4:1002–19.
+33. Yurkova N, Rathgeber C, Swiderski J, Stackebrandt E, Beatty JT, Hall KJ, et al.
+Diversity, distribution and physiology of the aerobic phototrophic bacteria in
+the mixolimnion of a meromictic lake. FEMS Microbiol Ecol. 2002;40:191–204.
+34. Hawley AK, Nobu MK, Wright JJ, Durno WE, Morgan-Lang C, Sage B, et al.
+Diverse Marinimicrobia bacteria may mediate coupled biogeochemical
+cycles along eco-thermodynamic gradients. Nat Commun. 2017;8:1507.
+35. Wright JJ, Konwar KM, Hallam SJ. Microbial ecology of expanding oxygen
+minimum zones. Nat Rev Microbiol. 2012;10:381–94.
+36. Nunoura T, Takaki Y, Hirai M, Shimamura S, Makabe A, Koide O, et al. Hadal
+biosphere: Insight into the microbial ecosystem in the deepest ocean on
+Earth. Proc Natl Acad Sci. 2015;112:E1230.
+37. Pachiadaki MG, Yakimov MM, LaCono V, Leadbetter E, Edgcomb V.
+Unveiling microbial activities along the halocline of Thetis, a deep-sea
+hypersaline anoxic basin. ISME J. 2014;8:2478–89.
+38. Vigneron A, Alsop EB, Cruaud P, Philibert G, King B, Baksmaty L, et al.
+Comparative metagenomics of hydrocarbon and methane seeps of the Gulf
+of Mexico. Sci Rep. 2017;7:16015.
+39. Sackett JD, Kruger BR, Becraft ED, Jarett JK, Stepanauskas R, Woyke T, et al.
+Four draft single-cell genome sequences of novel, nearly identical
+Kiritimatiellaeota strains isolated from the continental deep subsurface.
+Microbiol Resour Announc. 2019;8:e01249–e01218.
+40. Toesch M, Schober M, Faber K. Microbial alkyl- and aryl-sulfatases:
+mechanism, occurrence, screening and stereoselectivities. Appl Microbiol
+Biotechnol. 2014;98:1485–96.
+41. Sunda W, Kieber DJ, Kiene RP, Huntsman S. An antioxidant function for
+DMSP and DMS in marine algae. Nature. 2002;418:317–20.
+42. Kiene RP, Linn LJ, Bruton JA. New and important roles for DMSP in marine
+microbial communities. J Sea Res. 2000;43:209–24. 
+43. Durham BP, Sharma S, Luo H, Smith CB, Amin SA, Bender SJ, et al. Cryptic
+carbon and sulfur cycling between surface ocean plankton. Proc Natl Acad
+Sci. 2015;112:453.
+44. Cruaud, Vigneron, Fradette, Charette, Rodriguez, Dorea CC, et al. Open the
+SterivexTM casing: An easy and effective way to improve DNA extraction
+yields. Limnol Oceanogr Methods. 2017;15:1015–20.
+45. Suzuki MT, Taylor LT, DeLong EF. Quantitative analysis of small-subunit rRNA
+genes in mixed microbial populations via 5′-nuclease assays. Appl Environ
+Microbiol. 2000;66:4605–14.
+46. Yu Y, Lee C, Kim J, Hwang S. Group-specific primer and probe sets to detect
+methanogenic communities using quantitative real-time polymerase chain
+reaction. Biotechnol Bioeng. 2005;89:670–9.
+47. Klindworth A, Pruesse E, Schweer T, Peplies J, Quast C, Horn M, et al. Evaluation
+of general 16S ribosomal RNA gene PCR primers for classical and next-
+generation sequencing-based diversity studies. Nucleic Acids Res. 2013;41:e1.
+48. Teske A, Sorensen KB. Uncultured archaea in deep marine subsurface
+sediments: have we caught them all? ISME J. 2007;2:3–18.
+49. Vigneron A, Alsop EB, Lomans BP, Kyrpides NC, Head IM, Tsesmetzis N.
+Succession in the petroleum reservoir microbiome through an oil field
+production lifecycle. ISME J. 2017;11:2141.
+50. Schloss PD, Westcott SL, Ryabin T, Hall JR, Hartmann M, Hollister EB, et al.
+Introducing mothur: open-source, platform-independent, community-
+supported software for describing and comparing microbial communities.
+Appl Environ Microbiol. 2009;75:7537–41.
+51. Pruesse E, Quast C, Knittel K, Fuchs BM, Ludwig W, Peplies J, et al. SILVA: a
+comprehensive online resource for quality checked and aligned ribosomal
+RNA sequence data compatible with ARB. Nucleic Acids Res. 2007;35:7188–96.
+52. Bolger AM, Lohse M, Usadel B. Trimmomatic: a flexible trimmer for Illumina
+sequence data. Bioinformatics. 2014;30:2114–20.
+53. Magoč T, Salzberg SL. FLASH: fast length adjustment of short reads to
+improve genome assemblies. Bioinformatics. 2011;27:2957–63.
+54. Yuan C, Lei J, Cole J, Sun Y. Reconstructing 16S rRNA genes in
+metagenomic data. Bioinformatics. 2015;31:i35–43.
+55. Bankevich A, Nurk S, Antipov D, Gurevich AA, Dvorkin M, Kulikov AS, et al.
+SPAdes: A new genome assembly algorithm and its applications to single-
+cell sequencing. J Comput Biol. 2012;19:455–77.
+56. Markowitz VM, Mavromatis K, Ivanova NN, Chen I-MA, Chu K, Kyrpides NC.
+IMG ER: a system for microbial genome annotation expert review and
+curation. Bioinformatics. 2009;25:2271–8.
+57. Li D, Liu C-M, Luo R, Sadakane K, Lam T-W. MEGAHIT: An ultra-fast single-
+node solution for large and complex metagenomics assembly via succinct
+de Bruijn graph. Bioinformatics. 2015;2015(31):1674–6.
+58. Kang DD, Froula J, Egan R, Wang Z. MetaBAT, an efficient tool for accurately
+reconstructing single genomes from complex microbial communities. PeerJ.
+2015;3:e1165.
+59. Parks DH, Imelfort M, Skennerton CT, Hugenholtz P, Tyson GW. CheckM:
+assessing the quality of microbial genomes recovered from isolates, single
+cells, and metagenomes. Genome Res. 2015;25:1043–55.
+60. Caspi R, Altman T, Billington R, Dreher K, Foerster H, Fulcher CA, et al. The
+MetaCyc database of metabolic pathways and enzymes and the BioCyc
+collection of Pathway/Genome Databases. Nucleic Acids Res. 2014;42:D459–71.
+61. Boyd JA, Woodcroft BJ, Tyson GW. GraftM: a tool for scalable,
+phylogenetically informed classification of genes within metagenomes.
+Nucleic Acids Res. 2018;46:e59.
+62. Sievers F, Higgins DG. Clustal Omega for making accurate alignments of
+many protein sequences. Protein Sci. 2018;27:135–45.
+63. Price MN, Dehal PS, Arkin AP. FastTree 2 - approximately maximum-
+likelihood trees for large alignments. PLoS One. 2010;5:e9490.
+64. Letunic I, Bork P. Interactive Tree Of Life (iTOL) v4: recent updates and new
+developments. Nucleic Acids Res. 2019;47:W256–9.
+65. Buttigieg PL, Ramette A. A guide to statistical analysis in microbial ecology:
+a community-focused, living review of multivariate data analyses. FEMS
+Microbiol Ecol. 2014;90:543–50.
+66. Hammer Ø, Harper D, Ryan P. PAST-palaeontological statistics, ver. 1.89.
+Palaeontol Electron. 2001;4:1–9.
+67. Csárdi G, Nepusz T. The igraph software package for complex network
+research; 2006.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.

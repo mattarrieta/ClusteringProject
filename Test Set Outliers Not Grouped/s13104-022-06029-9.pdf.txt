@@ -1,0 +1,541 @@
+Keywords: Maize,Zea mays L,Hyperspectral,Remote sensing,Grain filling period,Physiological maturity,Development,Reflectance,Dual-channel unispec
+CrossMarkDomains[1]: springer.com
+Creator: Springer
+ModDate: 2022/04/29 11:12:07+02'00'
+CreationDate: 2022/04/23 13:44:17+05'30'
+CrossmarkMajorVersionDate: 2010-04-23
+Subject: BMC Research Notes, https://doi.org/10.1186/s13104-022-06029-9
+Author: Valerie Craig
+Title: Hyperspectral time series datasets of maize during the grain filling period
+CrossmarkDomainExclusive: true
+robots: noindex
+Producer: Acrobat Distiller 10.1.8 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)
+doi: 10.1186/s13104-022-06029-9
+CrossMarkDomains[2]: springerlink.com
+xmp:xmp:CreateDate: 2022-04-23T13:44:17+05:30
+xmp:xmp:CreatorTool: Springer
+xmp:xmp:ModifyDate: 2022-04-29T11:12:07+02:00
+xmp:xmp:MetadataDate: 2022-04-29T11:12:07+02:00
+xmp:pdf:Producer: Acrobat Distiller 10.1.8 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)
+xmp:pdf:Keywords: Maize,Zea mays L,Hyperspectral,Remote sensing,Grain filling period,Physiological maturity,Development,Reflectance,Dual-channel unispec
+xmp:dc:format: application/pdf
+xmp:dc:identifier: https://doi.org/10.1186/s13104-022-06029-9
+xmp:dc:publisher: BioMed Central
+xmp:dc:description: BMC Research Notes, https://doi.org/10.1186/s13104-022-06029-9
+xmp:dc:subject: Maize; Zea mays L; Hyperspectral; Remote sensing; Grain filling period; Physiological maturity; Development; Reflectance; Dual-channel unispec
+xmp:dc:title: Hyperspectral time series datasets of maize during the grain filling period
+xmp:dc:creator: Valerie Craig; Hugh Earl; John Sulik; Elizabeth A. Lee
+xmp:crossmark:DOI: 10.1186/s13104-022-06029-9
+xmp:crossmark:MajorVersionDate: 2010-04-23
+xmp:crossmark:CrossmarkDomainExclusive: true
+xmp:crossmark:CrossMarkDomains: springer.com; springerlink.com
+xmp:prism:url: https://doi.org/10.1186/s13104-022-06029-9
+xmp:prism:doi: 10.1186/s13104-022-06029-9
+xmp:prism:issn: 1756-0500
+xmp:prism:aggregationType: journal
+xmp:prism:publicationName: BMC Research Notes
+xmp:prism:copyright: The Author(s)
+xmp:pdfx:CrossmarkMajorVersionDate: 2010-04-23
+xmp:pdfx:CrossmarkDomainExclusive: true
+xmp:pdfx:doi: 10.1186/s13104-022-06029-9
+xmp:pdfx:robots: noindex
+xmp:pdfx:CrossMarkDomains: springer.com; springerlink.com
+xmp:jav:journal_article_version: VoR
+xmp:xmpMM:DocumentID: uuid:e2a87c0b-f4a9-4f39-a412-a38fc30891e1
+xmp:xmpMM:InstanceID: uuid:af5fc8f8-636d-452f-8552-50f61afe3437
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:79c73e74-3b66-41d4-ac2a-9bbfe187915f
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2022-04-23T13:45:15+05:30
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:b24679f3-930c-451f-b4fc-c6a2549a1be3
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2022-04-23T13:45:40+05:30
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:author:name: Valerie Craig
+xmp:author:orcid: http://orcid.org/0000-0001-5023-4006
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdfx/1.3/
+xmp:pdfaSchema:prefix: pdfx
+xmp:pdfaSchema:schema: Adobe Document Info PDF eXtension Schema
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Mirrors crossmark:MajorVersionDate
+xmp:pdfaProperty:name: CrossmarkMajorVersionDate
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Mirrors crossmark:CrossmarkDomainExclusive
+xmp:pdfaProperty:name: CrossmarkDomainExclusive
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Mirrors crossmark:DOI
+xmp:pdfaProperty:name: doi
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Mirrors crossmark:CrosMarkDomains
+xmp:pdfaProperty:name: CrossMarkDomains
+xmp:pdfaProperty:valueType: seq Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A name object indicating whether the document has been modified to include trapping information
+xmp:pdfaProperty:name: robots
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: ID of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXVersion
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Conformance level of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXConformance
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Company creating the PDF
+xmp:pdfaProperty:name: Company
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Date when document was last modified
+xmp:pdfaProperty:name: SourceModified
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://crossref.org/crossmark/1.0/
+xmp:pdfaSchema:prefix: crossmark
+xmp:pdfaSchema:schema: Crossmark Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Usual same as prism:doi
+xmp:pdfaProperty:name: DOI
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: The date when a publication was publishe.
+xmp:pdfaProperty:name: MajorVersionDate
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: CrossmarkDomainExclusive
+xmp:pdfaProperty:name: CrossmarkDomainExclusive
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: CrossMarkDomains
+xmp:pdfaProperty:name: CrossMarkDomains
+xmp:pdfaProperty:valueType: seq Text
+xmp:pdfaSchema:namespaceURI: http://prismstandard.org/namespaces/basic/2.0/
+xmp:pdfaSchema:prefix: prism
+xmp:pdfaSchema:schema: Prism Schema
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: This element provides the url for an article or unit of content. The attribute platform is optionally allowed for situations in which multiple URLs must be specified. PRISM recommends that a subset of the PCV platform values, namely “mobile” and “web”, be used in conjunction with this element. NOTE: PRISM recommends against the use of the #other value allowed in the PRISM Platform controlled vocabulary. In lieu of using #other please reach out to the PRISM group at prism-wg@yahoogroups.com to request addition of your term to the Platform Controlled Vocabulary.
+xmp:pdfaProperty:name: url
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: The Digital Object Identifier for the article. The DOI may also be used as the dc:identifier. If used as a dc:identifier, the URI form should be captured, and the bare identifier should also be captured using prism:doi. If an alternate unique identifier is used as the required dc:identifier, then the DOI should be specified as a bare identifier within prism:doi only. If the URL associated with a DOI is to be specified, then prism:url may be used in conjunction with prism:doi in order to provide the service endpoint (i.e. the URL).
+xmp:pdfaProperty:name: doi
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: ISSN for an electronic version of the issue in which the resource occurs. Permits publishers to include a second ISSN, identifying an electronic version of the issue in which the resource occurs (therefore e(lectronic)Issn. If used, prism:eIssn MUST contain the ISSN of the electronic version.
+xmp:pdfaProperty:name: issn
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Volume number
+xmp:pdfaProperty:name: volume
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Issue number
+xmp:pdfaProperty:name: number
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Starting page
+xmp:pdfaProperty:name: startingPage
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Ending page
+xmp:pdfaProperty:name: endingPage
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: The aggregation type specifies the unit of aggregation for a content collection. Comment PRISM recommends that the PRISM Aggregation Type Controlled Vocabulary be used to provide values for this element. Note: PRISM recommends against the use of the #other value currently allowed in this controlled vocabulary. In lieu of using #other please reach out to the PRISM group at info@prismstandard.org to request addition of your term to the Aggregation Type Controlled Vocabulary.
+xmp:pdfaProperty:name: aggregationType
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Title of the magazine, or other publication, in which a resource was/will be published. Typically this will be used to provide the name of the magazine an article appeared in as metadata for the article, along with information such as the article title, the publisher, volume, number, and cover date. Note: Publication name can be used to differentiate between a print magazine and the online version if the names are different such as “magazine” and “magazine.com.”
+xmp:pdfaProperty:name: publicationName
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Copyright
+xmp:pdfaProperty:name: copyright
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdf/1.3/
+xmp:pdfaSchema:prefix: pdf
+xmp:pdfaSchema:schema: Adobe PDF Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A name object indicating whether the document has been modified to include trapping information
+xmp:pdfaProperty:name: Trapped
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/mm/
+xmp:pdfaSchema:prefix: xmpMM
+xmp:pdfaSchema:schema: XMP Media Management Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: UUID based identifier for specific incarnation of a document
+xmp:pdfaProperty:name: InstanceID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: The common identifier for all versions and renditions of a document.
+xmp:pdfaProperty:name: DocumentID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: The common identifier for all versions and renditions of a document.
+xmp:pdfaProperty:name: OriginalDocumentID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A reference to the original document from which this one is derived. It is a minimal reference; missing components can be assumed to be unchanged. For example, a new version might only need to specify the instance ID and version number of the previous version, or a rendition might only need to specify the instance ID and rendition class of the original.
+xmp:pdfaProperty:name: DerivedFrom
+xmp:pdfaProperty:valueType: ResourceRef
+xmp:pdfaType:description: Identifies a portion of a document. This can be a position at which the document has been changed since the most recent event history (stEvt:changed). For a resource within an xmpMM:Ingredients list, the ResourceRef uses this type to identify both the portion of the containing document that refers to the resource, and the portion of the referenced resource that is referenced.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Part#
+xmp:pdfaType:prefix: stPart
+xmp:pdfaType:type: Part
+xmp:pdfaSchema:namespaceURI: http://www.aiim.org/pdfa/ns/id/
+xmp:pdfaSchema:prefix: pdfaid
+xmp:pdfaSchema:schema: PDF/A ID Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Part of PDF/A standard
+xmp:pdfaProperty:name: part
+xmp:pdfaProperty:valueType: Integer
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Amendment of PDF/A standard
+xmp:pdfaProperty:name: amd
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Conformance level of PDF/A standard
+xmp:pdfaProperty:name: conformance
+xmp:pdfaProperty:valueType: Text
+xmp:BOOKMARKS:
+Hyperspectral time series datasets of maize during the grain filling period
+  Abstract
+    Objectives:
+    Data description:
+  Objective
+  Data description
+  Data collection
+    Experimental setup
+    Data collection
+  Limitations
+  Acknowledgements
+  References
+Page 1
+Craig et al. BMC Research Notes (2022) 15:152
+https://doi.org/10.1186/s13104-022-06029-9 
+BMC Research Notes
+DATA NOTE  Open Access
+Hyperspectral time series datasets of maize
+during the grain filling period
+Valerie Craig*[URL: "http://orcid.org/0000-0001-5023-4006"]     , Hugh Earl, John Sulik and Elizabeth A. Lee 
+Abstract 
+Objectives:  Remotely sensed hyperspectral data are increasingly being used to assess crop development and
+growth throughout the growing season. Large datasets capturing key growth stages can be useful to research-
+ers studying many physiological plant responses. A time series analysis of hyperspectral reflectance measurements
+taken during the grain filling period and published within a publicly accessible database are described herein. These
+datasets document the spectral reflectance pattern of the canopy within the visible and near-infrared portion of the
+electromagnetic spectrum during the late stages of the grain filling period as plants approach and reach physiological
+maturity.
+Data description:  Included within the data repository are canopy-level hyperspectral datasets collected in 2017 and
+2018. Data is included in its raw form, as well as with several manipulations to smooth and standardize the raw data. 
+Data are released as comma separated value spreadsheets as well as Microsoft Excel open XLSX spreadsheets. These
+are accompanied by README text files which further describe the data and supplemental files that record hybrids
+used and plant phenology for each year of data collection.
+Keywords: Maize, Zea mays L, Hyperspectral, Remote sensing, Grain filling period, Physiological maturity, 
+Development, Reflectance, Dual-channel unispec
+Objective
+Characterization of plant development and growth
+throughout the plant’s lifecycle using hyperspectral
+remote sensing technologies is an attractive alterna-
+tive to many traditional phenotyping approaches [1].
+Time series analyses of crop growth is particularly use-
+ful for researchers to analyze the spectral changes occur-
+ring through different growth stages or critical phases
+of development [2]. Maize (Zea mays L.) has several key
+growth stages: vegetative growth, flowering, the grain-
+filling period, and physiological maturity (a.k.a.,  black
+layer) [3]. Many spectral reflectance-based phenotyping
+approaches are being examined for their utility in maize
+[3, 4]. In this paper we describe a set of spectral reflec-
+tance data collected from 16 single-cross maize hybrids
+*Correspondence: craigv@uoguelph.ca
+University of Guelph, Guelph, ON N1G 2W1, Canada 
+during the later stages of growth for 2 years (2017 &
+2018). This dataset specifically describes canopy reflec-
+tance in 3 nm increments from the visible through the
+near infrared portion of the electromagnetic spectrum
+starting at 3-weeks post silking and continuing until
+physiological maturity.
+Data description
+Included within the data repository are several hyper-
+spectral reflectance datasets and their manipulations. 
+Files follow a naming structure of YEAR_DATA TYPE_
+MANIPULATION (Data Files 1–20, Table 1),  where
+YEAR can be either 2017 or 2018, DATA TYPE is either
+the full dataset or the data averaged for every genotype
+on each sampling date across replications, and MANIPU-
+LATION is raw data, data that has been standardized by
+dividing reflectance at every wavelength by reflectance at
+849.5 nm, data smoothed by calculating a rolling average
+©The Author(s) 2022. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this
+licence, visit [URL: "http://creativecommons.org/licenses/by/4.0/"] http://​creat​iveco​mmons.​org/​licen​ses/​by/4.​0/.The Creative Commons Public Domain Dedication waiver ([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://​creat​iveco​
+ mmons.​org/​publi​cdoma​in/​zero/1.​0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+Page 2
+Craig et al. BMC Research Notes (2022) 15:152  Page 2 of 4
+Table 1  Dataverse repository file folder structure
+Label Name of data file / data set
+Data File 1  2017_FULL_ALLDATA (2017 folder)
+Data File 2  2017_FULL_RAW (2017 folder)
+Data File 3  2017_FULL_STANDARDIZED (2017 folder)
+Data File 4  2017_FULL_SMOOTHED (2017 folder)
+Data File 5  2017_FULL_STANDARDIZED_SMOOTHED (2017 folder)
+Data File 6  2017_AVERAGE_ALLDATA (2017 folder)
+Data File 7  2017_AVERAGE_RAW (2017 folder)
+Data File 8  2017_AVERAGE_STANDARDIZED (2017 folder)
+Data File 9  2017_AVERAGE_SMOOTHED (2017 folder)
+Data File 10 2017_AVERAGE_STANDARDIZED_SMOOTHED (2017 folder)
+Data File 11 2018_FULL_ALLDATA (2018 folder)
+Data File 12 2018_FULL_RAW (2018 folder)
+Data File 13 2018_FULL_STANDARDIZED (2018 folder)
+Data File 14 2018_FULL_SMOOTHED (2018 folder)
+Data File 15 2018_FULL_STANDARDIZED_SMOOTHED (2018 folder)
+Data File 16 2018_AVERAGE_ALLDATA (2018 folder)
+Data File 17 2018_AVERAGE_RAW (2018 folder)
+Data File 18 2018_AVERAGE_STANDARDIZED (2018 folder)
+Data File 19 2018_AVERAGE_SMOOTHED (2018 folder) 
+File types (file Data Repository and Identifier (DOI or Accession
+extension) Number)
+.xlsx  Scholars Portal Dataverse, [URL: "https://doi.org/10.5683/SP2/1ZVWFV"] https://​doi.​org/​10.​5683/​SP2/​
+ 1ZVWFV
+[5]
+.csv  Scholars Portal Dataverse, [URL: "https://doi.org/10.5683/SP2/1ZVWFV"] https://​doi.​org/​10.​5683/​SP2/​
+ 1ZVWFV
+[5]
+.csv  Scholars Portal Dataverse, [URL: "https://doi.org/10.5683/SP2/1ZVWFV"] https://​doi.​org/​10.​5683/​SP2/​
+ 1ZVWFV
+[5]
+.csv  Scholars Portal Dataverse, [URL: "https://doi.org/10.5683/SP2/1ZVWFV"] https://​doi.​org/​10.​5683/​SP2/​
+ 1ZVWFV
+[5]
+.csv  Scholars Portal Dataverse, [URL: "https://doi.org/10.5683/SP2/1ZVWFV"] https://​doi.​org/​10.​5683/​SP2/​
+ 1ZVWFV
+[5]
+.xlsx  Scholars Portal Dataverse, [URL: "https://doi.org/10.5683/SP2/1ZVWFV"] https://​doi.​org/​10.​5683/​SP2/​
+ 1ZVWFV
+[5]
+.csv  Scholars Portal Dataverse, [URL: "https://doi.org/10.5683/SP2/1ZVWFV"] https://​doi.​org/​10.​5683/​SP2/​
+ 1ZVWFV
+[5]
+.csv  Scholars Portal Dataverse, [URL: "https://doi.org/10.5683/SP2/1ZVWFV"] https://​doi.​org/​10.​5683/​SP2/​
+ 1ZVWFV
+[5]
+.csv  Scholars Portal Dataverse, [URL: "https://doi.org/10.5683/SP2/1ZVWFV"] https://​doi.​org/​10.​5683/​SP2/​
+ 1ZVWFV
+[5]
+.csv  Scholars Portal Dataverse, [URL: "https://doi.org/10.5683/SP2/1ZVWFV"] https://​doi.​org/​10.​5683/​SP2/​
+ 1ZVWFV
+[5]
+.xlsx  Scholars Portal Dataverse, [URL: "https://doi.org/10.5683/SP2/1ZVWFV"] https://​doi.​org/​10.​5683/​SP2/​
+ 1ZVWFV
+[5]
+.csv  Scholars Portal Dataverse, [URL: "https://doi.org/10.5683/SP2/1ZVWFV"] https://​doi.​org/​10.​5683/​SP2/​
+ 1ZVWFV
+[5]
+.csv  Scholars Portal Dataverse, [URL: "https://doi.org/10.5683/SP2/1ZVWFV"] https://​doi.​org/​10.​5683/​SP2/​
+ 1ZVWFV
+[5]
+.csv  Scholars Portal Dataverse, [URL: "https://doi.org/10.5683/SP2/1ZVWFV"] https://​doi.​org/​10.​5683/​SP2/​
+ 1ZVWFV
+[5]
+.csv  Scholars Portal Dataverse, [URL: "https://doi.org/10.5683/SP2/1ZVWFV"] https://​doi.​org/​10.​5683/​SP2/​
+ 1ZVWFV
+[5]
+.xlsx  Scholars Portal Dataverse, [URL: "https://doi.org/10.5683/SP2/1ZVWFV"] https://​doi.​org/​10.​5683/​SP2/​
+ 1ZVWFV
+[5]
+.csv  Scholars Portal Dataverse, [URL: "https://doi.org/10.5683/SP2/1ZVWFV"] https://​doi.​org/​10.​5683/​SP2/​
+ 1ZVWFV
+[5]
+.csv  Scholars Portal Dataverse, [URL: "https://doi.org/10.5683/SP2/1ZVWFV"] https://​doi.​org/​10.​5683/​SP2/​
+ 1ZVWFV
+[5]
+.csv  Scholars Portal Dataverse, [URL: "https://doi.org/10.5683/SP2/1ZVWFV"] https://​doi.​org/​10.​5683/​SP2/​
+ 1ZVWFV
+[5]
+Page 3
+Craig   et al. BMC Research Notes (2022) 15:152  Page 3 of 4
+Table 1  (continued)
+Label Name of data file / data set
+Data File 20 2018_AVERAGE_STANDARDIZED_SMOOTHED (2018 folder)
+Data File 21 README (Supplemental folder)
+Data File 22 CODEBOOK (Supplemental folder)
+Data File 23 GENETIC_MATERIALS (Supplemental folder)
+Data File 24 2017_PHENOLOGY (Supplemental folder)
+Data File 25 2018_PHENOLOGY (Supplemental folder)
+Data File 26 SUPPLEMENTARY_IMAGES (Supplemental folder) 
+File types (file Data Repository and Identifier (DOI or Accession
+extension) Number)
+.csv  Scholars Portal Dataverse, [URL: "https://doi.org/10.5683/SP2/1ZVWFV"] https://​doi.​org/​10.​5683/​SP2/​
+ 1ZVWFV
+[5]
+.txt  Scholars Portal Dataverse, [URL: "https://doi.org/10.5683/SP2/1ZVWFV"] https://​doi.​org/​10.​5683/​SP2/​
+ 1ZVWFV
+[5]
+.txt  Scholars Portal Dataverse, [URL: "https://doi.org/10.5683/SP2/1ZVWFV"] https://​doi.​org/​10.​5683/​SP2/​
+ 1ZVWFV
+[5]
+.csv  Scholars Portal Dataverse, [URL: "https://doi.org/10.5683/SP2/1ZVWFV"] https://​doi.​org/​10.​5683/​SP2/​
+ 1ZVWFV
+[5]
+.csv  Scholars Portal Dataverse, [URL: "https://doi.org/10.5683/SP2/1ZVWFV"] https://​doi.​org/​10.​5683/​SP2/​
+ 1ZVWFV
+[5]
+.csv  Scholars Portal Dataverse, [URL: "https://doi.org/10.5683/SP2/1ZVWFV"] https://​doi.​org/​10.​5683/​SP2/​
+ 1ZVWFV
+[5]
+.pdf  Scholars Portal Dataverse, [URL: "https://doi.org/10.5683/SP2/1ZVWFV"] https://​doi.​org/​10.​5683/​SP2/​
+ 1ZVWFV
+[5]
+every 9.9 nm, or data which has been standardized and
+smoothed. Missing values from the hyperspectral sen-
+sor and skipped scans are populated with a decimal and
+treated as missing data for all manipulations. In addition
+to these spectral reflectance data files, supplementary
+files are also present in the repository. Data collection
+methods and manipulations are described in the Data
+File 21 README file, and variable names and descrip-
+tions are included in the Data File 22 CODEBOOK file
+(Table 1).  Information about the single-cross hybrids
+used in the study and their inbred parents are found
+in the Data File 23 GENETIC_MATERIALS datafile
+(Table 1). Date of flowering (i.e., appearance of the silks) 
+and of physiological maturity (i.e., appearance of black
+layer) are found in Data File 24 and 25 PHENOLOGY
+datafiles for 2017 and 2018 (Table 1). A SUPPLEMEN-
+TARY_IMAGES file is also included (Data File 26), which
+contains images of the experimental setup, examples of
+black layer, and an example graph of spectral reflectance
+(Table 1). All files contained within the data repository
+and their file type can be found in Table 1.
+Data collection
+Experimental setup
+The experiment was set up as a randomized complete
+block design with four replications, planted on May 12, 
+2017 and May 10, 2018 at the Elora Research Station
+(Elora, Ontario; 43° 38 ′ 27.0456" N, 80° 24′ 18.6948" W).
+Genotypes consisted of four extremely short-sea-
+son hybrids, referred to as the Set 1 hybrids, and 12 
+short-season hybrids referred to as the Set 2 hybrids. The
+inbred line parents for two of the hybrids in Set 1 and for
+all Set 2 hybrids are publicly available and have been gen-
+otyped [6]. Set 1 hybrids were planted in a late planted
+experiment (May 29, 2017 and May 21, 2018) to sample
+spectral reflectance differences within a growing season. 
+Environmental conditions such as air temperature, rain-
+fall, wind speed and direction, and solar radiation were
+recorded at the Elora Weather Station, located on the
+Elora Research station. This information is publicly avail-
+able for both 2017 [7] and 2018 [8].
+Data collection
+Canopy-level hyperspectral measurements were taken
+using a ground based dual-channel reflectance spec-
+trometer (Unispec-DC; PP Systems). This is a 243-chan-
+nel sensor with a spectral range of 300.4–1101.8 nm, and
+a spectral resolution of 3.3 nm. Scans were calibrated
+using a spectralon tile (spectralon 12 × 12 inch calibrated
+white; ASD Inc) with 99.5% reflectance across the visual
+and near infrared spectrum. Sampling was done within
+3 h of solar noon, typically after dew was gone from
+plants and on days without rain. Scans were taken start-
+ing 3 weeks post silking and continued every 2 to 4 days
+until physiological maturity, weather permitting.
+Limitations
+Errors and missing data were dealt with in a defined
+manner. For the hyperspectral data collection, when
+machine errors occur, they are automatically given the
+Page 4
+Craig et al. BMC Research Notes (2022) 15:152  Page 4 of 4
+value 9999 within the dataset, which were then replaced
+with a decimal and treated as missing data. Scans that
+were completely missed were populated with decimals
+and likewise treated as missing data. Zeros in the data-
+set were treated as true zeros, although it is possible that
+some of these are machine errors or the machine round-
+ing down extremely small values rather than true zeros.
+Although both years of data were planted at the Elora
+Research Station, due to crop rotation practices, the field
+which the trial was planted in changed year-to-year, and
+thus different soil environments may have been present. 
+Weather played a large role on when sampling could
+occur, as conditions had to be dry as to not damage the
+machine, leading to different lengths of time between
+sampling dates.
+Acknowledgements
+We gratefully acknowledge the contributions of Carrie Breton in data manage-
+ment and organization within the Scholars Portal Dataverse Repository.
+Author contributions
+VC collected the data stored within the repository. Any data manipulations
+were also done by VC. EL was a major contributor in writing the manuscript. 
+HE provided the hyperspectral sensor and trained VC on its use. JS provided
+technical knowledge pertaining to the remote sensing. All authors read and
+approved the final manuscript.
+Funding
+This research is graciously funded by a Natural Sciences and Engineering
+Research Council (NSERC) Discovery Grant, and by an NSERC Collaborative
+Research and Development (CRD) grant with the support of Maizex Seeds Inc. 
+The funders had no role in the design and conduct of the study, data collec-
+tion, and writing of the manuscript.
+Availability of data and materials
+The datasets that were generated and described in this Data Note are publicly
+available and free to access at the Scholars Portal Dataverse repository, [URL: "https://doi.org/10.5683/SP2/1ZVWFV"] https://​
+ doi.​org/​10.​5683/​SP2/​1ZVWFV [5]. 
+3.  Vina A, Gitelson AA, Rundquist DC, Keydan G, Leavitt B, Schepers J. Moni-
+toring maize (Zea mays L.) phenology with remote sensing. Remote Sens. 
+2004;96:1139–47.
+4.  Sibley AM, Grassini P, Thomas NE, Cassman KG, Lobell DB. Testing remote
+sensing approaches for assessing yield variability among maize fields. 
+Agron J. 2014;106(1):24–32. [URL: "https://doi.org/10.2134/agronj2013.0314"] https://​doi.​org/​10.​2134/​agron​j2013.​0314.
+5.  Craig V, Earl H, Sulik J, Lee EA. Hyperspectral time series datasets of maize
+during the grain filling period. Scholars Portal Dataverse. 2021. [URL: "https://doi.org/10.5683/SP2/1ZVWFV"] https://​
+ doi.​org/​10.​5683/​SP2/​1ZVWFV.
+6.  Lawrence-Dill, C. Genomes to fields 2014 v.3. 3. CyVerse Data Commons. 
+2017. [URL: "https://doi.org/10.7946/P2V888"] https://​doi.​org/​10.​7946/​P2V888.
+7.  Agricultural and Forest Meteorology Group, Elora Research Station/
+Guelph Turfgrass Institute. Weather records for the Elora research station, 
+Elora, Ontario [Canada]: Meteorological data 2017 v.5. Scholars Portal
+Dataverse. 2017. [URL: "https://doi.org/10.5683/SP/KYKL9M"] https://​doi.​org/​10.​5683/​SP/​KYKL9M.
+8.  Agricultural and Forest Meteorology Group, Elora Research Station/
+Guelph Turfgrass Institute. Weather records for the Elora research station, 
+Elora, Ontario [Canada]: Meteorological data 2018 v.3. Scholars Portal
+Dataverse. 2017. [URL: "https://doi.org/10.5683/SP/RQRDSH"] https://​doi.​org/​10.​5683/​SP/​RQRDSH.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub-
+lished maps and institutional affiliations.
+Declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Received: 30 September 2021 Accepted: 7 April 2022
+References
+1.  Li L, Zhang Q, Huang D. A review of imaging techniques for plant pheno-
+typing. Sensors. 2014;14(11):20078–111. [URL: "https://doi.org/10.3390/s141120078"] https://​doi.​org/​10.​3390/​s1411​
+ 20078.
+2.  Zarco-Tejada PJ, Ustin SL, Whiting ML. Temporal and spatial relationships
+between within-field yield variability in cotton and high-spatial hyper-
+spectral remote sensing imagery. Agron J. 2005;97(3):641–53. [URL: "https://doi.org/10.2134/agronj2003.0257"] https://​doi.​
+ org/​10.​2134/​agron​j2003.​0257. 
+Ready to submit your research? Choose BMC and benefit from: 
+• fast, convenient online submission
+• thorough peer review by experienced researchers in your ﬁeld 
+• rapid publication on acceptance
+• support for research data, including large and complex data types
+• gold Open Access which fosters wider collaboration and increased citations
+• maximum visibility for your research: over 100M website views per year
+At BMC, research is always in progress.
+Learn more biomedcentral.com/submissions

@@ -1,0 +1,774 @@
+Creator: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+Producer: Acrobat Distiller 10.0.0 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)
+Title: Incidence reporting via online high school concussion surveillance by certified athletic trainers and school nurses, 2015–2018
+Keywords: Adolescent health,Athletic trainer,Brain injuries,Concussions,Epidemiology,Incidence,New Jersey,School nurse,Surveillance,Symptoms
+ModDate: 2020/01/02 13:13:23+01'00'
+Subject: Injury Epidemiology, 2020, doi:10.1186/s40621-019-0228-5
+Author: Lauren Gonzalez
+CreationDate: 2019/12/19 13:38:03+08'00'
+xmp:pdf:Keywords: Adolescent health,Athletic trainer,Brain injuries,Concussions,Epidemiology,Incidence,New Jersey,School nurse,Surveillance,Symptoms
+xmp:pdf:Producer: Acrobat Distiller 10.0.0 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)
+xmp:dc:format: application/pdf
+xmp:dc:identifier: 10.1186/s40621-019-0228-5
+xmp:dc:publisher: Injury Epidemiology
+xmp:dc:description: Injury Epidemiology, 2020, doi:10.1186/s40621-019-0228-5
+xmp:dc:subject: Adolescent health; Athletic trainer; Brain injuries; Concussions; Epidemiology; Incidence; New Jersey; School nurse; Surveillance; Symptoms
+xmp:dc:title: Incidence reporting via online high school concussion surveillance by certified athletic trainers and school nurses, 2015–2018
+xmp:dc:creator: Lauren Gonzalez; Laura E. Jones; Maryanne Fakeh; Nimit Shah; Joseph A. Panchella; Derek G. Shendell
+xmp:xmp:ModifyDate: 2020-01-02T13:13:23+01:00
+xmp:xmp:MetadataDate: 2020-01-02T13:13:23+01:00
+xmp:xmp:CreateDate: 2019-12-19T13:38:03+08:00
+xmp:xmp:CreatorTool: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+xmp:xmpMM:DocumentID: uuid:c43d5b46-7c36-40c3-a7ae-56252db11233
+xmp:xmpMM:InstanceID: uuid:976ae4ce-18c6-4fdd-9e9f-ae490b605532
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:c43d5b46-7c36-40c3-a7ae-56252db11233
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2019-12-19T13:41:27+08:00
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:author:name: Derek G. Shendell
+xmp:author:orcid: http://orcid.org/0000-0002-2062-1811
+xmp:pdfaSchema:schema: Springer Nature ORCID Schema
+xmp:pdfaSchema:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/
+xmp:pdfaSchema:prefix: sn
+xmp:pdfaProperty:name: authorInfo
+xmp:pdfaProperty:valueType: Bag AuthorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Author information: contains the name of each author and his/her ORCID (ORCiD: Open Researcher and Contributor ID). An ORCID is a persistent identifier (a non-proprietary alphanumeric code) to uniquely identify scientific and other academic authors.
+xmp:pdfaProperty:name: editorInfo
+xmp:pdfaProperty:valueType: Bag EditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Editor information: contains the name of each editor and his/her ORCID identifier.
+xmp:pdfaProperty:name: seriesEditorInfo
+xmp:pdfaProperty:valueType: Bag SeriesEditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Series editor information: contains the name of each series editor and his/her ORCID identifier.
+xmp:pdfaType:type: AuthorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/authorInfo/
+xmp:pdfaType:prefix: author
+xmp:pdfaType:description: Specifies the types of author information: name and ORCID of an author.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an author.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an author.
+xmp:pdfaType:type: EditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/editorInfo/
+xmp:pdfaType:prefix: editor
+xmp:pdfaType:description: Specifies the types of editor information: name and ORCID of an editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: TextBOOKMARKS:
+Abstract
+  Background
+  Methods
+  Findings
+  Conclusions
+Introduction
+Materials & methods
+Results
+Discussion
+Conclusion
+Supplementary information
+Abbreviations
+Acknowledgements
+Authors’ contributions
+Funding
+Availability of data and materials
+Ethics approval and consent to participate
+Consent for publication
+Competing interests
+Author details
+References
+Publisher’s Note
+Page 1
+Gonzalez et al. Injury Epidemiology (2020) 7:1
+https://doi.org/10.1186/s40621-019-0228-5
+ORIGINAL CONTRIBUTION  Open Access
+Incidence reporting via online high school
+concussion surveillance by certified athletic
+trainers and school nurses, 2015–2018
+Lauren Gonzalez1, Laura E. Jones1,2,3, Maryanne Fakeh1, Nimit Shah1,2, Joseph A. Panchella4 and
+Derek G. Shendell1,5,6,7*
+Abstract
+Background: There is an increasing concern over adolescent concussions in sports due to risks of long-term
+negative effects. This study analyzed data over three school years on reported concussion incidence rates by
+season, high school grade levels and gender, and reported symptoms by school nurses versus athletic trainers, from
+New Jersey student-athlete concussion data available from an online school-based surveillance system.
+Methods: School nurses and athletic trainers reported 300 concussions within five days from when each occurred
+over three school years, 2015–2018, in team sports and physical education in New Jersey high schools. Analysis was
+further conducted on symptoms and number of symptoms reported by school nurses versus school athletic
+trainers for each documented student-athlete concussion. Estimated concussion incidence rates were calculated
+using state agency verified school enrollment data.
+Findings: Concussions most commonly occurred during fall, followed by spring, then winter. Concussion incidence rates
+ranged from 6.3/1000 (4.99, 7.55) – 9.1/1000 (7.27, 10.98) students over the three school years of the study. Athletic
+trainers completed 86% of the reports while nurses completed 11% (position or title of 3%, or n = 7, were not disclosed);
+the values were similar when considering only fall pre-season and regular season sports (88, 10, 2%, respectively). On
+average, across the three school years, athletic trainers reported about 3.5 symptoms per report while nurses reported 2.7
+(values in fall seasons only were 3.7 and 3.1, respectively.)
+Conclusions: Certified athletic trainers, compared to school nurses, more often completed concussion report forms and
+reported more symptoms per injured student, perhaps due partly to closer contact and immediate care provided after
+injury. Additionally, this study had a higher concussion incidence rate during fall sports seasons compared to winter and
+spring. Future research can further improve our understanding of concussions among adolescent student-athletes to
+better inform concussion identification, management and recovery protocols.
+Keywords: Adolescent health, Athletic trainer, Brain injuries, Concussions, Epidemiology, Incidence, New Jersey, School
+nurse, Surveillance, Symptoms
+* Correspondence: [URL: "mailto:shendedg@sph.rutgers.edu"] shendedg@sph.rutgers.edu
+1New Jersey Safe Schools Program, Rutgers School of Public Health, 683
+Hoes Lane West, 3rd Floor SPH Building, Suite 399 (office 384), Piscataway, NJ
+08854-8020, USA
+5Department of Environmental and Occupational Health, Rutgers School of
+Public Health, 683 Hoes Lane West, Piscataway, NJ 08854, USA
+Full list of author information is available at the end of the article
+© The Author(s). 2020 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License ([URL: "http://creativecommons.org/licenses/by/4.0/"] http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Page 2
+Gonzalez et al. Injury Epidemiology (2020) 7:1  Page 2 of 7
+Introduction
+Concussion, also called mild traumatic brain injury, is of
+present concern in pediatrics and in sports medicine
+among adolescents (Halstead and Walter 2010). Concus-
+sions can cause acute and chronic adverse effects, as ado-
+lescent brains are still developing (Patel and Reddy 2010).
+Using 2017 Youth Risk Behavior Survey data, the U.S.
+Centers for Disease Control and Prevention (CDC) esti-
+mated about 15% (2.5 million) of U.S. students had at
+least one concussion the prior year from either playing a
+sport or being physically active; 6% reported greater than
+one concussion (DePadilla et al. 2018). Adolescents and
+children, compared to adults, sustain the most sports-
+related concussions (Halstead and Walter 2010).  Ap-
+proximately 300,000 head injuries, 90% of which are
+concussions, occur among high school (HS) athletes
+every year (Patel and Reddy 2010). There has been an in-
+crease in visits to the emergency department for concus-
+sion in the past 10 years: between 2005 and 2009, there
+were also over two million outpatient medical visits for
+concussions sustained by U.S. children and adolescents
+(Lumba-Brown et al. 2018).
+Concussion incidence among athletes is underreported
+for several reasons: signs and symptoms may not be rec-
+ognized by athletes and coaches, and some athletes may
+not report head injuries or concussion symptoms to
+avoid exclusion from play (Patel and Reddy 2010). The
+ability to rapidly identify concussions in order to initiate
+care and treatment is crucial. Moreover, there is concern
+over repeat concussions (Covassin et al. 2013; Taylor
+et al. 2018; Bruce and Echemendia 2004). Recently, CDC
+published on the diagnosis and treatment of concussion
+in children (Lumba-Brown et al. 2018),  the first
+evidence-based (Lumba-Brown et al. 2018; Covassin
+et al. 2013; Kontos et al. 2012; Merritt and Arnett 2014;
+Merritt et al. 2015; Lau et al. 2011) guidelines for treat-
+ment of concussion for U.S. children. The present study
+analyzed reported student-athlete concussion data from
+three consecutive school years (2015–2018), as reported
+by a certified athletic trainers (ATCs) and school nurses,
+employed full time, at public secondary or HS through-
+out New Jersey (NJ) to an online surveillance system
+(Shendell et al. 2018; Shendell et al. 2019). Numbers of
+post-concussion symptoms reported within a week of in-
+jury were also analyzed to initially compare symptoms
+reported by school nurses versus school ATCs. We esti-
+mated concussion incidence rates by school year and by
+season for three school years 2015–2018, to expand on
+previously published descriptive epidemiology (Shendell
+et al. 2018; Shendell et al. 2019).
+Materials & methods
+A pilot study of online concussion reporting in NJ
+public HS was conducted over the 2015–2016, 2016– 
+2017, and 2017–2018 school years. The study was ap-
+proved by the Rutgers University Institutional Review
+Board (#Pro20150001455).  Details of the community
+and school-based process to develop this school-based
+online surveillance form are available in previous pub-
+lications (Shendell et al. 2018; Shendell et al. 2019).
+Consenting, voluntarily participating schools were part
+of a convenience sample throughout the state of NJ,
+representing northern, central, and southern regions
+of the state, for a total of 12 school districts in eight
+counties. There were at least two school districts per
+region in each school year of the study.
+Concussion injury and incident surveillance data were
+collected using an online survey form (PsychData LLC).
+Forms were completed by school nurses or ATCs within
+five days of a confirmed concussion, which were identified
+and confirmed by staff or reported by students then verified
+by staff. Information on demographics, additional injury lo-
+cations (neck, etc.), cause of injury (person-to-person colli-
+sion, etc.),  personal protective equipment worn (helmet,
+etc.), symptoms (dizziness, etc.) and activity type were col-
+lected. Activity type taking place at time of injury was spe-
+cifically asked in the 2017–2018 survey, although we were
+able to infer activity type for all except eleven injuries
+among HS students in the 2015–2016 and 2016–2017
+school years based on personal protective equipment worn
+and short answer responses by ATCs and school nurses,
+which provided details and nature of the injury. Details of
+the other variables, specifically for the 2015–2016 and
+2016–2017 school years, are available in previous publica-
+tions (Shendell et al. 2018; Shendell et al. 2019). Surveil-
+lance data were analyzed using Microsoft Excel (Microsoft,
+Inc.) and SAS (v.9.4, Cary, NC). Descriptive statistics were
+generated using Excel. Confidence intervals were calculated
+using SAS. Data were stratified by grade level, gender,
+school year, and by activity type, e.g.,  football vs. cheer-
+leading etc.
+Additional analysis was conducted to compare num-
+bers of symptoms reported by school ATCs versus
+school nurses; our prior research documented these
+groups most often completed forms (Patel and Reddy
+2010; Shendell et al. 2019).
+Incidence rates and 95% confidence intervals were cal-
+culated using concussion data from the pilot study and
+publically available total school enrollment data from NJ
+Department of Education (New Jersey Department of
+Education n.d.).  Data on total school enrollment was
+used as the denominator to calculate incidence rates and
+confidence intervals for each school year.
+Results
+Seven HS with ten campuses participated in 2015–
+2016, seven HS with seven campuses participated in
+2016–2017, and 13 HS with 13 campuses participated
+Page 3
+Gonzalez et al. Injury Epidemiology (2020) 7:1  Page 3 of 7
+in 2017–2018. Overall, 300 concussions were reported
+over the three years of the pilot study, with 298 concus-
+sions among HS students and two concussions among
+male 8th graders. Concussions sustained by eighth
+graders were excluded from the incidence analysis but
+included in the symptom reporting analysis among
+ATCs and school nurses. There were 113 concussions
+among HS students and two among 8th graders in
+2015–2016, 93 concussions in 2016–2017, and 92 con-
+cussions in 2017–2018; these are stratified by school
+year and grade in Table 1.
+The average age of HS students at the time of concus-
+sion was approximately 15–16 years (15.6 for male stu-
+dents and 15.5 for female students).  HS students were
+predominantly white (74%) and non-Hispanic (82%); 176
+(59%) were male and 122 (41%) were female (Table 2).
+Among HS students, the sport or activity in question
+was reported or able to be determined for 287 of 298 con-
+cussions (Fig. 1). There were 99 concussions (35%) which
+occurred during football play or practice; 29 concussions
+(10%) were sustained during girls’  soccer; and 29 (10%)
+were sustained during cheerleading (although co-ed, con-
+cussions were only reported among girls). Additionally, 23
+concussions (8%) occurred during boys’  soccer, and 19
+(7%) occurred during boys’ lacrosse. The remaining con-
+cussions occurred during other sports, physical education,
+other activities, or when activity type was not reported. At
+least one concussion was reported for football, cheer-
+leading, field hockey, boys’ soccer, girls’ soccer, volleyball,
+wrestling, boys’  basketball, girls’  basketball, baseball/soft-
+ball, boys’ lacrosse, girls’ lacrosse, track and field, physical
+education including Junior Reserve Officer Training Corps
+(JROTC) Basic Training, golf, and other activities (Shen-
+dell et al. 2018; Shendell et al. 2019).
+Overall, among HS male student-athletes, football con-
+tributed to 93 (55%) of the 170 concussions, for which
+activity type data were available. Additionally, boys’ soc-
+cer contributed to 23 concussions (14%) and boys’  la-
+crosse contributed to 18 (11%). When analyzed without
+football, the sport breakdown for male athletes (n = 77)
+included 23 concussions from soccer (30%), 18 from la-
+crosse (23%),  and 11 from wrestling (14%).  Among fe-
+male student athletes, 29 concussions (25%) occurred
+during cheerleading, 29 (25%) occurred during girls’ soc-
+cer, and 10 (9%) occurred during softball. 
+Table 2 Demographics of student-athletes with concussions in
+the 2015–2018 school years a 
+2015–2018 school years combined
+Gender, n (%)
+Male  178b (59.7)
+Female  122 (40.9)
+Race, n (%)
+White  221 (74.2)
+Black  41 (13.8)
+Asian
+Otherc 
+14 (4.7)
+23 (7.7)
+Ethnicity, n (%)
+Hispanic/Latino  50 (18.0)
+Non-Hispanic/Latino  228 (82.0)
+a Note: Some categories smaller due to non-response; some percentages do
+not add up to 100 due to rounding
+b Two of the male concussions were sustained by students in 8th grade
+c Other races include American Indian/Alaska Native, Native Hawaiian/Pacific
+Islander, and any races defined as “other” by the respondent
+Over the three years of this pilot study, ATCs and
+nurses completed 300 concussion reports; 86% of reports
+were completed by ATCs (n = 259), school nurses com-
+pleted 11% (n = 34), and 2% did not complete reporting
+form job title and symptom fields (n = 7).  In total, 961
+symptoms were reported among the 300 reported con-
+cussions, for an average of 3.1 symptoms reported per
+concussion. The ATCs reported, on average, more
+symptoms associated with reported student-athlete con-
+cussions than the school nurses, 3.5 versus 2.7, respect-
+ively; the values for the combined summer pre-season
+and fall regular season were slightly higher at 3.7 for
+ATC and 3.1 for school nurses, respectively (Table 3).
+Nevertheless, both groups (ATCs and school nurses)
+had similar distributions of numbers of symptoms re-
+ported, with a range 1–7 symptoms reported for about
+88% of report forms and about 22% of report forms not-
+ing either two symptoms or three symptoms per
+student-athlete, respectively. Dizziness, headaches, and
+sensitivity to indoor and/or outdoor lighting (artificial or
+via sunlight) were consistently documented on 20% or
+more of reported concussions. Although feeling disor-
+iented, blurry vision, and balance issues were reported
+frequently among ATCs, (range 20–27% of reported
+Table 1 Annual school year reported student concussions during the 2015–2018 school years
+Reported Concussions  9th Grade  10th Grade
+Total (2015–2018)  84  89
+2015–2016 school year only  39  34
+2016–2017 school year only  30  27
+2017–2018 school year only  15  28
+Annual average # concussion injuries reported, 2015–2018  28  30 
+11th Grade
+74
+27
+21
+26
+25 
+12th Grade
+51
+13
+15
+23
+17
+Page 4
+Gonzalez et al. Injury Epidemiology (2020) 7:1  Page 4 of 7
+Fig. 1 Reported concussions by activity type (of total of 298 for 9th–12th graders) during 2015–2018 school years. aNote “all other sports and
+activities” included wrestling, field hockey, girls’ lacrosse, boys’ basketball, girls’ basketball, physical education, volleyball, golf, JROTC Basic Training,
+track and field, and instances where activity type data were missing
+concussions), school nurses did not report these symp-
+toms as frequently (6–15% range);  it should be noted,
+however, among school nurses, sensitivity to noise and
+sensitivity to indoor artificial lighting ranked co-third
+(21% each of reported concussions).  Both groups re-
+ported fatigue and nausea in a similar proportion (12–
+15%). (See Additional file 1: Table S1).
+Concussion incidence rates ranged from 6.3/1000 to 9.1/
+1000 enrolled HS students over the three study school years
+(Table 4, presented with 95% confidence intervals). Concus-
+sions most commonly occurred during fall, followed by
+spring, then winter. Given the 95% confidence intervals
+overlapped, overall rates varied slightly but were not statisti-
+cally significantly different across the three study years.
+Table 3 Number of symptoms reported per concussion injury
+by school nurses versus athletic trainers for 300 student-athlete
+concussions documented in the 2015–2018 school years
+By Nurses By Athletic Trainers
+Number of Symptoms Reported n  %  n  %
+0  4  12% 19  7%
+1  5  15% 33  13%
+2  7  21% 54  21%
+3  7  21% 60  23%
+4  4  12% 32  12%
+5  2  6%  22  8%
+6  4  12% 13  5%
+7  1  3%  11  4%
+8+  0  0%  15  6% 
+Discussion
+In 2016, CDC proposed a national concussion surveil-
+lance system (Centers for Disease Control and Preven-
+tion (CDC) n.d.). This study is one of multiple attempts
+to address gaps in youth concussion and symptom sur-
+veillance in the U.S. (Kerr et al. 2017; O'Connor et al.
+2017) Also in 2016, a statewide registry based at the
+University of Texas – Southwestern was established to
+track concussions among student-athletes in Texas; it
+was the largest statewide effort to date to track concus-
+sions among student-athletes (UT Southwestern Medical
+Center 2018).  Both NJ (Shendell et al. 2018; Shendell
+et al. 2019) and Texas (UT Southwestern Medical Cen-
+ter 2018) could serve as potential models for similar sys-
+tems in other states as well as for the CDC’s proposed
+national system.
+Overall, there were more concussions during the fall
+sports seasons, likely because of the high proportion of
+male student athletes participating in freshman, junior
+varsity, and varsity football (Shendell et al. 2018; Shen-
+dell et al. 2019).  Participating ATCs noted there were
+generally more students participating in fall sports and
+how, in general, there was no upper limit on the number
+of students able to join the sports teams during this sea-
+son. Thus, there were likely more student-athletes dur-
+ing the fall sports season, and consequently more
+student-athletes at risk for concussion.
+The present study’s data suggested the most reported
+HS student-athlete concussions occurred during the fall,
+and reported in football, which was associated with 35%
+of total concussions for which activity type information
+was available. This information reinforces other work in
+Page 5
+Gonzalez et al. Injury Epidemiology (2020) 7:1  Page 5 of 7
+Table 4 Concussion incidence rates by season and by year
+Season/School year  Number of concussions
+Fall 2015
+Winter 2015–2016
+Spring 2016
+Total in 2015–2016 school year
+Fall 2016
+Winter 2016–2017
+Spring 2017
+Total in 2016–2017 school year
+Fall 2017
+Winter 2017–2018
+Spring 2018
+Total in 2017–2018 school year 
+86
+7
+22
+115
+56
+15
+22
+93
+76
+9
+7
+92 
+Concussions/1000 enrolled HS students
+95% confidence intervals
+6.5 (5.12,7.87)
+0.5 (0.14, 0.92)
+1.7 (0.97, 2.36)
+8.7 (7.10, 10.27)
+5.5 (4.06, 6.93)
+1.5 (0.73, 2.22)
+2.2 (1.26, 3.06)
+9.1 (7.27, 10.98)
+5.2 (4.01, 6.34)
+0.6 (0.21, 1.01)
+0.5 (0.12, 0.83)
+6.3 (4.99, 7.55)
+the literature which demonstrated both HS and college
+football players become concussed at higher rates than
+players of other sports such as softball (Gessel et al.
+2007).  One of the important findings of the present
+study was how the sport of cheerleading, which is in-
+creasing in popularity and numbers of participants
+across the U.S. due to its athletic and energetic gymnas-
+tics, acrobatic, and dance-related components, ranked
+“top 3” in each study school year and in each fall and
+winter sports season (Cheer Safe 2019; UCA 2019; Var-
+sity 2019).  The present study thus informs ATCs and
+coaches in the state of NJ and across the U.S. about
+cheerleading concussions, and reinforces the message to
+be particularly vigilant during the fall sports season. In
+2011, the State of NJ mandated public school districts,
+charter schools, and private schools adopt an interscho-
+lastic head injury training program for coaches, ATCs,
+school nurses, and other appropriate personnel (N.J.S.A.
+18A:40–41.4 n.d.). The content of the program is at the
+discretion of the individual school districts provided it
+meets minimum requirements, including identifying the
+signs and symptoms of concussions and a graduated
+return-to-play protocol for concussed student-athletes.
+Further information on specific sports where student-
+athletes could be at higher risk of concussion, based on
+the present study, may enhance these training programs.
+There were more reported concussions among 9th and
+10th graders, i.e.,  underclassmen, as compared to 11th
+and 12th graders, i.e., upperclassmen. This finding may
+be due to how, in general, freshman and junior varsity
+teams often allow more and younger students to partici-
+pate, and usually do not cut players, unlike typical var-
+sity teams.
+In New Jersey, a survey reported about 95% of public
+secondary schools had certified athletic training services,
+of which 91% served the school full time (Pryor et al. 
+2015).  For comparison, 70% of U.S. public secondary
+schools had athletic training services, although only 37%
+of them served the schools full-time (Pryor et al. 2015;
+Adams et al. 2019), and among public and private U.S.
+secondary schools combined about 58% had athletic
+training services, with 28% full-time (in NJ, 68 and 36%,
+respectively) (Pike et al. 2017; Pike et al. 2016).  The
+present study, which had a greater involvement by certi-
+fied ATCs than school nurses, documented a small dif-
+ference in reporting symptoms by school nurses versus
+school ATCs. On average ATCs reported more concus-
+sions compared to school nurses. Additionally, while diz-
+ziness and headaches, the top two reported symptoms,
+were the same, there was variation in the other symp-
+toms reported, which may be attributable to many fac-
+tors, including the symptoms which the nurse or athletic
+trainer were able to see at time of injury or time of
+reporting. It must be noted this study did not follow-up
+with these students over time.
+Concussion incidence rates by gender were not calcu-
+lated in this study due to the lack of gender-specific
+denominator data; however, current literature has sug-
+gested female student-athletes tended to have higher
+concussion rates than male student-athletes when play-
+ing similar sports (Halstead and Walter 2010; Kerr
+et al. 2017; O'Connor et al. 2017),  although male
+student-athletes sustained more concussions overall
+(Halstead and Walter 2010; Resch et al. 2017). There-
+fore, analysis of concussion rates by gender, are worthy
+of further study, with more symptoms assessed.
+This study had limitations. First, it was a pilot project
+with a limited sample size, i.e., a sample of participating,
+consenting school districts and HS. Second, only total
+school enrollment data were available, not team rosters,
+which allowed only for calculations of season-level and
+yearly estimated incidence rates. Third, the online reporting
+Page 6
+Gonzalez et al. Injury Epidemiology (2020) 7:1  Page 6 of 7
+form was filled out by a school nurse or athletic trainer,
+meaning evaluations of reported concussions were, theoret-
+ically, more consistent based on the NJ-mandated training
+on sports-related concussions, plus personal professional
+experience. However, data were only collected by partici-
+pants at one time point for each subject. Fourth, only the
+2017–2018 school year questionnaire specifically asked
+what activity students were engaging in while they sus-
+tained a concussion. Information on activity type from
+2015 to 2016 and 2016–2017 was obtained from the free-
+response sections where the respondent described what oc-
+curred when the student sustained a concussion. Finally,
+there was no way of determining if a concussion injury oc-
+curred at a participating HS but went unreported, and
+assessing any difference in concussion severity by who the
+injury was reported to/by (for entry into this study’s online
+surveillance tool) was beyond the scope of this study..
+It should be noted the first two years (2015–2017
+school years) contained several free-response sections,
+which led to inconsistent data. For example, activity type
+at the time of the concussion injury was determined
+from the free-response narrative sections describing the
+concussion injury incident during the 2015–2016 and
+2016–2017 school years. The reporting form for the final
+year (2017–2018 school year) included more multiple
+choice-style questions, which led to more consistent
+reporting and may have reduced the time necessary to
+complete the form.
+This study had known strengths. This online surveillance
+form proved to be easy-to-use, low- or no-cost, and able to
+be completed rapidly (Shendell et al. 2018; Shendell et al.
+2019).  The NJ Department of Education’s recent online
+public release of school enrollment data allowed for the cal-
+culation of estimated concussion incidence rates for the
+first time using this dataset. While there is always concern
+for underreporting of concussion by student-athletes them-
+selves, concussion injury events in this study were identified
+by staff or reported by students. It is therefore unlikely the
+participating school nurse or certified athletic trainer would
+have deliberately completed a surveillance form incorrectly.
+When they logged into the online form, they were acknow-
+ledging the specific concussion injury assessed and docu-
+menting known circumstances surrounding the incident in
+question.
+While many states (Centers for Disease Control and
+Prevention (CDC) n.d.) and the CDC (Centers for Dis-
+ease Control and Prevention (CDC) 2015) have recently
+made efforts to monitor and address youth concussions,
+especially among student-athletes, more work remains
+to be done. Reporting is inconsistent, often university-
+based studies with variable sample sizes and which may
+not be representative of most student-athletes, e.g., only
+among male student-athletes (Long et al. 2018), or only
+among soccer players (Nevins et al. 2018). 
+Conclusion
+This analysis suggested student-athletes sustained con-
+cussion injuries throughout the school year and while
+participating in various sports and activities sponsored
+by public secondary schools. An online reporting form
+was able to yield useful epidemiological data on concus-
+sion injury occurrence. In this study, football players
+comprised many of the total reported incidents, overall
+and particularly in fall seasons, but student-athletes par-
+ticipating in other sports such as soccer (fall seasons)
+and cheerleading (fall and winter seasons) also played a
+large part in these reported concussions. In future
+studies, the plan is to accurately determine sizes of the
+participating and most at-risk school teams to get
+sports-specific estimated concussion rates during prac-
+tice and competition. Guidelines for concussion manage-
+ment in adults (ages 16 and older) have been available
+since 2008 from the American College of Emergency
+Physicians (ACEP 2008); guidelines for youth concussion
+were released by CDC in 2018 (Lumba-Brown et al.
+2018). Increased state-level and national surveillance of
+youth concussion to complement clinical guidelines is a
+public health priority.
+The need for full- time and accessible school appointed
+health-care professionals to the student body, which in-
+cludes the student athletes, is crucial. ATCs are commonly
+available after school hours when play typically takes place
+as opposed to school nurses, who may only be able to see
+the student during school hours.
+Supplementary information
+Supplementary information accompanies this paper at [URL: "https://doi.org/10.1186/s40621-019-0228-5"] https://doi.org/10.
+ 1186/s40621-019-0228-5.
+Additional file 1: Table S1. School nurse versus athletic trainer
+symptom reporting for 300 student-athlete concussions documented in
+the 2015–2018 school years
+Abbreviations
+ATCs: Certified Athletic Trainers; CDC: U.S. Centers for Disease Control and
+Prevention; HS: High School; NJ: New Jersey
+Acknowledgements
+Athletic directors, certified athletic trainers, and school nurses of the
+campuses of schools in school districts across three regions of NJ.
+Brain Injury Alliance of NJ, Concussions in Youth Sports committee
+Rutgers School of Public Health
+Authors’ contributions
+LG managed data collection, carried out the initial analysis, and reviewed
+and revised the manuscript; LEJ carried out the data analysis, drafted the
+initial manuscript, and reviewed and revised the manuscript; MF managed
+data collection, and reviewed and revised the manuscript; NS assisted in
+data analysis, and reviewed the manuscript; JAP assisted in drafting and
+reviewing the manuscript; DGS conceptualized and designed the study,
+designed the data collection instrument, supervised data collection, and
+reviewed and revised the manuscript. Authors have read and approved the
+final version of the manuscript, and agree with the order of presentation of
+the authors.
+Page 7
+Gonzalez et al. Injury Epidemiology (2020) 7:1  Page 7 of 7
+Funding
+This project was funded by Kessler Foundation, Special Projects Program
+mechanism, with two rounds of funding during 2014–2017 (final report
+submitted winter 2018).
+Availability of data and materials
+The surveillance datasets generated during the study are confidential and
+protected information in accordance to IRB protocol, datasets analyzed
+during the current study to determine incidence rates are available via the
+NJ Department of Education, [URL: "https://www.state.nj.us/education/data/enr/"] https://www.state.nj.us/education/data/enr/
+Ethics approval and consent to participate
+The study was approved by the Rutgers University Institutional Review Board
+(#Pro20150001455).
+Consent for publication
+(Not Applicable)
+Competing interests
+No financial disclosures were reported by the authors of this paper.
+Author details
+1New Jersey Safe Schools Program, Rutgers School of Public Health, 683
+Hoes Lane West, 3rd Floor SPH Building, Suite 399 (office 384), Piscataway, NJ
+08854-8020, USA. 2Department of Biostatistics & Epidemiology, Rutgers
+School of Public Health, 683 Hoes Lane West, Piscataway, NJ 08854, USA.
+3Department of Urban-Global Public Health, Rutgers School of Public Health,
+One Riverfront Plaza, Suite 1020, Newark, NJ 07102, USA. 4West Deptford
+High School Athletics Department, 1600 Old Crown Point Road, West
+Deptford, NJ 08093, USA. 5Department of Environmental and Occupational
+Health, Rutgers School of Public Health, 683 Hoes Lane West, Piscataway, NJ
+08854, USA. 6Environmental and Occupational Health Sciences Institute,
+Rutgers, The State University of New Jersey, 170 Freylinghuysen Road,
+Piscataway, NJ 08854, USA. 7Brain Injury Alliance of NJ-Concussion in Youth
+Sports Committee, 825 Georges Road, North Brunswick, NJ 08902, USA.
+Received: 20 September 2019 Accepted: 6 December 2019
+References
+Adams WM, Hosokawa Y, Belval LN. Factors Involved in the Onsite Management and
+Care of Exertional Heat Stroke in Secondary School Athletics. Athl Train Sports
+Health Care. 2019;11(5):206–9. [URL: "https://doi.org/10.3928/19425864-20181010-01"] https://doi.org/10.3928/19425864-20181010-01.
+American College of Emergency Physicians. Decision making in adult mild
+traumatic brain injury in the acute setting. 2008.: [URL: "https://www.acep.org/patient-care/clinical-policies/mild-traumatic-brain-injury2/#sm.0000ui3138a2odbmtgm1v2j8u57h8"] https://www.acep.org/
+ patient-care/clinical-policies/mild-traumatic-brain-injury2/#sm.0000ui3138a2
+ odbmtgm1v2j8u57h8. Accessed 11 Nov 2018.
+Bruce JM, Echemendia RJ. Concussion history predicts self-reported symptoms
+before and following a concussive event. Neurol. 2004;63:8:1516–1518.
+https://doi.org/[URL: "https://doi.org/10.1212/01.wnl.0000142088.32204.82"] https://doi.org/10.1212/01.wnl.0000142088.32204.82.
+Centers for Disease Control and Prevention (CDC). HEADS UP: Online Training for
+Healthcare Providers.2015. [URL: "https://www.cdc.gov/headsup/providers/training/index.html"] https://www.cdc.gov/headsup/providers/training/
+ index.html. Accessed 27 Nov 2018.
+Centers for Disease Control and Prevention (CDC). National Concussion
+Surveillance System.2018. [URL: "https://www.cdc.gov/traumaticbraininjury/ncss/index.html.%20Accessed%201%20Nov%202018"] https://www.cdc.gov/traumaticbraininjury/ncss/
+ index.html. Accessed 1 Nov 2018.
+Cheer Safe: Get the Facts About Cheerleading Injuries. (2019).[URL: "https://www.cheersafe.org/"] https://www.
+ cheersafe.org/ Accessed 26 July 2019.
+Covassin T, Moran R, Wilhelm K. Concussion symptoms and neurocognitive
+performance of high school and college athletes who incur multiple
+concussions. Am J Sports Med 2013;41:12:2885–2889. https://doi.org/[URL: "https://doi.org/10.1177/0363546513499230"] https://
+ doi.org/10.1177/0363546513499230.
+DePadilla L, Miller GF, Everett Jones S, et al. Self-reported concussions from
+playing a sport or being physically active among high school students –
+United States, 2017. Morbid Mortal Wkly Rep 2018;67:24:682–685. https://doi.
+org/[URL: "https://doi.org/10.15585/mmwr.mm6724a3"] https://doi.org/10.15585/mmwr.mm6724a3.
+Gessel LM, Fields SK, Collins CL, et al. Concussions among United States high
+school and collegiate athletes. J Athl Train. 2007;42(4):495–503.
+Halstead ME, Walter KD. The council on sports medicine and fitness. Sport-related
+concussion in children and adolescents. Pediatr. 2010;126:3:597–615. https://
+doi.org/[URL: "https://doi.org/10.1542/peds.2010-2005"] https://doi.org/10.1542/peds.2010-2005. 
+Kerr ZY, Cortes N, Caswell AM, et al. Concussion rates in U.S. middle school
+athletes, 2015–2016 school year. Am J Prev Med. 2017;53(6):914–8. [URL: "https://doi.org/"] https://
+ doi.org/. [URL: "https://doi.org/10.1016/j.amepre.2017.05.017"] https://doi.org/10.1016/j.amepre.2017.05.017.
+Kontos AP, Elbin RJ, Schatz P, et al. A revised factor structure for the post-
+concussion symptom scale. Am J Sports Med 2012; 40:10:2375–2384. https://
+doi.org/[URL: "https://doi.org/10.1177/0363546512455400"] https://doi.org/10.1177/0363546512455400.
+Lau BC, Collins MW, Lovell MR. Sensitivity and specificity of subacute
+computerized neurocognitive testing and symptom evaluation in predicting
+outcomes after sports-related concussion. Am J Sports Med 2011;39:6:1209–
+1216. https://doi.org/[URL: "https://doi.org/10.1177/0363546510392016"] https://doi.org/10.1177/0363546510392016.
+Long AS, Niemeier JP, McWilliams A, et al. Comparison of neurocognitive
+changes over one competitive season in adolescent contact and non-
+contact athletes. Athl Train Sport Health Care 2018. https://doi.org/10.3928/
+19425864-20180430-01.
+Lumba-Brown A, Yeates KO, Sarmiento K, et al. Centers for Disease Control and
+Prevention guideline on the diagnosis and management of Mild Traumatic
+Brain Injury among children. JAMA Pediatr. 2018;172:11:e182853. https://doi.
+org/[URL: "https://doi.org/10.1001/jamapediatrics.2018.2853"] https://doi.org/10.1001/jamapediatrics.2018.2853.
+Merritt VC, Arnett PA. Premorbid predictors of postconcussion symptoms in
+collegiate athletes. J Clin Exp Neuropsychol 2014;36:10:1098–1111. https://
+doi.org/[URL: "https://doi.org/10.1080/13803395.2014.983463"] https://doi.org/10.1080/13803395.2014.983463.
+Merritt VC, Meyer JE, Arnett PA. A novel approach to classifying postconcussion
+symptoms: the application of a new framework to the post-concussion
+symptom scale. J Clin Exp Neuropsychol 2015;37:7:764–775. https://doi.org/
+ https://doi.org/10.1080/13803395.2015.1060950.
+N.J.S.A. 18A:40–41.4. Model policy and guidance for prevention and treatment of
+sports-related concussions and head injuries. [URL: "https://www.nj.gov/education/aps/cccs/chpe/concussions/policy.pdf"] https://www.nj.gov/education/
+ aps/cccs/chpe/concussions/policy.pdf. Accessed 4 Feb 2019.
+Nevins D, Hildenbrand K, Vasavada A, et al. In-game head impact exposure of
+male and female high school soccer players. Ath Train Sport Health Care.
+2018; [URL: "https://doi.org/10.3928/19425864-20180802-02"] https://doi.org/10.3928/19425864-20180802-02.
+New Jersey Department of Education. DOE Data: Fall Survey Collections – Enrollment.
+2018. [URL: "https://www.nj.gov/education/data/enr/"] https://www.nj.gov/education/data/enr/. Accessed 8 Nov 2018.
+O'Connor KL, Baker MM, Dalton SL, et al. Epidemiology of sport-related
+concussions in high school athletes: National Athletic Treatment, injury and
+outcomes network (NATION), 2011–2012 through 2013–2014. J Athl Train
+2017;52:3:175–185. https://doi.org/[URL: "https://doi.org/10.4085/1062-6050-52.1.15"] https://doi.org/10.4085/1062-6050-52.1.15.
+Patel DR, Reddy V. Sport-related concussion in adolescents. Pediatr Clin N. Am.
+2010;57:3:649–670. https://doi.org/[URL: "https://doi.org/10.1016/j.pcl.2010.03.006"] https://doi.org/10.1016/j.pcl.2010.03.006.
+Pike AM, Pryor RR, Mazerolle SM, Stearns RL, Casa DJ. Athletic Trainer Services in
+US Private Secondary Schools. J Athl Train. 2016;51(9):717–26. [URL: "https://doi.org/10.4085/1062-6050-51.11.04"] https://doi.org/
+ 10.4085/1062-6050-51.11.04.
+Pike AM, Pryor RR, Vandermark LW, Mazerolle SM, Casa DJ. Athletic Trainer
+Services in Public and Private Secondary Schools. J Athl Train. 2017;52(1):5–
+11. [URL: "https://doi.org/10.4085/1062-6050-51.11.15"] https://doi.org/10.4085/1062-6050-51.11.15.
+Pryor RR, Casa DJ, Vandermark LW, et al. Athletic training services in public
+secondary schools: a benchmark study. J Athl Train. 2015;50(2):156–62.
+ https://doi.org/10.4085/1062-6050-50.2.03.
+Resch JE, Rach A, Walton S, et al. Sports concussion and the female athlete. Clin
+Sport Med 2017;36:4:717–739. https://doi.org/[URL: "https://doi.org/10.1016/j.csm.2017.05.002"] https://doi.org/10.1016/j.csm.
+ 2017.05.002.
+Shendell DG, Listwan TA, Gonzalez L, et al. Season and sport-specific adolescent
+concussions via online surveillance in New Jersey public high schools 2015-
+2017. Int J Athl Ther Train 2018;23:4:162–171. https://doi.org/[URL: "https://doi.org/10.1123/ijatt.2017-0083"] https://doi.org/
+ 10.1123/ijatt.2017-0083.
+Shendell DG, Listwan TA, Gonzalez L, et al. Developing and piloting a school-based
+online adolescent student-athlete concussion surveillance system. J Sch
+Health2019;89:7:527–535. https://doi.org/[URL: "https://doi.org/10.1111/josh.12775"] https://doi.org/10.1111/josh.12775.
+Taylor KM, Kioumourtzoglou K, Clover J, et al. Concussion history and cognitive
+function in a large cohort of adolescent athletes. Am J Sports Med 2018;46:
+13:3262–3270. https://doi.org/[URL: "https://doi.org/10.1177/0.363546518798801"] https://doi.org/10.1177/0.363546518798801.
+UCA: About Universal Cheerleaders Association. (2019)[URL: "https://www.varsity.com/uca/about/"] .https://www.varsity.com/
+ uca/about/ Accessed 26 July 2019.
+UT Southwestern Medical Center. UTSW leads groundbreaking effort to monitor
+youth concussions. 2018. [URL: "https://www.utsouthwestern.edu/newsroom/articles/year-2018/concussions-cullum.html"] https://www.utsouthwestern.edu/newsroom/
+ articles/year-2018/concussions-cullum.html. Accessed 1 Nov 2018.
+Varsity. (2019)[URL: "https://www.varsity.com/"] .https://www.varsity.com/ Accessed 26 July 2019.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
