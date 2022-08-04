@@ -1,0 +1,1723 @@
+Keywords: Long non-coding RNA,Motor neuron,Spinal muscular atrophy,Amyotrophic lateral sclerosis
+Creator: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+ModDate: 2020/02/25 02:27:04+01'00'
+CreationDate: 2020/02/22 05:22:31+08'00'
+Producer: Acrobat Distiller 10.0.0 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)
+Subject: Journal of Biomedical Science, 2020, doi:10.1186/s12929-020-00628-z
+Author: Kuan-Wei Chen
+Title: Functional Roles of Long Non-coding RNAs in Motor Neuron Development and Disease
+xmp:pdf:Keywords: Long non-coding RNA,Motor neuron,Spinal muscular atrophy,Amyotrophic lateral sclerosis
+xmp:pdf:Producer: Acrobat Distiller 10.0.0 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)
+xmp:dc:format: application/pdf
+xmp:dc:identifier: 10.1186/s12929-020-00628-z
+xmp:dc:publisher: Journal of Biomedical Science
+xmp:dc:description: Journal of Biomedical Science, 2020, doi:10.1186/s12929-020-00628-z
+xmp:dc:subject: Long non-coding RNA; Motor neuron; Spinal muscular atrophy; Amyotrophic lateral sclerosis
+xmp:dc:title: Functional Roles of Long Non-coding RNAs in Motor Neuron Development and Disease
+xmp:dc:creator: Kuan-Wei Chen; Jun-An Chen
+xmp:xmp:ModifyDate: 2020-02-25T02:27:04+01:00
+xmp:xmp:MetadataDate: 2020-02-25T02:27:04+01:00
+xmp:xmp:CreateDate: 2020-02-22T05:22:31+08:00
+xmp:xmp:CreatorTool: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+xmp:xmpMM:DocumentID: uuid:e3106c63-9443-49b2-96b1-de7fc2140320
+xmp:xmpMM:InstanceID: uuid:433a2e3a-47aa-46f4-9abc-1f0fd975fb4a
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:e3106c63-9443-49b2-96b1-de7fc2140320
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2020-02-22T05:31:33+08:00
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:author:name: Jun-An Chen
+xmp:author:orcid: http://orcid.org/0000-0001-9870-3203
+xmp:pdfaSchema:schema: Springer Nature ORCID Schema
+xmp:pdfaSchema:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/
+xmp:pdfaSchema:prefix: sn
+xmp:pdfaProperty:name: authorInfo
+xmp:pdfaProperty:valueType: Bag AuthorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Author information: contains the name of each author and his/her ORCID (ORCiD: Open Researcher and Contributor ID). An ORCID is a persistent identifier (a non-proprietary alphanumeric code) to uniquely identify scientific and other academic authors.
+xmp:pdfaProperty:name: editorInfo
+xmp:pdfaProperty:valueType: Bag EditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Editor information: contains the name of each editor and his/her ORCID identifier.
+xmp:pdfaProperty:name: seriesEditorInfo
+xmp:pdfaProperty:valueType: Bag SeriesEditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Series editor information: contains the name of each series editor and his/her ORCID identifier.
+xmp:pdfaType:type: AuthorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/authorInfo/
+xmp:pdfaType:prefix: author
+xmp:pdfaType:description: Specifies the types of author information: name and ORCID of an author.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an author.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an author.
+xmp:pdfaType:type: EditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/editorInfo/
+xmp:pdfaType:prefix: editor
+xmp:pdfaType:description: Specifies the types of editor information: name and ORCID of an editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an editor.
+xmp:pdfaType:type: SeriesEditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/seriesEditorInfo/
+xmp:pdfaType:prefix: seriesEditor
+xmp:pdfaType:description: Specifies the types of series editor information: name and ORCID of a series editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of a series editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of a series editor.
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdf/1.3/
+xmp:pdfaSchema:prefix: pdf
+xmp:pdfaSchema:schema: Adobe PDF Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A name object indicating whether the document has been modified to include trapping information
+xmp:pdfaProperty:name: Trapped
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/mm/
+xmp:pdfaSchema:prefix: xmpMM
+xmp:pdfaSchema:schema: XMP Media Management Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: UUID based identifier for specific incarnation of a document
+xmp:pdfaProperty:name: InstanceID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: The common identifier for all versions and renditions of a document.
+xmp:pdfaProperty:name: OriginalDocumentID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A reference to the original document from which this one is derived. It is a minimal reference; missing components can be assumed to be unchanged. For example, a new version might only need to specify the instance ID and version number of the previous version, or a rendition might only need to specify the instance ID and rendition class of the original.
+xmp:pdfaProperty:name: DerivedFrom
+xmp:pdfaProperty:valueType: ResourceRef
+xmp:pdfaType:description: Identifies a portion of a document. This can be a position at which the document has been changed since the most recent event history (stEvt:changed). For a resource within an xmpMM:Ingredients list, the ResourceRef uses this type to identify both the portion of the containing document that refers to the resource, and the portion of the referenced resource that is referenced.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Part#
+xmp:pdfaType:prefix: stPart
+xmp:pdfaType:type: Part
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/t/pg/
+xmp:pdfaSchema:prefix: xmpTPg
+xmp:pdfaSchema:schema: XMP Paged-Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A structure containing the characteristics of a font used in a document
+xmp:pdfaProperty:name: Fonts
+xmp:pdfaProperty:valueType: Bag Font
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: XMP08 Spec: An ordered array of plate names that are needed to print the document (including any in contained documents).
+xmp:pdfaProperty:name: PlateNames
+xmp:pdfaProperty:valueType: Seq Text
+xmp:pdfaType:description: A structure containing the characteristics of a font used in a document.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Font#
+xmp:pdfaType:prefix: stFnt
+xmp:pdfaType:type: Font
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdfx/1.3/
+xmp:pdfaSchema:prefix: pdfx
+xmp:pdfaSchema:schema: PDF/X ID Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: ID of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXVersion
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Conformance level of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXConformance
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Company creating the PDF
+xmp:pdfaProperty:name: Company
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Date when document was last modified
+xmp:pdfaProperty:name: SourceModified
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://www.aiim.org/pdfa/ns/id/
+xmp:pdfaSchema:prefix: pdfaid
+xmp:pdfaSchema:schema: PDF/A ID Schema
+xmp:pdfaProperty:category: internal
+xmp:BOOKMARKS:
+Abstract
+Introduction
+  General function of lncRNAs
+    Role of lncRNAs in regulating neural progenitors
+    LncRNAs in the regulation of postmitotic neurons
+    Motor neuron-related diseases
+    Amyotrophic lateral sclerosis (ALS)
+  Nuclear Enriched Abundant Transcript 1 (NEAT1)
+  C9ORF72 antisense RNA
+  Ataxin 2 antisense (ATXN2-AS) transcripts
+  Other lncRNAs implicated in ALS
+    Spinal muscular atrophy (SMA)
+    LncRNAs in liquid-liquid phase separation (LLPS) and motor neuron diseases
+Conclusion and perspective
+Abbreviations
+Acknowledgements
+Authors’ contributions
+Funding
+Availability of data and materials
+Ethics approval and consent to participate
+Consent for publication
+Competing interests
+References
+Publisher’s Note
+Page 1
+Chen and Chen Journal of Biomedical Science
+https://doi.org/10.1186/s12929-020-00628-z 
+(2020) 27:38
+REVIEW  Open Access
+Functional Roles of Long Non-coding RNAs
+in Motor Neuron Development and Disease
+Kuan-Wei Chen* and Jun-An Chen*
+Abstract
+Long non-coding RNAs (lncRNAs) have gained increasing attention as they exhibit highly tissue- and cell-type
+specific expression patterns. LncRNAs are highly expressed in the central nervous system and their roles in the brain
+have been studied intensively in recent years, but their roles in the spinal motor neurons (MNs) are largely
+unexplored. Spinal MN development is controlled by precise expression of a gene regulatory network mediated
+spatiotemporally by transcription factors, representing an elegant paradigm for deciphering the roles of lncRNAs
+during development. Moreover, many MN-related neurodegenerative diseases, such as amyotrophic lateral sclerosis
+(ALS) and spinal muscular atrophy (SMA), are associated with RNA metabolism, yet the link between MN-related
+diseases and lncRNAs remains obscure. In this review, we summarize lncRNAs known to be involved in MN
+development and disease, and discuss their potential future therapeutic applications.
+Keywords: Long non-coding RNA, Motor neuron, Spinal muscular atrophy, Amyotrophic lateral sclerosis
+Introduction
+Next-generation RNA sequencing technology has revealed
+thousands of novel transcripts that possess no potential
+protein-coding elements. These RNAs are typically anno-
+tated as non-coding RNAs (ncRNAs) in the Human Gen-
+ome Project and ENCODE Project [31, 59, 147]. Although
+most of the human genome is transcribed at certain stages
+during embryonic development, growth, or disease progres-
+sion, ncRNAs were classically considered transcriptional
+noise or junk RNA due to their low expression levels relative
+to canonical mRNAs that generate proteins [19, 60]. How-
+ever, emerging and accumulating biochemical and genetic
+evidences have gradually revealed their important regulatory
+roles in development and disease contexts [11, 109].  In
+principle, regulatory ncRNAs can be further divided into
+two groups depending on their lengths. Small RNAs are de-
+fined as being shorter than 200 nucleotides (nt), which in-
+clude well-known small RNAs such as microRNA (miRNA,
+22-25 nt), Piwi interacting RNA (piRNA, 21-35 nt), small
+nucleolar RNA (snoRNA, 60-170 nt),  and transfer RNA
+(tRNA, 70-100 nt). NcRNAs longer than 200 nt are termed
+as long non-coding RNAs (lncRNAs) that comprise about
+10~30% of transcripts in both human (GENCODE 32) and
+mouse (GENCODE M23) genomes, suggesting that they
+* Correspondence: [URL: "mailto:kwchen@gate.sinica.edu.tw"] kwchen@gate.sinica.edu.tw; [URL: "mailto:jachen@imb.sinica.edu.tw"] jachen@imb.sinica.edu.tw
+Institute of Molecular Biology, Academia Sinica, Taipei 11529, Taiwan 
+may play largely unexplored roles in mammal physiology.
+LncRNAs can be classified further according to their gen-
+omic location. They can be transcribed from introns (in-
+tronic lncRNA), coding exons, 3' or 5' untranslated regions
+(3' or 5' UTRs), or even in an antisense direction overlap-
+ping with their own transcripts (natural antisense transcript,
+NAT) [64, 130].  In regulatory regions, upstream of pro-
+moters (promoter upstream transcript, PROMPT) [106], en-
+hancers (eRNA) [76],  intergenic regions (lincRNA) [114]
+and telomeres [81] can be other sources of lncRNAs. Many
+hallmarks of lncRNA processing are similar to those of
+mRNAs in post-transcription, such as nascent lncRNAs be-
+ing 5'-capped, 3'-polyadenylated or alternatively spliced [19].
+LncRNA production is less efficient than for mRNAs and
+their half-lives appear to be shorter [98]. Unlike mRNA that
+is directly transported to the cytoplasm for translation, many
+lncRNAs tend to be located in the nucleus rather than in
+the cytosol, as revealed by experimental approaches such as
+fluorescent in situ hybridization [20, 67]. However, upon ex-
+port to cytoplasm, some lncRNAs bind to ribosomes where
+they can be translated into functional peptides under spe-
+cific cell contexts [20, 58].  For instance, myoregulin is
+encoded by a putative lncRNA and binds to sarco/endoplas-
+mic reticulum Ca2+-ATPase (SRCA) to regulate Ca2+ import
+in the sarcoplasmic reticulum [6]. Nevertheless, it remains
+© The Author(s). 2020 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License ([URL: "http://creativecommons.org/licenses/by/4.0/"] http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Page 2
+Chen and Chen Journal of Biomedical Science (2020) 27:38  Page 2 of 14
+to be established if other ribosome-associated lncRNAs gen-
+erate functional peptides.
+General function of lncRNAs
+A broad spectrum of evidence demonstrates the multifaceted
+roles of lncRNAs in regulating cellular processes. In the nu-
+cleus, lncRNAs participate in nearly all levels of gene regula-
+tion, from maintaining nuclear architecture to transcription
+per se.  To establish nuclear architecture, Functional inter-
+genic repeating RNA element (Firre) escapes from the X
+chromosome inactivation (XCI) and bridges multi-
+chromosomes, partly via association with heterogeneous
+nuclear ribonucleoprotein U (hnRNPU) (Figure 1a) [54].
+CCCTC-binding factor (CTCF)-mediated chromosome 
+looping can also be accomplished by lncRNAs. For ex-
+ample, colorectal cancer associated transcript 1 long iso-
+form (CCAT1-L) facilitates promoter-enhancer looping at
+the MYC locus by interacting with CTCF, leading to stabi-
+lized MYC expression and tumorigenesis (Figure 1b)
+[153]. In addition, CTCF binds to many X chromosome-
+derived lncRNAs such as X-inactivation intergenic tran-
+scription element (Xite), X-inactive specific transcript (Xist)
+and the reverse transcript of Xist (Tsix) to establish three-
+dimensional organization of the X chromosome during
+XCI [69]. In addition to maintaining nuclear architecture,
+lncRNAs may also serve as building blocks of nuclear
+compartments. For example, nuclear enriched abundant
+transcript 1 (NEAT1) is the core element of paraspeckles
+Fig. 1 Summary (with examples) of the multifaceted roles of lncRNAs in the cell. a The X chromosome-derived lncRNA Firre associates with
+HnRNPU to establish inter-chromosome architecture. b CCAT1-L generated from upstream of MYC loci promotes MYC expression via CTCF-
+mediated looping. c Paraspeckle formation is regulated by interactions between NEAT1_2 and RBPs. d X chromosome inactivation is
+accomplished by coordination between Xist-PRC2-mediated deposition of H3K27me3 and Xist-SMRT/SHARP/HDAC-mediated deacetylation of
+H3ac. e Facilitation of RNA splicing by Pnky/PTBP1 and Malat1/RBPs complexes. f BACE1-AS associates with BACE1 mRNA via the open reading
+frame to stabilize BACE1 mRNA. g H19 lncRNA sequesters let-7 miRNA to prevent let-7-mediated gene suppression. h Antisense Uchl1 promotes
+but lincRNA-p21 inhibits the translation process.
+Page 3
+Chen and Chen Journal of Biomedical Science (2020) 27:38  Page 3 of 14
+that participate in various biological processes such as nu-
+clear retention of adenosine-to-inosine-edited mRNAs to re-
+strict their cytoplasmic localization and viral infection
+response. However, the exact function of paraspeckles has
+yet to be fully deciphered (Figure 1c) [26, 30, 57]. LncRNAs
+can also function as a scaffolding component, bridging epi-
+genetic modifiers to coordinate gene expression (e.g. activa-
+tion or repression).  For instance, Xist interacts with
+polycomb repressive complex 2 (PRC2) and the silencing
+mediator for retinoid and thyroid hormone receptor
+(SMRT)/histone deacetylase 1 (HDAC1)-associated repressor
+protein (SHARP) to deposit a methyl group on lysine residue
+27 of histone H3 (H3K27) and to deacetylate histones, re-
+spectively, leading to transcriptional repression of the X
+chromosome (Figure 1d) [87]. Similarly, Hox antisense inter-
+genic RNA (Hotair) bridges the PRC2 complex and lysine-
+specific histone demethylase 1A (LSD1, a H3K4me2
+demethylase) to synergistically suppress gene expression
+[118, 140].  In contrast, HOXA transcript at the distal tip
+(HOTTIP) interacts with the tryptophan-aspartic acid repeat
+domain 5 - mixed-lineage leukemia 1 (WDR5-MLL1) com-
+plex to maintain the active state of the 5' HOXA locus via de-
+position of histone 3 lysine 4 tri-methylation (H3K4me3)
+[149]. LncRNAs also regulate the splicing process by associ-
+ating with splicing complexes. A neural-specific lncRNA,
+Pnky, associates with the splicing regulator polypyrimidine
+tract-binding protein 1 (PTBP1) to regulate splicing of a sub-
+set of neural genes [112]. Moreover, interaction between Me-
+tastasis-associated lung adenocarcinoma transcript 1
+(Malat1) and splicing factors such as serine/arginine rich
+splicing factor 1 (SRSF1) is required for alternative splicing
+of certain mRNAs (Figure 1e) [139].
+Apart from nucleus, lncRNAs in the cytoplasm are
+typically involved in mRNA biogenesis. For example, in Alz-
+heimer’s disease (AD), β-secretase-1 antisense RNA (BACE1-
+AS) derived within an important AD-associated enzyme,
+BACE1,  elevates BACE1 protein levels by stabilizing its
+mRNA through a post-translational feed-forward loop [44].
+Mechanistically, BACE1-AS masks the miRNA-485-5p bind-
+ing site at the open reading frame of BACE1 mRNA to main-
+tain BACE1 mRNA stability (Figure 1f) [45]. H19, a known
+imprinting gene expressed as a lncRNA from the maternal
+allele, promotes myogenesis by sequestering lethal-7 (let-7)
+miRNAs that, in turn, prevents let-7-mediated gene repres-
+sion (Figure 1g) [62]. LncRNAs not only regulate transcrip-
+tion but also affect translation. Human lincRNA-p21
+(Trp53cor1) disrupts translation of CTNNB1 and JUNB via
+base-pairing at multiple sites of the 5' and 3' UTR and coding
+regions, resulting in recruitment of the translational repres-
+sors RCK and fragile X mental retardation protein (FMRP)
+to suppress translation (Figure 1h, right) [158]. In contrast,
+an antisense RNA generated from ubiquitin carboxyterminal
+hydrolase L1 (AS Uchl1) promotes translational expression
+of Uchl1 protein via its embedded short interspersed nuclear 
+elements B2 (SINEB2).  In the same study, inhibition of
+mammalian target of rapamycin complex 1 (mTORC1) was
+shown to trigger cytoplasmic localization of AS Uchl1 and to
+increase the association between polysomes and Uchl1
+mRNA in a eukaryotic translation initiation factor 4F (eIF4F)
+complex independently of translation (Figure 1h, left) [21].
+Finally, compared to mRNAs, lncRNAs seem to manifest a
+more tissue-specific manner [19].  In agreement with this
+concept, genome-wide studies have revealed that large num-
+bers of tissue-specific lncRNAs are enriched in brain regions
+and some of them are involved in neurogenesis [7, 15, 37,
+89].  We discuss some of these lncRNAs in greater detail
+below, with a particular focus on their roles during spinal
+MN development as this latter serves as one of the best para-
+digms for studying the development and degeneration of the
+central nervous system (CNS).
+Role of lncRNAs in regulating neural progenitors
+As part of the CNS, spinal MNs are located in the ven-
+tral horn of the spinal cord that conveys signals from
+the brainstem or sensory inputs to the terminal muscles,
+thereby controlling body movements. MN development
+requires precise spatiotemporal expression of extrinsic
+and intrinsic factors. Upon neurulation, the wingless/in-
+tegrated protein family (WNT) and the bone morpho-
+genetic protein family (BMP) are secreted from the roof
+plate of the developing neural tube to generate a dorsal
+to ventral gradient [4, 88].  In contrast, sonic hedgehog
+(Shh) proteins emanating from the floor plate as well as
+the notochord generate an opposing ventral to dorsal
+gradient [16].  Together with paraxial mesoderm-
+expressed retinoic acid (RA), these factors precisely pat-
+tern the neural tube into spinal cord progenitor domains
+pd1~6, p0, p1, p2, motor neuron progenitor (pMN), and
+p3 along the dorso-ventral axis (Figure 2a). This pattern-
+ing is mediated by distinct expression of cross-repressive
+transcription factors—specifically, Shh-induced class II
+transcription factors (Nkx2.2, Nkx2.9, Nkx6.1, Nkx6.2,
+Olig2) or Shh-inhibited class I  transcription factors
+(Pax3, Pax6, Pax7, Irx3, Dbx1, Dbx2)—that further de-
+fine the formation of each progenitor domain [104, 143].
+All spinal MNs are generated from pMNs, and pMNs
+are established upon co-expression of Olig2, Nkx6.1 and
+Nkx6.2 under conditions of high Shh levels [2, 105, 132,
+162]. Although a series of miRNAs have been shown to
+facilitate patterning of the neuronal progenitors in the
+spinal cord and controlling of MN differentiation [24,
+25, 27, 74, 141, 142], the roles of lncRNAs during MN
+development are just beginning to emerge. In Table 1,
+we summarize the importance of lncRNAs for the regu-
+lation of transcription factors in MN contexts. For in-
+stance, the lncRNA lncrps25 is located near the S25
+gene (which encodes a ribosomal protein) and it shares
+high sequence similarity with the 3' UTR of neuronal
+Page 4
+Chen and Chen Journal of Biomedical Science (2020) 27:38  Page 4 of 14
+Fig. 2 Schematic illustration of spinal motor neuron development. a Notochord- and floor plate-derived sonic hedgehog protein (Shh), and roof
+plate-generated wingless/integrated (WNT) protein and bone morphogenetic (BMP) protein, as well as retinoic acid (RA) diffusing from the
+paraxial mesoderm, pattern the identities of spinal neurons by inducing cross-repressive transcription factors along the dorso-ventral axis (pd1~6,
+p0, p1, p2, pMN, and p3). Motor neuron progenitors (pMNs) are generated by co-expression of Olig2, Nkx6.1 and Nkx6.2. After cell cycle exit,
+pMNs give rise to generic MNs by concomitantly expressing Isl1, Lhx3 and Mnx1. Along the rostro-caudal axis, Hox6/Hoxc9/Hox10 respond to RA
+and fibroblast growth factor (FGF) to pattern the brachial, thoracic and lumbar segments, respectively. b In the Hox6on segment, the interaction
+between PRC2-Jarid2 complex and a Isl1/Lhx3 induced lncRNA Meg3 perpetuates the brachial Hoxa5on MN by repressing caudal Hoxc8 and
+alternative progenitor genes Irx3 and Pax6 via the maintenance of H3K27me3 epigenetic landscape in these genes. Yet the detailed mechanism
+how Meg3 targets to these selective genes still needs to be illustrated.
+regeneration-related protein (NREP) in zebrafish. Loss of
+lncrps25 reduces locomotion behavior by regulating
+pMN development and Olig2 expression [48]. Addition-
+ally, depletion of an MN-enriched lncRNA, i.e. Mater-
+nally expressed gene 3 (Meg3), results in upregulation of
+progenitor genes (i.e.,  Pax6 and Dbx1) in embryonic
+stem cell (ESC)-derived post-mitotic MNs, as well as in
+post-mitotic neurons in embryos. Mechanistically, Meg3
+associates with the PRC2 complex to facilitate the main-
+tenance of H3K27me3 levels in many progenitor loci, in-
+cluding Pax6 and Dbx1 (Figure 2b) [156].  Apart from
+lncRNA-mediated regulation of Pax6 in the spinal cord,
+corticogenesis in primates also seems to rely on the
+Pax6/lncRNA axis [113, 145]. In this scenario, primate-
+specific lncRNA neuro-development (Lnc-ND) located in
+the 2p25.3 locus [131] exhibits an enriched expression
+pattern in neuronal progenitor cells but reduced expres-
+sion in the differentiated neurons. Microdeletion of the
+2p25.3 locus is associated with intellectual disability.
+Manipulations of Lnc-ND levels reveals that Lnc-ND is 
+required for Pax6 expression and that overexpression of
+Lnc-ND by means of in utero electroporation in mouse
+brain promotes expansion of the Pax6-positive radial glia
+population [113].  Moreover, expression of the Neuro-
+genin 1 (Ngn1)  upstream enhancer-derived eRNA,
+utNgn1, is necessary for expression of Ngn1 itself in neo-
+cortical neural precursor cells and it is suppressed by
+PcG protein at the ESC stage [108].  Thus, lncRNAs
+seem to mediate a battery of transcription factors that
+are important for early neural progenitor patterning and
+this role might be conserved across vertebrates.
+LncRNAs in the regulation of postmitotic neurons
+In addition to their prominent functions in neural pro-
+genitors, lncRNAs also play important roles in differenti-
+ated neurons. Taking spinal MNs as an example,
+postmitotic MNs are generated from pMNs, and after
+cell cycle exit they begin to express a cohort of MN-
+specific markers such as Insulin gene enhancer protein 1
+(Isl1),  LIM/homeobox protein 3 (Lhx3),  and Motor
+Table 1 Proposed functions of lncRNAs during spinal motor neuron development
+LncRNA  Proposed function
+Lncrps25  Affects Olig2 expression
+CAT7/cat7l  Recruitment of PRC1 and PRC2 complexes to suppress
+MNX1 expression in progenitor MNs
+Meg3  Association with PRC2 complex to repress MN progenitor
+and caudal Hox genes in cervical MNs 
+Organism/cell models
+Zebrafish
+Zebrafish/hESC~MNs
+Mouse/mESC~MNs 
+Reference
+[48]
+[115]
+[156]
+Page 5
+Chen and Chen Journal of Biomedical Science (2020) 27:38  Page 5 of 14
+neuron and pancreas homeobox 1 (Mnx1, Hb9) (Figure
+2a).  Isl1/Lhx3/NLI forms an MN-hexamer complex to
+induce a series of MN-specific regulators and to main-
+tain the terminal MN state by repressing alternative
+interneuron genes [43, 72]. Although the gene regulatory
+network for MN differentiation is very well character-
+ized, the role of the lncRNAs involved in this process is
+surprisingly unclear. Only a few examples of that role
+have been uncovered. For instance, the lncRNA CAT7 is
+a polyadenylated lncRNA that lies upstream (~400 kb)
+of MNX1 identified from the RNA-Polycomb repressive
+complex 1 (PRC1) interactome. Loss of CAT7 results in
+de-repression of MNX1 before committing to neuronal
+lineage through reduced PRC1 and PRC2 occupancy at
+the MNX1 locus in hESC~MNs [115]. Furthermore, an
+antisense lncRNA (MNX1-AS1) shares the same pro-
+moter as MNX1, as revealed by clustered regularly inter-
+spaced short palindromic repeats (CRISPR) and
+CRISPR-associated protein 9 (CRISPR-Cas9) screening
+[53].  These results suggest that in addition to neural
+progenitors, lncRNAs could have another regulatory role
+in fine-tuning neurogenesis upon differentiation. How-
+ever, whether the expression and functions of these
+lncRNAs are important for MN development in vivo still
+needs to be further validated. Future experiments to sys-
+tematically identify lncRNAs involved in this process will
+greatly enhance our knowledge about lncRNAs and their
+mysterious roles in early neurogenesis.
+After generic postmitotic MNs have been produced,
+they are further programmed into versatile subtype iden-
+tities along the rostro-caudal spinal cord according to
+discrete expression of signaling molecules, including ret-
+inoic acid (RA),  WNT, fibroblast growth factor (FGF),
+and growth differentiation factor 11 (GDF11), all distrib-
+uted asymmetrically along the rostro-caudal axis (Figure
+2a).  Antagonistic signaling of rostral RA and caudal
+FGF/GDF11 further elicits a set of Homeobox (Hox)
+proteins that abut each other, namely Hox6, Hox9 and
+Hox10 at the brachial, thoracic and lumbar segments,
+respectively [12, 77, 129]. These Hox proteins further ac-
+tivate downstream transcription factors that are required
+to establish MN subtype identity. For instance, forma-
+tion of lateral motor column (LMC) MNs in the brachial
+and lumbar regions is regulated by Hox-activated Fork-
+head box protein P1 (Foxp1) [35, 119]. It is conceivable
+that lncRNAs might also participate in this MN subtype
+diversification process. For example, the lncRNA
+FOXP1-IT1, which is transcribed from an intron of the
+human FOXP1 gene, counteracts integrin Mac-1-
+mediated downregulation of FOXP1 partly by decoying
+HDAC4 away from the FOXP1 promoter during macro-
+phage differentiation [128].  However, it remains to be
+verified if this Foxp1/lncRNA axis is also functionally
+important in a spinal cord context. An array of studies 
+in various cell models has demonstrated regulation of
+Hox genes by lncRNAs such as Hotair, Hottip and Haglr
+[118, 149, 160].  However, to date, only one study has
+established a link between the roles of lncRNAs in MN
+development and Hox regulation. Using an embryonic
+stem cell differentiation system, a battery of MN hall-
+mark lncRNAs have been identified [14, 156].  Among
+these MN-hallmark lncRNAs, knockdown of Meg3 leads
+to the dysregulation of Hox genes whereby caudal Hox
+gene expression (Hox9~Hox13) is increased but rostral
+Hox gene expression (Hox1~ Hox8) declines in cervical
+MNs. Analysis of maternally-inherited intergenic differ-
+entially methylated region deletion (IG-DMRmatΔ) mice
+in which Meg3 and its downstream transcripts are fur-
+ther depleted has further revealed ectopic expression of
+caudal Hoxc8 in the rostral Hoxa5 region of the brachial
+segment, together with a concomitant erosion of Hox-
+mediated downstream genes and axon arborization (Fig-
+ure 2b) [156]. Given that dozens of lncRNAs have been
+identified as hallmarks of postmitotic MNs, it remains to
+be determined if these other lncRNAs are functionally
+important in vivo.  Furthermore, lncRNA knockout has
+been shown to exert a very mild or no phenotype in vivo
+[52]. Based on several lncRNA-knockout mouse models,
+it seems that the physiological functions of lncRNAs
+might not be as prominent as transcription factors dur-
+ing the developmental process [8, 123],  yet their func-
+tions become more critical under stress conditions such
+as cancer progression or neurodegeneration [102, 124].
+Therefore, next we discuss how lncRNAs have been im-
+plicated in MN-related diseases.
+Motor neuron-related diseases
+Since lncRNAs regulate MN development and function,
+it is conceivable that their dysregulation or mutation
+would cause neurological disorders. Indeed, genome-
+wide association studies (GWAS) and comparative tran-
+scriptomic studies have associated lncRNAs with a series
+of neurodegenerative diseases, including the age-onset
+MN-associated disease amyotrophic lateral sclerosis
+(ALS) [86, 164].  Similarly, lncRNAs have also been
+linked to spinal muscular atrophy (SMA) [33, 152].
+However, most of these studies have described associa-
+tions but do not present unequivocal evidence of caus-
+ation. Below and in Table 2, we summarize some of
+these studies linking lncRNAs to MN-related diseases.
+Amyotrophic lateral sclerosis (ALS)
+ALS is a neurodegenerative disease resulting in progres-
+sive loss of upper and lower MNs, leading to only 5-10
+years median survival after diagnosis. More than 90% of
+ALS patients are characterized as sporadic (sALS), with
+less than 10% being diagnosed as familial (fALS) [17].
+Some ALS-causing genes—such as superoxide dismutase
+Page 6
+Chen and Chen Journal of Biomedical Science (2020) 27:38  Page 6 of 14
+Table 2 Proposed functions of lncRNAs in spinal motor neuron diseases
+LncRNA  Disease Proposed function  Organism/cell models  Reference
+ATXN2-AS  ALS (CUG)n 
+repeat expansions induce
+neurotoxicity. 
+SK-N-MC neuroblastoma cells and
+lymphoblastoid cell lines from ALS
+patients 
+[75]
+C9ORF72 antisense ALS Forms RNA foci and repeat-associated
+RNA  non-AUG (RAN) translation generates
+dipeptides to cause neurotoxicity. 
+Drosophila, Zebrafish/Neuro-2a, mouse [91, 96, 134, 138, 151, 155,
+primary cortical and motor neurons 161]
+NEAT1  ALS Facilitates paraspeckle formation.
+High levels of NEAT1 trigger
+neurotoxicity. 
+Mouse/NSC-34 MN-like cells  [30, 133]
+SMN-AS1  SMA Recruits PRC2 complex to suppress
+the SMN gene. 
+Mouse/human SMA-iPSC-derived MNs, [33, 152]
+SMNΔ7 mouse cortical neurons
+1 (SOD1) and fused in sarcoma/translocated in sarcoma
+(FUS/TLS)—have been identified in both sALS and fALS
+patients, whereas other culprit genes are either predom-
+inantly sALS-associated (e.g. unc-13 homolog A,
+UNC13A) or fALS-associated (e.g. D-amino acid oxi-
+dase, DAO).  These findings indicate that complex
+underlying mechanisms contribute to the selective sus-
+ceptibility to MN degeneration in ALS. Since many char-
+acterized ALS-causing genes encode RNA-binding
+proteins (RBPs)—such as angiogenin (ANG),  TAR
+DNA-binding protein 43 (TDP-43),  FUS, Ataxin-2
+(ATXN2),  chromosome 9 open reading frame 72
+(C9ORF72),  TATA-box binding protein associated fac-
+tor 15 (TAF15) and heterogeneous nuclear ribonucleo-
+protein A1 (HNRNPA1)—it is not surprising that global
+and/or selective RBP-RNAs, including lncRNAs, might
+participate in ALS onset or disease progression. Below,
+we discuss some representative examples.
+Nuclear Enriched Abundant Transcript 1 (NEAT1)
+NEAT1 is an lncRNA that appears to play an important
+structural role in nuclear paraspeckles [30]. Specifically,
+there are two NEAT1 transcripts: NEAT1_1 (3.7 kb) is
+dispensable whereas NEAT1_2 (23 kb) is essential for
+paraspeckle formation [30, 100]. However, expression of
+NEAT1_2 is low in the CNS of mouse ALS models rela-
+tive to ALS patients, indicating a difference between ro-
+dent and human systems [101, 103].  Although
+crosslinking and immunoprecipitation assay (CLIP) has
+revealed that NEAT1 associates with TDP-43 [103, 137,
+154] and FUS/TLS [103],  the first evidence linking
+NEAT1 and paraspeckles to ALS was the observation of
+co-localization of NEAT1_2 with TDP-43 and FUS/TLS
+in paraspeckles of early-onset ALS patients [103].  A
+more detailed analysis has revealed that NEAT1_2 is
+highly enriched in neurons of the anterior horn of the
+spinal cord and in cortical tissues of ALS patients [126,
+137]. Indeed, increased paraspeckle formation has been
+reported in the spinal cords of sALS and fALS patients
+relative to healthy individuals [126],  indicating that 
+paraspeckle formation might be a common hallmark of
+ALS patients. Interestingly, by utilizing an ESC-derived
+neuron system, a significant increase in paraspeckles was
+observed at the neuron progenitor stage, suggesting that
+paraspeckles may exist in the short time-window of
+neural development [126].  Manipulating ALS-related
+RBPs (i.e. FUS, TDP-43, and MATR3) impacts levels of
+NEAT1, showing that these RBPs not only interact with
+NEAT1 but also regulate NEAT1 RNA levels. The level
+of NEAT1_2 increases upon FUS, TDP-43 or MATR3
+deletion [10, 100].  In contrast, elimination of TAF15,
+hnRNPA1 or splicing factor proline and glutamine rich
+(SFPQ) downregulates NEAT1_2 levels [103]. There are
+conflicting results with regard to whether manipulation
+of TDP-43 affects NEAT1_2 [100, 126].  Introducing
+patient-mutated FUS (e.g. P525L) also results in im-
+paired paraspeckle formation by regulating NEAT1 tran-
+scription and misassemble of other paraspeckle proteins
+in the cytoplasm or nucleus [5, 127]. Together, these re-
+sults seem to indicate that mutation of ALS-related
+RBPs affects NEAT1 expression and paraspeckle forma-
+tion during disease progression.
+Although many studies have depicted how mutated
+ALS-related proteins regulate paraspeckle formation,
+levels of NEAT1_2, inappropriate protein assembly into
+granules or sub-organelles, and the role of NEAT1_2 in
+ALS progression remain poorly understood. Recently,
+direct activation of endogenous NEAT1 using a CRISPR-
+Cas9 system suggested that elevated NEAT1 expression
+is somewhat neurotoxic in NSC-34 cells, a mouse MN-
+like hybrid cell line. Though no direct evidence showing
+that this effect is mediated by NEAT1_2 was presented
+in that study, it did at least exclude NEAT1_1 as the me-
+diator [133].  This outcome may imply that increased
+NEAT1_2 facilitates paraspeckle formation and also
+somehow induces cell death or degeneration. However,
+more direct evidence of correlations and concordant
+links between RBP-lncRNA associations and ALS are
+needed to strengthen the rationale of utilizing lncRNAs
+for future therapeutic purposes.
+Page 7
+Chen and Chen Journal of Biomedical Science (2020) 27:38  Page 7 of 14
+C9ORF72 antisense RNA
+In 2011, the C9ORF72 gene with a hexanucleotide
+GGGGCC (G4
+C2
+) repeat expansion was identified as the
+most frequent genetic cause of both ALS and frontotem-
+poral dementia (FTD) in Europe and North America
+[36, 117]. ALS and FTD represent a disease spectrum of
+overlapping genetic causes, with some patients manifest-
+ing symptoms of both diseases. Whereas ALS is defined
+by loss of upper and/or lower MNs leading to paralysis,
+FTD is characterized by degeneration of the frontal and
+temporal lobes and corresponding behavioral changes.
+The abnormal (G4
+C2
+) repeat expansion in the first in-
+tron of C9ORF72 not only accounts for almost 40% of
+fALS and familial FTD (fFTD), but it is also found in a
+small cohort of sALS and sporadic FTD (sFTD) patients
+[36, 85, 111, 117]. Healthy individuals exhibit up to 20
+copies of the (G4
+C2
+) repeat, but it is dramatically in-
+creased to hundreds to thousands of copies in ALS pa-
+tients [36].  Loss of normal C9ORF92 protein function
+and gain of toxicity through abnormal repeat expansion
+have both been implicated in C9ORF72-associated FTD/
+ALS. Several C9ORF72 transcripts have been character-
+ized and, surprisingly, antisense transcripts were found
+to be transcribed from intron 1 of the C9ORF72 gene
+[97].  Both C9ORF72 sense (C9ORF72-S) and antisense
+(C9ORF72-AS) transcripts harboring hexanucleotide ex-
+pansions could be translated into poly-dipeptides and
+were found in the MNs of C9ORF72-associated ALS pa-
+tients [47, 50, 95, 121, 151, 163]. Although C9ORF72-S
+RNA and consequent proteins have been investigated
+extensively, the functional relevance of C9ORF7-AS is still
+poorly understood. C9ORF72-AS contains the reverse-
+repeated hexanucleotide (GGCCCC, G2
+C4
+) located in in-
+tron 1. Similar to C9ORF72-S,  C9ORF72-AS also forms
+RNA foci in brain regions such as the frontal cortex and
+cerebellum, as well as the spinal cord (in MNs and occa-
+sionally in interneurons) of ALS [49, 163] and FTD pa-
+tients [36, 49, 92].  Intriguingly, a higher frequency of
+C9ORF72-AS RNA foci and dipeptides relative to those of
+C9ORF72-S have been observed in the MNs of a
+C9ORF72-associated ALS patient, with a concomitant loss
+of nuclear TDP-43 [32]. In contrast, another study sug-
+gested that compared to C9ORF72-S-generated dipeptides
+(poly-Gly-Ala and poly-Gly-Arg), fewer dipeptides (poly-
+Pro-Arg and poly-Pro-Ala) derived from C9ORF72-AS
+were found in the CNS region of C9ORF72-associated
+FTD patients [83]. These apparently contradictory results
+perhaps are due to differing sensitivities of the antibodies
+used in those studies. It has further been suggested that a
+fraction of the C9ORF72-AS RNA foci is found in the peri-
+nucleolar region, indicating that nucleolar stress may con-
+tribute to C9ORF72-associated ALS/FTD disease
+progression [70, 93, 136]. Interestingly, compared to the
+C9ORF72-S G4
+C2 
+repeats, a large number of C9ORF72-AS 
+G2
+C4 
+repeats are associated with mono-ribosomes [135],
+suggesting that fewer dipeptides are generated in the
+former scenario. This outcome may indicate that
+C9ORF72-AS RNA may also contribute to the pathology
+caused by C9ORF72 hexanucleotide repeat expansion.
+Whereas C9ORF72-S can form G-quadruplexes [46, 55,
+116] that are known to regulate transcription and gene ex-
+pression [150], the C-rich C9ORF72-AS repeats may not
+form similar structures. Instead, the G2
+C4 
+expansions in
+C9ORF72-AS may form a C-rich motif [65] that likely af-
+fects genome stability and transcription [1]. Notably, an
+A-form-like double-helix with a tandem C:C mismatch
+has been observed in a crystal structure of the C9ORF72-
+AS repeat expansion, suggesting that different structural
+forms of C9ORF72-AS might regulate disease progression
+[38].  Thus, during disease progression, not only may
+C9ORF72-AS form RNA foci to sequester RBPs, but it
+could also indirectly regulate gene expression via its sec-
+ondary structure.
+Several C9ORF72 gain-of-function and loss-of-function
+animal models have been generated [9, 91, 138, 155]. A
+new Drosophila melanogaster (fly) model expressing the
+G4
+C2 
+or G2
+C4 
+RNA repeat followed by polyA (termed
+“polyA”)  or these repeats within spliced GFP exons
+followed by polyA (termed “intronic”) reveals that both
+sense and antisense “polyA” accumulates in cytoplasm but
+sense and antisense “intronic” occur in the nucleus, with
+this latter mimicking actual pathological conditions [94].
+However, expression of these repeated RNAs does not re-
+sult in an obvious motor deficit phenotype, such as climb-
+ing ability of the Drosophila model, indicating that the
+repeats per se may not be sufficient to induce disease pro-
+gression [94].  Nevertheless, applying that approach in a
+Danio rerio (zebrafish) model resulted in an outcome
+contradictory to that in Drosophila, with both sense and
+antisense repeated RNAs inducing clear neurotoxicity
+[134]. This discrepancy may be due to differing tolerances
+to RNA toxicity between the model species and the status
+of their neurons. Several mouse models have been estab-
+lished by introducing human C9ORF72 repeats only or
+the gene itself with its upstream and downstream regions
+via transduction of adeno-associated virus (AAV) or bac-
+terial artificial chromosome (BAC) constructs (reviewed in
+[9]).  In the models that harbor full-length human
+C9ORF72 with repeat expansions as well as upstream and
+downstream regions, dipeptide inclusions and RNA foci
+from C9ORF72-S and -AS have been observed and some
+of them develop motor [78] or cognition (working and
+spatial memory) defects [61] but others appear normal
+[107, 110].  Similarly, utilizing differentiated MNs from
+patient-derived induced pluripotent stem cells (iPSCs),
+C9ORF72-associated dipeptides and RNA foci have been
+observed but some of the expected pathologies were not
+fully recapitulated [3, 34, 39, 80].  These inconsistent
+Page 8
+Chen and Chen Journal of Biomedical Science (2020) 27:38  Page 8 of 14
+findings may be due to the different genetic backgrounds
+used or the differing stress conditions applied.
+Most studies on C9ORF72 have focused on the pathology
+caused by repeat expansion, but how C9ORF72 itself is reg-
+ulated is only beginning to be revealed. Knockdown of a
+transcription elongation factor, Spt4, rescues C9ORF72-
+mediated pathology in a Drosophila model and decreases
+C9ORF72-S and -AS transcripts as well as poly-Gly-Pro pro-
+tein production in iPSC-derived neurons from a C9ORF72-
+associated ALS patient [66]. Another CDC73/PAF1 protein
+complex (PAF1C),  which is a transcriptional regulator of
+RNA polymerase II, has been shown to positively regulate
+both C9ORF72-S and -AS repeat transcripts [51]. Moreover,
+reduced expression of hnRNPA3, an G4
+C2 
+repeat RNA
+binding protein, elevates the G4
+C2 
+repeat RNA and dipep-
+tide production in primary neurons [96]. Nevertheless, the
+RNA helicase DDX3X mitigates pathologies elicited by
+C9ORF72 repeat expansion by binding to G4
+C2 
+repeat
+RNA, which in turn inhibits repeat-associated non-AUG
+translation (RAN) but does not affect antisense G2
+C4 
+repeat
+RNA in iPSC-derived neurons and the Drosophila model
+[28]. Collectively, these findings reveal an alternative strategy
+for targeting C9ORF72 repeat expansions in that antisense
+oligonucleotides (ASOs) could be utilized against C9ORF72-
+S to attenuate RNA foci and reverse disease-specific tran-
+scriptional changes in iPSC-derived neurons [39, 122, 161].
+Ataxin 2 antisense (ATXN2-AS) transcripts
+Ataxin-2 is an RBP and it serves as a genetic determinant
+or risk factor for various diseases including spinocerebellar
+ataxia type II (SCA2) and ALS. ATXN2-AS is transcribed
+from the reverse strand of intron 1 of the ATXN2 gene.
+Similar to the G4
+C2 
+repeats of C9ORF72-AS, the (CUG)n
+expansions of ATXN2-AS may promote mRNA stability
+by binding to U-rich motifs in mRNAs and they have been
+associated with ALS risk [40, 157]. Furthermore, ATXN2-
+AS with repeat expansions were shown to induce neuro-
+toxicity in cortical neurons in a length-dependent manner
+[75]. In that same study, the authors also demonstrated
+that it is the transcripts rather than the polypeptides gen-
+erated via RAN translation that are responsible for neuro-
+toxicity. It has been suggested that the toxicity of CUG
+repeats is due to hairpin formation sequestering RBPs in
+the cell [68].  Thus, it is likely that the RNA repeats of
+ATXN2-AS or C9ORF72-S/AS might function in parallel
+to RAN peptide-induced neurotoxicity to exacerbate de-
+generation of MNs in ALS.
+Other lncRNAs implicated in ALS
+By means of an ESC~MN system, several lncRNAs have
+been shown to be dysregulated in loss-of-function FUS
+MNs. Compared to FUS+/+ MNs, Lhx1os upregulation and
+lncMN-1 (2610316D01Rik) and lncMN-2 (5330434G04Rik)
+downregulation were observed in FUSP517L/P517L and FUS-/- 
+MNs, suggesting that loss of FUS function affects some
+lncRNAs conserved among mouse and human [14].  A
+series of lncRNAs that have not been directly implicated in
+ALS-associated genetic mutations have been identified to
+participate in ALS contexts. For instance, MALAT1 that
+contributes to nuclear speckles formation exhibits increased
+expression and TDP-43 binding in the cortical tissues of
+sporadic frontotemporal lobar degeneration (FTLD) pa-
+tients, whereas downregulation of Meg3 is associated with
+expression and binding to TDP-43 in the same system
+[137]. UV-CLIP analysis has revealed that TDP-43 associ-
+ates with other lncRNAs such as BDNFOS and TFEBα in
+SHSY5Y cells [154]. In muscle cells, Myolinc (AK142388)
+associates with TDP-43 to facilitate binding of this latter
+protein to myogenic genes, thereby promoting myogenesis
+[90]. However, whether these lncRNAs play roles in ALS
+progression needs to be further investigated.
+Several studies using Drosophila as a model have un-
+covered relationships between lncRNAs and ALS.
+Knockdown of CR18854, an lncRNA associated with the
+RBP Staufen [71],  rescues the climbing ability defects
+arising from dysregulated Cabeza (the orthologue of hu-
+man FUS, hereafter referred to as dFUS) in Drosophila
+[99]. In contrast, knockdown of the lncRNA heat shock
+RNA ω (hsrω) in Drosophila MNs gives rise to severe
+motor deficiency by affecting presynaptic terminals.
+Mechanistically, hsrω interacts with dFUS, and depletion
+of hsrω results in dFUS translocation into the cytoplasm
+and abrogation of its nuclear function [79].  Levels of
+hsrω are positively regulated by TDP-43 via direct bind-
+ing of TDP-43 to the hsrω locus in Drosophila [29]. The
+human orthologue of Drosophila hsrω,  stress-induced
+Satellite III repeat RNA (Sat III), has also been shown to
+be elevated upon TDP-43 overexpression in the frontal
+cortex of FTLD-TDP patients [29]. It would be interest-
+ing to investigate the relationship between Sat III and
+ALS in human patients.
+Spinal muscular atrophy (SMA)
+Spinal muscular atrophy (SMA) is a genetic disorder char-
+acterized by prominent weakness and wasting (atrophy) of
+skeletal muscles due to progressive MN degeneration. SMA
+is the number one worldwide case of neurodegeneration-
+associated mortality in infants younger than two years old.
+SMA is caused by autosomal recessive mutation or deletion
+of the Survival Motor Neuron 1 (SMN1) gene, which can
+be ameliorated by elevated expression of SMN2, a nearly
+identical paralogous gene of SMN1 [82]. Since the discovery
+of SMN1-causing phenotypes in SMA two decades ago
+[73], many researchers have highlighted SMN2 regulation
+as a rational approach to boost the generation of full-length
+SMN2 to offset disease effects [18, 22]. Recently, accumu-
+lating evidence has shown a critical role for lncRNAs in
+regulating the expression of SMN protein. For example, the
+Page 9
+Chen and Chen Journal of Biomedical Science (2020) 27:38  Page 9 of 14
+antisense lncRNA SMN-AS1 derived from the SMN locus
+suppresses SMN expression, and species-specific non-
+overlapping SMN-antisense RNAs have been identified in
+mouse and human [33, 152]. In both these studies, SMN-
+AS1 recruits the PRC2 complex to suppress expression of
+SMN protein, which could be rescued by either inhibiting
+PRC2 activity or by targeted degradation of SMN-AS1 using
+ASOs. Moreover, a cocktail treatment of SMN2 splice-
+switching oligonucleotides (SSOs), which enhanced inclu-
+sion of exon 7 to generate functional SMN2, with SMN-
+AS1 ASOs enhanced mean survival of SMA mice from 18
+days to 37 days, with ~25% of the mice surviving more than
+120 days [33].  These finding suggest that in addition to
+SSO treatment, targeting SMN-AS1 could be another po-
+tential therapeutic strategy for SMA. Moreover, transcrip-
+tome analysis has revealed certain lncRNA defects in SMA
+mice exhibiting early or late-symptomatic stages [13].  By
+comparing the translatomes (RNA-ribosome complex) of
+control and SMA mice, some of the lncRNAs were shown
+to bind to polyribosomes and to alter translation efficiency
+[13]. Although lncRNAs can associate with ribosomes and
+some of them generate functional small peptides, it needs
+to be established if this information is relevant in SMA
+contexts.
+LncRNAs in liquid-liquid phase separation (LLPS) and motor
+neuron diseases
+An emerging theme of many of the genetic mutations
+leading to the neurodegenerative MN diseases discussed
+above is their link to RBPs. Interestingly, many of these
+RBPs participate in granule formation and are associated
+with proteins/RNAs that undergo liquid-liquid phase
+separation (LLPS) (reviewed in [120]).  LLPS is a
+phenomenon where mixtures of two or more compo-
+nents self-segregate into distinct liquid phases (e.g. sep-
+aration of oil and water phases) and it appears to
+underlie formation of many transient membrane organ-
+elles, such as stress granules that contain many ribonu-
+cleoproteins (RNPs).  Although it remains unclear why
+ubiquitously expressed RNP granule proteins aggregate
+in neurodegenerative disease, one study found that ag-
+gregated forms of mutant SOD1, a protein associated
+with fALS, accumulates in stress granules [41]. These ag-
+gregated forms induce mis-localization of several pro-
+teins associated with the miRNA biogenesis machinery,
+including Dicer and Drosha to stress granules. Conse-
+quently, miRNA production is compromised, with sev-
+eral miRNAs (i.e. miR-17~92 and miR-218)  perhaps
+directly participating in ALS disease onset and progres-
+sion [56, 142].  Mislocalization of ALS-related proteins
+such as FUS and TDP-43 in the cytosol rather than nu-
+cleus of MNs has been observed in ALS patients, but the
+mechanism remains unclear [125, 146]. 
+A recent study highlighted differences in RNA concen-
+tration between the nucleus and cytosol. In the nucleus
+where the concentration of RNA is high, ALS related-
+proteins such as TDP-43 and FUS are soluble, but protein
+aggregations form in the cytosol where the concentration
+of RNA is low, suggesting that RNA could serve as a buf-
+fer to prevent LLPS [84]. Collectively, these findings indi-
+cate that not only are RNAs the binding blocks for RBPs,
+but may also serve as a solvent to buffer RBPs and prevent
+LLPS. Accordingly, persistent phase separation under
+stress conditions could enhance formation of irreversible
+toxic aggregates of insoluble solidified oligomers to induce
+neuronal degeneration [148]. Although many neurodegen-
+erative diseases have been associated with RNP granules,
+and primarily stress granules, it remains to be verified if
+stress granules/LLPS are causative disease factors in vivo.
+Many other questions remain to be answered. For in-
+stance, are the lncRNAs/RNPs mentioned above actively
+involved in RNP granule formation? Given that purified
+cellular RNA can self-assemble in vitro to form assemblies
+that closely recapitulate the transcriptome of stress gran-
+ules and the stress granule transcriptome is dominated by
+lncRNAs [63, 144], it is likely that the RNA-RNA interac-
+tions mediated by abundantly expressed lncRNAs might
+participate in stress granule formation in ALS contexts.
+Similarly, do prevalent RNA modification and editing
+events in lncRNAs [159] change their hydrophobic or
+charged residues to affect LLPS and the formation of RNP
+granules to give rise to disease pathologies? It will be tan-
+talizing to investigate these topics in the coming years.
+Conclusion and perspective
+Over the past decade, increasing evidence has challenged
+the central dogma of molecular biology that RNA serves
+solely as a temporary template between interpreting genetic
+information and generating functional proteins [23].  Al-
+though our understanding of lncRNAs under physiological
+conditions is increasing, it remains to be established if all
+expressed lncRNAs play particular and functional roles dur-
+ing embryonic development and in disease contexts. Versa-
+tile genetic strategies, including CRISPR-Cas9 technology,
+have allowed us to clarify the roles of lncRNA, the individual
+lncRNA transcripts per se, and their specific sequence ele-
+ments and motifs [42]. Taking spinal MN development and
+degeneration as a paradigm, we have utilized ESC-derived
+MNs and patient iPSC-derived MNs to dissect the import-
+ant roles of lncRNAs during MN development and the pro-
+gression of MN-related diseases such as ALS and SMA. A
+systematic effort to generate MN-hallmark lncRNA knock-
+out mice is underway, and we believe that this approach will
+help us understand the mechanisms underlying lncRNA ac-
+tivity, paving the way to develop new therapeutic strategies
+for treating MN-related diseases.
+Page 10
+Chen and Chen Journal of Biomedical Science (2020) 27:38  Page 10 of 14
+Abbreviations
+AD: Alzheimer’s disease; ALS: Amyotrophic lateral sclerosis; ASO: Antisense
+oligonucleotides; ATXN2-AS: Ataxin 2 antisense transcript; BACE: β-secretase-
+1; C9ORF72: Chromosome 9 open reading frame 72; CTCF: CCCTC-binding
+factor; CNS: Central nervous system; ESC: Embryonic stem cell; fALS: Familial
+amyotrophic lateral sclerosis; Foxp1: Forkhead box protein P1;
+FTD: Frontotemporal dementia; fFTD: Familial frontotemporal dementia;
+FTLD: Frontotemporal lobar degeneration; FUS/TLS: Fused in sarcoma/
+translocated in sarcoma; hsrω: Heat shock RNA ω; Hox: Homeobox;
+iPSC: Induced pluripotent stem cell; LLPS: Liquid-liquid phase separation;
+lncRNA: Long non-coding RNA; Meg3: Maternally expressed gene 3;
+miRNA: microRNA; MN: Motor neuron; Mnx1: Motor neuron and pancreas
+homeobox 1; NEAT1: Nuclear enriched abundant transcript 1; ncRNA: Non-
+coding RNA; nt: Nucleotide; pMN: Motor neuron progenitor; PRC2: Polycomb
+repressive complex 2; RA: Retinoic acid; RBP: RNA-binding protein;
+RNP: Ribonucleoprotein; sALS: Sporadic amyotrophic lateral sclerosis;
+Shh: Sonic hedgehog; SMA: Spinal muscular atrophy; SMN: Survival motor
+neuron; TDP-43: TAR DNA-binding protein 43; Uchl1: Ubiquitin
+carboxyterminal hydrolase L1; UTR: Untranslated region; Xist: X-inactive
+specific transcript
+Acknowledgements
+We apologize to researchers not cited in the manuscript due to limited
+space. Special thanks to Dr. John O’Brien and Ee Shan Liau for further editing
+the manuscript.
+Authors’ contributions
+K.W.C. and J.A.C. drafted, revised and approved the manuscript.
+Funding
+Work in the Jun-An Chen lab is supported by grants from the NHRI (NHRI-EX108-
+10831NI), Academia Sinica (CDA-107-L05), and MOST (108-2311-B-001-011).
+Availability of data and materials
+Not applicable.
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Received: 5 December 2019 Accepted: 12 February 2020
+References
+1.  Abou AH, Garavis M, Gonzalez C, Damha MJ. i-Motif DNA: structural features
+and significance to cell biology. Nucleic Acids Res. 2018;46(16):8038–56.
+2.  Alaynick WA, Jessell TM, Pfaff SL. SnapShot: spinal cord development. Cell.
+2011;146(1):178–178 e171.
+3.  Almeida S, Gascon E, Tran H, Chou HJ, Gendron TF, Degroot S, Tapper AR,
+Sellier C, Charlet-Berguerand N, Karydas A, Seeley WW, Boxer AL, Petrucelli L,
+Miller BL, Gao FB. Modeling key pathological features of frontotemporal
+dementia with C9ORF72 repeat expansion in iPSC-derived human neurons.
+Acta Neuropathol. 2013;126(3):385–99.
+4.  Alvarez-Medina R, Cayuso J, Okubo T, Takada S, Marti E. Wnt canonical
+pathway restricts graded Shh/Gli patterning activity through the regulation
+of Gli3 expression. Development. 2008;135(2):237–47.
+5.  An H, Skelt L, Notaro A, Highley JR, Fox AH, La Bella V, Buchman VL,
+Shelkovnikova TA. ALS-linked FUS mutations confer loss and gain of
+function in the nucleus by promoting excessive formation of dysfunctional
+paraspeckles. Acta Neuropathol Commun. 2019;7(1):7.
+6.  Anderson DM, Anderson KM, Chang CL, Makarewich CA, Nelson BR,
+McAnally JR, Kasaragod P, Shelton JM, Liou J, Bassel-Duby R, Olson EN. A
+micropeptide encoded by a putative long noncoding RNA regulates muscle
+performance. Cell. 2015;160(4):595–606.
+7.  Aprea J, Calegari F. Long non-coding RNAs in corticogenesis: deciphering
+the non-coding code of the brain. EMBO J. 2015;34(23):2865–84. 
+8.  Arnes L, Akerman I, Balderes DA, Ferrer J, Sussel L. betalinc1 encodes a long
+noncoding RNA that regulates islet beta-cell formation and function. Genes
+Dev. 2016;30(5):502–7.
+9.  Balendra R, Isaacs AM. C9orf72-mediated ALS and FTD: multiple pathways
+to disease. Nat Rev Neurol. 2018;14(9):544–58.
+10. Banerjee A, Vest KE, Pavlath GK, Corbett AH. Nuclear poly(A) binding protein
+1 (PABPN1) and Matrin3 interact in muscle cells and regulate RNA
+processing. Nucleic Acids Res. 2017;45(18):10706–25.
+11. Beermann J, Piccoli MT, Viereck J, Thum T. Non-coding RNAs in
+Development and Disease: Background, Mechanisms, and Therapeutic
+Approaches. Physiol Rev. 2016;96(4):1297–325.
+12. Bel-Vialar S, Itasaki N, Krumlauf R. Initiating Hox gene expression: in the early
+chick neural tube differential sensitivity to FGF and RA signaling subdivides
+the HoxB genes in two distinct groups. Development. 2002;129(22):5103–15.
+13. Bernabo P, Tebaldi T, Groen EJN, Lane FM, Perenthaler E, Mattedi F, Newbery HJ,
+Zhou H, Zuccotti P, Potrich V, Shorrock HK, Muntoni F, Quattrone A, Gillingwater TH,
+Viero G. In Vivo Translatome Profiling in Spinal Muscular Atrophy Reveals a Role for
+SMN Protein in Ribosome Biology. Cell Rep. 2017;21(4):953–65.
+14. Biscarini S, Capauto D, Peruzzi G, Lu L, Colantoni A, Santini T, Shneider NA,
+Caffarelli E, Laneve P, Bozzoni I. Characterization of the lncRNA
+transcriptome in mESC-derived motor neurons: Implications for FUS-ALS.
+Stem Cell Res. 2018;27:172–9.
+15. Briggs JA, Wolvetang EJ, Mattick JS, Rinn JL, Barry G. Mechanisms of Long
+Non-coding RNAs in Mammalian Nervous System Development, Plasticity,
+Disease, and Evolution. Neuron. 2015;88(5):861–77.
+16. Briscoe J, Ericson J. The specification of neuronal identity by graded sonic
+hedgehog signalling. Semin Cell Dev Biol. 1999;10(3):353–62.
+17. Brown RH, Al-Chalabi A. Amyotrophic Lateral Sclerosis. N Engl J Med. 2017;
+377(2):162–72.
+18. Burghes AH, Beattie CE. Spinal muscular atrophy: why do low levels of
+survival motor neuron protein make motor neurons sick? Nat Rev Neurosci.
+2009;10(8):597–609.
+19. Cabili MN, Trapnell C, Goff L, Koziol M, Tazon-Vega B, Regev A, Rinn JL.
+Integrative annotation of human large intergenic noncoding RNAs reveals
+global properties and specific subclasses. Genes Dev. 2011;25(18):1915–27.
+20. Carlevaro-Fita J, Rahim A, Guigo R, Vardy LA, Johnson R. Cytoplasmic long
+noncoding RNAs are frequently bound to and degraded at ribosomes in
+human cells. RNA. 2016;22(6):867–82.
+21. Carrieri C, Cimatti L, Biagioli M, Beugnet A, Zucchelli S, Fedele S, Pesce E,
+Ferrer I, Collavin L, Santoro C, Forrest AR, Carninci P, Biffo S, Stupka E,
+Gustincich S. Long non-coding antisense RNA controls Uchl1 translation
+through an embedded SINEB2 repeat. Nature. 2012;491(7424):454–7.
+22. Chaytow H, Huang YT, Gillingwater TH, Faller KME. The role of survival
+motor neuron protein (SMN) in protein homeostasis. Cell Mol Life Sci. 2018;
+75(21):3877–94.
+23. Chen JA, Conn S. Canonical mRNA is the exception, rather than the rule.
+Genome Biol. 2017;18(1):133.
+24. Chen JA, Huang YP, Mazzoni EO, Tan GC, Zavadil J, Wichterle H. Mir-17-3p
+controls spinal neural progenitor patterning by regulating Olig2/Irx3 cross-
+repressive loop. Neuron. 2011;69(4):721–35.
+25. Chen JA, Wichterle H. Apoptosis of limb innervating motor neurons and
+erosion of motor pool identity upon lineage specific dicer inactivation.
+Front Neurosci. 2012;6:69.
+26. Chen LL, Carmichael GG. Altered nuclear retention of mRNAs containing
+inverted repeats in human embryonic stem cells: functional role of a
+nuclear noncoding RNA. Mol Cell. 2009;35(4):467–78.
+27. Chen TH, Chen JA. Multifaceted roles of microRNAs: From motor neuron
+generation in embryos to degeneration in spinal muscular atrophy. Elife.
+2019;8:e50848.
+28. Cheng W, Wang S, Zhang Z, Morgens DW, Hayes LR, Lee S, Portz B, Xie Y,
+Nguyen BV, Haney MS, Yan S, Dong D, Coyne AN, Yang J, Xian F, Cleveland DW,
+Qiu Z, Rothstein JD, Shorter J, Gao FB, Bassik MC, Sun S. CRISPR-Cas9 Screens
+Identify the RNA Helicase DDX3X as a Repressor of C9ORF72 (GGGGCC)n Repeat-
+Associated Non-AUG Translation. Neuron. 2019;104(5):885-98.
+29. Chung CY, Berson A, Kennerdell JR, Sartoris A, Unger T, Porta S, Kim HJ,
+Smith ER, Shilatifard A, Van Deerlin V, Lee VM, Chen-Plotkin A, Bonini NM.
+Aberrant activation of non-coding RNA targets of transcriptional elongation
+complexes contributes to TDP-43 toxicity. Nat Commun. 2018;9(1):4406.
+30. Clemson CM, Hutchinson JN, Sara SA, Ensminger AW, Fox AH, Chess A,
+Lawrence JB. An architectural role for a nuclear noncoding RNA: NEAT1 RNA
+is essential for the structure of paraspeckles. Mol Cell. 2009;33(6):717–26.
+Page 11
+Chen and Chen Journal of Biomedical Science (2020) 27:38  Page 11 of 14
+31. Consortium EP. An integrated encyclopedia of DNA elements in the human
+genome. Nature. 2012;489(7414):57–74.
+32. Cooper-Knock J, Higginbottom A, Stopford MJ, Highley JR, Ince PG,
+Wharton SB, Pickering-Brown S, Kirby J, Hautbergue GM, Shaw PJ. Antisense
+RNA foci in the motor neurons of C9ORF72-ALS patients are associated with
+TDP-43 proteinopathy. Acta Neuropathol. 2015;130(1):63–75.
+33. d'Ydewalle C, Ramos DM, Pyles NJ, Ng SY, Gorz M, Pilato CM, Ling K, Kong
+L, Ward AJ, Rubin LL, Rigo F, Bennett CF, Sumner CJ. The Antisense
+Transcript SMN-AS1 Regulates SMN Expression and Is a Novel Therapeutic
+Target for Spinal Muscular Atrophy. Neuron. 2017;93(1):66–79.
+34. Dafinca R, Scaber J, Ababneh N, Lalic T, Weir G, Christian H, Vowles J,
+Douglas AG, Fletcher-Jones A, Browne C, Nakanishi M, Turner MR, Wade-
+Martins R, Cowley SA, Talbot K. C9orf72 Hexanucleotide Expansions Are
+Associated with Altered Endoplasmic Reticulum Calcium Homeostasis and
+Stress Granule Formation in Induced Pluripotent Stem Cell-Derived Neurons
+from Patients with Amyotrophic Lateral Sclerosis and Frontotemporal
+Dementia. Stem Cells. 2016;34(8):2063–78.
+35. Dasen JS, De Camilli A, Wang B, Tucker PW, Jessell TM. Hox repertoires for
+motor neuron diversity and connectivity gated by a single accessory factor,
+FoxP1. Cell. 2008;134(2):304–16.
+36. DeJesus-Hernandez M, Mackenzie IR, Boeve BF, Boxer AL, Baker M,
+Rutherford NJ, Nicholson AM, Finch NA, Flynn H, Adamson J, Kouri N,
+Wojtas A, Sengdy P, Hsiung GY, Karydas A, Seeley WW, Josephs KA, Coppola
+G, Geschwind DH, Wszolek ZK, Feldman H, Knopman DS, Petersen RC, Miller
+BL, Dickson DW, Boylan KB, Graff-Radford NR, Rademakers R. Expanded
+GGGGCC hexanucleotide repeat in noncoding region of C9ORF72 causes
+chromosome 9p-linked FTD and ALS. Neuron. 2011;72(2):245–56.
+37. Derrien T, Johnson R, Bussotti G, Tanzer A, Djebali S, Tilgner H, Guernec G,
+Martin D, Merkel A, Knowles DG, Lagarde J, Veeravalli L, Ruan X, Ruan Y,
+Lassmann T, Carninci P, Brown JB, Lipovich L, Gonzalez JM, Thomas M, Davis
+CA, Shiekhattar R, Gingeras TR, Hubbard TJ, Notredame C, Harrow J, Guigo R.
+The GENCODE v7 catalog of human long noncoding RNAs: analysis of their
+gene structure, evolution, and expression. Genome Res. 2012;22(9):1775–89.
+38. Dodd DW, Tomchick DR, Corey DR, Gagnon KT. Pathogenic C9ORF72
+Antisense Repeat RNA Forms a Double Helix with Tandem C:C Mismatches.
+Biochemistry. 2016;55(9):1283–6.
+39. Donnelly CJ, Zhang PW, Pham JT, Haeusler AR, Mistry NA, Vidensky S, Daley
+EL, Poth EM, Hoover B, Fines DM, Maragakis N, Tienari PJ, Petrucelli L,
+Traynor BJ, Wang J, Rigo F, Bennett CF, Blackshaw S, Sattler R, Rothstein JD.
+RNA toxicity from the ALS/FTD C9ORF72 expansion is mitigated by
+antisense intervention. Neuron. 2013;80(2):415–28.
+40. Elden AC, Kim HJ, Hart MP, Chen-Plotkin AS, Johnson BS, Fang X, Armakola M,
+Geser F, Greene R, Lu MM, Padmanabhan A, Clay-Falcone D, McCluskey L, Elman L,
+Juhr D, Gruber PJ, Rub U, Auburger G, Trojanowski JQ, Lee VM, Van Deerlin VM,
+Bonini NM, Gitler AD. Ataxin-2 intermediate-length polyglutamine expansions are
+associated with increased risk for ALS. Nature. 2010;466(7310):1069–75.
+41. Emde A, Eitan C, Liou LL, Libby RT, Rivkin N, Magen I, Reichenstein I,
+Oppenheim H, Eilam R, Silvestroni A, Alajajian B, Ben-Dov IZ, Aebischer J,
+Savidor A, Levin Y, Sons R, Hammond SM, Ravits JM, Moller T, Hornstein E.
+Dysregulated miRNA biogenesis downstream of cellular stress and ALS-
+causing mutations: a new mechanism for ALS. EMBO J. 2015;34(21):2633–51.
+42. Engreitz JM, Haines JE, Perez EM, Munson G, Chen J, Kane M, McDonel PE,
+Guttman M, Lander ES. Local regulation of gene expression by lncRNA
+promoters, transcription and splicing. Nature. 2016;539(7629):452–5.
+43. Erb M, Lee B, Yeon SS, Lee JW, Lee S, Lee SK. The Isl1-Lhx3 Complex
+Promotes Motor Neuron Specification by Activating Transcriptional
+Pathways that Enhance Its Own Expression and Formation. eNeuro. 2017;
+4(2):ENEURO.0349-16.2017.
+44. Faghihi MA, Modarresi F, Khalil AM, Wood DE, Sahagan BG, Morgan TE,
+Finch CE, St Laurent G 3rd, Kenny PJ, Wahlestedt C. Expression of a
+noncoding RNA is elevated in Alzheimer's disease and drives rapid feed-
+forward regulation of beta-secretase. Nat Med. 2008;14(7):723–30.
+45. Faghihi MA, Zhang M, Huang J, Modarresi F, Van der Brug MP, Nalls MA,
+Cookson MR, St-Laurent G 3rd, Wahlestedt C. Evidence for natural antisense
+transcript-mediated inhibition of microRNA function. Genome Biol. 2010;
+11(5):R56.
+46. Fratta P, Mizielinska S, Nicoll AJ, Zloh M, Fisher EM, Parkinson G, Isaacs AM.
+C9orf72 hexanucleotide repeat associated with amyotrophic lateral sclerosis and
+frontotemporal dementia forms RNA G-quadruplexes. Sci Rep. 2012;2:1016.
+47. Freibaum BD, Taylor JP. The Role of Dipeptide Repeats in C9ORF72-Related
+ALS-FTD. Front Mol Neurosci. 2017;10:35. 
+48. Gao T, Li J, Li N, Gao Y, Yu L, Zhuang S, Zhao Y, Dong X. lncrps25 play an
+essential role in motor neuron development through controlling the
+expression of olig2 in zebrafish. J Cell Physiol. 2020;235:3485-96.
+49. Gendron TF, Bieniek KF, Zhang YJ, Jansen-West K, Ash PE, Caulfield T,
+Daughrity L, Dunmore JH, Castanedes-Casey M, Chew J, Cosio DM, van
+Blitterswijk M, Lee WC, Rademakers R, Boylan KB, Dickson DW, Petrucelli L.
+Antisense transcripts of the expanded C9ORF72 hexanucleotide repeat form
+nuclear RNA foci and undergo repeat-associated non-ATG translation in
+c9FTD/ALS. Acta Neuropathol. 2013;126(6):829–44.
+50. Gendron TF, Chew J, Stankowski JN, Hayes LR, Zhang YJ, Prudencio M,
+Carlomagno Y, Daughrity LM, Jansen-West K, Perkerson EA, O'Raw A, Cook
+C, Pregent L, Belzil V, van Blitterswijk M, Tabassian LJ, Lee CW, Yue M, Tong
+J, Song Y, Castanedes-Casey M, Rousseau L, Phillips V, Dickson DW,
+Rademakers R, Fryer JD, Rush BK, Pedraza O, Caputo AM, Desaro P, Palmucci
+C, Robertson A, Heckman MG, Diehl NN, Wiggs E, Tierney M, Braun L, Farren
+J, Lacomis D, Ladha S, Fournier CN, McCluskey LF, Elman LB, Toledo JB,
+McBride JD, Tiloca C, Morelli C, Poletti B, Solca F, Prelle A, Wuu J, Jockel-
+Balsarotti J, Rigo F, Ambrose C, Datta A, Yang W, Raitcheva D, Antognetti G,
+McCampbell A, Van Swieten JC, Miller BL, Boxer AL, Brown RH, Bowser R,
+Miller TM, Trojanowski JQ, Grossman M, Berry JD, Hu WT, Ratti A, Traynor BJ,
+Disney MD, Benatar M, Silani V, Glass JD, Floeter MK, Rothstein JD, Boylan
+KB, Petrucelli L. Poly(GP) proteins are a useful pharmacodynamic marker for
+C9ORF72-associated amyotrophic lateral sclerosis. Sci Transl Med. 2017;
+9(383):eaai7866.
+51. Goodman LD, Prudencio M, Kramer NJ, Martinez-Ramirez LF, Srinivasan AR, Lan
+M, Parisi MJ, Zhu Y, Chew J, Cook CN, Berson A, Gitler AD, Petrucelli L, Bonini
+NM. Toxic expanded GGGGCC repeat transcription is mediated by the PAF1
+complex in C9orf72-associated FTD. Nat Neurosci. 2019;22(6):863–74.
+52. Goudarzi M, Berg K, Pieper LM, Schier AF. Individual long non-coding RNAs
+have no overt functions in zebrafish embryogenesis, viability and fertility.
+Elife. 2019;8:e40815.
+53. Goyal A, Myacheva K, Gross M, Klingenberg M, Duran AB, Diederichs S.
+Challenges of CRISPR/Cas9 applications for long non-coding RNA genes.
+Nucleic Acids Res. 2017;45(3):e12.
+54. Hacisuleyman E, Goff LA, Trapnell C, Williams A, Henao-Mejia J, Sun L,
+McClanahan P, Hendrickson DG, Sauvageau M, Kelley DR, Morse M, Engreitz
+J, Lander ES, Guttman M, Lodish HF, Flavell R, Raj A, Rinn JL. Topological
+organization of multichromosomal regions by the long intergenic
+noncoding RNA Firre. Nat Struct Mol Biol. 2014;21(2):198–206.
+55. Haeusler AR, Donnelly CJ, Periz G, Simko EA, Shaw PG, Kim MS, Maragakis
+NJ, Troncoso JC, Pandey A, Sattler R, Rothstein JD, Wang J. C9orf72
+nucleotide repeat structures initiate molecular cascades of disease. Nature.
+2014;507(7491):195–200.
+56. Hoye ML, Koval ED, Wegener AJ, Hyman TS, Yang C, O'Brien DR, Miller RL, Cole
+T, Schoch KM, Shen T, Kunikata T, Richard JP, Gutmann DH, Maragakis NJ,
+Kordasiewicz HB, Dougherty JD, Miller TM. MicroRNA Profiling Reveals Marker
+of Motor Neuron Disease in ALS Models. J Neurosci. 2017;37(22):5574–86.
+57. Imamura K, Imamachi N, Akizuki G, Kumakura M, Kawaguchi A, Nagata K,
+Kato A, Kawaguchi Y, Sato H, Yoneda M, Kai C, Yada T, Suzuki Y, Yamada T,
+Ozawa T, Kaneki K, Inoue T, Kobayashi M, Kodama T, Wada Y, Sekimizu K,
+Akimitsu N. Long noncoding RNA NEAT1-dependent SFPQ relocation from
+promoter region to paraspeckle mediates IL8 expression upon immune
+stimuli. Mol Cell. 2014;53(3):393–406.
+58. Ingolia NT, Lareau LF, Weissman JS. Ribosome profiling of mouse embryonic
+stem cells reveals the complexity and dynamics of mammalian proteomes.
+Cell. 2011;147(4):789–802.
+59. International Human Genome Sequencing C. Finishing the euchromatic
+sequence of the human genome. Nature. 2004;431(7011):931–45.
+60. Iyer MK, Niknafs YS, Malik R, Singhal U, Sahu A, Hosono Y, Barrette TR, Prensner
+JR, Evans JR, Zhao S, Poliakov A, Cao X, Dhanasekaran SM, Wu YM, Robinson
+DR, Beer DG, Feng FY, Iyer HK, Chinnaiyan AM. The landscape of long
+noncoding RNAs in the human transcriptome. Nat Genet. 2015;47(3):199–208.
+61. Jiang J, Zhu Q, Gendron TF, Saberi S, McAlonis-Downes M, Seelman A,
+Stauffer JE, Jafar-Nejad P, Drenner K, Schulte D, Chun S, Sun S, Ling SC,
+Myers B, Engelhardt J, Katz M, Baughn M, Platoshyn O, Marsala M, Watt A,
+Heyser CJ, Ard MC, De Muynck L, Daughrity LM, Swing DA, Tessarollo L,
+Jung CJ, Delpoux A, Utzschneider DT, Hedrick SM, de Jong PJ, Edbauer D,
+Van Damme P, Petrucelli L, Shaw CE, Bennett CF, Da Cruz S, Ravits J, Rigo F,
+Cleveland DW, Lagier-Tourenne C. Gain of Toxicity from ALS/FTD-Linked
+Repeat Expansions in C9ORF72 Is Alleviated by Antisense Oligonucleotides
+Targeting GGGGCC-Containing RNAs. Neuron. 2016;90(3):535–50.
+Page 12
+Chen and Chen Journal of Biomedical Science (2020) 27:38  Page 12 of 14
+62. Kallen AN, Zhou XB, Xu J, Qiao C, Ma J, Yan L, Lu L, Liu C, Yi JS, Zhang H,
+Min W, Bennett AM, Gregory RI, Ding Y, Huang Y. The imprinted H19
+lncRNA antagonizes let-7 microRNAs. Mol Cell. 2013;52(1):101–12.
+63. Khong A, Matheny T, Jain S, Mitchell SF, Wheeler JR, Parker R. The Stress
+Granule Transcriptome Reveals Principles of mRNA Accumulation in Stress
+Granules. Mol Cell. 2017;68(4):808–820 e805.
+64. Khorkova O, Myers AJ, Hsiao J, Wahlestedt C. Natural antisense transcripts.
+Hum Mol Genet. 2014;23(R1):R54–63.
+65. Kovanda A, Zalar M, Sket P, Plavec J, Rogelj B. Anti-sense DNA d(GGCCCC)n
+expansions in C9ORF72 form i-motifs and protonated hairpins. Sci Rep.
+2015;5:17944.
+66. Kramer NJ, Carlomagno Y, Zhang YJ, Almeida S, Cook CN, Gendron TF,
+Prudencio M, Van Blitterswijk M, Belzil V, Couthouis J, Paul JW 3rd,
+Goodman LD, Daughrity L, Chew J, Garrett A, Pregent L, Jansen-West K,
+Tabassian LJ, Rademakers R, Boylan K, Graff-Radford NR, Josephs KA, Parisi
+JE, Knopman DS, Petersen RC, Boeve BF, Deng N, Feng Y, Cheng TH,
+Dickson DW, Cohen SN, Bonini NM, Link CD, Gao FB, Petrucelli L, Gitler AD.
+Spt4 selectively regulates the expression of C9orf72 sense and antisense
+mutant transcripts. Science. 2016;353(6300):708–12.
+67. Kretz M, Siprashvili Z, Chu C, Webster DE, Zehnder A, Qu K, Lee CS,
+Flockhart RJ, Groff AF, Chow J, Johnston D, Kim GE, Spitale RC, Flynn RA,
+Zheng GX, Aiyer S, Raj A, Rinn JL, Chang HY, Khavari PA. Control of somatic
+tissue differentiation by the long non-coding RNA TINCR. Nature. 2013;
+493(7431):231–5.
+68. Krzyzosiak WJ, Sobczak K, Wojciechowska M, Fiszer A, Mykowska A,
+Kozlowski P. Triplet repeat RNA structure and its role as pathogenic agent
+and therapeutic target. Nucleic Acids Res. 2012;40(1):11–26.
+69. Kung JT, Kesner B, An JY, Ahn JY, Cifuentes-Rojas C, Colognori D, Jeon Y,
+Szanto A, del Rosario BC, Pinter SF, Erwin JA, Lee JT. Locus-specific targeting
+to the X chromosome revealed by the RNA interactome of CTCF. Mol Cell.
+2015;57(2):361–75.
+70. Kwon I, Xiang S, Kato M, Wu L, Theodoropoulos P, Wang T, Kim J, Yun J, Xie Y,
+McKnight SL. Poly-dipeptides encoded by the C9orf72 repeats bind nucleoli,
+impede RNA biogenesis, and kill cells. Science. 2014;345(6201):1139–45.
+71. Laver JD, Li X, Ancevicius K, Westwood JT, Smibert CA, Morris QD, Lipshitz
+HD. Genome-wide analysis of Staufen-associated mRNAs identifies
+secondary structures that confer target specificity. Nucleic Acids Res. 2013;
+41(20):9438–60.
+72. Lee S, Cuvillier JM, Lee B, Shen R, Lee JW, Lee SK. Fusion protein Isl1-Lhx3
+specifies motor neuron fate by inducing motor neuron genes and
+concomitantly suppressing the interneuron programs. Proc Natl Acad Sci U
+S A. 2012;109(9):3383–8.
+73. Lefebvre S, Burglen L, Reboullet S, Clermont O, Burlet P, Viollet L, Benichou
+B, Cruaud C, Millasseau P, Zeviani M, et al. Identification and characterization
+of a spinal muscular atrophy-determining gene. Cell. 1995;80(1):155–65.
+74. Li CJ, Hong T, Tung YT, Yen YP, Hsu HC, Lu YL, Chang M, Nie Q, Chen JA.
+MicroRNA filters Hox temporal transcription noise to confer boundary
+formation in the spinal cord. Nat Commun. 2017;8:14685.
+75. Li PP, Sun X, Xia G, Arbez N, Paul S, Zhu S, Peng HB, Ross CA, Koeppen AH,
+Margolis RL, Pulst SM, Ashizawa T, Rudnicki DD. ATXN2-AS, a gene antisense
+to ATXN2, is associated with spinocerebellar ataxia type 2 and amyotrophic
+lateral sclerosis. Ann Neurol. 2016;80(4):600–15.
+76. Li W, Notani D, Rosenfeld MG. Enhancers as non-coding RNA transcription units:
+recent insights and future perspectives. Nat Rev Genet. 2016;17(4):207–23.
+77. Liu JP, Laufer E, Jessell TM. Assigning the positional identity of spinal motor
+neurons: rostrocaudal patterning of Hox-c expression by FGFs, Gdf11, and
+retinoids. Neuron. 2001;32(6):997–1012.
+78. Liu Y, Pattamatta A, Zu T, Reid T, Bardhi O, Borchelt DR, Yachnis AT, Ranum
+LP. C9orf72 BAC Mouse Model with Motor Deficits and Neurodegenerative
+Features of ALS/FTD. Neuron. 2016;90(3):521–34.
+79. Lo PL, Yamaguchi M. RNAi of arcRNA hsromega affects sub-cellular localization
+of Drosophila FUS to drive neurodiseases. Exp Neurol. 2017;292:125–34.
+80. Lopez-Gonzalez R, Lu Y, Gendron TF, Karydas A, Tran H, Yang D, Petrucelli L,
+Miller BL, Almeida S, Gao FB. Poly(GR) in C9ORF72-Related ALS/FTD
+Compromises Mitochondrial Function and Increases Oxidative Stress andDNA Damage in iPSC-Derived Motor Neurons. Neuron. 2016;92(2):383–91.
+81. Luke B, Lingner J. TERRA: telomeric repeat-containing RNA. EMBO J. 2009;
+28(17):2503–10.
+82. Lunn MR, Wang CH. Spinal muscular atrophy. Lancet. 2008;371(9630):2120–33.
+83. Mackenzie IR, Frick P, Grasser FA, Gendron TF, Petrucelli L, Cashman NR, Edbauer
+D, Kremmer E, Prudlo J, Troost D, Neumann M. Quantitative analysis and clinico- 
+pathological correlations of different dipeptide repeat protein pathologies in
+C9ORF72 mutation carriers. Acta Neuropathol. 2015;130(6):845–61.
+84. Maharana S, Wang J, Papadopoulos DK, Richter D, Pozniakovsky A, Poser I,
+Bickle M, Rizk S, Guillen-Boixet J, Franzmann TM, Jahnel M, Marrone L,
+Chang YT, Sterneckert J, Tomancak P, Hyman AA, Alberti S. RNA buffers the
+phase separation behavior of prion-like RNA binding proteins. Science. 2018;
+360(6391):918–21.
+85. Majounie E., Renton A.E., Mok K., Dopper E.G., Waite A., Rollinson S., Chio A.,
+Restagno G., Nicolaou N., Simon-Sanchez J., van Swieten J.C., Abramzon Y.,
+Johnson J.O., Sendtner M., Pamphlett R., Orrell R.W., Mead S., Sidle K.C.,
+Houlden H., Rohrer J.D., Morrison K.E., Pall H., Talbot K., Ansorge O.,
+Chromosome A.L.S.F.T.D.C., French research network on F.F.A, Consortium I.,
+Hernandez D.G., Arepalli S., Sabatelli M., Mora G., Corbo M., Giannini F., Calvo
+A., Englund E., Borghero G., Floris G.L., Remes A.M., Laaksovirta H., McCluskey
+L., Trojanowski J.Q., Van Deerlin V.M., Schellenberg G.D., Nalls M.A., Drory V.E.,
+Lu C.S., Yeh T.H., Ishiura H., Takahashi Y., Tsuji S., Le Ber I., Brice A., Drepper C.
+, Williams N., Kirby J., Shaw P., Hardy J., Tienari P.J., Heutink P., Morris H.R.,
+Pickering-Brown S. and Traynor B.J. Frequency of the C9orf72
+hexanucleotide repeat expansion in patients with amyotrophic lateral
+sclerosis and frontotemporal dementia: a cross-sectional study. Lancet
+Neurol 11(4):323-330, 2012.
+86. Maniatis S, Aijo T, Vickovic S, Braine C, Kang K, Mollbrink A, Fagegaltier D,
+Andrusivova Z, Saarenpaa S, Saiz-Castro G, Cuevas M, Watters A, Lundeberg
+J, Bonneau R, Phatnani H. Spatiotemporal dynamics of molecular pathology
+in amyotrophic lateral sclerosis. Science. 2019;364(6435):89–93.
+87. McHugh CA, Chen CK, Chow A, Surka CF, Tran C, McDonel P, Pandya-Jones A,
+Blanco M, Burghard C, Moradian A, Sweredoski MJ, Shishkin AA, Su J, Lander
+ES, Hess S, Plath K, Guttman M. The Xist lncRNA interacts directly with SHARP
+to silence transcription through HDAC3. Nature. 2015;521(7551):232–6.
+88. Mehler MF, Mabie PC, Zhang DM, Kessler JA. Bone morphogenetic proteins
+in the nervous system. Trends Neurosci. 1997;20(7):309–17.
+89. Mercer TR, Dinger ME, Sunkin SM, Mehler MF, Mattick JS. Specific expression
+of long noncoding RNAs in the mouse brain. Proc Natl Acad Sci U S A.
+2008;105(2):716–21.
+90. Militello G, Hosen MR, Ponomareva Y, Gellert P, Weirick T, John D, Hindi SM,
+Mamchaoui K, Mouly V, Doring C, Zhang L, Nakamura M, Kumar A, Fukada
+SI, Dimmeler S, Uchida S. A novel long non-coding RNA Myolinc regulates
+myogenesis through TDP-43 and Filip1. J Mol Cell Biol. 2018;10(2):102–17.
+91. Mizielinska S, Gronke S, Niccoli T, Ridler CE, Clayton EL, Devoy A, Moens T,
+Norona FE, Woollacott IOC, Pietrzyk J, Cleverley K, Nicoll AJ, Pickering-Brown
+S, Dols J, Cabecinha M, Hendrich O, Fratta P, Fisher EMC, Partridge L, Isaacs
+AM. C9orf72 repeat expansions cause neurodegeneration in Drosophila
+through arginine-rich proteins. Science. 2014;345(6201):1192–4.
+92. Mizielinska S, Lashley T, Norona FE, Clayton EL, Ridler CE, Fratta P, Isaacs AM.
+C9orf72 frontotemporal lobar degeneration is characterised by frequent
+neuronal sense and antisense RNA foci. Acta Neuropathol. 2013;126(6):845–57.
+93. Mizielinska S, Ridler CE, Balendra R, Thoeng A, Woodling NS, Grasser FA,
+Plagnol V, Lashley T, Partridge L, Isaacs AM. Bidirectional nucleolar
+dysfunction in C9orf72 frontotemporal lobar degeneration. Acta
+Neuropathol Commun. 2017;5(1):29.
+94. Moens TG, Mizielinska S, Niccoli T, Mitchell JS, Thoeng A, Ridler CE, Gronke
+S, Esser J, Heslegrave A, Zetterberg H, Partridge L, Isaacs AM. Sense and
+antisense RNA are not toxic in Drosophila models of C9orf72-associated
+ALS/FTD. Acta Neuropathol. 2018;135(3):445–57.
+95. Mori K, Arzberger T, Grasser FA, Gijselinck I, May S, Rentzsch K, Weng SM,
+Schludi MH, van der Zee J, Cruts M, Van Broeckhoven C, Kremmer E,
+Kretzschmar HA, Haass C, Edbauer D. Bidirectional transcripts of the
+expanded C9orf72 hexanucleotide repeat are translated into aggregating
+dipeptide repeat proteins. Acta Neuropathol. 2013;126(6):881–93.
+96. Mori K., Nihei Y., Arzberger T., Zhou Q., Mackenzie I.R., Hermann A., Hanisch
+F., German Consortium for Frontotemporal Lobar D., Bavarian Brain Banking
+A., Kamp F., Nuscher B., Orozco D., Edbauer D. and Haass C. Reduced
+hnRNPA3 increases C9orf72 repeat RNA levels and dipeptide-repeat protein
+deposition. EMBO Rep 17(9):1314-1325, 2016.
+97. Mori K, Weng SM, Arzberger T, May S, Rentzsch K, Kremmer E, Schmid B,
+Kretzschmar HA, Cruts M, Van Broeckhoven C, Haass C, Edbauer D. The
+C9orf72 GGGGCC repeat is translated into aggregating dipeptide-repeat
+proteins in FTLD/ALS. Science. 2013;339(6125):1335–8.
+98. Mukherjee N, Calviello L, Hirsekorn A, de Pretis S, Pelizzola M, Ohler U.
+Integrative classification of human coding and noncoding genes through
+RNA metabolism profiles. Nat Struct Mol Biol. 2017;24(1):86–96.
+Page 13
+Chen and Chen Journal of Biomedical Science (2020) 27:38  Page 13 of 14
+99. Muraoka Y, Nakamura A, Tanaka R, Suda K, Azuma Y, Kushimura Y, Lo PL,
+Yoshida H, Mizuta I, Tokuda T, Mizuno T, Nakagawa M, Yamaguchi M.
+Genetic screening of the genes interacting with Drosophila FIG 4 identified
+a novel link between CMT-causing gene and long noncoding RNAs. Exp
+Neurol. 2018;310:1–13.
+100. Naganuma T, Nakagawa S, Tanigawa A, Sasaki YF, Goshima N, Hirose T.
+Alternative 3'-end processing of long noncoding RNA initiates construction
+of nuclear paraspeckles. EMBO J. 2012;31(20):4020–34.
+101. Nakagawa S, Naganuma T, Shioi G, Hirose T. Paraspeckles are
+subpopulation-specific nuclear bodies that are not essential in mice. J Cell
+Biol. 2011;193(1):31–9.
+102. Ng SY, Lin L, Soh BS, Stanton LW. Long noncoding RNAs in development
+and disease of the central nervous system. Trends Genet. 2013;29(8):461–8.
+103. Nishimoto Y, Nakagawa S, Hirose T, Okano HJ, Takao M, Shibata S, Suyama
+S, Kuwako K, Imai T, Murayama S, Suzuki N, Okano H. The long non-coding
+RNA nuclear-enriched abundant transcript 1_2 induces paraspeckle
+formation in the motor neuron during the early phase of amyotrophic
+lateral sclerosis. Mol Brain. 2013;6:31.
+104. Novitch BG, Chen AI, Jessell TM. Coordinate regulation of motor neuron
+subtype identity and pan-neuronal properties by the bHLH repressor Olig2.
+Neuron. 2001;31(5):773–89.
+105. Novitch BG, Wichterle H, Jessell TM, Sockanathan S. A requirement for
+retinoic acid-mediated transcriptional activation in ventral neural patterning
+and motor neuron specification. Neuron. 2003;40(1):81–95.
+106. Ntini E, Jarvelin AI, Bornholdt J, Chen Y, Boyd M, Jorgensen M, Andersson R,
+Hoof I, Schein A, Andersen PR, Andersen PK, Preker P, Valen E, Zhao X,
+Pelechano V, Steinmetz LM, Sandelin A, Jensen TH. Polyadenylation site-
+induced decay of upstream transcripts enforces promoter directionality. Nat
+Struct Mol Biol. 2013;20(8):923–8.
+107. O'Rourke JG, Bogdanik L, Muhammad A, Gendron TF, Kim KJ, Austin A, Cady
+J, Liu EY, Zarrow J, Grant S, Ho R, Bell S, Carmona S, Simpkinson M, Lall D,
+Wu K, Daughrity L, Dickson DW, Harms MB, Petrucelli L, Lee EB, Lutz CM,
+Baloh RH. C9orf72 BAC Transgenic Mice Display Typical Pathologic Features
+of ALS/FTD. Neuron. 2015;88(5):892–901.
+108. Onoguchi M, Hirabayashi Y, Koseki H, Gotoh Y. A noncoding RNA regulates
+the neurogenin1 gene locus during mouse neocortical development. Proc
+Natl Acad Sci U S A. 2012;109(42):16939–44.
+109. Perry RB, Ulitsky I. The functions of long noncoding RNAs in development
+and stem cells. Development. 2016;143(21):3882–94.
+110. Peters OM, Cabrera GT, Tran H, Gendron TF, McKeon JE, Metterville J, Weiss
+A, Wightman N, Salameh J, Kim J, Sun H, Boylan KB, Dickson D, Kennedy Z,
+Lin Z, Zhang YJ, Daughrity L, Jung C, Gao FB, Sapp PC, Horvitz HR, Bosco
+DA, Brown SP, de Jong P, Petrucelli L, Mueller C, Brown RH Jr. Human
+C9ORF72 Hexanucleotide Expansion Reproduces RNA Foci and Dipeptide
+Repeat Proteins but Not Neurodegeneration in BAC Transgenic Mice.
+Neuron. 2015;88(5):902–9.
+111. Rademakers R. C9orf72 repeat expansions in patients with ALS and FTD.
+Lancet Neurol. 2012;11(4):297–8.
+112. Ramos AD, Andersen RE, Liu SJ, Nowakowski TJ, Hong SJ, Gertz C, Salinas
+RD, Zarabi H, Kriegstein AR, Lim DA. The long noncoding RNA Pnky
+regulates neuronal differentiation of embryonic and postnatal neural stem
+cells. Cell Stem Cell. 2015;16(4):439–47.
+113. Rani N, Nowakowski TJ, Zhou H, Godshalk SE, Lisi V, Kriegstein AR, Kosik KS.
+A Primate lncRNA Mediates Notch Signaling during Neuronal Development
+by Sequestering miRNA. Neuron. 2016;90(6):1174–88.
+114. Ransohoff JD, Wei Y, Khavari PA. The functions and unique features of long
+intergenic non-coding RNA. Nat Rev Mol Cell Biol. 2018;19(3):143–57.
+115. Ray MK, Wiskow O, King MJ, Ismail N, Ergun A, Wang Y, Plys AJ, Davis CP,
+Kathrein K, Sadreyev R, Borowsky ML, Eggan K, Zon L, Galloway JL, Kingston
+RE. CAT7 and cat7l Long Non-coding RNAs Tune Polycomb Repressive
+Complex 1 Function during Human and Zebrafish Development. J Biol
+Chem. 2016;291(37):19558–72.
+116. Reddy K, Zamiri B, Stanley SY, Macgregor RB Jr, Pearson CE. The disease-
+associated r(GGGGCC)n repeat from the C9orf72 gene forms tract length-
+dependent uni- and multimolecular RNA G-quadruplex structures. J Biol
+Chem. 2013;288(14):9860–6.
+117. Renton AE, Majounie E, Waite A, Simon-Sanchez J, Rollinson S, Gibbs JR,
+Schymick JC, Laaksovirta H, van Swieten JC, Myllykangas L, Kalimo H, Paetau
+A, Abramzon Y, Remes AM, Kaganovich A, Scholz SW, Duckworth J, Ding J,
+Harmer DW, Hernandez DG, Johnson JO, Mok K, Ryten M, Trabzuni D,
+Guerreiro RJ, Orrell RW, Neal J, Murray A, Pearson J, Jansen IE, Sondervan D, 
+Seelaar H, Blake D, Young K, Halliwell N, Callister JB, Toulson G, Richardson
+A, Gerhard A, Snowden J, Mann D, Neary D, Nalls MA, Peuralinna T, Jansson
+L, Isoviita VM, Kaivorinne AL, Holtta-Vuori M, Ikonen E, Sulkava R, Benatar M,
+Wuu J, Chio A, Restagno G, Borghero G, Sabatelli M, Consortium I,
+Heckerman D, Rogaeva E, Zinman L, Rothstein JD, Sendtner M, Drepper C,
+Eichler EE, Alkan C, Abdullaev Z, Pack SD, Dutra A, Pak E, Hardy J, Singleton
+A, Williams NM, Heutink P, Pickering-Brown S, Morris HR, Tienari PJ, Traynor
+BJ. A hexanucleotide repeat expansion in C9ORF72 is the cause of
+chromosome 9p21-linked ALS-FTD. Neuron. 2011;72(2):257–68.
+118. Rinn JL, Kertesz M, Wang JK, Squazzo SL, Xu X, Brugmann SA, Goodnough
+LH, Helms JA, Farnham PJ, Segal E, Chang HY. Functional demarcation of
+active and silent chromatin domains in human HOX loci by noncoding
+RNAs. Cell. 2007;129(7):1311–23.
+119. Rousso DL, Gaber ZB, Wellik D, Morrisey EE, Novitch BG. Coordinated actions
+of the forkhead protein Foxp1 and Hox proteins in the columnar
+organization of spinal motor neurons. Neuron. 2008;59(2):226–40.
+120. Ryan VH, Fawzi NL. Physiological, Pathological, and Targetable
+Membraneless Organelles in Neurons. Trends Neurosci. 2019;42(10):693–708.
+121. Saberi S, Stauffer JE, Jiang J, Garcia SD, Taylor AE, Schulte D, Ohkubo T, Schloffman
+CL, Maldonado M, Baughn M, Rodriguez MJ, Pizzo D, Cleveland D, Ravits J. Sense-
+encoded poly-GR dipeptide repeat proteins correlate to neurodegeneration and
+uniquely co-localize with TDP-43 in dendrites of repeat-expanded C9orf72
+amyotrophic lateral sclerosis. Acta Neuropathol. 2018;135(3):459–74.
+122. Sareen D, O’Rourke JG, Meera P, Muhammad AK, Grant S, Simpkinson M,
+Bell S, Carmona S, Ornelas L, Sahabian A, Gendron T, Petrucelli L, Baughn M,
+Ravits J, Harms MB, Rigo F, Bennett CF, Otis TS, Svendsen CN, Baloh RH.
+Targeting RNA foci in iPSC-derived motor neurons from ALS patients with a
+C9ORF72 repeat expansion. Sci Transl Med. 2013;5(208):208ra149.
+123. Sauvageau M, Goff LA, Lodato S, Bonev B, Groff AF, Gerhardinger C,
+Sanchez-Gomez DB, Hacisuleyman E, Li E, Spence M, Liapis SC, Mallard W,
+Morse M, Swerdel MR, D'Ecclessis MF, Moore JC, Lai V, Gong G, Yancopoulos
+GD, Frendewey D, Kellis M, Hart RP, Valenzuela DM, Arlotta P, Rinn JL.
+Multiple knockout mouse models reveal lincRNAs are required for life and
+brain development. Elife. 2013;2:e01749.
+124. Schmitt AM, Chang HY. Long Noncoding RNAs in Cancer Pathways. Cancer
+Cell. 2016;29(4):452–63.
+125. Shang Y, Huang EJ. Mechanisms of FUS mutations in familial amyotrophic
+lateral sclerosis. Brain Res. 2016;1647:65–78.
+126. Shelkovnikova TA, Kukharsky MS, An H, Dimasi P, Alexeeva S, Shabir O,
+Heath PR, Buchman VL. Protective paraspeckle hyper-assembly downstream
+of TDP-43 loss of function in amyotrophic lateral sclerosis. Mol
+Neurodegener. 2018;13(1):30.
+127. Shelkovnikova TA, Robinson HK, Troakes C, Ninkina N, Buchman VL.
+Compromised paraspeckle formation as a pathogenic factor in FUSopathies.
+Hum Mol Genet. 2014;23(9):2298–312.
+128. Shi C, Miley J, Nottingham A, Morooka T, Prosdocimo DA, Simon DI.
+Leukocyte integrin signaling regulates FOXP1 gene expression via FOXP1-
+IT1 long non-coding RNA-mediated IRAK1 pathway. Biochim Biophys Acta
+Gene Regul Mech. 2019;1862(4):493–508.
+129. Sockanathan S, Perlmann T, Jessell TM. Retinoid receptor signaling in
+postmitotic motor neurons regulates rostrocaudal positional identity and
+axonal projection pattern. Neuron. 2003;40(1):97–111.
+130. St Laurent G, Wahlestedt C, Kapranov P. The Landscape of long noncoding
+RNA classification. Trends Genet. 2015;31(5):239–51.
+131. Stevens SJ, van Ravenswaaij-Arts CM, Janssen JW, Klein Wassink-Ruiter JS, van
+Essen AJ, Dijkhuizen T, van Rheenen J, Heuts-Vijgen R, Stegmann AP, Smeets
+EE, Engelen JJ. MYT1L is a candidate gene for intellectual disability in patients
+with 2p25.3 (2pter) deletions. Am J Med Genet A. 2011;155A(11):2739–45.
+132. Stifani N. Motor neurons and the generation of spinal motor neuron
+diversity. Front Cell Neurosci. 2014;8:293.
+133. Suzuki H, Shibagaki Y, Hattori S, Matsuoka M. C9-ALS/FTD-linked proline-
+arginine dipeptide repeat protein associates with paraspeckle components
+and increases paraspeckle formation. Cell Death Dis. 2019;10(10):746.
+134. Swinnen B, Bento-Abreu A, Gendron TF, Boeynaems S, Bogaert E, Nuyts R,
+Timmers M, Scheveneels W, Hersmus N, Wang J, Mizielinska S, Isaacs AM,
+Petrucelli L, Lemmens R, Van Damme P, Van Den Bosch L, Robberecht W. A
+zebrafish model for C9orf72 ALS reveals RNA toxicity as a pathogenic
+mechanism. Acta Neuropathol. 2018;135(3):427–43.
+135. Tabet R, Schaeffer L, Freyermuth F, Jambeau M, Workman M, Lee CZ, Lin
+CC, Jiang J, Jansen-West K, Abou-Hamdan H, Desaubry L, Gendron T,
+Petrucelli L, Martin F, Lagier-Tourenne C. CUG initiation and frameshifting
+Page 14
+Chen and Chen Journal of Biomedical Science (2020) 27:38  Page 14 of 14
+enable production of dipeptide repeat proteins from ALS/FTD C9ORF72
+transcripts. Nat Commun. 2018;9(1):152.
+136. Tao Z, Wang H, Xia Q, Li K, Li K, Jiang X, Xu G, Wang G, Ying Z. Nucleolar
+stress and impaired stress granule formation contribute to C9orf72 RAN
+translation-induced cytotoxicity. Hum Mol Genet. 2015;24(9):2426–41.
+137. Tollervey JR, Curk T, Rogelj B, Briese M, Cereda M, Kayikci M, Konig J,
+Hortobagyi T, Nishimura AL, Zupunski V, Patani R, Chandran S, Rot G, Zupan
+B, Shaw CE, Ule J. Characterizing the RNA targets and position-dependent
+splicing regulation by TDP-43. Nat Neurosci. 2011;14(4):452–8.
+138. Tran H, Almeida S, Moore J, Gendron TF, Chalasani U, Lu Y, Du X, Nickerson
+JA, Petrucelli L, Weng Z, Gao FB. Differential Toxicity of Nuclear RNA Foci
+versus Dipeptide Repeat Proteins in a Drosophila Model of C9ORF72 FTD/
+ALS. Neuron. 2015;87(6):1207–14.
+139. Tripathi V, Ellis JD, Shen Z, Song DY, Pan Q, Watt AT, Freier SM, Bennett CF,
+Sharma A, Bubulya PA, Blencowe BJ, Prasanth SG, Prasanth KV. The nuclear-
+retained noncoding RNA MALAT1 regulates alternative splicing by
+modulating SR splicing factor phosphorylation. Mol Cell. 2010;39(6):925–38.
+140. Tsai MC, Manor O, Wan Y, Mosammaparast N, Wang JK, Lan F, Shi Y, Segal
+E, Chang HY. Long noncoding RNA as modular scaffold of histone
+modification complexes. Science. 2010;329(5992):689–93.
+141. Tung YT, Lu YL, Peng KC, Yen YP, Chang M, Li J, Jung H, Thams S, Huang
+YP, Hung JH, Chen JA. Mir-17 approximately 92 Governs Motor Neuron
+Subtype Survival by Mediating Nuclear PTEN. Cell Rep, 2015.
+142. Tung YT, Peng KC, Chen YC, Yen YP, Chang M, Thams S, Chen JA. Mir-17
+approximately 92 Confers Motor Neuron Subtype Differential Resistance to
+ALS-Associated Degeneration. Cell Stem Cell. 2019;25(2):193-209.
+143. Vallstedt A, Muhr J, Pattyn A, Pierani A, Mendelsohn M, Sander M, Jessell
+TM, Ericson J. Different levels of repressor activity assign redundant and
+specific roles to Nkx6 genes in motor neuron and interneuron specification.
+Neuron. 2001;31(5):743–55.
+144. Van Treeck B, Protter DSW, Matheny T, Khong A, Link CD, Parker R. RNA self-
+assembly contributes to stress granule formation and defining the stress
+granule transcriptome. Proc Natl Acad Sci U S A. 2018;115(11):2734–9.
+145. Vance KW, Sansom SN, Lee S, Chalei V, Kong L, Cooper SE, Oliver PL,
+Ponting CP. The long non-coding RNA Paupar regulates the expression of
+both local and distal genes. EMBO J. 2014;33(4):296–311.
+146. Vanden BL, Callaerts P, Dermaut B. TDP-43-mediated neurodegeneration:
+towards a loss-of-function hypothesis? Trends Mol Med. 2014;20(2):66–71.
+147. Venter JC, Adams MD, Myers EW, Li PW, Mural RJ, Sutton GG, Smith HO,
+Yandell M, Evans CA, Holt RA, Gocayne JD, Amanatides P, Ballew RM, Huson
+DH, Wortman JR, Zhang Q, Kodira CD, Zheng XH, Chen L, Skupski M,
+Subramanian G, Thomas PD, Zhang J, Gabor Miklos GL, Nelson C, Broder S,
+Clark AG, Nadeau J, McKusick VA, Zinder N, Levine AJ, Roberts RJ, Simon M,
+Slayman C, Hunkapiller M, Bolanos R, Delcher A, Dew I, Fasulo D, Flanigan
+M, Florea L, Halpern A, Hannenhalli S, Kravitz S, Levy S, Mobarry C, Reinert K,
+Remington K, Abu-Threideh J, Beasley E, Biddick K, Bonazzi V, Brandon R,
+Cargill M, Chandramouliswaran I, Charlab R, Chaturvedi K, Deng Z, Di
+Francesco V, Dunn P, Eilbeck K, Evangelista C, Gabrielian AE, Gan W, Ge W,
+Gong F, Gu Z, Guan P, Heiman TJ, Higgins ME, Ji RR, Ke Z, Ketchum KA, Lai
+Z, Lei Y, Li Z, Li J, Liang Y, Lin X, Lu F, Merkulov GV, Milshina N, Moore HM,
+Naik AK, Narayan VA, Neelam B, Nusskern D, Rusch DB, Salzberg S, Shao W,
+Shue B, Sun J, Wang Z, Wang A, Wang X, Wang J, Wei M, Wides R, Xiao C,
+Yan C, Yao A, Ye J, Zhan M, Zhang W, Zhang H, Zhao Q, Zheng L, Zhong F,
+Zhong W, Zhu S, Zhao S, Gilbert D, Baumhueter S, Spier G, Carter C,
+Cravchik A, Woodage T, Ali F, An H, Awe A, Baldwin D, Baden H, Barnstead
+M, Barrow I, Beeson K, Busam D, Carver A, Center A, Cheng ML, Curry L,
+Danaher S, Davenport L, Desilets R, Dietz S, Dodson K, Doup L, Ferriera S,
+Garg N, Gluecksmann A, Hart B, Haynes J, Haynes C, Heiner C, Hladun S,
+Hostin D, Houck J, Howland T, Ibegwam C, Johnson J, Kalush F, Kline L,
+Koduru S, Love A, Mann F, May D, McCawley S, McIntosh T, McMullen I,
+Moy M, Moy L, Murphy B, Nelson K, Pfannkoch C, Pratts E, Puri V, Qureshi H,
+Reardon M, Rodriguez R, Rogers YH, Romblad D, Ruhfel B, Scott R, Sitter C,
+Smallwood M, Stewart E, Strong R, Suh E, Thomas R, Tint NN, Tse S, Vech C,
+Wang G, Wetter J, Williams S, Williams M, Windsor S, Winn-Deen E, Wolfe K,
+Zaveri J, Zaveri K, Abril JF, Guigo R, Campbell MJ, Sjolander KV, Karlak B,
+Kejariwal A, Mi H, Lazareva B, Hatton T, Narechania A, Diemer K,
+Muruganujan A, Guo N, Sato S, Bafna V, Istrail S, Lippert R, Schwartz R,
+Walenz B, Yooseph S, Allen D, Basu A, Baxendale J, Blick L, Caminha M,
+Carnes-Stine J, Caulk P, Chiang YH, Coyne M, Dahlke C, Mays A, Dombroski
+M, Donnelly M, Ely D, Esparham S, Fosler C, Gire H, Glanowski S, Glasser K,
+Glodek A, Gorokhov M, Graham K, Gropman B, Harris M, Heil J, Henderson S, 
+Hoover J, Jennings D, Jordan C, Jordan J, Kasha J, Kagan L, Kraft C, Levitsky
+A, Lewis M, Liu X, Lopez J, Ma D, Majoros W, McDaniel J, Murphy S,
+Newman M, Nguyen T, Nguyen N, Nodell M, Pan S, Peck J, Peterson M,
+Rowe W, Sanders R, Scott J, Simpson M, Smith T, Sprague A, Stockwell T,
+Turner R, Venter E, Wang M, Wen M, Wu D, Wu M, Xia A, Zandieh A, Zhu X.
+The sequence of the human genome. Science. 2001;291(5507):1304–51.
+148. Vogler TO, Wheeler JR, Nguyen ED, Hughes MP, Britson KA, Lester E, Rao B,
+Betta ND, Whitney ON, Ewachiw TE, Gomes E, Shorter J, Lloyd TE, Eisenberg
+DS, Taylor JP, Johnson AM, Olwin BB, Parker R. TDP-43 and RNA form amyloid-
+like myo-granules in regenerating muscle. Nature. 2018;563(7732):508–13.
+149. Wang KC, Yang YW, Liu B, Sanyal A, Corces-Zimmerman R, Chen Y, Lajoie
+BR, Protacio A, Flynn RA, Gupta RA, Wysocka J, Lei M, Dekker J, Helms JA,
+Chang HY. A long noncoding RNA maintains active chromatin to
+coordinate homeotic gene expression. Nature. 2011;472(7341):120–4.
+150. Wang X, Goodrich KJ, Conlon EG, Gao J, Erbse AH, Manley JL, Cech TR.
+C9orf72 and triplet repeat disorder RNAs: G-quadruplex formation, binding
+to PRC2 and implications for disease mechanisms. RNA. 2019;25(8):935–47.
+151. Wen X, Tan W, Westergard T, Krishnamurthy K, Markandaiah SS, Shi Y, Lin S,
+Shneider NA, Monaghan J, Pandey UB, Pasinelli P, Ichida JK, Trotti D.
+Antisense proline-arginine RAN dipeptides linked to C9ORF72-ALS/FTD form
+toxic nuclear aggregates that initiate in vitro and in vivo neuronal death.
+Neuron. 2014;84(6):1213–25.
+152. Woo CJ, Maier VK, Davey R, Brennan J, Li G, Brothers J 2nd, Schwartz B, Gordo
+S, Kasper A, Okamoto TR, Johansson HE, Mandefro B, Sareen D, Bialek P, Chau
+BN, Bhat B, Bullough D, Barsoum J. Gene activation of SMN by selective
+disruption of lncRNA-mediated recruitment of PRC2 for the treatment of spinal
+muscular atrophy. Proc Natl Acad Sci U S A. 2017;114(8):E1509–18.
+153. Xiang JF, Yin QF, Chen T, Zhang Y, Zhang XO, Wu Z, Zhang S, Wang HB, Ge J, Lu X,
+Yang L, Chen LL. Human colorectal cancer-specific CCAT1-L lncRNA regulates long-
+range chromatin interactions at the MYC locus. Cell Res. 2014;24(5):513–31.
+154. Xiao S, Sanelli T, Dib S, Sheps D, Findlater J, Bilbao J, Keith J, Zinman L,
+Rogaeva E, Robertson J. RNA targets of TDP-43 identified by UV-CLIP are
+deregulated in ALS. Mol Cell Neurosci. 2011;47(3):167–80.
+155. Xu Z, Poidevin M, Li X, Li Y, Shu L, Nelson DL, Li H, Hales CM, Gearing M,
+Wingo TS, Jin P. Expanded GGGGCC repeat RNA associated with
+amyotrophic lateral sclerosis and frontotemporal dementia causes
+neurodegeneration. Proc Natl Acad Sci U S A. 2013;110(19):7778–83.
+156. Yen YP, Hsieh WF, Tsai YY, Lu YL, Liau ES, Hsu HC, Chen YC, Liu TC, Chang
+M, Li J, Lin SP, Hung JH, Chen JA. Dlk1-Dio3 locus-derived lncRNAs
+perpetuate postmitotic motor neuron cell fate and subtype identity. Elife.
+2018;7:e38080.
+157. Yokoshi M, Li Q, Yamamoto M, Okada H, Suzuki Y, Kawahara Y. Direct
+binding of Ataxin-2 to distinct elements in 3' UTRs promotes mRNA stability
+and protein expression. Mol Cell. 2014;55(2):186–98.
+158. Yoon JH, Abdelmohsen K, Srikantan S, Yang X, Martindale JL, De S, Huarte
+M, Zhan M, Becker KG, Gorospe M. LincRNA-p21 suppresses target mRNA
+translation. Mol Cell. 2012;47(4):648–55.
+159. Zaccara S, Ries RJ, Jaffrey SR. Reading, writing and erasing mRNA
+methylation. Nat Rev Mol Cell Biol. 2019;20(10):608–24.
+160. Zakany J, Darbellay F, Mascrez B, Necsulea A, Duboule D. Control of growth
+and gut maturation by HoxD genes and the associated lncRNA Haglr. Proc
+Natl Acad Sci U S A. 2017;114(44):E9290–9.
+161. Zhang K, Donnelly CJ, Haeusler AR, Grima JC, Machamer JB, Steinwald P,
+Daley EL, Miller SJ, Cunningham KM, Vidensky S, Gupta S, Thomas MA, Hong
+I, Chiu SL, Huganir RL, Ostrow LW, Matunis MJ, Wang J, Sattler R, Lloyd TE,
+Rothstein JD. The C9orf72 repeat expansion disrupts nucleocytoplasmic
+transport. Nature. 2015;525(7567):56–61.
+162. Zhou Q, Anderson DJ. The bHLH transcription factors OLIG2 and OLIG1
+couple neuronal and glial subtype specification. Cell. 2002;109(1):61–73.
+163. Zu T, Liu Y, Banez-Coronel M, Reid T, Pletnikova O, Lewis J, Miller TM, Harms MB,
+Falchook AE, Subramony SH, Ostrow LW, Rothstein JD, Troncoso JC, Ranum LP.
+RAN proteins and RNA foci from antisense transcripts in C9ORF72 ALS and
+frontotemporal dementia. Proc Natl Acad Sci U S A. 2013;110(51):E4968–77.
+164. Zucca S, Gagliardi S, Pandini C, Diamanti L, Bordoni M, Sproviero D, Arigoni
+M, Olivero M, Pansarasa O, Ceroni M, Calogero R, Cereda C. RNA-Seq
+profiling in peripheral blood mononuclear cells of amyotrophic lateral
+sclerosis patients and controls. Sci Data. 2019;6:190006.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.

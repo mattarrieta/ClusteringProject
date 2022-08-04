@@ -119,6 +119,7 @@ class DimensionReduction:
         from sklearn.manifold import TSNE
         from sklearn.decomposition import TruncatedSVD
 
+        #UMAP takes a long time to import so we don't import it unless it's needed
         if(reduction_model == 'umap'):
             import umap
             model_dict = {
@@ -164,4 +165,5 @@ def reduceVector(vectorizedData, reduction_method = 'svd', n_neighbors = 10, min
     """Helper function to reduce the dimensions of the given vecotrized data with the chosen reduction method and paramerters"""
 
     reducedData = DimensionReduction(vectorizedData, reduction_model= reduction_method, n_neighbors= n_neighbors, min_dist = min_dist).reduced_df
+    
     return reducedData

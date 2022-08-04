@@ -1,0 +1,1860 @@
+Keywords: Policy transfer,Policy innovation,Renewable energy,Technology transfer,International cooperation,Socio-technical analysis,Low-carbon technologies
+Creator: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+ModDate: 2020/02/13 15:52:01+01'00'
+CreationDate: 2020/02/12 02:31:22+08'00'
+Producer: Acrobat Distiller 10.0.0 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)
+Subject: Sustain Earth, doi:10.1186/s42055-019-0019-4
+Author: Stefan Bößner
+Title: Policy transfer processes and renewable energy penetration: a comparative analysis of Peru, Thailand, and Uganda
+xmp:pdf:Keywords: Policy transfer,Policy innovation,Renewable energy,Technology transfer,International cooperation,Socio-technical analysis,Low-carbon technologies
+xmp:pdf:Producer: Acrobat Distiller 10.0.0 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)
+xmp:dc:format: application/pdf
+xmp:dc:identifier: 10.1186/s42055-019-0019-4
+xmp:dc:publisher: Sustainable Earth
+xmp:dc:description: Sustain Earth, doi:10.1186/s42055-019-0019-4
+xmp:dc:subject: Policy transfer; Policy innovation; Renewable energy; Technology transfer; International cooperation; Socio-technical analysis; Low-carbon technologies
+xmp:dc:title: Policy transfer processes and renewable energy penetration: a comparative analysis of Peru, Thailand, and Uganda
+xmp:dc:creator: Stefan Bößner; Tim Suljada; Francis X. Johnson; Aina Bruno; Jorge Rodriguez Morales; Mengyin Hu; Padmasai Lakshmi Bhamidipati; James Haselip
+xmp:xmp:ModifyDate: 2020-02-13T15:52:01+01:00
+xmp:xmp:MetadataDate: 2020-02-13T15:52:01+01:00
+xmp:xmp:CreateDate: 2020-02-12T02:31:22+08:00
+xmp:xmp:CreatorTool: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+xmp:xmpMM:DocumentID: uuid:723c63dd-9f1a-436c-8526-d381596210ac
+xmp:xmpMM:InstanceID: uuid:ca6dd96b-697f-4164-a350-507ee024182b
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:723c63dd-9f1a-436c-8526-d381596210ac
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2020-02-12T02:37:07+08:00
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:author:name: Francis X. Johnson
+xmp:author:orcid: http://orcid.org/0000-0003-3597-8108
+xmp:pdfaSchema:schema: Springer Nature ORCID Schema
+xmp:pdfaSchema:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/
+xmp:pdfaSchema:prefix: sn
+xmp:pdfaProperty:name: authorInfo
+xmp:pdfaProperty:valueType: Bag AuthorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Author information: contains the name of each author and his/her ORCID (ORCiD: Open Researcher and Contributor ID). An ORCID is a persistent identifier (a non-proprietary alphanumeric code) to uniquely identify scientific and other academic authors.
+xmp:pdfaProperty:name: editorInfo
+xmp:pdfaProperty:valueType: Bag EditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Editor information: contains the name of each editor and his/her ORCID identifier.
+xmp:pdfaProperty:name: seriesEditorInfo
+xmp:pdfaProperty:valueType: Bag SeriesEditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Series editor information: contains the name of each series editor and his/her ORCID identifier.
+xmp:pdfaType:type: AuthorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/authorInfo/
+xmp:pdfaType:prefix: author
+xmp:pdfaType:description: Specifies the types of author information: name and ORCID of an author.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an author.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an author.
+xmp:pdfaType:type: EditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/editorInfo/
+xmp:pdfaType:prefix: editor
+xmp:pdfaType:description: Specifies the types of editor information: name and ORCID of an editor.
+xmp:pdfaField:name: name
+xBOOKMARKS:
+Abstract
+  Background
+  Results
+  Conclusions
+Introduction
+Conceptual foundations of policy innovation, policy diffusion and policy transfer
+  Policy transfer
+  Policy transfer vs. policy diffusion
+Analytical framework and comparative analysis of policy transfer
+  Approach, methodology and case study context
+  Thailand
+  Uganda
+  Peru
+Results: Causes and motivations for policy transfer
+  Causes and motivations
+  Actors involved in the policy transfer process
+    Actors in favour of policy transfer concerning renewable energy
+    Actors against and resistance to policy transfer concerning RE
+  Object of the policy transfer
+  Spatial scale of the policy transfer
+  Mechanisms of policy transfer
+  Constraints on policy transfer
+  Policy success and policy failure
+  The transfer process and the policy making cycle
+Discussion and conclusions
+Abbreviations
+Acknowledgments
+Authors’ contributions
+Funding
+Availability of data and materials
+Ethics approval and consent to participate
+Consent for publication
+Competing interests
+Author details
+References
+Publisher’s Note
+Page 1
+Bößner et al. Sustainable Earth (2020) 3:2
+https://doi.org/10.1186/s42055-019-0019-4 
+Sustainable Earth
+RESEARCH  Open Access
+Policy transfer processes and renewable
+energy penetration: a comparative analysis
+of Peru, Thailand, and Uganda
+Stefan Bößner1, Tim Suljada1, Francis X. Johnson1* [URL: "http://orcid.org/0000-0003-3597-8108"] , Aina Bruno2, Jorge Rodriguez Morales3, Mengyin Hu4,
+Padmasai Lakshmi Bhamidipati5 and James Haselip5
+Abstract
+Background: Low-carbon technologies must be widely adopted at a large scale to address climate change and
+enhance access to affordable, reliable and sustainable energy. The uptake of those technologies is often supported
+by specific policies developed at a national or regional level and those policies, like the technologies themselves,
+can diffuse from one place to another. This paper sheds some light on this ‘policy transfer’ and investigates the
+dynamics, the actors and the processes involved. We illustrate what happens when renewable energy support
+policies in one country inspire renewable support policies in another country using three case studies in Peru,
+Thailand and Uganda as examples.
+Results: Using an adapted version of the policy transfer framework first elaborated by Dolowitz and Marsh (Polit
+Stud 44:343–57, 1996; Governance 13:5–23, 2000), we describe the policy transfer process in the three case study
+countries according to several criteria. We find that policy transfer is not a straightforward process where a
+‘borrower’ country simply adopts policies from a ‘lender’ country, but instead a complex process where many actors
+- national and international – interact to shape the outcome of the process. And while experiences particularly in
+the EU as well as international developments have influenced the policy transfer in case study countries
+significantly, domestic issues also play a key role in shaping the transferred policies and in adapting them to local
+contexts. Moreover, the policy transfer process is not an one-off event, but a continuous process where iterative
+learning helps the policies to evolve over time.
+Conclusions: Policy transfer is a complex matter, involving many stakeholders during a continuous process over
+time. The Dolowitz and Marsh framework proved useful to analyse policy transfer and the actors involved although
+questions for further research remain. For instance, against what kind of criteria should the ‘success’ of a policy
+transfer be measured? Moreover, while comparing three illustrative case studies is a first, useful step, having a larger
+set of case studies and data might enhance our understanding of the details of the processes involved even
+further.
+Keywords: Policy transfer, Policy innovation, Renewable energy, Technology transfer, International cooperation,
+Socio-technical analysis, Low-carbon technologies
+* Correspondence: [URL: "mailto:francis.johnson@sei.org"] francis.johnson@sei.org
+1Stockholm Environment Institute, Stockholm, Sweden
+Full list of author information is available at the end of the article
+© The Author(s). 2020 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License ([URL: "http://creativecommons.org/licenses/by/4.0/"] http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Page 2
+Bößner et al. Sustainable Earth (2020) 3:2  Page 2 of 18
+Introduction
+The global concerns raised by climate change led to the
+adoption of the Paris Agreement in which parties draft
+their own national determined contributions (NDCs), a
+process reflective of differentiated responsibilities and
+respective capabilities in the light of different national
+circumstances. Indeed, under the Paris Agreement, de-
+veloped countries should continue taking the lead by
+undertaking economy-wide absolute emission reduction
+targets, but developing countries are also expected to en-
+hance their mitigation efforts [1].  The agreement also
+calls upon the international community to cooperate in
+implementing their NDCs under Article 6, the details of
+which are still being negotiated [2].
+Global uptake of Renewable Energy (RE) technologies
+supports achievement of the NDCs as well as the UN Sus-
+tainable Development Goals (SDGs) [3, 4]. International
+cooperation includes the transfer of technologies and
+know-how between more industrialised and less industria-
+lised countries, which is a guided and intentional process
+[5–8].  Other related concepts include ‘technology diffu-
+sion’, which emphasise the spontaneous spreading of tech-
+nologies by market-forces and ‘technology innovation’,
+which emphasises the novelty or improvement of a prod-
+uct or technology [9–12]. While the boundaries of those
+three concepts are often not clear-cut, the aim of stimulat-
+ing demand for technologies such as RE in as many re-
+gions as possible contributes to global learning curves,
+thus making these new technologies more cost-
+competitive and more adaptive to local contexts [13]. The
+rapid cost reductions experienced for wind and solar
+power during the past few decades, for example, are the
+result of market developments in the European Union
+(EU),  China and other regions of rapid growth where
+enabling policies have been in place for many years
+[14, 15].
+Such enabling policies are the focus of this paper. Al-
+though technology transfer and diffusion have long been
+studied, the question of how the policies and institutional
+arrangements supporting those technologies might ‘flow’
+from one country to another (and how they are adapted
+to local contexts) only emerged recently in the academic
+literature (See e.g. [16–22]).
+This article describes how knowledge of renewable en-
+ergy policy spreads (or is transferred) across different
+countries or regions and how those policies are designed
+and what institutional setups those policies create in dif-
+ferent countries. This framework of policy diffusion (in
+this paper referred to as policy transfer), is based on the
+analytical tools and conceptual contributions made by
+Dolowitz and Marsh [23, 24] on policy transfer analysis,
+as well as on the complementary literature. It draws
+from an analysis of three case studies on RE in Uganda,
+Peru, and Thailand and is structured as follows. Section 
+2 of the paper reviews briefly the links between institu-
+tions, technology change, and policy transfer as a strat-
+egy for low-carbon technology deployment. Section 3
+provides the overall approach and framework for the
+comparative analysis. Section 4 includes the results of
+the analysis and aims to shed some light on how policy
+transfer operates. The analysis will look at the causes
+and motivations behind policy transfer, the actors in-
+volved in the processes, the object of the transfer, the
+spatial and temporal scale, the mechanisms, the drivers
+and barriers observed in the processes, as well as the
+success or failure and the stages of policymaking in
+which policy transfer takes place.
+The paper contributes to improving the understanding
+of how technology transfer, as an external intervention,
+connects with ongoing internal processes and institu-
+tional conditions at the national and local level.
+The paper focuses particularly on feed-in tariffs and
+renewable energy auctions as policy instruments to be
+analysed due to the significance of those instruments in
+the three case study countries and the prevalence of
+these instruments among renewable energy policy in-
+struments used in the EU and around the world [25].
+Conceptual foundations of policy innovation,
+policy diffusion and policy transfer
+In order to meet the objectives of the Paris Agreement
+(PA), fundamental changes in how we produce, distrib-
+ute and consume goods and services are necessary to
+allow for rapid decarbonisation [26]. These transforma-
+tions are often summarised as transition pathways from
+one system to another, for instance from a carbon-
+intensive economy to a low-carbon one [27].  However,
+this transformation is subject to various challenges. For
+instance, new mitigation technologies are initially more
+expensive than their fossil fuel-based counterparts even
+though learning curves and constant innovation have
+made renewable energies cost-competitive in many parts
+of the world [28]. Moreover, vested interests in preserv-
+ing high-carbon practices and habits or dominant ‘re-
+gimes’  as they are called in the literature [27, 29, 30]
+present stumbling blocks on those transition pathways
+since those regimes often benefit from historic institu-
+tional support [29, 31].  In order for new technologies
+and new practices to successfully challenge those old re-
+gimes, it is therefore important to either change the eco-
+nomics of those new technologies (i.e. make them
+cheaper) or to change the institutional set-up to level
+the playing field. Here, institutions are understood from
+a social science perspective namely as the rules, norms,
+and behaviors that sustain social structures such as reli-
+gion, family networks or government agencies [32]. For
+instance, EU power markets, for decades designed
+around centralised, fossil-fuel-based electricity, will have
+Page 3
+Bößner et al. Sustainable Earth (2020) 3:2  Page 3 of 18
+to be adapted to an increasing share of flexible, de-
+centralised renewables production to meet EU emission
+reduction targets [33, 34].  New institutional set-ups,
+manifest in a re-arrangement of competencies of actors
+involved, as well as new policies, will have to be found.
+Therefore, besides technological innovation, policy
+innovation is needed to reflect new realities. For in-
+stance, policy mechanisms can shield nascent (or niche)
+technologies from market forces and allow for experi-
+mentation, a process which is often referred to as ‘niche
+management’  [35, 36].  Besides shielding new technolo-
+gies, policymakers can also take an active role in creating
+markets for technologies thus providing a demand ‘pull’
+in addition to a technology ‘push’ [37]. Other strategies
+involve increased research and development (R&D)
+spending in the nascent phase of technology innovation
+or rendering new, innovative technologies more visible
+by, for example, adopting informational policies [37].
+In that sense, technological innovation cannot be suc-
+cessful without policy innovation. It is worth noting that
+a successful process of policy innovation will depend
+largely on the adaptive capacity of the country to absorb,
+assimilate and harness the knowledge regarding low-
+carbon technologies. This ‘adaptive efficiency’  refers to
+the willingness and ability of a society to acquire new
+knowledge, to innovate, to take risks through experimenta-
+tion, and to eliminate failed political and economic organi-
+zations and institutions that produce inefficient or unfair
+outcomes [38].
+Policymakers and other innovation system actors, the
+prime movers of such institutional setups, have at least
+two options to adapt institutions to their needs. They
+can look at past national experiences from similar prob-
+lems and try to adapt those past experiences to current
+issues, or they can look beyond their own jurisdiction
+and see how other policymakers in other countries or re-
+gions responded to similar problems [23, 39].
+This looking beyond national borders is indeed the
+core of this paper, which investigates what happens
+when policies spread from one place to another, a
+process that is somewhat analogous--and/or coincident
+with--the spread of technologies. Before elaborating on
+the intellectual framework applied in the case study, it
+is, however, useful to describe some differentiation in
+the literature.
+Policy transfer
+Policy transfer is commonly defined as when ‘[…] know-
+ledge about policies, administrative arrangements, institu-
+tions and ideas in one political setting (past or present) is
+used in development of policies, administrative arrange-
+ments, institutions and ideas in another political setting’
+[24].  Often, countries where policies originated are re-
+ferred to as ‘lender’ countries while countries adopting the 
+transferred policies are often referred to as ‘borrowers’
+[24]. However, the question of whether and how policies
+cross jurisdictions is not a new one, and several different,
+related concepts can be found in literature.
+For instance, Rose [39],  speaks of ‘lesson drawing’
+which emphasises the voluntary nature of the process
+([39],  p. 9).  Furthermore, lesson-drawing implies a
+process of prospective evaluation, which not only en-
+compasses the assessment of the policy already being
+implemented, but also the appraisal of whether this pol-
+icy can be successfully implemented in the borrower
+country [39]. Policy convergence, another concept, simi-
+larly preoccupied scholars from the early 1990s and tried
+to answer the question if and why countries become
+more alike in their governance of societal issues, be it
+due to elite networks, harmonization of policies or emu-
+lation in an ever increasingly connected world [40].
+Policy transfer vs. policy diffusion
+Another concept, sometimes used interchangeably with
+policy transfer, is policy diffusion. Marsh and Dolowitz
+argue that while policy transfer literature would emphasise
+agency, policy diffusion literature would emphasise the
+structural causes (government set ups, economic pressure,
+media landscape etc.) of policies crossing from one juris-
+diction to another [20]. Both strands of literature would
+have large commonalities as both would identify four
+methods of policy diffusion/transfer, namely (1) mimicry
+(to seem more progressive for instance);  (2) coercion
+(think of policies imposed by international lenders on
+Greece during the financial crisis);  (3) learning (lesson
+drawing from the success or failure elsewhere) and (4)
+competition (such as lowering taxes and red tape to at-
+tract investment) although evidence for some methods re-
+mains patchy at best [20].
+It is clear from the description above, that all of these
+concepts - policy diffusion, policy transfer, lessons learn-
+ing and policy convergence - are strongly interrelated
+concepts. Some focus on the question of “what” is trans-
+ferred (policy diffusion) while others are more occupied
+with the question of why (convergence, lessons learning).
+All of the concepts offer some explanatory values spe-
+cific to them, but we chose to base our further analysis
+on the Dolowitz and Marsh model since it has a strong
+conceptual foundation and has been developed by iter-
+ation, drawing on the range of concepts. Following
+Dolowitz and Marsh, we will use the term “policy trans-
+fer” throughout the following sections.
+Analytical framework and comparative analysis of
+policy transfer
+The comparative analysis of policy transfer developed in
+this section is structured mainly around the set of ana-
+lytical and developed by Dolowitz and Marsh [23, 24].
+Page 4
+Bößner et al. Sustainable Earth (2020) 3:2  Page 4 of 18
+This analytical framework, in turn, gathers contributions
+from the literature in the fields of policy diffusion, policy
+transfer, and policy convergence as well as from other
+sources in policy comparative studies and international
+studies (Rose 2001, [39–43]).
+While theoretical reflections about policy transfer in-
+vestigate how to conceptualise the transfer of policies
+and institutions from one country to another, the analyt-
+ical framework elaborated by Dolowitz and Marsh pro-
+poses several attributes which make analysing policy
+transfer more concrete and systematic. The authors sug-
+gest that in order to better understand the transfer of
+policies, one could look first at why policies are transferred
+and at whether it was a voluntary transfer or a more coer-
+cive one. Other criteria to look at is who is involved in the
+transfer (which stakeholders),  and what instrument (pol-
+icies, entire programmes or lessons) is transferred. Dolowitz
+and Marsh also suggest to investigate at which level the
+transfer happens (within a nation, between nations) and to
+also analyse the constraints of the transfers and the motiva-
+tions for the transfer (all based on [23]; and [24]).
+However, in order to make this framework more flex-
+ible to our case study contexts, we chose to both sim-
+plify their model to reflect the different socio-economic
+contexts of the case study countries, but also to enrich it
+with several attributes to further our understanding of
+the policy transfer process. The principal expansion we
+make to the framework is to look at which stage of the
+policy making cycle [44] policy transfer might happen, a
+step of analysis not found in Dolowitz and Marsh.
+Our analytical framework addresses the key aspects of
+policy transfer and contains the following categories:
+“causes and motivations”,  “actors”,  “object of transfer”, 
+“temporal and spatial scale”,  “mechanisms of transfer”,
+“drivers and barriers”, “policy success or failure” as well
+as the “policy-making stage” of the policy transfer.
+Figure 1 provides a graphic representation of our analyt-
+ical framework. In section 4, each category contains a
+table showing the specific criteria used in our analysis.
+These eight analytical attributes of the policy transfer
+process were applied to case studies, as discussed in the
+section below, which also gives an overview of the
+methods applied and provides some case study context.
+Approach, methodology and case study context
+Following the literature review (included in section 2)
+and development of the initial research, three country
+case studies were chosen using recent or current policies
+and institutions that could be compared. The cases iden-
+tified were in Uganda, Thailand and Peru, based on the
+following criteria:
+ The aim of geographical diversity to help to provide
+a global perspective;
+ Different socio-economic levels, including two
+middle income (Peru, Thailand) and one
+low-income country (Uganda) as compared to
+high-income EU countries;
+ Experience with different renewable energy
+instruments, specifically that renewable energy
+auctions and feed-in tariffs were considered and/
+or used;
+ Engagement in international cooperation, including
+with EU member states, where feed-in tariffs and
+renewable auctions were common policy
+instruments; and
+Fig. 1 Analytical framework for policy transfer processes. Source: Authors’ elaboration based on Dolowitz and Marsh [23, 24]
+Page 5
+Bößner et al. Sustainable Earth (2020) 3:2  Page 5 of 18
+ Participating researchers had some experience in
+these countries.
+The main research questions were then applied to the
+country cases: 
+place, if so, who the important actors were and what in-
+stitutional arrangements influenced Thai renewables
+policies. In Thailand, 12 stakeholders were engaged and
+a series of semi-structured interviews were conducted in
+April 2017 in Bangkok, Thailand.
+ How is policy transferred from one jurisdiction to
+the other?
+ Which are the important actors that facilitate that
+transfer?
+ How do the policies and institutional arrangements
+in the “borrower” country differ from the policies
+and institutional arrangements in the “lender”
+country?
+ Are there discernible differences between the three
+countries in the way they borrow or receive policies
+and/or institutions?
+Semi-structured stakeholder interviews conducted in
+the three case study countries are the primary sources for
+the analysis to address our research questions. Stake-
+holders in the three case studies included development
+agencies, academics, development banks, electricity regu-
+latory authorities, and independent consultants. Based on
+material gathered during those stakeholder engagement
+processes along with background literature, we analysed
+the policy transfer process using the adapted Dolowitz
+and Marsh model in the three case studies. The policy
+context for the three country cases are introduced briefly
+below. Where information on case studies came from the
+literature, sections below will indicate the corresponding
+papers. Otherwise, sources of information are stakeholder
+interviews.
+Thailand
+Thailand’s successful economic growth in recent years
+did not only drive up emissions [45] but raised concerns
+of the country’s energy security [46] due to the country’s
+increasing energy consumption. Although Thailand still
+sources its energy needs to 88% from fossil fuels, the
+12th National Economic and Social Development Plan
+for the period of 2012 to 2027 calls for the country to
+move towards a low carbon society [47]. Based on those
+concerns about sustainability but also about energy se-
+curity, Thailand experimented early with support instru-
+ments for renewable energy. In 2007, the so-called
+“Adder programme” was launched which guaranteed re-
+newable energy producers a top-up of the regular stand-
+ard tariff. This adder scheme was later replaced by a
+fixed FiT in 2013 while competitive bidding for FiT con-
+tracts was introduced between 2016 and 2017. It was
+this period and the evolution from the Adder to the FiT
+programme which was the subject of the analysis focus-
+ing on the questions whether policy transfer had taken 
+Uganda
+Similar to the Thai case study, we looked at the transfer
+process which occurred when the country designed and
+implemented a FiT scheme for investment in on-grid RE.
+This policy was an important step since rural electrifica-
+tion rates were at a low 10% in 2014 [48]. The elaboration
+and adoption of Ugandan FiTs can be separated into three
+different phases with the first one beginning in 2007. Each
+phase exhibited different institutional arrangements and
+different engagements with other jurisdictions and inter-
+national entities. Especially phase II and II (2010–2011
+and beyond) saw increasing cooperation with other, non-
+Ugandan actors such as the German Development Bank,
+the Kreditanstalt für Wiederaufbau (KfW), which led to
+the adoption of the Global Energy Transfer Feed-in Tariff
+programme (GET-FiT) which attracted some significant
+RE investment. In Uganda, semi-structured interviews
+were conducted with 14 stakeholders ranging from the
+representative members of energy regulatory authority, bi-
+lateral development bank, multinational consultancy,
+international research organization etc.
+Peru
+The Peru case study looked at the design process of RE
+auctions as a support instrument for RE in the Latin
+American country. Interestingly, besides increasing na-
+tional pressure by citizens and NGOs for clean energy
+sources and a fruitful trip of then vice minister of en-
+ergy, Pedro Gamio, to Germany from which he returned
+as a staunch supporter of renewables [49],  it was also
+international pressure which influenced the Peruvian re-
+newables policies. In 2006, Peru and the United States of
+America negotiated a trade promotion agreement which
+specifically asked for the adoption of stringent environ-
+mental policies [50].  For the Peruvian case study, we
+conducted 25 semi-structured individual interviews and
+a group interview with 13 specialists.
+Results: Causes and motivations for policy transfer
+Before describing case study results across the eight ele-
+ments of the analytical framework, it is important to
+note that concepts like policy transfer are at best an
+illustration of the real-world process of policymaking be-
+yond borders. In practice, as we will show, policies are
+not always only ‘imported’ from the industrialised North
+to the less-industrialised South. This north-south per-
+spective neglects the fact that often, policies are dis-
+cussed, designed and implemented to respond to specific
+Page 6
+Bößner et al. Sustainable Earth (2020) 3:2  Page 6 of 18
+national characteristics as much as international influ-
+ences. Furthermore, a North-South perspective some-
+how assumes reduced agency of local policymakers who
+are simply ‘policy takers’  from policy ‘makers’  in other
+countries. This rather dichotomic framing of policy
+transfer does not correspond to the realities on the
+ground where policies respond to both domestic and
+international developments and where the flow of com-
+munication is not always only from the North to the
+South but also from the South to South and sometimes
+even from South to North. This was particularly evident
+in the Ugandan case, as described in section 4.2.2. How-
+ever, for the sake of clarity and for the purpose of ad-
+dressing our research questions in a systematic manner,
+this paper focuses primarily on examples where policies
+flowed from the North to the South, highlighting where
+relevant the broader flows of information in the process
+of policy transfer.
+Causes and motivations
+The first analytical element of our framework addresses the
+motivation for policy transfer, i.e. the question of why ac-
+tors engage in policy transfer. According to Dolowitz and
+Marsh, policy transfer can be a voluntary and a rational
+process, by which actors learn from another political setting
+as a rational and intentional decision aimed at addressing a
+recognized problem or issue. However, policy transfer can
+also derive from external pressures, like the direct impos-
+ition of policies from one jurisdication to another. More
+often, however, a mix of both, coercive and voluntary ele-
+ments, can be observed. Accordingly, policy transfer can be
+understood as a continuum between the two extremes of
+coercion and voluntariness [23, 24]. Figure 2 provides an
+overview of what drives policy transfer. 
+One can see that there are many motivations and trig-
+gers for a policy transfer to occur. While some of them
+are more coercive in nature like ‘economic pressure’, for
+example exercised when international financial organisa-
+tions such as the International Monetary Fund (IMF) de-
+mand the implementation of certain policies in exchange
+for loans, others are more voluntary in nature such as
+using evidence and experiences from abroad to legitim-
+ate domestic decisions taken [23].
+Thus, legitimization, functional interdependence be-
+tween countries, the velocity of technological change,
+the competition between countries (e.g. for leading the
+trends of modern policies), as well as the pressure of the
+political economy between countries, and the trends and
+challenges in the international agenda, all are important
+causes of policy transfer [23, 24].
+Our analysis showed several different causes and moti-
+vations in our case study countries– some more voluntary,
+some more coercive - for policy transfer in the field of re-
+newable energy policy in case study countries (Table 1).
+In the case of Peru, both voluntary and coercive el-
+ements were present during different stages of the
+process. In the first stage, voluntary lesson-drawing
+and prospective evaluation of renewable energy pol-
+icies were carried out by public and private actors.
+Stakeholders specifically mentioned the leadership of
+the ministry of energy and its vice minister, Mr. Pe-
+dro Gamio, who visited countries like Germany to
+learn about renewable energy and who himself was an
+energy law consultant before becoming a  policy
+maker [49].  In addition, the growing awareness about
+the country’s vulnerability to climate change impacts
+after the release of the Stern Review in 2006 and the
+ensuing domestic political debate indicates that policy
+Fig. 2 Causes and motivations as a continuum between pure coercive and pure voluntary policy transfer. Source: Authors elaboration based on
+Dolowitz and Marsh [23, 24]
+Page 7
+Bößner et al. Sustainable Earth (2020) 3:2  Page 7 of 18
+Table 1 Principal causes and motivations for policy transfer concerning RE
+Countries  Peru
+Causes/motivations
+Pure Voluntary causes
+Mixtures  Legitimation  Ka
+Electoral Context
+Uncertainty  ✓
+Externalities
+Technological Change
+Economic Pressures  K
+Competition
+International Consensus/ trends  K
+Others
+Pure coercive causes
+Source: Authors’ elaboration based on Dolowitz and Marsh [23, 24]
+aThe letter K refers to key causal factors observed over the policy transfer process 
+Thailand
+K
+✓
+K
+✓
+✓ 
+Uganda
+✓
+K
+✓
+✓
+Collaborative
+transfer also involves uncertainties and international
+trends as causal factors.
+However, during the second stage of the policy transfer,
+coercive factors became more prominent. In 2006, Peru
+signed a trade agreement with the United States of America
+(the ‘United States-Peru Trade Promotion agreement’)
+which made the upgrade of Peruvian environmental gov-
+ernance part of the trade deal and as a result, a renewable
+energy support act (Legislative Decree 1002) was imple-
+mented. This exogenous pressure, combined with inter-
+national trends on climate change mitigation policies also
+led to the creation of the Ministry of Environment in Peru.
+In the case of Thailand and Uganda, the cause of the
+policy transfer seemed to be more voluntary in nature.
+In Thailand, energy security concerns have been a main
+driver as well as the objective to legitimise a renewable
+energy goal. Thailand’s successful economic growth dur-
+ing the previous decades had resulted in a rapid and
+steady increase in energy consumption while domestic
+reserves were insufficient to meet the rising demand,
+covered largely by imports of natural gas [51, 52]. The
+need to shift away from reliance on rapidly dwindling
+domestic natural gas and lignite resources while also re-
+ducing dependence on expensive and potentially inse-
+cure energy imports led to structural reforms aimed at
+reducing imports, enhance energy conservation and
+boost renewable energy uptake.
+In this context, the policy transfer process was primar-
+ily to legitimize the policy goal of increasing the share of
+renewable energy to 8% by 2011 [53, 54]. RE received a
+further boost after the change in government in 2001, as
+well as by the broad support of the government after the
+coup d’état in 2006, which updated the national energy
+policy to establish a Feed-in Premium (FiP) (called
+‘Adder’) for Renewables energies (RE) [55–57]. 
+Similar to Thailand, energy security concerns were im-
+portant for introducing a new RE support policy and for
+attracting private investments in the renewable energy sec-
+tor in Uganda. The country suffered major consecutive
+droughts in the period between 2005 and 2007, which put
+stress on the hydropower system, the main source of elec-
+tricity in Uganda. Combined with high oil prices, high
+diesel generation costs and a shortfall in the electricity sup-
+ply, this led to an urgent need to diversify energy supply
+and to exploit the potential of modern technologies. In this
+way, uncertainty with regards to energy supply coupled
+with the need to reduce reliance on emergency thermal en-
+ergy created a fertile ground for FiT policies to be intro-
+duced. In addition, some Ugandan policymakers and the
+national Electricity Regulatory Authority (ERA) sought to
+legitimize their RE policies by looking to other countries
+(especially Germany, Spain) in order to draw lessons.
+A comparison between the three countries reveals,
+that motivations for a policy transfer were rather dif-
+ferent. Uganda and Thailand were concerned with en-
+ergy security and uncertainties evolving around
+energy access, while environmental concerns were
+high on the agenda in Peru. Also, the implementation
+of Peruvian renewable support instruments seemed to
+be more related to international pressure since the
+US-Peru trade agreement had some significant influ-
+ence on environmental regulations and the subse-
+quent adoption of renewable support instruments.
+Relevant actors in all three countries (see below)
+looked for lessons learnt to other, mainly European
+countries with Germany being often quoted (and in-
+deed visited) to learn about renewable energy support
+instruments. This look beyond national borders was
+often done in order to lend legitimacy to domestic
+policies, especially in Peru and Thailand.
+Page 8
+Bößner et al. Sustainable Earth (2020) 3:2  Page 8 of 18
+Actors involved in the policy transfer process
+When it comes to policy transfer, a wide array of actors
+can participate in the process. Although policymakers
+usually take the most prominent roles, other actors such
+as non-governmental organisations (NGOs) or private
+sector players do influence the process as well. Often, the
+roles of the actors, their influence on the policy transfer
+process and their configuration changes along the way.
+The Dolowitz and Marsh model identifies nine groups of
+actors involved in the policy transfer process: elected offi-
+cials, political parties, bureaucrats and civil servants, pres-
+sure groups (which can sway the government’s policies
+from outside government [58]), policy entrepreneurs and
+experts, transnational corporations, supra-national organi-
+zations (with strong influence as information dissemina-
+tors and advocator of key policy issues at the international
+level), think tanks and consultants.
+When looking at the case studies, our analysis, based on
+stakeholder engagement, showed that the role of actors in
+the policy transfer process varies depending on the stage
+the policy transfer is in – from initial elaborations to final
+adoption – and on whether the policy transfer is more
+voluntary or more coercive in nature. Moreover, different
+actors can intervene in the policy transfer process either
+by advancing the policy transfer or by hindering it, de-
+pending on their stated interest and their power to do so.
+Often, those cleavages run along the regime-niche dichot-
+omy, as it was the case in Thailand where incumbent ac-
+tors of the fossil fuel-based regime initially opposed
+regulation to support RE (Table 2).
+Actors in favour of policy transfer concerning renewable
+energy
+In the first stage of the policy transfer in Peru, political
+parties, bureaucrats/civil servants, pressure groups and
+foreign governments were involved in the development
+of a regulatory framework for the promotion of RE. 
+Although the support of political parties in the Congress
+was limited, bureaucrats advocated and elaborated sev-
+eral proposals for a regulatory framework, while some
+pressure groups such as NGOs, international develop-
+ment partners, networks, and associations as well as uni-
+versities supported the institutional change towards
+green energy. To this voluntary action of mainstreaming,
+lesson-drawing and advocacy on renewable energy, key
+coercive components intervened in the process in a sec-
+ond stage, namely because of the trade negotiations
+mentioned above.
+In the last stage, predominantly voluntary, the role of
+actors was centred on the design and the implementa-
+tion of the support scheme. Thus, three main actor
+groups were involved: bureaucrats/civil servants, consul-
+tants, and foreign governmental bodies. Bureaucrats
+from the Vice Ministry of Energy pre-defined the type of
+support scheme that was going to be further developed
+and adopted in Peru and decided on renewable energy
+auctions. The final design of the support scheme came
+mainly from government officials in the Ministry of
+Energy and Mines (MEM), the Regulatory agency for the
+energy and mining sector-Organismo supervisor de la
+inversion en Energía y Minería (OSINERGMIN), consul-
+tants, state agencies, power companies and foreign orga-
+nisations such as the Gesellschaft für Internationale
+Zusammenarbeit (GIZ) from Germany, a large coalition
+of actors when it comes to policy transfer in Peru.
+In the case of Thailand, the type and role of the actors
+were also related to the stage of the policy transfer as
+well as to the fact that the transfer process was largely a
+voluntary one, based on lesson-drawing, particularly
+from RE support programmes in Germany and the UK.
+In the first stage of the development and evolution of
+Thailand’s FiT policy for RE (the Adder programme),
+many actors participate in the process of developing the
+Adder scheme. Elected officials, such as the former
+Table 2 Actors involved in the policy transfer process concerning renewable energy
+Countries Actors  Peru
+Elected officials
+Political parties  ✓
+Bureaucrats/civil servants  K
+Pressure groups  ✓
+Policy entrepreneurs/experts  ✓
+Transnational corporations  ✓
+Supra-national organizations
+Think tanks
+Consultants  ✓
+Others  K- [Foreign Governments (US)]
+Source: Authors’ elaboration based on Dolowitz and Marsh [23, 24]
+*The letter K references to key actors in the policy transfer process 
+Thailand
+K*
+✓
+✓
+✓
+K
+✓
+✓ 
+Uganda
+K
+K
+✓
+✓
+✓
+✓
+Page 9
+Bößner et al. Sustainable Earth (2020) 3:2  Page 9 of 18
+Ministers of Energy contribute decisively to legitimizing
+the Adder program and civil servants of governmental
+agencies such as the Department Alternative Energy De-
+velopment and Efficiency (DEDE) and the Energy policy
+and planning office (EPPO) were very active in the
+process of designing renewable energy policies. It is im-
+portant to note, that delegations from the ministry of
+energy as well as from EPPO took part in a tour
+throughout Europe in order to learn from those coun-
+tries’ experiences with RE support instruments.
+Pressure groups including power utilities and private
+small power producers interested in grid-interconnection
+of small-scale RE also had a relevant role in the policy
+transfer process. The private power producers, though not
+involved in the earlier phases of policy transfer, exerted a
+certain influence in the later phases of public consultation
+to modify Thai FiT policy as well as for its substitution
+with RE auctions between 2013 and 2017. Likewise, policy
+entrepreneurs and experts from policy research institu-
+tions, universities and local NGOs were involved a great
+deal in the learning processes and recommending the suit-
+able RE instruments as well as giving suggestions to adapt
+the FiT policy according to the Thai context. Finally, think
+tanks played a relevant role in policy lesson-learning in
+the early phase of transfer, and in regulations drafting for
+the Ministry of Energy while international agencies partic-
+ipated in the policy transfer process, mainly acting as pol-
+icy consultants.
+As for the case of Uganda, the principal actors involved
+in designing RE support policies – which one could group
+into three distinct phases - were the ERA, policymakers
+from the Ministry of Energy and Mineral Development
+(MEMD), as well as external consultants especially during
+the Phase II of the FiT program and Phase III (GETFiT)
+according to interviews stakeholders. In the first phase of
+the FiT, which was exploratory in nature (Uganda being
+among the first African countries to introduce FiTs), ERA
+and MEMD were driving the process of policy adoption
+and diffusion. The instrument was inspired by the Ger-
+man FiT model which was chosen as a model over a US-
+style instrument of renewable energy standards. Moreover,
+German institutions such as the GIZ/KfW were in talks
+with Ugandan policy makers about the potential design of
+the policy instrument. Other actors, while not directly in-
+volved, created an environment conducive to RE support
+policies through their advocacy for liberalization and
+power sector reforms. The FiT in the first phase built on
+this core principle: promoting decentralized and small-
+scale power generation by independent players. In this
+phase, ERA and MEMD focused on legitimizing the FiT
+program. In determining the FiT rates, the elected officials
+and political pressure groups played an influential role. In
+Phase II of the Uganda Renewable Energy Feed-In Tariff
+(REFiT),  external consultants such as CAMCO were 
+involved to review the FiT and provide expert judgment.
+This also served the purpose of convincing those stake-
+holders which resisted (elected officials) and of legitimizing
+the policy instrument. Quite interestingly, CAMCO also
+brought with them some expertise from their experiences
+with FiTs in countries such as South Africa. Therefore, one
+could argue that the policy transfer process in Uganda was
+not only between the global North and the global South,
+but also between to Southern countries.
+Phase III combined a FiT premium scheme with RE
+auctions and external consultants, independent advisors
+and organizations such as The United Nations Environ-
+ment Programme (UNEP),  the Frankfurt School of
+Finance and Management and the German GIZ played
+an influential role in shaping and implementing the pol-
+icy instrument. Together with local consultancies such
+as CAMCO, they were involved in drawing on key les-
+sons and experiences (both positive and negative) from
+Germany and South Africa (in particular), adapting and
+matching the different ideas to suit the local economic
+and political context, and also providing support in
+building capacities of the local institution to be able to
+successfully implement the policy/program.
+Actors against and resistance to policy transfer concerning
+RE
+However, actors can not only play a supporting role for pol-
+icy transfer processes to take place, but can also hinder the
+process. Often, those actors assuming a more hindering
+role are found in the fossil fuel-based regime, which often
+opposes or at least doesn’t support an increased renewable
+energy uptake. In the case of Peru, the main pressure group
+against RE penetration policy was the National Society of
+Mining, Oil, and Energy- Sociedad Nacional de Petróleo
+Minas y Energía (SNMPE), an industry association repre-
+senting oil, natural gas, and hydroelectric industry. Orga-
+nized in the SNMPE, the incumbents of the energy sector
+resisted the promotion of RE which was seen as a measure
+which would also introduce more competition to the en-
+ergy market. Other civil servants opposed or were resistant
+to the implementation of the regulations, such as bureau-
+crats from the MEM who considered hydro and thermal
+electricity production as the priority in Peru. Finally, al-
+though not in open opposition, Congress generally showed
+limited support for the various proposals to enact the regu-
+latory framework for RE [49, 59].
+In the case of Thailand, utilities, particularly the Electricity
+Generating Authority of Thailand (EGAT), were the princi-
+pal players opposing RE policies according to the stake-
+holders engaged. Interestingly, the structure of Thailand’s
+power market with a single vertically integrated utility, the
+state-owned EGAT, owning and managing the large major-
+ity of power generation assets and the entirety of the trans-
+mission network gives EGAT some significant leverage to
+Page 10
+Bößner et al. Sustainable Earth (2020) 3:2  Page 10 of 18
+oppose legislation for a more decentralised and diverse mar-
+ket. Not surprisingly, EGAT imposed a strong resistance to
+the policy transfer of RE support instruments.
+As for the case of Uganda, the opposition or resistance
+was not expressed outright by any consolidated interest
+group. Instead, it was expressed primarily by selected in-
+dependent elected officials who expressed concern about
+the tariff rates and the way those rates were calculated.
+Furthermore, there was resistance from one of the inde-
+pendent power producers, who was expecting a higher
+tariff rate. In the end, however, Uganda reached a com-
+promise as a result of stakeholder negotiations between
+ERA and the power producer.
+When comparing the actor coalition in the three
+countries, it is clear that policy transfer is often a multi-
+stakeholder endeavour. Different types of actors have in-
+fluenced the policy transfer and implementation process
+in all three countries, although the process is often
+driven by elected officials and national bureaucrats.
+International organisations have been playing a more
+prominent role in Peru where trade negotiations coin-
+cided with deliberations on renewable support instru-
+ments but both Thailand and Uganda also made use of
+connections with international entities such as the GIZ.
+Quite interestingly, the Ugandan policy transfer process
+incorporated insights from other sub-Saharan African
+countries, namely South Africa, thus conforming that
+policy transfer is often not a clear-cut North-South
+process where policies flow from the North to the South,
+but that lessons and best practice examples can also flow
+from Southern countries to other Southern countries.
+Nevertheless, Europe can still serve as an example.
+For instance, regime actors such as utilities and fossil
+fuel lobby organisations worked against implementing
+and transferring renewable energy support policies,
+particularly in Thailand and Peru, a situation not un-
+like the one experienced in Germany (see [60]). Ugan-
+dan regime actors seemed to have assumed a less
+confrontational role. 
+Object of the policy transfer
+When it comes to what exactly is transferred in policy
+transfer, there is a variation from an entire policy program
+is transferred, while in other cases, only a policy idea may
+be transferred. Moreover, even if a policy programme is
+transferred, the details and nature of the instruments and
+institutional set-ups which translate these programmes
+into action might differ in the borrowing country from the
+instruments in the lender country [24, 61].
+According to Dolowitz and Marsh, we consider eight
+categories for analysing the objects of transfer: policy goals,
+policy content, policy instruments, policy programmes
+(which, according to Dolowitz and Marsh are specific ac-
+tions to deliver on policies),  institutions, ideologies, ideas
+and attitudes and negative lessons (Table 3).
+In Peru, we observed that several objects had been
+transferred, namely the policy content, policy instru-
+ments as well as negative lessons learnt from renewable
+energy support in Spain and Germany. The knowledge
+for designing policies as well as the specific instruments
+to achieve the local renewables target was a central elem-
+ent of the policy transfer. For example, the Legislative De-
+cree 1002 contains some elements from the German
+“Renewable Energy Sources Act”,  the EU country’s well-
+known flagship renewable support instrument. Similarly,
+Decree 1002 contains elements from the Spanish Royal De-
+cree 436/2004 [49]. Experiences from Spain and Germany
+also provided important lessons on why RE auctions would
+be the most appropriate support scheme in the Peruvian
+context, with particularly the regulatory agency OSINERG-
+MIN gathering lessons learnt from Spanish and German
+partners in the implementation of their particular FiT
+schemes [62].
+In the case of Thailand, the implementation process of
+the Feed in premium (FiP) program Adder indicates that
+the chief objects of policy transfer were ideas and atti-
+tudes, negative lessons learnt and policy instruments
+themselves. The process began with a review of renew-
+able support instruments that were effective in a variety
+Table 3 Objects of the policy transfer
+Country
+Object of the P.T.
+Policy goals
+Policy content
+Policy instruments (tools for achieving goals)
+Policy programs (specific means of the course of action)
+Institutions
+Ideologies
+Ideas and attitudes
+Negative lessons (what does not work)
+Source: Authors’ elaboration based on Dolowitz and Marsh [23, 24] 
+Peru
+✓
+✓
+✓
+✓ 
+Thailand
+✓
+✓
+✓
+✓
+✓ 
+Uganda
+✓
+✓
+✓
+✓
+✓
+Page 11
+Bößner et al. Sustainable Earth (2020) 3:2  Page 11 of 18
+of countries, followed by the selection of those measures
+that were feasible in Thailand’s context, and in the end,
+several focused studies on selected instruments.
+In addition, the policy transfer process also processed
+lessons learned from the Renewable Portfolio Standard
+(RPS) scheme in the UK and from several states in the
+US, as well as lessons concerning China’s decision to
+shift from RPS to a FiT program. Finally, the policy
+instruments of FiT/FiP drew on key elements of the
+German FiT scheme, in particular, the price mechanism,
+in order to legitimize the Thai renewable energy policy.
+In the case of Uganda, the object of the policy transfer
+has been centred mainly on the policy goals, the policy con-
+tent and the policy instruments. Lessons from countries
+such as Germany were applied in the design of the instru-
+ment and helped to shape the specific context of the FiT.
+Besides some lessons from Germany, the Ugandan case also
+revealed that experiences from the US RPS scheme were in-
+corporated into the Ugandan FiT policy. Moreover, Ugan-
+dan regulators gathered information, ideas, and knowledge
+not only from instruments applied in the industrialised
+North but also from a number of developing country con-
+texts (including Brazil, South Africa and Sri Lanka) thus
+adding to the observation that sometimes, policy transfer is
+a process also happening from South to South.
+As was the case in Thailand, the FiT in Uganda also
+drew on the key elements of the German FiT scheme, in
+order to legitimize the RE policy. Furthermore, the Phase
+III i.e. the GET-FiT program drew heavily on the policy
+program developed by the Deutsche Bank Asset Man-
+agement Team in order to offer an innovative strategy
+for developing countries to attract capital in their RE
+sector. This program was modified and adapted to make
+it relevant to suit the local context. It was more than just
+a policy instrument; it encompassed a package of instru-
+ments, offering direct incentives, risk mitigation strat-
+egies, standard agreements and capacity strengthening of
+local institutions. Hence, while in the initial phases, the
+object of policy transfer remained limited to policy goals
+and policy instruments, the latter phase III broadened
+the instruments itself by adding elements such as risk
+mitigation strategies which go beyond traditional RE
+policies such as FiTs.
+Comparing what actually is transferred in the policy
+transfer process across case study countries reveals that 
+not only is policy transfer not always a journey from
+North to South but also that policies are rarely imple-
+mented without adaptation to local contexts. Indeed, all
+three countries, while seeking inspiration from abroad,
+spend some significant time to make the different pol-
+icies and programmes “work” in local contexts. During
+this process, negative lessons learnt in other countries
+proved to be an important factor in all three case study
+countries and elements of renewable support policies
+and strategies from abroad (Europe, but also Sub-
+Saharan Africa and Asia) found their ways into national
+policies and programmes, particularly in Peru.
+Spatial scale of the policy transfer
+With regards to the spatial aspect of the policy transfer,
+policymakers can look to three levels of governance: the
+international, the national and the local level. Not only
+can sub-national units of government draw lessons from
+each other but also the national government can draw
+lessons from lower levels of government, which in turn
+can draw upon the national government. Finally, the
+lesson can be drawn from the international level be it
+voluntarily or more in a coercive manner due to, for in-
+stance, economic pressure, as described above (Dolowitz
+and Marsh [23, 24] (Table 4).
+Our analysis shows that actors in all three case study
+countries looked to other countries for positive as well
+as negative experiences in RE development. Generally,
+those ‘borrowing’ countries were also those with a longer
+experience of FiTs although some inspiration was also
+sought in countries like Brazil or Sri Lanka.
+In the case of Peru, the policy transfer happened not
+only from abroad but knowledge was also acquired from
+local experiences. But as described above, Germany and
+Spain where the main jurisdictions, Peruvian policy
+makers drew lessons from, particularly when choosing
+renewable auctions as support instruments over fixed
+feed-in tariffs. Thus, the regulatory framework follows
+elements from German and Spanish legislation as a “hy-
+brid” with adaptations to the Peruvian context [49].
+In Thailand, Germany was also an important country
+when it comes to the transfer of knowledge and policies.
+However, the German experience was not the only juris-
+diction Thai stakeholders looked to for lessons when de-
+signing their policies. The UK, the USA and China also
+Table 4 Spatial scale of the lesson drawing
+From
+To 
+Germany Spain  EU  South
+Africa
+Peru (local experience) ✓  ✓
+Thailand (local experience) ✓  ✓
+Uganda  ✓  ✓  ✓
+Source: Authors’ elaboration based on Dolowitz and Marsh [23, 24] 
+UK  US  China
+✓✓✓
+✓
+Page 12
+Bößner et al. Sustainable Earth (2020) 3:2  Page 12 of 18
+provided for some inspiration. For example, the Chinese
+experience influenced the decision to switch to FiTs and
+the establishment of an independent regulatory agency in
+2008 is said to have been modelled after the UK’s office of
+Gas and Electricity Markets (OFGEM) [46, 63, 64].
+In the case of Uganda, the spatial scale heavily in-
+volved drawing positive and negative lessons from the
+experiences of Germany and Spain with regards to FiT
+and renewable auctions, and also lessons from the US
+with regard to Renewable Portfolio Standards (RPS).
+These lessons served as important sources of knowledge
+for choosing and designing the Ugandan FiT instrument.
+Also, successful experiences in South Africa with RE
+auctions influenced the implementation of phase III of
+Ugandan renewables support, Uganda being only the
+second country (after South Africa) which experimented
+with auctions.
+When looking at all three case study countries, it is clear
+that Europe, particularly Germany, has provided inspir-
+ation for local policy makers on how to design renewable
+energy support policies. Other jurisdictions such as the
+US, the UK or Spain also provided for some significant
+knowledge transfer. But besides this North-South transfer,
+the Ugandan case study shows that knowledge, ideas and
+lessons can also flow between countries of the global
+South while experiences in Thailand show that policy
+transfer might also happen often between countries which
+are geographically close to each other.
+Mechanisms of policy transfer
+One important part of the analysis is to address the
+question of how policy transfer is carried out, or how
+the mechanisms of policy transfer work [23, 24, 65].
+Dolowitz and Marsh propose several mechanisms of
+policy transfer: copying (which implies very little or no
+changes to the policy), hybridization and synthesis, emu-
+lation (which implies some adaptations to local contexts)
+and inspiration where little (or nothing) is actually
+drawn from other jurisdictions (Table 5).
+In the case of Peru, policy transfer was mainly carried
+out using inspiration and emulation as mechanisms. For
+example, inspiration was the mechanism of policy transfer
+during the period 2006–2008 when leading bureaucrats 
+from the MEM were inspired by solar and wind projects
+in Germany, which motivated them to launch similar pro-
+cesses to increase renewables penetration in Peru.
+Emulation was then used to design the regulatory frame-
+work and the design of the specific support scheme in the
+form of auctions based on experiences in Germany and
+Spain. Indeed, by choosing auctions over Feed-in tariffs,
+Peruvian stakeholders chose to adapt experiences from
+abroad to local contexts.
+In Thailand, the degree of transfer went from copying
+to hybridization, especially as for the design and imple-
+mentation of the FiP scheme, Adder. During the early
+phase (2002–2007), policymakers were keen on copying
+the German FiT policy that had proven successful for
+RE, but local political, institutional and market contexts
+such as the quasi monopoly of EGAT forced the policy
+transfer to involve some degree of adoption and adjust-
+ments. For instance, the regulatory and administrative
+design of renewable energy support drew on the experi-
+ence of the Thai Very Small Power Producer (VSPP)
+net-metering program and the policy transfer was finally
+implemented in a form that combined traits of German
+FiT policy with traits from Thailand’s previous Small
+Power Producers (SPP) bidding scheme and net-metering
+regulations.
+In Uganda, the transfer evolved from inspiration and
+emulation to hybridization. Similar to the experience in
+Thailand, regulators were inspired by the German FiT
+scheme in phase I, which played a key role in inspiring
+renewable support in Uganda. However, German RE
+policy instruments where not simply copied, but were
+modified to the Ugandan context and the support in-
+struments which were finally adopted did also include
+lessons learnt from other countries in the region such as
+South Africa and Rwanda. Nevertheless, German actors
+such as the KfW supported Ugandan government in set-
+ting up a programme which went beyond simple FiTs.
+As part of the new GETFiT programme, the World Bank
+could be called upon to issue partial risk guarantees to
+RE project thus lowering the risk profile, an instrument
+which goes beyond simple FiTs.
+A comparative view of the three case study countries re-
+veals that while initially the policy transfer might start out
+as a copying mechanism, experiences in Uganda, Thailand
+Table 5 Evolution of policy transfer mechanisms
+Policy transfer process
+Peru  2006→2007
+Inspiration
+Thailand  2002→2007
+Copying and emulation
+Uganda  2005→2007
+Inspiration
+Source: Authors’ elaboration based on Dolowitz and Marsh [23, 24] 
+2007→2008
+Inspiration
+2009→2013
+Emulation
+2007→2010
+Inspiration and Emulation 
+2008→2009
+Emulation
+2013→2017
+Hybridization
+2012→2014
+Emulation and Hybridization
+Page 13
+Bößner et al. Sustainable Earth (2020) 3:2  Page 13 of 18
+and Peru show that policies and support instruments are
+not transferred without modifications. Indeed, in every
+country, stakeholders soon adapted lessons learnt from
+other countries to local contexts in order to implement
+suitable RE support instruments, policies and programmes.
+Constraints on policy transfer
+When looking at policy transfer as a practice, it is also
+useful to investigate its constraints. Dolowitz and Marsh
+propose the following set of constraints or barriers: the
+level of complexity (assuming that the more complex
+the policy is, the more difficult the transfer will be), past
+policies (if innovation is hindered by those past policies),
+structural and institutional feasibility and a set of fea-
+tures which they call ‘ideology, cultural, proximity, tech-
+nology, economic, bureaucratic and language’.
+In our analysis we chose to supplement this constraint
+category with potential drivers of policy transfer,
+i.e. looking at what kind of factors might support the
+process (Table 6).
+In the Peruvian case, there were two main barriers re-
+lated to the policy transfer process. The first constraint
+was a mix of technology and ideological constraints
+since some pressure groups had been vocal in their op-
+position to RE support policies, citing economic reasons
+(RE was perceived as being too expensive) as well as
+technological reasons (RE was perceived as European
+model which was thought not to work in Peru because
+of lack of technical experience). The second main barrier
+was the availability of large reserves of natural gas and
+the high potential of hydroelectricity production, with
+both sources appearing more competitive and less bur-
+densome on the taxpayer compared to renewable energy
+and needed support schemes.
+However, there were also multiple drivers of the policy
+transfer process and many of them coincide with the differ-
+ent aspects of the causes and motivations observed above.
+For example, the external pressure to adopt the Legislative
+Decree 1002 in order to comply with the requirements of
+the US-Peru Trade Agreement can be considered an im-
+portant driver for Peruvian environmental policies and sub-
+sequently for policy adoption. Furthermore, and despite the 
+pressure from certain lobby groups, environmental aware-
+ness and lobby work by other stakeholders played a sup-
+porting role in the policy transfer process.
+The Thai case study revealed a somewhat complex
+picture, describing both barriers and drivers. Thai RE
+support policies clearly benefited from an active interest
+of policymakers and policy entrepreneurs within minis-
+tries who actively worked on renewable support policies,
+making use of political and bureaucratic resources. Ideo-
+logical features played a role as well since energy security
+was seen as a co-benefit of increasing the share of renew-
+able energy. On the other hand, stakeholder engagement
+in Thailand also revealed some barriers to renewable sup-
+port policies.
+One major shortcoming was the structure of the electri-
+city market which - in its centralized form and dominated
+by the state-owned incumbent utility EGAT - was seen as
+counter-productive to increased renewables uptake. Indeed,
+in this case, structural feasibility posed a constrain on the
+policy transfer process and limited regulatory resources
+were identified as a barrier. Those limited resources were
+also cited for the development of a lucrative secondary
+market for RE permits after the Adder programme was
+adopted, where permits would be traded amongst stake-
+holders, without capacity actually being build. In the same
+vein, the authority of the regulatory body was assessed as
+having insufficient powers to regulate RE uptake. Here, past
+policies and structural constraints clearly had a negative im-
+pact on the policy transfer process.
+In the case of Uganda, structural feasibility proved to be a
+driver and not a barrier to the policy transfer process. Ac-
+cording to interviewed stakeholders, a coherent, rather inde-
+pendently elaborated support framework for RE under the
+leadership of ERA but facilitated by international consultan-
+cies and institutions drove the policy transfer process for-
+ward. Nevertheless, along the way, a certain number of
+tensions arose between the independent regulator ERA and
+different ministries for instance about the tariff rates. Also,
+the failure to attract private investment in renewables in
+Uganda might have put a break on RE development in the
+first phase of the support policies, but lessons learnt were
+later used to build a large coalition with national and inter-
+national institutions in phase III to boost RE uptake.
+Table 6 Main drivers and barriers
+Complexity of the policy
+Constraints set by past policies
+Structural and institutional features
+Political, bureaucratic and economic resources
+Ideological and cultural features
+Source: Author’s elaboration based on Dolowitz and Marsh [23, 24]
+* Drivers (D)/Barriers (B) 
+Peru
+B*
+B/D*
+B*
+D/B*
+B* 
+Thailand
+B*
+B*
+D/B*
+D* 
+Uganda
+B*
+D*
+B/D*
+Page 14
+Bößner et al. Sustainable Earth (2020) 3:2  Page 14 of 18
+Comparing case study countries suggests that barriers
+which might arise during the process have the potential
+to stymie policy transfer. For instance, the complexity of
+policies in the lender countries often make it difficult for
+the borrower countries to adopt the same policies with-
+out significantly amending them and adapting them to
+local contexts. This make contextual factors such as how
+institutions are functioning and cooperating with each
+other a key factor of successful policy transfer. Also, pol-
+icy decision taken in the past, as seen in Thailand, often
+hinder policy transfer since for instance market struc-
+tures in the lender countries are more conducive to RE
+support than in borrower countries. Contextual factors
+such as the state of the economy were found in all case
+studies, while the Peruvian case was the most explicit in
+acknowledging how international pressure can influence
+the policy transfer process.
+Policy success and policy failure
+Whether policies and their transfer can be deemed “suc-
+cessful” and against which criteria such a success is to be
+measured is still debated in the literature. Nevertheless,
+Dolowitz and Marsh propose three factors which might
+have a negative impact on the policy transfer [23, 24].
+First, the borrowing country might have insufficient infor-
+mation about the policy, its institutions and how it oper-
+ates in the lending country, thus leading to uninformed
+transfer. They further suggest the category of incomplete
+transfer when essential elements of the borrowed policy
+are not transposed. Lastly, inappropriate transfer, would
+occur when contextual factors such as political, economic
+or even ideological ones are overlooked [24].
+As for the Peruvian case the process could be assessed
+as a successful policy transfer since the process was nei-
+ther uninformed, incomplete or inappropriate. Knowledge
+from abroad has been applied to the policy framework
+(e.g. Legislative Decree: DL 1002) and negative lessons
+and recommendations obtained from the interaction with
+actors in Germany and Spain for the design of the policy
+instrument informed the policy’s implementation.
+The fact that in Thailand, the FiT was transferred
+from abroad and that it has been adopted in Thai con-
+texts indicates, in general, a successful process. The
+short-term RE targets set in the energy policy 2008 were
+not fully achieved by 2011 [57] and the difficult institu-
+tional structure as well as the significant revision of FiT
+mechanisms, indicate some level of incomplete and in-
+appropriate transfer. Nevertheless, the policy’s imple-
+mentation helped to establish Thailand as a pioneer in
+renewables promotion in the region.
+In the case of Uganda, the analysis points to a general
+success of the policy transfer, across the three phases
+with some shortcomings in phase I, notably with attract-
+ing private investment in RE capacity. Private investment 
+gained traction in the later phases, when FiT premiums
+and auctions where implemented as well as in phase III,
+when the GETFiT programme came to fruition. Under
+the Phase III GET FiT program, 17 projects were im-
+plemented with a total installed capacity of nearly 160
+MW [66].
+Overall, all three countries have implemented RE support
+policies. This process was not necessarily a straight-forward
+one and bumps in the road necessitated amending and
+adapting the policies, particularly in Thailand and Uganda.
+However, the method used to analyse these case studies
+does not seek to assess whether policy transfer was indeed
+successful in boosting the share of renewable energies or
+whether it was successful from a socio-economic point of
+view. Rather, they focus on the process of policy transfer it-
+self, concluding that policies seem to have successfully
+transferred from one jurisdiction to another. Moreover, it
+might be argued that what constitutes a “success” when it
+comes to a policy transfer, is still open for debate.
+The transfer process and the policy making cycle
+This last category is an addition to the Dolowitz and
+Marsh framework (although actors discuss it as an area
+of further research) and is based on public policy theory
+and the commonly used policy cycle. In a nutshell, pol-
+icy making can be understood as a cycle, starting from
+agenda-setting and policy formulation,  leading to deci-
+sion making and implementation to finally evaluation of
+the policy [44].  Assessing when in the policy making
+process local policies are inspired by foreign policies and
+when lessons and knowledge is transferred thus gives a
+more complete understanding of how policies, lessons
+and knowledge flows from one jurisdiction to another
+(Table 7).
+In the case of Peru, elements from abroad influenced
+particularly the early stages of the policy making cycle.
+For instance, increasing environmental awareness in the
+wake of the Stern report led policy makers to look to
+other countries to find solutions to increase the share of
+renewable energies.
+Similarly, in Thailand, the clearest form of policy
+transfer was at the beginning of the policy cycle. Several
+stakeholders consulted argued that Thai governmental
+delegations were in contact with ministerial colleagues
+Table 7 Policy-making stage of the transfer process
+Peru Thailand Uganda
+Problem definition and agenda setting ✓  ✓  ✓
+Policy formulation  ✓  ✓  ✓
+Decision making and policy implementation ✓  ✓  ✓
+Policy evaluation  ✓  ✓
+Source: Author’s elaboration based on Dolowitz and Marsh [23, 24] and Jann
+and Wegrich [58]
+Page 15
+Bößner et al. Sustainable Earth (2020) 3:2  Page 15 of 18
+in the EU (such as German officials) as well as with in-
+stitutions such as the GIZ to learn from the German FiT
+experience. Nevertheless, once implemented, changes to
+the Adder program (and the replacement of the scheme
+with FiTs) have entailed some bilateral form of communi-
+cation as well, not only on the political level but also be-
+tween EPPO and German utilities. Therefore, while policy
+transfer might have been the strongest in the initial
+phase, the transfer might have happened throughout
+the policy-making cycle while at the same time, Thai
+policymakers clearly took into consideration national
+and local specificities.
+In Uganda, policy transfer was also the most promin-
+ent in the beginning of the policy making cycle. How-
+ever, elements of policy transfer were observed in the
+later stages, particularly during the evaluation of phase I
+where policy makers then reached out to international
+organisations and independent consultants to adapt
+international RE support policies to local needs.
+It is interesting to note that in all three countries, the
+beginning of the policy making cycle (problem defin-
+ition, agenda setting and policy formulation) were the
+most susceptible to the transfer of policies, lessons and
+knowledge from one jurisdiction to the other. However,
+the difficulty of quantifying those transfers and the in-
+sufficient sample size are not sufficient to make this a
+general conclusion.
+Discussion and conclusions
+Low-carbon technologies, including especially renewable
+energy technologies, need to be much more widely de-
+ployed in order to meet climate and energy policy goals.
+But technological innovation, while necessary, is only one
+aspect of this endeavour. The right policy environment has
+to be in place as well, to support technological innovation
+and increase the uptake of low-carbon technologies. Some
+countries joined the efforts on climate change and renew-
+ables earlier than others and have therefore acquired signifi-
+cant experience as to what works in terms of a facilitative
+policy environment. In the same vein, their experiences can
+also provide valuable lessons as to what did not function
+and what negative impacts (on society, on the economy
+etc.) were felt due to specific policies. It is therefore logical
+that countries with less experiences in one issue area look
+to those first mover countries for lessons learnt and know-
+ledge gained. When it comes to policies, this dynamic of
+lesson learning is often referred to as policy transfer.
+Our paper contributes to deepen the understanding
+of the policy transfer process by shedding light on
+many details of this process by comparing experiences
+in three case study countries on three continents.
+Further research will be needed to confirm or nuance
+our insights and the sample of three countries while
+illustrative is not sufficient to draw general 
+conclusions about cases of policy transfer in all con-
+texts. Nevertheless, several observations can be made.
+Our empirical findings show that policy transfer con-
+cerning support instruments for renewable energy tech-
+nologies has occurred in the three countries analysed
+and that the processes have followed different paths of
+learning and implementation.
+With regards to the causes and motivations behind
+policy transfer, we observed that efforts to legitimize cer-
+tain national policy decisions as well as the feared im-
+pacts of climate change proved to be key motivations to
+look for other countries’ experiences with tackling these
+issues. Also, uncertainty with regards to issues such as
+energy security (in the case of Thailand) and/or future
+climate patterns (in the case of Uganda) proved to be a
+prime motivation for the policy transfer process. As the
+case of Peru has shown, developments in the inter-
+national governance landscape such as trade negotia-
+tions can also have an impact, thus pointing to the fact
+that in some contexts, coercion might also play a role in
+the policy transfer process.
+When it comes to the different actors involved in the
+processes of a policy transfer, the empirical findings
+show that both actors from inside the government and
+actors from outside can play an important role. Likewise,
+the type and role of the actors were not the same in each
+stage of the policy transfer, pointing to the fact that dif-
+ferent stages – from problem definition to policy adop-
+tion- might encourage a different set of actors to
+become active. For example, while governmental stake-
+holders and bureaucrats in the administrations of studies
+countries often initiate the policy transfer, lobby groups
+or external experts and consultancies often join the
+process later on (Uganda, Thailand, Peru).  Sometimes,
+those external stakeholders are specifically invited in
+later stages to adapt policies from one jurisdiction to the
+specific circumstances on the ground (Uganda). It there-
+fore seems that policy transfer usually involves a rather
+large panoply of actors which can both hinder or drive the
+policy transfer process forward and whose configuration
+changes along the process of the transfer. Moreover, in all
+three case study countries we observed that stakeholders
+from lender countries were involved in the process.
+Concerning the object of transfer, policy goals, policy con-
+tent, policy instruments and lessons learnt based on the nega-
+tive experiences in the lender countries, are all present in the
+policy transfer processes of the three borrower countries ana-
+lysed. It is important to note, that lessons and best practice
+examples did not only come from OECD countries like
+Germany, Spain, the UK, or the US, but also from China (in
+the case of Thailand) and South Africa in the case of Uganda,
+thus pointing to a South-South conduit for policy transfer in
+addition to the more commonly studied north-south trans-
+fer. Nevertheless, Germany and its flagship energy transition
+Page 16
+Bößner et al. Sustainable Earth (2020) 3:2  Page 16 of 18
+laws were mentioned quite often by local stakeholders
+as a source of inspiration in all three case studies.
+When it comes to the mechanism of policy transfer, it is
+noteworthy that no transfer process was carried out by
+purely copying other countries RE support instruments. In
+Uganda and Peru, we observed an inspirational phase at
+the beginning of the policy transfer process while
+Thailand came closest to emulating German FiTs. How-
+ever, local circumstances soon made it necessary to adapt
+foreign policies to local contexts. This was the case in
+Thailand, where the support instrument had to be adapted
+to the highly centralised and monopolised electricity mar-
+ket and in Uganda, where RE support policies went be-
+yond simple economic instruments and also included
+adapting the institutional set up. In the case of Peru, the
+policy transfer process included two stages of inspiration,
+and a final stage of emulation, related to the policy regula-
+tory framework and design of the support scheme respect-
+ively. In the same vein, elements of policy transfer can be
+found in all stages of the local policy making cycle. How-
+ever, it seems that while information flowed from lender
+to borrower countries throughout the process, that the
+stages most susceptible to incorporate lessons and know-
+ledge from abroad where the stages of agenda-setting and
+policy formulation, although quantifying this dynamic is
+difficult and these observations remain anecdotal.
+Another observation to be made is that contextual
+factors in borrower countries (adopter countries) play a
+prominent role in the policy transfer process and can
+both constitute a barrier and a driver for those pro-
+cesses. For instance, renewable support in Peru was also
+hindered by the presence of large gas reserves (deemed
+to be cheaper) while the structure of the electricity mar-
+ket was deemed not very beneficial for RE deployment
+in Thailand, thus illustrating the importance of past pol-
+icies and institutional features impacting policy transfer.
+Economic issues such as increasing costs of renewable
+subsidies have been observed in Uganda, an experience
+not unlike the one in Germany where generous feed-in
+tariffs were not adapted to falling technology costs, thus
+driving up overall costs for society of the instrument.
+When it comes to the question of whether the policy
+transfer in the target countries was a success, our observa-
+tions, although qualitative in nature, point to a careful
+positive assessment. Although bumps have been observed
+along the way and policies had to be adapted to local con-
+text in a quite substantial manner, there was little evidence
+for uninformed, incomplete or inappropriate policy trans-
+fer. According to the Renewable Energy Policy Network,
+all countries still have dedicated RE support policies in
+place as of 2018 [25].
+Our study shows that the conceptual model of policy
+transfer offers a number of different analytical tools that
+facilitate an evaluation of the design and implementation 
+of different policies and institutions in one country or
+region can be applied in other countries or regions. This
+conceptual model and the comparative analysis of the
+three cases found that technology and policy transfer are
+more appropriately seen as continuous and evolving pro-
+cesses of change rather than one-off events. Furthermore,
+policy transfer is significantly influenced by contextual
+factors such as the institutional set up in the borrower
+country or economic factors. And while inspiration and
+knowledge are often sought in first mover countries in the
+OECD, who had some significant experience in RE sup-
+port, transferred policies had to be adapted to local con-
+texts, often in dialogue with a diverse set of stakeholders.
+Finally, it is worth mentioning that the speed of commu-
+nication and the increasing integration of information sys-
+tems around the world is likely to affect policy learning and
+policy transfer into the future. At the same time, there must
+be a willingness across different countries or regions for
+international cooperation in order for policies to be suc-
+cessfully transferred or for significant learning to occur.
+Abbreviations
+DEDE: Department of Alternative Energy Development and Efficiency;
+DL: Legislative Decree; EGAT: Electricity Generating Authority of Thailand;
+EPPO: Energy Policy and Planning Office; ERA: Electricity Regulatory
+Authority; ERC: Energy Regulatory Commission; EU: European Union;
+FiP: Feed-in Premium; FiT: Feed-in-tariffs; GET FiT: Global Energy Transfer
+Feed-in Tariff; GIZ: Gesellschaft für Internationale Zusammenarbeit;
+IMF: International Monetary Fund; IS: Innovation Systems; KFW: Kreditanstalt
+für Wiederaufbau; MEM: Ministry of Energy and Mines; MEMD: Ministry of
+Energy and Mineral Development; MLP: Multi-level perspective;
+NDCs: National Determined Contributions; NGO: Non-Governmental
+Organizations; R&D: Research and development; RE: Renewable Energy;
+REFiT: Renewable Energy Feed-In Tariff; RES: Renewables Energies;
+RPS: Renewable Portfolio Standard; SDGs: Sustainable Development Goals;
+SPP: Small Power Producers; TiS: Technological Innovation Systems;
+UNEP: The United Nations Environment Programme; US: United States of
+America; USAID: United States Agency for International Development;
+VSPP: Very Small Power Producer
+Acknowledgments
+The authors wish to thank all interview respondents and reviewers for their
+time and their valuable contributions. Harro van Asselt developed the initial
+concept for the analysis of policy diffusion and provided background
+material on energy and climate policies. Anne Nyambane (SEI) provided
+useful background material for the article. Clarisse Kehler Siebert (SEI)
+conducted a review and provided editing and reference support for an
+earlier version of the paper. Oliver Johnson (SEI) provided useful inputs and
+Aurélie Faure-Schuyer (CEPS) reviewed an earlier version of the paper.
+Authors’ contributions
+SB substantially re-worked and re-analysed many sections of the paper and
+added additional insights from the literature to create the final version of the
+paper, based on initial case study information and an earlier draft. TS
+established the initial comparative framework for the study, supervised the
+Master’s students who participated in the research, and provided initial
+material for the paper. AB further elaborated the conceptual framework for
+the comparative analysis and carried out the Peru case study. FXJ integrated
+the various components of the study and organised the structure of the
+paper and the comparisons. JERM developed a more systematic approach to
+the conceptual framework and comparisons and edited the case study
+materials further. MH conducted a case study in Thailand. PLB conducted the
+case study in Uganda. JH supported the case study in Uganda and
+provided material on technology transfer. All authors read and
+approved the final manuscript.
+Page 17
+Bößner et al. Sustainable Earth (2020) 3:2  Page 17 of 18
+Funding
+This project has received funding from the European Union’s Horizon 2020
+research and innovation programme under grant agreement No. 642242.
+Availability of data and materials
+There are no statistical datasets but results from interviews and related
+materials are available on reasonable request.
+Ethics approval and consent to participate
+The research was based on interviews and observations. Interviewees were
+aware of and approved the writing of this paper. All conclusions remain the
+sole responsibility of the authors.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Author details
+1Stockholm Environment Institute, Stockholm, Sweden. 2Amphos 21
+Consulting, Barcelona, Spain. 3Stockholm University, Stockholm, Sweden.
+4KTH Royal Institute of Technology, Stockholm, Sweden. 5Technical University
+of Denmark, Lyngby, Denmark.
+Received: 12 November 2018 Accepted: 28 November 2019
+References
+1.  Bodansky D. The Paris climate change agreement: a new hope? Am J Int
+Law. 2016;110(2):288–319.
+2.  IISD (2018). Earth Negotiations Bulletin- A Reporting Service for Environment
+and Development Negotiations 12 747. International Institute for
+Sustainable Development-IISD. Retrieved from http://enb.iisd.org/.
+3.  Nerini FF, Tomei J, To LS, Bisaga I, Parikh P, Black M, et al. Mapping
+synergies and trade-offs between energy and the sustainable development
+goals. Nat Energy. 2018;3(1):10.
+4.  Pradhan P, Costa L, Rybski D, Lucht W, Kropp JP. A systematic study of
+sustainable development goal (SDG) interactions. Earth’s Future. 2017;5(11):
+1169–79.
+5.  Audretsch DB, Lehmann EE, Wright M. Technology transfer in a global
+economy. J Technol Transfer. 2014;39(3):301–12.
+6.  Murphy K, Kirkman GA, Seres S, Haites E. Technology transfer in the CDM:
+an updated analysis. Clim Pol. 2015;15(1):127–45.
+7.  Ockwell DG, Mallett A, editors. Low-carbon technology transfer: from
+rhetoric to reality. Abingdon: Routledge; 2012.
+8.  Wahab SA, Rose RC, Osman SIW. Defining the concepts of technology and
+technology transfer: A literature analysis. Int Bus Res. 2012;5(1):61.
+9.  Adams R, Jeanrenaud S, Bessant J, Denyer D, Overy P. Sustainability-oriented
+innovation: A systematic review. Int J Manag Rev. 2016;18(2):180–205.
+10. Comin D, Hobijn B. An exploration of technology diffusion. Am Econ Rev.
+2010;100(5):2031–59.
+11. Mulder KF. Innovation for sustainable development: from environmental
+design to transition management. Sustain Sci. 2007;2(2):253–63.
+12. Popp D, Hascic I, Medhi N. Technology and the diffusion of renewable
+energy. Energy Econ. 2011;33(4):648–62.
+13. IRENA. The power to change: solar and wind cost reduction potential to
+2025: International renewable energy agency; 2016. Retrieved from: https://
+www.irena.org/publications
+14. IRENA. Rethinking energy 2017: accelerating the global energy
+transformation: International renewable energy agency-IRENA; 2017.
+Retrieved from: https://www.irena.org/-/media/Files/IRENA/Agency/
+Publication/2017/IRENA_REthinking_Energy_2017.pdf
+15. Lo K. A critical review of China's rapidly developing renewable energy and
+energy efficiency policies. Renew Sust Energ Rev. 2014;29:508–16.
+16. Battistella C, De Toni AF, Pillon R. Inter-organisational technology/
+knowledge transfer: a framework from critical literature review. J Technol
+Transfer. 2016;41(5):1195–234.
+17. Eleftheriadis IM, Anagnostopoulou EG. Identifying barriers in the diffusion of
+renewable energy sources. Energy Policy. 2015;80:153–64. 
+18. Lai PC. The literature review of technology adoption models and
+theories for the novelty technology. JISTEM-J Inf Syst Technol Manag.
+2017;14(1):21–38.
+19. Li Y, Sui M. Literature analysis of innovation diffusion. Technol Invest. 2011;
+2(03):155.
+20. Marsh D, Sharman JC. Policy diffusion and policy transfer. Policy Stud. 2009;
+30(3):269–88.
+21. Negro SO, Alkemade F, Hekkert MP. Why does renewable energy diffuse so
+slowly? A review of innovation system problems. Renew Sust Energ Rev.
+2012;16(6):3836–46.
+22. Shipan C, Volden C. Policy Diffusion: Seven Lessons for Scholars and
+Practitioners. Public Adm Rev. 2012;72(6):788–96.
+23. Dolowitz D, Marsh D. Who learns what from whom? A review of the policy
+transfer literature. Polit Stud. 1996;44:343–57.
+24. Dolowitz D, Marsh D. Learning from abroad: the role of policy transfer in
+contemporary policy-making. Governance. 2000;13(1):5–23.
+25. REN Secretariat (2019). Renewable 2019. Global status report. Available at: https://
+www.ren21.net/wp-content/uploads/2019/05/gsr_2019_full_report_en.pdf
+26. Rockström J, Gaffney O, Rogelj J, Meinshausen M, Nakicenovic N,
+Schellnhuber H. A roadmap for rapid decarbonization. Science. 2017;
+355(6331):1269–71.
+27. Geels F, Schot J. Typology of sociotechnical transition pathways. Res Policy.
+2007;36(3):399–417.
+28. IRENA. Renewable power generation costs in 2018: International renewable
+energy agency-IRENA; 2018. Retrieved from: https://www.irena.org/-/media/
+Files/IRENA/Agency/Publication/2019/May/IRENA_Renewable-Power-
+Generations-Costs-in-2018.pdf
+29. Geels F. Technological transitions as evolutionary reconfiguration processes:
+a multi-level perspective and a case-study. Res Policy. 2002;31(8):1257–74.
+30. Geels F. The multi-level perspective on sustainability transitions: responses
+to seven criticisms. Environ Innov Soc Transit. 2011;1(1):24–40.
+31. Carlsson B, Stankiewicz R. On the nature, function, and composition of
+technological systems. J Evol Econ. 1991;1(2):93–118.
+32. Miller S. In: Zalta EN, editor. Social institutions, the Stanford Encyclopaedia of
+philosophy: Metaphysics research lab, Stanford University; 2014. https://
+plato.stanford.edu/entries/social-institutions/.
+33. Hassel A, Jansen J, Egenhofer C, Xu Z, De Jong J. Improving the market for
+flexibility in the electricity sector: report of a CEPS task force. Centre for
+European Policy Studies: Brussels; 2017.
+34. Hiroux C, Saguan M. Large-scale wind power in European electricity
+markets: time for revisiting support schemes and market designs? Energy
+Policy. 2010;38(7):3135–45.
+35. Hegger D, Vliet JV, Vliet BJMV. Niche management and its contribution to
+regime change: the case of innovation in sanitation. Tech Anal Strat Manag.
+2007;19(6):729–46.
+36. Schot J, Geels F. Strategic niche management and sustainable innovation
+journeys: theory, findings, research agenda, and policy. Tech Anal Strat
+Manag. 2008;20(5):537–54.
+37. Grubb M, McDowall W, Drummond P. On order and complexity in
+innovations systems: Conceptual frameworks for policy mixes in
+sustainability transitions. Energy Res Soc Sci. 2017;33:21–34.
+38. North D. Institutions, Institutional Change and Economic Performance.
+Cambridge: Cambridge University Press; 1990.
+39. Rose R. What is lesson-drawing? J Public Policy. 1991;11(1):3–30.
+40. Bennett C. What is policy convergence and what causes it? Br J Polit Sci.
+1991;21(2):215–33.
+41. Clark J. Policy diffusion and program scope: research directions. Publius J
+Fed. 1985;15(4):61–70.
+42. Haas P. Do regimes matter? Epistemic communities and Mediterranean
+pollution control. Int Organ. 1989;43(3):377–403.
+43. Majone G. Cross-National Sources of Regulatory Policymaking in Europe and
+the United States. J Public Policy. 1991;11(1):79–106.
+44. Jann W, Wegrich K. Theories of the policy cycle. In: Fischer F, Miller GJ,
+editors. Handbook of public policy analysis. Boca Raton: Taylor & Francis;
+2007. p. 43–63.
+45. World Bank, Thailand | data, 2018. Retrieved from: https://data.worldbank.
+org/country/thailand. Accessed 27 Sept 2018.
+46. IEA (2016). Partner country series - Thailand electricity security assessment.
+International energy agency. Retrieved from: https://www.iea.org/publications/
+47. NESDB. The twelfth National Economic and social development plan: Office
+of the National Economic Development Board; 2016.
+Page 18
+Bößner et al. Sustainable Earth (2020) 3:2
+48. World Bank, Access to electricity, rural (% of rural population) | data, 2018.
+Retrieved from: https://data.worldbank.org/indicator/. Accessed 27 Sept 2018.
+49. Gamio P. Personal communication with A. Bruno, April 2016; 2016.
+50. USTR. The United States - Peru trade promotion agreement. Final text:
+Office of the United States Trade Representative; 2018. Available: https://
+ustr.gov/trade-agreements/free-trade-agreements/peru-tpa/final-text.
+Accessed 27 Sept 2018
+51. EPPO. Energy Statistic (2017). Available at: http://www.eppo.go.th/index.
+php/en/en-energystatistics/indicators.
+52. IRENA. Renewable energy auctions in developing countries: International
+Renewable Energy Agency-IRENA; 2013. Retrieved from: https://www.irena.
+org/publications
+53. Sarochawikasit, R. (2007). Renewable Energy Development and Environment
+in Thailand. Available at: http://www.jst.go.jp/astf/document2/en_22doc.pdf.
+54. UN. (2011). Thailand Energy Report. Available at: http://www.un.org/esa/
+agenda21/natlinfo/countr/thai/energy.pdf
+55. Bijoor S, Greacen C. Citizen-oriented power sector reform in Thailand; 2007.
+p. 1–22. Available at: https://www.academia.edu/1555157/CITIZEN-
+ORIENTED_POWER_SECTOR_REFORM_IN_THAILAND
+56. Tongsopit S, Greacen C. Thailand’s renewable energy policy: FiTs and
+opportunities for international support; 2012. p. 1–24. Available at: http://www.
+palangthai.org/docs/ThailandFiTtongsopit&greacen.pdf. Accessed 1 Dec 2016
+57. Tongsopit S, Greacen C. An assessment of Thailand’s feed-in tariff program
+in: renewable energy. Elsevier Ltd. 2013;60:439–45.
+58. Hoberg G. Sleeping with an elephant: the American influence on Canadian
+environmental regulation. J Public Policy. 1991;11(1):107–31.
+59. Coronado J. Personal communication with A. Bruno. 2016;2016.
+60. Bößner, S. (2016). Turning energy around: coal and the German
+Energiewende. SEI Discussion Brief. Available at: https://www.sei.org/
+publications/coal-and-energiewende/
+61. Bulmer S, Padgett S. Policy Transfer in the European Union: An
+Institutionalist Perspective. Br J Polit Sci. 2005;35(1):103–26.
+62. Mendoza E. Personal communication with A. Bruno. 2016;(April 2016).
+63. MoEN (Thailand). (2007). Energy Industry Act. Available at: http://www.
+thailawforum.com/laws/Energy
+64. Siteur, J. (2012). Rapid deployment of industrial biogas in Thailand: factors of
+success, institute for industrial productivity. Available at: http://www.
+iipnetwork.org/IIP-10.BiogasCaseStudy.Pdf.
+65. Gilardi F. Transnational diffusion: norms, ideas, and policies. In: Carlsnaes W,
+et al., editors. Handbook of international relations. 1st ed. Thousand Oaks:
+SAGE Publications; 2012. p. 453–77.
+66. Global Energy Transfer Feed-in Tariff- GET FiT (2017). Annual Report, 2017.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations. 
+Page 18 of 18

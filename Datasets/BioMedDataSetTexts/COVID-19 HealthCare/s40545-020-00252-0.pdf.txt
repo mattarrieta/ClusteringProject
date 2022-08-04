@@ -1,0 +1,745 @@
+Keywords: COVID-19,Mental health,Pharmacists
+Creator: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+ModDate: 2020/07/22 11:59:00+02'00'
+CreationDate: 2020/07/17 23:16:42+08'00'
+Producer: Acrobat Distiller 10.0.0 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)
+Subject: Journal of Pharmaceutical Policy and Practice, 2020, doi:10.1186/s40545-020-00252-0
+Author: Ali Elbeddini
+Title: Mental health issues impacting pharmacists during COVID-19
+xmp:pdf:Keywords: COVID-19,Mental health,Pharmacists
+xmp:pdf:Producer: Acrobat Distiller 10.0.0 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)
+xmp:dc:format: application/pdf
+xmp:dc:identifier: 10.1186/s40545-020-00252-0
+xmp:dc:publisher: Journal of Pharmaceutical Policy and Practice
+xmp:dc:description: Journal of Pharmaceutical Policy and Practice, 2020, doi:10.1186/s40545-020-00252-0
+xmp:dc:subject: COVID-19; Mental health; Pharmacists
+xmp:dc:title: Mental health issues impacting pharmacists during COVID-19
+xmp:dc:creator: Ali Elbeddini; Cindy Xin Wen; Yasamin Tayefehchamani; Anthony To
+xmp:xmp:ModifyDate: 2020-07-22T11:59:00+02:00
+xmp:xmp:MetadataDate: 2020-07-22T11:59:00+02:00
+xmp:xmp:CreateDate: 2020-07-17T23:16:42+08:00
+xmp:xmp:CreatorTool: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+xmp:xmpMM:DocumentID: uuid:63d0bf76-d057-4074-bada-bbe5dfce5d16
+xmp:xmpMM:InstanceID: uuid:6d55a2ee-0e24-4777-a382-f9689c5d3b4e
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:63d0bf76-d057-4074-bada-bbe5dfce5d16
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2020-07-18T00:23:58+08:00
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:28dfb056-89f0-40c6-968a-358e198a8de7
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2020-07-18T00:27:59+08:00
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:author:name: Ali Elbeddini
+xmp:author:orcid: http://orcid.org/0000-0002-3339-6203
+xmp:pdfaSchema:schema: Springer Nature ORCID Schema
+xmp:pdfaSchema:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/
+xmp:pdfaSchema:prefix: sn
+xmp:pdfaProperty:name: authorInfo
+xmp:pdfaProperty:valueType: Bag AuthorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Author information: contains the name of each author and his/her ORCID (ORCiD: Open Researcher and Contributor ID). An ORCID is a persistent identifier (a non-proprietary alphanumeric code) to uniquely identify scientific and other academic authors.
+xmp:pdfaProperty:name: editorInfo
+xmp:pdfaProperty:valueType: Bag EditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Editor information: contains the name of each editor and his/her ORCID identifier.
+xmp:pdfaProperty:name: seriesEditorInfo
+xmp:pdfaProperty:valueType: Bag SeriesEditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Series editor information: contains the name of each series editor and his/her ORCID identifier.
+xmp:pdfaType:type: AuthorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/authorInfo/
+xmp:pdfaType:prefix: author
+xmp:pdfaType:description: Specifies the types of author information: name and ORCID of an author.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an author.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an author.
+xmp:pdfaType:type: EditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/editorInfo/
+xmp:pdfaType:prefix: editor
+xmp:pdfaType:description: Specifies the types of editor information: name and ORCID of an editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an editor.
+xmp:pdfaType:type: SeriesEditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/seriesEditorInfo/
+xmp:pdfaType:prefix: seriesEditor
+xmp:pdfaType:description: Specifies the types of series editor information: name and ORCID of a series editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of a series editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of a series editor.
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdf/1.3/
+xmp:pdfaSchema:prefix: pdf
+xmp:pdfaSchema:schema: Adobe PDF Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A name object indicating whether the document has been modified to include trapping information
+xmp:pdfaProperty:name: Trapped
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/mm/
+xmp:pdfaSchema:prefix: xmpMM
+xmp:pdfaSchema:schema: XMP Media Management Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: UUID based identifier for specific incarnation of a document
+xmp:pdfaProperty:name: InstanceID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: The common identifier for all versions and renditions of a document.
+xmp:pdfaProperty:name: OriginalDocumentID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A reference to the original document from which this one is derived. It is a minimal reference; missing components can be assumed to be unchanged. For example, a new version might only need to specify the instance ID and version number of the previous version, or a rendition might only need to specify the instance ID and rendition class of the original.
+xmp:pdfaProperty:name: DerivedFrom
+xmp:pdfaProperty:valueType: ResourceRef
+xmp:pdfaType:description: Identifies a portion of a document. This can be a position at which the document has been changed since the most recent event history (stEvt:changed). For a resource within an xmpMM:Ingredients list, the ResourceRef uses this type to identify both the portion of the containing document that refers to the resource, and the portion of the referenced resource that is referenced.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Part#
+xmp:pdfaType:prefix: stPart
+xmp:pdfaType:type: Part
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/t/pg/
+xmp:pdfaSchema:prefix: xmpTPg
+xmp:pdfaSchema:schema: XMP Paged-Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A structure containing the characteristics of a font used in a document
+xmp:pdfaProperty:name: Fonts
+xmp:pdfaProperty:valueType: Bag Font
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: XMP08 Spec: An ordered array of plate names that are needed to print the document (including any in contained documents).
+xmp:pdfaProperty:name: PlateNames
+xmp:pdfaProperty:valueType: Seq Text
+xmp:pdfaType:description: A structure containing the characteristics of a font used in a document.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Font#
+xmp:pdfaType:prefix: stFnt
+xmp:pdfaType:type: Font
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdfx/1.3/
+xmp:pdfaSchema:prefix: pdfx
+xmp:pdfaSchema:schema: PDF/X ID Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: ID of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXVersion
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Conformance level of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXConformance
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Company creating the PDF
+xmp:pdfaProperty:name: Company
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Date when document was last modified
+xmp:pdfaProperty:name: SourceModified
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://www.aiim.org/pdfa/ns/id/
+xmp:pdfaBOOKMARKS:
+Abstract
+Background
+Increased burden on pharmacist roles leads to decreased pharmacist mental well-being
+  First point of patient contact
+  Patient triage
+  Information dissemination
+  Managing medication shortages
+  Harassment from patients
+Significance
+Future directions
+Summary
+Acknowledgements
+Authors’ contributions
+Funding
+Availability of data and materials
+Competing interests
+Author details
+References
+Publisher’s Note
+Page 1
+Elbeddini et al. Journal of Pharmaceutical Policy and Practice
+https://doi.org/10.1186/s40545-020-00252-0 
+(2020) 13:46
+COMMENTARY  Open Access
+Mental health issues impacting pharmacists
+during COVID-19
+Ali Elbeddini1* [URL: "http://orcid.org/0000-0002-3339-6203"] , Cindy Xin Wen2, Yasamin Tayefehchamani2 and Anthony To2
+Abstract
+The coronavirus disease 2019 (COVID-19) impact on the mental health of healthcare workers is extremely
+detrimental. It is imperative that the psychological health of all healthcare workers be protected. However, an often
+overlooked member of the healthcare frontline is the pharmacist. Pharmacists provide many types of essential
+services during the pandemic, which often cannot be done from a remote location. Being frontline healthcare
+workers, pharmacists have experienced an increase in the number of patients seen, the amount of screening and
+triage being done, the amount of COVID-19 information being delivered, the number of medication shortages, and
+the amount of workplace harassment taking place. These activities increase the amount of stress, burden, and
+frustration felt by pharmacists have a negative impact on their mental health and well-being. This article seeks to
+address the specific implications of COVID-19 on the mental health of pharmacists.
+Keywords: COVID-19, Mental health, Pharmacists
+Background
+COVID-19 is a severe infectious respiratory disease caused
+by a novel coronavirus (SARS-CoV-2) whose first case of
+infection occurred on December 31, 2019, in Wuhan,
+China [1].  The World Health Organization (WHO) has
+officially declared it a global pandemic on March 11, 2020
+[2]. COVID-19 is transmitted person-to-person via drop-
+lets produced by coughing, sneezing, speaking, and
+through contact with contaminated surfaces [1]. A state of
+emergency was declared, leading to social distancing and
+closures of schools, and non-essential businesses across
+Canada [3]. These measures were implemented to control
+the physical spread of COVID-19 and ramifications on the
+population’s mental health.
+The challenging conditions imposed causes increased
+stress, anxiety, depressive symptoms, and exacerbation of
+pre-existing mental illness [4–7]. Social isolation is strongly
+associated with poor mental health outcomes [8–10],
+* Correspondence: [URL: "mailto:Elbeddini.a@gmail.com"] Elbeddini.a@gmail.com
+1Winchester District Memorial Hospital, 566 Louise Street, Winchester, Ontario
+KK0C2K0, Canada
+Full list of author information is available at the end of the article 
+especially in the context of COVID-19 [6, 11, 12]. If left
+unchecked, a mental health crisis could come out of the
+current COVID-19 pandemic. These mental health issues
+extend to healthcare workers (HCWs) who work on the
+front line to treat those who are infected [12].  HCWs
+worldwide report the negative psychological effects of
+COVID-19, such as stress, fear, anxiety, depression, burn-
+out, and mental exhaustion [7, 12–19].
+Pharmacists are one of the frontline HCWs working
+diligently to provide much-needed services during the pan-
+demic [20–26].  Pharmacist-provided services have shown
+to improve patient outcomes and contribute to healthcare
+savings [26]. Community pharmacists provide COVID-19
+screening and medication dispensing to maintain continuity
+of care, disseminate critical information regarding COVID-
+19, collaborate closely with other HCWs and government
+organizations, engage in home medication delivery, and
+remain the most accessible healthcare member that patients
+can interact with [25].  Hospital pharmacists directly
+support physicians, nurses, and other staff in managing life-
+saving medications for COVID-19 patients, participating in
+patient rounds, and engaging in infectious disease control
+© The Author(s). 2020 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit [URL: "http://creativecommons.org/licenses/by/4.0/"] http://creativecommons.org/licenses/by/4.0/.
+The Creative Commons Public Domain Dedication waiver ([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://creativecommons.org/publicdomain/zero/1.0/) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.
+Page 2
+Elbeddini et al. Journal of Pharmaceutical Policy and Practice (2020) 13:46  Page 2 of 6
+[20, 25–27].  Unfortunately, pharmacists are often over-
+looked and are underrepresented regarding advocacy [25].
+In this editorial, we will address pharmacist-specific mental
+health issues as well as methods to support pharmacists’
+psychological well-being.
+Pharmacists experience issues common to all HCWs
+during COVID-19. Both community and hospital phar-
+macists experience a lack of personal protective equip-
+ment (PPE). Long work hours are required for treating
+the increased number of scared and frustrated patients,
+along with increased responsibility and pressure.
+Increased risk of infection resulting from work-related
+exposure leads HCWs to self-isolate, which can result in
+feelings of isolation and loneliness. However, due to the
+pharmacist’s  unique role, they will also experience
+pharmacist-specific issues as summarized in Fig. 1.
+Increased burden on pharmacist roles leads to
+decreased pharmacist mental well-being
+First point of patient contact
+As one of the most easily accessible HCWs, pharma-
+cists are often the first point of contact for many 
+patients. Pharmacists may experience an increase in
+the number of patients seen during the pandemic. A
+survey of nine major hospitals in the USA showed a
+significant decrease in the number of ST-segment
+elevation cardiac catheterization laboratory activa-
+tions during the pandemic [28],  indicating that there
+is a possibility that fewer patients are seeking hos-
+pital care. Understandably, many patients who have
+non-COVID-19-related illnesses may be hesitant to
+go directly to a hospital or other similar institutions
+for fear of contracting COVID-19 [29, 30].  Instead
+of going to a hospital, they may present themselves
+to a pharmacy to receive guidance from a pharma-
+cist, which results in a decrease in the number of
+non-essential hospital visits and allows healthcare re-
+sources reallocation to treat COVID-19. However,
+this could lead to a strain on community pharma-
+cists as they attempt to fill that clinical role. The
+resulting increased workload will add to the burden,
+leading to burnout among pharmacy staff, which is
+detrimental to individual well-being and compromis-
+ing the quality of care provided [31].
+Fig. 1 Pharmacist roles amid COVID-19 that can lead to decreased pharmacist mental health
+Page 3
+Elbeddini et al. Journal of Pharmaceutical Policy and Practice (2020) 13:46  Page 3 of 6
+Patient triage
+Pharmacists also engage in patient triage [32].  While
+there may exist some increased risk of contracting
+COVID-19 in clinics and hospitals, patients who need
+care should not be afraid to seek care. Pharmacists can
+provide over the phone, and in-person screening of
+COVID-19 symptoms as well as appropriately redirect
+patients to other healthcare facilities. The importance of
+continuity of care is amplified during a pandemic and
+demonstrates the importance of pharmacist triage.
+However, it is not always easy to triage and prioritize pa-
+tients—difficult decisions often must be made. This also
+emphasizes the importance of adequate PPE, as screen-
+ing exposes pharmacists to the risk of infection and con-
+tamination. Both the burden of appropriate triage and
+the absence of peace of mind against the disease contrib-
+ute to the stress that pharmacists face.
+Information dissemination
+As pharmacists provide essential information regarding
+COVID-19 to the public in an easy to access manner, they
+must stay up to date on the latest pandemic developments.
+Pharmacists help patients navigate fact from fiction as well
+as educate on proper hygiene and infection control. This is
+important as misconceptions about COVID-19 can exacer-
+bate worry and other mental health concerns [5, 22].
+However, pharmacists find themselves under constant
+bombardment of COVID-19 related information, which
+can be overwhelming and affect overall mental well-being
+[33]. The Canadian Pharmacist Association (CPhA) recom-
+mends that pharmacists limit the amount of time per day
+spent reviewing news, to only focus on the general trajec-
+tory, and to distract your mind with other tasks, among
+other suggestions [33].  Pharmacists can also use adverse
+drug reaction (ADR) and medical device incident (MDI)
+reporting to facilitate misinformation correction [34]. The
+demand for COVID-19 therapies drives the rampant adop-
+tion of potential medications, even when there is insuffi-
+cient evidence for its efficacy and safety [34].  Thus, the
+vigilant reporting of ADRs is more critical than ever to
+combat misinformation.
+Managing medication shortages
+Pharmacists are also managing medication shortages and
+limited resources during COVID-19 [35, 36]. Before the
+pandemic, medication shortages were already a global
+issue [20]. The spread of COVID-19 generated a spike in
+the number of critically ill patients and fear-based medi-
+cation hoarding contributing to the pre-existing short-
+ages [35, 36].  During the first week of May 2020, only
+3% of pharmacies across Canada reported receiving their
+full medication order for every order placed [37]. Medi-
+cation shortages disrupt care and pose safety concerns
+for patients. Two drugs that have been publicized as 
+candidates for the treatment of COVID-19, hydroxy-
+chloroquine and chloroquine, have now become difficult
+to obtain for patients who need these agents to manage
+rheumatoid arthritis, systemic lupus erythematosus, and
+other autoimmune disorders [35, 36]. Canadian pharma-
+cists are spending 24% of their shift dealing with medica-
+tion shortages, placing a huge burden [37]. While most
+of medication shortage issues are out of the pharmacists’
+control, there are some initiatives pharmacists have
+taken to tackle the problem. Pharmacists can find alter-
+native sources, alternative therapies, and rationing exist-
+ing drug supplies. One such proposed method is to
+sterilize metered-dose inhalers used once or twice in
+hospitals so that they can be reused [38]. In addition to
+technical difficulties in managing medication shortages,
+there are also ethical dilemmas when deciding to prioritize
+one patient over another, which can also be damaging to
+mental well-being. This results in something known as
+moral injury, described as “the psychological distress
+which results from actions, or lack of them, which violate
+someone’s moral or ethical code.” [39]
+Harassment from patients
+An unfortunate circumstance that pharmacists have to
+face is harassment and abuse. In a national survey con-
+ducted by CPhA, 73% of pharmacists report an increase
+in harassment, verbal abuse, and other forms of abuse by
+patients ever since the pandemic began [40]. Anecdotal
+accounts also exist of healthcare workers experiencing
+stigma and abuse due to the public’s fear of contracting
+COVID-19 from someone who has high exposure to the
+virus [31, 41]. In such a perilous time, it is understand-
+able that patients will feel frustrated, angry, and fright-
+ened. However, pharmacists do not deserve to be poorly
+treated. It is important to let them know that pharma-
+cists are doing their best to support patient health
+throughout the pandemic and beyond. As a result of the
+power dynamics at play, it is ultimately up to pharma-
+cists to be able to reassure patients and provide care, all
+while taking into account their mental health. Currently,
+guidelines regarding patient interaction during a pan-
+demic are needed.
+An additional burden Asian pharmacists face on top of
+pharmacist harassment is the rise of anti-Asian racism
+that has come about due to COVID-19. Verbal and even
+physical abuse has been reported to happen in various
+countries, such as the UK, France, and the USA, to those
+of Chinese descent [41, 42]. Asian frontline workers are
+being told that the virus “came from [their] kind” and
+going so far as to call SARS-CoV-2 the “Chinese virus”
+[41, 42]. These reactions are fueled by fear and misinfor-
+mation, which speaks to the damage that this kind of
+misinformation can cause if not corrected. Such racism
+should not be tolerated, seeing as it has such profound
+Page 4
+Elbeddini et al. Journal of Pharmaceutical Policy and Practice (2020) 13:46  Page 4 of 6
+adverse effects on pharmacists and individuals’  well-
+being, community cohesiveness, and impeding the fight
+against COVID-19. Additional research is needed to
+address the mental health and long term consequences
+of anti-Asian sentiments and to develop initiatives and
+policies that seek to reduce such behaviors.
+Significance
+Mental health care for HCWs is more critical now than
+ever. According to CPhA, pharmacists’  mental health
+was among the top four pharmacists’  greatest concerns
+during COVID-19, along with personal and staff safety,
+drug shortages, and workload/staffing shortages [40].
+Poor HCW mental health may lead to decreased quality
+of care, attention paid, and decision-making ability [13],
+but pharmacist-specific data is lacking. One study looked
+at the job satisfaction of hospital pharmacists in Ethiopia
+[43],  which can be considered another indicator of the
+pharmacists’  well-being. Pharmacists with low job satis-
+faction often have less productivity and lower overall
+quality of life [43]. On the contrary, high job satisfaction
+positively impacts performance, employee relationships,
+mental health, and life satisfaction [43]. During such dire
+times, pharmacists are being relied upon more and more
+to provide much-needed services during the pandemic.
+Pharmacists, like other HCWs, know how important
+their role is and are resilient in providing care even at
+the expense of their own mental and physical well-being
+[24, 44]. It is well known that mental illness is associated
+with lower life expectancy and poorer health outcomes
+than the general population, increasing the risk of infec-
+tion with COVID-19 [45].  It is uncertain what exactly
+the long-term sequelae may be, but there is evidence
+that such sequelae exist. It was found that 3 years after
+the SARS outbreak in 2003, high-risk HCWs remained
+highly stressed, which was associated with higher levels
+of depression, anxiety, and general psychological distress
+[46–48]. The stress generated by COVID-19 for HCWs
+is akin to that of a natural disaster or international mass
+conflict [5]. While it might make sense during the begin-
+ning of the outbreak to prioritize physical health or psycho-
+logical, it should not stay this way. COVID-19 is as much
+of a somatic battle as it is a mental battle. If unaddressed,
+poor mental health can have more serious consequences
+down the line and may lead to a shortage of pharmacists
+and other HCWs after the pandemic is over [5].
+Future directions
+While they do exist, the number of resources offered to
+manage mental health is scant. CPhA provides info-
+graphics and links to province-specific pharmacy mental
+health resources, and nationwide and American pharma-
+cist resources [33, 49].  Multidisciplinary mental health
+services must also be explicitly provided for pharmacists 
+and other HCWs as they experience more extreme
+psychologic symptoms [19].  More awareness should be
+generated for these resources and the importance of
+pharmacists’ mental health during COVID-19.
+Healthcare delivery is progressing in the direction of
+telemedicine and virtual methods of delivery. Mental
+health is a very good candidate for electronic delivery
+[50, 51].  This can be extended to providing mental
+health care to pharmacists and other HCWs. Blake et al.
+assessed a digital learning package that consisted of
+evidence-based guidance, actions to take, and self-care
+strategies relating to maintaining mental well-being for
+HCWs in the UK [31].  They found that it was well-
+received with high user satisfaction [31].  The material
+was better received if it addressed specific issues that
+were relevant to healthcare work environments and the
+type of work healthcare workers engaged in [31].  This
+further proves the importance of having more pharmacy-
+specific mental health resources. Besides focusing on the
+individual, fostering a culture of resilience and support
+within an organization strongly affects worker stress and
+protects mental health [31, 39, 52]. In addition to provid-
+ing care, pharmacists must also have tools to assess
+mental health in the context of COVID-19 to identify
+individuals at risk quickly and not to over- or under-
+diagnose [53].  Finally, it would be good to learn from
+previous pandemics and other countries regarding their
+response to HCW mental health. Being the epicenter of
+COVID-19, China had some rapid response to improving
+the mental health of their HCWs [7]. The Second Xiangya
+Hospital in China’s Hubei province developed a detailed
+psychological intervention plan, a psychological assistance
+hotline team and psychological interventions to improve
+HCW mental health [54]. The National Health Commis-
+sion of China integrated psychological crisis intervention
+into general measures for disease prevention, issued the
+“Principles for Emergency Psychological Crisis Interven-
+tion for COVID-19 Pneumonia Epidemic,” as well as a
+plethora of mental health guidelines made by various
+healthcare organizations [55].
+Overall, the pharmaceutical system itself could be
+strengthened, which could go beyond just mitigating
+drug shortages and help pharmacist workflow and well-
+being. Hafner et al. report three issues that stand in the
+way of low- and middle-income countries being able to
+strengthen their pharmaceutical systems [56], which also
+applies to Canada as its pharmaceutical systems become
+strained due to COVID-19 and issues become apparent.
+Firstly, the process of strengthening a pharmaceutical
+system is lengthy and resource intensive [56], which may
+not be feasibly done in time during COVID-19. Sec-
+ondly, strengthening pharmaceutical systems requires
+the engagement of government bodies and multiple
+stakeholders as well as policy and legislation reform [56],
+Page 5
+Elbeddini et al. Journal of Pharmaceutical Policy and Practice (2020) 13:46  Page 5 of 6
+which Canada is currently engaging in for managing
+the immediate COVID-19 threat. Finally, the interven-
+tions that work to strengthen pharmaceutical systems
+are not precisely known, which is an area of further
+research [56].
+Summary
+The mental health of HCWs during the COVID-19 pan-
+demic needs to be addressed. Pharmacists are frontline
+HCWs and belong in this category as they provide ne-
+cessary services amid the pandemic. As one of the most
+accessible HCWs, they face many stressors that need to
+be specifically targeted to address pharmacists mental
+health issues effectively. All in all, more research and
+resources need to be developed to provide solutions for
+the declining psychological well-being of pharmacists
+and HCWs in general amid COVID-19.
+Acknowledgements
+I would like to acknowledge the support from the pharmacy team in
+facilitating the data collection.
+Authors’ contributions
+AE Original manuscript preparation Conceptualization Data curation Analysis
+of the paper Literature search Data collection Writing, reviewing, and editing
+Driving for the ideas and thoughts. CXW Original manuscript preparation
+Analysis of the paper Literature search Data collection Writing, reviewing,
+and editing Driving for the ideas and thoughts. YT Original manuscript
+preparation Analysis of the paper Literature search Data collection, curation
+Writing, reviewing, and editing Driving for the ideas and thoughts. AT
+Original manuscript preparation Analysis of the paper Literature search Data
+collection Writing, reviewing, and editing Driving for the ideas and thoughts.
+The author(s) read and approved the final manuscript.
+Funding
+I know of no conflict of interest with this publication, and there has been no
+financial support for this work that could have influenced the outcome.
+Availability of data and materials
+Data sharing does not apply to this article as no datasets were generated or
+analyzed during the current study.
+Competing interests
+No known competing interest to declare
+Author details
+1Winchester District Memorial Hospital, 566 Louise Street, Winchester, Ontario
+KK0C2K0, Canada. 2Leslie Dan Faculty of Pharmacy, University of Toronto, 144
+College St, Toronto M5S 3M2, Canada.
+Received: 3 July 2020 Accepted: 13 July 2020
+References
+1.  World Health Organization. Q&A on coronaviruses (COVID-19) [Internet].
+[cited 2020 Jun 14]. Available from: [URL: "https://www.who.int/news-room/q-a-detail/q-a-coronaviruses"] https://www.who.int/news-room/q-a-
+ detail/q-a-coronaviruses.
+2.  WHO Director-General’s opening remarks at the media briefing on COVID-
+19 - 11 March 2020 [Internet]. [cited 2020 Jun 17]. Available from: [URL: "https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19%2D%2D-11-march-2020"] https://
+ www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-
+ at-the-media-briefing-on-covid-19%2D%2D-11-march-2020.
+3.  Public Health Agency of Canada. Government of Canada takes action on
+COVID-19 [Internet]. Canada.ca. 2020 [cited 2020 Jun 14]. Available from:
+ https://www.canada.ca/en/public-health/services/diseases/2019-novel-
+ coronavirus-infection/canadas-reponse/government-canada-takes-action-
+ covid-19.html. 
+4.  Cosic K, Popovic S, Sarlija M, Kesedzic I. Impact of human disasters and
+COVID-19 pandemic on mental health: potential of digital psychiatry.
+Psychiatr Danub. 2020 Apr 15;32(1):25–31.
+5.  Fiorillo A, Gorwood P. The consequences of the COVID-19 pandemic on
+mental health and implications for clinical practice. Eur Psychiatry [Internet].
+2020 Apr 1 [cited 2020 Jun 11];63(1). Available from: [URL: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7156565/"] https://www.ncbi.nlm.
+ nih.gov/pmc/articles/PMC7156565/.
+6.  Brooks SK, Webster RK, Smith LE, Woodland L, Wessely S, Greenberg N, et al.
+The psychological impact of quarantine and how to reduce it: rapid review
+of the evidence. Lancet Lond Engl. 2020;395(10227):912–20.
+7.  Luo M, Guo L, Yu M, Jiang W, Wang H. The psychological and mental
+impact of coronavirus disease 2019 (COVID-19) on medical staff and general
+public – a systematic review and meta-analysis. Psychiatry Res. 2020 Jun 7;
+291:113190.
+8.  Leigh-Hunt N, Bagguley D, Bash K, Turner V, Turnbull S, Valtorta N, et al. An
+overview of systematic reviews on the public health consequences of social
+isolation and loneliness. Public Health. 2017 Nov;152:157–71.
+9.  Courtin E, Knapp M. Social isolation, loneliness and health in old age: a
+scoping review. Health Soc Care Community. 2017;25(3):799–812.
+10. Ge L, Yap CW, Ong R, Heng BH. Social isolation, loneliness and their
+relationships with depressive symptoms: a population-based study. PLoS
+ONE [Internet]. 2017 Aug 23 [cited 2020 Jun 14];12(8). Available from:
+ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5568112/.
+11. Banerjee D, Rai M. Social isolation in Covid-19: the impact of loneliness. Int J
+Soc Psychiatry. 2020 Apr;29:0020764020922269.
+12. Pappa S, Ntella V, Giannakas T, Giannakoulis VG, Papoutsi E, Katsaounou P.
+Prevalence of depression, anxiety, and insomnia among healthcare workers
+during the COVID-19 pandemic: a systematic review and meta-analysis.
+Brain Behav Immun [Internet]. 2020 May 8 [cited 2020 Jun 23]; Available
+from: [URL: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7206431/"] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7206431/.
+13. Kang L, Li Y, Hu S, Chen M, Yang C, Yang BX, et al. The mental health of
+medical workers in Wuhan, China dealing with the 2019 novel coronavirus.
+Lancet Psychiatry. 2020 Mar;7(3):e14.
+14. Armitage R, Nellums LB. Protecting health workers’ mental health during
+COVID-19. Public Health. 2020 Aug;185:18.
+15. Schwartz J, King C-C, Yen MY. Protecting healthcare workers during the
+coronavirus disease 2019 (COVID-19) outbreak: lessons from Taiwan’s severe
+acute respiratory syndrome response. Clin Infect Dis [Internet]. [cited 2020
+Jul 8]; Available from: [URL: "https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa255/5804239"] https://academic.oup.com/cid/article/doi/10.1093/cid/
+ ciaa255/5804239.
+16. Rajkumar RP. COVID-19 and mental health: a review of the existing
+literature. Asian J Psychiatry. 2020 Aug;52:102066.
+17. Neto MLR, Almeida HG, Esmeraldo JD, Nobre CB, Pinheiro WR, de Oliveira
+CRT, et al. When health professionals look death in the eye: the mental
+health of professionals who deal daily with the 2019 coronavirus outbreak.
+Psychiatry Res. 2020 Jun 1;288:112972.
+18. Zaka A, Shamloo SE, Fiorente P, Tafuri A. COVID-19 pandemic as a
+watershed moment: a call for systematic psychological health care for
+frontline medical staff. J Health Psychol. 2020 Jun 1;25(7):883–7.
+19. Hall H. The effect of the COVID-19 pandemic on healthcare workers’ mental
+health. J Am Acad PAs. 2020 Jul;33(7):45–8.
+20. Cadogan CA, Hughes CM. On the frontline against COVID-19: community
+pharmacists’ contribution during a public health crisis. Res Soc Adm Pharm
+[Internet]. 2020 Mar 31 [cited 2020 Jun 18]; Available from: [URL: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7270164/"] https://www.
+ ncbi.nlm.nih.gov/pmc/articles/PMC7270164/.
+21. Bukhari N, Rasheed H, Nayyer B, Babar Z-U-D. Pharmacists at the
+frontline beating the COVID-19 pandemic. J Pharm Policy Pract. 2020
+Apr 20;13(1):8.
+22. Elbeddini A, Yeats A. Pharmacist intervention amid the coronavirus disease
+2019 (COVID-19) pandemic: from direct patient care to telemedicine. J
+Pharm Policy Pract [Internet]. 2020 May 27 [cited 2020 Jun 11];13. Available
+from: [URL: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7251049/"] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7251049/.
+23. Buss VH, Shield A, Kosari S, Naunton M. The impact of clinical services
+provided by community pharmacies on the Australian healthcare system: a
+review of the literature. J Pharm Policy Pract. 2018 Oct 1;11(22):1–10.
+24. da Costa FA, Lee V, Leite SN, Murillo MD, Menge T, Antoniou S. Pharmacists
+reinventing their roles to effectively respond to COVID-19: a global report
+from the international pharmacists for anticoagulation care taskforce
+(iPACT). J Pharm Policy Pract. 2020 Jun 17;13(12):1–3.
+25. Elbeddini A, Prabaharan T, Almasalkhi S, Tran C. Pharmacists and COVID-19.
+J Pharm Policy Pract. 2020 Jun 19;13(36):1–4.
+Page 6
+Elbeddini et al. Journal of Pharmaceutical Policy and Practice (2020) 13:46  Page 6 of 6
+26. Visacri MB, Figueiredo IV, de Lima TM. Role of pharmacist during the COVID-
+19 pandemic: a scoping review. Res Soc Adm Pharm [Internet]. 2020 Jul 4
+[cited 2020 Jul 8]; Available from: [URL: "http://www.sciencedirect.com/science/article/pii/S155174112030810X"] http://www.sciencedirect.com/science/
+ article/pii/S155174112030810X.
+27. Atif M, Malik I. COVID-19 and community pharmacy services in Pakistan:
+challenges, barriers and solution for progress. J Pharm Policy Pract. 2020 Jun
+15;13(33):1–4.
+28. Garcia S, Albaghdadi MS, Meraj PM, Schmidt C, Garberich R, Jaffer FA, et al.
+Reduction in ST-segment elevation cardiac catheterization laboratory
+activations in the United States during COVID-19 pandemic. J Am Coll
+Cardiol. 2020 Jun;75(22):2871–2.
+29. Frketich J. Hamiltonians afraid to go to the hospital during COVID-19. The
+Hamilton Spectator [Internet]. 2020 Apr 29 [cited 2020 Jun 19]; Available
+from: [URL: "https://www.thespec.com/news/hamilton-region/2020/04/29/hamiltonians-afraid-to-go-to-the-hospital-during-covid-19.html"] https://www.thespec.com/news/hamilton-region/2020/04/29/
+ hamiltonians-afraid-to-go-to-the-hospital-during-covid-19.html.
+30. Lazzerini M, Barbi E, Apicella A, Marchetti F, Cardinale F, Trobia G. Delayed
+access or provision of care in Italy resulting from fear of COVID-19. Lancet
+Child Adolesc Health. 2020 May;4(5):e10–1.
+31. Blake H, Bermingham F, Johnson G, Tabner A. Mitigating the
+psychological impact of COVID-19 on healthcare workers: a digital
+learning package. Int J Environ Res Public Health [Internet].  2020 May
+[cited 2020 Jun 14];17(9).  Available from: [URL: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7246821/"] https://www.ncbi.nlm.nih.gov/
+ pmc/articles/PMC7246821/.
+32. Curley LE, Moody J, Gobarani R, Aspden T, Jensen M, McDonald M, et al. Is
+there potential for the future provision of triage services in community
+pharmacy? J Pharm Policy Pract [Internet]. 2016 Sep 29 [cited 2020 Jul 8];9.
+Available from: [URL: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5050954/"] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5050954/.
+33. Canadian Pharmacists Association. Supporting pharmacists’ mental health
+and wellness during COVID-19 [Internet]. COVID-19: Information for
+Pharmacists - English. 2020 [cited 2020 Jun 18]. Available from: [URL: "https://www.pharmacists.ca/cpha-ca/assets/File/cpha-on-the-issues/SupportPharmacistMentalHealth_EN.pdf"] https://www.
+ pharmacists.ca/cpha-ca/assets/File/cpha-on-the-issues/
+ SupportPharmacistMentalHealth_EN.pdf.
+34. Elbeddini A, Yeats A, Lee S. Amid COVID-19: the importance of developing
+an positive adverse drug reaction (ADR) and medical device incident (MDI)
+reporting culture for Global Health and public safety. J Pharm Policy Pract.
+2020 May 18;13(18):1–4.
+35. Fox ER, Stolbach AI, Mazer-Amirshahi M. The landscape of prescription drug
+shortages during the COVID-19 pandemic. J Med Toxicol. 2020 May;27:1–3.
+36. Choo EK, Rajkumar SV. Medication shortages during the COVID-19 crisis.
+Mayo Clin Proc. 2020 Jun;95(6):1112–5.
+37. Canadian Pharmacists Association. Pharmacists continue to have difficulty
+sourcing certain medications amidst the COVID-19 pandemic - English
+[Internet]. 2020 [cited 2020 Jun 17]. Available from: [URL: "https://www.pharmacists.ca/news-events/news/pharmacists-continue-to-have-difficulty-sourcing-certain-medications-amidst-the-covid-19-pandemic/"] https://www.
+ pharmacists.ca/news-events/news/pharmacists-continue-to-have-difficulty-
+ sourcing-certain-medications-amidst-the-covid-19-pandemic/.
+38. Elbeddini A. Sterilization plan of the used metered dose inhalers (MDI) to
+avoid wastage amid COVID-19 pandemic drug shortage. J Pharm Policy
+Pract [Internet]. 2020 May 20 [cited 2020 Jun 23];13. Available from: [URL: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7237800/"] https://
+ www.ncbi.nlm.nih.gov/pmc/articles/PMC7237800/.
+39. Greenberg N, Docherty M, Gnanapragasam S, Wessely S. Managing mental
+health challenges faced by healthcare workers during covid-19 pandemic.
+BMJ [Internet]. 2020 Mar 26 [cited 2020 Jun 23];368. Available from: [URL: "http://www.bmj.com/content/368/bmj.m1211"] http://
+ www.bmj.com/content/368/bmj.m1211.
+40. Canadian Pharmacists Association. National survey of community
+pharmacists and practice challenges during COVID-19 [Internet]. COVID-19:
+Information for Pharmacists - English. 2020 [cited 2020 Jun 17]. Available
+from: [URL: "https://www.pharmacists.ca/cpha-ca/assets/File/cpha-on-the-issues/Infographic_National_Survey_COVID.pdf"] https://www.pharmacists.ca/cpha-ca/assets/File/cpha-on-the-issues/
+ Infographic_National_Survey_COVID.pdf.
+41. Ng E. The pandemic of hate is giving novel coronavirus disease
+(COVID-19) a helping hand. Am J Trop Med Hyg [Internet].  2020 Apr 20
+[cited 2020 Jul 8];  Available from: [URL: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7253093/"] https://www.ncbi.nlm.nih.gov/pmc/
+ articles/PMC7253093/.
+42. Misra S, Le PD, Goldmann E, Yang LH. Psychological impact of anti-Asian
+stigma due to the COVID-19 pandemic: a call for research, practice, and
+policy responses. Psychol Trauma Theory Res Pract Policy. 2020 Jun;11.
+43. Ayele Y, Hawulte B, Feto T, Basker GV, Bacha YD. Job satisfaction among
+pharmacy professionals working in public hospitals and its associated
+factors, eastern Ethiopia. J Pharm Policy Pract. 2020 May 11;13(11):1–9.
+44. Chan AOM. Psychological impact of the 2003 severe acute respiratory
+syndrome outbreak on health care workers in a medium size regional
+general hospital in Singapore. Occup Med. 2004 May 1;54(3):190–6. 
+45. Cullen W, Gulati G, Kelly BD. Mental health in the Covid-19 pandemic. QJM
+Int J Med [Internet]. 2020 Mar 30 [cited 2020 Jun 16]; Available from:
+ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7184387/.
+46. McAlonan GM, Lee AM, Cheung V, Cheung C, Tsang KW, Sham PC, et al.
+Immediate and sustained psychological impact of an emerging infectious
+disease outbreak on health care workers. Can J Psychiatry. 2007 Apr;52(4):241–7.
+47. Liu X, Kakade M, Fuller CJ, Fan B, Fang Y, Kong J, et al. Depression after
+exposure to stressful events: lessons learned from the severe acute
+respiratory syndrome epidemic. Compr Psychiatry. 2012 Jan;53(1):15–23.
+48. Maunder RG, Lancee WJ, Balderson KE, Bennett JP, Borgundvaag B, Evans S,
+et al. Long-term psychological and occupational effects of providing
+hospital healthcare during SARS outbreak. Emerg Infect Dis. 2006 Dec;
+12(12):1924–32.
+49. Canadian Pharmacists Association. COVID-19: information for pharmacists -
+English [Internet]. 2020 [cited 2020 Jun 26]. Available from: [URL: "https://www.pharmacists.ca/advocacy/covid-19-information-for-pharmacists/#advocacySection"] https://www.
+ pharmacists.ca/advocacy/covid-19-information-for-pharmacists/
+ #advocacySection.
+50. Gaebel W, Stricker J. e-Mental health options in the COVID-19 pandemic
+and beyond. Psychiatry Clin Neurosci [Internet]. [cited 2020 Jun 12];n/a(n/a).
+Available from: [URL: "http://onlinelibrary.wiley.com/doi/abs/10.1111/pcn.13079"] http://onlinelibrary.wiley.com/doi/abs/10.1111/pcn.13079.
+51. Strudwick G, Impey D, Torous J, Krausz RM, Wiljer D. Advancing e-Mental
+health in Canada: report from a multistakeholder meeting. JMIR Ment
+Health [Internet]. 2020 Apr 30 [cited 2020 Jun 11];7(4). Available from:
+ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7226031/.
+52. Ho CS, Chee CY, Ho RC. Mental health strategies to combat the
+psychological impact of coronavirus disease 2019 (COVID-19) beyond
+paranoia and panic. 2020;49(3):6.
+53. Ransing R, Ramalho R, Orsolini L, Adiukwu F, Gonzalez-Diaz JM, Larnaout A,
+et al. Can COVID-19 related mental health issues be measured?: assessment
+options for mental health professionals. Brain Behav Immun [Internet]. 2020
+May 26 [cited 2020 Jun 11]; Available from: [URL: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7248629/"] https://www.ncbi.nlm.nih.gov/
+ pmc/articles/PMC7248629/.
+54. Chen Q, Liang M, Li Y, Guo J, Fei D, Wang L, et al. Mental health care for
+medical staff in China during the COVID-19 outbreak. Lancet Psychiatry.
+2020 Apr;7(4):e15–6.
+55. Li W, Yang Y, Liu Z-H, Zhao Y-J, Zhang Q, Zhang L, et al. Progression of
+mental health services during the COVID-19 outbreak in China. Int J Biol Sci.
+2020 Mar 15;16(10):1732–8.
+56. Hafner T, Banda M, Kohler J, Babar Z-U-D, Lumpkin M, Adeyeye MC, et al.
+Integrating pharmaceutical systems strengthening in the current global
+health scenario: three ‘uncomfortable truths.’ J Pharm Policy Pract. 2020 Jun
+25;13(38):1–4.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.

@@ -1,0 +1,463 @@
+Page 1
+Analytica (software)
+Analytica is a visual software developed by Lumina Decision
+Systems for creating, analyzing and communicating quantitative
+decision models.[1] It combines hierarchical [URL: "https://en.wikipedia.org/wiki/Influence_diagram"] influence diagrams for
+visual creation and view of models, intelligent arrays for working
+with multidimensional data, [URL: "https://en.wikipedia.org/wiki/Monte_Carlo_simulation"] Monte Carlo simulation for analyzing
+risk and uncertainty, and optimization, including linear and
+nonlinear programming. Its design, especially its influence
+diagrams and treatment of uncertainty, is based on ideas from the
+field of [URL: "https://en.wikipedia.org/wiki/Decision_analysis"] decision analysis. As a computer language, it combines a
+declarative (non-procedural) structure for referential transparency,
+array abstraction, and automatic dependency maintenance for
+efficient sequencing of computation.
+Contents
+Hierarchical influence diagrams
+Intelligent multidimensional arrays
+Uncertainty analysis
+Systems dynamics modeling
+As a programming language
+Applications of Analytica
+Editions
+History
+References
+External links 
+Analytica
+ Developer(s)  Lumina
+Decision
+Systems
+Initial release January 16,
+1992
+Written in  [URL: "https://en.wikipedia.org/wiki/C%2B%2B_(programming_language)"] C++
+ Operating system [URL: "https://en.wikipedia.org/wiki/Microsoft_Windows"] Windows
+ Platform [URL: "https://en.wikipedia.org/wiki/IA-32"] IA-32, [URL: "https://en.wikipedia.org/wiki/X64"] x64
+Available in  English
+ Type  [URL: "https://en.wikipedia.org/wiki/Decision-making_software"] Decision-
+making
+software
+ License [URL: "https://en.wikipedia.org/wiki/Commercial_software"] Commercial
+ proprietary
+software
+Website [URL: "https://analytica.com/"] analytica.com
+(https://analytic
+a.com/)
+Hierarchical influence diagrams
+Analytica models are organized as [URL: "https://en.wikipedia.org/wiki/Influence_diagram"] influence diagrams. Variables (and other objects) appear as nodes of
+various shapes on a diagram, connected by arrows that provide a visual representation of dependencies.
+Analytica influence diagrams may be hierarchical, in which a single module node on a diagram represents
+an entire submodel.
+Hierarchical influence diagrams in Analytica serve as an organizational tool. Because the visual layout of
+an influence diagram matches these natural human abilities both spatially and in the level of abstraction,
+people are able to take in more information about a model's structure and organization at a glance than is
+possible with less visual paradigms, such as [URL: "https://en.wikipedia.org/wiki/Spreadsheet"] spreadsheets and [URL: "https://en.wikipedia.org/wiki/Mathematical_expression"] mathematical expressions. Managing the
+structure and organization of a large model can be a significant part of the modeling process, but is
+substantially aided by the visualization of influence diagrams.
+Page 2
+Influence diagrams also serve as a tool for communication. Once a quantitative model has been created and
+its final results computed, it is often the case that an understanding of how the results are obtained, and how
+various assumptions impact the results, is far more important than the specific numbers computed.
+Analytica gives users the ability to help target audiences understand these aspects within their models. The
+visual representation of an influence diagram quickly communicates an understanding at a level of
+abstraction that is normally more appropriate than detailed representations such as mathematical expressions
+or cell formulas. When more detail is desired, users can drill down to increasing levels of detail, speeded by
+the visual depiction of the model's structure.
+The existence of an easily understandable and transparent model supports communication and debate
+within an organization, and this effect is one of the primary benefits of quantitative model building. When
+all interested parties are able to understand a common model structure, debates and discussions will often
+focus more directly on specific assumptions, can cut down on "cross-talk", and therefore lead to more
+productive interactions within the organization. The influence diagram serves as a graphical representation
+that can help to make models accessible to people at different levels.
+Intelligent multidimensional arrays
+Analytica uses index objects to track the dimensions of multidimensional arrays. An index object has a
+name and a list of elements. When two multidimensional values are combined, for example in an
+expression such as
+Profit = Revenue − Expenses
+where Revenue and Expenses are each multidimensional, Analytica repeats the profit calculation over each
+dimension, but recognizes when same dimension occurs in both values and treats it as the same dimension
+during the calculation, in a process called intelligent array abstraction.  Unlike most programming
+languages, there is no inherent ordering to the dimensions in a multidimensional array. This avoids
+duplicated formulas and explicit FOR loops, both common sources of modeling errors. The simplified
+expressions made possible by intelligent array abstraction allow the model to be more accessible,
+interpretable, and transparent.
+Another consequence of intelligent array abstraction is that new dimensions can be introduced or removed
+from an existing model, without requiring changes to the model structure or changes to variable definitions.
+For example, while creating a model, the model builder might assume a particular variable, for example
+ discount_rate, contains a single number. Later, after constructing a model, a user might replace the single
+number with a table of numbers, perhaps discount_rate broken down by Country and by
+Economic_scenario. These new divisions may reflect the fact that the effective discount rate is not the same
+for international divisions of a company, and that different rates are applicable to different hypothetical
+scenarios. Analytica automatically propagates these new dimensions to any results that depend upon
+discount_rate, so for example, the result for [URL: "https://en.wikipedia.org/wiki/Net_present_value"] Net present value will become multidimensional and contain
+these new dimensions. In essence, Analytica repeats the same calculation using the discount rate for each
+possible combination of Country and Economic_scenario.
+This flexibility is important when exploring computation tradeoffs between the level of detail, computation
+time, available data, and overall size or dimensionality of parametric spaces. Such adjustments are common
+after models have been fully constructed as a way of exploring [URL: "https://en.wikipedia.org/wiki/What-if_analysis"] what-if scenarios and overall relationships
+between variables.
+Uncertainty analysis
+Page 3
+Incorporating uncertainty into model outputs helps to provide more realistic and informative projections.
+Uncertain quantities in Analytica can be specified using a [URL: "https://en.wikipedia.org/wiki/Probability_distribution"] distribution function. When evaluated,
+distributions are sampled using either [URL: "https://en.wikipedia.org/wiki/Latin_hypercube_sampling"] Latin hypercube, [URL: "https://en.wikipedia.org/wiki/Monte_Carlo_simulation"] Monte Carlo, or [URL: "https://en.wikipedia.org/wiki/Sobol_sequence"] Sobol sampling, then the samples
+are propagated through the computations to the results. The sampled result distribution and summary
+[URL: "https://en.wikipedia.org/wiki/Cumulative_distribution_function"] statistics can then be viewed directly (mean, fractile bands, probability density function (PDF), cumulative
+ distribution function (CDF)),  Analytica supports collaborative decision analysis and probability
+management through the use of the SIPMath(tm) standard.[2][3]
+Systems dynamics modeling
+ System dynamics is an approach to simulating the behaviour of complex systems over time. It deals with
+feedback loops and time delays on the behaviour of the entire system. The Dynamic() function in Analytica
+ allows definition of variables with cyclic dependencies, such as feedback loops. It expands the influence
+diagram notation, which does not normally allow cycles. At least one link in each cycle includes a time lag,
+depicted as a gray influence arrow to distinguish it from standard black arrows without time lags.
+As a programming language
+Analytica includes a general language of operators and functions for expressing mathematical relationships
+among variables. Users can define functions and libraries to extend the language.
+Analytica has several features as a [URL: "https://en.wikipedia.org/wiki/Programming_language"] programming language designed to make it easy to use for quantitative
+ modeling: It is a visual programming language, where users view programs (or "models") as influence
+diagrams, which they create and edit visually by adding and linking nodes. It is a [URL: "https://en.wikipedia.org/wiki/Declarative_programming_language"] declarative language,
+meaning that a model declares a definition for each variable without specifying an execution sequence as
+required by conventional [URL: "https://en.wikipedia.org/wiki/Imperative_programming_language"] imperative languages. Analytica determines a correct and efficient execution
+sequence using the dependency graph. It is a [URL: "https://en.wikipedia.org/wiki/Referentially_transparent"] referentially transparent [URL: "https://en.wikipedia.org/wiki/Functional_programming_language"] functional language, in that execution
+ of functions and variables have no side effects i.e. changing other variables. Analytica is an array
+programming language, where operations and functions generalize to work on multidimensional arrays.
+Applications of Analytica
+Analytica has been used for [URL: "https://en.wikipedia.org/wiki/Policy_analysis"] policy analysis, [URL: "https://en.wikipedia.org/wiki/Business_Analysis"] business modeling, and [URL: "https://en.wikipedia.org/wiki/Risk_analysis_(business)"] risk analysis.[4] Areas in which
+Analytica has been applied include energy,[5][6][7][8][9][10]  [URL: "https://en.wikipedia.org/wiki/Health_care"] health and
+pharmaceuticals,[11][12][13][14][15][16][17][18][19][20][21][22][23][24][25][26]environmental risk and emissions
+policy analysis,[27][28][29][30][31][32][33][34][35]  [URL: "https://en.wikipedia.org/wiki/Wildlife_management"] wildlife management,[36][37][38][39]
+ecology,[40][41][42][43][44][45][46]climate change,[47][48][49][50][51][52][53][54][55][56] technology and
+defense,[57][58][59][60][61][62][63][64][65][66][67][68][69][70][71][72][73][74]strategic financial planning,[75][76]
+R&D planning and portfolio management,[77][78][79]financial services,aerospace,[80] manufacturing[81]
+and environmental health impact assessment.[82]
+Editions
+The Analytica software runs on [URL: "https://en.wikipedia.org/wiki/Microsoft_Windows"] Microsoft Windows operating systems. Analytica Free Edition is available
+for an unlimited time and lets you build models of up to 101 user objects. Analytica Professional,
+Enterprise, Optimizer are desktop editions with increasing levels of functionality. The Analytica Cloud
+Platform lets users share models via a server and run them via a web browser. Analytica 6.1 was released in
+2021.
+[URL: "https://en.wikipedia.org/wiki/Mean"]
+Page 4
+History
+Analytica's predecessor, called Demos,[83] grew from the research on tools for [URL: "https://en.wikipedia.org/wiki/Policy_analysis"] policy analysis by Max
+Henrion as a PhD student and later professor at [URL: "https://en.wikipedia.org/wiki/Carnegie_Mellon_University"] Carnegie Mellon University between 1979 and 1990.
+Henrion founded Lumina Decision Systems in 1991 with Brian Arnold. Lumina continued to develop the
+software and apply it to environmental and public policy analysis applications. Lumina first released
+Analytica as a product in 1996.
+References
+1. [URL: "http://www.lumina.com/software/ch10.9.PDF"] Granger Morgan and Max Henrion (1998), Analytica:A Software Tool for Uncertainty
+ Analysis and Model Communication (http://www.lumina.com/software/ch10.9.PDF) Archived
+(https://web.archive.org/web/20070630125258/http://www.lumina.com/software/ch10.9.PDF)
+June 30, 2007, at the [URL: "https://en.wikipedia.org/wiki/Wayback_Machine"] Wayback Machine, Chapter 10 of Uncertainty: A Guide to Dealing with
+Uncertainty in Quantitative Risk and Policy Analysis, second edition, Cambridge University
+Press, New York.
+2. [URL: "https://web.archive.org/web/20170121075826/http://www.probabilitymanagement.org/standards.html"] The SIPmath Standard http://probabilitymanagement.org/standards.html Archived (https://we
+b.archive.org/web/20170121075826/http://www.probabilitymanagement.org/standards.html)
+2017-01-21 at the [URL: "https://en.wikipedia.org/wiki/Wayback_Machine"] Wayback Machine
+3. [URL: "http://probabilitymanagement.org/library/IWM11MarApr_MonteCarlo.pdf"] Paul D. Kaplan and Sam Savage (2011), Monte Carlo, A Lightbulb for Illuminating
+Uncertainty (http://probabilitymanagement.org/library/IWM11MarApr_MonteCarlo.pdf)
+ Archived (https://web.archive.org/web/20170307150357/http://probabilitymanagement.org/li
+brary/IWM11MarApr_MonteCarlo.pdf) 2017-03-07 at the [URL: "https://en.wikipedia.org/wiki/Wayback_Machine"] Wayback Machine, in Investments
+& Wealth Monitor
+4. [URL: "https://doi.org/10.1111/0272-4332.203033"] Jun Long, Baruch Fischhoff (2000), Setting Risk Priorities: A Formal Model Risk Analysis (ht
+tps://doi.org/10.1111/0272-4332.203033), Risk Analysis 20(3):339–352.
+5. [URL: "http://eetd.lbl.gov/ea/emp/reports/lbnl-1884e.pdf"] Stadler M., Marnay C., Azevedo I.L., Komiyama R., Lai J. (2009), The Open Source
+Stochastic Building Simulation Tool SLBM and Its Capabilities to Capture Uncertainty of
+Policymaking in the U.S. Building Sector (http://eetd.lbl.gov/ea/emp/reports/lbnl-1884e.pdf)
+ Archived (https://web.archive.org/web/20110927151032/http://eetd.lbl.gov/ea/emp/reports/lb
+nl-1884e.pdf) September 27, 2011, at the [URL: "https://en.wikipedia.org/wiki/Wayback_Machine"] Wayback Machine
+6. [URL: "https://web.archive.org/web/20110928162008/https://wpweb2.tepper.cmu.edu/ceic/pdfs/CEIC_06_10.pdf"] Ye Li and H. Keith Florig (Sept. 2006), Modeling the Operation and Maintenance Costs of a
+Large Scale Tidal Current Turbine Farm (https://web.archive.org/web/20110928162008/http
+ s://wpweb2.tepper.cmu.edu/ceic/pdfs/CEIC_06_10.pdf), Oceans (2006) (http://ieeexplore.iee
+e.org/xpl/freeabs_all.jsp?arnumber=4098949):1-6
+7. L.F.Miller, Brian Thomas, J.McConn, J. Hou, J.Preston, T.Anderson, and M.Humberstone
+[URL: "http://hou.jia.googlepages.com/2007_ANS_Summer_Abstract.doc"] (2007), Uncertainty Analysis Methods for Equilibrium Fuel Cycles (http://hou.jia.googlepage
+s.com/2007_ANS_Summer_Abstract.doc), ANS Summer Abstract.
+8. [URL: "http://www.mitpressjournals.org/doi/abs/10.1162/10881980160084015"] Gregory A. Norris and Peter Yost (Fall 2001), Journal of Industrial Ecology (http://www.mitpre
+ssjournals.org/doi/abs/10.1162/10881980160084015) 5(4):15–28, MIT Press Journals.
+9. [URL: "http://www.biomedcentral.com/1471-2458/5/123"] Jouni T Tuomisto and Marko Tainio (2005),An economic way of reducing health,
+environmental, and other pressures of urban traffic: a decision analysis on trip aggregation
+(http://www.biomedcentral.com/1471-2458/5/123), BMC Public Health 5:123.
+doi:[URL: "https://doi.org/10.1186%2F1471-2458-5-123"] 10.1186/1471-2458-5-123 (https://doi.org/10.1186%2F1471-2458-5-123)
+10. Yurika Nishioka, Jonathan I. Levy, Gregory A. Norris, Andrew Wilson, Patrick Hofstetter,
+ John D. Spengler (Oct 2002),Integrating Risk Assessment and Life Cycle Assessment: A
+Case Study of Insulation (https://doi.org/10.1111/1539-6924.00266), Risk Analysis
+22(5):1003–1017.
+Page 5
+11. [URL: "https://web.archive.org/web/20070518005637/http://toxsci.oxfordjournals.org/cgi/content/abstract/43/1/1"] Igor Linkov, Richard Wilson and George M., Gray (1998), Anticarcinogenic Responses in
+Rodent Cancer Bioassays Are Not Explained by Random Effects (https://web.archive.org/we
+ b/20070518005637/http://toxsci.oxfordjournals.org/cgi/content/abstract/43/1/1), Toxicological
+Sciences 43(1), Oxford University Press.
+12. [URL: "http://www.ingentaconnect.com/content/rsm/jtt/2001/00000007/A00105s1/art00009"] M. Loane and R. Wootton (Oct 2001), A simulation model for analysing patient activity in
+dermatology (http://www.ingentaconnect.com/content/rsm/jtt/2001/00000007/A00105s1/art0
+0009), Journal of Telemedicine and Telecare 7(1):23–25(3), Royal Society of Medicine
+Press.
+13. Davis Bu, Eric Pan, Janice Walker, Julia Adler-Milstein, David Kendrick, Julie M. Hook,
+ Caitlin M. Cusack, David W. Bates, and Blackford Middleton (2007), Benefits of Information
+Technology–Enabled Diabetes Management (http://care.diabetesjournals.org/cgi/content/ab
+stract/30/5/1137), Diabetes Care 30:1137–1142, American Diabetes Association.
+14. Julia Adler-Milstein, Davis Bu, Eric Pan, Janice Walker, David Kendrick, Julie M. Hook,
+ David W. Bates, Blackford Middleton. The Cost of Information Technology-Enabled Diabetes
+Management (http://www.liebertonline.com/doi/abs/10.1089/dis.2007.103640?cookieSet=1&
+journalCode=dis), Disease Management. June 1, 2007, 10(3): 115–128.
+doi:[URL: "https://doi.org/10.1089%2Fdis.2007.103640"] 10.1089/dis.2007.103640 (https://doi.org/10.1089%2Fdis.2007.103640).
+15. [URL: "http://www.palgrave-journals.com/jors/journal/v58/n2/full/2602269a.html"] E. Ekaette, R.C. Lee, K-L Kelly, P. Dunscombe (Aug 2006),A Monte Carlo simulation
+approach to the characterization of uncertainties in cancer staging and radiation treatment
+decisions (http://www.palgrave-journals.com/jors/journal/v58/n2/full/2602269a.html), Journal
+of the Operational Research Society 58:177–185.
+16. Lyon, Joseph L.; Alder, Stephen C.; Stone, Mary Bishop; Scholl, Alan; Reading, James C.;
+Holubkov, Richard; Sheng, Xiaoming; White, George L. Jr; Hegmann, Kurt T.; Anspaugh,
+Lynn; Hoffman, F Owen; Simon, Steven L.; Thomas, Brian; Carroll, Raymond; Meikle, A
+ Wayne (Nov 2006),Thyroid Disease Associated With Exposure to the Nevada Nuclear
+Weapons Test Site Radiation: A Reevaluation Based on Corrected Dosimetry and
+Examination Data (http://www.epidem.com/pt/re/epidemiology/abstract.00001648-20061100
+0-00004.htm), Epidemiology 17(6):604–614.
+17. [URL: "http://www.cher.ubc.ca/westnile/pdfs/elmieh_jan06.pdf"] Negar Elmieh, Hadi Dowlatabadi, Liz Casman (Jan 2006), A model for Probabilistic
+Assessment of Malathion Spray Exposures (PAMSE) in British Columbia (http://www.cher.ub
+ c.ca/westnile/pdfs/elmieh_jan06.pdf) Archived (https://web.archive.org/web/2011092911525
+6/http://www.cher.ubc.ca/westnile/pdfs/elmieh_jan06.pdf) September 29, 2011, at the
+ Wayback Machine, CMU EEP.
+18. von Winterfeldt, Detlof; Eppel, Thomas; Adams, John; Neutra, Raymond; Delpizzo, Vincent
+(2004). "Managing Potential Health Risks from Electric Powerlines: A Decision Analysis
+ Caught in Controversy". Risk Analysis. 24 (6): 1487–1502. doi:10.1111/j.0272-
+ 4332.2004.00544.x (https://doi.org/10.1111%2Fj.0272-4332.2004.00544.x). PMID 15660606
+(https://pubmed.ncbi.nlm.nih.gov/15660606).
+19. Montville, Rebecca; Chen, Yuhuan; Schaffner, Donald W. (2002). "Risk assessment of hand
+washing efficacy using literature and experimental data". International Journal of Food
+ Microbiology. 73 (2–3): 305–313. doi:10.1016/S0168-1605(01)00666-3 (https://doi.org/10.10
+ 16%2FS0168-1605%2801%2900666-3). PMID 11934038 (https://pubmed.ncbi.nlm.nih.gov/
+11934038).
+20. DC Kendrick, D Bu, E Pan, B Middleton (2007), Crossing the Evidence Chasm: Building
+Evidence Bridges from Process Changes to Clinical Outcomes, Journal of the American
+Medical Informatics Association, Elsevier.
+21. Cox, Louis Anthony (Tony) (2005). "Potential human health benefits of antibiotics used in
+food animals: A case study of virginiamycin". Environment International. 31 (4): 549–563.
+doi:[URL: "https://doi.org/10.1016%2Fj.envint.2004.10.012"] 10.1016/j.envint.2004.10.012 (https://doi.org/10.1016%2Fj.envint.2004.10.012).
+PMID 15871160 [URL: "https://pubmed.ncbi.nlm.nih.gov/15871160"] (https://pubmed.ncbi.nlm.nih.gov/15871160).
+Page 6
+22. Jan Walker, Eric Pan, Douglas Johnston, Julia Adler-Milstein, David W. Bates, and Blackford
+ Middleton (19 Jan 2005), The Value Of Health Care Information Exchange And
+Interoperability (http://content.healthaffairs.org/cgi/reprint/hlthaff.w5.10v1.pdf), Health Affairs.
+23. [URL: "http://www.citl.org/research/articles.htm"] Doug Johnston, Eric Pan, Blackford Middleton, Finding the Value in Healthcare Information
+ Technologies (http://www.citl.org/research/articles.htm) Archived (https://web.archive.org/we
+ b/20080706120811/http://www.citl.org/research/articles.htm) July 6, 2008, at the Wayback
+Machine, Center for Information Technology Leadership (C!TL) whitepaper.
+24. [URL: "http://chrisman.org/Lonnie/psb2003/index.htm"] Chrisman, L., Langley, P., Bay, S., and Pohorille, A. (Jan 2003), "Incorporating biological
+knowledge into evaluation of causal regulatory hypotheses" (http://chrisman.org/Lonnie/psb
+2003/index.htm), Pacific Symposium on Biocomputing (PSB).
+25. Jan Walker, Eric Pan, Douglas Johnson, Julia Adler-Milstein, David W. Bates and Blackford
+ Middleton (2005), The Value of Health Care Information and Exchange And Interoperability"
+(http://content.healthaffairs.org/content/early/2005/01/19/hlthaff.w5.10.short) Health Affairs.
+26. [URL: "https://www.nytimes.com/2005/01/19/technology/19health.html?ex=1107134972&ei=1&en=4657166ae8ef8c9f"] Steve Lohr, Road Map to a Digital System of Health Records (https://www.nytimes.com/200
+5/01/19/technology/19health.html?ex=1107134972&ei=1&en=4657166ae8ef8c9f), New
+York Times, January 29, 2005
+27. C. Bloyd, J. Camp, G. Conzelmann, J. Formento, J. Molburg, J. Shannon, M. Henrion, R.
+Sonnenblick, K. Soo Hoo, J. Kalagnanam, S. Siegel, R. Sinha, M. Small, T. Sullivan, R.
+Marnicio, P. Ryan, R. Turner, D. Austin, D. Burtraw, D. Farrell, T. Green, A. Krupnick, and E.
+ Mansur (Dec 1996), Tracking and Analysis Framework (TAF) Model Documentation and
+User’s Guide: An Interaction Model for Integrated Assessment of Title IV of the Clean Air Act
+ Amendments (http://lumina.com/taf/taflist/dltaf/TAF.pdf) Archived (https://web.archive.org/we
+b/20090105162907/http://lumina.com/taf/taflist/dltaf/TAF.pdf) January 5, 2009, at the
+ Wayback Machine, Decision and Information Sciences Division, Argonne National
+Laboratory.
+28. [URL: "https://www.lumina.com/taf/taflist/dltaf/Innovations.PDF"] Max Henrion, Richard Sonnenblick, Cary Bloyd (Jan 1997), Innovations in Integrated
+Assessment: The Tracking and Analysis Framework (TAF) (https://www.lumina.com/taf/taflis
+ t/dltaf/Innovations.PDF) Archived (https://web.archive.org/web/20090105174404/https://ww
+w.lumina.com/taf/taflist/dltaf/Innovations.PDF) January 5, 2009, at the [URL: "https://en.wikipedia.org/wiki/Wayback_Machine"] Wayback Machine, Air
+and Waste Management Conference on Acid Rain and Electric Utilities, Scottsdale, AZ.
+29. [URL: "https://www.lumina.com/taf/taflist/dltaf/Uncertainty.PDF"] Richard Sonnenblick and Max Henrion (Jan 1997), Uncertainty in the Tracking and Analysis
+Framework Integrated Assessment: The Value of Knowing How Little You Know (https://ww
+ w.lumina.com/taf/taflist/dltaf/Uncertainty.PDF) Archived (https://web.archive.org/web/200901
+05175211/https://www.lumina.com/taf/taflist/dltaf/Uncertainty.PDF) January 5, 2009, at the
+ Wayback Machine, Air and Waste Management Conference on Acid Rain and Electric
+Utilities, Scottsdale, Arizona.
+30. Sinha, R.; Small, M. J.; Ryan, P. F.; Sullivan, T. J.; Cosby, B. J. (1998). "Reduced-Form
+Modelling of Surface Water and Soil Chemistry for the Tracking and Analysis Framework".
+ Water, Air, and Soil Pollution. 105 (3/4): 617–642. Bibcode:1998WASP..105..617S (https://ui.
+ adsabs.harvard.edu/abs/1998WASP..105..617S). doi:10.1023/A:1004993425759 (https://doi.
+ org/10.1023%2FA%3A1004993425759). S2CID 92758035 (https://api.semanticscholar.org/
+CorpusID:92758035).
+31. [URL: "http://www.rff.org/documents/RFF-DP-99-25.pdf"] Dallas Burtraw and Erin Mansur (Mar 1999),The Effects of Trading and Banking in the SO2
+ Allowance Market (http://www.rff.org/documents/RFF-DP-99-25.pdf) Archived (https://web.ar
+chive.org/web/20070715100151/http://www.rff.org/Documents/RFF-DP-99-25.pdf) 2007-07-
+ 15 at the Wayback Machine, Discussion paper 99–25, Resources for the Future
+(http://rff.org).
+Page 7
+32. Galen mcKinley, Miriam Zuk, Morten Höjer, Montserrat Avalos, Isabel González, Rodolfo
+Iniestra, Israel Laguna, Miguel A. Martínez, Patricia Osnaya, Luz M. Reynales, Raydel
+[URL: "http://www.aos.wisc.edu/~galen/Downloads/McKinley_EST05.pdf"] Valdés, and Julia Martínez (2005), Quantification of Local and Global Benefits from Air
+Pollution Control in Mexico City (http://www.aos.wisc.edu/~galen/Downloads/McKinley_EST
+ 05.pdf) Archived (https://web.archive.org/web/20110929000949/http://www.aos.wisc.edu/~g
+alen/Downloads/McKinley_EST05.pdf) September 29, 2011, at the [URL: "https://en.wikipedia.org/wiki/Wayback_Machine"] Wayback Machine,
+Environ. Sci. Technol. 39:1954–1961.
+33. Luis A. CIFUENTES, Enzo SAUMA, Hector JORQUERA and Felipe SOTO (2000),
+ Preliminary Estimation of the Potential Ancillary Benefits for Chile (http://www.airimpacts.or
+ g/documents/local/M00007481.pdf) Archived (https://web.archive.org/web/2012042316055
+ 0/http://www.airimpacts.org/documents/local/M00007481.pdf) 2012-04-23 at the Wayback
+Machine, Ancillary Benefits and Costs of Greenhouse Gas Mitigation.
+34. Marko Tainio, Jouni T Tuomisto, Otto Hänninen, Juhani Ruuskanen, Matti J Jantunen, and
+ Juha Pekkanen (2007),Parameter and model uncertainty in a life-table model for fine
+particles (PM2.5): a statistical modeling study (http://www.pubmedcentral.nih.gov/articlerend
+er.fcgi?artid=2000460), Environ Health 6(24).
+35. Basson, L.; Petrie, J.G. (2007). "An integrated approach for the consideration of uncertainty
+in decision making supported by Life Cycle Assessment". Environmental Modelling &
+ Software. 22 (2): 167–176. doi:10.1016/j.envsoft.2005.07.026 (https://doi.org/10.1016%2Fj.e
+nvsoft.2005.07.026).
+36. Matthew F. Bingham, Zhimin Li, Kristy E. Mathews, Colleen M. Spagnardi, Jennifer S.
+Whaley, Sara G. Veale and Jason C. Kinnell (2011), An Application of Behavioral Modeling
+to Characterize Urban Angling Decisions and Values, North American Journal of Fisheries
+Management 31:257–268.
+37. Woodbury, Peter B.; Smith, James E.; Weinstein, David A.; Laurence, John A. (1998).
+"Assessing potential climate change effects on loblolly pine growth: A probabilistic regional
+modeling approach". Forest Ecology and Management. 107 (1–3): 99–116.
+ doi:10.1016/S0378-1127(97)00323-X (https://doi.org/10.1016%2FS0378-1127%2897%290
+0323-X).
+38. [URL: "http://www.dfo-mpo.gc.ca/csas/Csas/DocREC/2003/RES2003_086_E.pdf"] P.R. Richard, M. Power, M. Hammill, and W. Doidge(2003). Eastern Hudson Bay Beluga
+Precautionary Approach Case Study: Risk analysis models for co-management (http://www.
+ dfo-mpo.gc.ca/csas/Csas/DocREC/2003/RES2003_086_E.pdf) Archived (https://web.archiv
+e.org/web/20120403034050/http://www.dfo-mpo.gc.ca/csas/Csas/DocREC/2003/RES2003_
+086_E.pdf) April 3, 2012, at the [URL: "https://en.wikipedia.org/wiki/Wayback_Machine"] Wayback Machine, Canadian Science Advisory Secretariat
+Research Document.
+39. [URL: "http://www.dfo-mpo.gc.ca/csas/Csas/DocREC/2003/RES2003_087_E.pdf"] P.R. Richard (2003), Incorporating Uncertainty in Population Assessments (http://www.dfo-m
+ po.gc.ca/csas/Csas/DocREC/2003/RES2003_087_E.pdf) Archived (https://web.archive.org/
+web/20120403034057/http://www.dfo-mpo.gc.ca/csas/Csas/DocREC/2003/RES2003_087_
+E.pdf) April 3, 2012, at the [URL: "https://en.wikipedia.org/wiki/Wayback_Machine"] Wayback Machine, Canadian Science Advisory Secretariat
+Research Document.
+40. O'Ryan R., Diaz M. (2008), The Use of Probabilistic Analysis to Improve Decision-Making in
+Environmental Regulation in a Developing Context: The Case of Arsenic Regulation in
+Chile, Human and Ecological Risk Assessment, Vol 14, Issue 3, pg: 623–640.
+41. Andrew Gronewold and Mark Borsuk, "A probabilistic modeling tool for assessing water
+quality standard compliance", submitted to EMS Oct 2008.
+42. Borsuk, Mark E.; Reichert, Peter; Peter, Armin; Schager, Eva; Burkhardt-Holm, Patricia
+(2006). "Assessing the decline of brown trout (Salmo trutta) in Swiss rivers using a Bayesian
+probability network". Ecological Modelling. 192 (1–2): 224–244.
+doi:[URL: "https://doi.org/10.1016%2Fj.ecolmodel.2005.07.006"] 10.1016/j.ecolmodel.2005.07.006 (https://doi.org/10.1016%2Fj.ecolmodel.2005.07.006).
+Page 8
+43. Borsuk, Mark E.; Stow, Craig A.; Reckhow, Kenneth H. (2004). "A Bayesian network of
+eutrophication models for synthesis, prediction, and uncertainty analysis". Ecological
+ Modelling. 173 (2–3): 219–239. doi:10.1016/j.ecolmodel.2003.08.020 (https://doi.org/10.101
+6%2Fj.ecolmodel.2003.08.020).
+44. [URL: "http://article.pubs.nrc-cnrc.gc.ca/ppv/RPViewDoc?_handler_=HandleInitialGet&journal=cjfas&volume=59&calyLang=eng&articleFile=f02-093.pdf"] Mark E. Borsuk, Sean P. Powers, and Charles H. Peterson (2002),A survival model of the
+effects of bottom-water hypoxia on the population density of an estuarine clam (Macoma
+balthica) (http://article.pubs.nrc-cnrc.gc.ca/ppv/RPViewDoc?_handler_=HandleInitialGet&jo
+urnal=cjfas&volume=59&calyLang=eng&articleFile=f02-093.pdf), Canadian Journal of
+Fisheries and Aquatic Sciences (59):1266–1274.
+45. [URL: "http://aem.highwire.org/cgi/content/abstract/71/2/746"] Rebecca Montville and Donald Schaffner (Feb 2005),Monte Carlo Simulation of Pathogen
+Behavior during the Sprout Production Process (http://aem.highwire.org/cgi/content/abstract/
+ 71/2/746) Archived (https://web.archive.org/web/20111002093013/http://aem.highwire.org/c
+gi/content/abstract/71/2/746) October 2, 2011, at the [URL: "https://en.wikipedia.org/wiki/Wayback_Machine"] Wayback Machine, Applied and
+Environmental Microbiology 71(2):746–753.
+46. Rasmussen, S.K.J; Ross, T.; Olley, J.; McMeekin, T. (2002). "A process risk model for the
+shelf life of Atlantic salmon fillets". International Journal of Food Microbiology. 73 (1): 47–60.
+ doi:10.1016/S0168-1605(01)00687-0 (https://doi.org/10.1016%2FS0168-1605%2801%2900
+687-0). PMID 11885573 [URL: "https://pubmed.ncbi.nlm.nih.gov/11885573"] (https://pubmed.ncbi.nlm.nih.gov/11885573).
+47. Groves, David G.; Lempert, Robert J. (2007). "A new analytic method for finding policy-
+relevant scenarios". Global Environmental Change. 17: 73–85.
+doi:[URL: "https://doi.org/10.1016%2Fj.gloenvcha.2006.11.006"] 10.1016/j.gloenvcha.2006.11.006 (https://doi.org/10.1016%2Fj.gloenvcha.2006.11.006).
+48. Senbel, Maged; McDaniels, Timothy; Dowlatabadi, Hadi (2003). "The ecological footprint: A
+non-monetary metric of human consumption applied to North America". Global
+ Environmental Change. 13 (2): 83–100. doi:10.1016/S0959-3780(03)00009-8 (https://doi.or
+g/10.1016%2FS0959-3780%2803%2900009-8).
+49. Dowlatabadi, H. (1998). Sensitivity of Climate Change Mitigation Estimates to Assumptions
+About Technical Change. Energy Economics 20: 473–93.
+50. West, J. J. and H. Dowlatabadi (1998). On assessing the economic impacts of sea level rise
+on developed coasts. Climate, change and risk. London, Routledge. 205–20.
+51. Leiss, W., H. Dowlatabadi, and Greg Paoli (2001). Who's Afraid of Climate Change? A guide
+for the perplexed. Isuma 2(4): 95–103.
+52. Morgan, M. G., M. Kandlikar, J. Risbey and H. Dowlatabadi (1999). Why conventional tools
+for policy analysis are often inadequate for problems of global change. Climatic Change 41:
+271–81.
+53. Casman, E. A., M. G. Morgan and H. Dowlatabadi (1999). Mixed Levels of Uncertainty in
+Complex Policy Models. Risk Analysis 19(1): 33–42.
+54. Dowlatabadi, H. (2003). Scale and Scope In Integrated Assessment: lessons from ten years
+with ICAM. Scaling in Integrated Assessment. J. Rotmans and D. S. Rothman. Lisse, Swetz
+& Zeitlinger: 55–72.
+55. Dowlatabadi, H. (2000). Bumping against a gas ceiling. Climatic Change 46(3): 391–407.
+56. Morgan, M. G. and H. Dowlatabadi (1996). Learning From Integrated Assessment of Climate
+Change. Climatic Change 34: 337–368.
+57. Henry Heimeier (1996), A New Paradigm For Modeling The Precision Strike Process,
+published in MILCOM96.
+58. Russell F. Richards, Henry A. Neimeier, W. L. Hamm, and D. L. Alexander,"Analytical
+Modeling in Support of C4ISR Mission Assessment (CMA)," Third International Symposium
+on Command and Control Research and Technology,National Defense University, Fort
+McNair, Washington, DC, June 17–20, 1997, pp. 626–639.
+59. Henry Neimeier and C. McGowan (1996), "Analyzing Processes with HANQ", Proceedings
+of the International Council on Systems Engineering '96.
+Page 9
+60. Kenneth P. Kuskey and Susan K. Parker (2000), "The Architecture of CAPE Models",
+ MITRE technical paper. See Abstract (http://www.mitre.org/work/tech_papers/tech_papers_0
+0/kuskey_architecture/index.html).
+61. Henry Neimeier (1994), "Analytic Queuing Network", Conference Proceedings of the 12th
+International Conference on the System Dynamics Society, in Stirling, Scotland.
+62. Henry Neimeier (1996), "Analytic Uncertainty Modeling Versus Discrete Event Simulation",
+PHALANX.
+63. Rahul Tongia, "Can broadband over powerline carrier (PLC) compete?". The author uses
+Analytica to model the economic viability of the introduction of a PLC service.
+64. Promises and False Promises of PowerLine Carrier (PLC) Broadband Communications – A
+ Techno-Economic Analysis "Archived copy" (https://web.archive.org/web/20070211022443/
+ http://tprc.org/papers/2003/246/Tongia-PLC.pdf) (PDF). Archived from the original (http://tprc.
+org/papers/2003/246/Tongia-PLC.pdf) (PDF) on 2007-02-11. Retrieved 2011-07-08.
+65. [URL: "http://www2.tepper.cmu.edu/afs/andrew/gsia/45-879/Readings/ip_pbx.pdf"] Kanchana Wanichkorn and Marvin Sirbu (1998), The Economics of Premises Internet
+Telephony (http://www2.tepper.cmu.edu/afs/andrew/gsia/45-879/Readings/ip_pbx.pdf),
+CMU-EPP.
+66. [URL: "http://cat.inist.fr/?aModele=afficheN&cpsidt=973960"] E.L. Kyser, E.R. Hnatek, M.H. Roettgering (2001),The politics of accelerated stress testing
+(http://cat.inist.fr/?aModele=afficheN&cpsidt=973960), Sound and Vibration 35(3):24–29.
+67. [URL: "http://iis-db.stanford.edu/pubs/11900/soohoo.pdf"] Kevin J. Soo Hoo (June 2000),How Much Is Enough? A Risk-Management Approach to
+ Computer Security (http://iis-db.stanford.edu/pubs/11900/soohoo.pdf) Archived (https://web.a
+rchive.org/web/20110921004719/http://iis-db.stanford.edu/pubs/11900/soohoo.pdf)
+September 21, 2011, at the [URL: "https://en.wikipedia.org/wiki/Wayback_Machine"] Wayback Machine, Working Paper, Consortium for Research on
+Information Security and Policy (CRISP), Stanford University.
+68. [URL: "http://www.aiaa.org/content.cfm?pageid=406&gTable=Paper&gID=37642"] M. Steinbach and S. Giles of MITRE (2005), A Model for Joint Infrastructure Investment (htt
+ p://www.aiaa.org/content.cfm?pageid=406&gTable=Paper&gID=37642) Archived (https://we
+b.archive.org/web/20110924165023/http://www.aiaa.org/content.cfm?pageid=406) 2011-09-
+24 at the [URL: "https://en.wikipedia.org/wiki/Wayback_Machine"] Wayback Machine, AIAA-2005-7309, in AIAA 5th ATIO and 16th Lighter-than-air
+sys tech and balloon systems conferences, Arlington VA, Sep 26–28, 2005.
+69. [URL: "http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=1028892"] Bloomfield, R., Guerra, S. (2002), Process modelling to support dependability arguments (htt
+p://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=1028892), Proceedings. International
+Conference on Dependable Systems and Networks, pg. 113–122. DSN 2002.
+70. [URL: "http://www.cmu.edu/greenpractices/green_initiatives/new_house_images/NewHouseCBA_final.pdf"] Christopher L Weber and Sanath K Kalidas (Fall 2004),Cost-Benefit Analysis of LEED
+Silver Certification for New House Residence Hall at Carnegie Mellon University (http://ww
+w.cmu.edu/greenpractices/green_initiatives/new_house_images/NewHouseCBA_final.pdf),
+Civil Systems Investment Planning and Pricing Project, Dept. of Civil & Environmental
+Engineering, Carnegie Mellon University.
+71. [URL: "https://www.osti.gov/energycitations/product.biblio.jsp?osti_id=767554"] J. McMahon, X. Liu, I. Turiel (Jun 2000), Uncertainty and sensitivity analyses of ballast life-
+cycle cost and payback period (https://www.osti.gov/energycitations/product.biblio.jsp?osti_i
+d=767554), Technical Report LBNL–44450, Lawrence Berkeley Labs, Berkeley CA.
+72. [URL: "http://portal.acm.org/citation.cfm?id=510378.510428"] Paul K. Davis (2000), Dealing with complexity: exploratory analysis enabled by
+multiresolultion, multiperspective modeling (http://portal.acm.org/citation.cfm?id=510378.510
+428), Proceedings of the 32nd Conference on Winter Simulation, pg. 293–302.
+73. [URL: "http://www.informs-sim.org/wsc00papers/043.PDF"] Paul K. Davis (2000), Exploratory Analysis Enabled by Multiresolution, Multiperspective
+Modeling (http://www.informs-sim.org/wsc00papers/043.PDF), Proceedings of the 2000
+Winter Simulation Conference J. A. Joines, R. R. Barton, K. Kang, and P. A. Fishwick, eds.
+74. [URL: "http://sbir.gsfc.nasa.gov/SBIR/successes/ss/10-018text.html"] NASA (1994), Schedule and Cost Risk Analysis Modeling (SCRAM) System (http://sbir.gsfc.
+nasa.gov/SBIR/successes/ss/10-018text.html), NASA SBIR Successes.
+75. [URL: "http://cubeplan.com/cubeplan/case-studies/"] "Cubeplan case studies" (http://cubeplan.com/cubeplan/case-studies/). Cubeplan.com.
+Retrieved 2011-07-12.
+76. [URL: "http://novix.com/"] "Novix consulting services" (http://novix.com/). Novix.com. Retrieved 2011-07-12.
+Page 10
+77. [URL: "http://enrichconsulting.com/news.html"] Enrich Consulting, publications on Portfolio Management (http://enrichconsulting.com/news.
+ html) Archived (https://web.archive.org/web/20110713120746/http://enrichconsulting.com/ne
+ws.html) July 13, 2011, at the [URL: "https://en.wikipedia.org/wiki/Wayback_Machine"] Wayback Machine
+78. [URL: "http://www.bicore.nl/"] "Bicore, Inc" (http://www.bicore.nl/). Bicore.nl. Retrieved 2011-07-12.
+79. [URL: "https://web.archive.org/web/20131017035957/http://www.lumina.com/case-studies/w-l-gore-and-associates/"] "R&D evaluation tools at W.L. Gore" (https://web.archive.org/web/20131017035957/http://w
+ ww.lumina.com/case-studies/w-l-gore-and-associates/). Lumina. Archived from the original
+(http://www.lumina.com/case-studies/w-l-gore-and-associates/) on October 17, 2013.
+80. [URL: "http://www.lumina.com/case-studies/nasa/"] Speeding turnaround of the Space Shuttle (http://www.lumina.com/case-studies/nasa/)
+ Archived (https://web.archive.org/web/20120315223805/http://www.lumina.com/case-studie
+s/nasa/) March 15, 2012, at the [URL: "https://en.wikipedia.org/wiki/Wayback_Machine"] Wayback Machine, Lumina case studies
+81. [URL: "http://www.lumina.com/case-studies/auto-co/"] Auto maker saves $250M on warranty costs (http://www.lumina.com/case-studies/auto-co/)
+[URL: "https://web.archive.org/web/20101212031800/http://www.lumina.com/case-studies/auto-co/"] Archived (https://web.archive.org/web/20101212031800/http://www.lumina.com/case-studie
+s/auto-co/) 2010-12-12 at the [URL: "https://en.wikipedia.org/wiki/Wayback_Machine"] Wayback Machine, Lumina case studies
+82. [URL: "http://www.sciencedirect.com/science/article/pii/S0160412013002110"] James Grellier, Paolo Ravazzani, and Elisabeth Cardis (2014),Potential health impacts of
+residential exposures to extremely low frequency magnetic fields in Europe (http://www.scie
+ncedirect.com/science/article/pii/S0160412013002110), Environment International 62, p55-
+63. doi:[URL: "https://doi.org/10.1016%2Fj.envint.2013.09.017"] 10.1016/j.envint.2013.09.017 (https://doi.org/10.1016%2Fj.envint.2013.09.017)
+83. Neil Wishbow and Max Henrion, "Demos User's Manual", Department of Engineering and
+Public Policy, Carnegie Mellon University, 1987.
+External links
+ Official website (http://www.lumina.com) 
+Retrieved from "[URL: "https://en.wikipedia.org/w/index.php?title=Analytica_(software)&oldid=1092840111"] https://en.wikipedia.org/w/index.php?title=Analytica_(software)&oldid=1092840111"
+This page was last edited on 12 June 2022, at 23:14 (UTC).
+Text is available under the [URL: "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"] Creative Commons Attribution-ShareAlike License 3.0;additional terms may apply. By
+using this site, you agree to the [URL: "https://foundation.wikimedia.org/wiki/Terms_of_Use"] Terms of Use and [URL: "https://foundation.wikimedia.org/wiki/Privacy_policy"] Privacy Policy. Wikipedia® is a registered trademark of the
+ Wikimedia Foundation, Inc., a non-profit organization.

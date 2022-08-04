@@ -1,0 +1,78 @@
+Page 1
+A+ (programming language)
+A+ is an [URL: "https://en.wikipedia.org/wiki/Array_programming_language"] array programming language descended from the
+ programming language A,[2] which in turn was created to replace
+ APL in 1988.[3] [URL: "https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist)"] Arthur Whitney developed the A portion of A+,
+while other developers at [URL: "https://en.wikipedia.org/wiki/Morgan_Stanley"] Morgan Stanley extended it, adding a
+graphical user interface and other language features. A+ is a high-
+level, interactive, [URL: "https://en.wikipedia.org/wiki/Interpreted_language"] interpreted language, designed for numerically
+intensive applications, especially those found in financial
+applications. A+ runs on many [URL: "https://en.wikipedia.org/wiki/Unix"] Unix variants, including Linux. It
+ is free and open source software released under a GNU General
+Public License.
+A+ provides an extended set of functions and operators, a
+ graphical user interface with automatic synchronizing of widgets
+and variables, asynchronous executing of functions associated with
+variables and events, dynamic loading of user compiled
+subroutines, and other features. A newer graphical user interface
+has not yet been ported to all supported platforms
+The A+ language implements the following changes to the APL
+language:
+an A+ function may have up to nine formal parameters
+A+ code statements are separated by semicolons, so a
+single statement may be divided into two or more
+physical lines
+The explicit result of a function or operator is the result
+of the last statement executed
+A+ implements an object called a dependency, which is
+a global variable (the dependent variable) and an
+associated definition that is like a function with no
+arguments. Values can be explicitly set and referenced
+in exactly the same ways as for a global variable, but
+they can also be set through the associated definition.
+Interactive A+ development is primarily done in the [URL: "https://en.wikipedia.org/wiki/Xemacs"] Xemacs
+editor, through extensions to the editor. Because A+ code uses the
+original APL symbols, displaying A+ requires a font with those
+special characters; a font named kapl is provided on the web site
+for that purpose. 
+A+
+ Paradigm [URL: "https://en.wikipedia.org/wiki/Array_programming"] Array
+ Designed by [URL: "https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist)"] Arthur Whitney
+ Developer [URL: "https://en.wikipedia.org/wiki/Morgan_Stanley"] Morgan Stanley
+First appeared 1988
+ Stable release 4.22-1 / March 27,
+2008
+ Typing
+discipline 
+Dynamic, [URL: "https://en.wikipedia.org/wiki/Strong_typing"] strong
+ License [URL: "https://en.wikipedia.org/wiki/GNU_General_Public_License"] GNU General
+Public License
+ Filename
+extensions 
+.., .+, .a, .m[1]
+Website [URL: "http://www.aplusdev.org/"] www.aplusdev.org
+(http://www.aplusd
+ev.org/)
+Major [URL: "https://en.wikipedia.org/wiki/Programming_language_implementation"] implementations
+A+
+Influenced by
+ APL
+Influenced
+ K
+[URL: "https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist)"] Arthur Whitney went on to create a proprietary array language named K. Like J, K omits the APL
+character set. It lacks some of the perceived complexities of A+, such as the existence of statements and
+two different modes of syntax.
+References
+Page 2
+1. [URL: "http://www.aplusdev.org/APlusRefV2_63.html#HEADING991"] "A+ Reference: Appendix: Quick Reference" (http://www.aplusdev.org/APlusRefV2_63.html
+#HEADING991). Retrieved 2020-02-06.
+2. [URL: "https://aplwiki.com/wiki/A"] "A - APL Wiki" (https://aplwiki.com/wiki/A).
+3. [URL: "http://www.aplusdev.org/About/index.html"] "A+: History of A+" (http://www.aplusdev.org/About/index.html). www.aplusdev.org. Retrieved
+2019-01-18.
+External links
+ Official website (http://www.aplusdev.org), aplusdev.org
+Retrieved from "[URL: "https://en.wikipedia.org/w/index.php?title=A%2B_(programming_language)&oldid=1071419770"] https://en.wikipedia.org/w/index.php?title=A%2B_(programming_language)&oldid=1071419770"
+This page was last edited on 12 February 2022, at 14:27 (UTC).
+Text is available under the [URL: "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"] Creative Commons Attribution-ShareAlike License 3.0;additional terms may apply. By
+using this site, you agree to the [URL: "https://foundation.wikimedia.org/wiki/Terms_of_Use"] Terms of Use and [URL: "https://foundation.wikimedia.org/wiki/Privacy_policy"] Privacy Policy. Wikipedia® is a registered trademark of the
+ Wikimedia Foundation, Inc., a non-profit organization.

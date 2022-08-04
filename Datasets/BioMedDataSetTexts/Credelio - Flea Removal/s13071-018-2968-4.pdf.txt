@@ -1,0 +1,970 @@
+Creator: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+Producer: Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+Title: Laboratory evaluation of the efficacy and speed of kill of lotilaner (CredelioTM) against Ixodes ricinus ticks on cats
+Keywords: Lotilaner,CredelioTM,Cat,Tick,Ixodes ricinus,Efficacy,Speed of kill,Safety
+ModDate: 2018/07/12 14:35:21+02'00'
+Subject: Parasites & Vectors, 2018, doi:10.1186/s13071-018-2968-4
+Author: Daniela Cavalleri
+CreationDate: 2018/07/03 22:48:41+08'00'
+xmp:pdf:Keywords: Lotilaner,CredelioTM,Cat,Tick,Ixodes ricinus,Efficacy,Speed of kill,Safety
+xmp:pdf:Producer: Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+xmp:dc:format: application/pdf
+xmp:dc:identifier: 10.1186/s13071-018-2968-4
+xmp:dc:publisher: Parasites & Vectors
+xmp:dc:description: Parasites & Vectors, 2018, doi:10.1186/s13071-018-2968-4
+xmp:dc:subject: Lotilaner; CredelioTM; Cat; Tick; Ixodes ricinus; Efficacy; Speed of kill; Safety
+xmp:dc:title: Laboratory evaluation of the efficacy and speed of kill of lotilaner (CredelioTM) against Ixodes ricinus ticks on cats
+xmp:dc:creator: Daniela Cavalleri; Martin Murphy; Wolfgang Seewald; Jason Drake; Steve Nanchen
+xmp:xmp:MetadataDate: 2018-07-12T14:35:21+02:00
+xmp:xmp:CreateDate: 2018-07-03T22:48:41+08:00
+xmp:xmp:CreatorTool: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+xmp:xmp:ModifyDate: 2018-07-12T14:35:21+02:00
+xmp:xmpMM:DocumentID: uuid:3722d032-a683-4ce1-8730-88b1b7c36a59
+xmp:xmpMM:InstanceID: uuid:6b414fa4-5c43-4a14-bbae-e4510ae7f6a9
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:10309ec0-108f-46fa-a346-9204feca16be
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2018-07-11T21:55:54+08:00
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:author:name: Daniela Cavalleri
+xmp:author:orcid: http://orcid.org/0000-0001-8489-2146
+xmp:pdfaSchema:schema: Springer Nature ORCID Schema
+xmp:pdfaSchema:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/
+xmp:pdfaSchema:prefix: sn
+xmp:pdfaProperty:name: authorInfo
+xmp:pdfaProperty:valueType: Bag AuthorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Author information: contains the name of each author and his/her ORCID (ORCiD: Open Researcher and Contributor ID). An ORCID is a persistent identifier (a non-proprietary alphanumeric code) to uniquely identify scientific and other academic authors.
+xmp:pdfaProperty:name: editorInfo
+xmp:pdfaProperty:valueType: Bag EditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Editor information: contains the name of each editor and his/her ORCID identifier.
+xmp:pdfaProperty:name: seriesEditorInfo
+xmp:pdfaProperty:valueType: Bag SeriesEditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Series editor information: contains the name of each series editor and his/her ORCID identifier.
+xmp:pdfaType:type: AuthorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/authorInfo/
+xmp:pdfaType:prefix: author
+xmp:pdfaType:description: Specifies the types of author information: name and ORCID of an author.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an author.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an author.
+xmp:pdfaType:type: EditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/editorInfo/
+xmp:pdfaType:prefix: editor
+xmp:pdfaType:description: Specifies the types of editor information: name and ORCID of an editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an editor.
+xmp:pdfaType:type: SeriesEditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/seriesEditorInfo/
+xmp:pdfaType:prefix: seriesEditor
+xmp:pdfaType:description: Specifies the types of series editor information: name and ORCID of a series editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of a series editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of a series editor.
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdf/1.3/
+xmp:pdfaSchema:prefix: pdf
+xmp:pdfaSchema:schema: Adobe PDF Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A name object indicating whether the document has been modified to include trapping information
+xmp:pdfaProperty:name: Trapped
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/mm/
+xmp:pdfaSchema:prefix: xmpMM
+xmp:pdfaSchema:schema: XMP Media Management Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: UUID based identifier for specific incarnation of a document
+xmp:pdfaProperty:name: InstanceID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: The common identifier for all versions and renditions of a document.
+xmp:pdfaProperty:name: OriginalDocumentID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A reference to the original document from which this one is derived. It is a minimal reference; missing components can be assumed to be unchanged. For example, a new version might only need to specify the instance ID and version number of the previous version, or a rendition might only need to specify the instance ID and rendition class of the original.
+xmp:pdfaProperty:name: DerivedFrom
+xmp:pdfaProperty:valueType: ResourceRef
+xmp:pdfaType:description: Identifies a portion of a document. This can be a position at which the document has been changed since the most recent event history (stEvt:changed). For a resource within an xmpMM:Ingredients list, the ResourceRef uses this type to identify both the portion of the containing document that refers to the resource, and the portion of the referenced resource that is referenced.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Part#
+xmp:pdfaType:prefix: stPart
+xmp:pdfaType:type: Part
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/t/pg/
+xmp:pdfaSchema:prefix: xmpTPg
+xmp:pdfaSchema:schema: XMP Paged-Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A structure containing the characteristics of a font used in a document
+xmp:pdfaProperty:name: Fonts
+xmp:pdfaProperty:valueType: Bag Font
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: XMP08 Spec: An ordered array of plate names that are needed to print the document (including any in contained documents).
+xmp:pdfaProperty:name: PlateNames
+xmp:pdfaProperty:valueType: Seq Text
+xmp:pdfaType:description: A structure containing the characteristics of a font used in a document.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Font#
+xmp:pdfaType:prefix: stFnt
+xmp:pdfaType:type: Font
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdfx/1.3/
+xmp:pdfaSchema:prefix: pdfx
+xmp:pdfaSchema:schema: PDF/X ID Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: ID of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXVersion
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Conformance level of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXConformance
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Company creating the PDF
+xmp:pdfaProperty:name: Company
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Date when document was last modified
+xmp:pdfaProperty:name: SourceModified
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://www.aiim.org/pdfa/ns/id/
+xmp:pdfaSchema:prefix: pdfaid
+xmp:pdfaSchema:schema: PDF/A ID Schema
+xmpBOOKMARKS:
+Abstract
+  Background
+  Methods
+  Results
+  Conclusions
+Background
+Methods
+  Animals
+  Randomisation
+  Blinding
+  Tick infestation and counting
+  Treatment
+  Study assessments
+    Efficacy
+    Safety
+    Statistical analyses
+Results
+  Efficacy
+    Adequacy of infestation
+    Calculated efficacy and difference in live tick counts between treatment groups
+  Safety observations
+Discussion
+Conclusions
+Additional file
+Abbreviations
+Acknowledgements
+Funding
+Availability of data and materials
+Authors’ contributions
+Ethics approval
+Consent for publication
+Competing interests
+Publisher’s Note
+Author details
+References
+Page 1
+Cavalleri et al. Parasites & Vectors (2018) 11:413
+https://doi.org/10.1186/s13071-018-2968-4
+RESEARCH  Open Access
+Laboratory evaluation of the efficacy and
+speed of kill of lotilaner (CredelioTM)
+against Ixodes ricinus ticks on cats
+Daniela Cavalleri1* [URL: "http://orcid.org/0000-0001-8489-2146"] , Martin Murphy1, Wolfgang Seewald1, Jason Drake2 and Steve Nanchen1
+French version: Please see Additional file 1 ([URL: "https://doi.org/10.1186/s13071-018-2968-40"] https://doi.org/10.1186/s13071-018-2968-40) for the French translation of the Abstract.
+Abstract
+Background: Lotilaner, approved for dogs as a chewable tablet formulation, has separately been developed for oral
+use in cats (CredelioTM chewable tablets for cats), to meet the need for an easy to use, safe and rapidly effective
+parasiticide. It is a valid cat- and owner-friendly alternative to topical products. This manuscript describes three
+pivotal laboratory studies assessing the efficacy and speed of kill of lotilaner in cats against Ixodes ricinus ticks
+following a single oral administration, at a dose rate close to 6 mg/kg.
+Methods: In Studies 1 and 2, efficacy and safety were evaluated 48 h after treatment and post-treatment weekly
+infestations in 16 cats, against untreated controls, for 35 days. In Study 3, efficacy and safety were assessed in 8
+lotilaner-treated cats until Day 35, before and after 24 h incubation of the female live ticks removed from the
+animals 12, 18 and 24 h after dosing and subsequent weekly infestations.
+Results: Efficacy was > 99% on days 23 and 37, and 100% on all other timepoints in Study 1. In Study 2 it was >
+98% on Days 9 and 37, and 100% on all other days. In Study 3, on Day 0, lotilaner was > 90% efficacious, pre- and
+post-incubation at all time-points. On Day 7, at 12 hours after infestation, efficacy was 100%, pre- and post-
+incubation. On Day 14, there was a 66.5% reduction in geometric mean live tick counts in treated cats compared to
+controls, increasing, after incubation, to 94.4%. Afterwards, efficacy decreased below 90% while tick counts in the
+treated groups remained significantly lower compared to controls. At 18 hours, lotilaner was ≥ 90% efficacious
+through Day 37, increasing to 100% at 24 hours, on all study days, with the exception of Day 28 (98.9 and 99.1%
+pre- and post-incubation, respectively). There were no treatment-related adverse events.
+Conclusions: At the minimum dose rate of 6 mg/kg, lotilaner was efficacious against I. ricinus ticks. In addition,
+lotilaner was effective against this tick within 12 hours of treatment, reaching 100% efficacy within 24 hours.
+Lotilaner sustained a rapid kill of newly infesting I. ricinus through 35 days. By quickly killing ticks that infest cats,
+lotilaner has the potential to contribute to the reduction of tick-borne pathogens transmission.
+Keywords: Lotilaner, CredelioTM, Cat, Tick, Ixodes ricinus, Efficacy, Speed of kill, Safety
+* Correspondence: [URL: "mailto:cavalleri_daniela_a@elanco.com"] cavalleri_daniela_a@elanco.com
+1Elanco Animal Health, Mattenstrasse 24a, 4058 Basel, Switzerland
+Full list of author information is available at the end of the article
+© The Author(s). 2018 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License ([URL: "http://creativecommons.org/licenses/by/4.0/"] http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Page 2
+Cavalleri et al. Parasites & Vectors (2018) 11:413  Page 2 of 10
+Background
+Lotilaner is the latest member of the isoxazolines, the
+newest ectoparasiticide class of compounds marketed
+for companion animals. Formulated as chewable tablets,
+it was approved for the treatment of tick and flea infes-
+tations in dogs (CredelioTM chewable tablets for dogs;
+Elanco Europe Ltd.) [1–3]. After oral administration to
+an infested animal, this broad-spectrum parasiticide in-
+hibits the gamma/aminobutyric acid-gated chloride
+channels of the ticks and fleas, resulting in rapid death
+of the parasites [4–6].
+At present, no isoxazoline-containing ectoparasiticide
+for oral administration is available for the treatment of
+tick and flea infestations in cats. Isoxazolines, fluralaner
+(Bravecto®spot-on solution for cats; MSD Animal Health,
+Madison, NJ, USA), and sarolaner in combination with
+selamectin, (Stronghold Plus, Zoetis Belgium SA, Louvain-
+la-Neuve, Belgium),  are approved for cats as topical
+spot-on applications.
+In a market research performed during the lotilaner
+development programme (unpublished data), cat owners
+commonly expressed clear, negative feelings related to the
+administration of topical spot-on products, considering
+them disruptive of the owner-animal bond. Many owners
+responded welcoming the idea of an easy-to-administer
+flavoured, chewable oral tick and flea parasiticide for cats.
+A small, flavoured, cat-friendly, oral tablet would therefore
+be a valuable novel product able to fill the gap in tick and
+flea treatment of cats.
+In a number of pivotal field and laboratory studies, the
+efficacy and clinical safety of lotilaner (CredelioTM chew-
+able tablets for cats, Elanco) against fleas (C. felis) and
+ticks (Ixodes ricinus) for 1 month, following oral admin-
+istration at the minimum dose rate of 6 mg/kg, was con-
+firmed [7–9].
+The safety of the product was assessed in a pivotal tol-
+erance study in which CredelioTM was shown to be safe
+in 8-week-old kittens, at dose rates up to 130 mg lotila-
+ner/kg administered monthly, for 8 months [10].
+This manuscript describes three pivotal laboratory
+studies assessing the efficacy of lotilaner (CredelioTM
+chewable tablets for cats) in cats experimentally infested
+with adult Ixodes ricinus ticks. Studies 1 and 2 assessed
+the efficacy of the product following a single oral admin-
+istration at a dose rate of at least 6 mg/kg and as close as
+possible to this target dose, for five weeks. Study 3 evalu-
+ated the speed of kill of lotilaner tablets against adult I.
+ricinus ticks, 12, 18 and 24 hours post-treatment and sub-
+sequent weekly infestations, following a single oral admin-
+istration to cats, at the same dose rate.
+Methods
+These pivotal studies were performed in two different la-
+boratories, with a randomized, blinded, parallel-group 
+design. All studies were performed under GCP standards
+[11] and in compliance with the EU and WAAVP Guide-
+lines for the testing and evaluation of the efficacy of an-
+tiparasitic substances for the treatment and prevention
+of tick and flea infestation in dogs and cats [12–14].
+In each study, one (Studies 1 and 2) or more (Study 3),
+groups of eight lotilaner-treated cats were compared, for
+efficacy and safety, to an equal number of untreated
+negative control groups of the same size, after infestation
+with laboratory-bred I. ricinus ticks.
+Animals
+In Study 1, European domestic shorthair cats were in-
+cluded; European mixed breed cats were enrolled in
+Studies 2 and 3. To be included, cats had to be at least
+12 months (Study 1) or 7 months-old (Studies 2 and 3)
+and to be acclimatized to the study housing and conditions;
+they had to be healthy and non-pregnant, have undergone
+a sufficient washout period after previous treatments with
+acaricidal products, and have had a female tick attachment
+rate of at least 25% from an infestation performed approxi-
+mately 1 week before the day of study treatment. In order
+for the lotilaner dose rate to be as close as possible to the
+minimum target of 6 mg/kg, cat bodyweight had to be in
+the ranges of 3.10–4.00 kg, 4.60–6.00 kg and 6.20–8.00 kg.
+In Studies 1 and 2, 22 healthy cats of both sexes were
+selected for the acclimatisation period. In Study 3, 58
+cats were acclimatised. Sixteen cats fulfilling all the in-
+clusion criteria, no exclusion criteria, and with the highest
+female tick attachment rates in the pre-treatment infest-
+ation suitability test, were included in either Study 1 or 2.
+Forty-eight cats meeting the same inclusion/exclusion cri-
+teria were included in Study 3.
+Cats in Study 1 were housed in isolated rooms of
+equal size and with the same environmental conditions.
+Each room had two identical pens. Cats were housed in
+groups of three or four in each pen. After randomization,
+the eight cats of the same treatment group were housed in
+the same room (four cats per pen).  Both sexes were
+allowed, as all males included in the study were neutered.
+Studies 2 and 3 were performed at a different test site;
+in both studies, animals of the same sex were pair-
+housed within the same treatment group.
+In all experiments, after each tick infestation (i.e. from
+the infestation until completion of the tick count), cats
+were housed in individual cages for 48 h (± 2 h), with
+the exception of the infestation on Day -2, after which,
+cats were individually housed for 96 h (± 2 h), until Day 2.
+Randomisation
+Cats fulfilling all inclusion criteria, no exclusion criteria,
+with at least a 25% attachment rate (live, attached, female
+ticks) and having the highest tick counts were included in
+the studies. For the randomization, cats were rank-ordered
+Page 3
+Cavalleri et al. Parasites & Vectors (2018) 11:413  Page 3 of 10
+from highest to lowest pre-treatment infestation test tick
+counts and randomly allocated within blocks of two (Studies
+1 and 2) or six (Study 3), to treatment groups. Cats of the
+same treatment group (and sex in studies 2 and 3) were ran-
+domly allocated to housing pairs.
+Blinding
+Blinding was accomplished by separation of function.
+Study personnel responsible for general health observa-
+tions, clinical observations, physical examinations and
+tick counting were blinded throughout the study. Only
+the sponsor’s representative, statistician, investigator, moni-
+tor and individuals responsible for the Investigational Vet-
+erinary Product (IVP) administration were aware of the
+treatment allocation of each cat. All documents where the
+cats’ group allocation was visible were kept inaccessible to
+blinded personnel and cats’  allocation was identified via
+study room numbers during the study. Blinding was main-
+tained throughout all studies.
+Tick infestation and counting
+Cats were experimentally infested with 50 ± 2 viable,
+unfed, adult, uniform in age, I. ricinus ticks (sex ratio
+approximately 70% female: 30% male) during the
+acclimatization period (pre-treatment infestation test
+to assess tick viability and cats individual tick retention
+rate) and on Days -2, 7, 14, 21, 28 and 35. To help tick at-
+tachment, cats were infested under sedation, according to
+laboratory standard practice: in Study 1 with intramus-
+cular injection of medetomidine hydrochloride at 0.02
+mg/kg and butorphanol at 0.1 mg/kg. In Study 2, sed-
+ation with 0.08 mg/kg medetomidine hydrochloride by
+intramuscular injection, was reversed ~90 min later
+using atipamezole hydrochloride administered by intra-
+muscular injection at a dose rate of 0.2 mg/kg. Following
+sedation, cats were placed inside infestation cages and
+ticks released on the animals.
+Tick removal and counts were conducted on Days -14
+or -5 (Study 1 and 2, respectively, suitability test),  on
+Day 2 at 48 ± 2 h after treatment administration as well
+as on Days 9, 16, 23, 30 and 37 (at 48 ± 2 h
+post-infestation).
+Table 1 Study 3 treatment groups and tick counts timings
+Cat group no.  Treatment group Time of tick counts (h)
+1  Control  12
+2  Control  18
+3  Control  24
+4  IVP  12
+5  IVP  18
+6  IVP  24
+Abbreviation: IVP Investigational Veterinary Product 
+In Study 3, tick counts with removal were performed
+on all cats on Day - 6, 48 h post-infestation. Additional
+counts were performed 12, 18 or 24 h post-treatment
+(Groups 1 and 4, 2 and 5, 3 and 6, respectively) on Day
+0 and after new infestations (Days 8, 15, 22, 29 and 36)
+(Table 1).
+Tick counts were performed according to each test
+facility’s  standard procedure. Briefly, the procedure
+mainly consisted of a thorough examination of all body
+areas by palpation with the fingers tips (thumb counting)
+first to locate and count the attached and free ticks.
+Since only female Ixodes spp. ticks attach to the host
+[15], male ticks were not counted and not considered in
+any efficacy and attachment rate assessments. Ticks
+were categorized as free or attached and as alive or dead.
+Ticks were considered alive if their legs reacted to a tact-
+ile or CO2 
+stimulus (exhaled air) and were considered
+dead if they did not. They were considered attached if
+the tick’s mouthpart was firmly attached to the cat’s skin
+and were considered free if not. After count and
+categorization, ticks were discarded, with the exception
+of Study 3, in which, after removal from the animals, live
+ticks (free and attached) were incubated into a con-
+trolled environment (at 26–29°C and 70–90% relative
+humidity) and their viability re-assessed after 24 h.
+Treatment
+All cats in the treatment groups received a single oral
+administration of the IVP (lotilaner, minimum dose rate
+of 6 mg/kg and as close as possible to this dose) on Day
+0. Mock dosing was performed for the untreated con-
+trols. Treatment was administered 30 ± 5 min following
+feeding. Lotilaner was available in two tablet sizes (final
+formulation) of 12 and 48 mg, respectively. Administra-
+tion was based on Day -2 body weights (Table 2).
+Study assessments
+Efficacy
+In Studies 1 and 2, efficacy was defined as the ability of
+lotilaner tablets to reduce tick infestations (live female
+ticks only) on cats, 48 h after treatment and 48 h after
+each post-treatment infestation. In Study 3, efficacy was
+defined as the ability of lotilaner tablets to reduce the fe-
+male live I. ricinus tick counts on the cats on Day 0, 12
+h after treatment, on Day 1, 18 or 24 h after treatment,
+Table 2 CredelioTM dose administered and corresponding
+exposure to lotilaner
+Body weight No. of tablets No. of tablets Dose rate (mg/kg)
+range (kg)  strength 12 mg strength 48 mg
+3.10–4.00  2  0  7.74–6.00
+4.60–6.00  3  0  7.83–6.00
+6.20–8.00  0  1  7.74–6.00
+Page 4
+Cavalleri et al. Parasites & Vectors (2018) 11:413  Page 4 of 10
+on Days 7, 14, 21, 28 or 35, 12 h after tick infestation
+and on Days 8, 15, 22, 29 or 36, 18 and 24 h after tick
+infestation. In this study, efficacy was calculated for each
+time-point both before and after 24 h incubation of the
+live female ticks collected from the cats.
+Lotilaner was considered effective against I. ricinus if
+efficacy was > 90.0% (female live ticks only) in the
+treated group versus the untreated control group at the
+evaluation time-point, provided that the infestation was
+adequate in the corresponding control group (average
+female ticks attachment rate of at least 25%),  and the
+difference in live female ticks counts between treated
+and control groups was statistically significant (P < 0.05)
+between the two groups, with a significant decrease in
+tick counts in the treated group compared with controls
+using ANOVA.
+Efficacy was calculated based on the percent reduction
+in female live tick arithmetic or geometric mean counts
+in the treated group compared with those in the corre-
+sponding control group using the Abbott’s formula:
+Efficacy ð  Þ ¼ %  100 Â ð  Þ MC−MT =MC
+where MC is the arithmetic or geometric mean num-
+ber of female live ticks on cats in the untreated control
+group and MT is the arithmetic or geometric mean
+number of female live ticks on treated cats.
+Geometric mean calculation involved using the loga-
+rithm of the tick count of each animal; when any tick
+count was equal to zero, one was added to the count
+and later subtracted from the resultant calculated geo-
+metric mean prior to calculating percent effectiveness.
+Safety
+The general health of all cats was observed by a trained
+technician once daily from the start of the acclimatization
+phase to the end of study, with the exception of the study
+days in which clinical observations were performed by a
+veterinarian (Day 0 both pre-treatment and 1, 6 and 8 h
+following treatment administration). Clinical observations
+included general health, behaviour and appetite. Thorough
+physical examinations were performed by a veterinarian 
+during acclimatization, to evaluate whether cats’  health
+allowed for their inclusion in the study and at study com-
+pletion. All cats were monitored for adverse events (AEs)
+and serious adverse events (SAEs) throughout the study.
+Bodyweight was measured in fasted animals on Days -16,
+-2, 19, 26, 33 and 40 in Study 1 and on Days -8, -2 and 37
+in Studies 2 and 3.
+Statistical analyses
+All efficacy analyses were performed in the intent-to-
+treat (Study 1) or per-protocol analysis (Studies 2 and 3)
+sets, which included all randomized animals that re-
+ceived the IVP or were left untreated, or all treated and
+untreated animals with no major deviations, respectively.
+All animals that received treatment were included in
+safety analyses (i.e. bodyweight and adverse events).
+Eight animals per group were considered an adequate
+sample size as a minimum of six subjects per group is
+recommended by the EMEA and the WAAVP guidelines
+[12, 14]. All hypotheses were tested at a two-sided 0.05
+level of significance. All analyses were performed using
+the SAS/STAT® software.
+To test the sensitivity of the model, an analysis of vari-
+ance (ANOVA) using logarithmically transformed counts
+(live attached + live unattached female ticks) was per-
+formed for the treated and control groups. Models in-
+cluded fixed the “Treatment” effect and random “Block”
+effect.
+The following hypotheses were tested for Studies 1
+and 2. Separate calculations were performed for each
+time point:
+H0: Treatment group count = Negative control group
+count
+HA: Treatment group count ≠ Negative control group
+count
+When at least one tick count was equal to zero, one
+was added to the count before logarithm calculation for
+every animal in every treatment group prior to perform-
+ing the transformation. Because it was likely that the
+Table 3 Geometric (arithmetic) mean counts of live, female I. ricinus ticks and percent efficacy in Study 1 (n = 8)
+Day  Untreated control  Lotilaner  Comparison
+Mean  Range Mean  Range Efficacy (%)  t-value
+2  23.09 (23.63)  15–29  0 (0)  0–0  100 (100)  t(7) 
+= 39.1
+9  21.86 (22.63)  13–30  0 (0)  0–0  100 (100)  t(7) 
+= 31.1
+16  21.82 (22.13)  17–29  0 (0)  0–0  100 (100)  t(7) 
+= 50.8
+23  18.19 (18.38)  14–24  0.09 (0.13)  0–1  99.5 (99.3)  t(7) 
+= 29.9
+30  24.51 (24.75)  19–29  0 (0)  0–0  100 (100)  t(7) 
+= 62.1
+37  19.23 (19.75)  12–26  0.09 (0.13)  0–1  99.5 (99.4)  t(7) 
+= 32.6 
+P-value
+< 0.0001
+< 0.0001
+< 0.0001
+< 0.0001
+< 0.0001
+< 0.0001
+Page 5
+Cavalleri et al. Parasites & Vectors (2018) 11:413  Page 5 of 10
+Table 4 Geometric (arithmetic) mean counts of live, female I. ricinus ticks and percent efficacy in Study 2 (n = 8)
+Day  Untreated control  Lotilaner  Comparison
+Mean  Range Mean  Range Efficacy (%)  t-value
+2  17.39 (17.63)  12–20  0 (0)  0–0  100 (100)  t(7) 
+= 46.5
+9  20.90 (21.25)  16–27  0.19 (0.38)  0–3  99.1 (98.2)  t(7) 
+= 16.2
+16  20.07 (20.50)  15–27  0 (0)  0–0  100 (100)  t(7) 
+= 40.3
+23  19.17 (19.63)  14–26  0 (0)  0–0  100 (100)  t(7) 
+= 37.4
+30  20.69 (21.25)  14–29  0 (0)  0–0  100 (100)  t(7) 
+= 35.5
+37  16.34 (16.75)  11–25  0.09 (0.13)  0–1  99.4 (99.3)  t(7) 
+= 28.7 
+P-value
+< 0.0001
+< 0.0001
+< 0.0001
+< 0.0001
+< 0.0001
+< 0.0001
+assumption of normal distribution of log-transformed
+tick count was not valid, non-parametric methods were
+additionally used to compare the two groups (Mann-
+Whitney U-test) only in Study 1.
+In all studies, tick infestation was considered adequate
+at each time point when the group mean female tick re-
+tention rate on the control animals was at least 25%, in
+compliance with the EU guidelines [12, 13].
+ANOVA was used to compare the treated group with
+the untreated controls, with a fixed effect of “Treatment
+Group” and random effect of “Block”.
+In Study 3, tick count data before and after incuba-
+tion on a given measurement day/hour were compared
+separately between each control and treated group using
+ANOVA and logarithmically transformed counts. The
+model included the fixed effects of “Time (prior or post)”
+and “Subject”.
+Bodyweight changes were calculated as the change in
+baseline weight (weight closest to dosing) to weight at
+the end of the biological phase and analysed using an
+ANOVA (SAS PROC MIXED) with a fixed “Group,”
+“Treatment” and “Treatment Group” effect in Studies 1, 
+2 and 3, respectively, and a random “Block” effect in all
+three studies.
+Adverse events were described and counted.
+French translation of the Abstract is available in
+Additional file 1.
+Results
+Efficacy
+Adequacy of infestation
+An adequate female tick infestation rate of ≥ 25% in the
+control groups was achieved at each study time point in
+all three studies; mean retention rates ranged between
+52.5–70.7% in Study 1, 47.9–60.7% in Study 2 and 37.5–
+50.4% both pre- and post-incubation in Study 3.
+Calculated efficacy and difference in live tick counts
+between treatment groups
+In Studies 1 and 2, the difference in live, female I. rici-
+nus geometric mean tick counts between the treated
+and untreated groups was statistically significant at all
+assessment time-points, with significantly lower counts
+Fig. 1 Geometric mean tick counts of the control and the lotilaner-treated groups before and after incubation on Day 0 at 12 h, 18 h and 24 h
+post-treatment. Within-group comparisons before and after incubation: ns, P > 0.05; *P < 0.05
+Page 6
+Cavalleri et al. Parasites & Vectors (2018) 11:413  Page 6 of 10
+Fig. 2 Geometric mean tick counts of the control groups before and after incubation on Days 7, 14, 21 and 28 at 12, 18 and 24 h post-infestation.
+P > 0.05 at all time points, for the within-group comparison before and after incubation
+in the lotilaner-treated groups (P < 0.0001; all days)
+(Tables 3 and 4).
+Efficacy was > 90% on all assessment days. In Study 1,
+the efficacy was > 99% on Days 23 and 37, and 100% on
+all other timepoints (Table 3).
+In Study 2, the efficacy of lotilaner was > 98% on Day 9,
+> 99% on Day 37 and 100% on all other days (Table 4).
+In Study 3 there was a statistically significant differ-
+ence (P ≤ 0.0182) in female live tick counts, before or
+after incubation, between each treated group compared
+to the corresponding untreated one, at all time-points,
+with lower counts in the treated groups (Tables 5, 6,
+7 and 8).
+Mean live tick counts before and after incubation,
+were not significantly different, in the control groups at
+any time points (P > 0.05; Figs. 1 and 2).
+In the treated group assessed at the 12 h time-point,
+post-incubation live tick counts were significantly lower
+(P < 0.05) compared to the pre-incubation counts on Days
+0, 14, 21, 28 and 35. For the group assessed at the 18 h as-
+sessment point, post-incubation live tick counts were sig-
+nificantly lower (P < 0.05) on Days 15 and 22, while for
+the treated group assessed at the 24 h time-point, no 
+significant difference between pre- and post-incubation
+live tick counts was observed.
+The efficacy of lotilaner after treatment administration
+(on a pre-existing infestation established on Day -2) met
+the > 90% threshold requirement laid out by the EU
+Guideline, at all time-points (Table 5 and Fig. 3).
+At the 12 h post-challenge assessment, lotilaner efficacy
+was 100% (pre- and post-incubation) on Day 7. On Day 14,
+the efficacy was 66.5% and 94.4% pre-and post-incubation,
+respectively, subsequently decreasing to values below the
+90% efficacy threshold (Fig. 3 and Table 6). At the 18 h as-
+sessment, lotilaner met the efficacy threshold through Day
+37 (Fig. 3 and Table 7) and increased to 100% at the 24 h
+time-point, on all study days, except for Day 28 (> 98%)
+(Fig. 3 and Table 8).
+Across all post-treatment challenges, few live ticks
+were detected on lotilaner-treated cats.
+Safety observations
+Abnormal signs were reported for two control cats in
+Study 2 and for 22 and 19 treated and control cats, re-
+spectively, in Study 3. In Study 1, mild or moderate
+dermatitis (mainly described as crusts on the head
+Table 5 Geometric (arithmetic) mean counts of live, female I. ricinus ticks and percent efficacy of lotilaner against infestations
+present at the time of treatment
+Time post-treatment Untreated control  Lotilaner  Comparison
+Mean  Range Mean  Range Efficacy (%)  t-value  P-value
+12 h Pre-incubation 14.58 (15.63)  9–26  1.14 (1.75)  0–5  92.2 (88.8)  t(7) 
+= 7.6  0.0001
+Post-incubation 14.48 (15.50)  9–26  0.25 (0.38)  0–2  98.3 (97.6)  t(7) 
+= 13.1  < 0.0001
+18 h Pre-incubation 15.36 (16.75)  7–26  0.19 (0.25)  0–1  98.8 (98.5)  t(7) 
+= 14.4  < 0.0001
+Post-incubation 15.21 (16.63)  7–26  0.09 (0.13)  0–1  99.4 (99.2)  t(7) 
+= 17.4  < 0.0001
+24 h Pre-incubation 12.56 (13.13)  6–18  0 (0)  0–0  100 (100)  t(7) 
+= 22.8  < 0.0001
+Post-incubation 12.56 (3.13)  6–18  0 (0)  0–0  100 (100)  t(7) 
+= 22.8  < 0.0001
+Page 7
+Cavalleri et al. Parasites & Vectors (2018) 11:413  Page 7 of 10
+Fig. 3 Percentage of efficacy (pre- and post-incubation) on Day 0 at 12, 18 and 24 h post-treatment and on Days 7, 14, 21, 28, 35 at 12, 18 and
+24 h post-infestation. *P < 0.05 for the within-group comparison of live tick counts pre- and post-incubation
+region) most likely due to tick bite reactions, was re-
+ported for all cats. Body weight changes from baseline
+recorded during the studies were not statistically sig-
+nificant (P > 0.05). Weight loss in Study 1 and Study 3
+was similar in all treatment groups and improved after
+increase of the daily ration. In Study 1, two and three
+episodes of loose stool in the IVP and untreated group,
+respectively, were reported, as well as one episode of
+mild vomiting in two IVP cats, 14 and 19 days after
+dosing, respectively. None of these observations was
+considered treatment-related.
+Discussion
+Study 1 and 2 confirmed that the dose rate of 6 mg/kg
+selected in the dose determination study (undisclosed
+data) was sufficient to control I. ricinus infestation for a 
+duration of one month with efficacy close to or at 100%
+to Day 35.
+Study 3 demonstrated that I. ricinus ticks present
+on cats before lotilaner administration are killed at 12
+hours after dosing. Tick incubation in an environment
+aimed at preserving their viability, showed that the
+product starts killing new ticks infesting cats after
+treatment as soon as 12 hours after infestation, reach-
+ing the 90% efficacy threshold at 18 hours and 100%
+killing at 24 hours (with the exclusion of the 28 days
+time-point, where efficacy was 98.9 and 99.1% pre- or
+post-incubation, respectively).  The soundness of the ex-
+perimental methodology was demonstrated by the absence
+of a statistically significant difference between pre- and
+post-incubation live tick numbers in the control groups
+(Figs. 1 and 2). This confirmed that untreated ticks were
+Table 6 Geometric (arithmetic) mean counts of live, female I. ricinus ticks and percent efficacy of lotilaner, 12 hours after post-treatment
+infestations
+Daya  Time-point  Untreated control  Lotilaner  Comparison
+Mean  Range Mean  Range Efficacy (%)  t-value  P-value
+7  Pre-incubation 13.62 (13.75)  11–17  0 (0)  0–0  100 (100)  t(7) 
+= 53.5  < 0.0001
+Post-incubation 13.62 (13.75)  11–17  0 (0)  0–0  100 (100)  t(7) 
+= 53.5  < 0.0001
+14  Pre-incubation 17.02 (17.63)  12–28  5.71 (7.88)  1–18  66.5 (55.3)  t(7) 
+= 3.1  0.0182
+Post-incubation. 16.63 (17.13)  11–25  0.93 (1.38)  1–3  94.4 (92)  t(7) 
+= 8.3  < 0.0001
+21  Pre-incubation 13.76 (14.13)  9–18  4.12 (5.00)  1–11  70.1 (64.6)  t(7) 
+= 4.5  0.0029
+Post-incubation. 13.79 (14.13)  9–18  1.39 (1.88)  0–5  89.9 (86.7)  t(7) 
+= 7.3  0.0002
+28  Pre-incubation 15.70 (16.00)  12–21  6.52 (7.63)  2–15  58.5 (52.3)  t(7) 
+= 3.7  0.0072
+Post-incubation. 15.60 (15.88)  12–21  2.34 (2.75)  1–5  85 (82.7)  t(7) 
+= 8.1  < 0.0001
+35  Pre-incubation 12.59 (14.63)  4–23  5.41 (7.38)  3–19  57 (49.6)  t(7) 
+= 3.2  0.0151
+Post-incubation
+aDay of challenge 
+12.69 (14.50)  4–23  2.51 (3.38)  0–9  80.2 (86.7)  t(7) 
+= 5.0  0.0016
+Page 8
+Cavalleri et al. Parasites & Vectors (2018) 11:413  Page 8 of 10
+Table 7 Geometric (arithmetic) mean counts of live, female I. ricinus ticks and percent efficacy of lotilaner, 18 hours after post-treatment
+infestations
+Daya  Time-point  Untreated control  Lotilaner  Comparison
+Mean  Range Mean  Range Efficacy (%)  t-value  P-value
+7  Pre-incubation 15.62 (17.13)  8–31  0 (0)  0–0  100 (100)  t(7) 
+= 18.0  < 0.0001
+Post-incubation 15.54 (17.00)  8–31  0 (0)  0–0  100 (100)  t(7) 
+= 18.2  < 0.0001
+14  Pre-incubation 14.86 (17.25)  6–30  1.09 (1.88)  0–7  92.7 (89.1)  t(7) 
+= 6.2  0.0004
+Post-incubation. 14.77 (17.13)  6–30  0.19 (0.25)  0–1  98.7 (98.5)  t(7) 
+= 14.9  < 0.0001
+21  Pre-incubation 13.47 (16.00)  3–31  1.36 (2.00)  0–5  89.9 (87.5)  t(7) 
+= 6.3  0.0004
+Post-incubation. 13.42 (15.88)  3–30  0.44 (0.63)  0–2  96.8 (96.1)  t(7) 
+= 10.0  < 0.0001
+28  Pre-incubation 15.91 (17.00)  7–26  0.59 (1.38)  0–7  96.3 (91.9)  t(6) 
+= 6.6  0.0006
+Post-incubation. 15.82 (16.86)  7–25  0.40 (0.75)  0–4  97.5 (95.6)  t(6) 
+= 8.9  0.0001
+35  Pre-incubation 13.01 (14.29)  8–25  1.20 (2.88)  0–10  90.8 (79.9)  t(6) 
+= 4.8  0.0032
+Post-incubation
+aDay of challenge 
+13.01 (14.29)  8–24  1.20 (2.88)  0–10  90.8 (79.9)  t(6) 
+= 4.8  0.0032
+not affected by the incubation and that the significant de-
+crease in live tick counts in the lotilaner groups
+post-incubation was a true treatment effect. The rapid on-
+set of activity against ticks is consistent with lotilaner’s
+rapid speed of kill against fleas [7] and pharmacokinetics
+data showing that, in cats, lotilaner is readily absorbed and
+reaches peak blood concentrations within four hours [16].
+The somewhat faster onset of activity of lotilaner im-
+mediately after dosing can be explained by the fact that
+ticks already present on the animals at the time of
+treatment are immediately exposed to its activity, with
+no time required to select the attachment spot and start
+feeding.
+Adequate mean tick attachment rates in the control
+groups at all time points validated the cat infestation
+model and confirmed the validity of the calculated efficacy
+results. Efficacy and speed of kill were confirmed for 35
+days in all studies, giving some flexibility to the 30 days 
+administration schedule recommended on the product
+label.
+No other oral isoxazoline is available for cats at the
+time this paper is being written. Lotilaner appears to act
+faster against ticks present on cats at the time of treat-
+ment than the other systemically acting isoxazolines
+available as topical solutions. Fluralaner and sarolaner la-
+bels indicate onsets of action of 48 and 24 hours, re-
+spectively, on both pre-existing and new infestations.
+Against new infestations, lotilaner, with its onset of ac-
+tion of 18–24 hours (depending on whether pre- or
+post-incubation data and geometric or arithmetic means
+are considered),  throughout five weeks, appears to be
+faster than fluralaner while comparing favourably with
+sarolaner [17].
+Our studies were performed in compliance with the
+EU Guidelines current at the time the trials were per-
+formed [12],  with the exception of tick categorisation,
+Table 8 Geometric (arithmetic) mean counts of live, female I. ricinus ticks and % efficacy of lotilaner, 24 hours after post-treatment
+infestations
+Daya  Time-point  Untreated control  Lotilaner  Comparison
+Mean  Range Mean  Range Efficacy (%)  t-value  P-value
+7  Pre-incubation 16.94 (17.50)  9–24  0 (0)  0–0  100 (100)  t(7) 
+= 29.5  < 0.0001
+Post-incubation 16.94 (17.50)  9–24  0 (0)  0–0  100 (100)  t(7) 
+= 29.5  < 0.0001
+14  Pre-incubation 13.96 (15.25)  6–27  0 (0)  0–0  100 (100)  t(7) 
+= 17.3  < 0.0001
+Post-incubation. 13.89 (15.13)  6–26  0 (0)  0–0  100 (100)  t(7) 
+= 17.5  < 0.0001
+21  Pre-incubation 15.93 (17.63)  5–29  0 (0)  0–0  100 (100)  t(7) 
+= 15.8  < 0.0001
+Post-incubation. 15.93 (17.63)  5–29  0 (0)  0–0  100 (100)  t(7) 
+= 15.8  < 0.0001
+28  Pre-incubation 13.00 (13.50)  9–20  0.15 (0.25)  0–2  98.9 (98.1)  t(7) 
+= 14.8  < 0.0001
+Post-incubation. 13.00 (13.50)  9–20  0.09 (0.35)  0–0  99.1 (99.3)  t(7) 
+= 19.4  < 0.0001
+35  Pre-incubation 12.85 (13.88)  6–24  0 (0)  0–0  100 (100)  t(7) 
+= 18.1  < 0.0001
+Post-incubation
+aDay of challenge 
+12.76 (13.75)  6-24  0 (0)  0–0  100 (100)  t(7) 
+= 18.4  < 0.0001
+Page 9
+Cavalleri et al. Parasites & Vectors (2018) 11:413  Page 9 of 10
+for which no assessment of tick engorgement was done.
+This is in line with the new EU [13] and WAAVP [14]
+guidelines and provides a sound scientific approach for
+systemically acting parasiticides.
+To be exposed to lotilaner and other isoxazolines, para-
+sites need to start blood-feeding. For a systemically acting
+product to be able to reduce the risk of parasite-borne dis-
+eases, speed of kill is therefore of major importance. There
+is conflicting evidence as to whether systemically acting
+isoxazolines could be as effective as topically acting che-
+micals, which may have some repellent activity, in redu-
+cing the risk of tick-borne pathogen transmission.
+Transmission of pathogens such as Borrelia, Anaplasma
+and Babesia species from tick to pet hosts, is reported
+to typically start at least 48 hours (16 hours in some
+cases) after tick attachment [18–20]. Although the pos-
+sibility of an earlier transmission cannot be completely
+excluded because of the possible release of pathogens
+from the ticks’ salivary glands during the process of at-
+tachment, with its speed of kill, lotilaner can contribute
+to reducing the risk of transmission of tick-borne
+pathogens.
+The comparison of pre- and post-incubation data from
+treated cats in our study showed that, even for those
+ticks that are still live when removed from the animals
+at the earliest time-points, viability is already affected by
+the activity of lotilaner. This is reinforced by the obser-
+vation that in the treated groups, the difference in live
+tick counts before and after incubation is significant at
+the 12 and 18 hours time-points, but not at the 24 hours
+assessment. This shows that ticks removed from the ani-
+mals at the earliest time-points, although still alive, are
+already affected by the treatment and die during incuba-
+tion. At the later assessment time point (i.e. 24 h), time
+on the animals was enough for ticks to die and incuba-
+tion did not significantly impact their viability. As ticks
+become moribund, an impact on engorgement and
+transmission of pathogens cannot be excluded suggest-
+ing that, although not investigated in our study, protec-
+tion against tick-borne diseases would start earlier than
+the actual tick death time-point. Lotilaner has, therefore,
+the potential to be considered as a safe and effective
+means of reducing the incidence of tick-borne diseases.
+Conclusions
+At the minimum dose rate of 6 mg/kg, lotilaner was well
+tolerated and efficacious against I. ricinus ticks. In
+addition, lotilaner was effective against this tick species
+within 12 hours of treatment, reaching 100% efficacy
+within 24 hours. It sustained a rapid kill of newly infesting
+I. ricinus through 35 days. By quickly killing ticks that in-
+fest cats, lotilaner has the potential to contribute to the re-
+duction of tick-borne pathogens transmission. 
+Additional file
+ Additional file 1: French translation of the Abstract. (PDF 39 kb)
+Abbreviations
+AE: Adverse event; ANOVA: Analysis of variance; CV: Coefficient of variation;
+EMEA: European Medicines Agency; EU: European Union; IVP: Investigational
+veterinary product; SAE: Serious adverse event; SD: Standard deviation;
+WAAVP: World Association for the Advancement of Veterinary Parasitology
+Acknowledgements
+The authors would like to thank Geetanjali Tonpe of Eli Lilly Services Private
+Limited, Bangalore, India for assistance with the manuscript.
+Funding
+The studies were funded by Elanco Animal Health.
+Availability of data and materials
+The data supporting the conclusions of this article are included within the
+article. Due to commercial confidentiality of the research, data not included
+in the manuscript can only be made available to bona fide researchers,
+subject to a non-disclosure agreement.
+Authors’ contributions
+All authors participated in the design and completion of the studies and
+were involved in the drafting of the manuscript. All authors read and
+approved the final manuscript.
+Ethics approval
+The studies were approved by the laboratories Institutional Animal Care and
+Use Committee (IACUC).
+Consent for publication
+Not applicable.
+Competing interests
+All authors are employees of Elanco Animal Health.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Author details
+1Elanco Animal Health, Mattenstrasse 24a, 4058 Basel, Switzerland. 2Elanco
+Animal Health, 2500 Innovation Way, Greenfield, IN 46140, USA.
+Received: 13 February 2018 Accepted: 20 June 2018
+References
+1.  European Medicines Agency, Committee for Medicinal Products for
+Veterinary Use. Credelio Summary of opinion. EMA/CVMP/49053/2017.
+London: European Medicines Agency; 2017.
+2.  European Medicines Agency, Committee for Medicinal Products for
+Veterinary Use, Credelio European Product Information. 2017. [URL: "http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/veterinary/004247/WC500227518.pdf"] http://www.
+ ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_
+ Information/veterinary/004247/WC500227518.pdf. Accessed 11 Apr 2018.
+3.  Little SE. Lotilaner - a novel systemic tick and flea control product for dogs.
+Parasit Vectors. 2017;10:539.
+4.  Garcia-Reynaga P, Zhao C, Sarpong R, Casida JE. New GABA/glutamate receptor
+target for [(3)H]isoxazoline insecticide. Chem Res Toxicol. 2013;26:514–6.
+5.  Rufener L, Danelli V, Bertrand D, Sager H. The novel isoxazoline
+ectoparasiticide lotilaner (Credelio™): a non-competitive antagonist specific
+to invertebrates γ-aminobutyric acid-gated chloride channels (GABACls).
+Parasit Vectors. 2017;10:530.
+6.  Weber T, Selzer PM. Isoxazolines: a novel chemotype highly effective on
+ectoparasites. ChemMedChem. 2016;11:270–6.
+Page 10
+Cavalleri et al. Parasites & Vectors (2018) 11:413
+7.  Cavalleri D, Murphy M, Seewald W, Nanchen S. Laboratory evaluation of the
+efficacy and speed of kill of lotilaner (Credelio™) against Ctenocephalides felis
+on cats. Parasit Vectors. 2018. In press.
+8.  Cavalleri D, Murphy M, Seewald W, Nanchen S. A randomized, controlled field
+study to assess the efficacy and safety of lotilaner (Credelio™) in controlling
+fleas in client-owned cats in Europe. Parasit Vectors. 2018. In press.
+9.  Cavalleri D, Murphy M, Seewald W, Nanchen S. A randomized, controlled field
+study to assess the efficacy and safety of lotilaner (Credelio™) in controlling
+ticks in client-owned cats in Europe. Parasit Vectors. 2018. In press.
+10. Kuntz EA, Kammanadiminti S. Safety of lotilaner flavoured chewable tablets
+Credelio™ after oral administration in cats. Parasit Vectors. 2018. In press.
+11. International Cooperation on Harmonization of Technical Requirements for
+Registration of Veterinary Medicinal Products. VICH GL9, Good Clinical
+Practice. London: European Medicines Agency; 2000.
+12. European Medicines Agency, Committee for Medicinal Products for
+Veterinary Use, EMEA/CVMP/EWP/005/2000-Rev.2: Guideline for the testing
+and evaluation of the efficacy of antiparasitic substances for the treatment
+and prevention of tick and flea infestation in dogs and cats, 12 November
+2007. London: European Medicines Agency; 2007.
+13. European Medicines Agency, Committee for Medicinal Products for
+Veterinary Use, EMEA/CVMP/EWP/005/2000-Rev.3: Guideline for the testing
+and evaluation of the efficacy of antiparasitic substances for the treatment
+and prevention of tick and flea infestation in dogs and cats [URL: "http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2016/07/WC500210927.pdf"] http://www.
+ ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2016/07/
+ WC500210927.pdf. Accessed 11 Apr 2018.
+14. Marchiondo AA, Holdsworth PA, Fourie LJ, Rugg D, Hellmann K, Snyder DE,
+Dryden MW. World Association for the Advancement of Veterinary
+Parasitology. World Association for the Advancement of Veterinary
+Parasitology (W.A.A.V.P.) second edition: guidelines for evaluating the
+efficacy of parasiticides for the treatment, prevention and control of flea
+and tick infestations on dogs and cats. Vet Parasitol. 2013;194:84–97.
+15. Kiszewski AE, Matuschka F, Spielman A. Mating strategies and
+spermiogenesis in ixodid ticks. Annu Rev Entolmol. 2001;46:167–82.
+16. Toutain CE, Seewald W, Jung M. Pharmacokinetics of lotilaner following a
+single oral or intravenous administration in cats. Parasit Vectors. 2018. In press.
+17. European Medicines Agency, Committee for Medicinal Products for
+Veterinary Use, Stronghold® Plus, European Product Information. [URL: "http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/veterinary/004194/WC500222781.pdf"] http://
+ www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_
+ Information/veterinary/004194/WC500222781.pdf. Accessed 11 Apr 2018.
+18. des Vignes F, Piesman J, Heffernan R, Schulze TL, Stafford IIIKC, Fish D. Effect
+of tick removal on transmission of Borrelia burgdorferi and Ehrlichia
+phagocytophila by Ixodes scapularis Nymphs. J Inf Dis. 2001;183:773–8.
+19. Heile C, Hoffmann-Köhler P, Wiemann A, Schein E. Transmission time of tick-
+borne disease agents in dogs: Borrelia, Anaplasma / Ehrlichia and Babesia.
+Der Praktische Tierarzt. 2007;88:584–90.
+20. Khal O, Janetzki-Mittmann C, Gray JS, Jonas R, Stein J, de Boer R. Risk of
+infection with Borrelia burgdorferi sensu lato for a host in relation to the
+duration of nymphal Ixodes ricinus feeding and the method of tick removal.
+Zentralbl Bakteriol. 1998;287:41–52. 
+Page 10 of 10

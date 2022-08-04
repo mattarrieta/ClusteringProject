@@ -1,0 +1,1064 @@
+BOOKMARKS:
+Abstract
+  Background
+  Methods
+  Results
+  Conclusion
+Background
+Methods
+  Participants
+  Procedures
+  Measurements
+  Instruments
+    Toronto Alexithymia Scale (TAS-20)
+    Hospital Anxiety and Depression Scale (HADS)
+    Eating Disorder Examination Questionnaire (EDE-Q)
+    Bulimia Investigatory Test, Edinburgh (BITE)
+    Eating Disorders Inventory-2 (EDI-2)
+    Maudsley Obsessive-Compulsive Inventory (MOCI)
+  Neuropsychological assessment
+    Iowa gambling task [3,59]
+  Statistical analyses
+Results
+  Sample characteristics
+  Decision-making performances
+    Group comparisons in IGT total net scores [C + D]-[A + B](1–100 choices)
+    Group comparisons in IGT block net scores [C + D]-[A + B](1–20, 21–40, 41–60, 61–80, 81–100)
+  Group comparisons controlling for covariates
+  Association between decision-making and clinical variables
+    Correlation analysis
+    Regression analysis
+Discussion
+Conclusions
+Abbreviations
+Competing interests
+Author contributions
+sections40337-015-0050-6
+Author details
+References
+Page 1
+Matsumoto et al. Journal of Eating Disorders (2015) 3:14
+DOI 10.1186/s40337-015-0050-6
+RESEARCH ARTICLE  Open Access
+Comparison in decision-making between bulimia
+nervosa, anorexia nervosa, and healthy women:
+influence of mood status and pathological eating
+concerns
+Junko Matsumoto1,2,3,4, Yoshiyuki Hirano1,2, Noriko Numata2,6, Daisuke Matzuzawa1,6, Shunichi Murano4,
+Koutaro Yokote7, Masaomi Iyo5,8,9, Eiji Shimizu1,2,6 and Michiko Nakazato1,2,5*
+Abstract
+Background: Decision-making is reported to be impaired in anorexia nervosa (AN) and bulimia nervosa (BN), but
+the influence of mood status, pathophysiological eating, and weight concerns on the performance of decision-making
+ability between AN and BN is still unclear. The aims of this study were to investigate differential impairments in the
+decision-making process between AN, BN, and healthy controls (HC), and secondly, to explore the role of mood status,
+such as anxiety, depression, pathological eating, and weight concerns, in decision-making ability.
+Methods: Patients suffering from AN (n = 22), BN (n = 36) and age-matched HC (n = 51) were assessed for their
+decision-making abilities using the Iowa Gambling Task (IGT). Self-reported questionnaires including the Eating
+Disorder Examination Questionnaire (EDE-Q), the Bulimia Investigatory Test, Edinburgh (BITE), the Eating Disorders
+Inventory, the Maudsley Obsessive-Compulsive Inventory measuring obsessive-compulsive traits, the Hospital
+Anxiety and Depression Scale, and the Toronto Alexithymia Scale were used to assess pathological eating concerns
+and attitude to feelings.
+Results: Significant differences in IGT performance were observed between BN and HC. Significant negative correlation
+was found between IGT performance and the BITE symptom subscale in AN. In BN, there was a negative correlation
+between the EDE-Q weight concerns subscale and IGT performance. It was also found that increased anxiety,
+depression, and eating/weight concerns predicted poorer decision-making.
+Conclusion: Different patterns of association between pathological eating concerns/behaviors and performances
+in decision-making ability were found between AN, BN, and HC. Anxiety, depressive mood status, and eating/weight
+concerns were related to decision-making ability.
+Keywords: Anorexia nervosa, Bulimia nervosa, Decision-making, Iowa Gambling Task, Weight-concern, Anxiety,
+Depressive mood
+* Correspondence: [URL: "mailto:michiko.nakazato@nifty.ne.jp"] michiko.nakazato@nifty.ne.jp
+1United Graduate School of Child Development, Osaka University, Kanazawa
+University, Hamamatsu University School of Medicine, Chiba University and
+University of Fukui, Suita, Japan
+2Research Center for Child Mental Development, Graduate School of
+Medicine, Chiba University, Chiba, Japan
+Full list of author information is available at the end of the article
+© 2015 Matsumoto et al.; licensee BioMed Central. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License ([URL: "http://creativecommons.org/licenses/by/4.0"] http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain
+Dedication waiver ([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article,
+unless otherwise stated.
+Page 2
+Matsumoto et al. Journal of Eating Disorders (2015) 3:14  Page 2 of 10
+Background
+Eating disorders (EDs) are severe and enduring psychiatric
+disorders of eating behavior, including extreme, unhealthy
+decreases in food intake as well as severe overeating, ac-
+companied by feelings of distress or excessive concern
+about body shape or weight [1]. Three types of eating dis-
+orders are recognized by the text revision of the fourth
+edition of the Diagnostic and Statistical Manual of Mental
+Disorders (DSM-IV-TR) [2]: anorexia nervosa (AN), bu-
+limia nervosa (BN), and eating disorder not otherwise spe-
+cified (EDNOS).
+Decision-making is affected by the combination of emo-
+tional representations, sensitivity to immediate reward and
+long-term outcome according to the somatic marker
+hypothesis (SMH) [3-5].  Multiple cognitive functions
+such as attention, memory, learning [6,7],  risk-taking,
+and obsessive-compulsive traits [8] have been suggested
+as being involved in performances in decision-making
+[9,10]. A previous study by Tchanturia et al. found im-
+pairment of emotional signal by skin conductance (SCR),
+showing the lowest emotional signal by demonstrating a
+lack of ability to be aware of emotional signal during
+decision-making task [11]. In BN, a previous study showed
+no significant correlation between SCR and performance
+in decision-making [12].  For this reason, it is unclear
+whether the AN and BN groups have different deficits in
+emotional skills during decision-making.
+The role of emotion, specifically anxiety or worry, may
+influence the decision-making process [13]. High levels
+of worry may have expected consequences of future events
+that influence the performances of decision-making [14].
+The majority of people with EDs have high levels of anxiety
+[15], worry, a defining cognitive feature, and a mainten-
+ance factor of anticipatory anxiety [16].  Heightened
+anxiety levels may affect the process of decision-making in
+AN or BN patients. However, few studies have focused
+on the effect of mood status on a prospect during the
+decision-making process in AN compared with BN. Two
+studies showed that decision-making in patients with AN
+may be related to anxiety [17,18], whereas other studies
+showed that they were unrelated [7,19].  Some studies
+suggested significant associations between measures of
+depressive disorder and decision-making [20,21], but a
+number of other studies have indicated that depressive
+symptoms did not significantly influence decision-making
+ability in patients with EDs [7,12,22-24].
+Alexithymia is commonly described as consisting of four
+features: (1) difficulty identifying and describing subjective
+feelings; (2) difficulty distinguishing between feelings and
+the bodily sensations of emotional arousal; (3) lack of fan-
+tasy; and (4) an externally orientated cognitive style [25].
+Previous studies demonstrated that patients with EDs
+use maladaptive eating behaviors (e.g., binging, purging,
+or dietary restriction) as a way to avoid or cope with 
+their emotions [26,27], with many clinical studies suggest-
+ing that eating disorder symptoms are associated with
+emotional dysfunction [28,29], with clear functional links
+expressed between emotional states and both bulimic and
+restrictive pathology. It has been suggested that patients
+with EDs tend to show alexithymia, but only one study
+has examined the relation in EDs in comparison with
+healthy controls (HC), showing that alexithymia was unre-
+lated to decision-making in AN [30].
+The Iowa Gambling Task (IGT) is a neuropsychological
+task that tests the decision-making ability to sacrifice im-
+mediate rewards in order to achieve long-term gain [3].
+IGT assesses set-shifting ability, reaction to reward and
+punishment, and learning ability to decide advantageous
+over disadvantageous choice under uncertainty [31]. IGT
+is underpinned by SMH, a theory that, in essence, posits
+that decision-making under uncertainties is guided by
+emotional responses to anticipated positive and nega-
+tive consequences [5,6]. Neuroimaging findings suggest
+that activation of the mesolimbic pathway during wins
+and decreased activation of the inferior frontal gyrus
+during losses lead to repeated selections in reward and
+punishment in IGT [32]. IGT was developed for func-
+tional assessment, given that patients with ventromedial
+prefrontal cortex (vmPFC) and limbic system dysfunc-
+tion show severe impairments in decision-making.
+Increasing evidence suggests neuropsychological traits
+such as poor set-shifting ability [19], weak central coher-
+ence [19,33], a dysfunction of the reward circuit, including
+a preference for immediate reward despite long-term ad-
+verse consequences [15], higher sensitivity to punishment
+[34], and poor insight into illness [35,36] in AN. In previ-
+ous studies, memory function [37], skin conductance re-
+sponse [11], body mass index (BMI) [38], anxious mood
+[18] and impaired decision-making ability were indicated
+in AN. Regarding the domain of decision-making ability,
+several studies have reported that individuals with AN
+show impaired decision-making ability as reflected by
+poorer performance on IGT [11,22,39-41].
+In BN, decision-making ability was impaired in some
+studies [12,22,41], showing that obsessive-compulsive traits
+[42] and pathological eating symptoms may be related to
+impaired decision-making ability, which in turn may lead
+to real-life risk-taking and immediate reward-seeking be-
+havior such as binge eating and purging.
+Thus, in total, relatively few studies have been conducted
+concerning the decision-making ability between AN, BN
+and HC [12,37,43,44]. In addition, it has remained unclear
+whether the performances of decision-making are distin-
+guished by pathological eating concerns/behaviors, mood
+status (anxiety, depression), and attitude to feelings such as
+alexithymia between AN, BN, and HC.
+The hypotheses of this study were: 1) decision-making
+performances can be distinguished in AN, BN and HC,
+Page 3
+Matsumoto et al. Journal of Eating Disorders (2015) 3:14  Page 3 of 10
+and 2) decision-making deficits are related to mood sta-
+tus such as anxiety, depression, alexithymia, and patho-
+logical eating symptoms.
+The aims of this study were to investigate differential
+impairments in the decision-making process between AN,
+BN, and HC, and secondly, to explore the role of mood
+status such as anxiety, depression, attitudes to feelings,
+and pathological weight concerns in decision-making
+ability.
+Methods
+Participants
+The patients of this study were 58 females recruited from
+Chiba University Hospital, Japan (22 AN; 36 BN).  They
+were interviewed by a senior psychiatrist assessing criteria
+for AN and BN as defined by DSM-IV [2]. In addition, the 
+M.I.N.I. International Neuropsychiatric Interview translated
+into Japanese (M.I.N.I.) [45] was applied. Exclusion criteria
+for patients with AN and BN were a history of brain injury,
+epilepsy, psychosis or drug dependence. The AN group in-
+cluded restrictive (n = 9) and binge eating/purging (n = 13)
+subtypes. The BN group included purging (n = 34) and
+non-purging (n = 2) subtypes. A total of 7 females (2 AN
+and 5 BN) had the following comorbidities: dysthymia (5%;
+3 with BN), panic disorder (2%; 1 with BN), somatoform
+disorder (2%; 1 with AN), anxiety disorder (2%; 1 with AN),
+and alcohol dependence (2%;  1 with BN).  Seventeen
+percent of all patients were taking serotonergic drugs
+(SSRIs) (Table 1).
+HC (n = 51) were recruited through local advertisements
+and a website from a potential pool of university students
+and volunteers. Age-matched HC underwent an interview
+Table 1 Demographic and clinical characteristics of anorexia nervosa patients (AN), bulimia nervosa patients (BN), and
+healthy controls (HC) 
+Eating disorders  Healthy control
+AN (n = 22)  BN (n = 36)  HC (n = 51)
+Observed mean, M(SD)  Mean SD  Mean SD  Mean SD  F-value p-value Post hoc
+Age (years)  25.77  6.26  25.94  5.81  23.82  5.58  1.71  0.19  n.s.
+Education (years)  13.23  2.20  14.07  1.87  14.00  0.91  1.24  0.30  n.s.
+Duration of illness (only AN, BN)
+BMI (kg/m2) 
+7.24
+15.87 
+6.47
+2.62 
+7.15  5.80  −
+19.76  2.38  20.99 
+−  0.00  0.96  n.s.
+1.71  76.83  0.00  HC>AN, HC>BN, BN>AN
+TAS-20  60.07 7.95  64.00  8.16  49.50  9.71  26.89  0.00  AN>HC, BN>HC
+HADSa  11.06 4.29  12.00  3.87  4.61  3.39  42.55  0.00  AN>HC, BN>HC
+HADSd  9.18 4.79  11.32  4.43  3.37  3.14  41.38  0.00  AN>HC, BN>HC
+EDE-Qg  3.23 1.60  3.97  1.26  1.07  0.89  59.89  0.00  AN>HC, BN>HC
+EDE-Qr  3.00 1.89  3.17  1.62  0.68  0.81  39.78  0.00  AN>HC, BN>HC
+EDE-Qe  3.39 1.70  3.72  1.63  0.47  0.64  75.27  0.00  AN>HC, BN>HC
+EDE-Qw  3.74 1.32  4.32  1.45  1.44  1.29  44.73  0.00  AN>HC, BN>HC
+EDE-Qs  3.96 1.23  4.56  1.23  1.70  1.25  50.96  0.00  AN>HC, BN>HC
+BITEss  8.75 6.32  11.57  5.56  1.37  1.18  67.76  0.00  AN>HC, BN>HC
+BITEsas  17.63 10.14  22.61  4.38  5.33  4.46  104.27  0.00  AN>HC, BN>HC
+EDI-2  117.06 43.93 139.83 37.19  60.64  29.77  52.29  0.00  AN>HC, BN>HC
+MOCI  10.47 5.93  13.55  6.21  7.17  3.34  15.83  0.00  BN>HC
+Comobidities; n=
+Dysthymia  −  3
+Panic disorder  −  1
+Somatoform 1  −
+Anxiety disorder  1  −
+Alcohol dependence −  1
+Medication; n=
+SSRIs  −  10
+BMI: body mass index; TAS-20: Toronto Alexithymia Scale; EDE-Qg: Eating Disorder Examination Questionnaire (global score); EDE-Qr: restricting; EDE-Qe: eating
+concern; EDE-Qw: weight concern; EDE-Qs: shape concern; HADSa: Hospital Anxiety and Depression Scale (anxiety); HADSd: Hospital Anxiety and Depression Scale
+(depression); BITEsas: Bulimia Investigatory Test, Edinburgh: (symptom scale); BITEss: Bulimia Investigatory Test, Edinburgh (severity scale); MOCI: Maudsley
+Obsessive-Compulsive Inventory; EDI-2: Eating Disorders Inventory 2; SSRIs: selective serotonin reuptake inhibitors.
+In bold: p-value <0.05, n.s.: not significant.
+Page 4
+Matsumoto et al. Journal of Eating Disorders (2015) 3:14  Page 4 of 10
+by a senior psychiatrist using M.I.N.I. [45], and they were
+determined to have no family history of psychiatric condi-
+tions, history of brain injury, epilepsy, psychosis, current
+substance abuse or dependence, risk of suicide, mental
+retardation, autistic spectrum disorders, comorbid de-
+pression and bipolar disorders, and that their BMI
+(body mass index) was between 19 and 25 kg/m2.
+Procedures
+All participants, female native Japanese speakers, were
+between age 18 and 38 (mean = 24.92, SD = 5.83 years).
+After the study had been described to the participants,
+their written informed consent was obtained. The ethics
+committee of the Chiba University Graduate School of
+Medicine approved the study protocol.
+Measurements
+Instruments
+Toronto Alexithymia Scale (TAS-20)
+The Toronto Alexithymia Scale [46,47], Japanese version
+with established validity and reliability [48], is a 20-item
+self report questionnaire measuring alexithymia. It includes
+three subscales: difficulty identifying feelings, difficulty de-
+scribing feelings, and externally oriented (concrete) think-
+ing. Cut-off scores for TAS-20 are equal to or less than 51
+for non-alexithymic individuals, and equal to or greater
+than 61 for alexithymia. Scores of 52–60 indicate possible
+alexithymia.
+Hospital Anxiety and Depression Scale (HADS)
+The Hospital Anxiety and Depression Scale [49], Japanese
+version established as valid and reliable [50], is a widely
+used self-report scale developed to detect states of depres-
+sion, anxiety and emotional distress among patients being
+treated for a variety of clinical problems. The scale con-
+sists of eight questions assessing depression (HADS-d)
+and eight assessing anxiety (HADS-a). The optimal cut-off
+point is said to be greater than or equal to 8 for the identi-
+fication of suspicious cases and greater than or equal to 11
+for safe cases on both subscales [49].
+Eating Disorder Examination Questionnaire (EDE-Q)
+The Eating Disorders Examination Questionnaire [35],
+Japanese version, which was established for its validity as
+well as reliability [51], is a widely used 36-item self-report
+questionnaire that assesses the eating disorders-related
+level of symptoms over the past 28 days. EDE-Q generates
+two types of data. First, 22 scaled items plus one unscaled
+item (items 1–15 and 29–36) provide subscale scores
+reflecting the severity of aspects of the ED psychopath-
+ology. Second, 13 more items (items 16–28) provide data
+on six key behavioral features of ED in terms of presence/
+absence and frequency with which the behavior occurred, 
+and loss of control. EDE-Q includes four subscale scores,
+Restricting (EDE-Qr),  Eating concern (EDE-Qe),  Shape
+concern (EDE-Qs) and Weight Concern (EDE-Qw), which
+are included in this assessment, the response format of
+which is a 7-point Likert-type scale (0: never; 6: every
+day). The subscale scores are obtained by calculating the
+average of the items forming each subscale, and the global
+score (EDE-Qg) is the average of the four subscale scores.
+Bulimia Investigatory Test, Edinburgh (BITE)
+The Bulimia Investigatory Test, Edinburgh [52,53], Japanese
+version, recognized for its validity and reliability [54],  is
+a 33-item self-report measure designed to identify indi-
+viduals with symptoms of bulimia or binge eating. BITE
+consists of two subscales: the symptom scale (BITE-sas),
+which measures the degree of symptoms present, and the
+severity scale (BITE-ss),  which provides an index of the
+severity of binging and purging behavior as defined by their
+frequency.
+Eating Disorders Inventory-2 (EDI-2)
+The Eating Disorder Inventory-2 contains 91 items and
+is a self-report questionnaire designed for use with those
+aged 12 years or older. This measure assesses features
+commonly associated with anorexia nervosa and bulimia
+nervosa but does not provide diagnoses for eating disor-
+ders [55]. EDI-2 consists of 11 subscales including bulimia,
+body dissatisfaction, drive for thinness, perfectionism, inef-
+fectiveness, interpersonal distrust, interoceptive awareness,
+maturity fears, asceticism, impulse regulation and social in-
+security. The Japanese version of EDI-2, which has been
+established as valid and reliable [56], was used to assess the
+presence of eating disorders.
+Maudsley Obsessive-Compulsive Inventory (MOCI)
+The Maudsley Obsessive-Compulsive Inventory [57],
+Japanese version, recognized as being valid and reliable
+[58], is a true-false format self-report questionnaire de-
+veloped for evaluating obsessive-compulsive symptoms
+to discriminate obsessive patients from other neurotic
+patients and nonclinical individuals. The test is composed
+of 30 dichotomous items, such that the total score for a
+participant will range between 0 (absence of symptoms)
+and 30 (maximum presence of symptoms).
+The levels of psychopathology in eating disorders
+were measured using the scores of BITE, total scores of
+EDI-2, and EDE-Q subscores.
+Neuropsychological assessment
+Iowa gambling task [3,59]
+Decision-making ability of participants was evaluated using
+IGT, which is a neuropsychological task based on emotion-
+guided evaluation. Participants are required to choose one
+card at a time from four available decks of cards (100 trials)
+Page 5
+Matsumoto et al. Journal of Eating Disorders (2015) 3:14  Page 5 of 10
+in this task. The goal of the task is to win as much money
+as possible. To accomplish a task, participants have to
+detect, from a long-term perspective, which are the most
+advantageous decks. First, participants were given both the
+task instructions and 200,000 Japanese yen (approximately
+US$1,666) of play money. Each time participants choose a
+card, they will win some money; however, on turning over
+each card they also will, seldom or sometimes, have to
+pay a penalty according to a pre-programmed schedule
+of reward and punishment. Gains and losses differ for
+each card selected from the four decks. Decks A and B
+are “bad decks (disadvantageous)”, and the other decks,
+C and D, are “good decks (advantageous)”, because, in
+the former, while participants receive 10,000 Japanese
+yen (approximately US$83),  the losses are also higher,
+such that these decks cost more in the long run. In
+contrast, the latter will lead to overall gains in the long
+run (receiving less money, but punishments are also
+smaller). The 100 choices were divided into five blocks
+of 20 choices each. We calculated the number of advan-
+tageous cards (decks C and D) selected in total.
+Statistical analyses
+All statistical analyses were performed using SPSS 21.0
+(IBM Corp.,  Armonk, NY).  Demographic and clinical
+variables for ED and HC groups were compared using
+one-way analyses of variance (ANOVAs).
+IGT scores were defined as the number of choices
+from the advantageous decks (C and D) minus the number
+of choices from the disadvantageous decks (A and B) for
+all 100 trials. This net score (decks[C + D] - decks[A + B])
+calculated for each 20-choice time block enables the as-
+sessment of learning during the task. A total net score for
+the 100 selections is also calculated. A score of <10 was
+established by Bechara et al. as the threshold for deficit of
+decision-making on IGT, given the maximum net score
+achieved by vmPFC patients was <10 [9]. A 5 × 3 repeated-
+measures ANOVA was carried out with the net scores of
+the five blocks [C + D]-[A + B](1–20, 21–40, 41–60, 61–80,
+81–100) as the repeated-measures variable and the three
+diagnostic groups (AN, BN, and HC) as a between-subjects
+variable. Effect size was calculated using Cohen’s d, with
+d = 0.2 regarded as a small effect, d = 0.5 as a medium ef-
+fect, and d = 0.8 as a large effect [60]. Pearson’s correla-
+tions were used to examine the relationship between IGT
+performance and demographic and clinical variables in
+the whole sample and in each group, respectively. Finally,
+multiple regression analysis was performed for all partici-
+pants to detect the best predictors of IGT performance,
+using IGT performance as the dependent variable and all
+questionnaire scores and subscale scores showing signifi-
+cant relationships as independent variables. In all analyses,
+the statistical significance level was set at p < 0.05 (2-tailed
+tests). 
+Results
+Sample characteristics
+Demographic and clinical characteristics are summarized
+in Table 1. The three groups did not differ in terms of
+age (F (2,106) = 1.71; p =0.19) and education (F (2, 65) =
+1.24; p = 0.30). In addition, no significant difference be-
+tween the patient groups in terms of illness duration
+was found (F (1, 52) = 0.003; p < 0.096).  On the other
+hand, significant differences were obtained for BMI and
+clinical self-report measures (TAS-20, EDE-Q, HADS,
+BITE, MOCI, and EDI-2). Post hoc t tests revealed that
+AN and/or BN differed from HC for most of the dimen-
+sional assessments, while no significant differences were
+found with respect to the overall questionnaires between
+AN and BN.
+Decision-making performances
+Group comparisons in IGT total net scores [C + D]-[A + B](1–
+100 choices)
+Results from IGT are presented in Table 2. The preva-
+lence of decision-making impairment (IGT < 10, [9]) was
+approximately 45% in AN, 44% in BN patients, and 45%
+in HC. No significant group differences were found in
+the mean IGT total net scores (F (2,103) = 1.06; p = 0.35),
+indicating that the decision-making abilities of the three
+groups were quite similar.
+Group comparisons in IGT block net scores [C + D]-[A + B]
+(1–20, 21–40, 41–60, 61–80, 81–100)
+Figure 1 shows the mean IGT scores for the three
+groups over the five blocks of 20 trials each. A 5 (IGT
+block) × 3 (group) repeated measures ANOVA was per-
+formed on net scores for all five blocks. Mauchly’s test in-
+dicated that the assumption of sphericity had been violated
+(χ2 (9) = 51.51, p < 0.0001),  and therefore the degrees of
+freedom were corrected using Greenhouse-Geisser esti-
+mates of sphericity (ε = 0.78). There was no significant
+main effect of group (F (2, 103) = 1.06, p = 0.35, ηp2 =
+0.02), but there was a significant main effect of block (F
+(3.14, 57.48) = 14.53, p < 0.0001, ηp2 = 0.12), and a sig-
+nificant group × block interaction (F (6.28, 57.48) =
+2.63, p = 0.02, ηp2 = 0.05) over the IGT blocks. In the
+HC group, IGT performance showed a gradual increase
+across blocks. There was a significant task-related learning
+effect, as performance improved during the task for BN
+and HC (BN: F (4, 32) = 2.69; p = 0.04; HC: F (4, 47) =
+15.24; p < 0.0001). A post-hoc least significant difference
+test indicated that there was a significant difference be-
+tween the BN and HC groups in the final block [C + D]-
+[A + B](81–100), that is, performance in BN was signifi-
+cantly worse than in HC (p = 0.02). On the other hand,
+although no significant difference was observed between
+AN and HC in the final block [C + D]-[A + B](81–100),
+performance in AN was marginally deficient compared to
+Page 6
+Matsumoto et al. Journal of Eating Disorders (2015) 3:14  Page 6 of 10
+Table 2 Decision-making ability on the Iowa Gambling Task (IGT) in AN, BN, and HC
+Eating disorders  Healthy control
+AN (n=22)  BN (n=36)  HC (n=51)
+IGT  Mean SD  Mean SD  Mean SD
+Block 1  -1.43  7.46  -2.00  6.01  -2.61  5.29
+Block 2  2.19  7.45  2.18  7.21  -0.31  6.96
+Block 3  3.14  7.47  1.82  7.68  4.14  7.85
+Block 4  3.90  7.50  3.15  8.82  6.49  7.44
+Block 5  2.67  10.11  2.29  8.73  7.35  9.29
+Total net scores 10.48  25.53  7.50  27.09  15.06  20.99
+In bold: p-value < 0.05, n.s.: not significant. 
+F-value
+0.31
+1.62
+0.92
+2.03
+3.73
+1.05 
+p-value
+0.73
+0.20
+0.40
+0.14
+0.03
+0.35 
+post hoc
+n.s.
+n.s.
+n.s.
+n.s.
+BN<HC
+n.s.
+HC (p = 0.054). The two clinical groups were not signifi-
+cantly different from each other in any other block. Effect
+sizes for between-groups differences in IGT net scores
+were measured using Cohen’s d (block 1: AN vs. HC,
+d = 0.20; BN vs. HC, d = 0.11; block 2: AN vs. HC, d =
+0.36; BN vs. HC, d = 0.36; block 3: AN vs. HC, d = 0.13;
+BN vs. HC, d = 0.30; block 4: AN vs. HC, d = 0.35; BN
+vs. HC, d = 0.42; block 5: AN vs. HC, d = 0.50; BN vs.
+HC, d = 0.56).
+Group comparisons controlling for covariates
+We demonstrated the same group comparisons analysis,
+controlling for the use of SSRIs in the IGT block net
+scores [C + D]-[A + B](1–20, 21–40, 41–60, 61–80, 81–100).
+We not only detected remaining significant differences in
+the IGT net scores in the final [C + D]-[A + B](81–100)
+choices (p = 0.01), but also found significant differences
+between BN and HC in the fourth [C + D]-[A + B](61–80)
+choices (p = 0.01).
+8. 
+AN
+6.  BN
+HC
+4. 
+*p<0.05
+Net 
+score 
+(C
++D
+)
+-
+(A
++B
+) 
+2.
+0. 
+1 (1-20)  2 (21-40)  3 (41-60)  4 (61-80) 5 (81-100)
+-2. 
+Blocks
+-4.
+Figure 1 Strategy of Iowa Gambling Task, as total number of
+“Advantageous” minus “Disadvantageous” cards selected in
+each block of 20 cards; anorexia nervosa (AN), bulimia nervosa
+(BN), and healthy control (HC). A significant difference between
+BN and HC was indicated (p < 0.05). 
+Association between decision-making and clinical
+variables
+Correlation analysis
+We explored correlations among clinical measures in-
+cluding all scores such as TAS-20, EDE-Q, BITE, EDI-2,
+HADS, MOCI and IGT performance (both IGT total net
+scores: [C + D]-[A + B](1–100 choices) and block net
+scores: [C + D]-[A + B](1–20, 21–40, 41–60, 61–80, 81–
+100) ) in AN and BN females, respectively. Performance
+in the first block [C + D]-[A + B](1–20) of the IGT was
+negatively associated with BITE-sas in the AN group
+(r = −0.73, p = 0.04) (Figure 2). In the BN group, as shown
+in Figure 3, the IGT performance in the third block [C +
+D]-[A + B](41–60) was also negatively correlated with
+EDEQ-w (r = −0.47, p = 0.02). Therefore, we detected dif-
+ferent patterns of association between pathological eating
+concerns/behaviors and the performances of decision-
+making ability between AN and BN.
+Regression analysis
+Multiple regression analysis was performed for all partici-
+pants using demographic and clinical scores such as TAS-
+20, EDE-Q (four subscales: restricting, eating concern,
+shape concern, weight concern), HADS (depression and
+anxiety), EDI-2, MOCI, and BITE (symptoms and severity)
+as independent variables and IGT net scores [C + D]-[A +
+B] (1–20, 21–40, 41–60, 61–80, 81–100) as dependent
+variables. As shown in Table 3, the analyses revealed seven
+predictive factors for the third block of IGT [C + D]-[A +
+B](41–60):  years of education (β = 0.77, p = 0.0001),
+EDEQ-r (β = 1.58, p = 0.0001), HADS-a (β = −0.69, p =
+0.01), HADS-d (β = 1.44, p = 0.0001), EDI-2 (β = −0.81,
+p = 0.01),  BITE-ss (β = −0.51, p = 0.03),  and BITE-sas
+(β = −1.80, p = 0.0001). In contrast, no significant predict-
+ive factor was highlighted for the AN and BN groups,
+suggesting that mood status (anxiety or depression), in
+addition to the pathological eating/weight concerns for
+the prospect of decision-making were detected.
+Page 7
+Matsumoto et al. Journal of Eating Disorders (2015) 3:14  Page 7 of 10
+40
+30 
+AN
+BITE
+-sas
+20
+10
+0
+-30  -20  -10  0
+-10 
+R² = 0.54
+p = 0.04
+10  20  30 
+BN
+HC
+AN
+BN
+HC
+IGT (1-20)
+Figure 2 Scatter plot shows the scores of the first block on IGT
+(1–20 within 100 trials) and the bulimia investigatory test,
+edinburgh symptom subscale (BITE-sas) for AN, BN, and HC.
+Negative correlation was found in AN (r = −0.73; p = 0.04). 
+Table 3 Multiple regression analysis with Iowa Gambling
+Task net scores (third block 41-60 within 100 trials) as
+the dependent variable in all participants
+Variables  Beta  t  p
+education (years)  0.77  4.40  0.00
+EDE-Qr  1.58  4.45  0.00
+HADS (anxiety)  -0.69  -2.69  0.01
+HADS (depression) 1.44  4.65  0.00
+BITEss  -0.51  -2.33  0.03
+BITEsas  -1.8  -5.01  0.00
+EDI-2  -0.81  -2.62  0.01
+n = 109; R2 = 0.556; adjusted R2 = 0.388; SE of estimate = 6.036.
+Results showed seven variables predicting performance on the IGT.
+SE: standard error; EDE-Qr: Eating Disorder Examination Questionnaire restricting
+subscale; HADS: Hospital Anxiety and Depression Scale; BITE: Bulimia Investigatory
+Test, Edinburgh; EDI-2: Eating Disorder Inventory-2.
+Discussion
+In the present study, we found different profiles in IGT
+performance between BN, AN, and HC. As shown in
+Figure 1, a comparison of the performance curves of
+the three groups revealed that the individuals with AN
+and BN, as opposed to HC, failed to learn advantageous
+decision-making until the end of the task. Although no
+significant difference between AN and HC was observed,
+a difference between BN and HC (BN < HC, p = 0.02)
+was detected in the final block [C + D]-[A + B](81–100).
+Regarding total net scores, the prevalence of decision-
+making impairment (IGT < 10) was reported to be ap-
+proximately 61% in AN and 77% in BN by Brogan et al.
+[44], but our data showed lower percentages. Secondly,
+only in the BN group, there was a significant negative cor-
+relation between the weight concern subscales and the
+performances of decision-making ability. These findings
+may be strongly confirmed by the fact that in the BN
+group, pathological weight concern affected the impaired
+decision-making ability.
+A previous study has reported that patients with BN
+were significantly different from the HC group in blocks
+7
+EDE
+-Qw
+6
+5
+4
+3
+2
+1
+0
+-20  -10  0  10
+IGT (41-60) 
+R² = 0.22
+p = 0.02
+20  30 
+AN
+BN
+HC
+AN
+BN
+HC
+Figure 3 Scatter plot shows the scores of the third block on IGT
+(41–60 within 100 trials) and the eating disorder examination
+questionnaire weight concern subscale (EDE-Qw) for AN, BN, and
+HC. Negative correlation was found in BN (r = −0.47; p = 0.02). 
+3 [C + D]-[A + B](41–60) and 4 [C + D]-[A + B](61–80)
+[44]. In contrast, we found that BN made fewer advanta-
+geous choices than HC in the final block [C + D]-[A + B]
+(81–100) of the task. This would suggest that pathological
+concerns affect ignored long-term negative consequences,
+which may have led to impaired decision-making ability in
+the final block [C + D]-[A + B](81–100) in the current
+study. There is a striking resemblance between the IGT
+performance of the patients and their real-life pathological
+behaviors, in which they have a tendency to reduce their
+food intake and/or refuse to eat, or in contrast to this
+pattern, repetitively overeating and purging, ignoring
+long-term negative consequences. In a previous study,
+BN subjects failed to learn an advantageous decision-
+making strategy by choosing immediate rewards (high
+gains) despite the long-term negative consequences (loss
+of money) as compared to HC, showing that sensitivity to
+gains affect these findings [23], results consistent with
+the current study. Boeka and Lokken [22] suggested that
+there are links between decision-making, weight, and eating
+concerns/restricting behavior in BN, and thus the authors
+argued that the severity of bulimic symptoms as measured
+by the Bulimia Test-Revised [61] and the severity of EDE-Q
+(restraint, eating concerns and weight concerns) contribute
+to decision-making ability. These data were consistent with
+the findings in the BN group in the current study. Brand
+et al. suggested that performance in decision-making was
+related to executive functioning but not to other neuro-
+psychological functions, personality, or disease-specific
+variables in the BN group [41]. Regarding the task, in
+comparison to HC, the patients with BN tended to
+choose disadvantageous alternatives more frequently,
+possibly due to a tendency to fail to learn from the an-
+terior half of the task, which might be linked to real-life
+pathological behaviors.
+On the other hand, although performance in AN was
+marginally deficient compared to HC (p = 0.05) in the
+Page 8
+Matsumoto et al. Journal of Eating Disorders (2015) 3:14  Page 8 of 10
+last trial [C + D]-[A + B](81–100) of the IGT, the current
+study does not support results from other studies
+[11,39,40], showing that AN patients failed to reach a
+significant difference in decision-making compared to
+HC. One explanation for this is the small sample size
+of the current study. Additionally, the fewer comorbidities
+(AN, 2 with comorbidities; BN, 5 comorbidities) in AN
+might have led to better decision-making compared to
+BN. Interestingly, in the AN group, there was a significant
+correlation between bulimic symptomatology measured
+by the BITE symptom subscale, which measures the de-
+gree of present symptoms, and the poor performance
+of IGT in the first block [C + D]-[A + B](1–20). 59.1%
+(13/22) of the AN group had binge eating/purging sub-
+type, which may have affected the poor performance of
+IGT. Thus, our first hypothesis, that the AN and BN
+groups present a different pattern in decision-making
+ability, was confirmed.
+The second aim of this study was to explore the links
+between decision-making ability and mood status, weight/
+eating concerns of pathological symptoms. Using multiple
+regression analysis, we found that EDI-2 and BITE-ss
+measures predicted decision-making. These data are in
+line with previous investigations concerning this subject
+[18,22].
+Both the states of anxiety and depressive mood were
+found to be predictors of better decision-making. These
+data suggest that emotional states may impact decision-
+making in EDs [11] as well as in HC [62-64].  Zeeck
+et al. reported that the urge to eat is significantly higher
+under negative-emotional states; negative emotions such
+as sadness or disappointment correlated significantly with
+the number of binges, whereas positive emotions did not
+[65]. Thereby, the ‘Network Theory of Affect’ [66], that
+is, affective nodes (central units), can be semantic (with
+straightforward meaning) or affective (with emotional
+meaning), which may confirm the findings of the previ-
+ous study. One recent study of binge eating disorders
+was in line with this view, proposing that the emotional
+state may have a direct experience that is similar to its
+emotion [67].
+Alexithymia, as measured by TAS-20, did not affect
+decision-making ability in the current study, although a
+higher level of alexithymia compared with HC was observed.
+Miyake et al. reported that there was no correlation
+with decision-making ability using emotional decision-
+making task and alexithymia in EDs [30], a result con-
+sistent with the finding of our study.
+In the current study, controlling for the use of SSRIs
+as covariance, we detected significant difference in IGT
+performances between BN and HC in the fourth block
+[C + D]-[A + B](61–80) and the final block [C + D]-[A + B]
+(81–100),  which suggested the influence of the sero-
+tonin system in decision-making. In the previous study 
+by Tchanturia et al. [11], 44% of AN patients were taking
+SSRIs, but no difference between medicated and non-
+medicated patients was found. Emerging data have sug-
+gested that dysregulation of serotonin circuits in cortical
+and limbic structures are related to anxiety, eating behav-
+iors and body image symptoms [68]. Alterations of this
+system may influence mood status and decision-making
+process in EDs, which may lead to insights into potential
+treatment approaches. The question of whether cognitive
+impairment in EDs is an endophenotype and risk factor or
+whether it is a correlate of illness remains unclear from
+the findings in the current study. It may be suggested that
+the relationship of symptomatology and emotional func-
+tioning to decision-making performance improves with
+recovery of illness.
+There are some limitations to this study. First, it should
+be noted that a single task such as IGT is limited in exam-
+ining decision-making impairments comprehensively, and
+this is true for the other clinical scales as well. Second, the
+results are generalizable for females only, and the sample
+sizes were not large enough compared to previous studies
+[12,37,43,44],  indicating that a replication with a larger
+group that includes males is desirable. Finally, other
+variables such as impulsivity, central coherence, set-shifting,
+and inhibitory control-confounding factors associated with
+decision-making deficits or emotional dysregulation should
+be considered in the future.
+Future study should evaluate how some different emo-
+tional variables such as sadness and fear may influence
+the decision-making process in patients with EDs. A longi-
+tudinal study is required to investigate changes in decision-
+making ability in accordance with emotional states and
+recovery of symptomatology of illness.
+Conclusions
+In conclusion, we found different profiles in IGT perform-
+ance between BN, AN, and HC. Different patterns of asso-
+ciation between pathological eating concerns/behaviors
+and the performances of decision-making ability were
+found between AN, BN, and HC. Individuals with BN,
+compared to HC, have a different processing pattern of
+decision-making ability that may be linked to pathological
+eating/weight concerns. Anxiety, depressive mood status,
+and pathological eating/weight concerns are linked to
+decision-making ability.
+Abbreviations
+AN: Anorexia nervosa; ANOVA: One-way analyses of variance; BITE: Bulimia
+Investigatory Test, Edinburgh; BITEsas: Bulimia Investigatory Test, Edinburgh
+symptom scale; BITEss: Bulimia Investigatory Test, Edinburgh severity scale;
+BMI: Body Mass Index; BN: Bulimia nervosa; DSM-IV-TR: Diagnostic and
+Statistical Manual of Mental Disorders; EDs: Eating disorders; EDE-Q: Eating
+Disorder Examination Questionnaire; EDE-Qe: Eating Disorder Examination
+Questionnaire eating concern; EDE-Qg: Eating Disorder Examination
+Questionnaire global score; EDE-Qr: Eating Disorder Examination Questionnaire
+restricting; EDE-Qs: Eating Disorder Examination Questionnaire shape
+concern; EDE-Qw: Eating Disorder Examination Questionnaire weight
+Page 9
+Matsumoto et al. Journal of Eating Disorders (2015) 3:14  Page 9 of 10
+concern; EDI-2: Eating Disorders Inventory; HADS: Hospital Anxiety and
+Depression Scale; HADS-a: Hospital Anxiety and Depression Scale anxiety;
+HADS-d: Hospital Anxiety and Depression Scale depression; HC: Healthy
+controls; IGT: Iowa Gambling Task; MOCI: Maudsley Obsessive-Compulsive
+Inventory; SMH: Somatic Marker Hypothesis; SSRI: selective serotonin
+reuptake inhibitor; TAS-20: Toronto Alexithymia Scale; vmPFC: Ventromedial
+prefrontal cortex.
+Competing interests
+The authors do not have any competing interests to report.
+Author contributions
+Conceived and designed the experiments: JM, MN, SM, KY, MI, ES. Performed
+the experiments: JM, MN, YH, NN. Analyzed the data: JM, MN, YH. Contributed
+reagents/materials/analysis tools: JM, MN, NN, DM, MI. Wrote the paper: JM, MN,
+YH. All authors read and approved the final manuscript.
+Acknowledgements
+We would like to thank the Research Center for Child Mental Development
+and the Department of Psychiatry, Chiba University Hospital, for their help
+with recruitment. The authors are also grateful to the participants for their
+co-operation in this study. A summary of this study was presented at the
+43rd Annual Congress European Association for Behavioral and Cognitive
+Therapies, 2013.
+Author details
+1United Graduate School of Child Development, Osaka University, Kanazawa
+University, Hamamatsu University School of Medicine, Chiba University and
+University of Fukui, Suita, Japan. 2Research Center for Child Mental
+Development, Graduate School of Medicine, Chiba University, Chiba, Japan.
+3Department of Regional Disaster Medicine, Graduate School of Medicine,
+Chiba University, Chiba, Japan. 4Tochigi Shimotsuga General Hospital, Tochigi
+Medical Center, Tochigi, Japan. 5Department of Child Psychiatry, Graduate
+School of Medicine, Chiba University, Chiba, Japan. 6Department of Cognitive
+Behavioral Physiology, Graduate School of Medicine, Chiba University, Chiba,
+Japan. 7Department of Clinical Cell Biology and Medicine, Graduate School
+of Medicine, Chiba University, Chiba, Japan. 8Department of Psychiatry,
+Graduate School of Medicine, Chiba University, Chiba, Japan. 9Center for
+Forensic Mental Health, Chiba University, Chiba, Japan.
+Received: 14 November 2014 Accepted: 8 March 2015
+References
+1.  Fairburn CG, Harrison PJ. Eating disorders. Lancet. 2003;361:407–16.
+2.  American Psychiatric Association. Diagnostic and Statistical Manual of
+Mental Disorders, 4th Edition, Text Revision. 4th ed. Washington, DC:
+American Psychiatric Association; 2000.
+3.  Bechara A, Damasio AR, Damasio H, Anderson SW. Insensitivity to future
+consequences following damage to human prefrontal cortex. Cognition.
+1994;50:7–15.
+4.  Bechara A, Damasio H, Tranel D, Damasio AR. Deciding advantageously
+before knowing the advantageous strategy. Science. 1997;275:1293–5.
+5.  Damasio AR. Descartes’ error and the future of human life. Sci Am.
+1994;271:144.
+6.  Aloi M, Rania M, Caroleo M, Bruni A, Palmieri A, Cauteruccio M, et al.
+Decision making, central coherence and set-shifting: a comparison between
+Binge Eating Disorder, Anorexia Nervosa and Healthy Controls. BMC Psychiatry.
+2015;15:6.
+7.  Adoue C, Jaussent I, Olié E, Beziat S, Van den Eynde F, Courtet P, Guillaume S.
+A further assessment of decision-making in anorexia nervosa. Eur Psychiatry.
+2014.
+8.  Martoni RM, Brombin C, Nonis A, Salgari GC, Buongiorno A, Cavallini MC,
+Galimberti E, Bellodi L. Evaluating effect of symptoms heterogeneity on
+decision making ability in obsessive compulsive disorder. Psychiatry Clin
+Neurosci. 2014.
+9.  Bechara A, Dolan S, Denburg N, Hindes A, Anderson SW, Nathan PE.
+Decision-making deficits, linked to a dysfunctional ventromedial prefrontal
+cortex, revealed in alcohol and stimulant abusers. Neuropsychologia.
+2001;39:376–89. 
+10. Guillaume S, Jollant F, Jaussent I, Lawrence N, Malafosse A, Courtet P. Somatic
+markers and explicit knowledge are both involved in decision-making.
+Neuropsychologia. 2009;47:2120–4.
+11. Tchanturia K, Liao P-C, Uher R, Lawrence N, Treasure J, Campbell IC. An
+investigation of decision making in anorexia nervosa using the Iowa
+Gambling Task and skin conductance measurements. J Int Neuropsychol
+Soc. 2007;13:635–41.
+12. Liao P-C, Uher R, Lawrence N, Treasure J, Schmidt U, Campbell IC, et al. An
+examination of decision making in bulimia nervosa. J Clin Exp Neuropsychol.
+2009;31:455–61.
+13. Worthy DA, Byrne KA, Fields S. Effects of emotion on prospection during
+decision-making. Front Psychol. 2014;5:591.
+14. Loewenstein G, Lerner JS. The role of affect in decision making. In: Davidson RJ,
+Scherer KR, Hill H, editors. Handbook of affective sciences. Volume xvii, Series in
+Affective Science. New York, NY, US: Oxford University Press; 2003. p. 619–42.
+15. Kaye WH, Fudge JL, Paulus M. New insights into symptoms and neurocircuit
+function of anorexia nervosa. Nat Rev Neurosci. 2009;10:573–84.
+16. Sternheim L, Startup H, Saeidi S, Morgan J, Hugo P, Russell A, et al.
+Understanding catastrophic worry in eating disorders: process and content
+characteristics. J Behav Ther Exp Psychiatry. 2012;43:1095–103.
+17. Haegler K, Zernecke R, Kleemann AM, Albrecht J, Pollatos O, Brückmann H,
+et al. No fear no risk! Human risk behavior is affected by chemosensory
+anxiety signals. Neuropsychologia. 2010;48:3901–8.
+18. Fornasari L, Gregoraci G, Isola M, Laura Negri GA, Rambaldelli G, Cremaschi S,
+et al. Psychopathological and personality traits underlie decision making in
+recent onset medication naïve anorexia nervosa: a pilot study. Psychiatry Res.
+2014;216:89–96.
+19. Danner UN, Sanders N, Smeets PAM, van Meer F, Adan RAH, Hoek HW, et al.
+Neuropsychological weaknesses in anorexia nervosa: set-shifting, central
+coherence, and decision making in currently ill and recovered women. Int
+J Eat Disord. 2012;45:685–94.
+20. Must A, Szabó Z, Bódi N, Szász A, Janka Z, Kéri S. Sensitivity to reward and
+punishment and the prefrontal cortex in major depression. J Affect Disord.
+2006;90:209–15.
+21. Cella M, Dymond S, Cooper A. Impaired flexible decision-making in Major
+Depressive Disorder. J Affect Disord. 2010;124:207–10.
+22. Boeka AG, Lokken KL. The Iowa gambling task as a measure of decision
+making in women with bulimia nervosa. J Int Neuropsychol Soc.
+2006;12:741–5.
+23. Garrido I, Subirá S. Decision-making and impulsivity in eating disorder patients.
+Psychiatry Res. 2013;207:107–12.
+24. Svaldi J, Brand M, Tuschen-Caffier B. Decision-making impairments in
+women with binge eating disorder. Appetite. 2010;54:84–92.
+25. Nemiah JC, Freyberger H, Shifneos PE. Alexithymia; a view of the
+psychosomatic process. In: Hill OW, O’Neill DF, editors. Modern Trends in
+Psychosomatic Medicine. Volume 3. New York: Appleton-Century-Crofts;
+1976. p. 430–9.
+26. Fairburn CG, Cooper Z, Shafran R. Cognitive behaviour therapy for eating
+disorders: a “transdiagnostic” theory and treatment. Behav Res Ther.
+2003;41:509–28.
+27. Cooper MJ. Cognitive theory in anorexia nervosa and bulimia nervosa:
+progress, development and future directions. Clin Psychol Rev. 2005;25:511–31.
+28. Abraham SF, Beumont PJ. How patients describe bulimia or binge eating.
+Psychol Med. 1982;12:625–35.
+29. Fairburn CG, Cooper Z, Shafran R. Cognitive behaviour therapy for eating
+disorders: a “transdiagnostic” theory and treatment. Behav Res Ther.
+2003;41:509–28.
+30. Miyake Y, Okamoto Y, Onoda K, Shirao N, Mantani T, Yamawaki S. Neural
+correlates of alexithymia in response to emotional stimuli: a study of
+anorexia nervosa patients. Hiroshima J Med Sci. 2009;58:1–8.
+31. Bechara A, Damasio H, Tranel D, Damasio AR. The Iowa Gambling Task and
+the somatic marker hypothesis: some questions and answers. Trends Cogn
+Sci (Regul Ed). 2005;9:159–62. discussion 162–164.
+32. Dong G, Lin X, Zhou H, Lu Q. How the win-lose balance situation affects
+subsequent decision-making: functional magnetic resonance imaging
+evidence from a gambling task. Neuroscience. 2014;272:131–40.
+33. Lopez C, Tchanturia K, Stahl D, Treasure J. Weak central coherence in eating
+disorders: a step towards looking for an endophenotype of eating disorders.
+J Clin Exp Neuropsychol. 2009;31:117–25.
+34. Harrison A, O’Brien N, Lopez C, Treasure J. Sensitivity to reward and
+punishment in eating disorders. Psychiatry Res. 2010;177:1–11.
+Page 10
+Matsumoto et al. Journal of Eating Disorders (2015) 3:14  Page 10 of 10
+35. Arbel R, Koren D, Klein E, Latzer Y. The neurocognitive basis of insight into
+illness in anorexia nervosa: a pilot metacognitive study. Psychiatry Res.
+2013;209:604–10.
+36. Arbel R, Latzer Y, Koren D. Revisiting poor insight into illness in anorexia
+nervosa: true unawareness or conscious disagreement? J Psychiatr Pract.
+2014;20:85–93.
+37. Chan TWS, Ahn W-Y, Bates JE, Busemeyer JR, Guillaume S, Redgrave GW, et al.
+Differential impairments underlying decision making in anorexia nervosa and
+bulimia nervosa: A cognitive modeling analysis. Int J Eat Disord. 2014;47:157–67.
+38. Jáuregui-Lobera I. Executive functions in anorexia nervosa. Nutr Hosp.
+2014;29:500–7.
+39. Cavedini P, Bassi T, Ubbiali A, Casolari A, Giordani S, Zorzi C, et al.
+Neuropsychological investigation of decision-making in anorexia
+nervosa. Psychiatry Res. 2004;127:259–66.
+40. Tchanturia K, Liao P-C, Forcano L, Fernández-Aranda F, Uher R, Treasure J,
+et al. Poor decision making in male patients with anorexia nervosa. Eur Eat
+Disord Rev. 2012;20:169–73.
+41. Brand M, Franke-Sievert C, Jacoby GE, Markowitsch HJ, Tuschen-Caffier B.
+Neuropsychological correlates of decision making in patients with bulimia
+nervosa. Neuropsychology. 2007;21:742–50.
+42. Tchanturia K, Morris RG, Anderluh MB, Collier DA, Nikolaou V, Treasure J. Set
+shifting in anorexia nervosa: an examination before and after weight gain,
+in full recovery and relationship to childhood and adult OCPD traits. J
+Psychiatr Res. 2004;38:545–52.
+43. Guillaume S, Sang CNT, Jaussent I, Raingeard I, Bringer J, Jollant F, et al. Is
+decision making really impaired in eating disorders? Neuropsychology.
+2010;24:808–12.
+44. Brogan A, Hevey D, Pignatti R. Anorexia, bulimia, and obesity: shared
+decision making deficits on the Iowa Gambling Task (IGT). J Int
+Neuropsychol Soc. 2010;16:711–5.
+45. Sheehan DV, Lecrubier Y, Sheehan KH, Amorim P, Janavs J, Weiller E, et al.
+The Mini-International Neuropsychiatric Interview (M.I.N.I.): the development
+and validation of a structured diagnostic psychiatric interview for DSM-IV
+and ICD-10. J Clin Psychiatry. 1998;59(20):22–33. quiz 34–57.
+46. Bagby RM, Parker JD, Taylor GJ. The twenty-item Toronto Alexithymia Scale–I.
+Item selection and cross-validation of the factor structure. J Psychosom Res.
+1994;38:23–32.
+47. Bagby RM, Taylor GJ, Parker JD. The Twenty-item Toronto Alexithymia
+Scale–II. Convergent, discriminant, and concurrent validity. J Psychosom Res.
+1994;38:33–40.
+48. Komaki G, Maeda M, Arimura T, Nakata A, Shinoda H, Ogata I, et al. The
+reliability and factorial validity of the Japanese version of the 20-item Toronto
+Alexithymia Scale. Jpn J Psychosom Med. 2003;43:839–46.
+49. Zigmond AS, Snaith RP. The hospital anxiety and depression scale. Acta
+Psychiatr Scand. 1983;67:361–70.
+50. Kitamura T, Zigmond AS, Snaith RP. Hospital anxiety and depression scale
+(HADS). In: Archives of psychiatric diagnostics and clinical evaluation.
+Volume 4. Tokyo: Nippon Hyoron Sya Co, Ltd; 1993. p. 371–2.
+51. Tachi T, Murakami K, Washizuka T, Ikuta N, Nishizono MA, Miyake Y.
+Application of the Eating Disorder Examination (EDE) to Japanese Patients
+with Eating Disorders : Reliability and Validity of the Japanese Version of
+EDE. Jpn J Psychosom Med. 2005;45:785–92.
+52. Fairburn CG, Beglin SJ. Assessment of eating disorders: interview or self-report
+questionnaire? Int J Eat Disord. 1994;16:363–70.
+53. Henderson M, Freeman CP. A self-rating scale for bulimia. The “BITE”. Br J
+Psychiatry. 1987;150:18–24.
+54. Nakai Y, Hamagaki S, Takagi R. The validity of bulimic investigatory test of
+Edinburgh (BITE) and the survey of bulimia nervosa. Clin Psychiatry.
+1998;40:711–6 (in Japanese).
+55. Garner DM. Eating Disorder Inventory-2. Odessa. 1991. [Professonal Manual]
+56. Shimura M, Horie H, Kumano H, Sakano Y, Suematsu H. Reliability and
+validity of a Japanese version of the Eating Disorder Inventory. Psychol Rep.
+2003;92:131–40.
+57. Hodgson RJ, Rachman S. Obsessional-compulsive complaints. Behav Res
+Ther. 1977;15:389–95.
+58. Hosoba T, Uchida N, Seiwa H. Factor analysis of Japanese version of the
+Obsessional-Compulsive Inventory. Memoirs of the Faculty of integrated
+Arts and Sciences, Hiroshima University, IV, Science reports. 1992; 18:53–61
+59. Kano M, Ito M, Fukudo S. Neural substrates of decision making as measured
+with the Iowa Gambling Task in men with alexithymia. Psychosom Med.
+2011;73:588–97. 
+60. Cohen J. Statistical Power Analysis for the Behavioral Sciences. 2nd ed.
+Hillsdale, N.J: Routledge; 1988.
+61. Thelen MH, Farmer J, Wonderlich S, Smith M. A revision of the Bulimia Test:
+The BULIT–R. Psychol Assess. 1991;3:119–24.
+62. McDowell BD, Moser DJ, Ferneyhough K, Bowers WA, Andersen AE, Paulsen JS.
+Cognitive impairment in anorexia nervosa is not due to depressed mood. Int J
+Eat Disord. 2003;33:351–5.
+63. Garon N, Moore C. Negative affectivity predicts individual differences in
+decision making for preschoolers. J Genet Psychol. 2006;167:443–62.
+64. Adida M, Jollant F, Clark L, Besnier N, Guillaume S, Kaladjian A, et al. Trait-related
+decision-making impairment in the three phases of bipolar disorder. Biol
+Psychiatry. 2011;70:357–65.
+65. Zeeck A, Stelzer N, Linster HW, Joos A, Hartmann A. Emotion and eating in
+binge eating disorder and obesity. Eur Eat Disorders Rev. 2011;19:426–37.
+66. Bower GH. Mood and memory. Am Psychol. 1981;36:129–48.
+67. Danner UN, Evers C, Sternheim L, van Meer F, van Elburg AA, Geerets TAM,
+et al. Influence of negative affect on choice behavior in individuals with
+binge eating pathology. Psychiatry Res. 2013;207:100–6.
+68. Kaye WH, Bailer UF, Frank GK, Wagner A, Henry SE. Brain imaging of serotonin
+after recovery from anorexia and bulimia nervosa. Physiol Behav. 2005;86:15–7.
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color ﬁgure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at
+www.biomedcentral.com/submit

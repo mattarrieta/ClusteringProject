@@ -1,0 +1,226 @@
+The Immediate Need 
+For an 
+Open Source Intelligence Database
+A Whitepaper by EBSCO Publishing 
+On the 
+Need for an Open Source Intelligence Database 
+Within or Independent 
+Of an 
+Open Source Intelligence Center
+March 24, 2005
+ 
+Executive Summary
+EBSCO Publishing, a provider of open source intelligence databases for the US intelligence community, has analyzed the methods for increasing the impact of open source intelligence in our national security planning.  After consulting with current intelligence community clients and with the offices of Senators Collins, Jeffords, Leahy, and Lieberman, we have summarized our recommendations in this white paper.
+Recommendations: 
+The National Intelligence Director should promote the acquisition, preparation and dissemination of an open source intelligence database to the US Intelligence Community as soon as possible.  Open source intelligence (OSI) is a vital adjunct to the classified intelligence used by analysts and agents today.  
+The National Intelligence Director should create an open source intelligence database now, regardless of whether that database would be managed within a new Open Source Intelligence Center or would be utilized directly by each of the National Intelligence Community agencies.  No matter where the OSI database would be located, it is essential that this gap in the all-source intelligence resource base be filled now.  
+The National Intelligence Director should promote the horizontal integration of this database across the Intelligence Community, by providing a user interface and research experience that as familiar to, and already accepted by, the existing analyst groups. Using established database producers, the National Intelligence Director can create and provide an OSI database quickly, fulfilling the mandate from Congress.
+The National Intelligence Reform Act of 2004 identified the need for OSI to be included in today’s “all-source” intelligence universe.  Two items have emerged for consideration:
+The need for an Open Source Intelligence Center, where OSI would be discovered, prioritized, and disseminated to the broader intelligence community.  Proponents argue that the current intelligence structure discourages, rather then encourages, the fast, free flow of actionable open source intelligence.
+The need for a comprehensive, scalable, integrated and secure open source database as a central resource for the US Intelligence Community (either under the immediate control of an Open Source Intelligence Center, or used more broadly within the existing Intelligence community). Proponents argue that OSI is often overlooked by analysts who focus on structured, classified intelligence, rather than on unstructured open source materials.
+No matter how the database ultimately is “owned,” the need for the database is immediate, unambiguous, and independent of its final home.  It is essential that broad-based open-source intelligence should be provided to the intelligence community as soon as possible.  Furthermore, the new Open Source Intelligence Center would “hit the ground running” if it could immediately inherit a functional open source content database.
+The Immediate Need for an Open Source Intelligence Database
+The Need for Open Source Intelligence:  The National Commission on Terrorist Attacks Upon the United States (9-11 Commission) found that an “Open Source Agency” would fill a glaring hole in the Intelligence Community’s current information resource base.  In Section 13.2 of the Final Report the Commission envisioned an Open Source Agency under the direct control of a new National Intelligence Director (DNI) (see Figure 1). 
+    Figure 1:  Open Source Agency proposal from 9-11 Commission
+Testimony by Senator Joseph Lieberman, on February 14, 2004, underscores the need for this centralized organization, and the need for enhanced open source intelligence (OSI):
+“The disastrous disconnects among our intelligence agencies - the culture of rivalry rather than cooperation, turf battles rather than team work - that have plagued the intelligence community have been well-documented. For some time now, many of us have been advocating for a central location in our government where all the intelligence collected by the various agencies that make up the intelligence community, as well as open-source information, and information collected by state and local law enforcement, can be brought together and analyzed, synthesized, and shared. 
+The idea is to "connect the intelligence dots," to create a full picture, so that we can understand what our adversaries are up to before their plans are carried out. Last year, as part of the homeland security bill, this Committee approved the creation of such an office. We were aided in our work by the support of Senator Specter, as well as the co-chairs of the Senate Intelligence Committee, Senators Richard Shelby and Bob Graham. In fact, after investigating the September 11th attacks, the Senate and House Intelligence Committees called on Congress and the Administration to use the authority Congress provided in the Homeland Security Act to establish an all-sources intelligence division within the Homeland Security Department.” 
+Ultimately, the question of the “open source intelligence division” was incorporated into the National Intelligence Reform Act of 2004, as a “Sense of Congress” described in Section 1065: 
+SEC. 1065. SENSE OF CONGRESS AND REPORT REGARDING OPEN SOURCE INTELLIGENCE.
+(a) Sense of Congress- It is the sense of Congress that—
+(1) the National Intelligence Director should establish an intelligence center for the purpose of coordinating the collection, analysis, production, and dissemination of open source intelligence to elements of the intelligence community;
+(2) open source intelligence is a valuable source that must be integrated into the intelligence cycle to ensure that United States policymakers are fully and completely informed; and
+(3) the intelligence center should ensure that each element of the intelligence community uses open source intelligence consistent with the mission of such element.
+(b) Report- Not later than June 30, 2005, the National Intelligence Director shall submit to the congressional intelligence committees a report containing the decision of the National Intelligence Director as to whether an open source intelligence center will be established. If the National Intelligence Director decides not to establish an open source intelligence center, such report shall also contain a description of how the intelligence community will use open source intelligence and effectively integrate open source intelligence into the national intelligence cycle.
+While the political considerations surrounding the creation of this Open Source Intelligence Center still are being debated, the need for usable open source intelligence is generally accepted and understood.  
+Open Source Information:  “Open Source” is the term for content that is generally available. This content includes periodicals, magazines, newspapers, journals, newswires, web site content, web logs, reports, transcripts, and any other content that is not classified.   In the continuum of Intelligence content, there is data, information, and intelligence.   Raw content (numbers on a graph, words on paper, voices on an audio tape, a picture) is data.  Once the data are categorized, labeled and combined in a common framework, they become information, ready for use but inherently dormant.  Once the information is accessed by an analyst seeking better understanding of an issue, it becomes intelligence.  
+Open Source Information (OSI), then, consists of open source data that has been enhanced so that it is ready for intelligence use.   Enhancing data means:
+categorizing the content (“indexing”)
+summarizing the content (“abstracting”) 
+enlivening the content (“linking” to other items) and
+organizing the content (“compiling”) into a database.
+Using Open Source Intelligence:  The key to successful incorporation of OSI into the intelligence cycle is for that content to be actionable by analysts and readily shared among them.  “Actionable” content must be comprehensive, scalable, integrated, transferable and secure.
+Comprehensive:  The database should capture a wide array of content types, from a wide array of sources.  The database architecture should be flexible enough to accommodate any new type of content that is added to it.
+Scalable:  The database should be able to grow quickly, and be distributed rapidly, as needs dictate.  Also, the database should be designed and formatted in such a way that it can connect to, and receive content from, a variety of data sources and formats.  By using and XML (Extensible Markup Language) construct, the database will never be obsolete.
+Integrated:  The OSI database should be structured in a format that can be linked to other existing sources of open source information that may currently exist.  Collections of newspapers and newswires, spidered web sites, archives of reports and testimony are all valid and potentially valuable sources of intelligence, that exist in the open source domain.  As more and more of these sources are identified or requested by intelligence community analysts, they should be readily integrated into the overall OSI data set.  This can be accomplished through a process of rapid indexing and an ongoing auto/manual review of the index results.
+Transferable:  To facilitate sharing, the content should be able to saved, emailed, printed, and filed quickly and easily.
+Secure:  The database should be hosted within a secure environment, so that query strings and search results are not openly available, as they may indicate current intelligence efforts.  The database itself may be updated externally and then the update can be loaded into the secure server environment on a predetermined frequency (daily, hourly, etc.).
+The Open Source Intelligence Database: The best way to deliver open source intelligence to the people that need to use it is to integrate several sources into one or more “clusters of information.”
+A comprehensive, scalable, integrated open source intelligence database would cut through the confusion created by overlapping and often confusing currently available open source information.  The database would aggregate qualified content, integrate vast amounts of non-periodical open source content (newspapers, web-based content, transcripts, etc.) and synthesize it all using an expert indexing engine.  The database would include:
+Millions of articles from magazines and periodicals, in English and any foreign language that is required 
+Hundreds of thousands of articles from peer-reviewed scholarly journals - this expert scholarship and research must be made readily accessible to the analyst community by careful indexing (labeling of the data) and use of abstracts and key words for rapid identification of context
+Tens of thousands of Background Information Profiles (BIP) of people, places, and organizations, created by subject matter experts
+Thousands of biographies of terror-related individuals
+Authority Profiles of leading authors, linking their publications and areas of expertise to the analysts that may need to consult them
+Laws, statutes, cases, and regulations 
+Web logs, list serves, web sites and other web-based content
+Hundreds of thousands of releases, reports and statements from US Government security and preparedness officials and agencies (e.g., Department of Homeland Security, the White House, the Senate Select Committee on Intelligence, the National Commission on Terror Attacks Upon the United States, etc.)
+Testimony from the Congressional Record
+Encyclopedias of terms and places 
+A Newspaper and Newswire module, integrating thousands of local and foreign language news sources (and millions of articles) into the overall database
+A dedicated Preparedness and Security index, to categorize the content into an easily searchable, unified structure, to facilitate linking to other materials of the same subject, and promote efficient use of the vast collection of data in the larger context of all-source intelligence analysis through sorting of results by shared characteristics, such as subjects, document types, dates, or places of origin.
+Synthesized indexing and search tools, including semantic and auto/manual indexing programs, and basic to advanced search paradigms
+A dedicated reference user interface, conducive to intelligence analysis, and customizable to support specific research and areas of interest.  
+A sophisticate search engine, capable of searching across dissimilar datasets and classifying content according to pre-determined subject areas, content terminology or other examples.  The search engine should also be able to search multiple languages simultaneously, returning an integrated, relevancy-ranked multli-language result set.
+The User Platform:  The user interface, features and functionality of this OSI database should promote monitoring, alerting, exploration, elaboration and sharing.  
+Monitoring:  The system should facilitate the creation of project-specific “folders” where OSI content can be clustered for detailed examination.  These virtual folders should be populated with new material automatically, as the system receives new content that matches the parameters (or “exemplars”) defined by the analyst.
+Alerting:  As new content that is particularly relevant or timely is discovered, the system should be able to immediately inform the analyst via email, pop-up display, or even a telephone call.
+Exploration:  Along with the monitoring features, the system should provide robust search functionality, by key-word, Booleand, natural language, or phrase-type searches.  This functionality will allow the analyst to explore in depth for more information based upon results already delivered by the monitoring process, and it will allow the analyst to search for immediate results on any topic.
+Elaboration:  The system should facilitate content searching by subject, source, content-type, date range, geographic area, etc, to enable an analyst to expand the circle of information being reviewed in relation to a specific result.
+Sharing:  They system should support filing, emailing, printing, and posting of relevant content to other users, to working groups, and to current analytical products.
+The Mandate:  Congress has required the incoming National Intelligence Director to report to Congress, no later than June 30, 2005, on whether an Open Source Intelligence Center is required, and if not, how open source intelligence will be provided to the Intelligence Community.  We urge that the National Intelligence Director report to Congress that: 
+An Open Source Intelligence Database will be produced and made available to the Intelligence Community immediately;
+In the short term, the database will be provided by the DNI (via a commercial vendor, or via the infrastructure of an existing Intelligence Community member); 
+In the long term, the OSI database will be managed via a central Open Source Intelligence Agency once it is established.
+The OSI database will promote horizontal sharing of information, yet enable customized use specific to each analyst accessing the system.
+Offer for Continued Input:  We understand that Congress requires a report by the National Intelligence Director on this subject by June 30, 2005.  We at EBSCO would welcome the opportunity to speak with Ambassador Negroponte, at any time, to present our views on this vital initiative.  
+The EBSCO contact is:
+Joseph Tragert, MA, MBA
+EBSCO Publishing
+10 Estes Street
+Ipswich, MA  01938
+O: 800-653-2726 ext. 661
+F: 978-356-5191
+E:  [URL: "mailto:jtragert@epnet.com"]jtragert@epnet.com
+ [URL: "http://www.epnet.com"]www.epnet.com
+Appendix 1: Implementation of a Secure Open Source Intelligence Database
+ 
+A. Rely on established processes  
+The implementation of a comprehensive OSI database is not an unprecedented exercise.  Commercial database publishers, like EBSCO, have been providing large, integrated datasets to government and commercial entities for decades.  The process involves the following steps:
+Develop the Database:  
+Identify the content
+Gather the content 
+Process the content
+Digitize materials (as needed)
+Index the materials (utilize latent semantic indexing)
+Create summaries or abstracts of the items as needed
+Transform and link content for search and retrieval, compatible with future formats
+Deploy the Database:
+Set up access at various Intelligence Community groups from within a secure hosting facility.  Data can be updated to the system from outside the secure facility, but search strings and results sets will remain inside the secure environment.  Establishing and maintaining a secure database is a straightforward process for any database publisher.
+Provided integration points to other databases, including classified content (to be used only within the groups’ secure environment)
+Maintain and Update the Database:
+Update the content on a continuous basis
+Update the indexing to reflect current events
+Update the specialized thesaurus to reflect current relationships and dependencies
+Add new content as requested by the Community
+Refine Features and Functionality per User Requirements, to Sustain Usage:
+Add new alerting and filtering mechanisms as determined by “power users” inside the Intelligence Community
+Add new search, save and sharing tools, as determined by “power users”
+Implement continuous improvement as semantic indexing and auto/manual indexing tools continue to evolve
+B. Use experienced professionals
+This process will be greatly enhanced if the DNI uses a commercial database and search engine vendors that currently create and maintains large integrated databases or support current analysis of large data volumes.  The process of adoption of the OSI database within the Intelligence Community will be further accelerated if the DNI selects a commercial database publisher with strong existing ties to the US Intelligence Community.
+Appendix 2: Sample Screen Designs for an Open Source Intelligence Database
+ 
+These screens are based upon existing multi-source databases produced by EBSCO and are used in several US Government agencies today.  This system envisions a semantic indexing methodology.
+FIGURE 2-1:  Sample Search Builder View
+FIGURE 2-2:  Sample Search Result List View
+FIGURE 2-3:  Sample Citation & Indexing view
+FIGURE 2-4:  Sample Full Text View
+Appendix 3: About EBSCO Publishing and the Author
+ 
+About EBSCO Publishing:
+EBSCO Publishing is a part of EBSCO Information Services, a division of EBSCO Industries, Inc.  EBSCO was ranked in the top 200 privately held companies in the United States in 2004 by Forbes magazine.
+EBSCO Publishing creates, hosts and maintains over 200 reference database products for a variety of markets, including a large portion of the US Government in general, and the Intelligence Community in particular.  EBSCO also serves the K-12, University, Medical, and Public Library reference markets with an array of databases and services.
+EBSCO reference databases are used by most of the US Intelligence Community today, and several users were consulted during the creation of this white paper.  A selected list of EBSCO Publishing US Government clients is presented on the following page.
+About the Author:
+Joseph Tragert directs Market Development at EBSCO Publishing.  In this role, he is responsible for identifying new applications for EBSCO’s services and capabilities. Over the past seven years he has directed product development, content licensing, interface design and custom content creation at EBSCO, and has successfully developed and deployed numerous information products and user systems during that time.
+Mr. Tragert also has worked as an analyst in the US Central Intelligence Agency, where he held a Top Secret, code-word clearance.
+Mr. Tragert holds an MA in Russian Area Studies from Georgetown University, and an MBA from the Wharton School of the University of Pennsylvania.  He is the author of three titles in the popular Complete Idiot’s Guide (Pearson-Penguin) series, on Iraq (two editions), Iran and North Korea.  He is also an Adjunct Professor in the School of Graduate & Professional Studies at Endicott College, where he teaches Research Methods in the MBA program.
+SELECTED EBSCO U.S. GOVERNMENT CLIENTS
+Federal Government Agencies 
+47 AMERICAN EMBASSIES AND CONSULATES WORLDWIDE
+AGENCY FOR INTERNATIONAL DEVELOPMENT
+BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM
+BUREAU OF CUSTOMS AND BORDER PROTECTION
+BUREAU OF THE CENSUS
+CENTRAL INTELLIGENCE AGENCY
+CONGRESSIONAL BUDGET OFFICE LIBRARY
+DEPARTMENT OF THE INTERIOR
+DEPARTMENT OF COMMERCE
+EQUAL EMPLOYMENT OPPORTUNITY COMMISSION
+EXECUTIVE OFFICE OF THE PRESIDENT
+EXPORT-IMPORT BANK US
+FDA OFFICE OF THE COMMISSION
+FDIC LIBRARY
+FEDERAL BUREAU OF PRISONS
+FEDERAL RESERVE BANK OF CHICAGO
+FEDERAL RESERVE BANK OF ST LOUIS
+FEDERAL TRADE COMMISSION
+FOOD AND DRUG ADMINISTRATION 
+LIBRARY OF CONGRESS
+NOAA LIBRARY & INFORMATION SERVICES
+US DEPT OF TRANSPORTATION 
+US GENERAL ACCOUNTING OFFICE
+US INTL TRADE COMMISSION
+US PATENT AND TRADEMARK OFFICE
+US TREASURY LIBRARY
+WOODROW WILSON CENTER LIBRARY
+OFFICE OF INTERNATIONAL INFORMATION PROGRAMS
+Laboratories, Institutes and Research Centers
+ARGONNE NATIONAL LABORATORY
+JET PROPULSION LABORATORY
+LAWRENCE LIVERMORE NATIONAL LABORATORY
+LOS ALAMOS NATIONAL LABORATORY
+NASA - JOHN H GLENN RESEARCH CENTER
+NASA - JOHNSON SPACE CENTER
+NATIONAL INSTITUTE OF HEALTH
+NATIONAL SCIENCE FOUNDATION
+OAK RIDGE NATIONAL LABORATORY
+SMITHSONIAN INSTITUTION LIBRARY
+SOUTHERN REGIONAL RESEARCH CENTER
+Military Institutions, Bases and Libraries
+30+ MILITARY BASE LIBRARIES
+AFRL MUNITIONS TECHNICAL LIBRARY
+AMERICAN MILITARY UNIVERSITY
+ARMED FORCES MEDICAL LIBRARY
+ARMY CORPS OF ENGINEERS VICKSBURG
+ARMY LOGISTICS MANAGEMENT COLLEGE
+ARMY MANAGEMENT STAFF COLLEGE
+CENTER FOR ARMY ANALYSIS
+CENTER FOR HEALTH PROMOTION & PREVENTIVE MEDICINE
+CENTER FOR NAVAL ANALYSES 
+DEFENSE INFORMATION SCHOOL
+DEFENSE INTELLIGENCE AGENCY LIBRARY
+DEPARTMENT OF DEFENSE EDUCATION
+INSTITUTE FOR DEFENSE ANALYSES
+JOINT FORCES STAFF COLLEGE
+MARINE CORPS RESEARCH CTR
+MILITARY INTELLIGENCE LIBRARY
+NATIONAL DEFENSE UNIVERSITY
+NATIONAL NAVAL MEDICAL CENTER
+NAVAL HEALTH RESEARCH CTR
+NAVAL HOSPITAL CAMP PENDLETON
+NAVAL MED CENTER
+NAVAL OPERATIONAL MED INST
+NAVAL POSTGRADUATE SCHOOL
+NAVAL RESEARCH
+NAVAL WAR COLLEGE
+OMEMS TECHNICAL LIBRARY
+OSIS NETWORK
+PENTAGON LIBRARY
+TRIPLER ARMY MEDICAL CENTER
+UNIFORMED SERVICES UNIVERSITY
+US ARMY CHAPLAIN CENTERR AND SCHOOL
+US ARMY COMM AND FAMILY SUPPORT
+US ARMY CORPS OF ENGINEERS POR
+US ARMY INSTITUTE OF INFECTIOUS DISEASES
+US ARMY MANEUVER SUPPORT CENTER
+US ARMY RESEARCH INST FOR THE
+US ARMY SOLDIER SUPPORT INST
+US ARMY SPECIAL OPERATIONS COMMMAND
+US MARINE CORPS-MCAS
+US MILITARY ACADEMY
+US NAVAL ACADEMY
+US NAVAL RESEARCH LABORATORY
+Open Source Intelligence Database White Paper	EBSCO Publishing, March 2005
+12
+Users should be able to search all or a subset of a wide range of open source information
+Users should be able to refine the vast array of results by filters such as content type, date, author, publication and subjects
+Full text should be one click away
+Sources and Authors should be easily identified
+Concise abstracts enable rapid discrimination of information
+Contact information for authors enables further discussion if required
+Linked index terms enable analysts to pursue further research in specific areas
+Analysts should be able to process, save and share content
+Key words are highlighted for rapid browsing
+Article text should be easily navigated

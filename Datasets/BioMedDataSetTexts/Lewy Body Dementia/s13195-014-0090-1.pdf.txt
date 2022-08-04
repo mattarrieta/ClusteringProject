@@ -1,0 +1,2104 @@
+BOOKMARKS:
+Abstract
+  Introduction
+  Methods
+  Results
+  Conclusions
+Introduction
+Methods
+  Study population and inclusion protocol
+  Behavioral assessment
+  Neuropathological examination and criteria
+  Regional brain dissection
+  Neurochemical RP-HPLC-ECD analysis
+  pH measurement of cerebellar brain tissue
+  Statistical analysis
+Results
+  Clinical and MMSE data, pH values and dementia staging
+  Behavioral assessment scores
+  Focus depression: neurochemical comparison of brain monoamines, metabolites and ratios between AD + D, AD-D, DLB + D and control subjects
+  MHPG levels across different postmortem brain regions in DLB versus AD and controls
+  Focus psychosis: neurochemical comparison of brain monoamines, metabolites and ratios between AD + D + P, AD + D-P, DLB + D + P and DLB + D-P
+  Brain monoaminergic correlates of NPS features in the DLB and AD population
+  Potential confounding monoaminergic effects of administered psychotropic medication
+Discussion
+  Study strengths and weaknesses
+  The serotonergic neuropathophysiology of depression in DLB compared to AD
+  Thalamic dopaminergic dysfunctioning and depression in DLB compared to AD
+  Psychosis and its dopaminergic pathogenesis in DLB versus AD
+  Brain MHPG levels are significantly reduced in DLB as opposed to AD
+Conclusions
+Abbreviations
+Competing interests
+Authors’ contributions
+Acknowledgments
+Author details
+References
+Page 1
+Vermeiren et al. Alzheimer's Research & Therapy (2015) 7:7
+DOI 10.1186/s13195-014-0090-1
+RESEARCH  Open Access
+The monoaminergic footprint of depression and
+psychosis in dementia with Lewy bodies compared
+to Alzheimer’s disease
+Yannick Vermeiren1, Debby Van Dam1, Tony Aerts1, Sebastiaan Engelborghs1,2, Jean-Jacques Martin4
+and Peter P De Deyn1,2,3,4*
+Abstract
+Introduction: Depression and psychosis are two of the most severe neuropsychiatric symptoms (NPS) in dementia
+with Lewy bodies (DLB) and Alzheimer’s disease (AD). Both NPS have negative effects on cognitive performance
+and life expectancy. The current study aimed to investigate and compare monoaminergic etiologies between both
+neurodegenerative conditions, given the lack of an efficient pharmacological treatment until present.
+Methods: Eleven behaviorally relevant brain regions of the left frozen hemisphere of 10 neuropathologically confirmed
+AD patients with/without depression (AD + D/-D; 5 were psychotic within AD + D), 10 confirmed DLB patients, all of
+whom were depressed (DLB + D; 5 psychotic patients), and, finally, 10 confirmed control subjects were regionally
+dissected. All patients were retrospectively assessed before death using the Behavioral Pathology in Alzheimer’s Disease
+Rating Scale (Behave-AD) and Cornell Scale for Depression in Dementia amongst others. The concentrations of dopamine
+(DA), serotonin (5-HT), (nor)adrenaline and respective metabolites, i.e. 3,4-dihydroxyphenylacetic acid (DOPAC) and
+homovanillic acid (HVA), 5-hydroxy-3-indoleacetic acid (5-HIAA), and, 3-methoxy-4-hydroxyphenylglycol (MHPG), were
+determined using reversed-phase high-performance liquid chromatography with electrochemical detection.
+Results: DLB subjects had the overall lowest monoamine and metabolite concentrations regarding 33 out of 41
+significant monoaminergic group alterations. Moreover, MHPG levels were significantly decreased in almost 8 out of 11
+brain regions of DLB- compared to AD patients. We also observed the lowest 5-HT and 5-HIAA levels, and 5-HIAA/5-HT
+turnover ratios in DLB + D compared to AD + D subjects. Additionally, a 4- and 7-fold increase of DOPAC/DA and HVA/
+DA turnover ratios, and, a 10-fold decrease of thalamic DA levels in DLB + D compared to AD + D patients and control
+subjects was noticed. Regarding psychosis, hippocampal DA levels in the overall DLB group significantly correlated with
+Behave-AD AB scores. In the total AD group, DA levels and HVA/DA ratios in the amygdala significantly correlated with
+Behave-AD AB scores instead.
+Conclusions: Monoaminergic neurotransmitter alterations contribute differently to the pathophysiology of depression
+and psychosis in DLB as opposed to AD, with a severely decreased serotonergic neurotransmission as the main
+monoaminergic etiology of depression in DLB. Similarly, psychosis in DLB might, in part, be etiologically explained by
+dopaminergic alterations in the hippocampus, whereas in AD, the amygdala might be involved.
+* Correspondence: [URL: "mailto:dedeyn@skynet.be"] dedeyn@skynet.be
+1Laboratory of Neurochemistry and Behavior, Institute Born-Bunge, University of
+Antwerp, Campus Drie Eiken, Universiteitsplein 1, Wilrijk, Antwerp 2610, Belgium
+2Department of Neurology and Memory Clinic, Hospital Network Antwerp
+(ZNA) Middelheim and Hoge Beuken, Lindendreef 1, Antwerp 2020, Belgium
+Full list of author information is available at the end of the article
+© 2015 Vermeiren et al.; licensee BioMed Central. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License ([URL: "http://creativecommons.org/licenses/by/4.0"] http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain
+Dedication waiver ([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article,
+unless otherwise stated.
+Page 2
+Vermeiren et al. Alzheimer's Research & Therapy (2015) 7:7  Page 2 of 18
+Introduction
+Dementia with Lewy bodies (DLB) is the second most
+common neurodegenerative disorder following Alzhei-
+mer’s disease (AD) and accounts for up to 20% of all
+autopsy-confirmed dementias in the elderly [1,2]. One of
+the key hallmarks of DLB patients, besides the cognitive
+impairment and parkinsonian symptomatology, is the
+high frequency of neuropsychiatric symptoms (NPS),
+particularly psychosis [3]. The presence of recurrent vis-
+ual hallucinations has even been identified as one of the
+core features in the clinical diagnosis of DLB. Addition-
+ally, the supportive and suggestive diagnostic features
+include depression, systematized delusions and rapid eye
+movement (REM) sleep behavior disorders among others
+[4].  Typically, visual hallucinations, delusions and de-
+pression are much more common in DLB than in AD
+[5,6]. The first two NPS occur in approximately 60% to
+70% of DLB patients [5-7], whereas depression, although
+frequently present in AD (28%),  remains much more
+persistent in DLB (45%) after a follow-up period of one
+year [8].  Moreover, depressive symptoms in AD and
+DLB are associated with a greater cognitive decline [8]
+and, in AD, significantly relate to lower survival rates
+over a three-year period [9]. Psychosis in AD is also very
+common and has previously been associated with an
+increased mortality rate and, again, an accelerated cogni-
+tive decline [10,11].  Besides depression and psychosis,
+symptoms of anxiety, apathy and sleep disturbances
+often coexist in DLB patients [3,12].  In addition, delu-
+sions and hallucinations may trigger other NPS, such as
+agitation or aggression, which regularly leads to early
+nursing home admission [12].
+At present, regarding the different classes of psycho-
+active drug therapies to alleviate depression and psychosis
+in AD, antipsychotics are the primary pharmacological
+treatment option, although they may induce serious side
+effects, increase mortality rates [13], and their efficacy is
+‘modest’ at best [14]. The administration of psychotropic
+medication has also been associated with a more rapid
+cognitive and functional decline, and not necessarily with
+improved NPS [15]. As for antidepressants, Pollock and
+colleagues [16] reported that citalopram was superior to
+placebo, with greatest efficacy for aggression, and, in a
+later study [17], citalopram was found to be comparable
+in efficacy to risperidone, differentiated by its significant
+effect on agitation and its superior tolerability in the treat-
+ment of moderate to severe NPS. Randomized controlled
+trials of sertraline [18] and trazodone [19], however, have
+been less promising. The pharmacological treatment of
+NPS in DLB patients, on the other hand, requires an even
+more cautious approach. For example, all drugs with anti-
+cholinergic side effects, such as tricyclic antidepressants,
+low potency neuroleptics, antiparkinsonian anticholinergic
+drugs and antispasmodics for bladder or gastrointestinal 
+tract, should be avoided due to their potential to exacer-
+bate psychotic symptoms and, moreover, might induce
+orthostatic hypotension [12].  Consequently, cholinomi-
+metic therapy using cholinesterase inhibitors has proven
+to be beneficial for apathy, anxiety and psychosis [20-22],
+while two other studies found weak [23] or unclear [24]
+evidence to support its use in DLB compared to Parkin-
+son’s disease dementia (PDD).  Interestingly, concurrent
+treatment with a selective serotonin reuptake inhibitor
+(SSRI) and a serotonin (5-hydroxytryptamine, 5-HT) 1A
+receptor antagonist might offer a positive outcome to treat
+depression efficiently in DLB, as was suggested by Francis
+[25], although evidence for the benefits of antipsychotics
+other than clozapine is limited, and there are serious
+safety concerns about the use of antipsychotics in these
+patients [3]. Finally, the administration of memantine, an
+N-methyl-D-aspartate (NMDA) receptor antagonist, may
+result in variable symptomatic side effects in DLB patients,
+including worsening of psychosis or even an adverse drug
+reaction [26,27].
+While the neurobiological aspects of the parkinsonism
+of DLB patients have been intensively studied, much less
+attention has been paid to the pathophysiological mech-
+anisms underlying depression and psychosis associated
+with DLB. More specifically, very few studies have
+attempted to delineate their neurochemical correlates
+[25,28-31] and whether these are similar to or distinct
+from AD [25]. Furthermore, given the lack of an efficient
+psychotropic monoaminergic therapy, and due to the
+fact that psychosis and depression are enormously
+troublesome to caregivers and patients, cause an earlier
+institutionalization and account for a significant increase
+in the overall cost of dementia, it becomes essential to
+intensely investigate the monoaminergic pathophysiology
+of NPS features in DLB compared to AD. Likewise,
+although recently a handful of studies have examined
+the monoaminergic etiology of NPS in AD, as well as in
+DLB and frontotemporal dementia, in postmortem
+brain tissue [32] and cerebrospinal fluid (CSF) samples
+[33],  a neurochemical comparison study between DLB
+and AD supplemented with the inclusion of an age- and
+gender-matched control group would give more insight
+into the monoaminergic characteristics of depression and
+psychosis of both neurodegenerative disorders separately.
+In the long term, such comparison studies may contribute
+to the development of novel psychotropic pharmacother-
+apies [3,34].
+We, therefore, determined the levels of eight mono-
+amines and metabolites, that is, the indolamine 5-HT,
+the catecholamines dopamine (DA), adrenaline (A) and
+noradrenaline (NA), as well as their respective metabo-
+lites, that is, 5-hydroxy-3-indoleacetic acid (5-HIAA;
+metabolite of the serotonergic neurotransmitter system),
+3,4-dihydroxyphenylacetic acid and homovanillic acid
+Page 3
+Vermeiren et al. Alzheimer's Research & Therapy (2015) 7:7  Page 3 of 18
+(DOPAC and HVA, respectively; metabolites of the dopa-
+minergic neurotransmitter system) and 3-methoxy-4-
+hydroxyphenylglycol (MHPG; metabolite of the (nor)
+adrenergic neurotransmitter system) in various post-
+mortem brain regions of depressed and/or psychotic DLB
+and AD patients using reversed-phase high-performance
+liquid chromatography with electrochemical detection
+(RP-HPLC-ECD) to identify monoaminergic neurotrans-
+mitter alterations which may underlie both NPS. As a
+baseline reference, tissue samples of the same brain
+regions of a healthy control group were neurochemi-
+cally analyzed as well.
+Methods
+Study population and inclusion protocol
+Neuropathologically confirmed AD patients with (n = 10;
+AD + D) and without (n = 10; AD-D) depression, 10
+confirmed DLB patients, all of whom were depressed
+(DLB + D) and, finally, 10 confirmed control subjects were
+selected from the Biobank of the Institute Born-Bunge
+(University of Antwerp, Antwerp, Belgium). Initially, all
+patients with a clinical diagnosis of probable AD and
+DLB were recruited at the Memory Clinic of the Hospital
+Network Antwerp (ZNA-Middelheim and ZNA-Hoge
+Beuken, Antwerp, Belgium) for inclusion in a prospective,
+longitudinal study on NPS [35]. As part of their differen-
+tial diagnostic work-up of dementia, besides the general
+physical and neurological examinations, blood screening
+tests, structural neuroimaging by computed tomography
+(CT), magnetic resonance imaging (MRI) or single photon
+emission computed tomography (SPECT),  neuropsycho-
+logical evaluations (for example, Mini-Mental State Exam-
+ination (MMSE) scores) and optional cerebrospinal fluid
+(CSF)/blood sampling for biomarker and/or DNA ana-
+lyses, a baseline behavioral assessment was routinely
+performed. If possible, AD and DLB patients were behav-
+iorally rated again during follow-up. The clinical diagnosis
+of probable AD was based on the NINCDS/ADRDA cri-
+teria of McKhann et al.  [36,37] whereas probable DLB
+was diagnosed according to the consensus guidelines
+of McKeith et al. [4,38]. All patients also fulfilled the Diag-
+nostic and Statistical Manual of Mental Disorders – IV –
+text revision (DMS-IV-TR) criteria [39].  On the other
+hand, age-matched control subjects were hospitalized in
+the Middelheim General Hospital (Antwerp, Belgium) and
+consented shortly before death. Death causes were cardiac
+failure due to an acute myocardial infarct (n = 2), chronic
+obstructive pulmonary disease (COPD) (n = 3), carcinoma
+(hepatic (n = 1); prostate (n = 1); lung (n = 1); neuroendo-
+crine (n = 1)) and multiple myeloma (n = 1).  Moreover,
+clinical neurological examination, as well as a retrospect-
+ive review of the clinical history, neuropsychological
+evaluation and hospital records, did not reveal any evi-
+dence of dementia, psychiatric antecedents or cognitive 
+decline. Written informed consent regarding autopsy and
+the subsequent use of brain tissue, clinical documentation
+and behavioral data for research purposes was obtained
+from all participants. The study was also approved by the
+Medical Ethical Committee of the Middelheim General
+Hospital (Antwerp, Belgium) and conducted in compli-
+ance with the Helsinki Declaration.
+In case consented AD, DLB or control subjects died,
+brain autopsy was performed within six hours after
+death after which the left hemisphere was frozen at −80°C
+for neurochemical analyses, and the right hemisphere was
+formaldehyde-fixated for neuropathological examination.
+The 10 AD + D and 10 AD-D patients were part of a
+larger cohort of 40 behaviorally characterized AD patients
+who were previously subjected to RP-HPLC-ECD assess-
+ments [32]. However, the inclusion of DLB patients and
+control subjects, as well as the inclusion of several extra
+brain regions, render the current study significantly
+distinct from our previous one [32], which had the same
+methodological setup, but an entirely different hypothesis.
+None of the included control subjects suffered from
+central nervous system pathology.
+Behavioral assessment
+Behavior of AD and DLB patients was assessed together
+with relatives and/or nursing staff using a battery of
+behavioral assessment scales, including: the Behavioral
+Pathology in Alzheimer’s Disease Rating Scale (Behave-AD)
+[40];  Middelheim Frontality Score (MFS) [41];  Cohen-
+Mansfield Agitation Inventory (CMAI) [42];  and Cornell
+Scale for Depression in Dementia (CSDD) [43]. Dementia
+staging was based on the Global Deterioration Scale (GDS)
+with a range varying from 1 (nondemented) to 7 (terminal
+stage of dementia) [44]. During each NPS assessment, only
+the behavioral phenomena covering the last two weeks
+prior to the assessment were included and rated. Behav-
+ioral assessment was repeated during each neurological
+follow-up examination in the hospital, if possible (n = 2
+for AD + D, n = 3 for AD-D and n = 6 for DLB + D).  A
+final retrospective behavioral scoring was performed in
+case patients died more than ten days after the last follow-
+up or baseline rating. In total, eight AD + D-, seven AD-
+D- and four DLB + D patients underwent only one rating
+close to death, given the short amount of time which was
+left since they entered our study protocol. Nevertheless,
+for this research purpose, only the final behavioral assess-
+ment scores around the date of death were used so that
+possible neurochemical alterations in the brain were as
+representative as possible for the concurrent clinical mani-
+festation of NPS in all dementia patients.
+Patients with a total CSDD cutoff score ≥8 were classi-
+fied as depressed, whereas patients with a CSDD score <8
+were defined as non-depressed [45]. Furthermore, patients
+with a Behave-AD cluster A score (delusions) ≥4 or a
+Page 4
+Vermeiren et al. Alzheimer's Research & Therapy (2015) 7:7  Page 4 of 18
+Behave-AD cluster B score (hallucinations) ≥2 or patients
+who were rated on the Behave-AD cluster A and B
+subscales (delusions + hallucinations), irrespective of its
+combined value, were classified as psychotic [46]. Finally,
+based on their behavioral profiles, AD and DLB patients
+were divided into three main groups, that is, AD + D
+(n = 10, of which 5 were psychotic (AD + D + P),  AD-D
+(n = 10, of which none were psychotic (AD-D-P)) and
+DLB + D (n = 10, of which 5 were psychotic (DLB + D + P).
+No behavioral scores were available for the control
+group.
+Neuropathological examination and criteria
+In order to neuropathologically confirm or reject the clin-
+ically established AD and DLB diagnoses, immunohisto-
+chemistry on a standard selection of 10 to 13 regionally
+dissected postmortem brain regions of the formaldehyde-
+fixated right hemisphere was performed [47]. In short, the
+stains routinely applied in our laboratory on paraffin
+blocks of the neocortex (frontal, temporal and occipital),
+amygdala, rhinencephalon (at the level of the posterior
+part of the amygdala and the lateral geniculate body (for
+hippocampus)), basal ganglia, thalamus, brain stem, sub-
+stantia nigra (SN), pons at the level of the locus coeruleus
+(LC) and cerebellum are hematoxylin-eosin (HE),  cresyl
+violet and Bodian’s technique. The routinely applied
+immunostains are 4G8 (amyloid), AT8 (P-tau181P
+) and an
+anti-ubiquitin antibody (ubiquitin). When the presence of
+Lewy bodies (LB) is suspected on HE staining and ubiqui-
+tin immunoreactivity, an additional anti-α-synuclein stain-
+ing is applied.
+Neuropathological assessments were established by the
+same neuropathologist (JJM),  employing the criteria of
+Braak and Braak [48], Braak et al. [49] and Jellinger and
+Bancher [50] to decide on definite AD. The ‘ABC scoring’
+method of Montine et al. [51] was applied to all AD brains
+collected after May 2011 (n = 5). Similarly, the consensus
+guidelines of McKeith et al.  [4,38] were used for the
+neuropathological diagnosis of definite DLB. In case of
+significant concurrent AD pathology (n = 8 out of 10
+DLB patients),  the likelihood that the pathological
+findings were associated with a DLB clinical syndrome
+was assessed as recommended by McKeith et al.  [4],
+resulting in a final decision of definite DLB with
+limbic translational (n = 4; including n = 2 without AD
+pathology) and diffuse neocortical (n = 6) Lewy body
+subtype pathologies.
+Regarding the control subjects, microscopic examin-
+ation failed to detect significant degenerative changes in
+any of the control brains, except for a limited cerebral
+amyloid angiopathy, if present at all, and the sporadic
+presence of some neurofibrillary (pre)tangles or diffuse
+senile plaques, all of which were considered age-related. 
+Regional brain dissection
+Regional brain dissection of the left frozen hemisphere
+was performed according to a standard procedure during
+which 21 brain regions were routinely dissected. With re-
+gard to this specific study design, a total of 11 behaviorally
+and neurochemically relevant brain areas were ultimately
+analyzed using RP-HPLC-ECD, that is, Brodmann area
+(BA) 9 and BA10 (prefrontal cortex), BA11 (orbitofrontal
+cortex), BA17 (occipital cortex), BA22 (temporal cortex),
+BA24 (anterior cingulate gyrus), amygdala, hippocampus,
+thalamus, cerebellar cortex and LC. All of these brain
+regions have previously been the subject of other NPS-
+related neurochemical research in depressed and/or
+psychotic AD and DLB patients [25,28-31,52-56] and,
+moreover, are also part of integrated behavior-modifying
+brain circuits, such as the dopaminergic mesolimbic
+system among others. In addition, this careful selection
+comprises regions with clear-cut AD and DLB neuro-
+pathological and -imaging hallmarks (for example, BA22,
+hippocampus, prefrontal areas, thalamus and LC), as well
+as brain regions in which these lesions are less present to
+absent (BA17 and cerebellar cortex), but might still hold
+significant neurochemical alterations.
+Dissections were performed on a plastic cutting board
+above a mixture of regular and dry ice by means of
+scalpel, tweezers and a Dremel® 200 series rotary instru-
+ment tool according to a standard procedure. During the
+first part of this protocol, 15 of the 21 brain regions were
+meticulously dissected as they were easily accessible, that
+is, BA6/7/8/9/10/11/12/17/22/24/46, SN, cerebellar cor-
+tex, medulla oblongata and LC. Afterwards, the remaining
+left hemisphere was placed at −20°C for four hours after
+which seven to eight coronal slices were cut. Subse-
+quently, the remaining six brain regions were dissected,
+namely amygdala, hippocampus, thalamus, caudate nu-
+cleus, putamen and globus pallidus. All dissected brain
+tissue samples roughly weighed 300 to 500 mg and were
+immediately stored on dry ice in precooled aluminum
+cryovials (Sanbio BV, Uden, The Netherlands) during the
+dissection. In total, each dissected brain region could be
+subdivided into four of these cryovials of which three were
+used for HPLC analyses. The fourth one was used for pH
+measurement if necessary.
+All AD, DLB and control brain hemispheres were
+dissected by the same researcher to minimize variability.
+Neurochemical RP-HPLC-ECD analysis
+A recently optimized and validated RP-HPLC system with
+electrochemical detection (ECD) for the fast detection
+of monoaminergic compounds in human brain tissue
+was used to simultaneously measure the concentrations
+of 5-HT, DA, (N)A and their respective metabolites,
+that is, 5-HIAA, DOPAC/HVA and MHPG [57]. Sam-
+ple analysis was performed using an AlexysTM Dual
+Page 5
+Vermeiren et al. Alzheimer's Research & Therapy (2015) 7:7  Page 5 of 18
+Monoamines Analyzer (Antec Leyden BV, Zoeterwoude,
+The Netherlands) by which each brain tissue sample was
+directly analyzed in duplicate. Output ranges were 500
+pA and 2 nA, respectively, with two electrochemical
+VT03 flow cells each containing a glassy carbon working
+electrode of 0.7 mm and an in situ Ag/AgCl reference
+electrode at 670 mV placed in a Decade II electro-
+chemical detector (Antec Leyden BV, Zoeterwoude, The
+Netherlands). An isocratic flow rate of 40 μL of mobile
+phase per minute was set for both LC 110 pumps. The
+optimal conditions for separation of the monoaminergic
+compounds were obtained using a mobile phase compris-
+ing 13% methanol combined with a mixture of phosphoric
+(50 mM) and citric acid (50 mM), octane-1-sulfonic acid
+sodium salt (1.8 mM), KCl (8 mM) and ethylenediamine-
+tetraacetic acid (EDTA) (0.1 mM) (pH 3.6). Samples were
+loaded onto two microbore ALF-125 columns (250 mm ×
+1.0 mm, 3 μm particle size) filled with a porous C18 silica
+stationary phase by an AlexysTM AS 100 Autosampler
+(Antec Leyden BV, Zoeterwoude, The Netherlands).
+Separation of the monoamines and metabolites was
+achieved at a stable column and VT03 flow cell temp-
+erature of 36°C with a total runtime of only 45 minutes
+per sample. Levels of the monoaminergic compounds
+were calculated using ClarityTM Software (DataApex Ltd,
+2008, Prague, The Czech Republic). All chemicals were of
+analytical grade.
+The brain sample preparation procedure prior to RP-
+HPLC-ECD analysis was simple and fast. Initially, 200 to
+300 mg frozen brain tissue was weighed in 4 ml mobile
+phase. Next, this mixture was homogenized for 40 seconds
+(50 seconds in case samples that weighed ≥250 mg) at
+moderate speed using an Ultra-Turrax TR 50 homogenizer®
+(Janke & Kunkel, Ika-Werk, Staufen, Germany). The hom-
+ogenate was then centrifuged (26,000 × g, 20 minutes, 4°C)
+and afterwards, the supernatant was filtered using a 0.2 μm
+Millipore® filter (Millex, Merck Millipore, Carrigtwohill,
+County Cork, Ireland) attached to a syringe. Further
+elimination of proteins was accomplished using 10 kDa
+Amicon® Ultra Centrifugal Filters (Millipore) (14,000 × g,
+20 minutes, 4°C) which were washed twice beforehand
+with mobile phase. The final filtrate was then loaded onto
+the HPLC columns (undiluted and diluted).
+pH measurement of cerebellar brain tissue
+Samples needed to be nonacidotic (that is, pH >6.1) [58,59]
+in order to guarantee high-quality brain tissue since acid-
+osis may induce alterations in neurotransmitter and neuro-
+peptide concentrations, as well as enzyme activity. Several
+factors such as a prolonged death struggle, premortem
+stroke and a long postmortem delay could acidify brain tis-
+sue [60,61]. In this study, pH values of the cerebellar cortex
+were measured since the cerebellar pH has previously been
+shown to be most representative for the entire brain [61]. 
+First, a 0.01 N NaOH-solution was prepared to adjust
+the pH of deionized water to 7.0. Next, approximately
+100 mg of frozen cerebellar cortex was weighed after
+which 1 ml of the adjusted water was added. The mixture
+was then homogenized with a Pro-200 Homogenizer (Pro
+Scientific, Oxford, CT, USA) for 30 seconds at moderate
+speed at 4°C. Finally, the homogenate was centrifuged
+(8,000 × g, 10 minutes, 4°C) and the pH of the super-
+natant was measured. Per patient, two cerebellar samples
+were included.
+At the end, all brain regions with acidotic pH values
+(<6.1) were excluded from data analysis.
+Statistical analysis
+Nonparametric statistics were applied due to the limited
+number of patients, ordinal variables (behavioral scores)
+and not normally distributed data after performing a
+Shapiro-Wilk test of normality.
+Chi-square statistics were applied to compare male/
+female ratios and patients taking/not taking psychotropic
+medication across groups. Kruskal-Wallis analyses with
+post-hoc Mann-Whitney U tests were used for comparison
+of all behavioral, neurocognitive, demographic, pH and
+monoaminergic data between AD + D, AD-D, DLB + D
+and control subjects, as well as the monoaminergic data
+between AD + D + P, AD + D-P, DLB + D + P and DLB +
+D-P. In all cases, only data remaining statistically sig-
+nificant following a Bonferroni correction for multiple
+comparisons (P <0.017 for three group comparisons
+(Table 1) and P <0.0083 for six group comparisons (Tables 2
+and 3)) were regarded as significant. Mann–Whitney U
+tests were used to look at potential confounding effects of
+psychotropic medication, with regard to our neurochemical
+data, between patients taking and not taking psychotropic
+medication within each group. Finally, in order to calculate
+neurochemical correlations of CSDD-, Behave-AD cluster
+A/B/A + B- and other behavioral scores in the total AD
+(n = 20) and DLB (n = 10) populations, nonparametric
+Spearman’s Rank-Order correlation statistics were applied.
+Again, a Bonferroni correction was performed, and only
+those significant data were taken into account (Table 4;
+P <0.0033). All analyses were performed using SPSS 22.0
+for Windows (IBM SPSS Software, Armonk, NY, USA,
+IBM Corp.). Figures were generated using GraphPad Prism
+6.0 software.
+Results
+Clinical and MMSE data, pH values and dementia staging
+Table 1 summarizes the clinical, MMSE, pH and GDS data.
+All groups were age- and gender-matched, with similar
+storage times of the analyzed brain tissue samples and
+postmortem delays. The number of patients who were
+on psychotropic medication before death compared to
+the patients who were free of such medication was
+Page 6
+Vermeiren et al. Alzheimer's Research & Therapy (2015) 7:7  Page 6 of 18
+Table 1 Clinical data, behavioral assessment scores and pH values
+Parameter  AD + D
+(number = 10) 
+AD-D
+(number = 10)
+Demographics and clinical data
+Age at onset dementia (years)  71.5 ± 14.0 (53–94) 79.4 ± 13.5 (50–96)
+Age at death (years)  75.7 ± 12.3 (58–95) 83.5 ± 11.6 (59–97)
+Gender, male/female (number)  6/4  7/3
+Storage time tissue at −80°C (years)
+Postmortem delayc (hours)
+Taking/not taking psychotropic
+medication (number)
+Behavioral assessment scores
+MFS total score (/10)
+Behave-AD cluster A (/21)
+Paranoid and delusional ideation
+Behave-AD cluster B (/15)
+hallucinations
+Behave-AD cluster AB (/36)
+psychosis
+Behave-AD cluster C score (/9)
+activity disturbances
+Behave-AD cluster D score (/9)
+aggressiveness
+Behave-AD cluster E score (/3)
+diurnal rhythm disturbances
+Behave-AD cluster F score (/6)
+affective disturbances
+Behave-AD cluster G score (/12)
+anxieties and phobias
+Behave-AD total score (/75)
+Behave-AD global score (/3)
+caregiver burden
+CMAI cluster 1 (/70)
+aggressive behavior
+CMAI cluster 2 (/77)
+physically nonaggressive behavior
+CMAI cluster 3 (/56)
+verbally agitated behavior
+CMAI total sore (/203)
+CSDD total score (/38)
+depression
+Interval between rating and death (days)
+MMSE, staging and pH data
+MMSE scored (/30) 
+4.3 ± 3.8 (0.3-10)
+3.7 ± 1.0 (2–5)
+5/5
+4.8 ± 0.9 (3–6)aa
+1.4 ± 2.4 (0–6)
+0.8 ± 1.2 (0–3)
+2.2 ± 2.5 (0–6)
+2.9 ± 2.8 (0–7)
+4.5 ± 2.9 (0–9)
+0.7 ± 0.8 (0–2)
+1.9 ± 1.7 (0–4)
+1.2 ± 2.0 (0–5)
+13.4 ± 8.9 (2–24)aa
+1.7 ± 0.9 (0–3)aa
+15.4 ± 8.1 (10–35)
+24.7 ± 10.9 (11–39)a
+16.1 ± 8.6 (8–33)
+56.2 ± 22.1 (29–90)
+12.1 ± 3.3 (8–19) aaa
+3.8 ± 10.1 (0–6)
+12.0 ± 6.6 (7–21)
+number = 4 
+4.1 ± 4.0 (0.6-10)
+3.7 ± 0.9 (2–6)
+7/3
+2.3 ± 1.8 (1–5)aa
+0.10 ± 0.3 (0–1)
+0.0 ± 0.0b
+0.1 ± 0.3 (0–1)b
+0.5 ± 0.9 (0–2)
+1.7 ± 1.9 (0–4)
+0.1 ± 0.3 (0–1)
+0.3 ± 0.7 (0–2)
+0.0 ± 0.0
+2.7 ± 2.4 (0–6)aa
+0.4 ± 0.5 (0–1)aa
+10.8 ± 2.5 (10–18)
+13.1 ± 3.3 (11–21)a
+11.8 ± 5.6 (8–23)
+35.7 ± 7.4 (29–47)
+5.0 ± 1.2 (3–7) aaa, bbb
+3.9 ± 7.0 (0–9)
+16.0 ± 4.3 (10–25)b
+number = 8 
+DLB + D
+(number = 10)
+76.0 ± 5.8 (66–84)
+81.4 ± 4.4 (72–87)
+7/3
+6.6 ± 4.3 (2–11)
+4.2 ± 1.4 (2–6)
+6/4
+4.3 ± 1.3 (3–7)
+0.4 ± 0.8 (0–2)
+1.9 ± 2.2 (0–6)b
+2.3 ± 2.3 (0–6)b
+0.9 ± 1.3 (0–4)
+1.8 ± 2.4 (0–7)
+0.3 ± 0.7 (0–2)
+1.1 ± 1.4 (0–4)
+0.8 ± 1.7 (0–4)
+7.3 ± 5.3 (2–17)
+1.2 ± 0.8 (0–2)
+11.1 ± 2.4 (10–17)
+18.5 ± 7.5 (11–33)
+14.9 ± 7.6 (8–25)
+44.5 ± 12.3 (29–65)
+10.1 ± 2.1 (8–14)bbb
+5.2 ± 9.4 (0–10)
+8.7 ± 4.8 (4–16)b
+number = 6 
+CONTR
+(number = 10)
+N/A
+76.5 ± 7.0 (65–87)
+5/5
+8.6 ± 1.0 (7–10)
+4.8 ± 1.6 (3–6)
+4/6
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A 
+Kruskal Wallis
+P = 0.286
+P = 0.148
+χ2 = 1.173;
+P = 0.759
+P = 0.060
+P = 0.384
+χ2 = 1.125;
+P = 0.771
+P = 0.008
+P = 0.401
+P = 0.033
+P = 0.041
+P = 0.084
+P = 0.052
+P = 0.111
+P = 0.052
+P = 0.200
+P = 0.009
+P = 0.006
+P = 0.041
+P = 0.021
+P = 0.344
+P = 0.040
+P <0.0001
+P = 0.713
+P = 0.041
+Page 7
+Vermeiren et al. Alzheimer's Research & Therapy (2015) 7:7  Page 7 of 18
+Table 1 Clinical data, behavioral assessment scores and pH values (Continued)
+GDS score: dementia staging (/7)  6.2 ± 0.8 (5–7)  5.8 ± 1.0 (4–7)  6.6 ± 0.5 (6–7)  N/A  P = 0.151
+pH values cerebellar brain tissue  6.5 ± 0.3 (5.9-7.1)  6.5 ± 0.3 (6.0-6.8)  6.7 ± 0.3 (6.4-7.2)  6.4 ± 0.2 (6.0-6.7)  P = 0.300
+Mean ± SD with minimum-maximum ranges between parentheses; Kruskal-Wallis analyses (P <0.05) with post-hoc Mann-Whitney U tests were performed; data remaining
+statistically significant following Bonferroni correction are presented above with one superscript letter (P <0.017; for three groups comparisons because CONTR data
+are absent); χ2 statistics were used to compare male/female ratios and taking/not taking any type of psychotropic medication; significant differences with P <0.01 and
+P <0.0001 are respectively indicated with two and three repeated superscript letters; the following letters are used: aAD + D versus. AD-D, bAD-D versus. DLB + D.
+cPostmortem delay indicates the number of hours between time of death and storage of the brain at −80°C; donly MMSE scores with no more than four months
+between scoring and date of death were included.
+AD + D/-D, depressed/nondepressed Alzheimer’s disease patients; Behave-AD, Behavioral Pathology in Alzheimer’s Disease Rating Scale; CMAI, Cohen-Mansfield
+Agitation Inventory; CONTR; control subjects; CSDD, Cornell Score for Depression in Dementia; DLB + D, depressed dementia with Lewy bodies patients; GDS,
+Global Deterioration Scale; MFS, Middelheim Frontality Score; MMSE, Mini-Mental State Examination; N/A, not applicable.
+comparable between groups as well. The different types
+of administered psychotropic medication were cholino-
+mimetics (n = 1 for AD + D; n = 2 for AD-D; n = 3 for
+DLB + D), prolopa/levodopa (n = 3 for DLB + D), antide-
+pressants (n = 4 for AD + D; n = 1 for AD-D; n = 3 for
+DLB + D; n = 2 for controls),  hypnotics/sedatives/anxio-
+lytics (n = 1 for AD + D and DLB + D; n = 2 for AD-D;
+n = 3 for controls) and antipsychotics (n = 4 for AD + D
+and AD-D; n = 2 for DLB + D). The average number of
+days between the last behavioral assessment and date of
+death was 3.8, 3.9 and 5.2 days for the AD + D, AD-D
+and DLB + D groups, respectively. Furthermore, MMSE
+scores of the DLB + D group were significantly lower
+than those of the AD-D group (P = 0.013), who had the
+overall highest MMSE scores. Finally, GDS scores and
+pH values were comparable between groups with, in
+total, one AD + D and one AD-D patient who had low
+cerebellar pH values (<6.1). For these patients, extra pH
+analyses on the ten remaining brain regions were
+performed. Eventually, brain samples with acidotic pH
+values were excluded from statistical analysis, that is, for
+BA9 (n = 1), BA11 (n = 1), BA17 (n = 1), amygdala (n = 1)
+and cerebellum (n = 2).
+Behavioral assessment scores
+The behavioral assessment scores of each group are
+presented in Table 1.
+The MFS total scores (P = 0.004),  Behave-AD total
+scores (P = 0.005),  Behave-AD global scores (P = 0.004),
+CMAI cluster 2 scores (P = 0.015) and CSDD total scores
+(P = 0.00001) were significantly higher in the AD + D
+group compared to the AD-D group, whereas the Behave-
+AD cluster B scores (P = 0.013),  Behave-AD cluster AB
+scores (P = 0.013) and CSDD total scores (P = 0.00001)
+were all significantly lower in the AD-D group compared
+to the DLB + D group.
+Focus depression: neurochemical comparison of brain
+monoamines, metabolites and ratios between AD + D,
+AD-D, DLB + D and control subjects
+Only the neurochemical group differences which remained
+statistically significant following Bonferroni correction are 
+displayed in Table 2 (P <0.00833). Nonsignificant data were
+omitted.
+The DLB + D group had the overall lowest monoamine
+and metabolite levels, as well as ratios. More specifically,
+the DLB + D group had the significantly lowest values
+for 33 out of 41 monoaminergic group alterations
+(rows),  across 11 brain regions, compared to AD + D,
+AD-D and/or control subjects (Table 2). In addition, the
+DLB + D group had the significantly highest DOPAC/DA
+and HVA/DA ratios, indicative of dopaminergic turn-
+over, specifically for hippocampus (only DOPAC/DA),
+thalamus (both), and cerebellum (only DOPAC/DA), as
+well as the highest MHPG/NA ratios, indicative of nor-
+adrenergic catabolism, in the LC. The control group had
+the lowest, second lowest and highest values for 5, 18
+and 7 out of 41 significant monoaminergic group differ-
+ences, respectively. As for the AD + D/-D groups, levels
+varied, but, in general, they had the highest concentra-
+tions for 29 rows out of the total of 41.
+The most statistically significant alterations were
+noticeable in the thalamus, with significantly lower DA
+levels and, at the same time, significantly increased
+DOPAC/DA and HVA/DA ratios in the DLB + D popu-
+lation compared to the AD + D (P = 0.00008, 0.002 and
+0.007, respectively), AD-D (P = 0.0003, 0.002 and 0.007,
+respectively) and control group (P = 0.00008, 0.0003 and
+0.004, respectively). Thalamic NA levels were also signifi-
+cantly decreased (P = 0.003, 0.001 and 0.0005, respect-
+ively),  whereas thalamic MHPG levels of the DLB + D
+group were only significantly lower when compared to the
+AD + D population (P = 0.0002). Similarly, 5-HT levels of
+BA9, BA10 and BA24, as well as 5-HIAA levels of BA10,
+BA17, BA22 and BA24 were significantly lower in DLB +
+D patients compared to their AD + D (for 5-HT: P = 0.001,
+0.00001 and 0.0005; for 5-HIAA: P = 0.003, 0.00008,
+0.0004 and 0.007, respectively) and AD-D (for 5-HT:
+P = 0.00008, 0.00008 and 0.0003; for 5-HIAA: P = 0.029,
+0.002, 0.001 and 0.007, respectively) counterparts. The
+hippocampal 5-HIAA/5-HT ratios, indicative of serotoner-
+gic catabolism, were significantly decreased in DLB + D
+patients compared to AD + D patients as well (P = 0.003).
+Furthermore, in the LC, DOPAC, DA and HVA levels of
+the DLB + D population were significantly decreased
+Page 8
+Vermeiren et al. Alzheimer's Research & Therapy (2015) 7:7  Page 8 of 18
+Table 2 Focus depression: comparison of the brain monoamine levels between AD + D, AD-D, DLB + D and CONTR
+Brain region MA and MT or ratio AD + D (number = 10) AD-D (number = 10) DLB + D (number = 10) CONTR (number = 10)
+BA9  MHPG (ng/g)  412.4 (314.3-704.8);  1,092.3 (499.2-1,734.5);  284.3 (155.8-547.0);  478.7 (409.2-758.3);
+n= 9  n = 10b  n = 10b  n = 10
+5-HT (ng/g)  9.8 (5.3-16.9);
+n = 9a 
+12.6 (7.7-14.4);
+n = 10e, bbb 
+3.4 (2.5-4.2);
+n = 10a, bbb 
+4.2 (1.3-11.0);
+n = 10e
+BA10  MHPG (ng/g)  684.2 (312.1-1,080.1);
+n = 10 
+663.9 (432.5-940.3);
+n = 10b 
+297.7 (143.5-460.4);
+n = 10b 
+289.9 (177.3-498.1);
+n = 10
+5-HIAA (ng/g)  239.2 (156.9-367.3);
+n = 10a 
+178.5 (124.3-310.5);
+n = 10 
+82.1 (58.9-125.8);
+n = 10a 
+128.7 (85.8-157.0);
+n = 10
+HVA (ng/g)  116.6 (89.2-132.0);
+n = 10a 
+82.8 (63.2-98.0);
+n = 10 
+57.3 (41.9-66.3);
+n = 10a 
+102.6 (66.1-138.7);
+n = 10
+5-HT (ng/g)  16.0 (11.8-34.4);
+n = 10aaa 
+13.4 (12.7-15.4);
+n = 10bbb 
+4.3 (2.4-5.8);
+n = 10aaa,bbb, f 
+12.4 (8.6-18.3);
+n = 10f
+BA24  5-HIAA (ng/g)  394.5 (300.9-565.8);
+n = 10a 
+378.2 (360.6-508.6);
+n = 10b 
+229.5 (194.6-335.2);
+n = 10a, b 
+301.2 (192.1-499.8);
+n = 10
+HVA (ng/g)  214.5 (180.5-263.2);
+n = 10a 
+202.1 (144.0-224.2);
+n = 10 
+131.21 (100.5-183.1);
+n = 10a 
+210.6 (179.8-263.6);
+n = 10
+5-HT (ng/g)  39.4 (32.0-54.1);
+n = 10aa 
+44.4 (34.7-52.9);
+n = 10bb 
+21.6 (8.4-23.5);
+n = 10aa, bb 
+42.6 (22.0-53.0);
+n = 10
+amygdala MHPG (ng/g)  1,100.5 (634.4-1,568.7);
+n = 9a 
+592.2 (209.1-1,050.7);
+n= 8 
+430.1 (137.3-644.2);
+n = 10a 
+347.9 (241.9-588.1);
+n = 10
+NA (ng/g)  67.4 (54.7-395.9);
+n= 8 
+76.2 (61.0-127.9);
+n = 8b 
+36.2 (26.6-48.9);
+n = 10b 
+60.2 (46.4-81.5);
+n = 10
+hippocampus 5-HIAA (ng/g)  383.2 (260.5-689.9);
+n = 10 
+385.0 (348.7-954.9);
+n = 9b 
+271.9 (239.1-331.6);
+n = 10b 
+284.4 (242.9-349.3);
+n = 10
+DA (ng/g)  9.0 (5.2-120.8);
+n = 9a 
+5.9 (4.7-16.7);
+n= 9 
+3.8 (2.4-5.3);
+n = 10a 
+8.9 (6.5-23.7);
+n = 10
+HVA (ng/g)  224.5 (157.6-269.6);
+n = 10 
+206.5 (132.0-249.9);
+n= 9 
+133.0 (108.7-168.0);
+n = 10f 
+236.1 (193.3-333.1);
+n = 10f
+5-HIAA/5-HT  8.2 (5.5-9.6);
+n = 10a 
+6.2 (4.2-13.8);
+n= 9 
+3.8 (2.8-5.2);
+n = 10a 
+4.4 (3.4-5.9);
+n = 10
+DOPAC/DA  0.4 (0.1-1.7);
+n = 9a 
+1.5 (0.5-2.3);
+n= 9 
+3.0 (1.6-3.7);
+n = 10a, ff 
+0.7 (0.4-1.2);
+n = 10ff
+thalamus MHPG (ng/g)  1,273.7 (776.8-1,740.1);
+n = 10aa 
+686.2 (521.1-1,585.9);
+n = 10 
+248.5 (174.0-568.9);
+n = 10aa 
+494.4 (315.2-1,125.7);
+n = 10
+NA (ng/g)  140.5 (111.1-164.6);
+n = 8a 
+183.9 (146.7-261.6);
+n = 10b 
+47.0 (25.0-76.6);
+n = 10a, b, ff 
+162.9 (91.6-213.7);
+n = 10ff
+DA (ng/g)  14.0 (8.6-31.6);
+n = 10aaa 
+13.1 (9.3-28.5);
+n = 10bb 
+1.4 (1.0-5.3);
+n = 10aaa, bb, fff 
+19.7 (8.7-31.8);
+n = 10fff
+DOPAC/DA  1.0 (0.5-1.3);
+n = 10a 
+1.0 (0.5-1.6);
+n = 10b 
+3.7 (1.9-11.3);
+n = 10a, b, ff 
+0.9 (0.5-1.1);
+n = 10ff
+HVA/DA  31.0 (20.7-42.2);
+n = 10a 
+29.2 (14.8-70.0);
+n = 10b 
+225.5 (55.8-361.9);
+n = 10a, b, f 
+29.2 (23.1-44.3);
+n = 10f
+BA11  5-HIAA (ng/g)  238.6 (165.2-464.6);
+n= 9 
+293.9 (176.1-424.6);
+n = 10b 
+83.9 (65.9-132.3);
+n = 10b, f 
+222.3 (161.4-353.6);
+n = 10f
+HVA (ng/g)  146.1 (92.7-165.2);
+n = 9a 
+132.9 (84.3-182.5);
+n = 10b 
+62.5 (43.4-83.7);
+n = 10a, b, f 
+118.9 (91.7-166.1);
+n = 10f
+5-HT (ng/g)  11.8 (6.8-20.2);
+n= 9 
+17.3 (10.5-36.7);
+n = 10bb 
+5.9 (3.7-8.2);
+n = 10bb 
+9.0 (5.6-14.5);
+n = 10
+MHPG/NA  81.7 (37.6-111.1);
+n = 6a 
+47.1 (21.3-64.3);
+n = 10 
+21.5 (10.2-31.5);
+n = 10a 
+42.7 (33.1-69.9);
+n = 10
+Page 9
+Vermeiren et al. Alzheimer's Research & Therapy (2015) 7:7  Page 9 of 18
+Table 2 Focus depression: comparison of the brain monoamine levels between AD + D, AD-D, DLB + D and CONTR
+(Continued)
+BA22  MHPG (ng/g)  779.9 (546.3-1,177.4);
+n = 10aa 
+810.3 (308.6-1,492.7);
+n = 10 
+296.0 (171.6-521.2);
+n = 10aa 
+609.6 (419.2-1,591.4);
+n = 10
+5-HIAA (ng/g)  472.3 (293.2-793.5);
+n = 10aaa 
+311.3 (166.6-958.3);
+n = 10b 
+64.4 (46.5-133.3);
+n = 10aaa, b, f 
+255.2 (127.0-473.0);
+n = 10f
+HVA (ng/g)  138.4 (125.5-207.8);
+n = 10a 
+116.8 (91.4-148.4);
+n = 10b 
+61.0 (47.1-89.0);
+n = 10a, b, f 
+141.7 (86.0-240.0);
+n = 10f
+MHPG/NA  83.5 (23.6-92.1);
+n= 7 
+46.5 (29.1-137.8);
+n = 9b 
+17.9 (9.0-29.5);
+n = 10b 
+33.9 (22.1-79.3);
+n = 10
+BA17  5-HIAA (ng/g)  143.6 (98.1-191.0);
+n = 9aa 
+117.8 (92.1-187.9);
+n = 10b 
+47.8 (32.6-69.5);
+n = 10aa, b, ff 
+147.9 (118.4-198.0);
+n = 10ff
+DA (ng/g)  12.2 (7.1-17.9);
+n = 9d, c 
+2.7 (1.5-3.8);
+n = 10 c 
+4.3 (2.6-7.1);
+n = 10 
+3.5 (1.6-4.8);
+n = 10d
+5-HT (ng/g)  13.7 (6.5-24.1);
+n = 9a 
+12.7 (3.4-24.4);
+n = 10 
+2.6 (2.2-5.7);
+n = 10a, f 
+8.8 (5.5-20.3);
+n = 10f
+Cerebellum 5-HIAA (ng/g)  244.3 (103.4-538.2);
+n = 9a 
+276.3 (117.6-465.3);
+n = 9b 
+57.3 (38.4-81.8);
+n = 10a, b, f 
+181.9 (103.3-333.6);
+n = 10f
+DA (ng/g)  5.6 (2.4-7.1);
+n = 9a 
+3.0 (2.0-17.9);
+n= 9 
+2.3 (0.5-2.6);
+n = 10a 
+3.4 (2.2-4.7);
+n = 10
+HVA (ng/g)  105.4 (51.1-137.6);
+n = 9a 
+64.5 (55.9-94.9);
+n = 9b 
+35.3 (22.9-59.5);
+n = 10a, b 
+94.5 (43.1-149.2);
+n = 10
+DOPAC/DA  2.3 (1.0-5.8);
+n= 9 
+1.7 (0.3-3.9);
+n = 9b 
+6.7 (3.7-13.9);
+n = 10b 
+1.4 (0.7-6.0);
+n= 9
+Locus coeruleus DOPAC (ng/g)  55.5 (32.8-102.6);
+n = 9a 
+41.5 (28.1-101.6);
+n= 9 
+19.3 (12.7-28.1);
+n = 10a, ff 
+78.8 (47.1-130.3);
+n = 10ff
+DA (ng/g)  41.0 (25.9-102.9);
+n = 9a 
+34.5 (20.0-49.4);
+n= 9 
+15.8 (7.0-25.0);
+n = 10a, f 
+37.1 (30.1-55.7);
+n = 10f
+HVA (ng/g)  1,361.6 (963.2-1,904.9);  1,082.7 (834.7-1,634.6);
+n = 9a  n = 9b 
+540.2 (378.5-887.8);
+n = 10a, b, fff 
+1,603.2 (1,284.7-1,964.1);
+n = 10fff
+HVA/5-HIAA  0.4 (0.2-0.5);
+n= 9 
+0.2 (0.2-0.3);
+n= 9 
+0.2 (0.1-0.2);
+n = 10f 
+0.4 (0.3-0.5);
+n = 10f
+MHPG/NA  1.1 (0.9-2.6);
+n= 9 
+1.5 (1.3-2.0);
+n = 9b 
+3.9 (2.1-4.8);
+n = 10b 
+0.8 (0.5-2.4);
+n = 10
+Median (IQR); Kruskal-Wallis analyses (P <0.05) with post-hoc Mann–Whitney U tests were performed; only data remaining statistically significant following Bonferroni
+correction for multiple comparisons (P <0.00833; one superscript letter) are presented above; significant differences with P <0.001 and P <0.0001 are respectively
+indicated with two and three repeated superscript letters; the following letters are used: aAD + D vs. DLB + D, bAD-D vs. DLB + D, cAD + D vs. AD-D, dAD + D vs. CONTR,
+eAD-D vs. CONTR and fDLB + D vs. CONTR.
+5-HIAA, 5-hydroxyindoleacetic acid; 5-HT, 5-hydroxytryptamine (serotonin); AD + D/-D, depressed/nondepressed Alzheimer’s disease patients; BA, Brodmann area;
+CONTR, control subjects; DA, dopamine; DLB + D, depressed dementia with Lewy bodies patients; DOPAC, 3,4-dihydroxyphenylacetic acid; HVA, homovanillic acid;
+MA and MT, monoamines and metabolites; MHPG, 3-methoxy-4-hydroxyphenylglycol; NA, noradrenaline.
+compared to the AD + D (P = 0.003, 0.003 and 0.001,
+respectively) and control group (P = 0.0001, 0.002 and
+0.00001, respectively) (Table 2).
+Finally, DA levels of BA17 were significantly increased
+in AD + D patients compared to AD-D patients and the
+control group (P = 0.003 and 0.006, respectively), whereas
+5-HT levels of BA9 were significantly higher in AD-D
+patients compared to the control subjects (P = 0.007).
+MHPG levels across different postmortem brain regions in
+DLB versus AD and controls
+Remarkably, MHPG was significantly decreased in seven
+out of eleven postmortem brain regions of DLB subjects
+compared to AD + D and/or AD-D patients, that is, BA9
+(P = 0.004 compared to AD-D),  BA10 (P = 0.04 and 
+0.008 compared to AD + D and AD-D, respectively),
+amygdala (P = 0.007 compared to AD + D), hippocampus
+(P = 0.023 compared to AD + D), thalamus (P = 0.0002 and
+0.013 compared to AD + D and AD-D, respectively), BA11
+(P = 0.028 compared to AD-D) and BA22 (P = 0.0004
+and 0.041 compared to AD + D and AD-D, respectively)
+(Figure 1). As for BA24, MHPG levels were almost signifi-
+cantly lower in DLB patients compared to both AD + D
+and AD-D subjects (borderline significance; P = 0.059
+for both). Surprisingly, in BA17, DLB patients as well as
+control subjects had significantly higher MHPG levels
+compared to their AD + D counterparts (P = 0.011 for
+both).  In total, for five out of seven brain regions in
+which statistically different MHPG levels were found
+(P <0.05), these differences remained significant following
+Page 10
+Vermeiren et al. Alzheimer's Research & Therapy (2015) 7:7  Page 10 of 18
+Table 3 Focus psychosis: comparison of the brain monoamine levels between AD + D + P, AD + D-P, DLB + D + P and
+DLB + D-P
+Brain region
+BA9
+BA10
+BA24
+Hippocampus
+Thalamus
+BA22
+BA17
+Locus
+coeruleus 
+MA and MT
+or ratio
+HVA (ng/g)
+5-HT (ng/g)
+5-HIAA (ng/g)
+HVA (ng/g)
+5-HT (ng/g)
+HVA (ng/g)
+5-HT (ng/g)
+MHPG (ng/g)
+HVA (ng/g)
+MHPG (ng/g)
+DA (ng/g)
+HVA/DA
+5-HIAA (ng/g)
+HVA (ng/g)
+5-HIAA (ng/g)
+5-HT (ng/g)
+DA (ng/g) 
+AD + D + P
+(number = 5)
+146.6 (85.1-198.0); n = 4
+5.3 (3.3-15.8); n = 4
+227.6 (99.6-331.1); n = 5
+111.3 (84.7-131.7); n = 5c
+16.0 (10.4-35.8); n = 5a, c
+212.8 (163.4-265.0); n = 5
+32.2 (29.3-48.7); n = 5
+459.5 (224.9-1,000.7); n = 5
+193.9 (146.5-462.3); n = 5
+793.0 (678.3-1,344.8); n = 5
+17.0 (7.1-22.7); n = 5
+32.0 (25.5-53.1); n = 5
+756.7 (241.2-1,147.4); n = 5
+181.7 (135.6-218.4); n = 5a, c
+138.3 (93.9-189.9); n = 4
+9.8 (4.2-19.5); n = 4
+32.3 (20.2-132.4); n = 5c 
+AD + D-P
+(number = 5)
+127.2 (117.8-152.5); n = 5b
+14.1 (8.7-76.8); n = 5b, d
+250.9 (169.7-441.7); n = 5d
+117.9 (95.0-139.2); n = 5b
+16.1 (10.8-161.0); n = 5b, d
+216.2 (185.3-263.1); n = 5b
+47.0 (39.4-165.6); n = 5d
+1,078.1 (850.3-1,099.3); n = 5d
+245.6 (174.4-284.7); n = 5b
+1,342.5 (1,273.7-1,860.6); n = 5b, d
+11.1 (9.3-857.5); n = 5b
+30.1 (5.7-42.4); n = 5d
+450.2 (332.4-507.9); n = 5b
+129.5 (80.6-178.2); n = 5
+143.6 (98.1-215.2); n = 5d
+14.5 (7.4-26.8); n = 5b
+52.5 (33.0-102.5); n = 4 
+DLB + D + P
+(number = 5)
+110.7 (81.8-156.2); n = 5
+4.2 (1.7-5.2); n = 5d
+70.0 (56.1-128.9); n = 5d
+62.1 (59.2-104.8); n = 5
+4.6 (1.6-5.6); n = 5a, d
+167.7 (131.2-206.1); n = 5
+18.9 (7.1-24.6); n = 5d
+358.9 (171.2-569.5); n = 5d
+143.3 (114.4-250.4); n = 5
+245.5 (143.1-569.9); n = 5d
+1.1 (1.0-5.3); n = 5
+230.5 (146.2-382.8); n = 5d
+64.0 (44.1-162.6); n = 5
+72.0 (61.0-104.0); n = 5a
+43.1 (22.4-60.3); n = 5d
+2.5 (1.6-5.2); n = 5
+21.1 (12.0-42.1); n = 5 
+DLB + D-P
+(number = 5)
+51.5 (44.1-73.0); n = 5b
+3.4 (2.6-3.5); n = 5b
+87.7 (63.2-180.0); n = 5
+45.0 (31.9-54.4); n = 5c, b
+4.1 (2.9-6.0); n = 5c, b
+102.9 (79.6-140.2); n = 5b
+22.0 (14.9-32.0); n = 5
+383.1 (318.3-570.7); n = 5
+116.9 (106.4-138.6); n = 5b
+251.6 (164.9-697.1); n = 5b
+1.7 (0.8-5.6); n = 5b
+137.7 (26.5-439.3); n = 5
+81.3 (49.0-158.8); n = 5b
+50.8 (31.3-69.5); n = 5c
+54.7 (38.4-110.8); n = 5
+3.5 (2.5-5.9); n = 5b
+12.1 (6.5-16.5); n = 5c
+HVA (ng/g)
+HVA/5-HIAA 
+1,361.6 (963.2-1,908.4);
+n = 5c
+0.3 (0.2-0.6); n = 5c 
+1,225.4 (867.6-1,834.0);
+n= 4
+0.4 (0.2-0.5); n = 4 
+884.8 (506.1-1,013.5);
+n= 5
+0.2 (0.2-0.4); n = 5 
+408.0 (319.8-648.7);
+n = 5c
+0.1 (0.08-0.2); n = 5c
+Median (IQR); Kruskal-Wallis analyses (P <0.05) with post-hoc Mann-Whitney U tests were performed; only data remaining statistically significant following Bonferroni
+correction for multiple comparisons (P <0.00833; one superscript letter) are presented above; the following letters are used: aAD + D + P vs. DLB + D + P, bAD + D-P vs.
+DLB + D-P, cAD + D + P vs. DLB + D-P and dAD + D-P vs. DLB + D + P.
+5-HIAA, 5-hydroxyindoleacetic acid; 5-HT, 5-hydroxytryptamine (serotonin); AD + D + P/-P, psychotic/nonpsychotic Alzheimer’s disease patients (within the depressed
+AD group); BA, Brodmann area; DA, dopamine; DLB + D + P/-P, psychotic/nonpsychotic dementia with Lewy bodies patients (within the depressed DLB group); HVA,
+homovanillic acid; MA and MT, monoamines and metabolites; MHPG, 3-methoxy-4-hydroxyphenylglycol.
+Bonferoni correction for multiple comparisons (Table 2;
+Figure 1).
+For the cerebellar cortex and the LC, no MHPG differ-
+ences were spotted between the DLB and AD groups,
+except for NA levels and MHPG/NA ratios in the LC
+of DLB patients, which were respectively significantly
+decreased and increased compared to both AD + D and
+AD-D patients (for AD + D: P = 0.041 for both; for AD-D:
+P = 0.018 and 0.007 (Table 2)).
+Besides the DLB-AD comparison, MHPG concentrations
+were significantly increased in the AD + D and/or AD-D
+group(s) compared to the control group as well, that is, for
+BA9 (P = 0.049 compared to AD-D),  BA10 (P = 0.04 and
+0.01 compared to AD + D and AD-D, respectively), BA24
+(P = 0.03 and 0.049 compared to AD + D and AD-D,
+respectively),  amygdala (P = 0.027 compared to AD + D),
+hippocampus (P = 0.027 compared to AD + D) and thal-
+amus (P = 0.016 compared to AD + D).  As for BA17,
+MHPG levels of the control group were significantly in-
+creased compared to the AD + D group (P = 0.011). Finally,
+in BA11, BA22 and cerebellar cortex, we also noticed 
+significantly lower MHPG levels in DLB patients compared
+to control subjects (P = 0.007, 0.011 and 0.023, respectively)
+(Figure 1).
+Focus psychosis: neurochemical comparison of brain
+monoamines, metabolites and ratios between AD + D + P,
+AD + D-P, DLB + D + P and DLB + D-P
+Table 3 summarizes the brain monoaminergic differences
+between the subgroups of psychotic and nonpsychotic AD
+and DLB patients that remained statistically significant
+following Bonferroni correction for multiple comparisons
+(P <0.00833). Nonsignificant data were excluded from the
+Table.
+With regard to the DLB + D + P and AD + D + P sub-
+groups, statistical analyses showed that 5-HT levels of
+BA10, as well as HVA levels of BA22 were significantly
+lower in DLB + D + P patients compared to AD + D + P
+patients (P = 0.008 for both).  Similarly, 5-HT levels of
+BA9, BA10 and BA17, as well as 5-HIAA levels of BA22
+and HVA levels of BA9, BA10, BA24 and the
+Page 11
+Vermeiren et al. Alzheimer's Research & Therapy (2015) 7:7  Page 11 of 18
+Table 4 Significant brain monoaminergic correlates of NPS in DLB and AD
+Study group Brain region MA and MT or ratio NPS feature  Spearman’s Rank Order correlation statistics
+DLB patients
+Number = 10 
+BA10  DA (ng/g tissue) CMAI cluster 3  R = +0.841, P = 0.002, number = 10
+verbal agitation
+hippocampus DA (ng/g tissue) Behave-AD cluster AB  R = +0.928, P = 0.0001, number = 10
+psychosis
+DA (ng/g tissue) Behave-AD total score R = +0.825, P = 0.003, number = 10
+thalamus DA (ng/g tissue) CSDD total scores  R = +0.839, P = 0.002, number = 10
+depression
+HVA/DA ratio  CSDD total scores  R = −0.851, P = 0.002, number = 10
+depression
+BA22  DA (ng/g tissue) CMAI total score  R = +0.827, P = 0.003, number = 10
+agitation
+cerebellum DOPAC/DA ratio  Behave-AD cluster F  R = −0.846, P = 0.002, number = 10
+affective disturbances
+AD patients
+Number = 20 
+amygdala DA (ng/g tissue) Behave-AD cluster AB  R = −0.728, P = 0.0009, number = 17
+psychosis
+HVA/DA ratio  Behave-AD cluster AB  R = +0.766, P = 0.0003, number = 17
+psychosis
+HVA/DA ratio  CMAI cluster 3  R = +0.786, P = 0.0002, number = 17
+verbal agitation
+HVA/DA ratio  CMAI total score  R = +0.671, P = 0.003, number = 17
+agitation
+hippocampus HVA/5-HIAA ratio  Behave-AD cluster C  R = +0.659, P = 0.002, number = 19
+activity disturbances
+BA17  HVA/DA ratio  Behave-AD cluster F  R = −0.670, P = 0.002, number = 19
+affective disturbances
+DA (ng/g tissue) CSDD total scores  R = +0.662, P = 0.002, number = 19
+depression
+LC  MHPG/NA ratio  Behave-AD cluster D  R = +0.727, P = 0.001, number = 16
+agitation and aggression
+Significant correlations between NPS and neurochemical data in postmortem brain tissue samples of DLB and AD patients as indicated by Spearman’s Rank Order
+correlation statistics (correlation coefficient (R), P value and sample size (n)). Only correlations remaining statistically significant following Bonferroni correction are
+displayed above (P <0.0033). The four most significant correlations (P <0.001) are shown in bold. 5-HIAA, 5-hydroxy-3-indoleacetic acid; AD, Alzheimer’s disease;
+BA, Brodmann area; Behave-AD, Behavioral Pathology in Alzheimer’s Disease Rating Scale; CMAI, Cohen-Mansfield Agitation Inventory; CSDD, Cornell Scale for
+Depression in Dementia; DA, dopamine; DLB, dementia with Lewy bodies; DOPAC, 3,4-dihydroxyphenylacetic acid; HVA, homovanillic acid; LC, locus coeruleus;
+MA and MT, monoamines and metabolites; MFS, Middelheim Frontality Score; MHPG, 3-methoxy-4-hydroxyphenylglycol; NA, noradrenaline; NPS,
+neuropsychiatric symptoms.
+hippocampus, were all significantly lower in DLB + D-P
+patients compared to AD + D-P patients (P = 0.008 for all;
+Table 3).
+Notably, in the amygdala, DOPAC and DA levels, as
+well as HVA/DA ratios, were significantly decreased and
+increased, respectively, in AD + D + P patients compared
+to AD + D-P patients, although significance was not 
+maintained following a Bonferroni correction for mul-
+tiple comparisons (data not shown; for DOPAC and DA:
+P = 0.032 and 0.014; for HVA/DA: P = 0.016). The same
+applies for the monoaminergic group comparison of
+DLB + D + P/-P, with significantly increased HVA levels
+in BA9, BA10, BA11, BA22 and BA24, as well as in-
+creased DA levels in the hippocampus and increased
+Page 12
+Vermeiren et al. Alzheimer's Research & Therapy (2015) 7:7  Page 12 of 18
+Figure 1 MHPG concentrations across different brain regions in DLB + D compared to AD + D, AD-D and CONTR. Data are presented as
+mean with SD. Nonparametric Mann–Whitney U statistics were performed. MHPG levels of seven out of eleven postmortem brain regions were
+significantly decreased in DLB + D compared to AD + D and/or AD-D patients (P values vary from <0.05 to <0.001). In BA17, MHPG concentrations
+of DLB + D patients were significantly higher. AD + D/-D, depressed/nondepressed Alzheimer’s disease patients; BA, Brodmann area; CONTR,
+control subjects; DLB + D, depressed dementia with Lewy bodies patients; LC, locus coeruleus; MHPG, 3-methoxy-4-hydroxyphenylglycol.
+HVA/5-HIAA ratios in the LC, indicating the inhibitory
+effect of the serotonergic system on dopaminergic
+neurotransmission [62,63] of DLB + D + P patients com-
+pared to DLB + D-P patients (data not shown; for
+HVABA9/BA10/BA11 
+and HVA/5-HIAALC
+:  P = 0.016; for
+HVABA22/BA24
+: P = 0.047; for DAhippocampus
+: P = 0.032).
+Brain monoaminergic correlates of NPS features in the
+DLB and AD population
+Table 4 shows the significant brain monoaminergic
+correlates of NPS in the DLB and total AD group, only
+for those that remained significant following Bonferroni
+correction. Both AD subgroups were joined into one
+total AD group (n = 20) in order to obtain a heteroge-
+neous cohort with a better distribution of NPS scores
+since AD + D patients had much higher behavioral scores
+compared to AD-D patients (Table 1). Furthermore, there
+were no significant brain monoamine differences between
+AD + D and AD-D subjects, except of DA levels in 
+BA17 (Table 2). The merging also resulted in increased
+statistical power. The four most significant correlations
+are described below.
+In the DLB group, hippocampal DA levels strongly
+correlated with Behave-AD cluster AB scores (psychosis)
+(P = 0.0001, R = +0.928, n = 10; Figure 2B).
+In the total AD population, HVA/DA ratios of the
+amygdala strongly correlated with Behave-AD cluster
+AB scores (psychosis) (P = 0.0003, R = +0.766, n = 17;
+Figure 2C) and CMAI cluster 3 scores (verbal agitation)
+(P = 0.0002, R = +0.786, n = 17; Figure 2A), whereas DA
+levels of the amygdala inversely correlated with Behave-
+AD cluster AB scores (psychosis) (P = 0.0009, R = −0.728,
+n = 17; Figure 2D).  Noteworthy, MHPG/NA ratios of
+the LC significantly correlated with Behave-AD cluster
+D scores (agitation/aggression) in the total AD group
+as well (P = 0.001, R = +0.728, n = 16),  although statis-
+tical significance was not maintained after Bonferroni
+correction.
+Figure 2 Scatter plots representing the four most significant NPS correlates of altered brain monoamine levels in AD and DLB. A.
+R = +0.786, P = 0.0002; B. R = +0.928, P = 0.0001; C. R = +0.766, P = 0.0003; D. R = −0.728, P = 0.0009. AD, Alzheimer’s disease; Behave-AD, Behavioral
+Pathology in Alzheimer’s Disease Rating Scale; CMAI, Cohen-Mansfield Agitation Inventory; DA, dopamine; DLB, dementia with Lewy bodies; HVA,
+homovanillic acid; NPS, neuropsychiatric symptoms.
+Page 13
+Vermeiren et al. Alzheimer's Research & Therapy (2015) 7:7  Page 13 of 18
+Potential confounding monoaminergic effects of
+administered psychotropic medication
+In the AD + D group, HVA levels of the amygdala (727.8
+versus 537.0 ng/ml; P = 0.016),  MHPG levels of BA17
+(164.6 versus 119.6 ng/ml; P = 0.016) and MHPG (669.9
+versus 531.4 ng/ml; P = 0.029) and HVA levels of the LC
+(1,690.0 versus 963.2 ng/ml; P = 0.029) were significantly
+higher in patients who were administered psychotropic
+medication before death (n = 4),  compared to patients
+free of such medication (n = 5). In AD-D patients, only
+HVA/5-HIAA ratios of BA17 were revealed to be signifi-
+cantly lower in those patients who took psychotropic
+medication (n = 7) compared to their medication-free
+counterparts (n = 3) (0.259 versus 0.541; P = 0.017). With
+regard to the control subjects, only MHPG levels of
+BA22 were significantly increased in takers (n = 5) versus
+non-takers (n = 5) (1,484.0 versus 428.7 ng/ml; P = 0.032)
+and finally, in the DLB + D group, 5-HT levels of BA17
+were significantly lower (2.443 versus 4.822 ng/ml;
+P = 0.038), whereas HVA levels of the cerebellar cortex
+(51.7 versus 20.8 ng/ml; P = 0.019) as well as the HVA/
+5-HIAA ratios of BA9 (1.408 versus 0.459; P = 0.038),
+BA11 (0.839 versus 0.378; P = 0.01) and BA24 (0.685
+versus 0.325; P = 0.01) were all significantly higher in
+patients on psychotropic medication (n = 6) compared
+to patients free of such drugs (n = 4).
+Discussion
+Study strengths and weaknesses
+Following our study protocol which allows no more than
+six hours between death and brain storage at −80°C, an
+average postmortem delay of approximately three to four
+hours was accomplished for each group. Besides this
+short time interval, additional pH measurements as a
+second quality control measure also ensured us of non-
+acidotic and high quality brain tissue samples. All groups
+were age- and gender-matched, with similar storage
+times of the frozen brain tissue samples and a low num-
+ber of days between the last behavioral assessment and
+date of death (Table 1; see Results).  Moreover, all the
+paraformaldehyde-fixated right brain hemispheres were
+always neuropathologically examined by the same neuro-
+pathologist and, in addition, regional brain dissections of
+the left frozen hemispheres were also carried out by the
+same scientist, which, respectively, minimized the diag-
+nostic and inter-dissection variability. Our optimized
+RP-HPLC-ECD method was reliable, fast, robust and
+sensitive for the simultaneous determination of eight
+monoamines and metabolites with a low detection limit,
+high repeatability and recovery, short runtime, measure-
+ments in duplicate, short and simple sample preparation
+procedure and relatively high throughput. All analyses
+and sample preparation procedures were accurately 
+performed by the same two scientists, which resulted in
+a low inter-assay variability.
+With regard to the study weaknesses, each group con-
+sisted of a relatively small number of patients, although
+each patient was clinically, behaviorally and neuropatho-
+logically well characterized and nonparametric statistics
+were applied. Unfortunately, no behavioral ratings were
+available for the control subjects, although their clinical
+records did not demonstrate any evidence of psychiatric
+antecedents or depression. The absence of a non-
+depressed DLB group for neurochemical and statistical
+group comparisons might also be regarded as a study
+weakness. Furthermore, the administration of psycho-
+tropic medication before death might have camouflaged
+certain NPS and might also have altered the brain’s
+monoamine levels and -receptors. Our neurochemical
+data thus might have been influenced, since the neuro-
+chemical effects may last up to several weeks after the
+last administration. In order to address this weakness,
+we applied a total Bonferroni correction to all statistical
+analyses and compared the brain monoamine levels
+between patients taking and not taking psychotropic
+medication in each group. Accordingly, these analyses
+showed that all of the highly significant aforementioned
+brain monoamine differences between the groups were
+most likely not influenced by psychotropic drugs, except
+HVA levels in the LC of AD + D patients and 5-HT and
+HVA levels in BA17 and the cerebellum, respectively, of
+DLB + D patients. These specific monoamines were sig-
+nificantly altered in AD + D and DLB + D patients who
+were on psychotropic medication (see Results),  which
+might have caused these same monoamines to become
+significantly altered in the AD + D/DLB + D comparison
+(Table 2). Lastly, the concurrent AD pathology in eight
+of ten neuropathologically confirmed DLB patients
+might also form a limitation of this study, although the
+co-occurrence of AD and DLB is very common. More
+specifically, the neuropathological overlap between both
+neurodegenerative conditions is so extensive that ‘pure’
+DLB, that is, without any AD-related pathology beyond
+that attributable to normal aging, is relatively uncommon,
+accounting for merely one third of all cases of Lewy body
+dementia and perhaps 4% of all dementia cases [64].
+The serotonergic neuropathophysiology of depression in
+DLB compared to AD
+Our results indicate that the serotonergic neurotrans-
+mission in the prefrontal, temporal, limbic and even oc-
+cipital cortex as well as hippocampus might be severely
+impaired in DLB patients who suffered from depression.
+More specifically, we observed the lowest 5-HT and 5-
+HIAA levels as well as 5-HIAA/5-HT turnover ratios in
+eight of eleven brain regions of DLB + D patients com-
+pared to AD + D patients.
+Page 14
+Vermeiren et al. Alzheimer's Research & Therapy (2015) 7:7  Page 14 of 18
+In general, LB accumulate in the dorsal raphe nucleus,
+which is the largest serotonergic nucleus in the human
+brain and provides a substantial proportion of the sero-
+tonergic innervation to the forebrain [65], resulting in a
+marked reduction of 5-HT levels in the striatum, neo-
+cortex and frontal cortex of DLB patients [25].  Ballard
+and colleagues [3] also adduced that the pathophysiology
+of depression in DLB, as well as PDD, is fundamentally
+different from that seen in AD, with alterations within
+the serotonergic pathway as a common feature of both.
+A previous study that investigated the theory of an im-
+paired serotonergic neurotransmission in DLB patients
+with a major depressive disorder, observed an increased
+expression of 5-HT transporter (5-HTT) reuptake sites
+in BA7, the parietal neocortex, compared to those with-
+out depression [66].  On the other hand, in depressed
+AD patients, 5-HTT reuptake sites of the temporal cor-
+tex were reported to be significantly reduced compared
+to their nondepressed counterparts [67]. The depressed
+and nondepressed DLB groups of Ballard et al.  [66]
+apparently also had lower mean 5-HTT reuptake site
+binding values than controls [unpublished observations;
+[25]]. The latter is comparable with our own serotoner-
+gic data, with significantly lower 5-HT and/or 5-HIAA
+levels in BA10, BA11, BA22, BA17 and cerebellum of
+DLB + D patients compared to healthy controls. In other
+studies of Sharp et al., higher 5-HT1A 
+receptor binding
+densities were examined in postmortem brain tissue
+samples of the frontal cortex and BA36 in DLB patients
+compared to healthy controls (for the frontal cortex)
+[52] and in a subgroup of DLB + D subjects compared to
+DLB-D patients (for BA36) [28].
+Based upon these recent findings, it seems plausible that
+in response to the severely damaged and degenerated
+raphe nuclei, a selective postsynaptic 5-HT1A 
+receptor
+upregulation and relative preservation of the 5-HTT re-
+uptake sites might be triggered, specifically in depressed
+DLB patients, to compensate for the decreased serotoner-
+gic neurotransmission from these nuclei towards their
+neocortical and limbic projection areas [3,25].
+Thalamic dopaminergic dysfunctioning and depression in
+DLB compared to AD
+Besides the serotonergic brain differences, our monoam-
+inergic data also point to a decreased dopaminergic
+neurotransmission with four- and seven-fold increases of
+DOPAC/DA and HVA/DA turnover ratios and a ten-fold
+decrease of DA levels in the thalamus of DLB + D com-
+pared to AD + D patients and control subjects. These find-
+ings in the thalamus might be attributed to the loss of DA
+producing neurons in the SN, one of the neuropathological
+hallmarks in DLB, although a significant reduction of
+nigro-thalamic and -striatal DA levels may also mediate
+some of the non-motor symptoms [29], such as depression. 
+With regard to apathy, for example, David and colleagues
+[30] studied the relationship between apathy and striatal
+DA transporter (DAT) uptake in AD (n = 14) and DLB
+(n = 8) subjects by means of 123I-FP-CIT-SPECT imaging.
+The authors concluded that, using the Apathy Inventory,
+lack of initiative inversely correlated with bilateral puta-
+men DAT uptake in the overall population of 22 patients.
+Although no statistical comparative analysis of the DAT
+binding potential (BP) values between DLB and AD was
+performed, their data clearly indicated that the subgroup
+of DLB subjects with apathy (n = 6; scores of 9 to 12) had
+much lower DAT BP values in left and right putamen than
+their apathetic AD counterparts (n = 3; scores of 9 to 12).
+On the other hand, increased thalamic D2 receptor dens-
+ities in 18 DLB patients compared to 14 elderly controls
+have been reported as well [29], although the authors did
+not determine thalamic DA levels nor classify their DLB
+population into depressed/nondepressed study patients.
+Interestingly, Wilson et al. [68] also noticed a strong
+association between the LB density in the LC, dorsal
+raphe nucleus as well as SN, and the degree of depressive
+symptoms in 124 older nondemented individuals. On the
+contrary, neurofibrillary tangle density within the same
+nuclei was not significantly related to depressive symptoms.
+Again, these results underline the prominent place of
+depression in synucleinopathies, such as DLB, and evidence
+the putative link between depression, LB and altered sero-
+tonergic and dopaminergic neurotransmitter systems.
+Psychosis and its dopaminergic pathogenesis in DLB
+versus AD
+Based upon our findings, we suggest that psychosis in AD
+might be pathophysiologically associated with a decreased
+dopaminergic neurotransmission solely restricted to the
+amygdala, whereas an impaired and rather increased
+dopaminergic activity across the mesolimbic system and
+LC might clinically account for psychosis in DLB.
+The pathogenic link between altered dopaminergic
+pathways and psychosis in DLB has not been intensively
+investigated before. The most intriguing evidence comes
+from Roselli et al.  [31],  who observed an association
+between decreased striatal DAT levels, measured by 123I-
+FP-CIT-SPECT imaging, and the presence of visual halluci-
+nations in 18 DLB patients. When the authors considered
+the putamen and caudate nucleus separately, delusions,
+apathy and depression were inversely correlated with
+decreased caudate DAT levels also. The ratios of specific
+to nonspecific binding of 123I-FP-CIT, a DAT-specific
+radiotracer, were calculated as size-weighted averages of
+right, as well as left, brain activities. Similarly, our research
+group previously examined an inverse correlation between
+CSF HVA levels and hallucinations in a group of 26 DLB
+patients [33].  Overall, given the significantly impaired
+serotonergic neurotransmission in DLB brain [25],  it is
+Page 15
+Vermeiren et al. Alzheimer's Research & Therapy (2015) 7:7  Page 15 of 18
+conceivable that the functional coupling between the sero-
+tonergic and dopaminergic pathways, with an inhibitory
+output of the serotonergic on the dopaminergic neuro-
+transmission [62,63], could be severely impaired, possibly
+leading to increased HVA and DA levels. Such a disrup-
+tion of a functionally coupled system might explain the
+overall serotonergic and dopaminergic differences which
+are summarized in Table 3. With regard to dopaminergic
+medications, to date, no randomized controlled trials have
+been performed to evaluate the use of levodopa to relieve
+psychosis in DLB, given the known side effects and the
+potential risk of worsening hallucinations and sleep distur-
+bances [3]. For the same reasons, only a limited number
+of studies have investigated the use of antipsychotics in
+DLB patients, with one study reporting partial or complete
+amelioration of psychosis in 90% of participants after the
+administration of quetiapine [69], with only mild worsen-
+ing in 27% of the cases of parkinsonian symptoms, while
+another one showed diminution of delusions and halluci-
+nations after treatment with olanzapine [70].
+Lastly, we need to bear in mind that the pathogenesis
+of psychosis in DLB is mainly related to right, and not
+left, hemispheric abnormalities, something which has been
+postulated after various SPECT and PET-related imaging
+studies [53,71,72]. Nonetheless, a left hemispheric hypo-
+perfusion in the hippocampus, insula, ventral striatum
+and prefrontal, parietal and occipital cortices has also been
+previously linked with the presence of delusions and visual
+hallucinations in DLB [53].
+Brain MHPG levels are significantly reduced in DLB as
+opposed to AD
+DLB + D patients had significantly decreased brain
+MHPG levels compared to the AD + D and/or AD-D
+group(s) in almost eight of eleven brain regions. The most
+remarkable decrease was noticed in BA9 and BA10, BA22
+and especially thalamus. Surprisingly, in BA17, MHPG
+levels were significantly increased in contrast with AD
+patients (Figure 1).
+Reduced NA concentrations in the putamen, as well as
+frontal, temporal and occipital cortices of DLB patients
+compared to AD and control subjects have been previ-
+ously observed by Ohara et al. [54], although no MHPG
+levels were measured and only five patients per group
+were included. Accordingly, MHPG and NA levels
+across the cortex of AD subjects have been reported to
+be significantly increased and decreased, respectively,
+compared to control values [55].  However, the only
+study that comes close in comparing brain MHPG levels
+between DLB and AD patients, is that from Langlais
+et al. [56], in which lower MHPG and NA levels in the
+caudate nucleus, putamen and BA8 (frontal cortex) of
+LB variant AD cases compared to ‘pure’ AD cases and
+control subjects were observed. 
+The importance of MHPG in DLB as opposed to AD
+has been emphasized before by Herbert et al. [73], who
+confirmed that the addition of MHPG to CSF amyloid
+beta1–42 
+(Aβ1–42
+), total- and phosphorylated tau protein
+improves the discrimination of DLB from AD but not
+from vascular dementia. These authors also measured
+CSF levels of MHPG, HVA and 5-HIAA and found that
+not only MHPG, but also HVA, as well as 5-HIAA were
+significantly lower in DLB compared to AD patients,
+which is very similar to our results (Table 2) [74]. Given
+the neuropathological hallmark of substantial LC neuro-
+degeneration in DLB [75], our results underpin the hy-
+pothesis that MHPG might indeed have an important
+added biomarker value to effectively distinguish between
+both neurodegenerative conditions. Noteworthy, in our
+study, MHPG levels in the LC did not significantly differ,
+although NA levels and MHPG/NA ratios were signifi-
+cantly decreased and increased, respectively, in DLB
+compared to both AD subgroups. Results possibly dem-
+onstrate that the presence of LB in addition to plaques
+and tangles might further affect the noradrenergic
+neurotransmission in the LC. Moreover, in AD, compen-
+satory noradrenergic changes in response to the signifi-
+cant noradrenergic cell body loss in the LC have been
+suggested [75]. Overall, both counteracting pathophysio-
+logical processes may have resulted in seemingly unaltered
+MHPG levels.
+Finally, the surprisingly higher MHPG levels in BA17
+of DLB versus AD patients may be indicative of certain
+distinct monoaminergic neurotransmitter alterations in
+the visual association cortex. Functional deficits of such
+a distinguishable cerebral network have been linked to
+the presence of psychosis in DLB before [53,76]. How-
+ever, this assumption necessitates further investigation,
+certainly regarding its monoaminergic etiology.
+Conclusions
+By and large, we conclude that monoaminergic neuro-
+transmitter alterations contribute differently to the neuro-
+chemical pathophysiology of depression and psychosis
+in DLB compared to AD. More specifically, our results
+support the hypothesis of a dysfunctional, decreased sero-
+tonergic neurotransmission as the main monoaminergic
+etiology of depression in DLB. The serotonergic pathways
+could potentially be even more impaired in DLB + D com-
+pared to those in AD + D, although the 5-HT deficiency
+theory may serve as a common feature of both. Moreover,
+given the generally decreased 5-HT and 5-HIAA levels, as
+well as 5-HIAA/5-HT turnover ratios, measured in our
+study, combined with the formerly suggested counteract-
+ing mechanisms of upregulated postsynaptic 5-HT1A 
+re-
+ceptors and relatively preserved 5-HTT reuptake sites, a
+concurrent pharmacological treatment using an SSRI and
+a 5-HT1A 
+receptor antagonist might indeed effectively
+Page 16
+Vermeiren et al. Alzheimer's Research & Therapy (2015) 7:7  Page 16 of 18
+alleviate depressive symptoms in DLB patients [25]. Cor-
+respondingly, we point at a severely impaired thalamic
+dopaminergic neurotransmission which, supplemented
+with a deficient nigrostriatal dopaminergic innervation,
+might mediate non-parkinsonian symptoms, such as de-
+pression, in DLB as well. Furthermore, we suggest that a
+generally increased dopaminergic neurotransmitter activ-
+ity in the prefrontal, temporal and mesolimbic cortices as
+well as LC and hippocampus could closely relate to psych-
+osis in DLB. On the contrary, in AD, a decreased dopa-
+minergic neurotransmission and increased dopaminergic
+catabolism, specifically in the amgydala, might function as
+a monoaminergic substrate of psychosis. The complexity
+of an altered coupling between serotonergic and dopamin-
+ergic pathways might, additionally, also account differently
+for the presence of psychosis in DLB compared to that in
+AD. On the whole, evidence is accumulating that future
+pharmacological treatments may target both serotonergic
+and dopaminergic systems to reduce these specific NPS.
+Finally, significantly lower MHPG levels across the brain,
+with the exception of BA17, in DLB compared to AD pa-
+tients empathically stress its added CSF biomarker value
+to the traditional Aβ1–42 
+and tau proteins, as was postu-
+lated before [73].
+As for future studies, the functional importance of the
+basal ganglia and nigrostriatal pathways in non-motor
+symptoms in DLB necessitate further examination, given
+their monoaminergic relationship with depression, among
+others. For example, a neurochemical analysis of the entire
+neostriatum, subthalamic nucleus, SN, thalamus, midbrain
+and cerebral cortex might create a better perspective
+on certain dysfunctional monoaminergic patterns which
+could contribute to NPS in DLB. With regard to psychosis
+in particular, inclusion of the right hemisphere is advised.
+Likewise, the relationship between NPS and acetylcholi-
+nergic neurotransmitter abnormalities in DLB as opposed
+to AD needs to be scrutinized as well.
+Abbreviations
+5-HIAA: 5-hydroxy-3-indoleacetic acid; 5-HT: 5-hydroxytryptamine (serotonin);
+5-HTT: serotonin transporter; A: adrenaline; AD: Alzheimer’s disease; AD + D/-D: AD
+patients with/without depression; AD + D + P: psychotic AD patients with
+depression; AD-D-P: nonpsychotic AD patients without depression; Aβ: amyloid
+beta; BA: Brodmann area; Behave-AD: Behavioral Pathology in Alzheimer’s
+Disease Rating Scale; CMAI: Cohen-Mansfield Agitation Inventory; CSDD: Cornell
+Scale for Depression in Dementia; CSF: cerebrospinal fluid; DA: dopamine;
+DAT: dopamine transporter; DLB: Dementia with Lewy bodies; DLB + D/-D: DLB
+patients with/without depression; DLB + D + P: psychotic DLB patients with
+depression; DLB + D-P: nonpsychotic DLB patients with depression; DOPAC: 3,4-
+dihydroxyphenylacetic acid; GDS: Global Deterioration Scale; HE: hematoxylin &
+eosin; HVA: homovanillic acid; LB: Lewy bodies; LC: locus coeruleus;
+MFS: Middelheim Frontality Score; MHPG: 3-methoxy-4-hydroxyphenylglycol;
+MMSE: Mini-mental State Examination; NA: noradrenaline; NPS: neuropsychiatric
+symptoms; PDD: Parkinson’s disease dementia; RP-HPLC-ECD: reversed-phase
+high-performance liquid chromatography with electrochemical detection;
+SN: substantia nigra; SSRI: selective serotonin reuptake inhibitor.
+Competing interests
+The authors declare that they have no competing interests. 
+Authors’ contributions
+YV, DVD, TA, SE, JJM and PPDD all made substantial contributions to the
+conception and design, and were involved in drafting the manuscript and/or
+revising it critically. The authors were also responsible for the acquisition,
+analysis and/or interpretation of data: YV and SE behaviorally rated the
+dementia patients and assisted at performing the brain autopsies; PPDD and SE
+recruited the included patients and control subjects; PPDD, YV and SE were
+responsible for the acquisition and storage of samples; YV regionally dissected
+the left hemispheres; JJM meticulously performed all the neuropathological
+analyses and diagnoses; YV and TA completed all RP-HPLC-ECD analyses and
+calculations. YV and DVD performed all the statistical analyses and interpreted
+the results. All authors read and approved the final manuscript, were responsible
+for the intellectual content, and agreed to be accountable for all aspects of
+the work.
+Acknowledgments
+This work was supported by a research grant of the Research Foundation-
+Flanders (FWO), Interuniversity Poles of Attraction (IAP Network P7/16) of the
+Belgian Federal Science Policy Office, Methusalem excellence grant of the
+Flemish Government, agreement between Institute Born-Bunge and University
+of Antwerp, the Medical Research Foundation Antwerp, the Thomas Riellaerts
+research fund, and Neurosearch Antwerp. DVD is a postdoctoral fellow of the
+FWO. The authors acknowledge the contribution and support of all patients,
+relatives, caregivers, nursing personnel and clinical staff involved.
+Author details
+1Laboratory of Neurochemistry and Behavior, Institute Born-Bunge, University of
+Antwerp, Campus Drie Eiken, Universiteitsplein 1, Wilrijk, Antwerp 2610, Belgium.
+2Department of Neurology and Memory Clinic, Hospital Network Antwerp
+(ZNA) Middelheim and Hoge Beuken, Lindendreef 1, Antwerp 2020, Belgium.
+3Department of Neurology and Alzheimer Research Center, University of
+Groningen, University Medical Center Groningen (UMCG), Hanzeplein 1,
+Groningen 9713, GZ, The Netherlands. 4Biobank, Institute Born-Bunge, University
+of Antwerp, Universiteitsplein 1, Antwerp 2610, Belgium.
+Received: 18 June 2014 Accepted: 16 December 2014
+References
+1.  Vann Jones SA, O’Brien JT. The prevalence and incidence of dementia with
+Lewy bodies: a systematic review of population and clinical studies. Psychol
+Med. 2014;44:673–83.
+2.  McKeith IG, Burn DJ, Ballard CG, Collerton D, Jaros E, Morris CM, et al.
+Dementia with Lewy bodies. Semin Clin Neuropsychiatry. 2003;8:46–57.
+3.  Ballard C, Aarsland D, Francis P, Corbett A. Neuropsychiatric symptoms in
+patients with dementias associated with cortical Lewy bodies:
+pathophysiology, clinical features, and pharmacological management. Drugs
+Aging. 2013;30:603–11.
+4.  McKeith IG, Dickson DW, Lowe J, Emre M, O’Brien JT, Feldman H, et al.
+Diagnosis and management of dementia with Lewy bodies: third report of
+the DLB Consortium. Neurology. 2005;65:1863–72.
+5.  Ballard C, Holmes C, McKeith I, Neill D, O’Brien J, Cairns N, et al. Psychiatric
+morbidity in dementia with Lewy bodies: a prospective clinical and
+neuropathological comparative study with Alzheimer’s disease. Am J
+Psychiatry. 1999;156:1039–45.
+6.  Klatka LA, Louis ED, Schiffer RB. Psychiatric features in diffuse Lewy body
+disease: a clinicopathologic study using Alzheimer’s disease and Parkinson’s
+disease comparison groups. Neurology. 1996;47:1148–52.
+7.  Aarsland D, Brønnick K, Ehrt U, De Deyn PP, Tekin S, Emre M, et al.
+Neuropsychiatric symptoms in patients with Parkinson’s disease and
+dementia: frequency, profile and associated caregiver stress. J Neurol
+Neurosurg Psychiatry. 2007;78:36–42.
+8.  Fritze F, Ehrt U, Hortobagyi I, Ballard C, Aarsland D. Depressive symptoms in
+Alzheimer’s disease and Lewy body dementia: a one-year follow-up study.
+Dement Geriatr Cogn Disord. 2011;32:143–9.
+9.  Tun SM, Murman DL, Long HL, Colenda CC, von Eye A. Predictive validity of
+neuropsychiatric subgroups on nursing home placement and survival in
+patients with Alzheimer disease. Am J Geriatr Psychiatry. 2007;15:314–27.
+10. Emanuel JE, Lopez OL, Houck PR, Becker JT, Weamer EA, Demichele-Sweet
+MA, et al. Trajectory of cognitive decline as a predictor of psychosis in early
+Page 17
+Vermeiren et al. Alzheimer's Research & Therapy (2015) 7:7  Page 17 of 18
+Alzheimer’s disease in the cardiovascular health study. Am J Geriatr
+Psychiatry. 2011;19:160–8.
+11. Russ TC, Batty GD, Starr JM. Cognitive and behavioural predictors of survival
+in Alzheimer disease: results from a sample of treated patients in a tertiary-
+referral memory clinic. Int J Geriatr Psychiatry. 2012;27:844–53.
+12. Mosimann UP, McKeith IG. Dementia with Lewy bodies – diagnosis and
+treatment. Swiss Med Wkly. 2003;133:131–42.
+13. De Deyn PP, Drenth AF, Kremer BP, Oude Voshaar RC, Van Dam D.
+Aripiprazole in the treatment of Alzheimer’s disease. Expert Opin
+Pharmacother. 2013;14:459–74.
+14. Lyketsos CG, Carrillo MC, Ryan MJ, Khachaturian AS, Trzepacz P, Amatniek J,
+et al. Neuropsychiatric symptoms in Alzheimer’s disease. Alzheimers
+Dement. 2011;7:532–9.
+15. Rosenberg PB, Mielke MM, Han D, Leoutsakos JS, Lyketsos CG, Rabins PV,
+et al. The association of psychotropic medication use with the cognitive,
+functional, and neuropsychiatric trajectory of Alzheimer’s disease. Int J
+Geriatr Psychiatry. 2012;27:1248–57.
+16. Pollock BG, Mulsant BH, Rosen J, Sweet RA, Mazumdar S, Bharucha A, et al.
+Comparison of citalopram, perphenazine, and placebo for the acute
+treatment of psychosis and behavioral disturbances in hospitalized,
+demented patients. Am J Psych. 2002;159:460–5.
+17. Pollock BG, Mulsant BH, Rosen J, Mazumdar S, Blakesley RE, Houck PR, et al.
+A double-blind comparison of citalopram and risperidone for the treatment
+of behavioral and psychotic symptoms associated with dementia. Am J
+Geriatr Psychiatry. 2007;15:942–52.
+18. Finkel SI, Mintzer JE, Dysken M, Krishnan KR, Burt T, McRae T. A randomized,
+placebo-controlled study of the efficacy and safety of sertraline in the
+treatment of the behavioral manifestations of Alzheimer’s disease in
+outpatients treated with donepezil. Int J Geriatr Psychiatry. 2004;19:9–18.
+19. Teri L, Logsdon RG, Peskind E, Raskind M, Weiner MF, Tractenberg RE, et al.
+Treatment of agitation in AD: a randomized, placebo-controlled clinical trial.
+Neurology. 2000;55:1271–8.
+20. Bhasin M, Rowan E, Edwards K, McKeith I. Cholinesterase inhibitors in
+dementia with Lewy bodies: a comparative analysis. Int J Geriatr Psychiatry.
+2007;22:890–5.
+21. Grace J, Daniel S, Stevens T, Shankar KK, Walker Z, Byrne EJ, et al. Long-term
+use of rivastagmine in patients with dementia with Lewy bodies: an open-
+label trial. Int Psychogeriatr. 2001;13:199–205.
+22. McKeith I, Del Ser T, Spano P, Emre M, Wesnes K, Anand R, et al. Efficacy of
+rivastagmine in dementia with Lewy bodies: a randomized, double-blind,
+placebo-controlled international study. Lancet. 2000;356:2031–6.
+23. Wild R, Pettit T, Burns A. Cholinesterase inhibitors for dementia with Lewy
+bodies. Cochrane Database Syst Rev. 2003;3:CD003672.
+24. Rolinski M, Fox C, Maidment I, McShane R. Cholinesterase inhibitors for
+dementia with Lewy bodies: Parkinson’s disease dementia and cognitive
+impairment in Parkinson’s disease. Cochrane Database Syst Rev. 2012;3:
+CD006504.
+25. Francis PT. Biochemical and pathological correlates of cognitive and
+behavioural change in DLB/PDD. J Neurol. 2009;256:280–5.
+26. Ridha BH, Josephs KA, Rossor MN. Delusions and hallucinations in dementia
+with Lewy bodies: worsening with memantine. Neurology. 2005;65:481–2.
+27. Sabbagh MN, Hake AM, Ahmed S, Farlow MR. The use of memantine in
+dementia with Lewy bodies. J Alzheimers Dis. 2005;7:285–9.
+28. Sharp SI, Ballard CG, Ziabreva I, Piggott MA, Perry RH, Perry EK, et al. Cortical
+serotonin 1A receptor levels are associated with depression in patients with
+dementia with Lewy bodies and Parkinson’s disease dementia. Dement
+Geriatr Cogn Disord. 2008;26:330–8.
+29. Piggott MA, Ballard CG, Dickinson HO, McKeith IG, Perry RH, Perry EK. Thalamic
+D2 receptors in dementia with Lewy bodies, Parkinson’s disease, and
+Parkinson’s disease dementia. Int J Neuropsychopharmacol. 2007;10:231–44.
+30. David R, Koulibaly M, Benoit M, Garcia R, Caci H, Darcourt J, et al. Striatal
+dopamine transporter levels correlate with apathy in neurodegenerative
+diseases - A SPECT study with partial volume effect correction. Clin Neurol
+Neurosurg. 2008;110:19–24.
+31. Roselli F, Pisciotta NM, Perneczky R, Pennelli M, Aniello MS, De Caro MF,
+et al. Severity of neuropsychiatric symptoms and dopamine transporter
+levels in dementia with Lewy bodies: a 123I-FP-CIT SPECT study. Mov Disord.
+2009;24:2097–103.
+32. Vermeiren Y, Van Dam D, Aerts T, Engelborghs S, De Deyn PP. Brain-region
+specific monoaminergic correlates of neuropsychiatric symptoms in Alzheimer’s
+disease. J Alzheimers Dis. 2014;41:819–33. 
+33. Vermeiren Y, Le Bastard N, Van Hemelrijck A, Drinkenburg WH, Engelborghs
+S, De Deyn PP. Behavioral correlates of cerebrospinal fluid amino acid and
+biogenic amine neurotransmitter alterations in dementia. Alzheimers
+Dement. 2013;9:488–98.
+34. Geda YE, Schneider LS, Gitlin LN, Miller DS, Smith GS, Bell J, et al.
+Neuropsychiatric symptoms in Alzheimer’s disease: past progress and
+anticipation of the future. Alzheimers Dement. 2013;9:602–8.
+35. Engelborghs S, Maertens K, Nagels G, Vloeberghs E, Mariën P, Symons A, et al.
+Neuropsychiatric symptoms of dementia: cross-sectional analysis from a
+prospective, longitudinal Belgian study. Int J Geriatr Psychiatry. 2005;20:1028–37.
+36. McKhann GM, Drachman D, Folstein M, Katzman R, Price D, Stadlan EM.
+Clinical diagnosis of Alzheimer’s disease: report of the NINCDS-ADRDA Work
+Group under the auspices of Department of Health and Human Services
+Task Force on Alzheimer’s disease. Neurology. 1984;34:939–44.
+37. McKhann GM, Knopman DS, Chertkow H, Hyman BT, Jack Jr CR, Kawas CH,
+et al. The diagnosis of dementia due to Alzheimer’s disease: recommendations
+from the National Institute on Aging - Alzheimer’s Association workgroups
+on diagnostic guidelines for Alzheimer’s disease. Alzheimers Dement.
+2011;7:263–9.
+38. McKeith IG, Galasko D, Kosaka K, Perry EK, Dickson DW, Hansen LA, et al.
+Consensus guidelines for the clinical and pathologic diagnosis of dementia
+with Lewy bodies (DLB): report of the consortium on DLB international
+workshop. Neurology. 1996;47:1113–24.
+39. American Psychiatric Association. DSM-IV-TR: Diagnostic and Statistical Manual
+of Mental Disorders. Washington DC: American Psychiatric Association; 2000.
+40. Reisberg B, Borenstein J, Salob SP, Ferris SH, Franssen E, Georgotas A.
+Behavioral symptoms in Alzheimer’s disease: phenomenology and
+treatment. J Clin Psychiatry. 1987;48:9–15.
+41. De Deyn PP, Engelborghs S, Saerens J, Goeman J, Mariën P, Maertens K,
+et al. The Middelheim Frontality Score: a behavioural assessment scale that
+discriminates frontotemporal dementia from Alzheimer’s disease. Int J
+Geriatr Psychiatry. 2005;20:70–9.
+42. Cohen-Mansfield J, Marx MS, Rosenthal AS. A description of agitation in a
+nursing home. J Gerontol. 1989;44:77–84.
+43. Alexopoulos GS, Abrams RC, Young RC, Shamoian CA. Cornell Scale for
+Depression in Dementia. Biol Psychiatry. 1988;23:271–84.
+44. Reisberg B, Ferris SH, de Leon MJ, Crook T. The Global Deterioration Scale
+for assessment of primary degenerative dementia. Am J Psychiatry.
+1982;139:1136–9.
+45. Burns A, Lawlor BA, Craig S. Assessment scales in old age psychiatry. 2nd
+ed. London: Martin Dunitz; 2004.
+46. Hollingworth P, Sweet R, Sims R, Harold D, Russo G, Abraham R, et al.
+Genome-wide association study of Alzheimer’s disease with psychotic
+symptoms. Mol Psychiatry. 2012;17:1316–27.
+47. Engelborghs S, Sleegers K, Cras P, Brouwers N, Serneels S, De Leenheir E,
+et al. No association of CSF biomarkers with APOEepsilon4, plaque and
+tangle burden in definite Alzheimer’s disease. Brain. 2007;130:2320–6.
+48. Braak H, Braak E. Neuropathological stageing of Alzheimer-related changes.
+Acta Neuropathol. 1991;82:239–59.
+49. Braak H, Alafuzoff I, Arzberger T, Kretzschmar H, Del Tredici K. Staging of
+Alzheimer’s disease-associated neurofibrillary pathology using paraffin
+sections and immunohistochemistry. Acta Neuropathol. 2006;112:389–404.
+50. Jellinger KA, Bancher C. Neuropathology of Alzheimer’s disease: a critical
+update. J Neural Transm Suppl. 1998;54:77–95.
+51. Montine TJ, Phelps CH, Beach TG, Bigio EH, Cairns NJ, Dickson DW, et al.
+National Institute on Aging-Alzheimer’s Association guidelines for the
+neuropathologic assessment of Alzheimer’s disease: a practical approach.
+Acta Neuropathol. 2012;123:1–11.
+52. Sharp SI, Ballard CG, Ziabreva I, Perry EK, Aarsland D, Larsen JP, et al.
+Serotonin 1-A receptor binding to frontal cortex in dementia with Lewy
+bodies and Parkinson’s disease dementia. pA2 online Ejournal of the British
+Pharmacological. Society. 2005;2:65.
+53. Nagahama Y, Okina T, Suzuki N, Matsuda M. Neural correlates of psychotic
+symptoms in dementia with Lewy bodies. Brain. 2010;133:557–67.
+54. Ohara K, Kondo N, Ohara K. Changes of monoamines in post-mortem brains
+from patients with diffuse Lewy body disease. Prog Neuropsychopharmacol
+Biol Psychiatry. 1998;22:311–7.
+55. Herregodts P, Bruyland M, De Keyser J, Solheid C, Michotte Y, Ebinger G.
+Monoaminergic neurotransmitters in Alzheimer’s disease: an HPLC study
+comparing presenile familial and sporadic senile cases. J Neurol Sci.
+1989;92:101–16.
+Page 18
+Vermeiren et al. Alzheimer's Research & Therapy (2015) 7:7  Page 18 of 18
+56. Langlais PJ, Thal L, Hansen L, Galasko D, Alford M, Masliah E.
+Neurotransmitters in basal ganglia and cortex of Alzheimer’s disease with
+and without Lewy bodies. Neurology. 1993;43:1927–34.
+57. Van Dam D, Vermeiren Y, Aerts T, De Deyn PP. Novel and sensitive
+reversed-phase high-pressure liquid chromatography method with
+electrochemical detection for the simultaneous and fast determination of eight
+biogenic amines and metabolites in human brain tissue. J Chromatogr A.
+2014;1353:28–39.
+58. Garcia-Alloza M, Tsang SW, Gil-Bea FJ, Francis PT, Lai MK, Marcos B, et al.
+Involvement of GABAergic system in depressive symptoms of Alzheimer’s
+disease. Neurobiol Aging. 2006;27:1110–7.
+59. Lewis DA. The human brain revisited: opportunities and challenges in
+postmortem studies of psychiatric disorders. Neuropsychopharmacology.
+2002;26:143–54.
+60. Monoranu CM, Apfelbacher M, Grünblatt E, Puppe B, Alafuzoff I, Ferrer I,
+et al. pH measurement as quality control on human post mortem brain
+tissue: a study of the BrainNet Europe consortium. Neuropathol Appl
+Neurobiol. 2009;35:329–37.
+61. Stan AD, Ghose S, Gao XM, Roberts RC, Lewis-Amezcua K, Hatanpaa KJ,
+et al. Human postmortem tissue: what quality markers matter? Brain Res.
+2006;1123:1–11.
+62. Jenner P, Sheehy M, Marsden CD. Noradrenaline and 5-hydroxytryptamine
+modulation of brain dopamine function: implications for the treatment of
+Parkinson’s disease. Br J Clin Pharmacol. 1983;15:277–89.
+63. Kelland MD, Freeman AS, Chiodo LA. Serotonergic afferent regulation of the
+basic physiology and pharmacological responsiveness of nigrostriatal
+dopamine neurons. J Pharmacol Exp Ther. 1990;253:803–11.
+64. Mrak RE, Griffin WS. Dementia with Lewy bodies: definition, diagnosis and
+pathogenic relationship to Alzheimer’s disease. Neuropsychiatr Dis Treat.
+2007;3:619–25.
+65. Hornung JP. The human raphe nuclei and the serotonergic system. J Chem
+Neuroanat. 2003;26:331–43.
+66. Ballard C, Johnson M, Piggott M, Perry R, O’Brien J, Rowan E, et al. A positive
+association between 5HT re-uptake binding sites and depression in
+dementia with Lewy bodies. J Affect Disord. 2002;69:219–23.
+67. Chen CP, Alder JT, Bowen DM, Esiri MM, McDonald B, Hope T, et al. Presynaptic
+serotonergic markers in community-acquired cases of Alzheimer’s disease:
+correlations with depression and neuroleptic medication. J Neurochem.
+1996;66:1592–8.
+68. Wilson RS, Nag S, Boyle PA, Hizel LP, Yu L, Buchman AS, et al. Brainstem
+aminergic nuclei and late-life depressive symptoms. JAMA Psychiatry.
+2013;70:1320–8.
+69. Fernandez HH, Trieschmann ME, Burke MA, Friedman JH. Quetiapine for
+psychosis in Parkinson’s disease versus dementia with Lewy bodies. J Clin
+Psychiatry. 2002;63:513–5.
+70. Cummings JL, Street J, Masterman D, Clark WS. Efficacy of olanzapine in the
+treatment of psychosis in dementia with Lewy bodies. Dementia Geriatr
+Cognit Disord. 2002;13:67–73.
+71. Perneczky R, Drzezga A, Boecker H, Förstl H, Kurz A, Häussermann P.
+Cerebral metabolic dysfunction in patients with dementia with Lewy bodies
+and visual hallucinations. Dementia Geriatr Cognit Disord. 2008;25:531–8.
+72. Perneczky R, Drzezga A, Boecker H, Wagenpfeil S, Förstl H, Kurz A, et al.
+Right prefrontal hypotmetabolism predicts delusions in dementia with Lewy
+bodies. Neurobiol Aging. 2009;30:1420–9.
+73. Herbert MK, Aerts MB, Kuiperij HB, Claassen JA, Spies PE, Esselink RA, et al.
+Addition of MHPG to Alzheimer’s disease biomarkers improves
+differentiation of dementia with Lewy bodies from Alzheimer’s disease but
+not other dementias. Alzheimers Dement. 2014;10:448–55.
+74. Aerts MB, Esselink RA, Claassen JA, Abdo WF, Bloem BR, Verbeek MM. CSF
+tau, Aβ42, and MHPG differentiate dementia with Lewy bodies from
+Alzheimer’s disease. J Alzheimers Dis. 2011;27:377–84.
+75. Szot P, White SS, Greenup JL, Leverenz JB, Peskind ER, Raskind MA.
+Compensatory changes in the noradrenergic nervous system in the locus
+ceruleus and hippocampus of postmortem subjects with Alzheimer’s
+disease and dementia with Lewy bodies. J Neurosci. 2006;26:467–78.
+76. Mori T, Ikeda M, Fukuhara R, Nestor PJ, Tanabe H. Correlation of visual
+hallucinations with occipital rCBF changes by donepezil in DLB. Neurology.
+2006;66:935–7. 
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color ﬁgure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at
+www.biomedcentral.com/submit

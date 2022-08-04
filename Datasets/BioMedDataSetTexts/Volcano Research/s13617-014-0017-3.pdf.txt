@@ -1,0 +1,1619 @@
+BOOKMARKS:
+Abstract
+Introduction
+Non-magmatic hydrothermal unrest
+  Hydrothermal eruptive unrest
+    Effusive eruptive unrest
+    Explosive eruptive unrest
+  Hydrothermal non-eruptive unrest
+    Gas emission
+    Acid contamination
+    Ground deformation
+Non-magmatic tectonic unrest
+Event tree for non-magmatic unrest
+Major hazards related to non-magmatic unrest
+  Pyroclastic density currents and tephra fall out
+  Lahars, volcanic debris flows, floods and jökulhlaups
+  Tsunamis and seiches
+Conclusions
+Competing interests
+Authors’ contributions
+Acknowledgments
+Author details
+References
+Page 1
+Rouwet et al. Journal of Applied Volcanology 2014, 3:17
+http://www.appliedvolc.com/content/3/1/17
+RESEARCH  Open Access
+Recognizing and tracking volcanic hazards
+related to non-magmatic unrest: a review
+Dmitri Rouwet1*, Laura Sandri1, Warner Marzocchi2, Joachim Gottsmann3, Jacopo Selva1, Roberto Tonini2
+and Paolo Papale4
+Abstract
+Eruption forecasting is a major goal in volcanology. Logically, but unfortunately, forecasting hazards related to
+non-magmatic unrest is too often overshadowed by eruption forecasting, although many volcanoes often pass through
+states of non-eruptive and non-magmatic unrest for various and prolonged periods of time. Volcanic hazards related to
+non-magmatic unrest can be highly violent and/or destructive (e.g., phreatic eruptions, secondary lahars), can lead into
+magmatic and eventually eruptive unrest, and can be more difficult to forecast than magmatic unrest, for various
+reasons. The duration of a state of non-magmatic unrest and the cause, type and locus of hazardous events can be
+highly variable. Moreover, non-magmatic hazards can be related to factors external to the volcano (e.g., climate,
+earthquake). So far, monitoring networks are often limited to the usual seismic-ground deformation-gas network,
+whereas recognizing indicators for non-magmatic unrest requires additional approaches. In this study we summarize
+non-magmatic unrest processes and potential indicators for related hazards. We propose an event-tree to classify
+non-magmatic unrest, which aims to cover all major hazardous outcomes. This structure could become useful for
+future probabilistic non-magmatic hazard assessments, and might reveal clues for future monitoring strategies.
+Keywords: Non-magmatic unrest; Volcanic hazard; Forecasting; Volcanic surveillance; Event tree
+Introduction
+During long inter-eruptive periods of hundreds to thou-
+sands of years, a volcano passes through different stages of
+activity including periods of dormancy, quiescence, reawa-
+kening and unrest. Due to this very long-term behavior,
+hazard forecasting becomes challenging, in particular for
+short-term time frames (days to few months). So far, most
+volcanic hazard assessments have focused on magmatic
+unrest (e.g., Sparks 2003). Effective hazard assessment and
+risk mitigation during unrest depends on the early and re-
+liable identification of changes in volcanic dynamics and
+their recognition as potential precursors to a hazardous
+event (Selva et al. 2012). Major uncertainties in the identi-
+fication of the causative processes of unrest translate into
+uncertainties in short-term forecasting. The problem is
+made even more complicated by the intrinsic and almost
+inevitable subjectivity in the definition of unrest. Phillipson
+et al. (2013) defined volcanic unrest as the “deviation from
+* Correspondence: [URL: "mailto:dmitri.rouwet@ingv.it"] dmitri.rouwet@ingv.it
+1Istituto Nazionale di Geofisica e Vulcanologia, Sezione di Bologna, Bologna,
+Italy
+Full list of author information is available at the end of the article 
+the background behavior of a volcano towards a behavior,
+which is cause for concern in the short-term because it
+might be a prelude to an eruption”,  a concept that we
+adopt in this study. Unrest depends also on the volcano it-
+self, reflected by its background activity, and should thus
+be defined for each volcano separately (e.g., Potter 2014;
+Sandri et al. 2014).
+If the cause of concern during a stage of volcanic unrest
+is the recognition of the migration from a magma reservoir
+(Figure 1), the volcano is in a stage of magmatic unrest.
+Hence, this process does not attest to processes and cha-
+racteristics that are intrinsic of stagnant cooling magma
+batches at given P-T conditions such as convection or
+crystallization, which may contribute to degassing (Figure 1).
+If no evidence for “magma-on-the-move” exists, but con-
+cern remains high for any other reason, the volcano is in a
+phase of non-magmatic unrest. This apparently banal but
+highly practical distinction does not imply that recognizing
+non-magmatic unrest is easy. One important task of this
+study is to shed light on the detectable indicators of non-
+magmatic unrest in its various ways.
+© 2014 Rouwet et al.; licensee Springer. This is an Open Access article distributed under the terms of the Creative Commons
+Attribution License ([URL: "http://creativecommons.org/licenses/by/4.0"] http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction
+in any medium, provided the original work is properly credited.
+Page 2
+Rouwet et al. Journal of Applied Volcanology 2014, 3:17
+http://www.appliedvolc.com/content/3/1/17 
+Page 2 of 17
+Figure 1 Magmatic vs non-magmatic unrest. A volcano is in a stage of magmatic unrest if volcanic unrest is caused by the migration from a
+magma reservoir (left), which we are able to recognize as such. If we cannot recognize magma migration (regardless whether it migrates or not),
+but concern remains high for any other reason, the volcano will be in a state of non-magmatic unrest (right). Magma convection and
+crystallization in a magma chamber are often not recognized as magma migrations, and thus would results in non-magmatic unrest.
+Probabilistic methods can be applied to forecast vol-
+canic activity across different timescales. Several tools
+have been developed and applied over the past decade
+including event trees (Newhall and Hoblitt 2002), some
+focusing only on magmatic eruptions (Bayesian Belief
+Network, BBN, Aspinall et al. 2003; Bayesian Event Tree
+for Eruption Forecasting, BET_EF, Marzocchi et al.
+2004a, 2008; Sandri et al. 2009, 2012; Selva et al. 2012;
+Marzocchi and Bebbington 2012),  others also focusing
+on long-term hazard assessments (Bayesian Event Tree
+for Volcanic Hazard, BET_VH, Marzocchi et al. 2010;
+Selva et al. 2010; Sandri et al. 2014; HASSET, Sobradelo
+et al. 2014).  So far, the schemes for short-term hazard
+assessment have put only minor emphasis on evaluating
+phenomena associated to non-magmatic hazards, despite
+the fact that these have had significant economic and so-
+cial impact in the past. Prominent examples of activity at
+volcanoes which did not probably involve magmatic
+eruptions include the phreatic activity at Soufrière de
+Guadeloupe in 1976 (Shepherd et al. 1979; Shepherd
+and Sigurdsson 1982),  non-eruptive unrest at Campi
+Flegrei in the 1980’s (Barberi et al. 1984; Dvorak and
+Mastrolorenzo 1991; Orsi et al. 1999; Chiodini et al. 2001,
+2003),  and the flank collapse of Casita volcano in 1998
+(Kerle and van Wijck de Vries 2001), to name a few.
+This paper reviews various non-magmatic unrest phe-
+nomena, in order to help recognize and track potentially
+hazardous outcomes. We will present an event tree to
+map the evolution of non-magmatic unrest along differ-
+ent stages, with an increasing level of detail. This event
+tree has not yet been applied to probabilistic hazard 
+forecasting during stages of non-magmatic unrest, al-
+though it is intended to become the basis for a future
+BET_UNREST code. Adding this branch to the BET
+(Bayesian Even Tree) provides a means to assess all haz-
+ardous outcomes that should be considered in real-time
+updating of the BET model. The background idea is that
+“magma-on-the-move” is a necessity before a magmatic
+eruption. However, it is not a necessity for the evolution of
+different stages of non-magmatic unrest. Hence, we stress
+the importance of recognizing magma on the move to dis-
+tinguish between magmatic and non-magmatic unrest.
+Here we present a concept for the recognition of precur-
+sory symptoms and resultant potential threats from non-
+magmatic unrest activity.
+Non-magmatic hydrothermal unrest
+Many volcanoes hosting hydrothermal systems are in a
+state of quiescence (i.e. background activity) during
+prolonged inter-eruptive phases, manifested as low-
+temperature fumarolic emissions (Giggenbach et al.
+1990; Sturchio and Williams 1990; Giggenbach and
+Corrales Soto 1992; Sturchio et al. 1993; Fischer et al.
+1997; Lewicki et al. 2000; Rouwet et al. 2009; Joseph
+et al. 2011, 2013; Chiodini et al. 2012), diffuse CO2 
+soil
+degassing and steaming ground (Cardellini et al. 2003;
+Werner et al. 2003, 2008; Bergfeld et al. 2006, 2012;
+Werner and Cardellini 2006; Lewicki et al. 2007a,
+2007b; Mazot et al. 2011; Inguaggiato et al. 2012;
+Lewicki and Hilley 2014),  thermal spring discharges
+(Taran et al. 2008; Taran and Peiffer 2009), low-activity
+crater lakes (Pasternack and Varekamp 1997; Taran et al.
+Page 3
+Rouwet et al. Journal of Applied Volcanology 2014, 3:17
+http://www.appliedvolc.com/content/3/1/17 
+Page 3 of 17
+1998; Stimac et al. 2004; Rouwet et al. 2004, 2008, 2014;
+Taran and Rouwet 2008), and/or hydrothermal alteration
+(Getahun et al. 1996; Gehring et al. 1999; Salaün et al.
+2011).  Volcano-hydrothermal systems seem to develop
+more frequently in closed-conduit dome complexes and
+calderas (e.g. Yellowstone, Long Valley and Campi Flegrei),
+rather than cone-shaped central-conduit stratovolcanoes
+(Rouwet et al. 2015), and surface manifestations often re-
+flect the local tectonic regime of the volcano (e.g., Mazot
+et al. 2011). Despite the relatively non-hazardous nature of
+such prolonged hydrothermal background activity, a pro-
+found knowledge of quiescent activity of individual volca-
+noes is necessary to understand the short- (daily) and
+long-term (seasonal, yearly) baseline behavior from which
+to deviate when evolving towards a state that causes
+concern.
+Hydrothermal eruptive unrest
+Eruptions during stages of non-magmatic unrest, by
+definition, do not deal with lava or juvenile tephra emis-
+sion, as no magma migration is involved. However, be-
+sides lava and juvenile tephra, volcanoes are able to
+release fluids in an effusive or explosive manner. Below,
+we describe several observed mechanisms leading to
+such events.
+Effusive eruptive unrest
+Water effusion Volcano-hydrothermal systems can
+manifest non-explosive expulsion of water. A rise of the
+water level in volcano-hydrothermal systems can be
+caused by the interplay of (1) increased or prolonged infil-
+tration of meteoric water into a hydrothermal system, (2)
+increased or prolonged condensation of steam into a near-
+surface aquifer, (3) variations in the vapor pressure regime
+in a hydrothermal system, or (4) the rise of perched aqui-
+fers due to buoyancy effects of a rising bubble-rich or
+vapor-rich fluid front.
+Variations in the phreatic level of an aquifer often pass
+visually unobserved, as the effect does not necessarily
+reach the surface. Nevertheless, changes in the water sat-
+uration state in a volcanic edifice can drastically change its
+mechanical and hydraulic conditions (Reid 2004). These
+variations in hydraulic regime in a volcano can be detected
+through self potential, microgravity, resistivity or VLF
+surveys (Finizola et al. 2003; Révil et al. 2004; Zlotnicki
+et al. 2006; Gottsmann et al. 2007; Fournier et al. 2009;
+Villasante-Marcos et al. 2014).  Water level gauging in
+wells or flow rate measurements from (thermal) springs at
+volcano flanks is the most direct way, although few exam-
+ples of frequent monitoring exist (Ingebritsen et al. 2001;
+Hurwitz et al. 2002; Taran and Peiffer 2009), which inevit-
+ably leads to the need for numerical modeling procedures
+to increase theoretical insights (Hurwitz et al. 2003;
+Todesco and Berrino 2005). 
+Variations of the water level in a hydrothermal system is
+most obvious when aquifers intersect the surface, through
+direct outpouring of water from wells or springs, or varia-
+tions in the water level of crater lakes. El Chichón volcano
+(Mexico), in a state of non-magmatic unrest since soon
+after the 1982 Plinian eruptions, hosts a boiling spring
+which periodically discharges water towards its crater lake
+(Rouwet et al. 2004, 2008) (Figure 2). This particular dy-
+namics results from the prolonged infiltration of meteoric
+water into the volcano-hydrothermal system which, to-
+gether with the local boiling regime, creates a steam cap
+that leads to non-explosive water expulsion.
+An intrinsically gravitationally unstable system is mani-
+fested as a near-boiling lake that occasionally drains and re-
+fills its water, without necessarily a clear cycle (in contrast
+to geysers) (Inferno Lake, New Zealand, Vandemeulebrouck
+et al. 2005; Boiling Lake, Dominica, Fournier et al. 2009; Di
+Napoli et al. 2013). Such lakes can be sustained above the
+regional aquifer by the drag force caused by a gas phase
+flowing through a liquid-filled permeable conduit. At equi-
+librium, the hydrostatic pressure of the water raised above
+the water table counterbalances the drag stress for each
+bubble. In order words, bubbles “carry” the lake. Moreover,
+denser cold water near the lake will be lifted by underlying
+hotter water, which needs to boil and bubble to keep the
+unstable cooler lake suspended.
+Poás’ crater lake Laguna Caliente peculiarly overflowed
+its stable and steep-walled crater lake basin from January
+to April 2005 (despite the dry season), a year before the
+onset of the 2006-ongoing phreatic eruption cycle. This
+sudden rise was probably induced by an upwelling vapor
+front beneath the crater lake, or the injection of a liquid
+(direct or as condensed steam) into the cooler lake.
+Sulfur volcanism Sulfur is a low viscosity liquid be-
+tween ~116° and ~159°C (Oppenheimer 1992; Takano
+et al. 1994). If a fumarolic system is heated to >116°C pre-
+existing sulfur deposits in vugs and vents can be remobi-
+lized, manifested as a sulfur flow at the surface (Naranjo
+1985; Oppenheimer 1992; Harris et al. 2004). This feature
+is a clear sign of heating of a previously colder system, and
+thus often the onset of a state of non-magmatic unrest.
+Recently, sulfur flows were observed at White Island (New
+Zealand, 2013); Poás (Costa Rica, in May 2005, 10 months
+before the onset of the 2006-ongoing phreatic eruption
+cycle) (Figure 3), Turrialba (Costa Rica, the morning of the
+11 January 2012 phreatic eruption, G. González pers.
+comm.),  andat Sulphur Springs, Soufrière (Dominica) in
+1994, four years before an intense seismic swarm (J. Lindsay
+pers. comm.). “Sulfur volcanism” is exhibited as spectacular
+sulfur volcanoes, boiling sulfur ponds, or liquid sulfur pools
+at the bottom of active crater lakes, manifested at the sur-
+face as floating sulfur spherules (e.g.,  Lake Yugama,
+Kusatsu-Shirane volcano, Japan, Takano et al. 1994; Poás,
+Page 4
+Rouwet et al. Journal of Applied Volcanology 2014, 3:17
+http://www.appliedvolc.com/content/3/1/17 
+Page 4 of 17
+Figure 2 Water expulsion from a boiling spring discharging towards the crater lake (top) inside the active crater of El Chichón volcano,
+Mexico. The image in the inset shows a detail of the spring (Picture by Yuri Taran, November 2009).
+Oppenheimer and Stevenson 1989, Oppenheimer 1992;
+Keli Mutu, Pasternack and Varekamp 1994).
+Explosive eruptive unrest
+Phreatomagmatic eruptions A phreatomagmatic eruption
+implies the presence of magma, and thus seemingly a state
+of magmatic unrest. Unfortunately, phreatomagmatic
+eruptions can occur without a clear precursor during a
+phase of non-magmatic unrest, (i.e. no signal of magma
+migration is recognized) as a major trigger mechanism for 
+phreatomagmatic eruptions is decompression. If a stag-
+nant magma body is present near the surface (common in
+the most active hydrothermal systems) it can easily be
+triggered into phreatomagmatic activity.
+There are examples of decompression triggered phreato-
+magmatic eruptions, which occurred during non-magmatic
+hydrothermal unrest. During the period before the 25
+September 2007 phreatomagmatic eruption of Ruapehu
+(New Zealand) the volcano was seismically quiet and the
+crater lake water temperature was low (13°C, Christenson
+Figure 3 Deposit of the May 2005 sulfur flow at Poás volcano (Picture by D.R.).
+Page 5
+Rouwet et al. Journal of Applied Volcanology 2014, 3:17
+http://www.appliedvolc.com/content/3/1/17 
+Page 5 of 17
+et al. 2010; Jolly et al. 2010), i.e. at that point, lacking any
+sign of magmatic unrest (Figure 4).  The volcano experi-
+enced at that time a prolonged period of non-magmatic
+hydrothermal unrest. Volcano-tectonic earthquakes and
+volcanic tremor occurred only 10 minutes and 1 minute,
+respectively, before the eruption (Jolly et al. 2010). Within
+the practicality of volcano monitoring, precursory signals
+for such phreatomagmatic eruptions remain extremely dif-
+ficult to recognize in time. The eruption itself was of short
+duration (~1 minute),  but violent, and injured two
+climbers. The phreatomagmatic eruption partially expelled
+the crater lake, triggering two lahars down Ruapehu’s flanks
+(see section Lahars, volcanic debris flows, floods and
+jökulhlaups) (Figure 4) (Kilgour et al. 2010).
+Phreatic eruptions Several definitions are available for
+phreatic eruptions (e.g., Barberi et al. 1992; Mastin 1991;
+Browne and Lawless 2001; Rouwet and Morrissey 2015,
+and references therein) which are not necessarily mutu-
+ally consistent. Phreatic eruptions are triggered by the
+input of fluids and heat of magmatic origin into a shal-
+low aquifer (sometimes into a lake),  followed by over-
+pressurization of the hydrothermal system, but without
+the eruption of juvenile magmatic material (Figure 5). In
+many cases, phreatic eruptions are ubiquitous precursors
+to magmatic eruptions of both explosive or effusive na-
+ture, or could serve as the decompression mechanism
+prior to phreatomagmatic eruptions. Phreatic eruptions
+often occur during prolonged periods of non-magmatic
+hydrothermal unrest (e.g., Pisciarelli, Campi Flegrei), and
+can occur as a single, major event, or as minor events 
+within a phreatic eruption cycle (Rouwet et al. 2014).
+Given the state of hydrothermal unrest and the high
+compressibility of fluid phases (gas, vapor and water),
+precursory signals are buffered by the hydrothermal sys-
+tem within the time-frame hydrothermal systems are
+often monitored (yearly, monthly or weekly in the best
+case). The input of mass and heat through a magmatic
+fluid pulse into a shallow aquifer, the instigator of a
+phreatic eruption, is often a short-term and too low-
+amplitude event which passes unobserved within the time-
+frame of monitoring set-ups, or discontinuous geophysical
+surveys will not be able to detect a minute to hour-scale
+sudden heat and fluid input. Continuous temperature
+monitoring of hydrothermal systems (e.g., real-time FLIR-
+imaging, T-gauging) could perhaps reveal a short-term
+precursor for phreatic eruptions (Ramírez et al. 2013).
+Secondary mineral precipitation after prolonged alter-
+ation, or the presence of low-permeable elemental sulfur
+can seal hydrothermal systems by reducing permeability
+of country rock increasing the possibility of localized
+pressurization, one of the possible constraints to reach a
+pressure threshold prior to phreatic eruptive activity.
+Monitoring the evolution of alteration mineralogy, micro-
+gravity, hydrology and fluid geochemistry could lead to an
+indication of the most probable locus and timing of a fu-
+ture phreatic eruption.
+Hydrothermal explosions Some volcano craters contain
+subaerial or sublacustrine geyser-like boiling springs.
+Geyser eruptions are boiling-point eruptions, which only
+expel water (Mastin 1995). These non-violent eruptions
+Figure 4 View of the Ruapehu summit area after the September 2007 “surprise” phreatomagmatic eruption. The yellow arrow indicates
+the tephra fall; the open white arrow indicates the proximal deposit of the lahar, that was generated after partial crater lake expulsion due to the
+phreatomagmatic eruption (filled white arrow) (Picture by Karoly Németh).
+Page 6
+Rouwet et al. Journal of Applied Volcanology 2014, 3:17
+http://www.appliedvolc.com/content/3/1/17 
+Page 6 of 17
+Figure 5 Phreatic eruption at Poás volcano breaching the Laguna Caliente crater lake (Picture by A.B. Castro). Phreatic eruptions may
+result in pyroclastic density currents and non-juvenile tephra fall out.
+occur when a buried fluid near boiling conditions is
+depressurized leading to the creation of a bi-phase li-
+quid–vapor mixture, expansion and, finally, explosion
+(White 1967; Kieffer 1984).  If we assume a constant
+water recharge and heating during intereruptive periods,
+what causes the cyclicity of geyser eruptions? A key
+property of the geyser plumbing system is its heteroge-
+neous geometry and/or permeability (Kieffer 1984;
+Ingebritsen and Rojstaczer 1993, 1996). During reservoir
+refill, this leads to a discontinuous rise in water level,
+and thus a step-wise variation in hydrostatic pressure:
+boiling will eventually occur when higher permeable
+zones (e.g., fractures) are filled slowly, while boiling will
+be suppressed when less permeable parts (e.g.,  narrow
+conduits) are quickly filled (Kieffer 1984; Ingebritsen
+and Rojstaczer 1993). Brown et al. (1989) and Dowden
+et al. (1991) concluded that frequent (every 10 min) and
+short (10 sec) geyser-like eruptions offered an efficient
+means to dissipate energy at the 1985–1988 Laguna
+Caliente crater lake (Poás volcano, Costa Rica). Overlying
+liquid water will be disrupted when a submerged vent or
+fumarole filled with vapor under pressure is subjected to a
+pressure release paired with the water ejected upward
+(Dowden et al. 1991).  It is noteworthy that Laguna
+Caliente passed a phase of lake level drop, due to
+enhanced lake evaporation that steadily decreased the
+hydrostatic pressure, teasing the underlying system with
+near-boiling conditions, and thus potential geysering. Dur-
+ing complete dry-out of the lake in 1989, Poás exhibited
+nearly continuous geysering (Dowden et al. 1991). Since
+2006, Laguna Caliente exhibits a similar behavior (Rymer
+et al. 2009):  a phreatic eruption cycle and contempo-
+raneous lake level decrease. It sounds reasonable that the
+ongoing periodical fluid injections in more peaceful 
+manner into Laguna Caliente are controlled in some way
+by a geyser-like mechanism. Consequently, more powerful
+eruptions at a crater lake are rather phreatic, which can
+eventually destroy geyser plumbing systems.
+Limnic Nyos-type gas release Deep lakes in maars, cra-
+ters and calderas can become hazardous if they are fed
+by gas-rich (mainly CO2
+) regional meteoric groundwater
+(Tassi and Rouwet 2014).  Due to the hydrostatic pres-
+sure of the lake water column, the entering gas remains
+dissolved in the lake bottom waters (hypolimnion). The
+lethal gas (CO2 
+is an asfixiating gas, denser than air) can
+be released from the lake when (1) the lake will periodic-
+ally overturn during the cold season, when colder and
+thus denser surface waters sink towards the lake bottom,
+(2) the dissolved gas pressure at depth exceeds the
+hydrostatic pressure (spontaneous release by supersatur-
+ation),  or (3) an external trigger disturbs the chemical
+and thermal lake stratification (e.g., an earthquake, rock
+fall into the lake, strong winds, internal waves, the sud-
+den input of cold rain water during rainstorms, etc.) (see
+Kusakabe 2015, for a review). Explosive gas release oc-
+curred in 1984 and 1986 at Lake Monoun and Lake
+Nyos (Cameroon),  respectively. The Lake Nyos event
+killed >1,800 people by CO2
+-asfixiation (Kling et al. 1987).
+At the lake surface, “Nyos-type” lakes appear peaceful,
+and the only way to recognize a potential CO2
+-accumu-
+lation in bottom waters is by lowering a CTD-probe
+(conductivity-temperature-depth), dissolved gas-pressure
+probes, or by sampling the lake water at depth, followed
+by chemical analyses (Tassi and Rouwet 2014).  Once a
+CO2
+-accumulation is recognized and the CO2 
+influx rate
+is known, it can be estimated when such lakes reach
+near-critical pressures of dissolved gases at depth
+Page 7
+Rouwet et al. Journal of Applied Volcanology 2014, 3:17
+http://www.appliedvolc.com/content/3/1/17 
+Page 7 of 17
+(Kusakabe 2015). The only way to mitigate a limnic gas
+burst is by artificially degassing the lake bottom waters,
+lowering pipes into the deep water layers, inducing de-
+gassing through the gas self-lift principle. Such pipes are
+efficiently degassing Lake Nyos since 2001, leading to
+safe gas contents in the near future (Kusakabe 2015).
+Many of the deep volcanic lakes world-wide remain un-
+studied, and it is thus unknown if these lakes are poten-
+tially hazardous or not.
+Hydrothermal non-eruptive unrest
+Gas emission
+An increase in volcanic degassing can occur by (1) gas ex-
+solution upon decompression, when a deeper magma rises
+towards the surface (Aiuppa et al. 2002, 2004),  (2) dy-
+namic magma convection inside the magmatic plumbing
+system, driven by the density difference between lower-
+density non-degassed and higher-density degassed magma
+(Kazahaya et al. 1994), or (3) crystallization of a stagnant,
+cooling magma batch and gas exsolution as the gas frac-
+tion in the magma reservoir increases with respect to the
+melt towards gas supersaturation (Oppenheimer 2011).
+The first process will generally be accompanied by seismic
+activity, deformation, variations in gas composition or
+even magmatic eruptions, and indicate a state of magmatic
+unrest, and is thus outside the scope of our review. The
+second process can be responsible for long-term degassing
+of large-volume magma bodies. Depending on the plumb-
+ing systems and magma depth, magma convection can be
+accompanied by signs of magmatic unrest (and eventually
+eruptions, e.g., Stromboli), or not (e.g., prolonged high-T
+fumarolic degassing). The third process is more complex
+in terms of time, space and its effect on surface mani-
+festations. Magma crystallization can occur without any
+physical-chemical indicators measured at the surface, and
+the crystallization history will only be revealed when the
+magma is finally erupted. This type of degassing and re-
+lated heat transfer, a necessary constraint to sustain a
+hydrothermal system, can explain prolonged periods of
+non-magmatic unrest, as there is no evidence of migration
+from a magma reservoir. Depending on the crystallization
+rate, depth and size of the magma batch, the period of
+“gas unrest” can cover entire inter-eruptive periods of
+volcanoes. Such unrest is often detected at passively de-
+gassing, closed-conduit volcanoes, often with long-lived
+active hydrothermal systems.
+A few volcanoes are characterized by long-term, high-
+temperature (700-900°C) fumarolic degassing without fur-
+ther evidence of magma migration (e.g.,  Momotombo,
+Nicaragua, Menyailov et al. 1986; Satsuma-Iwojima, Japan,
+Shinohara et al. 1993, 2002; Kudryavy, Kuril Islands, Taran
+et al. 1995). Despite the fact that magmatic temperatures
+of the gases suggest the presence of a shallow magma
+body (hundreds of meters or less),  no recent eruptions 
+have occurred. The last major eruption at Satsuma-Iwojima
+occurred ~500 years ago, and high-T fumarolic degassing is
+reported for the past ~800 years (Shinohara et al. 2002). At
+Momotombo, the last magmatic eruption occurred in 1905
+(lava flow, Menyailov et al. 1986). Slow crystallization and/
+or dynamic magma convection of a large stagnant magma
+body can explain long-term degassing. A major question
+remains: why do some high-temperature degassing volca-
+noes pass through decade-long phases of non-magmatic
+unrest, while other high-temperature degassing volcanoes
+frequently evolve into magmatic unrest, or eventually cul-
+minate into eruptive activity? The answer is probably found
+in the magma volume and magma recharge rate: large
+magma bodies with slow or absent magma refill will tend
+to degas without evolving towards eruptions.
+The release of acidic gas species (SO2
+, HCl, HF) dur-
+ing prolonged degassing in a phase of non-magmatic un-
+rest can reduce the quality of human activities near
+volcanoes (e.g., agriculture, tourism) (van Manen 2014).
+The presence of SO2 
+and HCl, clearly magmatic gases,
+does not necessarily imply the migration of a magma, as
+exsolution of both species can occur through the above
+processes (2) and (3).  For open-conduit volcanoes,
+massive plume degassing can become very harmful (e.g.,
+Masaya volcano, Nicaragua, Williams-Jones et al. 2003;
+Martin et al. 2010; Merapi, Java-Indonesia, Zimmer and
+Erzinger 2003), although in these cases magmatic unrest
+is ubiquitous. Besides the direct hazardous impact of
+acidic gas plumes, the absorption of acidic gases in
+humid air can cause acid rain and the formation of
+“dead zones” downwind volcano flanks (e.g., at Poás and
+Turrialba volcanoes, Costa Rica) (Rymer et al. 2009; van
+Manen 2014).
+Acid contamination
+The prolonged infiltration of acidic fluids into a volcanic
+edifice dissolves the host rock and can lead to (1) mech-
+anical instability of volcano flanks, and thus a higher
+probability of flank failure (section Ground deformation),
+or (2) the dispersion of contaminants (e.g., heavy metals,
+fluorine, As, Hg, extreme acid waters) into the hydrologic
+network and regional aquifers around a volcano (Sriwana
+et al. 1998; Delmelle and Bernard 2000; Varekamp et al.
+2001; van Rotterdam-Los et al. 2008; van Hinsberg et al.
+2010).  When such fluids are used for direct (drink
+water) or indirect (irrigation) human consumption, en-
+tering the food cycle, this long-term volcano-related
+process poses a health risk for the surrounding people
+(e.g., fluorisis, Löhr et al. 2005).
+The most striking example of this situation is seepage
+from the hydrothermal system beneath the crater lake
+of Kawah Ijen volcano (Java, Indonesia),  feeding the
+Banyupahit stream (“bitter river”,  Delmelle and Bernard
+2000; van Hinsberg et al. 2010). Since the last magmatic
+Page 8
+Rouwet et al. Journal of Applied Volcanology 2014, 3:17
+http://www.appliedvolc.com/content/3/1/17 
+Page 8 of 17
+eruption in 1817, Kawah Ijen has mainly been in a state of
+non-magmatic unrest, with the occurrence of only phreatic
+or geyser-like eruptions (Newhall and Dzurisin 1988).
+Nevertheless, the volcano hosts the largest reservoir of
+acidic surface water on earth, continuously fed by the input
+of magmatic gases and volatilized metals (Delmelle and
+Bernard 1994; Delmelle et al. 2000). Other examples, al-
+though with less hazardous impacts, are Río Agrio (“bitter
+river”) at Copahue volcano (Argentina; Varekamp et al.
+2001), Río Agrio at Poás volcano (Costa Rica; Rowe et al.
+1995), and Ciwidey river at Patuha volcano (Java, Indonesia;
+Sriwana et al. 1998).
+Ground deformation
+Flank failure and sector collapse Acid fluids in volcanic-
+hydrothermal systems dissolve volcanic host rocks.
+Prolonged chemical leaching can finally result in physical
+rock removal, when such fluids exit at the volcano flank
+through acid saline thermal springs. Within the lifetime of
+hydrothermal systems, this rock mass removal can modify
+the morphology and weaken the mechanical stability of
+the volcanic edifice, increasing the probability of ava-
+lanches and sector collapses, even during periods of mag-
+matic quiescence (Voight et al. 1983; López and Williams
+1993; Kerle and van Wijck de Vries 2001; Reid 2004; Jolly
+et al. 2014; Fournier and Jolly 2014).  Intense fumarolic
+activity at volcanic domes, not recently fed by a rising
+magma, can weaken the mechanical stability of the dome,
+eventually leading to collapse. Resulting pressure drop
+after unloading of the volcano flank or dome can lead to
+increased degassing or can trigger phreatic eruptions.
+The best physical evidence of acidic fluid dispersion and
+rock leaching within a volcanic edifice is given by seep-
+ing crater lakes (Rowe et al. 1995; Kempter and Rowe
+2000; Varekamp et al. 2001; Taran et al. 2008; Delmelle
+et al. 2015).
+Acid dispersion is an indication of eventual collapse-
+prone sectors of a volcanic edifice, but the presence of a
+less extreme hydrothermal system can already be sufficient
+to cause massive edifice collapse (López and Williams
+1993; Reid 2004). Fluid-pressure evolution within a het-
+erogeneous volcanic edifice is extremely complex, and
+depends on hydraulic (permeability and porosity) and
+thermal properties of the rock (Reid 2004; Fournier and
+Chardot 2012). To anticipate hazardous collapses inten-
+sive monitoring of pore-fluid pressure in the hydrothermal
+system and/or detailed deformation surveys (e.g., INSAR)
+of the edifice are key. 
+“supervolcano” Yellowstone, USA, Dzurisin and Yamashita
+1987; Werner and Brantley 2003; Lowenstern and Hurwitz
+2008; Bergfeld et al. 2012; Chiodini et al. 2012; Lowenstern
+et al. 2014; Campi Flegrei, Italy, Amoruso et al. 2014). The
+discussion as to whether the unrest at Campi Flegrei
+since the 1980’s is magmatic (Bianchi et al. 1987; Bonafede
+et al. 1986; Gottsmann et al. 2006),  or non-magmatic
+(Casertano et al. 1976; Bonafede 1991; De Natale et al.
+1991; Gaeta et al. 1998) is still ongoing. Recently, the ten-
+dency to explain the uplift by the expansion of the under-
+lying hydrothermal system has become more plausible as
+it is supported by decade-long monitoring time series
+(geochemistry, geodesy, geophysical surveys) (Chiodini
+et al. 2001, 2003; Todesco et al. 2003), even though the de-
+formation pattern may be explained by alternative models
+(e.g.,  Amoruso et al. 2014).  The Campi Flegrei unrest,
+causing major concern also because the caldera is highly
+populated, is an example of prolonged hydrothermal non-
+eruptive unrest manifested as ground deformation paired
+with diffuse degassing.
+The most convincing argument to explain the uplift
+phases at Campi Flegrei by hydrothermal circulation is an
+observed time-lapse of ~100 days of increased diffuse de-
+gassing following the uplift pulses (Chiodini et al. 2003).
+This implies that both processes have a common cause,
+which probably finds its origin in the input of a deep fluid,
+which may or may not be released by the underlying
+magma. The time-lapse between the “fast” deformation
+and “slow” degassing is due to the difference between the
+immediate elastic expansion of the highly altered rocks (De
+Natale et al. 1991), and the slower fluid rise (Chiodini et al.
+2003). An additional argument in favour of the hydrother-
+mal system being the cause of the observed bradyseismicity
+(ground deformation) is the thermal energy release by
+steam injection into the shallow system, an order of magni-
+tude higher than the energy release by seismicity. Within
+the present view, as long as the Campi Flegrei caldera only
+deforms and degasses, without the occurrence of volcano-
+related seismicity (D’Auria et al. 2011), the current unrest
+is better defined as non-magmatic hydrothermal unrest.
+At Long Valley, following large seismic events and wide-
+spread passive CO2 
+degassing there was debate as to
+whether the inflation was magmatic or hydrothermal in
+origin (Battaglia et al. 2003; Battaglia and Vasco 2006). A
+full range of methods and monitoring techniques (geo-
+physics, seismology, geochemistry) is needed to better
+distinguish whether the cause of deformation is magmatic
+or non-magmatic.
+Ground deformation due to hydrothermal activity
+Long-term ground deformation often occurs at calderas
+without the occurrence of an eruption, or clear signals of
+magma migration (Rabaul, Papua New Guinea; Long Val-
+ley Caldera, Evans et al. 2002; Lewicki et al. 2007b; and 
+Non-magmatic tectonic unrest
+A volcano enters in a state of non-magmatic tectonic un-
+rest when a seismic event (e.g. tectonic earthquake or seis-
+mic swarm) in the absence of any recognition of magma
+migration, causes concern. Despite the probable absence of
+Page 9
+Rouwet et al. Journal of Applied Volcanology 2014, 3:17
+http://www.appliedvolc.com/content/3/1/17 
+Page 9 of 17
+indicators, other than the tectonic event itself, volcanoes in
+a delicate equilibrium (e.g.,  active hydrothermal systems)
+could enter a state of tectonic unrest because of the seismic
+event. Considering an already close-to-critical pressure
+state, the physical equilibrium beneath mineral caps or
+above chilling margins of magma bodies can be easily dis-
+turbed by major tectonic earthquakes, which can induce
+volcanic unrest (magmatic or not) or eventually trigger
+phreatic or phreatomagmatic eruptions (Brodsky et al.
+1998; Ichihara and Brodsky 2006; Manga and Brodsky
+2006).
+Within the scope of the present study, the introduc-
+tion of seismic events as a possible “eruption or unrest
+trigger” should be supported by (1) the probability of co-
+incidence between an earthquake and an eruption, or an
+earthquake and an evolution from volcanic quiescence
+to unrest, and (2) the state of unrest of the volcano be-
+fore the earthquake. Correlations between large tectonic
+earthquakes and major volcanic eruptions up to dis-
+tances of 500–1000 km are found, with time lapses be-
+tween the earthquake and eruption even up to 30–35
+years (Marzocchi 2002; Marzocchi et al. 2002, 2004b). It
+is not excluded that lower magnitude earthquakes (espe-
+cially if the epicentre is near the volcano),  or major
+earthquakes at larger distances could possibly affect the
+state of unrest of a volcano (e.g.,  Walter and Amelung
+2007). Detecting a change in the state of unrest caused
+by an earthquake of any kind is a lot more subtle than it
+is for extensively reported volcanic eruptions (e.g.,  in-
+creased heat flux, Delle Donne et al. 2010).  A major
+problem in calculating the probability that the state of
+unrest is changed by the earthquake is not only to know
+how many times a volcano changed its state of unrest
+due to the earthquake, but also to know how many
+times the many other volcanoes did not change their
+state of unrest, despite the earthquake. For this reason,
+the pre-tectonic unrest state of the volcano should be
+known for as many volcanoes as possible, as seismic
+events are possible at any moment and place in a sub-
+duction tectonic setting.
+Coinciding seismic and eruptive activity has been re-
+ported for hydrothermal systems and volcanoes in unrest
+(Healy et al. 1965; Hurst and McGinty 1999; Christenson
+2000; Christenson et al. 2007, 2010; Ohba et al. 2008; Watt
+et al. 2009). The time lapse between the tectonic earth-
+quake and the eventual variation in the behaviour of the
+volcano causing concern, can be short (hours to days) or
+long (weeks to months, to even several years, Marzocchi
+2002; Eggert and Walter 2009). A short time lapse between
+tectonic earthquakes and volcanic events is observed for
+the November 1964 and 2006 Raoul crater lake breaching
+eruptions (7 days after, Healy et al. 1965; Christenson et al.
+2007), for post-earthquake deformation and increased seis-
+micity at Long Valley Caldera (within 5 days after, Linde 
+et al. 1994), for increased heat flow from volcanoes world-
+wide after major tectonic earthquakes (>Mw 7.9) (3–5 days
+after, Delle Donne et al. 2010), and for a phreatic eruption
+at Laguna Caliente crater lake, Poás volcano (Costa Rica),
+four days after a Mw 6.2 earthquake at 6 km from the vol-
+cano in January 2009.
+Not surprisingly, the dynamic stress created by the seis-
+mic surface wave is a major cause in disrupting the deli-
+cate equilibrium in magmatic-hydrothermal systems (Hill
+2008; Delle Donne et al. 2010) switching from hydrother-
+mal to tectonic unrest.
+Event tree for non-magmatic unrest
+Figure 6 proposes the structure of the non-magmatic un-
+rest branch of the event tree that, for now, serves as a clas-
+sification system for non-magmatic unrest. The branch
+first discriminates between a hydrothermal and tectonic
+state of unrest.
+Many volcanoes experience a hydrothermal unrest phase
+that lasts for years, decades or even centuries, which can
+eventually evolve into eruptive or non-eruptive activity
+and related hazardous outcomes. This long-term constant
+behavior often makes it difficult to recognize how hydro-
+thermal unrest can lead to related hazards in the short-
+term. Hydrothermal unrest can lead to non-magmatic
+eruptions, which can be explosive or effusive. Where the
+driving agent in magmatic eruptive unrest is magma, water
+(liquid or vapor, and occasionally liquid sulfur or gas) is
+the driving fluid and main eruptive product during non-
+magmatic eruptive unrest. This water is part of the vol-
+canic edifice or its subsurface parts (i.e.,  hydrothermal
+aquifers, springs, rivers or crater lakes), and its expulsion
+can be effusive or explosive (phreatic, “surprise” phrea-
+tomagmatic, geyser-like water explosions and Nyos-type
+limnic gas burst). On the other hand, non-eruptive hydro-
+thermal unrest can also lead to volcanic hazards after pro-
+longed gas emission, acidic fluid infiltration into aquifers,
+soils and the hydrologic network, or deformation induced
+by a rising fluid front (i.e., bradyseismicity).
+A state of non-magmatic unrest can be also charac-
+terized by the occurrence of earthquakes, unrelated to
+magma migration. Non-magmatic tectonic unrest can es-
+calate into non-magma related seismic activity, or earth-
+quake triggered tsunamis at subaqueous volcano flanks.
+In the next sections, we follow that structure of the pro-
+posed event tree (Figure 6) to enumerate all potential haz-
+ards that such phenomena may cause in volcanic areas. In
+doing so we try to organize the potential hazards related
+to non-magmatic phenomena in order to provide the basis
+for a probabilistic quantification of the related hazards.
+Major hazards related to non-magmatic unrest
+Within the classification purpose of this review, the hazard-
+ous event can (1) only result from the previous causative
+Page 10
+Rouwet et al. Journal of Applied Volcanology 2014, 3:17
+http://www.appliedvolc.com/content/3/1/17 
+Page 10 of 17
+Figure 6 Proposed event tree for non-magmatic unrest. An event tree for magmatic unrest (BET_EF; in grey) is dealt with in previous studies
+(Marzocchi et al. 2004a, 2008; Sandri et al. 2009, 2012).
+conditions (followed track) imposed by the event tree struc-
+ture, and (2) not occur contemporaneously with another
+hazardous event, resulting from a different track. As the
+aim is to include all possible tracks that possibly lead to a
+hazard, all branches of the event tree have to exist and be
+possible at all time. A key point is that we do not know
+which track will be followed by the volcano and each new
+signal of the volcano challenges the user of the event tree
+to update and possibly even change track towards a differ-
+ent hazard, when describing non-magmatic unrest.
+From the event tree structure it is clear that mass re-
+moval events (e.g. lahars, flood, tsunamis, ground deform-
+ation, jökulhlaups and flank collapses) can have several
+causes, depending on the state of unrest the volcano
+passes through. This principle gets even more complicated
+if external water (e.g., torrential rain ) disturbs the state of
+unrest of a volcano. Besides having implications for future
+probabilistic hazard assessment, the potential for external
+water to influence the system highlights the need to a lar-
+ger variety of monitoring methods, both internal (e.g., to
+better track hydrothermal activity) and external to the vol-
+cano (e.g., to track the weather). We now scan the event
+tree from right to left (Figure 6), to recognize indicators of
+non-magmatic unrest as we should aspire to track in mon-
+itoring networks.
+Pyroclastic density currents and tephra fall out
+Phreatomagmatic and phreatic eruptions may result in
+pyroclastic density currents (PDC) and tephra fall out. The
+1963 Surtsey eruption off the coast of Iceland is the first
+well-documented phreatomagmatic eruption (Thorarinsson
+1967) to show eruption dynamics. Phreatomagmatic and
+phreatic eruptions are short-lived explosions accompanied
+by an upward rush of black tephra (Kokelaar and Durant
+1983) jets spread into cockscomb or cypress tree shapes
+(Kokelaar 1983) (Figure 5). Water-dominated hydrothermal
+systems (e.g.,  crater lakes, submarine settings) favor the 
+generation of Surtseyan eruptions (Rouwet and Morrissey
+2014a,b).  During the phreatomagmatic eruptions at Lake
+Voui on Ambae Island in 2005, a tuff cone was constructed
+from material deposited from subaerial tephra jets leading
+into subaqueous PDCs after column collapse (Németh
+et al. 2006). Base surges are also common features that
+accompany tephra jets (Belousov and Belousova 2001;
+Németh et al. 2006). Phreatic eruptions appear extremely
+similar in morphology and dynamics (explosivity, Figure 5)
+but lack the injection of magma. The main distinction is
+the absence of juvenile material in the erupted products.
+Lahars, volcanic debris flows, floods and jökulhlaups
+A lahar consists of high-concentration sediment-charged
+flows that occur at volcanoes (Scott 1988; Manville et al.
+2009; Pistolesi et al. 2014).  Lahars are generated when
+three requisites are met: (1) a trigger mechanism that
+provides a sudden availability of sufficient water, (2) the
+presence of abundant loose volcanic debris along the
+flow path, and (3) steep slopes to increase gravitational
+flow (Vallance 2000; Pistolesi et al. 2014). Lahars can be
+primary or secondary. The former are instigated by
+eruptive activity (e.g.,  Nevado del Ruíz 1985, Pierson
+et al. 1990), and thus within a stage of magmatic unrest.
+The latter result from post-eruptive mobilization of un-
+consolidated volcanic debris (e.g., de Bélizal et al. 2013),
+sometimes even originating from a neighboring erupting
+volcano. The indefinite time between the eruption and
+the secondary lahar implies that the volcano can have
+re-entered into a state of non-magmatic unrest or even
+non-unrest, or that the occurrence of the lahar itself is
+independent of the actual state of unrest of the volcano.
+Any process that suddenly liberates large amounts of
+water other than a magmatic eruption can trigger a lahar
+within a state of non-magmatic unrest. Rainfall-triggered
+lahars are arguably the most hazardous secondary events
+at volcanoes (e.g., Volcán de Fuego de Colima, Mexico,
+Page 11
+Rouwet et al. Journal of Applied Volcanology 2014, 3:17
+http://www.appliedvolc.com/content/3/1/17 
+Page 11 of 17
+Capra et al. 2010, post-1991 Pinatubo eruption, Philippines,
+Pierson et al. 1992; Rodolfo et al. 1996; post-1965 Irazú
+eruptions, Costa Rica, Pavanelli 2006). Another frequent
+hazardous scenario to generate lahars are sudden expul-
+sions of crater lake water after phreatic eruptions or crater
+failure (Mastin and Witter 2000; e.g.,  1919, 1966, 1990
+Kelud eruptions, Indonesia, Neumann van Padang 1960,
+Zen and Hadikusumo 1965; Thouret et al. 1998; 1965 Taal
+eruption, Philippines, Moore et al. 1966; Ruapehu 2007,
+Kilgour et al. 2010).
+Increased heat transfer from a hydrothermal system
+into a glaciated volcanic edifice can lead to sudden ice
+melt. In general, any snow-capped volcano is lahar-
+prone even during stages of non-magmatic unrest, when
+sudden snow melt is induced (e.g.,  Cotopaxi, Ecuador,
+Hall et al. 2004; Mothes et al. 2004, Pistolesi et al. 2013,
+2014). For snow-covered summits of crater lake bearing 
+volcanoes entrainment of ice-slurry along the lahar flow
+path can also provide an additional water source (e.g.,
+1953, 1995 and 2007 Ruapehu eruptions, New Zealand;
+Nairn et al. 1979; Blong 1984; Cronin et al. 1997; Kilgour
+et al. 2010).  A less hazardous scenario may include a
+newborn crater lake which fills a pre-existing previously
+snow-covered summit crater, with potential to eventually
+breach or overflow if melt water input continues (e.g.,
+Chiginagak-2005, Alaska, Schaefer et al. 2008) (Figure 7).
+A more hazardous case is a subglacial lake with sudden
+and catastrophic melt water release which results in a
+jökulhlaup. Jökulhlaup is an Icelandic term and refers to a
+subglacial outburst flood (Björnsson 2002). The remaining
+ice mass can be entrained to add bulk mass to the flood,
+besides the entrainment of rock mass. Jökulhlaups can re-
+sult from seasonal ice melting, heat input (non-magmatic
+unrest) or subglacial volcanic eruptions (magmatic unrest).
+Figure 7 Picture of the natural “snow dam” blocking the newly formed Chiginagak crater lake, Alaska. Lake water drained at the base of
+the snow mass to generate a lahar/jökulhlaup downstream in early 2005 (Schaefer et al. 2008) (Picture by Game McGimsey, Alaska Volcano
+Observatory, US Geological Survey).
+Page 12
+Rouwet et al. Journal of Applied Volcanology 2014, 3:17
+http://www.appliedvolc.com/content/3/1/17 
+Page 12 of 17
+Jökulhlaups can probably be forecast by tracking volume
+decrease in ice mass, or increased temperatures.
+Tsunamis and seiches
+A tsunami occurs when a large body of water is suddenly
+displaced from its equilibrium position, generating long
+waves which propagate with a low energy loss from deep
+to shallow waters, where they rapidly decrease in velocity
+and reach high amplitudes in coastal areas. Volcano-
+related tsunamis can be associated with a variety of vol-
+canic activities, such as submarine explosions in shallow
+waters, dense pyroclastic flows entering in the water and
+submarine mass movements. Within the context of the
+present study, these volcanic activities are often associated
+with magmatic unrest. Non-magmatic unrest phenomena
+are often slow and continuous, suggesting that non-
+magmatic unrest manifestations (apart from phreatomag-
+matic and phreatic eruptions) are not advantageous for
+tsunami triggering, however, tsunamis can also be gener-
+ated as a secondary effect of non-magmatic outcomes (e.g.,
+mass failures and PDC). In general, tsunamis due to vol-
+canic activity remain a poorly investigated field, with only a
+few recent studies (e.g., Maeno and Imamura 2007, 2011;
+Paris et al. 2014).
+Seiches are standing waves mostly due to meteoro-
+logical effects (e.g., atmospheric pressure variations), but
+also due to earthquakes or tsunamis. They may occur in
+closed or partially closed basins, as such, lake seiches are
+most common. Seiches form as waves move back and
+forth hitting lake basin walls (Ichinose et al. 2000).
+When a phreatic eruption disrupts a crater lake basin,
+waves concentrically move outwards from the centre of
+initial water mass displacement (Figure 5).  The wave
+height of the seiches at the lake shore depends on the
+violence of the trigger, lake water volume, and basin
+morphology. Similarly, seiches have also been observed
+also in open sea bays, harbors and gulfs, where natural
+resonant oscillations are permitted by the basin geom-
+etry. Tsunami and seiches related to volcanic activity are
+very rare events, nonetheless their impact could be ex-
+tremely high, depending on specific conditions of the
+event (e.g., dominant wavelength, period).
+Conclusions
+In this review paper we have attempted to categorize
+non-magmatic unrest, and have sought to describe indi-
+cators how to recognize non-magmatic unrest. With the
+aim to classify non-magmatic unrest features, we pre-
+sented an event tree structure with a progressive level of
+detail along various tracks towards hazardous outcomes.
+This implies that, beyond the current classification, the
+non-magmatic unrest branch in the event tree could be-
+come the base for future probabilistic hazard assessment
+at any type of volcano, regardless of its state of unrest. 
+The role of gas and water (liquid or vapor) instead of
+magma as the driving agent for unrest is stressed. Many
+volcanoes experience a prolonged stage of hydrothermal
+unrest, which can alter the hydraulic and rock mechan-
+ical properties leading to destabilization of a volcanic
+edifice. Recognizing an increase in vapor pressure in
+hydrothermal systems may provide warning of phreatic
+eruptions. A sudden release of water from an aquifer or
+lake, or intense rainfall, can trigger lahars when these
+mobilize poorly consolidated volcanic deposits or altered
+sections of a volcano.
+Hydrothermal unrest is the most obvious expression of
+non-magmatic unrest, which could eventually lead to haz-
+ardous outcomes. Tracking temporal variations in fluid
+migration, hydraulic pressure regimes, as well as variations
+in temperature and chemical compositions of fluids (gas
+and water) could help to forecast hazardous outcomes.
+This means that traditional monitoring schemes (seismic-
+geodetic-geochemical) should be expanded to include
+other monitoring methods that might reveal precursory
+signals of non-magmatic volcanic hazards.
+Moreover, we do not know if many of the ~1300
+poorly studied Holocene active volcanoes are in a state
+of non-magmatic unrest, and thus, as stressed by this
+study, could be potentially hazardous. Knowing whether
+a volcano is dormant, in a state of quiescence, or in a
+state of non-magmatic unrest is a first requisite for haz-
+ard forecasting. This basic principle could guide future
+monitoring strategies for those volcanoes that are poten-
+tially more hazardous than currently thought. We invite
+the scientific community to define and track the back-
+ground behavior of many poorly studied, but potentially
+hazardous volcanoes in order to recognize, in a timely
+manner, a state that raises concern.
+Competing interests
+The authors declare that they have no competing interests.
+Authors’ contributions
+DR guided the review process of the research, and is the main author of
+the manuscript. LS participated in the scientific discussions and drafted the
+manuscript. WM participated in the scientific discussions and drafted the
+manuscript. JG participated in the scientific discussions and drafted
+the manuscript. JS participated in the scientific discussions and drafted
+the manuscript. RT participated in the scientific discussions and drafted the
+manuscript. PP participated in the scientific discussions. All authors read and
+approved the final manuscript.
+Acknowledgments
+Chiara Montagna, Pablo Tierz, Raúl Mora-Amador, and Anita Grezio are
+thanked for fruitful discussions. This research was supported by funds from
+the EC Framework Program 7 under grant agreements #282759: “VUELCO”
+and #308665: ‘MEDSUV”, and the Royal Society. We are grateful to Karoly
+Németh, Yuri Taran, Ana Belén Castro and AVO-USGS for providing pictures
+of the figures. Michael Manga and Nicolas Fournier are kindly acknowledged
+for their open-minded discussion during the review process. Jan Lindsay is
+thanked for swift editorial handling.
+Page 13
+Rouwet et al. Journal of Applied Volcanology 2014, 3:17
+http://www.appliedvolc.com/content/3/1/17 
+Page 13 of 17
+Author details
+1Istituto Nazionale di Geofisica e Vulcanologia, Sezione di Bologna, Bologna,
+Italy. 2Istituto Nazionale di Geofisica e Vulcanologia, Sezione di Roma 1,
+Rome, Italy. 3School of Earth Sciences, University of Bristol, Bristol, UK.
+4Istituto Nazionale di Geofisica e Vulcanologia, Sezione di Pisa, Pisa, Italy.
+Received: 29 May 2014 Accepted: 20 November 2014
+References
+Aiuppa A, Federico C, Paonita A, Pecoraino G, Valenza M (2002) S, Cl and F
+degassing as an indicator of volcanic dynamics: The 2001 eruption of Mount
+Etna. Geophys Res Lett 29(11): doi:10.1029/2002GL015032
+Aiuppa A, Federico C, Giudice G, Gurrieri S, Paonita A, Valenza M (2004) Plume
+chemistry provides insights into mechanisms of sulfur and halogen
+degassing in basaltic volcanoes. Earth Planet Sci Lett 222:469–483
+Amoruso A, Crescentini L, Sabbetta I (2014) Paired deformation sources of the
+Campi Flegrei caldera (Italy) required by recent (1980–2010) deformation
+history. J Geophys Res 119:858–879, doi:10.1002/2013JB010392
+Aspinall WP, Woo G, Voight B, Baxter PJ (2003) Evidence-based volcanology:
+application to eruption crises. J Volcanol Geotherm Res 128:273–285
+Barberi F, Corrado A, Innocenti F, Luongo G (1984) Phlegrean Fields 1982–1984:
+Brief chronicle of a volcano emergency in a densely populated area. Bull
+Volcanol 47:175–185
+Barberi F, Bertagnini A, Landi P, Principe C (1992) A review on phreatic eruptions
+and their precursors. J Volcanol Geotherm Res 52:231–246
+Battaglia M, Vasco DW (2006) The search for magma reservoirs in Long Valley
+Caldera: Single versus distributed sources. Geol Soc Spec Publ 269:173–180
+Battaglia M, Segall P, Roberts C (2003) The mechanics of unrest at Long Valley
+caldera, California 2. Constraining the nature of the source using geodetic
+and micro-gravity data. J Volcanol Geotherm Res 127(3–4):219245
+Belousov A, Belousova M (2001) Eruptive process, effects and deposits of the
+1996 and the ancient basaltic phreatomagmatic eruptions in Karymskoye
+lake, Kamchatka, Russia. In: White JDL, Riggs NR (eds) Volcaniclastic
+sedimentation in lacustrine settings. Blackwell Sciences, Oxford UK, pp 35–60
+Bergfeld D, Evans WC, Howle JF, Farrar CD (2006) Carbon dioxide emissions from
+vegetation-kill zones around the resurgent dome of Long Valley caldera,
+eastern California, USA. J Volcanol Geotherm Res 152:140–156
+Bergfeld D, Evans WC, Lowenstern JB, Hurwitz S (2012) Carbon dioxide and
+hydrogen sulfide degassing an cryptic thermal input to Brimstone Basin,
+Yellowstone National Park, Wyoming. Chem Geol 330–331:233–243, doi.org/
+10.1016/j.chemgeo.2012.09.001
+Bianchi R, Corradini A, Federico C, Giberti G, Lanciano P, Pozzi JP, Sartoris G,
+Scandone R (1987) Modelling of surface ground deformation in volcanic
+areas: The 1970–1972 and 1982–1984 crises of Campi Flegrei, Italy. J Geophys
+Res 92(B13):14139–14150
+Björnsson H (2002) Subglacial lakes and jökulhlaups in Iceland. Global Planet
+Change 35:255–271
+Blong RJ (1984) Volcanic Hazards. Academic, Sydney, pp 42–47, 110-114,221-227
+Bonafede M (1991) Hot fluid migration, an efficient source of ground
+deformation, application to the 1982–1985 crisis at Campi Flegrei-Italy. J
+Volcanol Geotherm Res 48:187–198
+Bonafede M, Dragoni M, Quareni F (1986) Displacement and stress field
+produced by a centre of dilatation and by a pressure source in a visco-elastic
+half-space: Application to the study of ground deformation and seismic
+activity at Campi Flegrei, Italy. Geophys J R Astron Soc 87:455–485
+Brodsky EE, Sturtevant B, Kanamori H (1998) Earthquakes, volcanoes and rectified
+diffusion. J Geophys Res 103(B10):23827–23838
+Brown G, Rymer H, Dowden J, Kapadia P, Stevenson D, Barquero J, Morales LD
+(1989) Energy budget analysis for Poás Crater lake: implications for predicting
+volcanic activity. Nature 339:370–373
+Browne PRL, Lawless JV (2001) Characteristics of hydrothermal eruptions, with
+examples from New Zealand and elsewhere. Earth Sci Rev 52:299–331
+Capra L, Borselli L, Varley N, Gavilanes-Ruíz JC, Norini G, Sarocchi D, Caballero L,
+Cortés A (2010) Rainfall-triggered lahars at Volcán de Colima, Mexico: Surface
+hydro-repellency as initiation process. J Volcanol Geotherm Res 189:105–117,
+doi:10.1016/j.volgeores.2009010.014
+Cardellini C, Chiodini G, Frondini F (2003) Application of stochastic simulation to
+CO2 
+flux from soil: mapping and quantification of gas release. J Geophys Res
+108(B9):2425–2437 
+Casertano L, Olivieri del Castello L, Quagliariello MT (1976) Hydrodynamics and
+geodynamics in the Phlegrean Fields area of Italy. Nature 264:161–164
+Chiodini G, Frondini F, Cardellini C, Granieri D, Marini L, Ventura G (2001) CO2
+degassing and energy release at Solfatara volcano, Campi Flegrei, Italy.
+J Geophys Res 106(B8):16231–16221
+Chiodini G, Todesco M, Caliro S, Del Gaudio C, Macedonio G, Russo M (2003)
+Magma degassing as a trigger of bradyseismic events: The case of Phlegrean
+Fields (Italy). Geophys Res Lett 30(8):1434, doi:10.1029/2002GL016790
+Chiodini G, Caliro S, Lowenstern JB, Evans WC, Bergfeld D, Tassi F, Tedesco D
+(2012) Insights from fumaroles gas geochemistry on the origin of
+hydrothermal fluids on the Yellowstone Plateau. Geochim Cosmochim Acta
+89:265–278, doi.org/10.1016/j.gca.2012.04.051
+Christenson BW (2000) Geochemistry of fluids associated with the 1995–1996
+eruption of Mt. Ruapehu, New Zealand: signatures and processes in the
+magmatic-hydrothermal system. J Volcanol Geotherm Res 97:1–30
+Christenson BW, Werner CA, Reyes AG, Sherburn S, Scott BJ, Miller C, Rosenberg MJ,
+Hurst AW, Britten KA (2007) Hazards from hydrothermally sealed volcanic
+conduits. Eos 88(50):53–55
+Christenson BW, Reyes AG, Young R, Moebis A, Sherburn S, Cole-Baker J, Britten K
+(2010) Cyclic processes and factors leading to phreatic eruption events:
+Insights from the 25 September 2007 eruption through Ruapehu Crater Lake,
+New Zealand. J Volcanol Geotherm Res 191:15–32
+Cronin SJ, Neall VE, Lecointre JA, Palmer AS (1997) Changes in Whangaehu river
+lahar characteristics during the 1995 eruption sequence, Ruapehu volcano,
+New Zealand. J Volcanol Geotherm Res 76:47–61
+D’Auria L, Giudicepietro F, Aquino I, Borriello G, Del Gaudio C, Lo Bascio D,
+Martini M, Ricciardi GP, Ricciolino P, Ricco C (2011) Repeated fluid-transfer
+episodes as a mechanism for the recent dynamics of Campi Flegrei caldera
+(1989–2010). J Geophys Res 116(B04313): doi:10.1029/2010JB007837
+de Bélizal E, Lavigne F, Hadmoko DS, Degeai J-P, Dipayana GA, Mutaqin BW,
+Marfai MA, Coquet M, Le Mauff B, Robin A-K, Vidal C, Cholik N, Aisyah N
+(2013) Rain-triggered lahars following the 2010 eruption of Merapi volcano,
+Indonesia: A major risk. J Volcanol Geotherm Res 261:330–347,
+doi:10.1016/j.volgeores.2013.01.010
+De Natale G, Pingue F, Allard P, Zollo A (1991) Geophysical and geochemical
+modeling of the 1982–1984 unrest phenomena at Campi Flegrei caldera
+(southern Italy). J Volcanol Geotherm Res 48:199–222
+Delle Donne D, Harris AJL, Ripepe M, Wright R (2010) Earthquake-induced
+thermal anomalies at active volcanoes. Geology 38:771–774
+Delmelle P, Bernard A (1994) Geochemistry, mineralogy, and chemical modeling
+of the acid crater lake of Kawah Ijen volcano, Indonesia. Geochim
+Cosmochim Acta 58:2445–2460
+Delmelle P, Bernard A (2000) Downstream composition changes of acidic
+volcanic waters discharged into the Banyupahit stream, Ijen caldera,
+Indonesia. J Volcanol Geotherm Res 97:55–75
+Delmelle P, Bernard A, Kusakabe M, Fischer TP, Takano B (2000) Geochemistry of
+the magmatic-hydrothermal system of Kawah Ijen volcano, East Java,
+Indonesia. J Volcanol Geotherm Res 97:31–53
+Delmelle P, Henley RW, Opfergelt S, Detienne M (2015) Summit acid crater lakes
+and flank instability in composite volcanoes. In: Rouwet D, Christenson BW,
+Tassi F, Vandemeulebrouck J (eds) Volcanic Lakes, Springer-Heidelberg.,
+in press
+Di Napoli R, Aiuppa A, Allard P (2013) First multi-gas based characterisation of
+the Boiling Lake volcanic gas (Dominica, Lesser Antilles). Ann Geophys
+56(5):S0559, doi:10.4401/ag-6277
+Dowden J, Kapadia P, Brown G, Rymer H (1991) Dynamics of a geyser eruption.
+J Geophys Res 96:18059–18071
+Dvorak JJ, Mastrolorenzo G (1991) The mechanism of recent vertical crustal movements
+in Campi Flegrei caldera, Southern Italy. Geol Soc Am Special Paper:263
+Dzurisin D, Yamashita KM (1987) Vertical surface displacement at Yellowstone
+caldera, Wyoming, 1976–986. J Geophys Res 92(B13):13753–13766
+Eggert S, Walter TR (2009) Volcanic activity before and after large tectonic
+earthquakes: Observations and statistical significance. Tectonophys 471:14–26
+Evans WC, Sorey ML, Cook AC, Kennedy BM, Shuster DL, Colvard EM, White LD,
+Huebner MA (2002) Tracing and quantifying magmatic carbon discharge in
+cold groundwaters: lessons learned from Mammoth Mountain, USA. J
+Volcanol Geotherm Res 114:291–312
+Finizola A, Sortino F, Lénat J-F, Aubert M, Ripepe M, Valenza M (2003) The summit
+hydrothermal system of Stromboli. New insights from self-potential, temperature,
+CO2 
+and fumarolic fluid measurements, with structural and monitoring
+implications. Bull Volcanol 65:486–504, doi:10.1007/s00445-003-0276-z
+Page 14
+Rouwet et al. Journal of Applied Volcanology 2014, 3:17
+http://www.appliedvolc.com/content/3/1/17 
+Page 14 of 17
+Fischer TP, Sturchio NC, Stix J, Arehart GB, Counce D, Williams SN (1997) The
+chemical and isotopic composition of fumarolic gases and spring discharges
+from Galeras Volcano, Colombia. J Volcanol Geotherm Res 77:229–253
+Fournier N, Chardot L (2012) Understanding volcano hydrothermal unrest from
+geodetic observations: Insights from numerical modeling and application to
+White Island volcano, New Zealand. J Geophys Res 117, B11208,
+doi:10.1029/2012JB009469
+Fournier N, Jolly A (2014) Detecting complex eruption sequence and
+directionality from high-rate geodetic observations: The August 6, 2012
+Te Maari eruption. New Zealand. J Volcanol Geotherm Res, Tongariro.
+doi:10.1016/j.jvolgeores.2014.05.021
+Fournier N, Witham F, Moureau-Fournier M, Bardou L (2009) Boiling Lake of
+Dominica, West Indies: High-temperature volcanic crater lake dynamics.
+J Geophys Res 114(B02203): doi:10.1029/2008JB005773
+Gaeta FS, De Natale G, Peluso F, Mastrolorenzo G, Castagnolo D, Troise C, Pingue
+F, Mita D, Rossano G (1998) Genesis and evolution of unrest episodes at
+Campi Flegrei caldera: the role of thermal-fluid-dynamical processes in the
+geothermal system. J Geophys Res 103(B9):20921–20933
+Gehring AU, Schosseler PM, Weidler PG (1999) Mineral formation and redox-
+sensitive trace elements in a near-surface hydrothermal alteration system.
+Geochim Cosmochim Acta 63(13/14):2061–2069
+Getahun A, Reed MH, Symonds R (1996) Mount St. Augustine volcano fumaroles
+wall rock alteration: mineraology, zoning, composition and numerical models
+of its formation process. J Volcanol Geotherm Res 71:73–107
+Giggenbach WF, Corrales Soto R (1992) Isotopic and chemical composition of
+water and steam discharges from volcanic-magmatic-hydrothermal systems
+of Guanacaste Geothermal Province, Costa Rica. Appl Geochem 7:309–332
+Giggenbach WF, García PN, Londoño CA, Rodríguez VL, Rojas GN, Calvache VML
+(1990) The chemistry of fumarolic vapor and thermal-spring discharges from
+the Nevado del Ruíz volcano-magmatic-hydrothermal system, Colombia.
+J Volcanol Geotherm Res 42:13–39
+Gottsmann J, Folch A, Rymer H (2006) Unrest at Campi Flegrei: A contribution to
+the magmatic versus hydrothermal debate from inverse and finite element
+modeling. J Geophys Res 111(B07203): doi:10.1029/2005JB003745
+Gottsmann J, Carniel R, Coppo N, Wooller L, Hautmann S, Rymer H (2007)
+Oscilations in hydrothermal systems as a source of periodic unrest at caldera
+volcanoes: Multiparameter insights from Nysiros, Greece. Geophys Res Lett
+34(L07307), doi:10.1029/2007GL029594
+Hall M, Mothes P, Samaniego P, Yepes H, Andrade D (2004) Mapa regional de los
+peligros volcánicos potenciales del volcán Cotopaxi, Zona Sur. 1:50,000.
+Instituto Geofísica, Escuela Politecnica Nacional, Quito
+Harris A, Carniel R, Patrick M, Dehn J (2004) The sulfur flow fields of the Fossa di
+Vulcano. Bull Volcanol 66(8):749–759
+Healy J, Lloyd EF, Banwell CJ, Adams RD (1965) Volcanic eruption on Raoul Island,
+November 1964. Nature 205:743–745
+Hill DP (2008) Dynamic stresses, Coulomb failure, and remote triggering. Phys
+Today 55(11):41–47
+Hurst AW, McGinty PJ (1999) Earthquake swarms to the west of Mt Ruapehu
+preceding its 1995 eruption. J Volcanol Geotherm Res 90:19–28
+Hurwitz S, Ingebritsen SE, Sorey ML (2002) Episodic thermal perturbations
+associated with groundwater flow: An example from Kilauea Volcano, Hawaii.
+J Geophys Res 107(B11):2297, doi:10.1029/2001JB001654
+Hurwitz S, Goff F, Janik CJ, Evans WC, Counce DA, Sorey ML, Ingebritsen SE
+(2003) Mixing of magmatic volatiles with groundwater and interaction with
+basalt on the summit of Kilauea Volcano, Hawaii. J Geophys Res 108
+(B1):2028, doi:10.1029/2001JB001594
+Ichihara M, Brodsky EE (2006) A limit on the effect of rectified diffusion in
+volcanic systems. Geophys Res Lett 33(L02316): doi:10.1029/2005GL024753
+Ichinose GA, Anderson JA, Satake K, Schweichert RA, Laharen MM (2000) The potential
+hazard from tsunami and seiche waves generated by large earthquakes within
+Lake Tahoe, California-Nevada. Geophys Res Lett 27(8):1203–1206
+Ingebritsen SE, Rojstaczer SA (1993) Controls on geyser periodicity. Science
+262:889–892
+Ingebritsen SE, Rojstaczer SA (1996) Geyser periodicity and the response of
+geysers to deformation. J Geophys Res 101:21891–21905
+Ingebritsen SE, Galloway DL, Colvard EM, Sorey ML, Mariner RH (2001) Time-variation
+of hydrothermal discharge at selected sites in the western United States:
+implications for monitoring. J Volcanol Geotherm Res 111:1–23
+Inguaggiato S, Mazot A, Diliberto IS, Inguaggiato C, Madonia P, Rouwet D, Vita F
+(2012) Total CO2 
+output from Vulcano Island (Aeolian Islands, Italy). Geochem
+Geophys Geosyst 13(2), Q022012, doi:10.1029/2011GC003920 
+Jolly AD, Sherburn S, Jousset P, Kilgour G (2010) Eruption source processes derived
+from seismic and acoustic observations of the 25 September 2007 Ruapehu
+eruption, North Island, New Zealand. J Volcanol Geotherm Res 191:33–45
+Jolly AD, Jousset P, Lyons JJ, Carniel R, Fournier N, Fry B, Miller C (2014)
+Seismo-acoustic evidence for an avalanche driven phreatic eruptions through
+a beheaded hydrothermal system: An example from the 2012 Tongariro
+eruption. J Volcanol Geotherm Res, doi:10.1016/j.jvolgeores.2014.04.007
+Joseph EP, Fournier N, Lindsay JM, Fischer TP (2011) Gas and water geochemistry
+of geothermal systems in Dominica, Lesser Antilles island arc. J Volcanol
+Geotherm Res 206:1–14, doi:10.1016/j.jvolgeores.2011.06.007
+Joseph EP, Fournier N, Lindsay JM, Robertson R, Beckles DM (2013) Chemical and
+isotopic characteristics of geothermal fluids from Sulphur Springs, Saint Lucia.
+J Volcanol Geotherm Res 254:23–36, doi.org/10.1016/j.jvolgeores.2012.12.013
+Kazahaya K, Shinohara H, Saito G (1994) Excessive degassing of Izu-Oshima
+volcano: magma convection in a conduit. Bull Volcanol 56:207–216
+Kempter KA, Rowe GL (2000) Leakage of Active Crater lake brine through the
+north flank at Rincón de la Vieja volcano, northwest Costa Rica, and
+implications for crater collapse. J Volcanol Geotherm Res 97:143–159
+Kerle N, van Wijck de Vries B (2001) The 1998 debris avalanche at Casita volcano,
+Nicaragua-Investigation of structural deformation as the cause of slope
+instability using remote sensing. J Volcanol Geotherm Res 105:49–63
+Kieffer SW (1984) Seismicity at Old Faithful geyser: an isolated source of
+geothermal noise and possible analogue of volcanic seismicity. J Volcanol
+Geotherm Res 22:59–95
+Kilgour G, Manville V, Della Pasqua F, Reyes AG, Graettinger AH, Hodgson KA,
+Jolly AD (2010) The 25 September 2007 eruption of Mt. Ruapehu, New
+Zealand: directed ballistics, Surtseyan jets, and ice-slurry lahars. J Volcanol
+Geotherm Res 191:1–14
+Kling GW, Clark MA, Compton HR, Devine JD, Evans WC, Humphrey AM,
+Koenigsberg EJ, Lockwood JP, Tuttle ML, Wagner GN (1987) The 1986 Lake
+Nyos gas disaster in Cameroon, West Africa. Science 236:169–175
+Kokelaar BP (1983) The mechanism of Surtseyan volcanism. J Geol Soc London
+140:939–994
+Kokelaar BP, Durant GP (1983) The submarine eruption of Surtla (Surtsey, Iceland).
+J Volcanol Geotherm Res 19:239–246
+Kusakabe M (2015) Evolution of CO2 
+content in Lakes Nyos and Monoun, and
+sub-lacustrine CO2
+-recharge system at Lake Nyos as envisaged from C/3He
+ratios in noble gas signatures. In: Eds Rouwet D, Christenson BW, Tassi F,
+Vandemeulebrouck J (eds) Volcanic Lakes, Springer-Heidelberg., In press
+Lewicki JL, Hilley GE (2014) Multi-scale observations of the variability of magmatic
+CO2 
+emissions, Mammoth Mountain, CA, USA. J Volcanol Geotherm Res
+284:1–15, doi:10.1016/j.jvolgeores.2014.07.011
+Lewicki JL, Fischer TP, Williams SN (2000) Chemical and isotopic compositions of
+fluids at Cumbal Volcano, Colombia: evidence for magmatic contribution.
+Bull Volcanol 62:347–361
+Lewicki JL, Hilley GE, Tosha T, Aoyagi R, Yamamoto K, Benson SM (2007a)
+Dynamic coupling of volcanic CO2 
+flow and wind at the Horseshoe Lake tree
+kill, Mammoth Mountain, California. Geophys Res Lett 34(L03401):
+doi:10.1029/2006GL028848
+Lewicki JL, Oldenburg CM, Dobeck L, Spangler L (2007b) Surface CO2 
+leakage
+during two shallow subsurface CO2 
+releases. Geophys Res Lett 34, L24402,
+doi:10.1029/2007GL032047
+Linde AT, Sacks IS, Johnston MJS, Hill DP, Bilham RG (1994) Increased pressure from rising
+bubbles as a mechanism for remotely triggered seismicity. Nature 371:408–410
+Löhr AJ, Bogaard TA, Heikens A, Hendriks MR, Sumarti S, van Bergen MJ, Van Gestel
+CAM, Van Straalen NM, Vroon PZ, Widianarko B (2005) Natural pollution caused
+by the extremely acidic crater lake Kawah Ijen, East Java, Indonesia. Environ Sci
+Pollut Res 12(2):89–95
+López DL, Williams SN (1993) Catastrophic volcanic collapse: relation to
+hydrothermal processes. Science 260:1794–1796
+Lowenstern JB, Hurwitz S (2008) Monitoring a supervolcano in repose; heat and
+volatile flux at the Yellowstone Caldera. Elements 4:35–40
+Lowenstern JB, Evans WC, Bergfeld D, Hunt AG (2014) Prodigious degassing of a
+billion years of accumulated radiogenic helium at Yellowstone. Nature
+506:355–358, doi:10.1038/nature12992
+Maeno F, Imamura F (2007) Numerical investigations of tsunamis generated by
+pyroclastic flows from the Kikai caldera, Japan. Geophys Res Lett 34(L23303):
+doi:10.1029/2007GL031222
+Maeno F, Imamura F (2011) Tsunami generation by a rapid entrance of
+pyroclastic flow into the sea during the 1883 Krakatau eruption, Indonesia. J
+Geophys Res 116(B09205): doi:10.1029/2011JB008253
+Page 15
+Rouwet et al. Journal of Applied Volcanology 2014, 3:17
+http://www.appliedvolc.com/content/3/1/17 
+Page 15 of 17
+Manga M, Brodsky E (2006) Seismic triggering of eruptions in the far field:
+volcanoes and geysers. Annu Rev Earth Planet Sci 34:263–291
+Manville V, Németh K, Kano K (2009) Source to sink: a review of three decades of
+progress in the understanding of volcaniclastic processes, deposits, and
+hazards. Sediment Geol 220:136–161
+Martin RS, Sawyer GM, Spampinato L, Salerno GG, Ramírez C, Ilyinskaya E, Witt MLI,
+Mather TA, Watson IM, Phillips JC, Oppenheimer C (2010) A total volatile
+inventory for Masaya Volcano, Nicaragua. J Geophys Res 115(B09215):
+doi:10.1029/2010JB007480
+Marzocchi W (2002) Remote seismic influence on large explosive eruptions. J
+Geophys Res 107(B1):2018, doi:10.1029/2001JB000307
+Marzocchi W, Bebbington M (2012) Probabilistic eruption forecasting at short and
+long time scales. Bull Volcanol, doi:10.1007/s00445-012-0633-x
+Marzocchi W, Casarotti E, Piersanti A (2002) Modeling the stress variations
+induced by great earthquakes on the largest volcanic eruptions of the 20th
+century. J Geophys Res 107(B11):2320, doi:10.1029/2001JB001391
+Marzocchi W, Sandri L, Gasparini P, Newhall C, Boschi E (2004a) Quantifying
+probabilities of volcanic events: the example of volcanic hazard at Mt
+Vesuvius. J Geophys Res 109(B11201)
+Marzocchi W, Zaccarelli L, Boschi E (2004b) Phenomenological evidence if favor
+of a remote seismic coupling for large volcanic eruptions. Geophys Res Lett
+31(L04601)
+Marzocchi W, Sandri L, Selva J (2008) BET_EF: a probabilistic tool for long- and
+short-term eruption forecasting. Bull Volcanol 70:623–632
+Marzocchi W, Sandri L, Selva J (2010) BET_VH: a probabilistic tool for long-term
+volcanic hazard assessment. Bull Volcanol 72:705–716
+Mastin L (1991) The roles of magma and groundwater in the phreatic eruptions
+at Inyo Craters, Long Valley Caldera, California. Bull Volcanol 53:579–596
+Mastin LG (1995) Thermodynamics of gas and steam-blast eruptions. Bull
+Volcanol 57:85–98
+Mastin LG, Witter JB (2000) The hazards of eruptions through lakes and seawater.
+J Volcanol Geotherm Res 97:195–214
+Mazot A, Rouwet D, Taran Y, Inguaggiato S, Varley N (2011) CO2 
+and He
+degassing at El Chichón volcano, Chiapas, Mexico: gas flux, origin and
+relationship with local and regional tectonics. Bull Volcanol 73:423–441
+Menyailov IA, Nikitina LP, Shapar VN, Pilipenko VP (1986) Temperature increase
+and chemical change of fumarolic gases at Momotombo volcano, Nicaragua,
+in 1982–1985: are these indicators of a possible eruption? J Geophys Res 91
+(B12):1219912214
+Moore JG, Nakamura K, Alcaraz A (1966) The 1965 eruption of Taal Volcano.
+Science 7:955–960
+Mothes P, Hall M, Andrade D, Samaniego P, Pierson TC, Gorki RA, Yepes H (2004)
+Character, stratigraphy and magnitude of historical lahars of Cotopaxi
+volcano (Ecuador). Acta Vulcanol 1(2):1–23
+Nairn IA, Wood CP, Hewson CAY (1979) Phreatic eruptions of Ruapehu: April
+1975. NZ J Geol Geophys 22:155–173
+Naranjo JA (1985) Sulphur flows at Lastarria volcano in the North Chilean Andes.
+Nature 313:778–780
+Németh K, Cronin SJ, Charley D, Harrison M, Garae E (2006) Exploding lakes in
+Vanuatu – Surtseyan-style eruptions witnessed on Ambae Island. Episodes
+29:87–92
+Neumann van Padang M (1960) Measures taken by the authorities of the
+volcanological survey to safeguard the population from the consequences of
+volcanic outbursts. Bull Volcanol 23:181–192
+Newhall CG, Dzurisin D (1988) Historical unrest at large calderas of the world. US
+Geol Surv Bull 1855:1108
+Newhall C, Hoblitt R (2002) Constructing event trees for volcanic crises. Bull
+Volcanol 64:3–20
+Ohba T, Hirabayashi J, Nogami K (2008) Temporal changes in the chemistry of
+lake water within Yugama Crater, Kusatsu-Shirane Volcano, Japan: Implications
+for the evolution of the magmatic-hydrothermal system. J Volcanol Geotherm
+Res 178:131–144
+Oppenheimer C (1992) Sulphur eruptions at Volcán Poás, Costa Rica. J Volcanol
+Geotherm Res 49:1–21
+Oppenheimer C (2011) Eruptions that shook the world. Cambridge University
+Press, Cambridge University Press, p 392. ISBN 978-0-521-64112-8
+Oppenheimer C, Stevenson D (1989) Liquid sulphur lakes at Poás volcano. Nature
+32:790–793
+Orsi G, Civetta L, Del Gaudio C, de Vita S, di Vito MA, Isaia R, Petrazzuoli S,
+Ricciardi G, Ricco C (1999) Short-term ground deformations and seismicity
+in the nested Campi Flegrei caldera (Italy): an example of active 
+block-resurgence in a densely populated area. J Volcanol Geotherm Res
+91(2–4):415–451
+Paris R, Switzer AD, Belousova M, Belousov A, Ontowirjo B, Whelley PL, Ulvrova M
+(2014) Volcanic tsunami: a review of source mechanisms, past events and
+hazards in Southeast Asia (Indonesia, Philippines, Papua New Guinea).
+Nat Haz 70(1):447–470
+Pasternack GB, Varekamp JC (1994) The geochemistry of the Keli Mutu crater
+lake, Flores, Indonesia. Geochem J 28:243–262
+Pasternack GB, Varekamp JC (1997) Volcanic lake systematcis 1. Physical
+constraints. Bull Volcanol 58:528–538
+Pavanelli N (2006) La pericolosità del Vulcano Irazú (Costa Rica): dall’attività
+eruttiva ai movimenti di massa. PhD Thesis. Dep of Earth Sci, University of
+Florence, Florence, Italy
+Phillipson G, Sobradelo R, Gottsmann J (2013) Global volcanic unrest in the 21st
+century: An analysis of the first decade. J Volcanol Geotherm Res 264:183–196
+Pierson TC, Janda RJ, Thouret JC, Borrero CA (1990) Perturbation and melting of
+snow and ice by the 13 November 1985 eruption of Nevado del Ruíz,
+Colombia, and consequence mobilization, flow and deposition of lahars.
+J Volcanol Geotherm Res 41:17–66
+Pierson TC, Janda RJ, Umbal JV, Daag AS (1992) Immediate and long-term hazards
+from lahars and excess sedimentation in rivers draining Mt. Pinatubo,
+Philippines. ASGS Water-Resources Investigations Report 92–4039
+Pistolesi M, Cioni R, Rosi M, Cashman KV, Rossotti A, Aguilera E (2013) Evidence
+for lahar-triggering mechanisms in complex stratigraphic sequences: the
+post-XII century eruptive activity of Cotopaxi Volcano, Ecuador. Bull Volcanol
+75:698, doi:10.1007/s00445-013-0698-1
+Pistolesi M, Cioni R, Rosi M, Aguilera E (2014) Lahar hazard assessment in the
+southern drainage system of Cotopaxi volcano, Ecuador: Results from
+multiscale lahar simulations. Geomorphology 207:51–63, doi:10.1016/j.
+geomorph.2013.10.026
+Potter SH (2014) Communicating the status of volcanic activity in New Zealand,
+with specific application to caldera unrest. PhD thesis. Massey University,
+Wellington, New Zealand, p 409
+Ramírez CJ, Mora-Amador RA, González G, Alpizar Y (2013) Applications of infrared
+cameras at Costa Rican volcanoes, crater lakes and thermal features.
+8th Workshop on Volcanic Lakes, IAVCEI Commission on Volcanic Lakes, Japan, 6
+Reid ME (2004) Massive collapse of volcanic edifices triggered by hydrothermal
+pressurization. Geology 32:373–376
+Révil A, Finizola A, Sortino F, Ripepe M (2004) Geophysical investigations at
+Stromboli volcano, Italy: implications for ground water flow and paroxysmal
+activity. Geophys J Int 157:426–440, doi:10.1111/j.1365-246X.2004.02181.x
+Rodolfo K, Unbal J, Alonso R, Remotigue M, Paladio M, Salvador J, Evangelista D,
+Miller Y (1996) Two years of lahars on the western flank of Mount Pinatubo,
+Philippines: initation, flow processes, deposits, and attendant geomorphic
+and hydraulic changes. In: Newhall C, Punongbayan R (eds) Fire and mud:
+eruptions and lahars of Mount Pinatubo. Philippine Institute of Volcanology
+and Seismology, Quezon City, And University of Washington Press (Seattle).,
+pp 989–1013
+Rouwet D, Morrissey MM (2015) Mechanisms of crater lake breaching eruptions.
+In: Rouwet D, Christenson BW, Tassi F, Vandemeulebrouck J (eds) Volcanic
+Lakes, Springer-Heidelberg., in press
+Rouwet D, Taran Y, Varley NR (2004) Dynamics and mass balance of El Chichón
+crater lake, Mexico. Geofis Int 43:427–434
+Rouwet D, Taran Y, Inguaggiato S, Varley N, Santiago SJA (2008) Hydrochemical
+dynamics of the “lake-spring” system in the crater of El Chichón volcano
+(Chiapas, Mexico). J Volcanol Geotherm Res 178:237–248
+Rouwet D, Inguaggiato S, Taran Y, Varley N, Santiago Santiago JA (2009) Chemical
+and isotopic compositions of thermal springs, fumaroles and bubbling gases at
+Tacaná Volcano (Mexico-Guatemala): implications for volcanic surveillance. Bull
+Volcanol 71:319–335, doi:10.1007/s00445-008-0226-x
+Rouwet D, Taran Y, Inguaggiato S (2015) Fluid geochemistry of Tacaná volcano-
+hydrothermal system. In: Scolamacchia T, Macías JL (eds) Active volcanoes of
+the world, Springer-IAVCEI., in press
+Rouwet D, Tassi F, Mora-Amador R, Sandri L, Chiarini V (2014) Past, present and
+future of volcanic lake monitoring. J Volcanol Geotherm Res 272:78–97,
+doi:10.1016/j.jvolgeores.2013.12.009
+Rowe GL, Brantley SL, Fernández JF, Borgia A (1995) The chemical and hydrologic
+structure of Poás Volcano, Costa Rica. J Volcanol Geotherm Res 64:233–267
+Rymer H, Locke CA, Borgia A, Martínez M, Brenes J, Van der Laat R, Williams-Jones G
+(2009) Long-term fluctuations in volcanic activity: implications for future
+environmental impact. Terra Nova 21:304–309
+Page 16
+Rouwet et al. Journal of Applied Volcanology 2014, 3:17
+http://www.appliedvolc.com/content/3/1/17 
+Page 16 of 17
+Salaün A, Villemant B, Gérard M, Komorowski J-C, Michel A (2011) Hydrothermal
+alteration in andesitic Volcanoes: Trace element redistribution in active and
+ancient hydrothermal systems of Guadeloupe (Lesser Antilles). J Geochem
+Expl 111:59–83
+Sandri L, Guidoboni E, Marzocchi W, Selva J (2009) Bayesian Event Tree (BET) for
+eruption forecasting at Vesuvius, Italy: a retrospective forward application to
+1631 eruption. Bull Volcanol 71:729–745
+Sandri L, Jolly G, Lindsay J, Howe T, Marzocchi W (2012) Combining long- and
+short-term probabilistic volcanic hazard assessment with cost-benefit
+analysis to support decision making in a volcanic crisis from the
+Auckland Volcanic Field, New Zealand. Bull Volcanol 74(3):705–723,
+doi:10.1007/s00445-011-0556-y
+Sandri L, Thouret J-C, Constantinescu R, Biass S, Tonini R (2014) Long-term
+multi-hazard assessment for El Misti volcano (Peru). Bull Volcanol 76:771,
+doi:10.1007/s00445-013-0771-9
+Schaefer JR, Scott WE, Evans WC, Jorgenson J, McGimsey RG, Wang B (2008) The
+2005 catastrophic acid crater lake drainage, lahar, and acidic aerosol
+formation at Mount Chiginagak volcano, Alaska, USA: field observations and
+preliminary water and vegetation chemistry results. Geochem Geophys
+Geosyst 9(7): doi:10.1029/2007GC001900
+Scott KM (1988) Origins, behavior, and sedimentology of lahars and lahar-runout
+flows in the Toutle-Cowlitz system. USGS Prof Pap 1447-A:1–74
+Selva J, Costa A, Marzocchi W, Sandri L (2010) BET_VH: exploring the influence of
+natural uncertainties on long-term hazard from tephra fallout at Campi
+Flegrei (Italy). Bull Volcanol 72:717–733
+Selva J, Marzocchi W, Papale P, Sandri L (2012) Operational eruption forecasting
+at high-risk volcanoes: the case of Campi Flegrei, Naples. J Appl Volcanol 1:5,
+http://www.appliedvolc.com/content/1/1/5
+Shepherd JB, Sigurdsson H (1982) Mechanism of the 1979 explosive eruption of
+Soufrière volcano, St Vincent. J Volcanol Geotherm Res 13:119–130
+Shepherd JB, Aspinall WP, Rowley K, Pereira J, Sigurdsson H, Fiske R, Tomblin J
+(1979) The eruption of Soufrière volcano, St Vincent, April–June 1979. Nature
+282(5734):24–28
+Shinohara H, Giggenbach WF, Kazahaya K, Hedenquist JW (1993) Geochemistry
+of volcanic gases and hot springs of Satsuma-Iwojima, Japan: Following
+Matsuo. Geochem J 27:271–285
+Shinohara H, Kazahaya K, Saito G, Mastushima N, Kawanabe Y (2002) Degassing
+activity from Iwodake rhyolitic cone, Satsuma-Iwojima volcano, Japan: Formation
+of a new degassing vent, 1990–1999. Earth Planets Space 54:175–185
+Sobradelo R, Bartolini S, Martí J (2014) HASSET: a probability event tree tool to
+evaluate future volcanic scenarios using Bayesian inference. Bull Volcanol
+76:770, doi:10.1007/s00445-013-0770-x
+Sparks RSJ (2003) Forecasting volcanic eruptions. Earth Plan Sci Lett 210:1–15
+Sriwana T, Van Bergen MJ, Sumarti S, de Hoog JCM, van Os BJH,
+Wahyuningsih R, Dam MAC (1998) Volcanogenic pollution by acid water
+discharges along Ciwidey River, West Java (Indonesia).  J Geochem Explor
+62:161–182
+Stimac JA, Goff F, Counce D, Larocque ACL, Hilton DR, Morgenstern U (2004)
+The crater lake and hydrothermal system of Mount Pinatubo, Philippines:
+evolution in the decade after eruption. Bull Volcanol 66:149–167
+Sturchio NC, Williams SN (1990) Variations in chemistry of acid-sulfate-chloride
+springs at Nevado del Ruíz volcano, Colombia: November 1985 through
+December 1988. J Volcanol Geotherm Res 42:203–210
+Sturchio NC, Williams SN, Sano Y (1993) The hydrothermal system of Volcán
+Puracé, Colombia. Bull Volcanol 55:289–296
+Takano B, Saitoh H, Takano E (1994) Geochemical implications of subaqueous
+molten sulfur at Yugama crater lake, Kusatsu-Shirane volcano, Japan.
+Geochem J 28:199–216
+Taran YA, Peiffer L (2009) Hydrology, hydrochemistry and geothermal potential of
+El Chichón volcano-hydrothermal system, Mexico. Geothermics 38:370–378
+Taran Y, Rouwet D (2008) Estimating thermal inflow to El Chichón crater lake
+using the energy-budget, chemical and isotope balance approaches.
+J Volcanol Geotherm Res 175:472–481
+Taran YA, Hedenquist JW, Korzhinsky MA, Tkachenko SI, Shmulovich KI (1995)
+Geochemistry of magmatic gases from Kudryavy volcano, Iturup, Kuril Islands.
+Geochim Cosmochim Acta 59:1749–1761
+Taran Y, Fischer TP, Pokrovsky B, Sano Y, Armienta MA, Macías JL (1998)
+Geochemistry of the volcano–hydrothermal system of El Chichón Volcano,
+Chiapas, Mexico. Bull Volcanol 59:436–449
+Taran Y, Rouwet D, Inguaggiato S, Aiuppa A (2008) Major and trace element
+geochemistry of neutral and acidic thermal springs at El Chichón volcano. 
+Mexico Implications for monitoring of the volcanic activity. J Volcanol
+Geotherm Res 178:224–236, doi:10.1016/j.jvolgeores.2008.06.030
+Tassi F, Rouwet D (2014) An overview of the structure, hazards, and methods of
+investigation of Nyos-type lakes from the geochemical perspective. J Limnol
+73(1):39–54, doi:10.4081/jlimnol.2014.836
+Thorarinsson S (1967) Surtsey: the new Island in the North Atlantic. Viking, NY.
+pp, 47
+Thouret JC, Abdurachman KE, Bourdier JL, Bronto S (1998) Origin, characteristics,
+and behavior of lahars following the 1990 eruption of Kelud volcano, eastern
+Java (Indonesia). Bull Volcanol 59:460–480
+Todesco M, Berrino G (2005) Modeling hydrothermal fluid circulation and gravity
+signals at the Phlegraean Fields caldera. Earth Planet Sci Lett 240:328–338
+Todesco M, Chiodini G, Macedonio G (2003) Monitoring and modelling
+hydrothermal fluid emission at La Solfatara (Phlegrean Fields, Italy). An
+interdisciplinary approach to the study of diffuse degassing. J Volcanol
+Geotherm Res 125:57–79
+Vallance JW (2000) Lahars. In: Sigurdsson H (ed) Encyclopedia of Volcanoes.
+Academic, United States, pp 601–616
+van Hinsberg V, Berlo K, Sumarti S, van Bergen M, Williams-Jones A (2010)
+Extreme alteration by hyperacidic brines at Kawah Ijen volcano, East Java,
+Indonesia: II Metasomatic imprint and element fluxes. J Volcanol Geotherm
+Res 196:169–184, doi:10.1016/j.jvolgeores.2010.07.004
+van Manen SM (2014) Hazard and risk perception at Turrialba volcano (Costa
+Rica) implications for disaster risk management. Appl Geograph 50:63–73,
+doi.org/10.1016/j.apgeog.2014.02.004
+van Rotterdam-Los AMD, Vriend SP, van Bergen MJ, van Gaans PFM (2008) The
+effect of naturally acidified irrigation water on agricultural volcanic soils. The
+case of Asembagis, Java, Indonesia. J Geochem Explor 96:53–68
+Vandemeulebrouck J, Stemmelen D, Hurst T, Grangeon J (2005) Analogue
+modeling of instabilities in crater lake hydrothermal systems. J Geophys Res
+110(B02212): doi:10.1029/2003JB002794
+Varekamp JC, Ouimette AP, Herman SW, Bermúdez A, Delpino D (2001)
+Hydrothermal element fluxes from Copahue, Argentina: A “beehive” volcano
+in turmoil. Geology 29:1059–1062
+Villasante-Marcos V, Finizola A, Abella R, Barde-Cabusson S, Blanco MJ, Brenes B,
+Cabrera V, Casas B, De Agustín P, Di Gangi F, Domínguez I, García O,
+Gomis A, Guzmán J, Iribarren I, Levieux G, López C, Luengo-Oroz N, Martín I,
+Moreno M, Meletlidis S, Morin J, Moure D, Pereda J, Ricci T, Romero E,
+Schütze C, Suski-Ricci B, Torres P, Trigo P (2014) Hydrothermal system of
+Central Tenerife Volcanic Complex, Canary Islands (Spain), inferred from
+self-potential measurements. J Volcanol Geotherm Res 272:59–77,
+doi:10.1016/j.jvolgeores.2013.12.007
+Voight B, Janda RJ, Glicken H, Douglass PM (1983) Nature and mechanics of the
+Mount St. Helens rockslide-avalanche of 18 May 1980. Geotechnique
+33:243–273
+Walter TR, Amelung F (2007) Volcanic eruptions following M ≥ 9 megathrust
+earthquakes: Implications for the Sumatra-Andaman volcanoes.
+Geol 35:539–542
+Watt SFL, Pyle DM, Mather TA (2009) The influence of great earthquakes on
+volcanic eruption rate along the Chilean subduction zone. Earth Planet Sci
+Lett 277:399–407, doi:10.1016/j.epsl.2008.11.005
+Werner C, Brantley S (2003) CO2 
+emissions from the Yellowstone volcanic system.
+Geochem Geophys Geosyst 4(7): doi.org/10.1029/2002GC000473
+Werner C, Cardellini C (2006) Comparison of carbon dioxide emissions with
+fluid upflow, chemistry, and geologic structures at the Rotorua
+geothermal system, New Zealand. Geothermics 35:221–238,
+doi:10.1016/j.geothermics.2006.02.006
+Werner C, Chiodini G, Voigt D, Caliro S, Avino R, Russo M, Brombach T,
+Wyngaard J, Brantley S (2003) Monitoring volcanic hazard using eddy
+covariance at Solfatare volcano, Naples, Italy. Earth Planet Sci Lett
+210:561–577, doi:10.1016/S0012-821X(03)00127-4
+Werner C, Hurwitz S, Evans WC, Lowenstern JB, Bergfeld D, Heasler H, Jaworowski C,
+Hunt A (2008) Volatile emissions and gas geochemistry of Hot Spring Basin,
+Yellowstone National Park, USA. J Volcanol Geotherm Res 178:751–762
+White DE (1967) Some principles of geyser activity, mainly from Steamboat
+Springs, Nevada. Am J Sci 265:641–684
+Williams-Jones G, Rymer H, Rothery DA (2003) Gravity changes and passive SO2
+degassing at the Masaya caldera complex, Nicaragua. J Volcanol Geotherm
+Res 123:137–160
+Zen MT, Hadikusumo D (1965) The future danger of Mt. Kelut (Eastern
+Java-Indonesia). Bull Volcanol 28:275–282
+Page 17
+Rouwet et al. Journal of Applied Volcanology 2014, 3:17
+http://www.appliedvolc.com/content/3/1/17
+Zimmer M, Erzinger J (2003) Continuous H2
+O, CO2
+, 222Rn and temperature
+measurements on Merapi Volcano, Indonesia. J Volcanol Geotherm Res
+125:25–38
+Zlotnicki J, Vargemezis G, Mille A, Bruère F, Hammouya G (2006) State of the
+hydrothermal activity of Soufrière of Guadeloupe volcano inferred by VLF
+surveys. J Appl Geophys 58:265–279, doi:10.1016/j.jappgeo.2005.05.004
+doi:10.1186/s13617-014-0017-3
+Cite this article as: Rouwet et al.: Recognizing and tracking volcanic
+hazards related to non-magmatic unrest: a review. Journal of Applied
+Volcanology 2014 3:17. 
+Page 17 of 17
+Submit your manuscript to a
+journal and beneﬁ t from:
+7 Convenient online submission
+7 Rigorous peer review
+7 Immediate publication on acceptance
+7 Open access: articles freely available online
+7 High visibility within the ﬁeld
+7 Retaining the copyright to your article
+Submit your next manuscript at 7 springeropen.com

@@ -1,0 +1,471 @@
+Creator: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+Producer: Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+Title: Toward a global health approach: lessons from the HIV and Ebola epidemics
+Keywords: HIV,Ebola,Global health
+ModDate: 2019/03/20 14:39:05+01'00'
+Subject: Globalization and Health, 2018, doi:10.1186/s12992-018-0435-9
+Author: Gilles Raguin
+CreationDate: 2019/03/14 14:21:19+08'00'
+xmp:pdf:Keywords: HIV,Ebola,Global health
+xmp:pdf:Producer: Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+xmp:dc:format: application/pdf
+xmp:dc:identifier: 10.1186/s12992-018-0435-9
+xmp:dc:publisher: Globalization and Health
+xmp:dc:description: Globalization and Health, 2018, doi:10.1186/s12992-018-0435-9
+xmp:dc:subject: HIV; Ebola; Global health
+xmp:dc:title: Toward a global health approach: lessons from the HIV and Ebola epidemics
+xmp:dc:creator: Gilles Raguin; Pierre-Marie Girard
+xmp:xmp:MetadataDate: 2019-03-20T14:39:05+01:00
+xmp:xmp:CreateDate: 2019-03-14T14:21:19+08:00
+xmp:xmp:CreatorTool: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+xmp:xmp:ModifyDate: 2019-03-20T14:39:05+01:00
+xmp:xmpMM:DocumentID: uuid:080adb8e-18f1-4419-bac4-2cf0d9401e7d
+xmp:xmpMM:InstanceID: uuid:1530b95b-12ca-47f7-b388-5441c2edf060
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:9da73488-bc0d-47f8-9ff7-66c070c79622
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2019-03-14T14:26:13+08:00
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:author:name: Gilles Raguin
+xmp:author:orcid: http://orcid.org/0000-0002-8040-8502
+xmp:pdfaSchema:schema: Springer Nature ORCID Schema
+xmp:pdfaSchema:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/
+xmp:pdfaSchema:prefix: sn
+xmp:pdfaProperty:name: authorInfo
+xmp:pdfaProperty:valueType: Bag AuthorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Author information: contains the name of each author and his/her ORCID (ORCiD: Open Researcher and Contributor ID). An ORCID is a persistent identifier (a non-proprietary alphanumeric code) to uniquely identify scientific and other academic authors.
+xmp:pdfaProperty:name: editorInfo
+xmp:pdfaProperty:valueType: Bag EditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Editor information: contains the name of each editor and his/her ORCID identifier.
+xmp:pdfaProperty:name: seriesEditorInfo
+xmp:pdfaProperty:valueType: Bag SeriesEditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Series editor information: contains the name of each series editor and his/her ORCID identifier.
+xmp:pdfaType:type: AuthorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/authorInfo/
+xmp:pdfaType:prefix: author
+xmp:pdfaType:description: Specifies the types of author information: name and ORCID of an author.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an author.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an author.
+xmp:pdfaType:type: EditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/editorInfo/
+xmp:pdfaType:prefix: editor
+xmp:pdfaType:description: Specifies the types of editor information: name and ORCID of an editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an editor.
+xmp:pdfaType:type: SeriesEditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/seriesEditorInfo/
+xmp:pdfaType:prefix: seriesEditor
+xmp:pdfaType:description: Specifies the types of series editor information: name and ORCID of a series editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of a series editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of a series editor.
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdf/1.3/
+xmp:pdfaSchema:prefix: pdf
+xmp:pdfaSchema:schema: Adobe PDF Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A name object indicating whether the document has been modified to include trapping information
+xmp:pdfaProperty:name: Trapped
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/mm/
+xmp:pdfaSchema:prefix: xmpMM
+xmp:pdfaSchema:schema: XMP Media Management Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: UUID based identifier for specific incarnation of a document
+xmp:pdfaProperty:name: InstanceID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: The common identifier for all versions and renditions of a document.
+xmp:pdfaProperty:name: OriginalDocumentID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A reference to the original document from which this one is derived. It is a minimal reference; missing components can be assumed to be unchanged. For example, a new version might only need to specify the instance ID and version number of the previous version, or a rendition might only need to specify the instance ID and rendition class of the original.
+xmp:pdfaProperty:name: DerivedFrom
+xmp:pdfaProperty:valueType: ResourceRef
+xmp:pdfaType:description: Identifies a portion of a document. This can be a position at which the document has been changed since the most recent event history (stEvt:changed). For a resource within an xmpMM:Ingredients list, the ResourceRef uses this type to identify both the portion of the containing document that refers to the resource, and the portion of the referenced resource that is referenced.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Part#
+xmp:pdfaType:prefix: stPart
+xmp:pdfaType:type: Part
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/t/pg/
+xmp:pdfaSchema:prefix: xmpTPg
+xmp:pdfaSchema:schema: XMP Paged-Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A structure containing the characteristics of a font used in a document
+xmp:pdfaProperty:name: Fonts
+xmp:pdfaProperty:valueType: Bag Font
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: XMP08 Spec: An ordered array of plate names that are needed to print the document (including any in contained documents).
+xmp:pdfaProperty:name: PlateNames
+xmp:pdfaProperty:valueType: Seq Text
+xmp:pdfaType:description: A structure containing the characteristics of a font used in a document.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Font#
+xmp:pdfaType:prefix: stFnt
+xmp:pdfaType:type: Font
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdfx/1.3/
+xmp:pdfaSchema:prefix: pdfx
+xmp:pdfaSchema:schema: PDF/X ID Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: ID of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXVersion
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Conformance level of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXConformance
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Company creating the PDF
+xmp:pdfaProperty:name: Company
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Date when document was last modified
+xmp:pdfaProperty:name: SourceModified
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://www.aiim.org/pdfa/ns/id/
+xmp:pdfaSchema:prefix: pdfaid
+xmp:pdfaSchema:schema: PDF/A ID Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Part of PDF/A standard
+xmp:pdfaProperty:name: part
+xmp:pdfaProperty:valueType: Integer
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Amendment of PDF/A standard
+xmp:pdfaProperty:name: amd
+xmp:pdfaProperBOOKMARKS:
+Abstract
+  Background
+  Main text
+  Conclusion
+Background
+Main text
+  Response must be early, appropriate, and sustainable
+  Global, inter-disciplinary, and inter-sectoral responses
+Conclusion
+Acknowledgements
+Funding
+Availability of data and materials
+Authors’ contributions
+Ethics approval and consent to participate
+Consent for publication
+Competing interests
+Publisher’s Note
+Author details
+References
+Page 1
+Raguin and Girard Globalization and Health
+https://doi.org/10.1186/s12992-018-0435-9 
+(2018) 14:114
+COMMENTARY  Open Access
+Toward a global health approach: lessons
+from the HIV and Ebola epidemics
+Gilles Raguin1* and Pierre-Marie Girard2
+Abstract
+Background: The imposing burden of non-communicable diseases, emerging infectious diseases, climate change,
+environmental consequences, migrations, urbanization, and other challenges, faced in a context that strives to make
+universal health coverage (UHC) a reality, compels global health professionals to ask: how do we construct a “global”
+roadmap that is both realistic and effective?
+To move forward and begin to answer this question, we draw on lessons and experiences gained during the “global”
+health crises triggered by the HIV and Ebola pandemics.
+Main text: Improving the early response and committing to the long haul; developing inter-disciplinary and inter-
+sectoral responses; designing comprehensive and versatile interventions; and, most importantly, to work closely and
+effectively with civil society and communities are some of the critical elements that were identified.
+The health sector has changed dramatically in recent years; new tools and innovative technologies are transforming
+the culture and practice of public health. This calls for a new vision.
+Reprioritizing primary health care and community engagement, repositioning approaches to meet people’s needs,
+applying integrated disease management to respond to problems caused by the silo approach, implementing UHC,
+and ensuring equity are some of the new strategies.
+Conclusion: These strategies must all undergo a mandatory revolution in health governance—locally and globally. It
+should be obvious that nothing can be improved on a global or sustainable scale without re-examining the architecture
+and governance of major funding and international organizations dedicated to health.
+Pressing economic, demographic, and climate issues related to health underscore the urgent need for these changes.
+Keywords: HIV, Ebola, Global health
+Background
+100 years after its outbreak at the start of the twentieth
+century in Central Africa [1], the HIV epidemic has not
+ended. Although we have seen positive indicators from
+the African continent, many problems continue to ham-
+per controlling this pandemic.
+New health challenges are appearing on the global
+health landscape. The Ebola virus disease (EVD) out-
+break, a cataclysmic health crisis, revealed the desperate
+state of health systems in low-resource countries.
+Chronic noncommunicable diseases—diabetes, cancer,
+and cardiovascular diseases—kill more people today than
+infectious diseases, even in Africa. Meanwhile, infectious
+* Correspondence: [URL: "mailto:graguin@orange.fr"] graguin@orange.fr
+1Institute of Applied Medicine and Epidemiology (IMEA), Fondation
+Internationale Léon Mba, 46 rue Henri Huchard, 75018 Paris, France
+Full list of author information is available at the end of the article 
+diseases, such as Zika, plague, and yellow fever, continue
+to emerge or re-emerge. Climate change and food secur-
+ity are serious concerns. And we must not forget previ-
+ous scourges lurking behind the scenes, better
+controlled today but still very present: tuberculosis, mal-
+aria, and infant and maternal mortality.
+In the face of this imposing burden, in the context of
+UHC promised by the new United Nations Sustainable
+Development Goals [2],  the key question confrontingglobal health professionals is: how do we construct a
+“global” roadmap to health and health equity that is both
+realistic and effective?
+Global health, in effect, no longer prioritizes a disease,
+a specific aspect of the health system, or one continent
+over another, but instead focuses on improving health
+and health equity for everyone on the planet. A huge en-
+deavor, indeed!
+© The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License ([URL: "http://creativecommons.org/licenses/by/4.0/"] http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Page 2
+Raguin and Girard Globalization and Health (2018) 14:114  Page 2 of 4
+To move forward, let us draw on lessons and experi-
+ences we have personally gained during the “global”
+health crises triggered by the HIV and Ebola pandemics.
+Main text
+Response must be early, appropriate, and sustainable
+Unfortunately, under-estimating needs at the start of
+epidemics and over-estimating the resulting outcomes
+once the epidemic ends are consistent observations.
+Nevertheless, everything is there: identifying the crisis
+early on; quickly rolling out efforts and resources, with-
+out being swayed by panic or denial; and committing to
+the long haul.
+The HIV epidemic, tracing back to the early twentieth
+century followed by its “discovery” in the 1980s, was
+largely under-estimated by officials at the time, by their
+own admission, resulting in the loss of precious time for
+an international response. Even today, the pandemic
+continues to gain ground despite slowing down or even
+reversing in some countries. The danger lies in celebrat-
+ing too soon while letting down one’s guard. For this
+reason, announcements of its eradication by 2030 are
+counter-productive: it will presumably take several more
+decades of effort before this pandemic is truly brought
+under control, especially with the current worrisome
+emergence of antiretroviral resistance.
+Similarly, there is broad consensus that the local and
+international response to the EVD epidemic of 2013–
+2016 was both late and poorly adapted. A constellation
+of factors—ignorance of or under-estimating early warn-
+ings, the inertia of responsible institutions, and unsuit-
+ability of the initial responses—allowed the epidemic to
+reach a scale unequaled in the history of this disease.
+And despite promises, too little funding is now mobi-
+lized on the ground to prevent the onset of other
+epidemic episodes, even as the animal reservoir, which
+remains poorly understood, can be re-activated at any
+moment. Health systems strengthening, in terms of
+infection prevention and control, remains in its nascent
+stages in most African countries, despite this serious
+warning.
+Acting early and appropriately also means being able
+to mobilize the necessary human and financial resources,
+which generally exceed what low-resource countries are
+able to raise. The fight against AIDS lacked financial
+support for a long time until the Global Fund to Fight
+AIDS, Tuberculosis, and Malaria was created in 2002,
+followed by the US President’s Emergency Plan for AIDS
+Relief (PEPFAR) in 2003. The recent positive trends in
+the fight against AIDS in Africa are, mostly, a direct
+consequence of these investments. Similarly, with Ebola,
+funding was mobilized too slowly, partially explaining
+the delays in combatting the epidemic. State and inter-
+national NGO resources were quickly depleted, leaving 
+the international community to mobilize emergency
+funds solely through unstructured channels. Neverthe-
+less, the lesson bore fruit with the creation, albeit late
+and rudimentary, of the WHO and World Bank emer-
+gency funds. However, the good news is that this epi-
+demic has been controlled, with time and sustained
+efforts.
+Global, inter-disciplinary, and inter-sectoral responses
+The fight against HIV has shown that the biomedical re-
+sponse is only one aspect, necessary but insufficient, of
+an effective response to pandemics. The essential role
+that the humanities and social sciences play in informa-
+tion, reduction of fear and stigma, prevention, screening,
+treatment adherence, and control policies is well known
+[3, 4]. There can be no effective response if other sectors
+of society are not also mobilized: financing, education,
+media and communication, security forces, and diplo-
+macy. An effective public health approach is political
+and engages all levels of public power and society.
+Because of the errors made at its beginning, the 2013–
+2016 EVD epidemic clearly showed how much the com-
+bination of disciplines and sectoral interventions finally
+brought the pandemic under control. Communities and
+care givers paid dearly, in human lives, for the initial
+lack of collaboration between biomedical actors, security
+forces, anthropologists, crisis communication specialists,
+animal specialists, politicians, and diplomats. Rejection
+of sanitary measures imposed on populations with no
+explanation or consultation, abuse of power and impris-
+onment, abusive border closures, riots, and murdered
+health care staff: these are some of the events that could
+have been avoided or minimized by combining the
+expertise and interventions of all relevant actors. The
+development of a “One World, One Health” approach,
+which specifically aims to unify animal and human
+health actors around a single, common, “global” goal is
+an excellent initiative, though still in its inception.
+The response must be comprehensive and versatile on
+day-one, combining prevention and treatment, delivery
+of hospital care and primary health care, community
+participation and international mobilization, grassroots
+outreach with communities as well as sophisticated in-
+terventions. International humanitarian interventions—
+disparate, poorly coordinated, and even competing
+against each other—often factor into the disorganized
+and inappropriate management of health emergencies by
+States. Westerners often apply a technologically sophisti-
+cated, and sometimes dogmatic, approach that is poorly
+adapted to local contexts and can even be counter-pro-
+ductive when it results in marginalizing the essential role
+of communities. All components of the health system
+must be engaged and strengthened. The approach must
+be global and coordinated while based on involving local
+Page 3
+Raguin and Girard Globalization and Health (2018) 14:114  Page 3 of 4
+actors [5].  Civil society should always be a key stake-
+holder in interventions, starting with their design.
+The health sector has changed dramatically in recent
+years, and this calls for a new vision.
+Information and communication is one area where
+innovations offer considerable improvements: rapid and
+relevant information for public health actors and deci-
+sion makers, enabling them to make decisions quickly
+and early; and rapid and intelligible information for pop-
+ulations, care givers, and actors overseeing health and
+civil security, allowing them to better prevent the spread
+of infections and their consequences. New technologies
+enable this, whether at the local level with tools to en-
+hance connectivity, or at the regional and even global
+level, with big data, spatial data integration, and social
+and scientific networks [6]. Their potential is consider-
+able, as are the related issues: ownership, data manage-
+ment, transparency and verification of information, and
+political issues. These new tools will transform the cul-
+ture and practice of public health.
+The supply side of health care—how we provide health
+services closest to those needing them that are best
+tailored to their needs—will also see major changes. Be-
+yond waking international actors up to reprioritizing
+primary health care and community engagement, the
+essential nature of which was rediscovered during the
+Ebola crisis, major changes have begun. These include
+repositioning approaches toward people’s needs, task
+shifting and sharing to mitigate serious health workforce
+deficits across all continents, integrated disease manage-
+ment to respond to problems caused by the silo ap-
+proach, UHC and equitable access to quality care and
+affordable health commodities.
+All these must undergo a mandatory revolution in
+health governance—locally and globally. As with global
+warming, it should be obvious that nothing can be im-
+proved on a global or sustainable scale without re-exam-
+ining the architecture and governance of major funding
+and international organizations dedicated to health,
+which are too vertical (devoted specifically to a single
+disease or group of diseases), poorly coordinated, and in-
+sufficiently integrated. In this global framework, an ap-
+proach based on the concept of global public goods
+seems the most appropriate. Civil society is increasingly,
+and quite justly, demanding more participatory govern-
+ance, both locally and globally. Lastly, in an intercon-
+nected world, transnational networks, partnerships, and
+coalitions—especially between international and local
+NGOs—as well as economic clubs and networks are rap-
+idly developing and will transform the world of health.
+Here, politicians have an immense responsibility. These
+rapid changes must indeed be accompanied by a revision
+of legal, ethical, and societal rules and frameworks (UHC,
+the right to health, participatory governance, climate and 
+environment, health determinants, etc.). Delivery of health
+care services must be reconfigured so the interlocking
+components—care giver status and training, the health
+system, social justice, transparency, and accountability—
+run efficiently [7].  The nature, scope, and extent of
+international conventions, agreements, and regulations
+(including international health regulations) must be up-
+dated. These changes are urgent as economic, demo-
+graphic, and climate issues related to health become even
+more pressing.
+Conclusion
+The key question confronting global health professionals
+today is: how do we construct a “global” roadmap to-
+wards health and health equity that is both realistic and
+effective?
+Drawing on lessons and experiences gained during the
+“global” health crises triggered by the HIV and Ebola pan-
+demics provides some insight and brings to the conclusion
+that nothing can be improved on a global or sustainable
+scale without a revolution in health governance—locally
+and globally.
+Acknowledgements
+NONE.
+Funding
+NONE.
+Availability of data and materials
+N/A.
+Authors’ contributions
+GR wrote the first draft. PMG improved the article. Both have read and
+approved the final manuscript.
+Ethics approval and consent to participate
+N/A.
+Consent for publication
+N/A.
+Competing interests
+The author declares that he/she has no competing interests.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in published
+maps and institutional affiliations.
+Author details
+1Institute of Applied Medicine and Epidemiology (IMEA), Fondation
+Internationale Léon Mba, 46 rue Henri Huchard, 75018 Paris, France.
+2Department of Infectious and Tropical Diseases & Inserm, UMR S 1136 and
+UPMC, University of Paris 6, St Antoine Hospital, APHP, IMEA Fondation
+Internationale Léon Mba, Paris, France.
+Received: 16 August 2018 Accepted: 7 November 2018
+References
+1.  Bedford MW, Tatem A, Sousa JD, et al. The early spread and epidemic
+ignition of HIV-1 in human populations. Science. 2014;346(6205):56–61.
+ https://doi.org/10.1126/science.1256739.
+Page 4
+Raguin and Girard Globalization and Health (2018) 14:114
+2.  Ghebreyesus TA. All roads lead to universal health coverage. Lancet. 2017;
+[URL: "https://doi.org/10.1016/S2214-109X(17)302954"] https://doi.org/10.1016/S2214-109X(17)30295–4. published Online July 17.
+3.  Sams K, Desclaux A, Anoko J, et al. Mobilizing experience from Ebola to
+address plague in Madagascar and future epidemics. Lancet. 2017;
+390(10113):2624–5. [URL: "https://doi.org/10.1016/S0140-6736(17)33088-X"] https://doi.org/10.1016/S0140-6736(17)33088-X Epub
+2017 Nov 28.
+4.  Fallah M, Dahn B, Nyenswah TG, et al. Interrupting Ebola transmission in
+Liberia through community-based initiatives. Ann Intern Med. 2016;164(5):
+367–9. [URL: "https://doi.org/10.7326/M15-1464"] https://doi.org/10.7326/M15-1464.
+5.  Raguin G, Eholie S. Ebola: national health stakeholders are the cornerstones
+of the response. Lancet. 2014;384(9961):2207–8. [URL: "https://doi.org/10.1016/S0140-6736(14)62419-3"] https://doi.org/10.1016/
+ S0140-6736(14)62419-3 Epub 2014 Dec 19.
+6.  Roess A. The promise, growth, and reality of mobile health. Another data
+free zone. N Engl J Med. 2017;377(21):2010–1. [URL: "https://doi.org/10.1056/NEJMp1713180"] https://doi.org/10.1056/
+ NEJMp1713180 Epub 2017 Nov 8.
+7.  Erondu NA, Martin J, Marten R, et al. Building the case for embedding
+global health security into universal health coverage: a proposal for a
+unified health system that includes public health. Lancet. 2018;392:1482–6.
+ https://doi.org/10.1016/S0140-6736(18)32332-8. 
+Page 4 of 4

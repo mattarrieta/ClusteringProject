@@ -1,0 +1,134 @@
+Page 1
+GAUSS (software)
+GAUSS is a matrix [URL: "https://en.wikipedia.org/wiki/Programming_language"] programming language for [URL: "https://en.wikipedia.org/wiki/Mathematics"] mathematics and
+statistics, developed and marketed by Aptech Systems. Its
+primary purpose is the solution of numerical problems in
+statistics, econometrics, [URL: "https://en.wikipedia.org/wiki/Time-series"] time-series, optimization and 2D- and
+3D-visualization. It was first published in 1984 for [URL: "https://en.wikipedia.org/wiki/MS-DOS"] MS-DOS and
+is available for Linux, [URL: "https://en.wikipedia.org/wiki/MacOS"] macOS and Windows.[1]
+Contents
+Examples
+GAUSS Applications
+See also
+References
+External links
+Examples 
+GAUSS
+ Developer(s)  [URL: "https://en.wikipedia.org/w/index.php?title=Aptech_Systems&action=edit&redlink=1"] Aptech Systems
+Initial release 1984
+ Stable release 22.1.0 /
+10 March 2022
+ Operating system Linux, macOS,
+ Windows
+ Type  [URL: "https://en.wikipedia.org/wiki/Programming_language"] programming
+language
+ License [URL: "https://en.wikipedia.org/wiki/Proprietary_software"] proprietary
+Website [URL: "https://www.aptech.com/"] www.aptech.com
+(https://www.apt
+ech.com/)
+GAUSS has several Application Modules as well as functions in its [URL: "https://en.wikipedia.org/wiki/Runtime_library"] Run-Time Library (i.e.,
+functions that come with GAUSS without extra cost)
+Qprog – [URL: "https://en.wikipedia.org/wiki/Quadratic_programming"] Quadratic programming
+SqpSolvemt – [URL: "https://en.wikipedia.org/wiki/Sequential_quadratic_programming"] Sequential quadratic programming
+QNewton - [URL: "https://en.wikipedia.org/wiki/Quasi-Newton_method"] Quasi-Newton unconstrained optimization
+EQsolve - Nonlinear equations solver
+GAUSS Applications
+A range of toolboxes are available for GAUSS at additional cost.[2]
+Page 2
+Toolbox
+ Algorithmic Derivatives (https://www.aptech.
+com/products/gauss-applications/algorithmic
+-derivatives/)
+ Constrained Maximum Likelihood MT (http
+s://www.aptech.com/products/gauss-applicat
+ions/constrained-maximum-likelihood-mt/)
+ Constrained Optimization (https://www.aptec
+h.com/products/gauss-applications/constrain
+ed-optimization-mt/)
+ CurveFit (https://www.aptech.com/products/
+gauss-applications/curvefit/)
+ Descriptive Statistics (https://web.archive.or
+g/web/20081122011154/http://www.aptech.c
+om/ga_ds.html)
+ Descriptive Statistics MT (https://www.aptec
+h.com/products/gauss-applications/descripti
+ve-statistics-mt/)
+ Discrete Choice (https://www.aptech.com/pr
+oducts/gauss-applications/discrete-choice/)
+[URL: "https://www.aptech.com/products/gauss-applications/fanpac-mt/"] FANPAC MT (https://www.aptech.com/produ
+cts/gauss-applications/fanpac-mt/)
+ Linear Programming MT (https://www.aptec
+h.com/products/gauss-applications/linear-pro
+gramming-mt/)
+ Linear Regression MT (https://www.aptech.c
+om/products/gauss-applications/linear-regres
+sion-mt/)
+ Loglinear Analysis MT (https://www.aptech.c
+om/products/gauss-applications/loglinear-an
+alysis-mt/)
+ Maximum Likelihood MT (https://www.aptec
+h.com/products/gauss-applications/maximu
+m-likelihood-mt/)
+ Nonlinear Equations MT (https://www.aptec
+h.com/products/gauss-applications/nonlinear
+-equations-mt/)
+ Optimization (https://www.aptech.com/produ
+cts/gauss-applications/optimization-mt/)
+ Time Series MT (https://www.aptech.com/pr
+oducts/gauss-applications/time-series-mt/) 
+Toolboxes 
+Description
+A program for generating GAUSS procedures for computing
+algorithmic derivatives.
+Solves the general maximum likelihood problem subject to
+general constraints on the parameters.
+Solves the [URL: "https://en.wikipedia.org/wiki/Nonlinear_programming"] nonlinear programming problem subject to general
+constraints on the parameters.
+Nonlinear [URL: "https://en.wikipedia.org/wiki/Curve_fitting"] curve fitting.
+Basic sample statistics including means, frequencies and
+crosstabs. This application is backwards compatible with
+programs written with Descriptive Statistics 3.1.
+Basic sample statistics including means, frequencies and
+crosstabs. This application is thread-safe and takes advantage of
+structures.
+A statistical package for estimating [URL: "https://en.wikipedia.org/wiki/Discrete_choice"] discrete choice and other
+models in which the dependent variable is qualitative in some
+way.
+Comprehensive suite of [URL: "https://en.wikipedia.org/wiki/Autoregressive_conditional_heteroskedasticity#GARCH"] GARCH (Generalized AutoRegressive
+Conditional Heteroskedastic) models for estimating volatility.
+Solves small and large scale [URL: "https://en.wikipedia.org/wiki/Linear_programming"] linear programming problems.
+ Least squares estimation.
+Analysis of [URL: "https://en.wikipedia.org/wiki/Categorical_variable"] categorical data using [URL: "https://en.wikipedia.org/wiki/Log-linear_analysis"] log-linear analysis.
+ Maximum likelihood estimation of the parameters of statistical
+models.
+Solves [URL: "https://en.wikipedia.org/wiki/System_of_polynomial_equations"] systems of nonlinear equations having as many equations
+as unknowns.
+Unconstrained optimization.
+Exact ML estimation of VARMAX, VARMA, ARIMAX, ARIMA,
+and [URL: "https://en.wikipedia.org/wiki/Error_correction_model"] ECM models subject to general constraints on the
+parameters. [URL: "https://en.wikipedia.org/wiki/Panel_data"] Panel data estimation. [URL: "https://en.wikipedia.org/wiki/Unit_root_test"] Cointegration and unit root
+tests.
+See also
+ List of numerical-analysis software
+ Comparison of numerical-analysis software
+Page 3
+References
+1. [URL: "https://www.aptech.com/resources/tutorials/beginner-program-nearest-neighbor-search/#step-1-create-a-new-gauss-program-file"] "Beginner Program: Nearest Neighbour Search" (https://www.aptech.com/resources/tutorial
+s/beginner-program-nearest-neighbor-search/#step-1-create-a-new-gauss-program-file).
+Aptech. Retrieved 2020-02-06. "GAUSS does not require any particular file extension for
+GAUSS program files, however, .gss is recommended."
+2. [URL: "https://store.aptech.com/gauss-applications-category.html"] "Explore GAUSS Application Modules | Aptech" (https://store.aptech.com/gauss-application
+s-category.html). store.aptech.com. Retrieved 2022-03-29.
+External links
+ International homepage (http://www.aptech.com/)
+ GAUSS Mailing List (https://web.archive.org/web/20080214092434/http://www.aptech.com/g
+aussians.html)
+ Review of version 7.0 (https://web.archive.org/web/20160303202055/http://www.deskeng.co
+m/articles/aaabjg.htm)
+ Some more links (https://web.archive.org/web/20160629103844/http://www.aae.wisc.edu/aa
+e637/gausscode.htm)
+Retrieved from "[URL: "https://en.wikipedia.org/w/index.php?title=GAUSS_(software)&oldid=1087009682"] https://en.wikipedia.org/w/index.php?title=GAUSS_(software)&oldid=1087009682"
+This page was last edited on 9 May 2022, at 19:21 (UTC).
+Text is available under the [URL: "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"] Creative Commons Attribution-ShareAlike License 3.0;additional terms may apply. By
+using this site, you agree to the [URL: "https://foundation.wikimedia.org/wiki/Terms_of_Use"] Terms of Use and [URL: "https://foundation.wikimedia.org/wiki/Privacy_policy"] Privacy Policy. Wikipedia® is a registered trademark of the
+ Wikimedia Foundation, Inc., a non-profit organization.

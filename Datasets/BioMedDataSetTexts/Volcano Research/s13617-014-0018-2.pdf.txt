@@ -1,0 +1,681 @@
+BOOKMARKS:
+Abstract
+Introduction
+Present VAFF system
+Contributions to improvement of the VAFF system
+  Improvements to ash-fall forecasts
+  Survey to determine needs of VAFF users
+  Working group on advanced VAFF
+Future volcanic ash fall forecasts
+  Types of forecast
+    Information issued before an eruption (Regular Information)
+    Brief forecast issued immediately after an eruption (Preliminary Forecast)
+    Full Forecast issued after the eruption (Full Forecast)
+  Format of VAFFs
+  Categories of ash-fall quantity
+  Information about lapilli fall
+  Trial distribution of proposed new VAFF
+Further refinements of VAFF system
+Discussion
+  Effect of strong winds on forecast accuracy
+  Estimation of mass of volcanic ash in ash plumes
+Conclusion
+Competing interests
+Authors’ contribution
+Acknowledgements
+Author details
+References
+Page 1
+Hasegawa et al. Journal of Applied Volcanology (2015) 4:2
+DOI 10.1186/s13617-014-0018-2
+RESEARCH  Open Access
+Improvements of volcanic ash fall forecasts issued
+by the Japan Meteorological Agency
+Yoshihiko Hasegawa1*, Akira Sugai1, Yosuke Hayashi1, Yuta Hayashi1, Shoji Saito1 and Toshiki Shimbori2
+Abstract
+Since March 2008, the Japan Meteorological Agency (JMA) has operated a Volcanic Ash Fall Forecast (VAFF) system
+to issue forecasts of areas in Japan where ash falls are expected following volcanic eruptions. The hazardous effects
+of ash falls vary according to the quantity of ash generated and have different consequences for agriculture,
+communication and transport networks, and buildings. The prediction techniques based on the JMA Regional
+Atmospheric Transport Model were recently revised by the Meteorological Research Institute of JMA to allow
+predictions of the quantity and areas of ash fall, and areas to be affected by lapilli fall. JMA plans further
+improvements to the VAFF system to address the needs of people living near active volcanoes and to take into
+account expert advice in fields such as volcanology, disaster prevention, and broadcasting and medical services.
+The improved VAFF system will provide three types of information: a regular information before possible eruption, a
+brief preliminary forecast issued 5–10 minutes after an eruption, and a full forecast issued 20–30 minutes after an
+eruption. JMA has developed a table to accompany VAFFs that categorizes the hazardous effects for people
+according to various quantities of ash fall, and provides advice on preparedness measures and actions to be taken
+when an ash fall occurs. The new VAFF system will also provide predictions of areas of expected lapilli fall. JMA will
+start operation of the new VAFF system in spring 2015.
+Introduction
+Since March 2008, the Japan Meteorological Agency
+(JMA) has operated the Volcanic Ash Fall Forecast
+(VAFF) system to provide forecasts when ash falls are
+expected to affect large areas. However, the present sys-
+tem predicts only the areas where ash may fall. A survey
+of VAFF users conducted in 2012 by JMA in areas close
+to active volcanoes (e.g. Asamayama, Kirishimayama,
+and Sakurajima) demonstrated strong demand for fore-
+casts of the quantity of ash falls, prediction of areas of
+expected lapilli falls, and early issue of VAFFs. Recent
+studies by the Meteorological Research Institute (MRI)
+of JMA and an upgrade of the JMA supercomputer
+system will allow JMA to improve the current system by
+adding predictions of the quantity of ash falls and infor-
+mation about expected lapilli falls.
+Volcanic ash falls affect buildings and many areas of
+human activity, such as traffic, infrastructure lifelines,
+agriculture, forestry, fisheries, and human health (e.g. 
+Mt. Fuji Hazard Map Examination Committee 2004;
+Horwell and Baxter 2006; Wilson et al. 2012). The haz-
+ards differ among these areas, and also according to the
+quantity of ash falls. Prediction of the quantity of ash
+falls is important for disaster mitigation or prevention.
+In March 2013, JMA presented a Proposal for Advanced
+VAFF at a meeting of the Working Group on Advanced
+VAFF. Based on that proposal, JMA will update the
+existing VAFF system to incorporate new capabilities
+and create a distribution system for forecasts. JMA plans
+to have the new system operational in spring 2015.
+Present VAFF system
+Under the present system, VAFFs are issued by JMA 30
+to 40 minutes after large eruptions. The criteria for
+issuance of VAFFs are provided in Table 1. The VAFF is
+a graphical format including forecasts of the areal extent
+of ash fall at one-hour intervals for six hours after the
+eruption (Figure 1).  VAFFs are sent to authorities at
+* Correspondence: [URL: "mailto:y-hasegawa@met.kishou.go.jp"] y-hasegawa@met.kishou.go.jp
+1Japan Meteorological Agency, Chiyoda-ku, Tokyo, Japan
+Full list of author information is available at the end of the article
+© 2015 Hasegawa et al.; licensee Springer. This is an Open Access article distributed under the terms of the Creative Commons
+Attribution License ([URL: "http://creativecommons.org/licenses/by/4.0"] http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction
+in any medium, provided the original work is properly credited.
+Page 2
+Hasegawa et al. Journal of Applied Volcanology (2015) 4:2  Page 2 of 12
+Table 1 JMA Criteria for issue of VAFFs (effective
+March 2014)
+Volcano  Criteria
+Asamayama Observation of an eruption of plume height
+≥3000 m above the crater rim. For plume
+heights of 1000–3000 m, a VAFF may be
+issued under some circumstances.
+Kirishimayama
+(Shinmoedake) 
+Observation of an eruption of plume height
+≥2000 m above the crater rim.
+Sakurajima Observation of an eruption of plume height
+≥2500 m (criterion was 3000 m until May
+20, 2013) above the crater rim.
+Other Japanese volcanoes Observation of an eruption plume height of
+≥3000 m above the crater rim.
+affected prefectures, disaster prevention agencies, and
+JMA branch offices and posted on the JMA website.
+VAFFs have been issued for eruptions at Asamayama,
+Kirishimayama, and Sakurajima volcanoes from March
+2008 to March 2014 (Figure 2 and Table 2). 
+Contributions to improvement of the VAFF
+system
+Improvements to ash-fall forecasts
+Predictions of the areas and quantities of ash fall, and
+of areas of lapilli fall, have been improved in accuracy
+as a result of recent studies by MRI (Hashimoto et al.
+2012; Shimbori et al. 2014).  These studies document
+the use of weather radar systems to accurately mea-
+sure the heights of volcanic plumes, which provide
+important initial data for predictive use. The re-
+cent upgrade of the JMA supercomputer system has
+also improved the precision of ash-fall and lapilli-fall
+predictions.
+MRI applied the methodology described by Shimbori
+et al. (2014) to the 2011 eruption from the Shinmoedake
+crater of Kirishimayama volcano to derive predicted
+ash-fall data that matched observed data reasonably well
+(Figure 3; Shimbori et al. 2014).  JMA will incorporate
+this methodology in the new VAFF system.
+Figure 1 Example of a VAFF as issued under the present system. Translations from Japanese as numbered below. *1 Volcano name: Sakurajima
+volcano. *2 Forecast title. *3 Time of issue: 13:50 JST June 13, 2013. *4 Summary: An eruption at 13:26 (JST) on June 13 produced a plume that extended to
+3300 m above the crater. Ash may fall in Kagoshima and Miyazaki Prefectures. This forecast is valid until 19:00 (JST) on June 13. *5 Responsible observatory:
+Fukuoka Regional Headquarters and Kagoshima Local Meteorological Office *6 Legend. “red filled area”: Forecast areal extent of ash fall at approximately
+1-h intervals after onset of eruption. *7 Time at which map of forecast extent of ash fall (*8) applies: 17:00 (JST) on June 13. *8 Forecast areal extent
+of ash fall.
+Page 3
+Hasegawa et al. Journal of Applied Volcanology (2015) 4:2  Page 3 of 12
+Figure 2 Volcanoes for which JMA issued VAFFs between March
+2008 and March 2014. *Shinmoedake crater of Kirishimayama volcano.
+Technical methods of the VAFF are as follows: We
+first estimate the total mass of tephra from an eruption
+on the basis of plume height and eruption duration
+(Sect. A.2 of Shimbori et al. (2010) based on Suzuki
+(1990)) and then use the JMA Regional Atmospheric
+Transport Model (JMA-RATM) driven by the grid point
+values of the numerical weather prediction model to
+predict the quantity of ash fall (thickness of predicted
+ash layer), the extent of the area of ash fall and the area
+in which lapilli are expected to fall (Figure 4).
+Survey to determine needs of VAFF users
+During March to September 2012, JMA carried out a
+survey to determine the needs of VAFF users in areas
+near volcanoes where there have been recent ash falls.
+Participants included disaster prevention organizations
+Table 2 Number of VAFFs issued by JMA from March 31,
+2008 to March 31, 2014
+Asamayama Kirishimayama Sakurajima
+(Shinmoedake)
+2008 (Mar 31–Dec)
+2009  11 
+2
+3
+2010
+2011  392  1
+2012
+2013 
+4
+523
+2014 (Jan–Mar)
+1Eruption on February 2, 2009.
+2Eruptions from January 26 to April 18, 2011.
+3Criterion for issue of VAFF changed on May 20, 2013. 
+6 
+near Sakurajima, Kirishimayama, and Asamayama vol-
+canoes (227 responses),  local communities near those
+three volcanoes (386 responses),  and local government
+authorities near 47 other active volcanoes in Japan (116
+responses).  The 47 volcanoes were selected on the
+recommendation of the Coordinating Committee for
+Prediction of Volcanic Eruption, a consultant body that
+advises the Director General of JMA.
+Questions in the survey addressed VAFF users’  needs
+in terms of the specific types of information they re-
+quire, the timing of issue of VAFFs, and their means of
+access to VAFFs. Respondents were asked to consider
+their needs for VAFFs issued at three stages: before an
+eruption, immediately after the onset of an eruption, and
+after an eruption.
+The result of the survey showed strong demand for
+early forecasts of the onset time and severity of ash fall
+and the areas to be affected, and information about areas
+to be affected by lapilli fall. The full survey results were
+published by JMA (2013).
+Working group on advanced VAFF
+JMA formed a Working Group on Advanced VAFF,
+which held meetings on July 5 and November 8, 2012,
+and February 19, 2013. The 16-member group included
+representatives from disaster prevention organizations,
+agricultural organizations, medical and broadcasting ser-
+vices, local government bodies, and volcanologists. The
+working group considered the results of the 2012 survey
+and sought to identify ways of improving the VAFF
+system to provide more-effective disaster mitigation.
+Matters discussed included how and what information
+should be provided, the conditions under which VAFFs
+should be issued, and appropriate forecasts for affected
+communities for various quantities of ash fall.
+Outcomes of the meetings were published in March
+2013 (Working Group on Advanced VAFF 2013b) and
+are summarized below.
+VAFFs should be issued when the forecast quantity of
+an ash fall is likely to affect local communities or the
+utilities they depend on in their daily life.
+VAFFs should be easy for people to understand and
+act upon, and should include information about forecast
+lapilli falls.
+VAFFs should be issued at three stages:
+Before a possible eruption: regular information, including
+forecasts of areas that may be affected by ash fall and the
+likelihood of lapilli fall.
+As soon as possible after the onset of an eruption: pre-
+liminary release of a brief forecast of the quantity of ash
+fall, areas to be affected, and the likelihood of lapilli fall.
+After an eruption: when sufficient data are available, a
+detailed forecast of when ash fall will start and its
+quantity and areas to be affected.
+Page 4
+Hasegawa et al. Journal of Applied Volcanology (2015) 4:2  Page 4 of 12
+Figure 3 Comparison of ash-fall quantity forecast using MRI method and observed ash-fall quantity. (a) Quantitative tephra-fall predictions
+(g/m2) from 15:00 JST on January 26 until 00:00 JST on January 28 based on JMA-RATM for the 2011 eruption at Shinmoedake volcano. Initial values
+for plume height and eruption duration based on data from the JMA weather radar network (Shimbori et al. 2014). Legend: ●, ash fall observed; ○, no
+ash fall observed. (b) Ash-fall observations (kg/m2) for eruptions at Shinmoedake volcano during January 26–27, 2011 (Furukawa 2011). Colored dots
+correspond to the color bar at the left side in the figure (b).
+VAFFs should categorize ash falls according to quantity,
+describe the potential impacts of each category on
+human health, transport systems, and utilities, and
+provide advice as to the appropriate actions to be taken
+by the general public during and after ash falls.
+There should be a trial VAFF distribution to local gov-
+ernment bodies near Sakurajima volcano incorporating
+Figure 4 Flowchart of procedure for tephra-fall predictions
+using the JMA Regional Atmospheric Transport Model. Meso-scale
+Model (MSM) and Local Forecast Model (LFM) are gridded weather
+data (e.g., wind speed and direction, air temperature, atmospheric
+pressure) calculated by using the JMA numerical weather prediction
+model based on the Non-hydrostatic Model (NHM). 
+the recommended improvements to the VAFF system
+and seeking their feedback.
+Case studies are needed that illustrate the effects and
+appropriate actions for the general public for different
+quantities of ash fall.
+Where applicable, results of volcanological studies
+undertaken at universities and other research institutions
+should be used to improve the VAFF system.
+Future volcanic ash fall forecasts
+JMA is preparing to implement the improved VAFF sys-
+tem based on the Proposal for Advanced VAFF (Working
+Group on Advanced VAFF 2013b). The major improve-
+ments (Table 3) are as follows:
+Sequential release of three types of VAFF: regular infor-
+mation issued before an possible eruption, a brief pre-
+liminary forecast issued 5–10 minutes after an eruption
+starts, and a full forecast issued 20–30 minutes after the
+eruption.
+VAFFs will be issued in Japanese in both graphical and
+text formats.
+JMA will provide a table categorizing ash falls by
+quantity (little, moderate, and much),  documenting
+the likely effects on the general public, and advising
+them of necessary preparedness measures (Figure 5).
+VAFFs will be issued for ash-fall quantities in the
+moderate and much categories (Figure 5).
+VAFFs will provide predictions of areas of lapilli fall
+(lapilli size ≥1 cm) separated from predictions of ash fall
+Page 5
+Hasegawa et al. Journal of Applied Volcanology (2015) 4:2  Page 5 of 12
+Table 3 Comparison of present and proposed VAFFs
+Present VAFF  Proposed VAFF
+Type and timing of Volcanic Ash Fall Forecast
+forecast 
+Issued within 30–40 min of
+onset of eruption 
+Regular Information
+Issued regularly (e.g. 3 hourly)
+before possible eruption
+Contents Forecast1 of situation at six
+1-h intervals after onset of
+eruption: Ash fall area.
+Prefectures where ash may
+fall 
+Forecast1 for an assumed
+eruption: Ash-fall area.
+Lapilli-fall area. Recommended
+actions for affected
+communities
+1Meso-scale Model used for forecasts (see Figure 4).
+2Local Forecast Model used for forecasts (see Figure 4). 
+Preliminary Forecast
+Issued within 5–10 min of
+onset of eruption
+Forecast2 for first hour after
+onset of eruption: Ash-fall area
+and quantity. Municipalities
+affected. Lapilli-fall area.
+Recommended actions for
+affected communities 
+Full Forecast
+Issued within 20–30 min of
+onset of eruption
+Forecast2 of situation at six
+1-h intervals after onset of
+eruption: Ash-fall area and
+quantity. Municipalities
+affected. Start of ash fall
+for each municipality.
+Recommended action for
+affected communities
+and provide recommended actions for people in areas
+affected, because ash fall and lapilli fall pose different
+hazards. Ash fall can, for example, cause a loss of trac-
+tion on roadways whereas lapilli fall can break wind-
+shields of cars. Furthermore, some lapilli fall damage
+can occur even in areas of moderate ash fall. In addition,
+the prediction of area of lapilli fall was also strongly
+needed from users of VAFF (JMA 2013). 
+Types of forecast
+Because the effects of ash fall manifest quickly after an
+eruption, VAFFs must be issued as early as possible.
+However, the information available at the start of an
+eruption lacks accuracy. Considering the needs of VAFF
+users and the technical limitations of ash-fall predic-
+tions, JMA will issue three types of VAFF, as described
+below (Figure 6).
+Figure 5 Categories of ash-fall quantity and corresponding conditions and preparedness measures. Table extracted from Working Group
+on Advanced VAFF (2013b) and translated into English.
+Page 6
+Hasegawa et al. Journal of Applied Volcanology (2015) 4:2  Page 6 of 12
+Figure 6 Flow diagram showing timing of issue and contents of the current VAFF and the proposed new VAFF. *1 JMA provides wind
+forecasts above volcanoes that have high likelihood of eruption. *2 JMA provides data such as eruption time, plume height, and direction of
+plume extension about 5 minutes after onset of an eruption.
+Information issued before an eruption (Regular
+Information)
+This information will be issued regularly (e.g. 3 hourly)
+when there is a possibility that an eruption may occur
+to provide information on potential areas of ash fall
+and lapilli fall so that local communities can prepare
+(Figure 7).
+Since the 1980s, JMA has issued current and forecast
+information about winds above Sakurajima volcano at
+regular intervals (e.g. twice daily) to allow local residents
+to prepare for possible ash fall.
+Brief forecast issued immediately after an eruption
+(Preliminary Forecast)
+The Preliminary Forecast will be issued within 5–10
+minutes of the onset of an eruption. It will be based
+on JMA’s standard ‘Observation Report on Eruption’
+(eruption time, plume height and direction of movement)
+and will provide initial forecasts of ash-fall and lapilli-fall
+areas (Figure 8). The Preliminary Forecast will be impor-
+tant for communities close to the volcano.
+To facilitate early issue, JMA has prepared in advance
+various model forecasts for different conditions (eruption
+time, plume height, wind direction).  When an eruption
+starts, JMA will use the model forecast that best fits the
+observed conditions for the Preliminary Forecast. 
+Full Forecast issued after the eruption (Full Forecast)
+The Full Forecast will be issued within 20–30 minutes of
+the onset of an eruption and will contain accurate fore-
+casts of the area and quantity of ash fall. It will give
+communities living farther from the volcano time to
+make appropriate preparations for ash fall (Figure 9).
+For the Full Forecast, JMA will improve the accuracy of
+plume height estimates of the previously issued Pre-
+liminary Forecast by using weather radar and meteoro-
+logical satellite data in addition to visual observations.
+Format of VAFFs
+VAFF information will be provided in the following
+formats.
+Textual information will be provided in Extensible
+Markup Language (XML).
+Graphical information will be provided in Portable
+Document Format (PDF) format.
+For specialist users, quantitative forecasts (g/m2) of
+ash fall will be provided as numerical data at the JMA
+website.
+Categories of ash-fall quantity
+Quantitative predictions of the amount of ash fall
+(expressed in g/m2) include some errors and may be
+difficult for non-specialist VAFF users to understand.
+Page 7
+Hasegawa et al. Journal of Applied Volcanology (2015) 4:2  Page 7 of 12
+Figure 7 Sample of Regular Information (graphical format) in the new VAFF format. Translations from Japanese as numbered below.
+*1 Volcano name: Sakurajima volcano. *2 Information title. *3 Time of issue and source: Issued at 05:00 JST on November 7, 2014, by Seismology and
+Volcanology Department of JMA. *4 Summary: Forecasts of areal extents of ash fall and lapilli fall for possible eruptions at three-hour intervals between
+06:00 and 24:00 JST on November 7 are provided by the maps below. The forecast of areal extent of ash fall between 09:00 and 12:00 JST is forecasted
+to southern direction and that between 21:00 and 2400 JST is forecasted to north-west direction. Forecast areas of ash fall and lapilli fall are based
+on an eruption producing a 3000 m vertical plume above the crater. People in areas where lapilli fall is forecast should stay indoors or take refuge
+under a solid roof. *5 Legend: Forecast areal extents of ash fall and lapilli fall. “Gray filled area”: Ash fall. “Red filled area”: Lapilli fall (≥1 cm size).
+*6 Annotation of time of eruption: 15:00 – 18:00 JST on November 7. *7 Direction and distance from the crater to maximum extent of ash fall area.
+Name of localities affected is provided in parentheses: Direction and distance are south-east and 20 km, respectively (direction of Tarumizu city and
+Kanoya city). *8 Map showing forecast areal extent of ash fall. *9 Distance from the crater to maximum extent of area of lapilli fall: 3 km. *10 Map
+showing forecast areal extent of lapilli fall.
+Page 8
+Hasegawa et al. Journal of Applied Volcanology (2015) 4:2  Page 8 of 12
+Figure 8 Sample of Preliminary Forecast (graphical format) in the new VAFF format. Translations from Japanese as numbered below.
+*1 Volcano name: Sakurajima volcano. *2 Forecast title. *3 Time of issue and responsible observatory. *4 Summary: An eruption occurred at 08:04
+on November 7. A 2000 m eruption plume formed and is rising and extending to south. An ash fall of moderate quantity and areal extent of ash fall is
+forecast for Kagoshima city (Sakurajima) and areal extent of lapilli fall is forecasted to 3 km away from the crater to south-east direction is forecasted
+within one hour after onset of the eruption. *5 Forecast of municipalities affected: An ash fall of moderate quantity is forecast in Kagoshima city.
+*6 Precautions for disaster prevention: People in the open air in areas where a moderate ash fall is forecast should use an umbrella or wear a face
+mask to minimize their exposure to ash. People driving vehicles should drive slowly. People in areas where a lapilli fall is forecast should stay indoors or
+take refuge under a solid roof. *7 Reference: Categories of ash fall quantity. Much: Ash deposits more than 1 mm thick; low visibility by ash fall
+and roads completely covered by ash; Stay Indoors. Moderate: Ash deposits 0.1 to 1 mm thick; recognizable ash fall and road markings partly
+obscured by ash; Attention. Little: thin ash deposits, less than 0.1 mm thick. *8 Forecast areal extent of ash fall. *9 Legend (ash fall). “Yellow filled
+area”: Area of ash fall of moderate quantity. “Gray filled area”: Area of ash fall of little quantity. Thick black line: boundary of municipality to be
+affected by ash fall. *10: Forecast areal extent of lapilli fall. *11: Legend (lapilli fall). “Red filled area”: Area of lapilli fall (≥1 cm size).
+Therefore, ash-fall quantities will be expressed in three
+qualitative categories (little, moderate, and much),  as
+proposed by the Working Group on Advanced VAFF.
+These categories will each be accompanied by estimates
+of the expected thickness of ash deposits, a simple
+description (including photos) of the conditions that
+communities may encounter after an ash fall (road con-
+ditions, reduced visibility), and recommended safety pre-
+cautions to be taken by the general public (Figure 5).
+Information about lapilli fall
+The damage caused by lapilli of ≥1 cm size can be con-
+siderable (Figure 10 and Table 4). Because lapilli fall fas-
+ter than ash particles, their arrival at the ground surface
+precedes that of ash particles. Even for small eruptions 
+with small plumes, considerable damage can be caused
+by only a few large lapilli. JMA will therefore provide
+forecasts of areas of lapilli fall where lapilli of ≥1 cm size
+are expected.
+Trial distribution of proposed new VAFF
+Since April 2013, JMA has trialed distribution of the
+proposed new VAFF (as described above and based on
+real eruption data) to local government authorities in
+the region of Sakurajima volcano. In this region, the
+residents of Kagoshima city (population ~600,000) have
+experienced frequent ash falls for several decades. JMA
+will use feedback from the trial to further refine the
+contents of VAFFs and the conditions under which they
+are issued.
+Page 9
+Hasegawa et al. Journal of Applied Volcanology (2015) 4:2  Page 9 of 12
+Figure 9 Sample of Full Forecast (graphical format) in the new VAFF format. Translations from Japanese as numbered below. *1 Volcano
+name: Sakurajima volcano. *2 Forecast title. *3 Time of issue and responsible observatory. *4 Summary: An eruption occurred at 08:04 on November
+7. A 3500 m eruption plume extended to south was observed. An ash fall of moderate quantity is forecast for Kagoshima city (Sakurajima), and areal
+extent of ash fall is forecasted to Mishima village. *5 Forecast of municipalities affected and start time and quantity of ash fall: Forecasts of ash fall
+quantity and municipalities affected are as follows. Moderate: Kagoshima city. Little: Ibusuki city et al. Forecast starts of ash fall at municipalities are as
+follows. Before 09:00 on November 7: Kagoshima city and Tarumizu city. 09:00 to 10:00: Ibusuki city and Minami-kyusyu city. 12:00 to 13:00: Minami-osumi
+town. 13:00 to 14:00: Mishima village. *6 Precautions for disaster prevention. People in the open air in areas where moderate ash fall is forecast should
+use an umbrella or wear a face mask to minimize exposure to ash. People driving vehicles should drive slowly. *7 Reference: Categories of ash-fall
+quantity. Much: Ash deposits more than 1 mm thick; low visibility by ash fall and roads completely covered by ash; Stay Indoors. Moderate: Ash
+deposits 0.1 to 1 mm thick; recognizable ash fall and road markings partly obscured by ash; Attention. Little: thin ash deposits, less than 0.1 mm
+thick. *8 Legend: “Yellow filled area”: Area of ash fall of moderate quantity. “Gray filled area”: Area of ash fall of little quantity. Thick black line:
+boundary of municipality to be affected by ash fall. *9 Time of forecast shown below (*10). *10 Forecast areal extent of ash fall for each
+quantity category.
+Further refinements of VAFF system
+JMA and MRI will continue to work together to refine
+the VAFF system. Areas to be addressed include:
+Improvement of RATM-based ash-fall predictions for
+strong wind conditions and for large-scale eruptions.
+Development of a method to estimate volcanic plume
+height, eruption column mass and eruption duration 
+at times when bad weather prevents visual observations
+and observations using radar data and satellite imagery.
+Regular examination of the relationship between ash-
+fall quantity and its effect on people, and review of the
+recommended actions for affected communities.
+Regular review of the three categories of ash-fall quantity
+and the thresholds that separate them (Figure 5).
+Page 10
+Hasegawa et al. Journal of Applied Volcanology (2015) 4:2  Page 10 of 12
+Discussion
+The Working Group on Advanced VAFF (2013b) re-
+commended further work on the accuracy of the JMA
+ash-fall prediction model RATM, for periods of strong
+winds and review of the methodology used to calculate
+the mass of ash in a volcanic plume. These two issues
+are discussed below.
+Figure 10 Damage caused by lapilli fall. Top: Rear car window
+destroyed by lapilli fall (4 to 6 cm size) 7 km from the Shinmoedake
+crater of Kirishimayama volcano. Bottom: Individual lapillus. Individual
+squares on the ruler are 5 mm by 5 mm. Photos by JMA (January
+27, 2011). 
+Effect of strong winds on forecast accuracy
+JMA reviewed the accuracy of lapilli-fall forecasts provided
+in trial VAFFs issued for eight eruptions of Sakurajima vol-
+cano between April 2013 and February 2014. Lapilli falls
+were observed more than 3 km from the craters in all
+cases. With one exception, the actual areas of lapilli fall
+agreed well with forecasts. The errant forecast was for an
+eruption on September 4, 2013 (Figure 11),  where the
+forecast area of lapilli fall was clearly smaller than the
+observed area. During this eruption, wind speed about
+500 m above the volcano was 13 m/s, whereas wind speeds
+during the other seven eruptions were 5–10 m/s.
+For initial predictions of areas of ash fall, the JMA-
+RATM assumes that ash plumes form a vertical column
+directly above the crater (Shimbori et al. 2010).  Under
+the influence of strong winds, an ash plume (and the
+lapilli it contains) may drift leeward and diverge from the
+vertical, thus resulting in lapilli fall over a greater area
+than predicted, as was suggested by the Working Group
+on Advanced VAFF (2013b).  Although we do not have
+sufficient data to allow us to examine ash falls under
+strong wind conditions, we consider that strong winds will
+reduce the accuracy of our ash-fall predictions.
+The current model for plume formation needs revision
+to take into account the effect of strong winds (Suzuki
+and Koyaguchi 2013). In addition, local topographic ef-
+fects near the volcano, assumed grain-size distribution,
+and vertical distribution of lapilli in the initial eruption
+Table 4 Examples of damage due to lapilli fall after recent eruptions in Japan (since 1970)
+Volcano  Eruption date (yyyy/mm/dd)  Size of lapilli Damage
+Sakurajima  1983/8/14  6–7 cm  Windshield of car, glass pane in front door of house
+Sakurajima  1978/7/31  5–6 cm  Injuries to people, car window, house window
+Sakurajima  1986/6/24  5–6 cm  Windshield of car, slate roof
+Sakurajima  1979/1/5  4–6 cm  Windshield of car
+Kirishimayama (Shinmoedake) 2011/1/27  4–6 cm  Window of car
+Sakurajima  1983/5/26  4 cm  Windshield of car, slate roof
+Sakurajima  2000/10/7  3 cm  Window of car, greenhouse
+Asamayama  1973/2/20  3 cm  Window of car
+Sakurajima  1986/8/16  2–3 cm  Windshield of car
+Kirishimayama (Shinmoedake) 2011/4/18  2 cm  Solar panel and fittings
+Sakurajima  1983/8/14  1–3 cm  Window of car
+Kirishimayama (Shinmoedake) 2011/2/14  1.5–2 cm  Slate roof
+Table translated into English from Working Group on Advanced VAFF (2013a).
+Page 11
+Hasegawa et al. Journal of Applied Volcanology (2015) 4:2  Page 11 of 12
+Figure 11 Comparisons of predicted and observed areas of lapilli fall for two eruptions at Sakurajima volcano. Left: Underestimation of
+area and lapilli clast size of lapilli fall for an eruption at 11:00 JST on September 4, 2013. The plume rose 2800 m above the crater and wind speed
+at about 500 m above the crater at the time of the eruption was 12.6 m/s. Right: Predicted and observed areas and lapilli clast size of lapilli fall in
+agreement. Eruption at 14:37 JST on January 22, 2014. The plume rose 2800 m above the crater and wind speed at about 500 m above the crater
+at the time of the eruption was 6.3 m/s. Red: Points or areas where lapilli fall was observed. Obs: maximum size of observed lapilli. Yellow:
+Predicted area of lapilli fall and size of lapilli; contours and their annotations indicate size of lapilli.
+column model also need to be considered adequately.
+Evaluation of these factors should be the subject of future
+research. 
+approach are inaccurate for small eruptions. As suggested
+by the Working Group on Advanced VAFF (2013b), further
+study is needed to improve these estimates.
+Estimation of mass of volcanic ash in ash plumes
+The JMA-RATM estimates the mass of volcanic ash in a
+plume by applying a formula based on empirical data from
+past eruptions in various parts of the world (plume height,
+eruption duration, and field data on actual areas of ash
+fall; Sect. A.2 of Shimbori et al. (2010). To date, we have
+applied this model regardless of plume size; however, the
+Working Group on Advanced VAFF (2013b) suggested
+that this approach might not be accurate for small
+eruptions.
+Between April 2013 and February 2014 there were only
+four eruptions at Sakurajima volcano for which there were
+sufficient observations to allow us to compare observed
+and predicted masses of ash generated. Although our esti-
+mate was accurate for the largest of these eruptions (16:31
+JST on August 18, 2013), which generated an ash plume
+that rose 5000 m above the crater, we underestimated the
+masses of ash for the three smaller eruptions, which had
+plume heights of 2400–3300 m.
+These results suggest that the estimates of the masses
+of ash in plumes that we obtained by using the current 
+Conclusion
+To improve the current VAFF system and make it a
+more-effective tool for disaster prevention or mitigation,
+JMA took into account the needs of VAFF users and the
+opinions of experts in various fields including disaster
+prevention organizations. The current VAFF provides
+only forecasts of areas of ash fall. Important improve-
+ments to be implemented in the new VAFF system are
+the provision of predictions of ash-fall quantity and
+areas of lapilli fall. Two factors that have made impor-
+tant contributions to these improvements are advances
+in the methodology for prediction of ash-fall quantity
+and areas of lapilli fall as a result of studies by MRI, and
+increased processing capacity of the JMA supercomputer
+system following a recent upgrade.
+The main improvements incorporated in the new
+VAFF system are as follows.
+Three types of VAFF will be sequentially issued: infor-
+mation issued before an eruption (Regular Information),
+a brief forecast issued within 10 minutes of the onset of
+an eruption (Preliminary Forecast) and a more extensive
+Page 12
+Hasegawa et al. Journal of Applied Volcanology (2015) 4:2  Page 12 of 12
+and accurate forecast issued within 30 minutes of the
+onset of the eruption (Full Forecast).
+VAFFs will be issued in Japanese in both graphical format
+and text format.
+JMA will provide with VAFFs a table that categorizes
+ash fall by quantity, documents the potential effects on
+people for each category and the preparedness measures
+they should take.
+VAFFs will be issued for ash falls of moderate and
+much quantity.
+In addition to forecasts of areas of ash fall provided in
+current VAFFs, the new VAFFs will include predictions
+of ash-fall quantity and areas of lapilli fall (for lapilli
+size ≥1 cm), and recommended precautions for people
+to take during and after ash and lapilli falls.
+JMA plans to start using the new VAFF system in
+spring 2015, and will continue to review and make
+further improvements in the future.
+Competing interests
+The authors declare that they have no competing interests.
+Authors’ contribution
+YHas guided the review process of the research, and is the main author of
+the manuscript. AS contributed to making of format of new VAFF and the
+categories of ash fall quantity. YoHay contributed to making of format of
+new VAFF and the categories of ash fall quantity. YuHay contributed to
+making of format of new VAFF and the categories of ash fall quantity. SS
+contributed to making of format of new VAFF and the categories of ash fall
+quantity. TS contributed to improvement of techniques of ash fall prediction.
+All authors read and approved the final manuscript.
+Acknowledgements
+We are grateful to the chairman (Prof. A. Tanaka) and members of the
+Working Group on Advanced VAFF for their contributions to this project.
+We thank the people who participated in our survey of the needs of VAFF
+users near Asamayama, Kirishimayama, and Sakurajima volcanoes, and the
+organizations that cooperated in our trial distribution of VAFFs near
+Sakurajima volcano, including local governments and local media. We also
+thank two anonymous reviewers. Advice about improvements of the VAFF
+system from Dr. H. Yamasato, S. Harada, and other JMA staff members is
+much appreciated.
+Author details
+1Japan Meteorological Agency, Chiyoda-ku, Tokyo, Japan. 2Meteorological
+Research Institute, Tsukuba, Ibaraki, Japan.
+Received: 29 May 2014 Accepted: 16 December 2014 
+model for volcanic ash: A case study of the eruption at Asama volcano in
+2009 (in Japanese). Pap Met Geophys 61:13–29, doi:10.2467/mripapers.61.13
+Shimbori T, Kai R, Hayashi Y, Hayashi Y, Sugai A, Hasegawa Y, Hashimoto A,
+Takagi A, Yamamoto T, Fukui K (2014) Tephra fall predictions with the JMA
+regional atmospheric transport model: A case study of the eruptions at
+Shinmoe-dake volcano in 2011 (in Japanese). Pap Met Geophys 65:75–107,
+doi:10.2467/mripapers.65.75
+Suzuki T (1990) Potential hazards of pyroclastic air-fall (in Japanese). Bull Inst
+Vocational Training 19A:1–17
+Suzuki YJ, Koyaguchi T (2013) 3D numerical simulation of volcanic eruption
+clouds during the 2011 Shinmoe-dake eruptions. Earth Planets Space
+65:581–589, doi:10.5047/eps.2013.03.009
+Wilson TM, Stewart C, Sword-Daniels V, Leonard GS, Johnston DM, Cole JW,
+Wardman J, Wilson G, Barnard ST (2012) Volcanic ash impacts on critical
+infrastructure. Phys Chem Earth 45–46:5–23, doi:10.1016/j.pce.2011.06.006
+Working Group on Advanced VAFF (2013a) Materials of 3rd Meeting of the
+Working Group on Advanced VAFF (in Japanese)., [URL: "http://www.data.jma.go.jp/svd/vois/data/tokyo/STOCK/kouhai/kentokai/3rd/sankou.pdf"] http://www.data.jma.go.jp/
+ svd/vois/data/tokyo/STOCK/kouhai/kentokai/3rd/sankou.pdf
+Working Group on Advanced VAFF (2013b) Proposal for Advanced VAFF
+(in Japanese)., p 27, [URL: "http://www.jma.go.jp/jma/press/1303/29a/teigen.pdf"] http://www.jma.go.jp/jma/press/1303/29a/teigen.pdf
+References
+Furukawa R (2011) Eruption of Shinmoedake volcano, Kirishima volcano group,
+2011. AIST Today 2011–09:15
+Hashimoto A, Shimbori T, Fukui K (2012) Tephra fall simulation for the eruptions
+at Mt. Shinmoe-dake during 26–27 January 2011 with JMA NHM. SOLA
+8:37–40, doi:10.2151/sola. 2012-010
+Horwell CJ, Baxter PJ (2006) The respiratory health hazards of volcanic ash: a
+review for volcanic risk mitigation. Bull Volc 69:1–24
+JMA (2013) Report of Survey of Needs for Improvement of VAFF (in Japanese).,
+p 101, [URL: "http://www.data.jma.go.jp/svd/vois/data/tokyo/STOCK/kouhai/kentokai/needs.pdf"] http://www.data.jma.go.jp/svd/vois/data/tokyo/STOCK/kouhai/
+ kentokai/needs.pdf
+Mt. Fuji Hazard Map Examination Committee (2004) Report of Mt. Fuji Hazard
+Map Examination Committee (in Japanese)., p 240, [URL: "http://www.bousai.go.jp/kazan/fujisan-kyougikai/report/index.html"] http://www.bousai.go.jp/
+ kazan/fujisan-kyougikai/report/index.html
+Shimbori T, Aikawa Y, Fukui K, Hashimoto A, Seino N, Yamasato H (2010)
+Quantitative tephra fall prediction with the JMA mesoscale tracer transport 
+Submit your manuscript to a
+journal and beneﬁ t from:
+7 Convenient online submission
+7 Rigorous peer review
+7 Immediate publication on acceptance
+7 Open access: articles freely available online
+7 High visibility within the ﬁeld
+7 Retaining the copyright to your article
+Submit your next manuscript at 7 springeropen.com

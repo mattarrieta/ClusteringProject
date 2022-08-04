@@ -1,0 +1,474 @@
+Producer: iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+CrossmarkMajorVersionDate: 2010-04-23
+Subject: Crime Science, doi:10.1186/s40163-016-0052-y
+ModDate: 2016/04/06 11:56:10+02'00'
+CrossMarkDomains[1]: springer.com
+Creator: Springer
+Title: Introduction to the special edition ‘Child sexual abuse: analysis and intervention’
+CrossMarkDomains[2]: springerlink.com
+robots: noindex
+doi: 10.1186/s40163-016-0052-y
+CrossmarkDomainExclusive: true
+CreationDate: 2016/04/02 18:30:00+05'30'
+Author: Ella Cockbain
+xmp:xmp:CreateDate: 2016-04-02T18:30+05:30
+xmp:xmp:CreatorTool: Springer
+xmp:xmp:ModifyDate: 2016-04-06T11:56:10+02:00
+xmp:xmp:MetadataDate: 2016-04-06T11:56:10+02:00
+xmp:dc:format: application/pdf
+xmp:dc:identifier: doi:10.1186/s40163-016-0052-y
+xmp:dc:publisher: Springer Berlin Heidelberg
+xmp:dc:description: Crime Science, doi:10.1186/s40163-016-0052-y
+xmp:dc:title: Introduction to the special edition ‘Child sexual abuse: analysis and intervention’
+xmp:dc:creator: Ella Cockbain; Danielle M. Reynald
+xmp:crossmark:DOI: 10.1186/s40163-016-0052-y
+xmp:crossmark:MajorVersionDate: 2010-04-23
+xmp:crossmark:CrossmarkDomainExclusive: true
+xmp:crossmark:CrossMarkDomains: springer.com; springerlink.com
+xmp:prism:url: "http://dx.doi.org/10.1186/s40163-016-0052-y
+xmp:prism:doi: 10.1186/s40163-016-0052-y
+xmp:prism:issn: 2193-7680
+xmp:prism:aggregationType: journal
+xmp:prism:publicationName: Crime Science
+xmp:prism:copyright: Cockbain and Reynald.
+xmp:pdfx:CrossmarkMajorVersionDate: 2010-04-23
+xmp:pdfx:CrossmarkDomainExclusive: true
+xmp:pdfx:doi: 10.1186/s40163-016-0052-y
+xmp:pdfx:robots: noindex
+xmp:pdfx:CrossMarkDomains: springer.com; springerlink.com
+xmp:jav:journal_article_version: VoR
+xmp:xmpMM:DocumentID: uuid:5e4d8c6c-fa5f-432e-a39c-b2cf93299263
+xmp:xmpMM:InstanceID: uuid:09dfca22-4362-4ea7-8f2d-4e6058586676
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:2fbd3e97-ec15-49cc-9a2f-f3b6ae733485
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2016-04-02T18:27:27+05:30
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:dc28e662-9ae8-4177-930a-3cb1a9ae6684
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2016-04-02T18:27:59+05:30
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdfx/1.3/
+xmp:pdfaSchema:prefix: pdfx
+xmp:pdfaSchema:schema: PDF/X ID Schema
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Mirrors crossmark:MajorVersionDate
+xmp:pdfaProperty:name: CrossmarkMajorVersionDate
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Mirrors crossmark:CrossmarkDomainExclusive
+xmp:pdfaProperty:name: CrossmarkDomainExclusive
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Mirrors crossmark:DOI
+xmp:pdfaProperty:name: doi
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Mirrors crossmark:CrosMarkDomains
+xmp:pdfaProperty:name: CrossMarkDomains
+xmp:pdfaProperty:valueType: seq Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A name object indicating whether the document has been modified to include trapping information
+xmp:pdfaProperty:name: robots
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: ID of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXVersion
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Conformance level of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXConformance
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Company creating the PDF
+xmp:pdfaProperty:name: Company
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Date when document was last modified
+xmp:pdfaProperty:name: SourceModified
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://crossref.org/crossmark/1.0/
+xmp:pdfaSchema:prefix: crossmark
+xmp:pdfaSchema:schema: Crossmark Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Usual same as prism:doi
+xmp:pdfaProperty:name: DOI
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: The date when a publication was publishe.
+xmp:pdfaProperty:name: MajorVersionDate
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: CrossmarkDomainExclusive
+xmp:pdfaProperty:name: CrossmarkDomainExclusive
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: CrossMarkDomains
+xmp:pdfaProperty:name: CrossMarkDomains
+xmp:pdfaProperty:valueType: seq Text
+xmp:pdfaSchema:namespaceURI: http://prismstandard.org/namespaces/basic/2.0/
+xmp:pdfaSchema:prefix: prism
+xmp:pdfaSchema:schema: Prism Schema
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: This element provides the url for an article or unit of content. The attribute platform is optionally allowed for situations in which multiple URLs must be specified. PRISM recommends that a subset of the PCV platform values, namely “mobile” and “web”, be used in conjunction with this element. NOTE: PRISM recommends against the use of the #other value allowed in the PRISM Platform controlled vocabulary. In lieu of using #other please reach out to the PRISM group at prism-wg@yahoogroups.com to request addition of your term to the Platform Controlled Vocabulary.
+xmp:pdfaProperty:name: url
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: The Digital Object Identifier for the article. The DOI may also be used as the dc:identifier. If used as a dc:identifier, the URI form should be captured, and the bare identifier should also be captured using prism:doi. If an alternate unique identifier is used as the required dc:identifier, then the DOI should be specified as a bare identifier within prism:doi only. If the URL associated with a DOI is to be specified, then prism:url may be used in conjunction with prism:doi in order to provide the service endpoint (i.e. the URL).
+xmp:pdfaProperty:name: doi
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: ISSN for an electronic version of the issue in which the resource occurs. Permits publishers to include a second ISSN, identifying an electronic version of the issue in which the resource occurs (therefore e(lectronic)Issn. If used, prism:eIssn MUST contain the ISSN of the electronic version.
+xmp:pdfaProperty:name: issn
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Volume number
+xmp:pdfaProperty:name: volume
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Issue number
+xmp:pdfaProperty:name: number
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Starting page
+xmp:pdfaProperty:name: startingPage
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Ending page
+xmp:pdfaProperty:name: endingPage
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: The aggregation type specifies the unit of aggregation for a content collection. Comment PRISM recommends that the PRISM Aggregation Type Controlled Vocabulary be used to provide values for this element. Note: PRISM recommends against the use of the #other value currently allowed in this controlled vocabulary. In lieu of using #other please reach out to the PRISM group at info@prismstandard.org to request addition of your term to the Aggregation Type Controlled Vocabulary.
+xmp:pdfaProperty:name: aggregationType
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Title of the magazine, or other publication, in which a resource was/will be published. Typically this will be used to provide the BOOKMARKS:
+Introduction to the special edition ‘Child sexual abuse: analysis and intervention’
+  References
+Page 1
+Cockbain and Reynald ﻿Crime Sci (2016) 5:4
+DOI 10.1186/s40163-016-0052-y
+SHORT CONTRIBUTION  Open Access
+Introduction to the special edition ‘Child
+sexual abuse: analysis and intervention’
+Ella Cockbain1* and Danielle M. Reynald2
+Sexual offending against children is often framed as a
+‘unique, inexplicable phenomenon’ (Wortley and Small-
+bone 2012 p. 46). Child sexual abuse is after all virtually
+unparalleled in its ability to generate outrage, disgust and
+confusion (see, e.g. Greer 2003; Martellozzo 2012; Wort-
+ley and Smallbone 2012). Attributing such illegal and dis-
+turbing behaviour to an inherent criminal ‘disposition’ or
+medical abnormality (e.g. paedophilia) can have the com-
+forting effect of othering offenders.
+Yet there are evident flaws in the idea that those who
+sexually abuse children form a clearly delineated group
+of deviant monsters Wortley and Smallbone (2006a, 
+2012). Until recently, research focused overwhelmingly
+on assessing the psychopathologies of convicted child
+sex offenders in clinical settings Wortley and Small-
+bone (2006a, b).  Yet despite substantial research of
+this nature, few empirically-substantiated patterns in
+offenders’ demographic or personality characteristics
+were found (Kaufman et al. 2006). Exceptions, such as a
+marked tendency to be male rather than female, are gen-
+erally so broad as to be of little practical use in targeting
+interventions. Herman (1988 p. 702) argued that from a
+diagnostic standpoint ‘the most striking characteristic of
+sex offenders… is their apparent normality’. There is also
+a small but growing body of research highlighting the
+criminal versatility of sex offenders (e.g. Cockbain and
+Wortley 2015; Simon 1997, 2000; Smallbone and Wortley
+2000, 2004). Contrary to popular perception, the average
+sex offender has so far been shown to be a criminal gen-
+eralist rather than a committed specialist.
+If we are to get better at explaining and preventing
+child sexual abuse, the research field must evolve beyond
+its traditional focus on individual psychopathology. 
+One particularly fruitful area in recent years has been
+the rapid growth in studies from a situational perspec-
+tive (e.g., Brayley et al. 2011; Cockbain et al. 2011, 2015; 
+*Correspondence: e.cockbain@ucl.ac.uk
+1 UCL (University College London), London, UK
+Full list of author information is available at the end of the article 
+Deslauriers-Varin and Beauregard 2010; Leclerc et al. 
+2008, 2009a, b, 2011; Terry and Ackerman 2008; Wort-
+ley and Smallbone 2006b, c, 2012). Rather than address
+the ‘why’ of child sexual abuse, such situational enquir-
+ies typically focus on the ‘what’, ‘where’, ‘how’, ‘when’ and
+‘who’. A better understanding of the immediate dynam-
+ics of situations in which offences occur can open up new
+avenues for interventions, informing targeted manipu-
+lations designed to deter offending, improve detection, 
+support victims and so forth. After all, understanding
+factors promoting child sexual abuse is only half the chal-
+lenge: the other half is translating this knowledge into
+on-the-ground efforts to tackle the crime.
+Amid these developments, we were delighted to have
+the chance to bring together leading researchers and
+practitioners worldwide for Crime Science journal’s first
+special edition on child sexual abuse. We hope that this
+special edition will help increase awareness of and inter-
+est in theoretical, empirical and practical developments
+in the prevention of child sexual abuse. It includes a broad
+array of research and commentaries, covering four differ-
+ent continents, many different forms of sexual offending
+and diverse aspects to offending, victimisation, identi-
+fication and intervention. Indeed, the breadth of cover-
+age of the edition itself highlights just how much about
+child sexual abuse remains unknown and unexplored. 
+Some of the contributions may make for unsettling and
+provocative reads, not just because of the sensitive sub-
+ject matter but also because of the challenges to accepted
+wisdoms that they contain. We must remember, however, 
+that engaging scientifically with controversial issues and
+unearthing and confronting false assumptions are critical
+steps in advancing responses to sexual abuse of children. 
+The order in which we discuss the contributions below
+reflects the order we suggest when reading the special
+issue.
+In his short commentary, Wortley (2015) argues that
+one of the most fundamental challenges facing child
+sexual abuse research is maintaining objectivity in the
+© 2016 Cockbain and Reynald. This article is distributed under the terms of the Creative Commons Attribution 4.0 International
+License ([URL: "http://creativecommons.org/licenses/by/4.0/"] http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any
+medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons
+license, and indicate if changes were made.
+Page 2
+Cockbain and Reynald ﻿Crime Sci (2016) 5:4  Page 2 of 3
+face of such an emotive and controversial issue. Moral
+panic based on untested—or outright erroneous—popu-
+lar wisdom impedes the development of the scientific
+evidence-base on child sexual abuse and effective coun-
+ter-measures. If the field is to progress, he contends, 
+then researchers must not only commit to ‘dispassion-
+ate objectivity’ in their enquiries but find the ‘courage to
+challenge some sacred cows’.
+In their research article, Cockbain and Wortley (2015) 
+contest the commonly held view of internal (or domes-
+tic) sex trafficking as highly sophisticated and well-organ-
+ised with evidence from their exclusive data on internal
+sex trafficking of British children. With little empirical
+research done on internal child sex trafficking, this paper
+offers unique empirical insights about the dynamics of
+this type of crime based on innovative analyses of victim, 
+offender and crime event characteristics from six major
+UK police cases. Testing these data against expectations
+derived from the opportunity theories of crime, and in
+particular the routine activity approach, this paper pro-
+vides strong support for the opportunity framework and
+the viability of situational prevention in tackling internal
+child sex trafficking.
+The CRAVED (concealable, removable, available, valu-
+able, enjoyable and disposable) model was designed to
+explain why certain products are stolen more than oth-
+ers. Its application has largely been limited to the acquisi-
+tive crime literature in which it was developed. In their
+research article, Beauregard and Martineau (2015) 
+explore whether the model has untapped potential in
+explaining patterns of sexual victimisation. Using a sam-
+ple of 350 Canadian sexual homicide cases, the authors
+examine victim selection from a routine activity perspec-
+tive using CRAVED.
+McKillop et al. (2015) also apply the routine activity
+approach to investigate contextual risk factors in offend-
+ers’ first known child sexual abuse incident. Focusing par-
+ticularly on how victim age influences the timing, context
+and nature of the first abuse incident, they surveyed 100
+adult males convicted of contact sexual offences with
+children about situational characteristics of these inci-
+dents. Their research article highlights the importance of
+age-related routine activities in defining the opportunity
+structures and convergence settings for these incidents. It
+also raises important issues around the conceptualisation
+of guardianship against child sexual abuse.
+With the proliferation of the Internet has come concern
+about the risks children face online. One such issue that
+has attracted growing research interest is sexually moti-
+vated online communication with children, also known
+variously as online grooming, luring or solicitation. In
+their research article, Quayle and Newman (2016) ana-
+lyse 264 reports of grooming received by a Canadian 
+watchdog (cybertip.ca). They explore factors associated
+with reporting suspicious online activity of this nature, 
+looking at various parties’ (victim, suspect, reporter) 
+characteristics and the behaviours triggering concern.
+A growing body of research exists on the associa-
+tions between child sexual abuse victimisation and
+diverse physical, psychological, economic and social
+outcomes. In their research article, De Jong and Bijlev-
+eld (2015) argue that a major limitation of this literature
+is that few studies examine systematically the mediating
+role that may be played by characteristics of the abuse. 
+In their article, they investigate the association between
+sexual victimisation in childhood and three family out-
+comes: teen parenthood; marriage; and divorce. Using a
+sample of 910 victims in the Netherlands, they examine
+whether and how the nature of the abuse, characteristics
+of the victims and their relationships to the perpetrators
+affected the outcome variables.
+Leclerc et al. (2015) turn their attention to the under-
+researched area of child sexual abuse in youth-oriented
+organisations. Using a small Canadian sample (n = 23) of
+adult males who admitted to sexual offences against chil-
+dren in youth organisations, they obtain recommenda-
+tions for preventing abuse in these specific contexts from
+offenders themselves. Drawing on this offender-based
+research approach, their research article concludes by
+mapping these prevention recommendations unto the 25
+situational crime prevention techniques to illustrate how
+the data can inform situational prevention.
+In their short commentary, Belur and Singh (2015) 
+reflect on the changing situation around child sexual
+abuse in India. Attitudes and responses to child sex-
+ual abuse in India diverge greatly from those we take
+for granted in the United Kingdom or United States, 
+for example. In the wake of new legislation on sexual
+offences against children, the authors highlight some
+unintended but potentially problematic consequences of
+criminalising all sexual activity involving under 18 year-
+olds. Their discussion focuses on three key areas: auton-
+omy and consent; age determination; and mandatory
+reporting.
+Rayment-McHugh et al.’s (2015) theoretical article
+highlights key ways in which existing analyses of and
+responses to child sexual abuse can be strengthened by
+adopting more focused place-based approaches. Based
+on evidence showing that child sexual abuse—like all
+other types of crime—is concentrated in particular
+places, they argue in favour of prevention initiatives that
+target small, clearly-defined locations over larger popula-
+tion-based approaches. Their line of argument concludes
+with the presentation of a conceptual model of place-
+based prevention which elucidates six critical steps for
+preventing child sexual abuse at the local level.
+Page 3
+Cockbain and Reynald ﻿Crime Sci (2016) 5:4  Page 3 of 3
+Overall, this special issue collection offers original
+insights into various dimensions of the problem of child
+sexual abuse and highlights fruitful directions for future
+research in this area. Wortley highlights the overarching
+need to focus on establishing a scientific evidence-base
+if the ultimate goal of tackling child sexual abuse is to be
+achieved. The other contributions in this special issue illus-
+trate how this goal can be achieved through: (1) improve-
+ments in the conceptualisation and operationalisation
+of key constructs related to this type of crime; (2) using
+various types of unique data for more precise, more holis-
+tic and richer measurements when studying child sexual
+abuse in its diverse forms; (3) applying innovative analytical
+approaches to improve the robustness of research findings
+and practical interventions for prevention; and (4) a greater
+focus on understanding child sexual abuse not just in the
+developed world but in developing countries, including
+changes to attitudes and legislative responses there.
+Perhaps one of the most powerful contributions that
+this special edition makes to both researchers and prac-
+titioners is its overall insight into the use of different and
+innovative data sources to triangulate key findings about
+different forms of child sexual abuse. Using very differ-
+ent datasets, the contributions collectively highlight the
+importance of opportunity in facilitating various forms
+of child sexual abuse and how various types of situational
+approaches may be beneficial for prevention. Equally sig-
+nificant in these contributions is the lesson that context
+gives rise to specific opportunity structures that are criti-
+cal when we consider the risks and effects associated with
+various forms of child sexual abuse, as well as practical
+interventions for harm reduction.
+Author details
+1 UCL (University College London), London, UK. 2 Griffith University, Brisbane, 
+Australia. 
+Received: 28 January 2016 Accepted: 30 March 2016
+References
+Beauregard, E., & Martineau, M. (2015). An application of CRAVED to the choice
+of victim in sexual homicide: A routine activity approach. Crime Science, 
+4(24), 1–11.
+Belur, J., & Singh, B. (2015). Child sexual abuse and the law in India: a commen-
+tary. Crime Science, 4, 26. doi:[URL: "http://dx.doi.org/10.1186/s40163-015-0037-2"] 10.1186/s40163-015-0037-2.
+Brayley, H., Cockbain, E., & Laycock, G. (2011). The value of crime scripting: 
+Deconstructing internal child sex trafficking. Policing: A Journal of Policy
+and Practice, 5(2), 132–143.
+Cockbain, E., Brayley, H., & Laycock, G. (2011). Exploring internal child sex traf-
+ficking networks using social network analysis. Policing: A Journal of Policy
+and Practice, 5(2), 144–157.
+Cockbain, E., Ashby, M., & Brayley, H. (2015). Immaterial boys? a large-scale
+exploration of gender-based differences in child sexual exploitation
+service users. Sexual Abuse: A Journal of Research and Treatment, advanced
+online access version. 
+Cockbain, E., & Wortley, R. (2015). Everyday atrocities: Does internal (domestic) 
+sex trafficking of British children satisfy the expectations of opportunity
+theories of crime? Crime Science, 4(35), 1–12.
+De Jong, R., & Bijleveld, C. (2015). Child sexual abuse and family outcomes. 
+Crime Science, 4(34), 1–10.
+Deslauriers-Varin, N., & Beauregard, E. (2010). Victims’ routine activities and sex
+offenders’ target selection scripts: a latent class analysis. Sexual Abuse: A
+Journal of Research and Treatment, 22(3), 315–342.
+Greer, C. (2003). Sex crime and the media: sex offending and the press in a divided
+society. Cullompton: Willan.
+Herman, J. (1988). Considering sex offenders: a model of addiction. Signs, 13(4),
+695–724.
+Kaufman, K., Mosher, M., Carter, H., & Estes, L. (2006). An empirically based
+situational prevention model for child sexual abuse. In R. Wortley & S. 
+Smallbone (Eds.), Situational prevention of child sexual abuse, crime preven-
+tion series (Vol. 19, pp. 101–144). Willan: Devon.
+Leclerc, B., Beauregard, E., & Proulx, J. (2008). Modus operandi and situ-
+ational aspects in adolescent sexual offenses against children: A further
+examination. International Journal of Offender Therapy and Comparative
+Criminology, 52(1), 46–61.
+Leclerc, B., Feakes, J., & Cale, J. (2015). Child sexual abuse in youth-oriented
+organisations: Tapping into situational crime prevention from the
+offender’s perspective. Crime Science, 4(28), 1–12.
+Leclerc, B., Proulx, J., & Beauregard, E. (2009a). Examining the modus operandi
+of sexual offenders against children and its practical implications. Aggres-
+sion and Violent Behavior, 14(1), 5–12.
+Leclerc, B., Proulx, J., Lussier, P., & Allaire, J. (2009b). Offender-victim interaction
+and crime event outcomes: modus operandi and victim effects on the risk
+of intrusive sexual offenses against children. Criminology, 47(2), 595–618.
+Leclerc, B., Wortley, R., & Smallbone, S. (2011). Getting into the script of adult
+child sex offenders and mapping out situational prevention measures. 
+Journal of Research in Crime and Delinquency, 48(2), 209–237.
+Martellozzo, E. (2012). Online child sexual abuse: Grooming policing and child
+protection in a multi-media world. Abingdon: Routledge.
+McKillop, N., Brown, S., Wortley, R., & Smallbone, S. (2015). How victim age affects
+the context and timing of child sexual abuse: Applying the routine activi-
+ties approach to the first sexual abuse incident. Crime Science, 4(17), 1–10.
+Quayle, E., & Newman, E. (2016). An exploratory study of public reports to
+investigate patterns and themes of requests for sexual images of minors
+online. Crime Science, 5(1), 1–12.
+Rayment-McHugh, S., Adams, D., Wortley, R., & Tilley, T. (2015).‘Think Global Act
+Local’: a place-based approach to sexual abuse prevention. Crime Science,
+4, 22. doi:[URL: "http://dx.doi.org/10.1186/s40163-015-0035-4"] 10.1186/s40163-015-0035-4.
+Simon, L. (1997). Do criminal offenders specialize in crime types? Applied and
+Preventive Psychology, 6(1), 35–53.
+Simon, L. (2000). An examination of the assumptions of specialization, mental
+disorder and dangerousness in sex offenders. Behavioral Sciences and the
+Law, 18(2–3), 275–308.
+Smallbone, S., & Wortley, R. (2000). Child sexual abuse in Queensland: offender
+characteristics and modus operandi. Brisbane: Queensland Crime
+Commission.
+Smallbone, S., & Wortley, R. (2004). Onset, persistence and versatility of offend-
+ing among adult males convicted of sexual offences against children. 
+Sexual Abuse: A Journal of Research and Treatment, 16(4), 285–298.
+Terry, K., & Ackerman, A. (2008). Child sexual abuse in the catholic church: how
+situational crime prevention strategies can help create safe environ-
+ments. Criminal Justice and Behavior, 35(5), 643–657.
+Wortley, R. (2015). Science and child sexual abuse: navigating the pathway
+between emotion and objectivity. Crime Science, 4, 18. doi:[URL: "http://dx.doi.org/10.1186/s40163-015-0029-2"] 10.1186/
+ s40163-015-0029-2.
+Wortley, R., & Smallbone, S. (2006a). Introduction. In R. Wortley & S. Smallbone
+(Eds.), Situational prevention of child sexual abuse (pp. 1–6). New York, NY: 
+Criminal Justice Press.
+Wortley, R., & Smallbone, S. (2006b). Applying situational principles to sexual
+offenses against children. In R. Wortley & S. Smallbone (Eds.), Situational
+prevention of child sexual abuse (pp. 7–36). New York, NY: Criminal Justice
+Press.
+Wortley, R., & Smallbone, S. (Eds.). (2006c). Situational prevention of child sexual
+abuse. New York, NY: Criminal Justice Press.
+Wortley, R., & Smallbone, S. (2012). Internet child pornography: Causes, investiga-
+tion and prevention. Oxford: Praeger.

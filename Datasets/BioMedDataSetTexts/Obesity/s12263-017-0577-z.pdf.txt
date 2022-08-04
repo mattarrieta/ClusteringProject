@@ -1,0 +1,1719 @@
+Creator: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+Producer: Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+Title: Role of microRNAs in obesity and obesity-related diseases
+Keywords: Obesity,Metabolic disease,Disease biomarkers,miRNAs,microRNA
+ModDate: 2017/09/25 14:39:47+02'00'
+Subject: Genes Nutr, doi:10.1186/s12263-017-0577-z
+Author: Giuseppe Iacomino
+CreationDate: 2017/09/21 10:42:16+08'00'
+xmp:pdf:Keywords: Obesity,Metabolic disease,Disease biomarkers,miRNAs,microRNA
+xmp:pdf:Producer: Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+xmp:dc:format: application/pdf
+xmp:dc:identifier: 10.1186/s12263-017-0577-z
+xmp:dc:publisher: Genes & Nutrition
+xmp:dc:description: Genes Nutr, doi:10.1186/s12263-017-0577-z
+xmp:dc:subject: Obesity; Metabolic disease; Disease biomarkers; miRNAs; microRNA
+xmp:dc:title: Role of microRNAs in obesity and obesity-related diseases
+xmp:dc:creator: Giuseppe Iacomino; Alfonso Siani
+xmp:xmp:MetadataDate: 2017-09-25T14:39:47+02:00
+xmp:xmp:CreateDate: 2017-09-21T10:42:16+08:00
+xmp:xmp:CreatorTool: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+xmp:xmp:ModifyDate: 2017-09-25T14:39:47+02:00
+xmp:xmpMM:DocumentID: uuid:f4a38e74-6204-4c46-a318-38986546ca47
+xmp:xmpMM:InstanceID: uuid:5b2dbc95-f914-470b-ac12-3055e9d6f9e9
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:a4d7e337-fa35-43a7-9860-0aca0a029d97
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2017-09-21T12:08:04+08:00
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:author:name: Giuseppe Iacomino
+xmp:author:orcid: http://orcid.org/0000-0001-5231-2231
+xmp:pdfaSchema:schema: Springer Nature ORCID Schema
+xmp:pdfaSchema:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/
+xmp:pdfaSchema:prefix: sn
+xmp:pdfaProperty:name: authorInfo
+xmp:pdfaProperty:valueType: Bag AuthorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Author information: contains the name of each author and his/her ORCID (ORCiD: Open Researcher and Contributor ID). An ORCID is a persistent identifier (a non-proprietary alphanumeric code) to uniquely identify scientific and other academic authors.
+xmp:pdfaProperty:name: editorInfo
+xmp:pdfaProperty:valueType: Bag EditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Editor information: contains the name of each editor and his/her ORCID identifier.
+xmp:pdfaProperty:name: seriesEditorInfo
+xmp:pdfaProperty:valueType: Bag SeriesEditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Series editor information: contains the name of each series editor and his/her ORCID identifier.
+xmp:pdfaType:type: AuthorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/authorInfo/
+xmp:pdfaType:prefix: author
+xmp:pdfaType:description: Specifies the types of author information: name and ORCID of an author.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an author.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an author.
+xmp:pdfaType:type: EditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/editorInfo/
+xmp:pdfaType:prefix: editor
+xmp:pdfaType:description: Specifies the types of editor information: name and ORCID of an editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an editor.
+xmp:pdfaType:type: SeriesEditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/seriesEditorInfo/
+xmp:pdfaType:prefix: seriesEditor
+xmp:pdfaType:description: Specifies the types of series editor information: name and ORCID of a series editor.
+xmp:pdfaField:name: name
+xmp:pdfaFielBOOKMARKS:
+Abstract
+Background
+  Obesity: a global epidemic
+  A new layer of control
+miRNA detection
+miRNAs in obesity and metabolic diseases
+  miRNAs in the adipose tissue
+  miRNAs in the pancreas
+  miRNAs in the muscle
+  miRNAs in the liver
+  Circulating miRNAs
+Conclusion
+Abbreviations
+Funding
+Availability of data and materials
+Authors’ contributions
+Ethics approval and consent to participate
+Consent for publication
+Competing interests
+Publisher’s Note
+References
+Page 1
+Iacomino and Siani Genes & Nutrition (2017) 12:23
+DOI 10.1186/s12263-017-0577-z
+REVIEW  Open Access
+Role of microRNAs in obesity and obesity-
+related diseases
+Giuseppe Iacomino*  and Alfonso Siani
+Abstract
+In recent years, the link between regulatory microRNAs (miRNAs) and diseases has been the object of intensive
+research. miRNAs have emerged as key mediators of metabolic processes, playing crucial roles in maintaining/
+altering physiological processes, including energy balance and metabolic homeostasis. Altered miRNAs expression
+has been reported in association with obesity, both in animal and human studies. Dysregulation of miRNAs may
+affect the status and functions of different tissues and organs, including the adipose tissue, pancreas, liver, and
+muscle, possibly contributing to metabolic abnormalities associated with obesity and obesity-related diseases.
+More recently, the discovery of circulating miRNAs easily detectable in plasma and other body fluids has
+emphasized their potential as both endocrine signaling molecules and disease indicators. In this review, the
+status of current research on the role of miRNAs in obesity and related metabolic abnormalities is summarized
+and discussed.
+Keywords: Obesity, Metabolic disease, Disease biomarkers, miRNAs, microRNA
+Background
+Obesity: a global epidemic
+About 10 years ago, the World Health Organization indi-
+cated the increasing prevalence of overweight and/or
+obesity worldwide as a challenge for public health, due the
+adverse consequences associated with obesity and over-
+weight [1, 2]. The trend has been so steep and sudden that
+some researchers refer to it as an “epidemic.” Nowadays,
+over 60% of the United States (USA) adult population is
+considered overweight or obese, but the high prevalence
+of obesity is not limited to the USA, being observed in in-
+dustrialized as well as in least developed countries. Even
+more worrisome is the rapidly increasing prevalence of
+obesity among children observed over the last 30 years
+[3]. Epidemiological studies have established a firm associ-
+ation between an elevated BMI and chronic conditions
+such as diabetes, dyslipidemia, hypertension, heart disease,
+non-alcoholic fatty liver disease, and some types of cancer
+[4, 5]. Dyslipidemia and type 2 diabetes (T2D) have exhib-
+ited a corresponding increase over the same time span
+also in children [6].
+The medical costs of obesity, and also the growing
+mortality among obese individuals, are likely related to
+* Correspondence: [URL: "mailto:piacomino@isa.cnr.it"] piacomino@isa.cnr.it
+Institute of Food Sciences, CNR, Via Roma, 64, 83100 Avellino, Italy 
+comorbid conditions rather than obesity per se. A sur-
+plus in energy intake and a limited physical activity are
+considered among the driving factors of obesity; how-
+ever, the contribution of genetic and epigenetic traits
+could not be disregarded. In the last decade, large and
+well-powered studies have shown that multiple loci on
+the human genome are associated with obesity and
+obesity-related phenotypes [7–9].
+A new layer of control
+The individual susceptibility to weight gain and the asso-
+ciated clinical effects may largely vary due to differences
+in the genetic background, lifestyle, and environmental
+stimuli. It is well recognized that the “common” obesity
+is the result of the interplay of environmental factors
+with genetic factors reflecting the additive contribution
+of many genes that confer different degrees of suscepti-
+bility (polygenic obesity) [10]. Of note, most of the genes
+associated to obesity predisposition are also related to
+food intake and regulation of energy balance [11], with
+about 20–40% of the variance in energy and macronutri-
+ent intake explained by genetic effects [12]. Recent stud-
+ies suggest that as much as 21% of BMI variation can be
+explained by common genetic variants [13]. Even though
+the genetics of obesity has been extensively explored,
+© The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License ([URL: "http://creativecommons.org/licenses/by/4.0/"] http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Page 2
+Iacomino and Siani Genes & Nutrition (2017) 12:23  Page 2 of 16
+most of the genetic variability in BMI remains unex-
+plained and, in addition, the confirmation of the effects
+of single candidate genes or their combination is still
+incomplete.
+Genomes contain information that is mandatory to
+build and run cells, including the self-coordination re-
+sponsible to define complex organs and ultimately to
+self-assemble an organism by driving cellular differen-
+tiation and morphogenesis programs. Together, these
+processes require contribution of information-dense
+and dynamic regulatory systems involving a number
+of mechanisms including transcription factors, DNA
+methylation, ATP-dependent chromatin remodeling
+mechanisms, and post-translational modifications of
+histones, as well the dynamic acetylation and deacety-
+lation of core histones [14–16].  Virtually, any step of
+the gene expression flow is finely controlled, and the
+discovery of small non-coding RNAs (ncRNAs) has
+added new critical players to the wide range of exist-
+ing mechanisms [17].
+In a few years, microRNA (miRNA) research has pro-
+ceeded from the discovery of a non-coding RNA in C.
+elegans [18, 19] to thousands of publications describing
+their critical connection to a variety of cell processes
+and diseases [20].  miRNAs are short ncRNAs, with a
+length of 20–24 nucleotides, which are engaged in the
+control of gene expression programs [21–23].  At
+present, more than 2000 different miRNAs have been
+described in humans, and their number is still increasing
+in the miRBase database [24]. The release of 21 of the
+repository contains 28,645 entries representing hairpin
+precursor miRNAs, expressing 35,828 mature miRNA
+products, in 223 species. In recent years, miRNA bio-
+genesis and mechanisms of action have been thoroughly
+described as illustrated in Fig. 1 [25–31].  miRNAs are
+essential elements of the cell epigenetic machinery
+which post-transcriptionally repress the expression of
+target genes, usually by binding to the 3′ UTR of mes-
+senger RNA, contributing to the regulation of many bio-
+logical processes [32].
+For base-pairing with a target mRNA, nucleotides in
+positions 2–8 of a miRNA are relevant. This sequence
+motif is referred to as “seed sequence” and is closely
+connected to the recognition of a mRNA target. How-
+ever, other regions also contribute in determining the
+target specificity [33].  A numeric designation has been
+given in sequential order to individual miRNAs accord-
+ing to the discovery date, and matching miRNAs found
+in different organisms have been assigned through the
+same numeric code with a species-specific preface.
+Moreover, miRNAs have been clustered into families
+constructed on seed region similarity, which is account-
+able for the corresponding ability to target common
+groups of gene transcripts [34]. Although some miRNAs 
+Fig. 1 miRNA biogenesis. Single miRNAs are transcribed by RNA
+polymerase II (pri-miRNA) from genomic DNA. The pri-miRNA is
+processed to pre-miRNA by Drosha-DGCR8. The pre-miRNA is
+transferred to the cytoplasm by exportin-5 where it is recognized
+and cleaved by the DICER complex to create a miRNA duplex. The
+duplex unwinds, and the mature miRNA assembles into RISC. The
+miRNA base-pairs with target mRNA determines gene silencing via
+mRNA cleavage or translation repression depending on the degree
+of homology between the miRNA “seed” to the 3′ UTR target se-
+quence of the mRNA
+exhibit a tissue-specific localization, most miRNAs show
+a broader tissue distribution [35]. Each miRNA can sim-
+ultaneously regulate large cohorts of transcripts, and in-
+dividual mRNA may include multiple binding sites for
+different miRNAs originating an intricate regulatory
+Page 3
+Iacomino and Siani Genes & Nutrition (2017) 12:23  Page 3 of 16
+network [32, 36].  Even though miRNAs usually act as
+slight modulators, defining only a weak inhibitory effect
+on a single target, more often, they coordinately affect
+multiple transcripts in a signaling pathway or nodes cor-
+related in complex regulatory networks, exercising sig-
+nificant cumulative effects. A notable example is given
+by the members of the miR-200 family, acting at mul-
+tiple levels as enforcers of the epithelial phenotype.
+Actually, they target both cytoskeletal effectors, regulat-
+ing actin filament organization, and pathways that locally
+coordinate the cytoskeleton organization to preserve cell
+morphology and prevent cell migration [37].
+Computational and experimental analyses support the
+view that endogenous miRNAs may comprehensively in-
+fluence the expression of up to 60% of mouse and hu-
+man genes [38, 39] and that a huge number of miRNAs
+are under the control of relevant signal transduction cas-
+cades. Therefore, miRNAs have been reported to be in-
+volved in a countless cellular processes, including
+proliferation, differentiation, DNA repair, apoptosis, and
+metabolism [40, 41].  Additionally, increasing evidence
+indicates that miRNA dysregulation is causative and/or
+indicative of several diseases, including cancer [42–45].
+Substantial progress has been made in interpreting the
+role of individual miRNAs in a number of biological set-
+tings. As an example, members of the highly conserved
+miR-34 family act as tumor suppressor. Dysregulation or
+loss of the host gene from which this miRNA is derived
+is associated with cancer progression in numerous cell
+types [45].
+miRNA detection
+miRNA profiling is a key step which requires sensitive
+and reproducible detection methods. A number of differ-
+ent techniques have been developed to determine miR-
+NAs in biological samples, such as NGS (RNAseq),
+reverse transcription quantitative PCR, and microarray,
+each method having its own strengths and weaknesses
+[46].  In general, miRNA characterization, as compared
+to mRNA profiling techniques, is more difficult to per-
+form because procedures should be able to discriminate
+miRNAs differing by as little as a single nucleotide, also
+taking into account differences between mature miRNAs
+and their precursors (which also encompass the se-
+quence of the mature miRNA species).
+Furthermore, precise measurement of circulating miR-
+NAs can be challenging, due to their relatively low con-
+centration, to the presence of undesired inhibitors
+potentially interfering in the downstream quantification
+procedures and, finally, to confounding sources of intra-
+cellular miRNAs that may contaminate the extraction
+process. Indeed, the inconsistencies and dissimilar re-
+sults reported among different studies could be partially
+explained by differences in both detection procedures 
+and experimental setup. The source of miRNAs, the ex-
+traction procedures, the quantities used in profiling ana-
+lysis workflow, and the methods of data analysis all
+together possibly contribute to the uncertainty still ob-
+served in the literature, highlighting the need for repro-
+ducible and well-standardized methods [47–49].
+miRNAs in obesity and metabolic diseases
+At the time of our search, 61,363 published papers con-
+cerning miRNAs were found on PubMed. Most of them
+deal with human diseases/disorders and a growing num-
+ber of reports about miRNAs as useful clinical tools
+[50],  in particular with regard to the identification of
+“circulating” miRNAs (see the “Circulating miRNAs”
+section) as cancer biomarkers [51, 52].  Omics studies
+have indeed demonstrated that changes in miRNA pro-
+files of various tissues (e.g., pancreas, adipose tissue, and
+liver) correlate with obesity [8] and several metabolic
+diseases [53, 54]. There are intriguing reports suggesting
+that miRNAs may be regulated by diet and lifestyle fac-
+tors [55] and could be responsive to various nutritional
+interventions [56].
+For the purpose of the present review, we thoroughly
+explored PubMed using different combinations of the
+subsequent keywords: “microRNA,” “circulating miR-
+NAs,” “adipose tissue,” “adipogenesis,” “obesity,” “dia-
+betes,” and “metabolic diseases.” Obviously, a complete
+and comprehensive scrutiny of the available literature
+was outside our scope. Actually, the most cited research
+papers as well as the most recent and complete reviews
+on this research area were included.
+miRNAs in the adipose tissue
+The obesity–diabetes connection has been long time
+established, having its roots in interdependent alter-
+ations of glucose and lipid metabolism. Adipose tissue,
+the storage site of triglycerides, is the key machinery
+where energy homeostasis is regulated, to the extent that
+adipose tissue is now considered an endocrine organ
+(see Table 1) [57, 58]. In this context, it is not surprising
+that miRNAs may contribute to the regulation of energy
+balance and metabolic homeostasis, by controlling a
+wide range of metabolic pathways [54].
+The first evidence suggesting a role of miRNAs in fat
+cells regulation was in Drosophila, showing that miR-14
+exerts a suppressive effect on fat metabolism by target-
+ing p38 and MAPK [59]. Subsequentely, a wide array of
+miRNAs involved in the regulation of glucose and lipid
+metabolism was identified, with particular focus on adi-
+pocyte differentiation, control of β-cell mass, and insulin
+signaling pathway in both physiological and pathological
+conditions [60, 61]. However, the information regarding
+the possible mechanisms is still limited [62]. As an ex-
+ample, the miRNAs reported in Table 2 have been
+Page 4
+Iacomino and Siani Genes & Nutrition (2017) 12:23  Page 4 of 16
+Table 1 White adipose tissue in brief
+White adipose tissue achieves metabolic functions through the release of signaling molecules, such as adipokines, and hundreds of diverse factors,
+including classical hormones such as leptin, growth factors such as IGF-1 and PDGF, and cytokines such as IL-6, IL-8, or TNF-α acting as inflammatory
+mediators [163],  comprehensively linked to appetite regulation and insulin sensitivity. Growing evidence supports the notion that chronic low-grade
+inflammation is a basic characteristic of obesity contributing to the establishment of insulin resistance into the target organs, including the adipose
+tissue, liver, and muscle, and the vascular system [164].  Excess of nutrients, such as lipids and glucose, may simultaneously trigger inflammatory re-
+sponses, which further disrupt metabolic function, enhancing stress and inflammation. Accordingly, the nutrition–immunity theory suggests that in
+the adipose tissue, overnutrition-induced obesity triggers low-level inflammatory processes [165]. Anomalous fat accumulation has been shown to in-
+crease pathogenic risks since adipose tissue remains in a state of subclinical chronic inflammation [166]. This condition is strictly related to a massive
+recruitment of macrophages and to an increased immune cell proliferation activation–infiltration connected to adipocyte hypertrophy and an im-
+paired adipogenesis [167]. The latter process is tightly controlled by a mixture of regulatory signals including endocellular transcription factors, extra-
+cellular circulating hormones [168], and additional post-transcriptional regulators of gene expression [60, 169–172].
+Adipogenesis is the process during which fibroblast-like pre-adipocytes differentiate into mature adipocytes, a complex mechanism involving cell
+commitment, clonal expansion, and terminal differentiation [173].  More in detail, differentiation from pre-adipocytes into mature adipocytes is a key
+step orchestrated by several transcription factors such as the peroxisome proliferator-activated receptor-γ (PPARγ) and CCAAT/enhancer-binding pro-
+teins (C/EBPs) that coordinately control expression of genes required for adipocyte phenotypes. C/EBPβ and C/EBPδ are induced by adipogenic stim-
+uli and represent primary regulators of adipogenesis. Targets of C/EBPβ and C/EBPδ are the promoters of the genes encoding critical adipogenic
+factors such as C/EBPα and PPARγ, as well as the sterol regulatory element-binding protein (SREBP1), the key regulator of lipogenic genes. The protein
+encoded by the C/EBPα intronless gene is a leucine zipper transcription factor which can bind to specific promoters and enhancers as a homodimer
+or it can form heterodimers with the related proteins C/EBPβ and C/EBPγ. The C/EBPα protein has been shown to bind to the promoter and to also
+modify the expression of the leptin gene, playing a central role in body weight homeostasis. C/EBPα is sufficient to trigger differentiation of pre-
+adipocytes into mature adipocytes [174].  Peculiarly, PPARγ directly triggers endogenous C/EBPα transcription. In turn, C/EBPα activates the PPARγ
+gene through a positive feedback loop, thereby promoting adipogenesis [168].  Together, PPARγ and C/EBPα promote the expression of genes in-
+volved in insulin sensitivity, in lipogenesis and lipolysis, and, ultimately, in the terminal differentiation and mature functions of adipocytes. The com-
+plex series of events governing adipose cell commitment and differentiation also includes anti-adipogenic signaling cascade controlled by Wnt,
+BMPs, TGF-β,  and hedgehog [175].  As expected, an increase in size (hypertrophy) and number (hyperplasia) of adipocytes causes higher level of fat
+mass and energy storage in the adipose tissue, possibly ending in increased obesity risk.
+shown to possibly promote adipogenesis through differ-
+ent mechanisms, while other species (Table 3) have been
+reported to interfere with adipocyte differentiation [63].
+miR-143 and miR-130 are the best studied among the
+miRNAs linked to adipogenesis. miR-143 and miR-145
+are often investigated together, since they are closely lo-
+cated and can be co-transcribed. miR-143 has been iden-
+tified as a positive regulator of human adipocyte
+differentiation acting via ERK5 signaling. Expression of
+miR-143 and miR-145 is upregulated in the liver of
+mouse models of obesity, and the iperexpression of miR-
+143 impairs insulin-stimulated AKT activation and glu-
+cose homeostasis. On the contrary, mice lacking for the
+miR-143–145 cluster did not develop the obesity-
+associated insulin resistance [64].  Another notable ex-
+ample is given by miR-27a and miR-130a that inhibit
+adipocyte differentiation through PPARγ downregulation
+[65, 66].  The overexpression of miR-27a and miR-130a
+clearly suppresses adipocyte differentiation along with
+PPARγ expression. Lower expression levels of miR-130a
+and miR-130b have been reported in the abdominal sub-
+cutaneous adipose tissue and in the plasma of obese
+women compared with those of lean subjects [67].  In 
+contrast, circulating miR-130b has been found to be
+higher in obese children [68]. An interesting study from
+Wang et al. identified miR-130b as a potential biomarker
+for overweight, hypertriacylglycerolemia, and metabolic
+syndrome, suggesting a mechanism linking obesity and
+obesity-related metabolic diseases, through an adipose–
+muscle crosstalk mediated by circulating miRNAs [69].
+They have also found that the addition of TGF-β in ma-
+tured 3T3-L1 adipocytes dramatically elevated the level
+of miR-130b in the culture medium, while slightly de-
+creasing intracellular level of miR-130b, thus confirming
+that this miRNA is released from differentiating adipo-
+cytes during adipogenesis. Other miRNAs affect lineage
+determination. As an example, miR-124 has a pro-
+adipogenic effect by targeting Dlx5, a pro-osteogenic
+transcription factor that determines cell fate in human
+bone marrow-derived mesenchymal stem cells [70].
+miRNAs can be expressed from separate transcripts or
+from a primary transcript structured in co-transcribed
+clusters encoding more than one miRNA (polycistronic)
+[71]. The best-characterized polycistronic miRNA cluster
+is represented by miR-17-92, encoding for miR-17, miR-
+18a, miR-19a, miR-20a, miR-19b-1, and miR-92a [72].
+Page 5
+Iacomino and Siani Genes & Nutrition (2017) 12:23  Page 5 of 16
+Table 2 Adipogenesis promoting miRNAs
+miRNA  Target/process
+miR-17  Rb2/p130
+miR-21  TGF-β signaling pathway
+miR-26b  Adipogenic differentiation by inhibiting PTEN. Levels are reduced in the visceral adipose tissue
+miR-30  Modulation of RUNX2, a key regulator of osteogenesis
+miR-103  MEF2D. AKT/mTOR signal pathway
+miR-143  MAPK signaling pathway. Glucose homeostasis
+miR-146b  SIRT1-induced deacetylation of FOXO1
+miR-148a  Wnt signaling pathway
+miR-181  TNF-α
+miR-199a  Smad1
+miR-204  Runx2
+miR-210  Wnt signaling pathway
+miR-320  RUNX2
+miR-371  Epigenetic modifications. Adipogenic differentiation
+miR-375  ERK1/2 signaling pathway
+miR-378  Adipocyte development and differentiation
+miR-637  Sp7
+Table 3 Anti-adipogenic miRNAs
+miRNA  Target/process
+let-7  FABP4 and PPARγ signaling pathway. Antiregulates clonal expansion via HMGA2
+miR-15a  Delta-like 1 homolog
+miR-22  HDAC6
+miR-27a/b  MAPK/ERK signaling via PHB, C/EBPβ, PPARγ, and aP2 signaling. Attenuates lipid accumulation
+miR-31  C/EBPα signaling.
+miR-33b  Decrease lipogenesis via early B cell factor 1 (EBF1) targeting C/EBPα and PPARγ signaling
+miR-93  Sirt7 and Tbx3
+miR-125a  ERRα
+miR-130  Inhibition of adipogenesis by inhibiting PPARγ
+miR-138  Inhibition of adipocyte differentiation via EID-1. Lipid droplet reduction
+miR-145  Preadipocyte differentiation by targeting IRS1
+miR-155  C/EBPβ pathway
+mirR-193a/b  Adiponectin production in the adipose tissue. Induce myoblast differentiation into brown adipocytes
+miR-194  Stimulates osteogenesis and inhibits adipogenesis via COUP-TFII
+miR-221  Adiponectin signaling
+miR-222  Glucose metabolism. Altered by insulin administration
+miR-224  EGR2. Fatty acid metabolism
+miR-344  GSK3β, activating the Wnt/β-catenin signaling pathway. Decreases triglyceride accumulation
+miR-363  Inhibits adipocyte differentiation by targeting E2F3. Downregulates C/EBPα and PPARγ
+miR-365  Brown fat differentiation
+miR-369  FABP4. Adipogenic differentiation
+miR-448  KLF5. Activation of serotonin receptors 5-HT2AR and 5-HT2CR
+miR-709  GSK3ß of Wnt/ß-catenin signaling 
+Reference
+[176]
+[88]
+[81, 177]
+[178]
+[179]
+[180]
+[181]
+[182]
+[183]
+[184]
+[185]
+[65]
+[186]
+[187]
+[77]
+[188]
+[189]
+Reference
+[74]
+[190]
+[191]
+[65]
+[192]
+[193]
+[194]
+[195]
+[66]
+[196]
+[197]
+[198]
+[199]
+[200]
+[198]
+[198]
+[201]
+[65]
+[73]
+[202]
+[187]
+[203]
+[204]
+Page 6
+Iacomino and Siani Genes & Nutrition (2017) 12:23  Page 6 of 16
+This cluster is overexpressed during adipocyte clonal ex-
+pansion and acts by directly repressing the RB family
+Rb2/p130, so controlling the RB-E2F-mediated check-
+point. In the same pathway, miR-363 inhibits adipocyte
+differentiation by targeting E2F and concomitantly
+downregulating C/EBPα and PPARγ [73].
+Let-7 was the first human miRNA discovered. This
+miRNA is included in a well-conserved family counting
+11 members associated with many critical cell functions
+(e.g., apoptosis, proliferation, and cell cycle checkpoints).
+This miRNA family directly regulates oncogenes such as
+RAS and HMGA2 and plays a significant role in devel-
+opmental processes. Moreover, miRNAs of this family
+regulate glucose metabolism and peripheral insulin re-
+sistance by targeting IGF1R, insulin receptor (INSR),
+and insulin receptor substrate-2. Let-7 negatively con-
+trols adipogenesis by regulating the expression of high-
+mobility group AT-hook2. Let-7 is upregulated in the
+model of 3T3-L1 adipogenesis. The ectopic introduction
+of let-7 in 3T3-L1 and 3T3-F442A cells decreased the
+clonal expansion as well as the terminal differentiation
+[74]. Overall, there is an indication that let-7 acts as an
+anti-adipogenic factor controlling the transition from
+clonal expansion to terminal differentiation. Moreover,
+let-7 has been shown to be directly involved in glucose
+metabolism and insulin resistance acting on targets asso-
+ciated with the insulin/IGF-1R pathway in mice [75]. In
+let-7 knockout mice, animals with a reduced expression
+of let-7 did not develop insulin resistance despite diet-
+induced obesity, suggesting that let-7 may represent an
+interesting therapeutic target for diabetes [76].
+Various miRNAs affect adipocyte differentiation by tar-
+geting C/EBPs and insulin signaling. miR-375 has been
+shown to promote 3T3-L1 adipocyte differentiation by in-
+creasing mRNA levels of C/EBPα and PPARγ2 and by
+inducting adipocyte fatty acid-binding protein (aP2) and
+triglyceride accumulation. Conversely, miR-375 suppresses
+phosphorylation levels of ERK1/2 in 3T3-L1 cells [77].
+There is evidence that miR-206 plays a key role in the
+growth and development of the skeletal muscle, promot-
+ing the myogenic differentiation and has been related to
+the pathogenesis of numerous diseases, including heart
+failure, chronic obstructive pulmonary disease, Alzhei-
+mer’s disease, and some cancers [78]. In most of these
+diseases, miR-206 is downregulated, suggesting this
+miRNA as a “disease-avoiding” molecule [78].  Interest-
+ingly, miR-206 expression is abundant in brown adipo-
+cytes in mice but missing in white adipocytes [79].
+Moreover, miR-206 suppresses liver X receptor α
+(LXRα), a gene target of PPAR, thus inhibiting lipogen-
+esis and controlling lipid metabolism in HepG2 cells
+[80]. Another miRNA involved in the regulation of adi-
+pogenic differentiation is miR-26b [81]. Overexpression
+of miR-26b in 3T3-L1 cells significantly accelerated the 
+mRNA expression of adipogenic markers, PPARγ,  fatty
+acid synthase (FAS), C/EBPα, and lipoprotein lipase, and
+increased lipid accumulation, by inhibiting the PTEN ex-
+pression. In contrast, inhibition of miR-26b expression
+decreased cell differentiation [81].
+Current findings indicate that miR-146b expression in
+3T3-L1 is evidently increased during adipogenesis [82].
+Sirtuin 1 (SIRT1) is negatively regulated by miR-146b.
+SIRT1 promotes gene transcription by deacetylating
+various transcription factors, including the forkhead box
+O1 (FOXO1). The role of SIRT1 as a regulator of meta-
+bolic homeostasis has been extensively investigated.
+SIRT1 level is decreased during adipogenesis. SIRT1, by
+interacting with the PPARγ co-repressors N-CoR and
+SMRT, inhibits PPARγ and prevents adipogenesis. Ac-
+cordingly, differentiation of 3T3-L1 cells is induced by
+overexpression of miR-146b, and on the contrary, inhib-
+ition of miR-146b reduces adipocyte differentiation in
+3T3-L1 [83].
+The highly conserved miR-8/miR-200 family consists
+of a single ortholog in the fruit fly (miR-8) and of five
+members in the vertebrates (miR-200a, miR-200b, miR-
+200c, miR-141, and miR-429) [84]. miR-8/miR-200 have
+been reported as repressors of the evolutionarily con-
+served Wnt/wingless pathway in the Drosophila eye and
+in mouse mesenchymal stem cells, controlling the eye
+size and the differentiation of the mesenchymal stem
+cells into adipocytes, respectively [85]. Drosophila miR-8
+and human miR-200 family also prevent the expression
+of an inhibitor of the insulin/phosphoinositide-3 kinase
+(PI3K) signaling in fat body and liver cells, thus control-
+ling fat body/liver cell growth and proliferation [86]. In
+particular, overexpression of members of this miRNA
+family increases adipogenesis, the level of fatty acid-
+binding protein 4 (FABP4), and lipid accumulation.
+Liang et al. showed that the expression of miR-210
+was highly increased during 3T3-L1 adipogenesis. Trans-
+fection of miR-210 mimics into 3T3-L1 cells promoted
+the expression of adipogenic markers and adipocyte dif-
+ferentiation by targeting SHIP1, a negative regulator of
+the PI3K/Akt pathway. Additionally, ectopic inhibition
+of the endogenous miR-210 during adipogenesis possibly
+blocks adipocyte differentiation [87].
+Likewise, miR-21 in 3T3-L1 cells significantly pro-
+motes adipocyte differentiation and increases adiponec-
+tin expression, while decreasing AP-1 protein level. miR-
+21 may enhance differentiation of human adipose-
+derived stem cells by direct inhibition of the TGF-β re-
+ceptor 2 expression [88].
+Current evidence indicates that inflammation induces
+a specific miRNA response in adipocytes with effects on
+the physiopathology of obesity-induced inflammation of
+adipose tissue [89]. As an additional example, a research
+in mice identified a pro-inflammatory loop mediated by
+Page 7
+Iacomino and Siani Genes & Nutrition (2017) 12:23  Page 7 of 16
+NF-κB and miR-155 that could participate in the ampli-
+fication of inflammatory status in adipocytes [90].
+An interesting paper from Thomou et al. has recently
+defined a new role for adipose tissue and its potential
+implications in the mechanism of cell crosstalk [91]. The
+authors have established the role of adipose tissue as a
+major source of circulating miRNAs, which can regulate
+gene expression in distant tissues so acting as regulators
+of metabolism. Mice with an adipose tissue-specific
+knockout of Dicer miRNA-processing enzyme, as well as
+humans with lipodystrophy, display an extensive decline
+in the levels of circulating miRNAs. Transplantation of
+both white and brown adipose tissues reestablishes the
+level of many circulating miRNAs associated with an im-
+provement in glucose tolerance and a reduction in hep-
+atic fibroblast growth factor 21 (FGF21) mRNA and
+circulating protein. FGF21 plays a critical role in metab-
+olism, stimulating the fatty acid oxidation in the liver
+and glucose uptake in fat. Of note, levels of FGF21 are
+significantly increased in patients with T2D and non-
+alcoholic fatty liver disease and positively correlate with
+BMI in humans, indicating obesity as a possible FGF21-
+resistant state [91].
+miRNAs in the pancreas
+The endocrine pancreas plays a major role in regulating
+glucose homeostasis through the secretion of insulin and
+glucagon. Alterations of pancreatic hormone production
+and activity are causally linked to diabetes. T2D is a
+complex disease characterized by pancreatic islet dys-
+function and insulin resistance in peripheral tissues. De-
+clined insulin levels in T2D have been attributed to a
+decrease in β-cell function/mass [92]. Identity and dedif-
+ferentiation of β-cells may also contribute to the insulin
+production decay. The first suggestion for a role of miR-
+NAs in hormone secretion in vertebrates came from a
+cloning approach of small RNAs from the β-cell-derived
+line MIN6 [93].  Comparing islet–cell miRNA profiles
+with those of 15 other human tissues, a panel of 40 miR-
+NAs predominantly expressed in the islets have been re-
+cently identified [94].  Numerous miRNAs have been
+reported to be involved in pancreatic development, with
+some of them playing positive roles, while others exhi-
+biting negative effects [95, 96]. One of the most relevant
+is miR-375, which is the most abundant in pancreatic is-
+lets and is essential in maintaining normal pancreatic β-
+cell mass [97]. An increase in miR-375 expression is ob-
+served during pancreatic islet cell development, whereas
+β-cell functioning is linked to its decrease [98]. Numer-
+ous genes associated with cellular growth are controlled
+by this miRNA during human pancreas development
+[99]. Moreover, miR-375 targets a number of transcrip-
+tion factors, such as PDX1, HNF6, and INSM1, engaged
+in pancreatic islet functioning [100].  Interestingly, the 
+transcription factor neurogenin3 (Ngn3),  considered as
+an early marker of pancreatic islet cells with a prominent
+role during the development of the endocrine lineages in
+mice [101],  also interferes with miR-375 expression.
+Additional miRNAs, such as miR-15a, miR-15b, miR-16,
+and miRNA-195, also target Ngn3. Remarkably, miR-375
+has been reported to be involved in the modulation of
+insulin secretion in stimulated cell line MIN6 [93]. More
+in detail, miR-375 leads to a reduced glucose-stimulated
+insulin secretion by downregulating myotrophin mRNA
+(encoding a key protein involved in cell membrane fu-
+sion with insulin granules) and therefore inhibiting exo-
+cytosis. Furthermore, it has been shown that miR-375
+concurrently downregulates expression of insulin by tar-
+geting the phosphoinositide-dependent kinase-1 in
+INS1-E cells [102].  Other miRNAs such as miR-7 and
+miR-124 have been recognized to be engaged in regula-
+tion of β-cell differentiation and establishment of pan-
+creatic islets [97]. High levels of miR-7 are detectable in
+the pancreatic cells, both in the developing and adult
+phases [103].  Overexpression of miR-7 in pancreatic
+progenitors has been shown to impair the differentiation
+of both α- and β-cells and is associated with a repression
+of Pax6 expression. The knockdown of miR-7 during
+early embryonic life determines an overall downregula-
+tion of insulin production, a decrease in the number of
+β-cells, and the onset of glucose intolerance in the post-
+natal period. Furthermore, an in vitro inhibition of miR-
+7 promotes death of β-cell in explanted pancreatic buds.
+In summary, data suggest that dysregulation of miR-7
+signaling network in response to metabolic stress or cel-
+lular insults contribute to the loss of β-cell identity and
+establishment of T2D [104].
+Other miRNAs, like miR-146a and miR-34a, seem
+overexpressed only during the differentiation processesand have been shown to contribute, at least partially, to
+cytokine-mediated β-cell dysfunction occurring during
+the initial phases of type 1 diabetes in non-obese dia-
+betic (NOD) mice [54].  Further, miRNAs expressed in
+pancreatic islets, such as miR-143 and let-7, have been
+connected to glucose homeostasis by targeting key insu-
+lin signaling components [75].
+Other pancreatic functions can be modulated by miR-
+NAs. For instance, miR-29, in addition to its ability to
+regulate β-cell proliferation, has also been shown to
+negatively regulate insulin secretion by directly targeting
+Stx-1a involved in insulin exocytosis [105].  Similarly,
+miR-124a, miR-9, and miR-96 can regulate insulin re-
+lease by β-cells [106]. During the late pancreas develop-
+ment, miR-124a is upregulated [107].  This miRNA
+targets mRNA of both cAMP-responsive element-
+binding protein 1 (Creb1) and forkhead box protein A2
+(Foxa2). Notably, Foxa2 modulates the expression of the
+insulin gene in multiple pathways responsible for the
+Page 8
+Iacomino and Siani Genes & Nutrition (2017) 12:23  Page 8 of 16
+secretion of this hormone, mainly through an upstream
+regulation of pancreatic and duodenal homeobox 1
+(Pdx1). Pdx1 is critical for glucose balance and pancreas
+development and together with Ngn3 is required for β-
+cell differentiation. Moreover, miR124a increases the
+levels of SNAP25, Rab3A, and synapsin-1A and de-
+creases those of Rab27A and Noc2, targets involved in
+the exocytotic mechanisms for insulin release [106].
+Overexpression of miR-9 in insulin-secreting INS-1E
+cells results in a reduction of insulin exocytosis. mir-9
+acts by downregulating the expression of the transcrip-
+tion factor Onecut-2 and, in turn, by increasing the level
+of Granuphilin/Slp4, a Rab GTPase effector associated
+with β-cell secretory granules [108].
+Finally, miR-29 also controls insulin secretion by regu-
+lating the monocarboxylate transporter 1 (Mct1) expres-
+sion [105].
+miRNAs in the muscle
+The skeletal muscle represents the major user of glucose
+in human body, accounting for about 75% of insulin-
+mediated glucose uptake. Several miRNAs, referred to as
+myomiR family, are preferentially detectable in muscle
+tissue and act as modulators of skeletal and cardiac
+muscle myogenesis, proliferation, and metabolism, as
+well as hypertrophy. The myomiRs include miR-1, miR-
+133a, miR-133b, miR-206, miR-208a, miR-208b, miR-
+486, and miR-499 [109].  miR-206 is specifically
+expressed in the skeletal muscle, whereas miR-208a is
+cardio-specific; nevertheless, most of these miRNAs are
+co-expressed in the heart and skeletal muscles [110].
+MyomiRs have been proven to directly target pathways
+regulating skeletal muscle homeostasis; their deregula-
+tion is observed across cardiac and muscular dysfunc-
+tions [111].  As an example, a reduced expression of
+miR-133 is observed in mouse and human models of
+cardiac hypertrophy, with several studies connecting this
+miRNA to the pathogenesis of heart diseases [112].
+Interestingly, it has been proven that acute exercise de-
+termines an increase in the levels of miR-1, miR-133a,
+and miR-206 [113], important molecules possibly driving
+cell-to-cell communication. A recent paper from Zhou
+et al. has demonstrated the involvement of miR-29a in
+the induction of insulin resistance by targeting PPARδ in
+rats’ skeletal muscle cells. Overexpression of miR-29a in
+the cell line C2C12 suppresses the expression of PPARδ,
+finally affecting the expression of its coactivator PGC-
+1α.  PPARδ/PGC-1α-dependent signaling determines a
+decrease in levels of glucose transporter 4, the principal
+glucose transporter in the skeletal muscle, which par-
+tially induces a decrease in insulin-dependent glucose
+uptake and adenosine triphosphate (ATP) availability
+[114]. Similarly, another study found that miR-29a levels
+are elevated in the diabetic (db/db) mouse liver and its 
+overexpression prevents insulin-mediated inhibition of
+hepatic phosphoenolpyruvate carboxykinase (PEPCK)
+gene expression, which is normally implicated in inhib-
+ition of gluconeogenesis and suppressed in diabetes
+[115].  Other studies have shown that high-fat diet sig-
+nificantly increases the expression of miR-29a in myo-
+cytes, impairing insulin signaling and glucose uptake
+through an extensive decrease in insulin receptor sub-
+strate 1 (IRS-1).  Possibly, the upregulation of miR-29a
+by saturated fatty acids (SFA) is causally related to the
+development of insulin resistance in the muscle [116].
+miR-106b, highly expressed in the muscle of diabetic
+subjects, has been associated to skeletal muscle insulin
+resistance and T2D. Overexpression of miR-106b deter-
+mines mitochondrial dysfunction and insulin resistance
+in C2C12 myotubes by targeting mitofusin-2. Notably,
+expression of this miRNA is improved following
+TNF-α treatment, suggesting that its enhanced pro-
+duction under chronic low-grade inflammation may
+represent a valuable link between mitochondrial alter-
+ation and T2D [117].
+A fascinating research topic is the pleiotropic regula-
+tory network exerted by miR-208a, a heart-specific
+miRNA that also controls glucose metabolism and en-
+ergy homeostasis. The heart contributes to regulate sys-
+temic energy homeostasis via MED13 [118], a subunit of
+the Mediator complex, which governs the transcription
+by the thyroid hormone (that enhances energy expend-
+iture and regulates body weight) and other nuclear hor-
+mone receptors [119].  MED13 is negatively controlled
+by miR-208a. Remarkably, anti-miR-208 oligonucleotides
+confer resistance to diet-induced obesity and improve
+glucose tolerance in mice [120].
+miRNAs in the liver
+miRNAs control various functions in the liver, and
+cumulative evidence suggests that they have a relevant
+role in this organ pathology [121]. miR-122 is a dom-
+inant hepatocyte-specific miRNA accounting for about
+75% of total miRNA expression in human hepatocytes
+with approximately 135,000 copies, making it one of
+the highly expressed in the human body. Levels of
+miR-122 are controlled by liver-enriched transcription
+factors (LETFs),  including hepatocyte nuclear factor
+(HNF) 6 and 4a. Interestingly, miR-122 regulatory
+network has been implicated in numerous liver func-
+tions, ranging from cholesterol metabolism, stress re-
+sponses, viral infection, cancer, and circadian
+regulation of hepatic genes [122].  The role of this
+miRNA is also emerging in the metabolic syndrome
+and other liver diseases, such as liver inflammation
+related to alcohol use, autoimmune processes, and the
+development of liver fibrosis both in human and ani-
+mal models. Pathological suppression of miR-122 has
+Page 9
+Iacomino and Siani Genes & Nutrition (2017) 12:23  Page 9 of 16
+Table 4 Summary of the current knowledge on circulating miRNAs in the context of obesity and metabolic diseases
+miRNA  Process  Reference
+↓miR-126  T2D  [148]
+↑miR-1, miR-21, miR-133a, and miR-208  Myocardial infarction  [150]
+↑miR-122  Hepatic injury and steatosis  [151]
+↑let-7e  Hypertension  [152]
+↑miR-130a and miR-195  Blood pressure  [153]
+miR-23a, miR-27a, miR-130, miR-195, miR-197, miR-320a, and miR-509-5p Metabolic syndrome  [153, 154]
+↑let-7g and miR-221  Female-specific in metabolic syndrome  [155]
+let-7b, miR-143, and miR-221  Atherogenic as and adipogenic processes  [156]
+↓miR-17-5p and miR-132  Obesity  [157]
+↓miR-122, miR-324-3p, miR-375, and miR-652; ↑miR-625  Pre-gestational and gestational obesity
+↑miR-140-5p, miR-142-3p, miR-222; ↓miR-532-5p, miR-125b, miR-130b,
+miR-221, miR-15a, miR-423-5p, and miR-520c-3p 
+Morbidly obese patients  [67]
+↓miR-17-5p  Coronary artery disease  [205]
+↑miR-33  Familial hypercholesterolemia and cardiometabolic disorders [206]
+↑miR-122  NAFLD. Insulin resistance, obesity, metabolic syndrome, type 2 [207, 208]
+diabetes, and an adverse lipid profile
+↑miR-122 and miR-199a  Children obesity  [161]
+↓miR-375  T1D onset  [209]
+been described in hepatocellular carcinoma [123],
+non-alcoholic steatohepatitis [124],  and liver cirrhosis
+[121].  This miRNA is intensely investigated because
+of its role in cholesterol metabolism. Antisense inhib-
+ition of miR-122 in normal mice results in lower
+levels of serum cholesterol, LDL, and serum triglycer-
+ide and increased hepatic fatty acid oxidation. These
+effects on lipid metabolism have been associated with
+the expression of key genes involved in fatty acid me-
+tabolism and cholesterol biosynthesis, including the
+rate-limiting enzyme 3-hydroxy-3-methylglutaryl-CoA-
+reductase [125].  Similarly, antisense inhibition of this
+miRNA in chimpanzee provokes a plasma cholesterol
+reduction supporting its key role in maintaining liver
+homeostasis [126].  Since miR-122 can be detected in
+blood, it has been proposed as a circulating bio-
+marker of liver injury in chronic hepatitis B and C,
+non-alcoholic fatty liver disease, and drug-induced
+liver disease [127].
+Other miRNAs, such as miR-27b, miR-33, miR-34,
+miR-103, miR-104, 223, and miR-370, also control the
+fatty acid metabolism and cholesterol biosynthesis in the
+liver. As an example, miR-27b could exert regulatory ef-
+fects in the lipid metabolism and is altered in dyslipid-
+emia, theoretically affecting both liver and heart
+functions in mouse [128].  Moreover, miR-34a targets
+hepatic SIRT1. The upregulation of miR-34a, with a con-
+comitant decrease in SIRT1 levels, has been described in
+fatty livers of mice with diet-induced obesity [129]. Add-
+itionally, the mitochondrial enzyme carnitine palmitoyl 
+transferase, involved in the transport of long-chain fatty
+acids across the membrane, is targeted by miR-370 that
+concurrently affects lipid metabolism [130].
+MiR-33-3p regulates cholesterol and lipid metabolism
+as well as fatty acid oxidation [131]. This miRNA down-
+regulates several genes encoding key enzymes involved
+in fatty acid metabolism, cholesterol efflux, such as
+ATP-binding cassette A1 (ABCA1),  and insulin signal-
+ing. This miRNA in vitro targets IRS2 and SIRT6 genes
+involved in insulin signaling. Inhibition of miR-33 in
+non-human primates resulted in elevated plasma HDL
+and protective effects against atherosclerosis. However,
+recent studies suggest that miR-33 inhibition may
+have adverse effects on lipid and insulin metabolism
+in mice [132].
+Hepatic miR-223 has been shown to reduce choles-
+terol biosynthesis in mice by targeting the 3-hydroxy-3-
+methylglutaryl-CoA synthase 1 and the sterol-C4-
+methyloxidase-like protein. Moreover, this miRNA in-
+hibits the HDL-C uptake by targeting the scavenger re-
+ceptor class B member 1 and promotes cholesterol
+efflux by positively regulating the expression of ABCA1.
+Notably, miR-223 level is controlled by the cholesterol
+levels [133].
+miR-26a additionally regulates insulin signaling as well
+as metabolism of glucose and lipids in mice and humans
+[134]. Overweight compared with lean subjects exhibit a
+decreased liver expression of miR-26a. Overexpression
+of this miRNA in mice fed a high-fat diet enhanced insu-
+lin sensitivity and reduced hepatic glucose and fatty acid
+Page 10
+Iacomino and Siani Genes & Nutrition (2017) 12:23  Page 10 of 16
+Fig. 2 Overview of miRNAs possibly associated with obesity and metabolic diseases in different tissues. Circulating miRNAs are additionally reported in
+Table 4
+synthesis, so preventing obesity-induced metabolic com-
+plications [134].
+Remarkably, a number of hepatic miRNAs have been
+reported to be dysregulated in obese patients with
+NAFLD and NASH [124, 135, 136].
+Circulating miRNAs
+Although miRNAs were first identified inside cells, more
+recently, an increasing number of miRNAs have been
+found, in surprisingly high concentrations, in plasma
+and other body fluids such as serum, urine, and saliva
+[137].  The concept that miRNAs could be stable in
+blood and body fluids [138], in spite of the ubiquity of
+nucleases, was originally met with skepticism by the sci-
+entific community. However, this characteristic gener-
+ated high interest for the possibility that variations in
+cell-free miRNA expression could be used as non-
+invasive biomarkers for several diseases and, possibly, as
+early diagnostic tools. [139].  Due to their accessibility,
+the most common miRNA sources investigated are
+whole blood, serum, and plasma [140]. 
+Circulating miRNAs (cmiRNAs), as expected, are not
+naked molecules, and two major mechanisms have been
+identified to shield them from nuclease activity. The first
+one consists in the formation of complexes of specific
+binding proteins, such as Argonaute 2 (AGO-2) [141], a
+protein involved in the RNA silencing complex, with
+high-density lipoproteins [142],  or nucleophosmin-1
+(NPM-1),  a nucleolar RNA-binding protein implicated
+in the nuclear export of the ribosome [143]. The second
+proposed mechanism stems from the discovery of cmiR-
+NAs enclosed within circulating microvesicles or exo-
+somes [144] deriving either from the endosomal
+compartments or from the cell plasma membrane [145].
+Although an established mechanism for the release of
+miRNAs from cells remains largely unknown, growing
+evidence supports the indication that extracellular miR-
+NAs, arranged either into exosomes or protein com-
+plexes, may be delivered to the receiver cells, where they
+can be engaged in the control of target gene translation
+[146]. However, the physiological role of circulating miR-
+NAs is still uncertain.
+Page 11
+Iacomino and Siani Genes & Nutrition (2017) 12:23  Page 11 of 16
+Differential cmiRNA profiles have been reported in in-
+dividuals with obesity and T2D [147]. In Table 4, the be-
+havior of specific cmiRNAs in different metabolic
+disorders is summarized. For instance, miR-126 is
+reduced in T2D [148] and has been proposed as a bio-
+marker of endothelial dysfunction caused by uncon-
+trolled glycemia in T2D [149]; miR-1, miR-21, miR-133a,
+and miR-208 are enriched in the plasma after myocardial
+infarction [150]; miR-122 is enhanced in hepatic injury
+and steatosis [151],  as well as let-7e in hypertension
+[152].  Additionally, circulating miR-130a and miR-195
+have been connected with high blood pressure [153]. Al-
+terations in circulating miR-23a, miR-27a, miR-130,
+miR-195, miR-197, miR-320a, and miR-509-5p have
+been associated to metabolic syndrome [153, 154].
+Moreover, cmiRNA profiles exhibited a sex-specific asso-
+ciation with metabolic syndrome [155].  Circulating let-
+7b, miR-143, and 221 have been proposed to regulate
+atherogenic and adipogenic processes [156].  Further-
+more, the expression of circulating miR-17-5p and miR-
+132 was decreased in obesity, mirroring the expression
+pattern of miRNAs in omental fat from the same group
+of obese subjects [157]. Different cmRNA profiles have
+also been described in pre-gestational and gestational
+obesity [158].
+Ortega et al. have reported that morbidly obese pa-
+tients exhibit a marked increase of circulating miR-140-
+5p, miR-142-3p, and miR-222 and a decrease of miR-
+532-5p, miR-125b, miR-130b, miR-221, miR-15a, miR-
+423-5p, and miR-520c-3p. In the same study, a surgery-
+induced weight loss caused a significant decrease of cir-
+culating miR-140-5p, miR-122, miR-193a-5p, and miR-
+16-1 and an increase of miR-221 and miR-199a-3p [67].
+Furthermore, various studies have shown a differential
+cmiRNA signature in overweight/obese as compared in
+normal weight children and adolescents [68, 159–161],
+thus suggesting that these molecules could have a prom-
+ising role in the early identification of children at risk of
+excess body fat accumulation and related metabolic
+abnormalities.
+Conclusion
+Since their first detection in 1993, miRNAs have attracted
+growing interest among the scientific community. Consider-
+able progress has been achieved in the research of contribu-
+tory crosstalk between regulatory miRNAs and diseases.
+miRNAs have emerged as key regulators of lipid and glucose
+metabolism and play pivotal roles in the onset of obesity
+and obesity-related diseases by affecting status and functions
+of the adipose tissue, pancreas, liver, and muscle (Fig. 2).
+However, information about the mechanisms of action re-
+mains nearly limited, due to the miRNAs’ ability to simul-
+taneously affect multiple pathways/gene networks and to
+the technical limitations of in vivo profiling [48]. 
+A comprehensive understanding of the role of miR-
+NAs in tissue metabolism and energy homeostasis may
+in perspective open the road to therapeutics strategies.
+Two main approaches are currently considered: the in-
+hibition strategy, which uses anti-miR sequences able to
+target a specific miRNA and block its function, and the
+replacement therapy employing miRNA mimics [162].
+The exciting emergence of circulating miRNAs as
+stable and accessible molecules opened a promising
+research avenue for the detection of non-invasive bio-
+markers potentially useful to the early identification of
+subjects at risk of excess body fat accumulation and re-
+lated metabolic abnormalities.
+For the etiological characterization, prospectively de-
+signed studies are strongly needed. A number of miRNA
+candidate signatures have been defined, and clinical tri-
+als are ongoing to validate their significance.
+Abbreviations
+ABCA1: ATP-binding cassette A1; AGO: Argonaute; BMI: Body mass index; C/
+EBPs: CCAAT/enhancer-binding proteins; cmiRNAs: circulating miRNAs;
+Creb1: cAMP-responsive element-binding protein 1; ERK: Extracellular signal-
+regulated kinases; FABP4: Fatty acid-binding protein 4; FAS: Fatty acid
+synthase; FGF21: Fibroblast growth factor 21; Foxa2: Forkhead box protein
+A2; FOXO1: Forkhead box O1; HNF: Hepatocyte nuclear factor; INSR: Insulin
+receptor; IRS-1: Insulin receptor substrate 1; LETFs: Liver-enriched
+transcription factors; LXRα: Liver X receptor α; Mct1: Monocarboxylate
+transporter; miRNAs: microRNAs; NAFLD: Non-alcoholic fatty liver disease;
+NASH: Non-alcoholic steatohepatitis; N-CoR: Nuclear receptor corepressor;
+ncRNAs: Small non-coding RNAs; Ngn3: neurogenin3; NGS: Next-generation
+sequencing; NOD: Non-obese diabetic mice; NPM-1: Nucleophosmin-1;
+Pdx1: Pancreatic and duodenal homeobox 1; PEPCK: Phosphoenolpyruvate
+carboxykinase; PI3K: Insulin/phosphoinositide-3 kinase; PPARγ: Proliferator-
+activated receptor-γ; RB: Retinoblastoma susceptibility protein; RISCs: RNA-
+induced silencing complexes; RNAseq: RNA sequencing; SFA: Saturated fatty
+acids; SHIP1: SH2 (Src homology 2)-containing inositol phosphatase-1;
+SIRT1: Sirtuin 1; SMRT: Silencing mediator for retinoid and thyroid hormone
+receptors; SREBP1: Sterol regulatory element-binding protein; T2D: Type 2
+diabetes
+Acknowledgements
+The authors are grateful to Dr. Paola Russo for hepful discussion and comments.
+Funding
+Not applicable
+Availability of data and materials
+We systematically explored PubMed using different combinations of key
+words. Articles published until July 2017 were selected. Whenever possible,
+the most recent and complete reviews on the topic were selected.
+Authors’ contributions
+All authors confirmed they have contributed to the intellectual content of
+this review. GI and AS acquired the data, drafted the paper, revised the
+manuscript, and made substantial contributions to its final content and
+design. GI and AS read and approved the final manuscript.
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Page 12
+Iacomino and Siani Genes & Nutrition (2017) 12:23  Page 12 of 16
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Received: 12 May 2017 Accepted: 12 September 2017
+References
+1.  Hurt RT, Kulisek C, Buchanan LA, McClave SA. The obesity epidemic: challenges,
+health initiatives, and implications for gastroenterologists. Gastroenterol Hepatol
+(N Y). 2010;6(12):780–92.
+2.  Branca F, Nikogosian H, Lobstein T, World Health Organization. Regional
+office for Europe.: The challenge of obesity in the WHO European region
+and the strategies for response summary. In. Copenhagen: World Health
+Organization, Regional Office for Europe; 2007: xiii, 60 p.
+3.  WHO library cataloguing in publication data report of the commission on
+ending childhood obesity; 2016.
+4.  Ahima RS, Lazar MA. Physiology. The health risk of obesity—better metrics
+imperative. Science. 2013;341(6148):856–8.
+5.  Bluher M. Adipose tissue dysfunction contributes to obesity related
+metabolic diseases. Best Pract Res Cl En. 2013;27(2):163–77.
+6.  D'Adamo E, Caprio S. Type 2 diabetes in youth: epidemiology and
+pathophysiology. Diabetes Care. 2011;34(Suppl 2):S161–5.
+7.  Berndt SI, Gustafsson S, Magi R, Ganna A, Wheeler E, Feitosa MF, Justice AE,
+Monda KL, Croteau-Chonka DC, Day FR, et al. Genome-wide meta-analysis
+identifies 11 new loci for anthropometric traits and provides insights into
+genetic architecture. Nat Genet. 2013;45(5):501–12.
+8.  Kunej T, Jevsinek Skok D, Zorc M, Ogrinc A, Michal JJ, Kovac M, Jiang Z.
+Obesity gene atlas in mammals. J Genomics. 2013;1:45–55.
+9.  Loos RJF, Yeo GSH. The bigger picture of FTO: the first GWAS-identified
+obesity gene. Nat Rev Endocrinol. 2014;10(1):51–61.
+10. Stranger BE, Stahl EA, Raj T. Progress and promise of genome-wide
+association studies for human complex trait genetics. Genetics. 2011;187(2):
+367–83.
+11. O'Rahilly S, Farooqi IS. Human obesity: a heritable neurobehavioral disorder
+that is highly sensitive to environmental conditions. Diabetes. 2008;57(11):
+2905–10.
+12. Rankinen T, Bouchard C. Genetics of food intake and eating behavior phenotypes
+in humans. Annu Rev Nutr. 2006;26:413–34.
+13. Locke AE, Kahali B, Berndt SI, Justice AE, Pers TH, Felix R, Powell C, Vedantam S,
+Buchkovich ML, Yang J, et al. Genetic studies of body mass index yield new
+insights for obesity biology. Nature. 2015;518(7538):197–U401.
+14. Iacomino G, Medici MC, Napoli D, Russo GL. Effects of histone deacetylase
+inhibitors on p55CDC/Cdc20 expression in HT29 cell line. J Cell Biochem.
+2006;99(4):1122–31.
+15. Iacomino G, Tecce MF, Grimaldi C, Tosto M, Russo GL. Transcriptional response of
+a human colon adenocarcinoma cell line to sodium butyrate. Biochem Biophys
+Res Commun. 2001;285(5):1280–9.
+16. Venkatesh S, Workman JL. Histone exchange, chromatin structure and the
+regulation of transcription. Nat Rev Mol Cell Biol. 2015;16(3):178–89.
+17. Catalanotto C, Cogoni C, Zardo G: MicroRNA in control of gene expression:
+an overview of nuclear functions. Int J Mol Sci. 2016;17(10):1712.
+18. Lee RC, Feinbaum RL, Ambros V. The C. elegans heterochronic gene lin-4
+encodes small RNAs with antisense complementarity to lin-14. Cell. 1993;
+75(5):843–54.
+19. Wightman B, Ha I, Ruvkun G. Posttranscriptional regulation of the heterochronic
+gene lin-14 by lin-4 mediates temporal pattern formation in C. elegans. Cell. 1993;
+75(5):855–62.
+20. Rupaimoole R, Slack FJ. MicroRNA therapeutics: towards a new era for the
+management of cancer and other diseases. Nat Rev Drug Discov. 2017;16(3):
+203–22.
+21. Bartel DP. MicroRNAs: target recognition and regulatory functions. Cell. 2009;
+136(2):215–33.
+22. Ghildiyal M, Zamore PD. Small silencing RNAs: an expanding universe. Nat
+Rev Genet. 2009;10(2):94–108.
+23. Ha M, Kim VN. Regulation of microRNA biogenesis. Nat Rev Mol Cell Biol.
+2014;15(8):509–24.
+24. Kozomara A, Griffiths-Jones S. miRBase: annotating high confidence microRNAs
+using deep sequencing data. Nucleic Acids Res. 2014;42(Database issue):D68–73.
+25. Finnegan EF, Pasquinelli AE. MicroRNA biogenesis: regulating the regulators.
+Crit Rev Biochem Mol Biol. 2013;48(1):51–68. 
+26. Kim VN, Han J, Siomi MC. Biogenesis of small RNAs in animals. Nat Rev Mol
+Cell Biol. 2009;10(2):126–39.
+27. Gulyaeva LF, Kushlinskiy NE. Regulatory mechanisms of microRNA expression. J
+Transl Med. 2016;14(1):143.
+28. Faller M, Guo F. MicroRNA biogenesis: there’s more than one way to skin a
+cat. Biochim Biophys Acta. 2008;1779(11):663–7.
+29. Xiong XP, Vogler G, Kurthkoti K, Samsonova A, Zhou R. SmD1 modulates
+the miRNA pathway independently of its pre-mRNA splicing function. PLoS
+Genet. 2015;11(8):e1005475.
+30. Park JH, Shin C. MicroRNA-directed cleavage of targets: mechanism and
+experimental approaches. BMB Rep. 2014;47(8):417–23.
+31. Pawlicki JM, Steitz JA. Primary microRNA transcript retention at sites of
+transcription leads to enhanced microRNA production. J Cell Biol. 2008;
+182(1):61–76.
+32. Ebert MS, Sharp PA. Roles for microRNAs in conferring robustness to biological
+processes. Cell. 2012;149(3):515–24.
+33. Grimson A, Farh KK, Johnston WK, Garrett-Engele P, Lim LP, Bartel DP. MicroRNA
+targeting specificity in mammals: determinants beyond seed pairing. Mol Cell.
+2007;27(1):91–105.
+34. Wang Y, Luo J, Zhang H, Lu J. microRNAs in the same clusters evolve to
+coordinately regulate functionally related genes. Mol Biol Evol. 2016;33(9):
+2232–47.
+35. Li P, Hua X, Zhang Z, Li J, Wang J. Characterization of regulatory features of
+housekeeping and tissue-specific regulators within tissue regulatory
+networks. BMC Syst Biol. 2013;7:112.
+36. Krek A, Grun D, Poy MN, Wolf R, Rosenberg L, Epstein EJ, MacMenamin P,
+da Piedade I, Gunsalus KC, Stoffel M, et al. Combinatorial microRNA target
+predictions. Nat Genet. 2005;37(5):495–500.
+37. Bracken CP, Li XC, Wright JA, Lawrence DM, Pillman KA, Salmanidis M,
+Anderson MA, Dredge BK, Gregory PA, Tsykin A, et al. Genome-wide
+identification of miR-200 targets reveals a regulatory network controlling
+cell invasion. EMBO J. 2014;33(18):2040–56.
+38. Friedman RC, Farh KK, Burge CB, Bartel DP. Most mammalian mRNAs are
+conserved targets of microRNAs. Genome Res. 2009;19(1):92–105.
+39. Lewis BP, Burge CB, Bartel DP. Conserved seed pairing, often flanked by
+adenosines, indicates that thousands of human genes are microRNA targets. Cell.
+2005;120(1):15–20.
+40. van Rooij E. The art of microRNA research. Circ Res. 2011;108(2):219–34.
+41. Bartel DP. MicroRNAs: genomics, biogenesis, mechanism, and function. Cell.
+2004;116(2):281–97.
+42. Mendell JT, Olson EN. MicroRNAs in stress signaling and human disease.
+Cell. 2012;148(6):1172–87.
+43. Paul P, Chakraborty A, Sarkar D, Langthasa M, Rahman M, Bari M, Singha RS,
+Malakar AK, Chakraborty S. Interplay between miRNAs and human diseases:
+a review. J Cell Physiol. 2017;
+44. Bracken CP, Scott HS, Goodall GJ. A network-biology perspective of
+microRNA function and dysfunction in cancer. Nat Rev Genet. 2016;17(12):
+719–32.
+45. Li XJ, Ren ZJ, Tang JH. MicroRNA-34a: a potential therapeutic target in
+human cancer. Cell Death Dis. 2014;5:e1327.
+46. Mestdagh P, Hartmann N, Baeriswyl L, Andreasen D, Bernard N, Chen C,
+Cheo D, D’Andrade P, DeMayo M, Dennis L, et al. Evaluation of quantitative
+miRNA expression platforms in the microRNA quality control (miRQC) study.
+Nat Methods. 2014;11(8):809–15.
+47. El-Khoury V, Pierson S, Kaoma T, Bernardin F, Berchem G. Assessing cellular
+and circulating miRNA recovery: the impact of the RNA isolation method
+and the quantity of input material. Sci Rep. 2016;6:19529.
+48. Riffo-Campos AL, Riquelme I, Brebi-Mieville P: Tools for sequence-based
+miRNA target prediction: what to choose? Int J Mol Sci. 2016;17(12):1987.
+49. Liu B, Li J, Cairns MJ. Identifying miRNAs, targets and functions. Brief
+Bioinform. 2014;15(1):1–19.
+50. Keller A, Meese E. Can circulating miRNAs live up to the promise of being
+minimal invasive biomarkers in clinical settings? Wiley Interdiscip Rev RNA.
+2016;7(2):148–56.
+51. Calin GA, Croce CM. MicroRNA signatures in human cancers. Nat Rev Cancer.
+2006;6(11):857–66.
+52. Matsuzaki J, Ochiya T. Circulating microRNAs and extracellular vesicles as
+potential cancer biomarkers: a systematic review. Int J Clin Oncol. 2017;
+53. Jiang Q, Wang Y, Hao Y, Juan L, Teng M, Zhang X, Li M, Wang G, Liu Y.
+miR2Disease: a manually curated database for microRNA deregulation in
+human disease. Nucleic Acids Res. 2009;37(Database issue):D98–104.
+Page 13
+Iacomino and Siani Genes & Nutrition (2017) 12:23  Page 13 of 16
+54. Dumortier O, Hinault C, Van Obberghen E. MicroRNAs and metabolism
+crosstalk in energy homeostasis. Cell Metab. 2013;18(3):312–24.
+55. Slattery ML, Herrick JS, Mullany LE, Stevens JR, Wolff RK. Diet and lifestyle
+factors associated with miRNA expression in colorectal tissue.
+Pharmgenomics Pers Med. 2017;10:1–16.
+56. Palmer JD, Soule BP, Simone BA, Zaorsky NG, Jin L, Simone NL. MicroRNA
+expression altered by diet: can food be medicinal? Ageing Res Rev. 2014;17:
+16–24.
+57. Rosen ED, Spiegelman BM. Adipocytes as regulators of energy balance and
+glucose homeostasis. Nature. 2006;444(7121):847–53.
+58. Schaffler A, Muller-Ladner U, Scholmerich J, Buchler C. Role of adipose tissue
+as an inflammatory organ in human diseases. Endocr Rev. 2006;27(5):449–
+67.
+59. Xu P, Vernooy SY, Guo M, Hay BA. The Drosophila microRNA Mir-14
+suppresses cell death and is required for normal fat metabolism. Curr Biol.
+2003;13(9):790–5.
+60. Arner P, Kulyte A. MicroRNA regulatory networks in human adipose tissue
+and obesity. Nat Rev Endocrinol. 2015;11(5):276–88.
+61. Hartig SM, Hamilton MP, Bader DA, McGuire SE. The miRNA interactome in
+metabolic homeostasis. Trends Endocrin Met. 2015;26(12):733–45.
+62. Zhang R, Wang D, Xia Z, Chen C, Cheng P, Xie H, Luo X. The role of
+microRNAs in adipocyte differentiation. Front Med. 2013;7(2):223–30.
+63. Price NL, Fernandez-Hernando C. miRNA regulation of white and brown
+adipose tissue differentiation and function. Biochim Biophys Acta. 2016;
+1861(12 Pt B):2104–10.
+64. Jordan SD, Kruger M, Willmes DM, Redemann N, Wunderlich FT, Bronneke
+HS, Merkwirth C, Kashkar H, Olkkonen VM, Bottger T, et al. Obesity-induced
+overexpression of miRNA-143 inhibits insulin-stimulated AKT activation and
+impairs glucose metabolism. Nat Cell Biol. 2011;13(4):434–46.
+65. Qin L, Chen Y, Niu Y, Chen W, Wang Q, Xiao S, Li A, Xie Y, Li J, Zhao X, et al.
+A deep investigation into the adipogenesis mechanism: profile of
+microRNAs regulating adipogenesis by modulating the canonical Wnt/beta-
+catenin signaling pathway. BMC Genomics. 2010;11:320.
+66. Lee EK, Lee MJ, Abdelmohsen K, Kim W, Kim MM, Srikantan S, Martindale JL,
+Hutchison ER, Kim HH, Marasa BS, et al. miR-130 suppresses adipogenesis by
+inhibiting peroxisome proliferator-activated receptor gamma expression.
+Mol Cell Biol. 2011;31(4):626–38.
+67. Ortega FJ, Mercader JM, Catalan V, Moreno-Navarrete JM, Pueyo N, Sabater
+M, Gomez-Ambrosi J, Anglada R, Fernandez-Formoso JA, Ricart W, et al.
+Targeting the circulating microRNA signature of obesity. Clin Chem. 2013;
+59(5):781–92.
+68. Prats-Puig A, Ortega FJ, Mercader JM, Moreno-Navarrete JM, Moreno M,
+Bonet N, Ricart W, Lopez-Bermejo A, Fernandez-Real JM. Changes in
+circulating microRNAs are associated with childhood obesity. J Clin
+Endocrinol Metab. 2013;98(10):E1655–60.
+69. Wang YC, Li Y, Wang XY, Zhang D, Zhang H, Wu Q, He YQ, Wang JY, Zhang
+L, Xia H, et al. Circulating miR-130b mediates metabolic crosstalk between
+fat and muscle in overweight/obesity. Diabetologia. 2013;56(10):2275–85.
+70. Qadir AS, Woo KM, Ryoo HM, Baek JH. Insulin suppresses distal-less
+homeobox 5 expression through the up-regulation of microRNA-124 in
+3T3-L1 cells. Exp Cell Res. 2013;319(14):2125–34.
+71. Truscott M, Islam AB, Frolov MV. Novel regulation and functional interaction
+of polycistronic miRNAs. RNA. 2016;22(1):129–38.
+72. Concepcion CP, Bonetti C, Ventura A. The microRNA-17-92 family of
+microRNA clusters in development and disease. Cancer J. 2012;18(3):262–7.
+73. Chen L, Cui J, Hou J, Long J, Li C, Liu L. A novel negative regulator of
+adipogenesis: microRNA-363. Stem Cells. 2014;32(2):510–20.
+74. Sun T, Fu M, Bookout AL, Kliewer SA, Mangelsdorf DJ. MicroRNA let-7
+regulates 3T3-L1 adipogenesis. Mol Endocrinol. 2009;23(6):925–31.
+75. Zhu H, Shyh-Chang N, Segre AV, Shinoda G, Shah SP, Einhorn WS, Takeuchi
+A, Engreitz JM, Hagan JP, Kharas MG, et al. The Lin28/let-7 axis regulates
+glucose metabolism. Cell. 2011;147(1):81–94.
+76. Frost RJ, Olson EN. Control of glucose homeostasis and insulin sensitivity by
+the Let-7 family of microRNAs. Proc Natl Acad Sci U S A. 2011;108(52):
+21075–80.
+77. Ling HY, Wen GB, Feng SD, Tuo QH, Ou HS, Yao CH, Zhu BY, Gao ZP, Zhang
+L, Liao DF. MicroRNA-375 promotes 3T3-L1 adipocyte differentiation
+through modulation of extracellular signal-regulated kinase signalling. Clin
+Exp Pharmacol Physiol. 2011;38(4):239–46.
+78. Novak J, Kruzliak P, Bienertova-Vasku J, Slaby O, Novak M. MicroRNA-206: a
+promising theranostic marker. Theranostics. 2014;4(2):119–33. 
+79. Walden TB, Timmons JA, Keller P, Nedergaard J, Cannon B. Distinct
+expression of muscle-specific microRNAs (myomirs) in brown adipocytes. J
+Cell Physiol. 2009;218(2):444–9.
+80. Zhong D, Huang G, Zhang Y, Zeng Y, Xu Z, Zhao Y, He X, He F. MicroRNA-1
+and microRNA-206 suppress LXRalpha-induced lipogenesis in hepatocytes.
+Cell Signal. 2013;25(6):1429–37.
+81. Li G, Ning C, Ma Y, Jin L, Tang Q, Li X, Li M, Liu H: miR-26b promotes 3T3-L1
+adipocyte differentiation through targeting PTEN. DNA Cell Biol 2017.
+82. Ahn J, Lee H, Jung CH, Jeon TI, Ha TY. MicroRNA-146b promotes
+adipogenesis by suppressing the SIRT1-FOXO1 cascade. EMBO Mol Med.
+2013;5(10):1602–12.
+83. Jing E, Gesta S, Kahn CR. SIRT2 regulates adipocyte differentiation through
+FoxO1 acetylation/deacetylation. Cell Metab. 2007;6(2):105–14.
+84. Trumbach D, Prakash N. The conserved miR-8/miR-200 microRNA family and
+their role in invertebrate and vertebrate neurogenesis. Cell Tissue Res. 2015;
+359(1):161–77.
+85. Kennell JA, Gerin I, MacDougald OA, Cadigan KM. The microRNA miR-8 is a
+conserved negative regulator of Wnt signaling. Proc Natl Acad Sci U S A.
+2008;105(40):15417–22.
+86. Hyun S, Lee JH, Jin H, Nam J, Namkoong B, Lee G, Chung J, Kim VN.
+Conserved microRNA miR-8/miR-200 and its target USH/FOG2 control
+growth by regulating PI3K. Cell. 2009;139(6):1096–108.
+87. Liang WC, Wang Y, Wan DC, Yeung VS, Waye MM. Characterization of miR-
+210 in 3T3-L1 adipogenesis. J Cell Biochem. 2013;114(12):2699–707.
+88. Kim YJ, Hwang SJ, Bae YC, Jung JS. MiR-21 regulates adipogenic
+differentiation through the modulation of TGF-beta signaling in
+mesenchymal stem cells derived from human adipose tissue. Stem Cells.
+2009;27(12):3093–102.
+89. Ortega FJ, Moreno M, Mercader JM, Moreno-Navarrete JM, Fuentes-Batllevell
+N, Sabater M, Ricart W, Fernandez-Real JM. Inflammation triggers specific
+microRNA profiles in human adipocytes and macrophages and in their
+supernatants. Clin Epigenetics. 2015;7:49.
+90. Karkeni E, Astier J, Tourniaire F, El Abed M, Romier B, Gouranton E, Wan L,
+Borel P, Salles J, Walrand S, et al. Obesity-associated inflammation induces
+microRNA-155 expression in adipocytes and adipose tissue: outcome on
+adipocyte function. J Clin Endocrinol Metab. 2016;101(4):1615–26.
+91. Thomou T, Mori MA, Dreyfuss JM, Konishi M, Sakaguchi M, Wolfrum C, Rao
+TN, Winnay JN, Garcia-Martin R, Grinspoon SK, et al. Adipose-derived
+circulating miRNAs regulate gene expression in other tissues. Nature. 2017;
+542(7642):450–5.
+92. Butler AE, Dhawan S. Beta-cell identity in type 2 diabetes: lost or found?
+Diabetes. 2015;64(8):2698–700.
+93. Poy MN, Eliasson L, Krutzfeldt J, Kuwajima S, Ma X, Macdonald PE, Pfeffer S,
+Tuschl T, Rajewsky N, Rorsman P, et al. A pancreatic islet-specific microRNA
+regulates insulin secretion. Nature. 2004;432(7014):226–30.
+94. van de Bunt M, Gaulton KJ, Parts L, Moran I, Johnson PR, Lindgren CM,
+Ferrer J, Gloyn AL, McCarthy MI. The miRNA profile of human pancreatic
+islets and beta-cells and relationship to type 2 diabetes pathogenesis. PLoS
+One. 2013;8(1):e55272.
+95. Kaviani M, Azarpira N, Karimi MH, Al-Abdullah I. The role of microRNAs in
+islet beta-cell development. Cell Biol Int. 2016;40(12):1248–55.
+96. Sebastiani G, Nigi L, Grieco GE, Mancarella F, Ventriglia G, Dotta F:
+Circulating microRNAs and diabetes mellitus: a novel tool for disease
+prediction, diagnosis, and staging? J Endocrinol Invest 2017.
+97. Baroukh NN, Van Obberghen E. Function of microRNA-375 and microRNA-
+124a in pancreas and brain. FEBS J. 2009;276(22):6509–21.
+98. Wei R, Yang J, Liu GQ, Gao MJ, Hou WF, Zhang L, Gao HW, Liu Y, Chen GA,
+Hong TP. Dynamic expression of microRNAs during the differentiation of
+human embryonic stem cells into insulin-producing cells. Gene. 2013;518(2):
+246–55.
+99. Joglekar MV, Joglekar VM, Hardikar AA. Expression of islet-specific
+microRNAs during human pancreatic development. Gene Expr Patterns.
+2009;9(2):109–13.
+100. Avnit-Sagi T, Kantorovich L, Kredo-Russo S, Hornstein E, Walker MD. The
+promoter of the pri-miR-375 gene directs expression selectively to the
+endocrine pancreas. PLoS One. 2009;4(4):e5033.
+101. Gu G, Dubauskaite J, Melton DA. Direct evidence for the pancreatic lineage:
+NGN3+ cells are islet progenitors and are distinct from duct progenitors.
+Development. 2002;129(10):2447–57.
+102. El Ouaamari A, Baroukh N, Martens GA, Lebrun P, Pipeleers D, van
+Obberghen E. miR-375 targets 3′-phosphoinositide-dependent protein
+Page 14
+Iacomino and Siani Genes & Nutrition (2017) 12:23  Page 14 of 16
+kinase-1 and regulates glucose-induced biological responses in pancreatic
+beta-cells. Diabetes. 2008;57(10):2708–17.
+103. Kredo-Russo S, Mandelbaum AD, Ness A, Alon I, Lennox KA, Behlke MA,
+Hornstein E. Pancreas-enriched miRNA refines endocrine cell differentiation.
+Development. 2012;139(16):3021–31.
+104. Martinez-Sanchez A, Rutter GA, Latreille M. MiRNAs in beta-cell
+development, identity, and disease. Front Genet. 2016;7:226.
+105. Pullen TJ, da Silva XG, Kelsey G, Rutter GA. miR-29a and miR-29b contribute
+to pancreatic beta-cell-specific silencing of monocarboxylate transporter 1
+(Mct1). Mol Cell Biol. 2011;31(15):3182–94.
+106. Lovis P, Gattesco S, Regazzi R. Regulation of the expression of components
+of the exocytotic machinery of insulin-secreting cells by microRNAs. Biol
+Chem. 2008;389(3):305–12.
+107. Ozcan S. Minireview: microRNA function in pancreatic beta cells. Mol
+Endocrinol. 2014;28(12):1922–33.
+108. Plaisance V, Abderrahmani A, Perret-Menoud V, Jacquemin P, Lemaigre F,
+Regazzi R. MicroRNA-9 controls the expression of Granuphilin/Slp4 and the
+secretory response of insulin-producing cells. J Biol Chem. 2006;281(37):
+26932–42.
+109. McCarthy JJ. The MyomiR network in skeletal muscle plasticity. Exerc Sport
+Sci Rev. 2011;39(3):150–4.
+110. Kirby TJ, McCarthy JJ. MicroRNAs in skeletal muscle biology and exercise
+adaptation. Free Radic Biol Med. 2013;64:95–105.
+111. Polakovicova M, Musil P, Laczo E, Hamar D, Kyselovic J: Circulating MicroRNAs
+as potential biomarkers of exercise response. Int J Mol Sci. 2016;17(10):1553.
+112. Feng B, Chen S, George B, Feng Q, Chakrabarti S. miR133a regulates
+cardiomyocyte hypertrophy in diabetes. Diabetes Metab Res Rev. 2010;
+26(1):40–9.
+113. Gomes CP, Oliveira-Jr GP, Madrid B, Almeida JA, Franco OL, Pereira RW.
+Circulating miR-1, miR-133a, and miR-206 levels are increased after a half-
+marathon run. Biomarkers. 2014;19(7):585–9.
+114. Zhou Y, Gu P, Shi W, Li J, Hao Q, Cao X, Lu Q, Zeng Y. MicroRNA-29a
+induces insulin resistance by targeting PPARdelta in skeletal muscle cells. Int
+J Mol Med. 2016;37(4):931–8.
+115. Pandey AK, Verma G, Vig S, Srivastava S, Srivastava AK, Datta M. miR-29a
+levels are elevated in the db/db mice liver and its overexpression leads to
+attenuation of insulin action on PEPCK gene expression in HepG2 cells. Mol
+Cell Endocrinol. 2011;332(1–2):125–33.
+116. Yang WM, Jeong HJ, Park SY, Lee W. Induction of miR-29a by saturated fatty
+acids impairs insulin signaling and glucose uptake through translational
+repression of IRS-1 in myocytes. FEBS Lett. 2014;588(13):2170–6.
+117. Zhang Y, Yang L, Gao YF, Fan ZM, Cai XY, Liu MY, Guo XR, Gao CL, Xia ZK.
+MicroRNA-106b induces mitochondrial dysfunction and insulin resistance in
+C2C12 myotubes by targeting mitofusin-2. Mol Cell Endocrinol. 2013;381(1–
+2):230–40.
+118. Baskin KK, Grueter CE, Kusminski CM, Holland WL, Bookout AL, Satapati S,
+Kong YM, Burgess SC, Malloy CR, Scherer PE, et al. MED13-dependent
+signaling from the heart confers leanness by enhancing metabolism in
+adipose tissue and liver. EMBO Mol Med. 2014;6(12):1610–21.
+119. Baskin KK, Winders BR, Olson EN. Muscle as a “mediator” of systemic
+metabolism. Cell Metab. 2015;21(2):237–48.
+120. Grueter CE, van Rooij E, Johnson BA, DeLeon SM, Sutherland LB, Qi X,
+Gautron L, Elmquist JK, Bassel-Duby R, Olson EN. A cardiac microRNA
+governs systemic energy homeostasis by regulation of MED13. Cell. 2012;
+149(3):671–83.
+121. Szabo G, Bala S. MicroRNAs in liver disease. Nat Rev Gastroenterol Hepatol.
+2013;10(9):542–52.
+122. Tsai WC, Hsu SD, Hsu CS, Lai TC, Chen SJ, Shen R, Huang Y, Chen HC, Lee
+CH, Tsai TF, et al. MicroRNA-122 plays a critical role in liver homeostasis and
+hepatocarcinogenesis. J Clin Invest. 2012;122(8):2884–97.
+123. Burchard J, Zhang C, Liu AM, Poon RT, Lee NP, Wong KF, Sham PC, Lam BY,
+Ferguson MD, Tokiwa G, et al. microRNA-122 as a regulator of
+mitochondrial metabolic gene network in hepatocellular carcinoma. Mol
+Syst Biol. 2010;6:402.
+124. Cheung O, Puri P, Eicken C, Contos MJ, Mirshahi F, Maher JW, Kellum
+JM, Min H, Luketic VA, Sanyal AJ. Nonalcoholic steatohepatitis is
+associated with altered hepatic microRNA expression. Hepatology.
+2008;48(6):1810–20.
+125. Esau C, Davis S, Murray SF, Yu XX, Pandey SK, Pear M, Watts L, Booten SL,
+Graham M, McKay R et al: miR-122 regulation of lipid metabolism revealed
+by in vivo antisense targeting. Cell Metab 2006, 3(2):87-98. 
+126. Elmen J, Lindow M, Schutz S, Lawrence M, Petri A, Obad S, Lindholm M,
+Hedtjarn M, Hansen HF, Berger U, et al. LNA-mediated microRNA silencing
+in non-human primates. Nature. 2008;452(7189):896–9.
+127. Bandiera S, Pfeffer S, Baumert TF, Zeisel MB. miR-122—a key factor and
+therapeutic target in liver disease. J Hepatol. 2015;62(2):448–57.
+128. Vickers KC, Shoucri BM, Levin MG, Wu H, Pearson DS, Osei-Hwedieh D,
+Collins FS, Remaley AT, Sethupathy P. MicroRNA-27b is a regulatory hub
+in lipid metabolism and is altered in dyslipidemia. Hepatology. 2013;
+57(2):533–42.
+129. Lee J, Padhye A, Sharma A, Song G, Miao J, Mo YY, Wang L, Kemper JK. A
+pathway involving farnesoid X receptor and small heterodimer partner
+positively regulates hepatic sirtuin 1 levels via microRNA-34a inhibition. J
+Biol Chem. 2010;285(17):12604–11.
+130. Iliopoulos D, Drosatos K, Hiyama Y, Goldberg IJ, Zannis VI. MicroRNA-370
+controls the expression of microRNA-122 and Cpt1alpha and affects lipid
+metabolism. J Lipid Res. 2010;51(6):1513–23.
+131. Goedeke L, Vales-Lara FM, Fenstermaker M, Cirera-Salinas D, Chamorro-
+Jorganes A, Ramirez CM, Mattison JA, de Cabo R, Suarez Y, Fernandez-
+Hernando C. A regulatory role for microRNA 33* in controlling lipid
+metabolism gene expression. Mol Cell Biol. 2013;33(11):2339–52.
+132. Karunakaran D, Richards L, Geoffrion M, Barrette D, Gotfrit RJ, Harper ME,
+Rayner KJ. Therapeutic inhibition of miR-33 promotes fatty acid oxidation
+but does not ameliorate metabolic dysfunction in diet-induced obesity.
+Arterioscler Thromb Vasc Biol. 2015;35(12):2536–43.
+133. Vickers KC, Landstreet SR, Levin MG, Shoucri BM, Toth CL, Taylor RC,
+Palmisano BT, Tabet F, Cui HL, Rye KA, et al. MicroRNA-223 coordinates
+cholesterol homeostasis. Proc Natl Acad Sci U S A. 2014;111(40):14518–23.
+134. Fu X, Dong B, Tian Y, Lefebvre P, Meng Z, Wang X, Pattou F, Han W, Wang
+X, Lou F, et al. MicroRNA-26a regulates insulin sensitivity and metabolism of
+glucose and lipids. J Clin Invest. 2015;125(6):2497–509.
+135. Trajkovski M, Hausser J, Soutschek J, Bhat B, Akin A, Zavolan M, Heim MH,
+Stoffel M. MicroRNAs 103 and 107 regulate insulin sensitivity. Nature. 2011;
+474(7353):649–53.
+136. Zarfeshani A, Ngo S, Sheppard AM. MicroRNA expression relating to dietary-
+induced liver Steatosis and NASH. J Clin Med. 2015;4(11):1938–50.
+137. Turchinovich A, Weiz L, Langheinz A, Burwinkel B. Characterization of
+extracellular circulating microRNA. Nucleic Acids Res. 2011;39(16):7223–33.
+138. Cortez MA, Calin GA. MicroRNA identification in plasma and serum: a
+new tool to diagnose and monitor diseases. Expert Opin Biol Ther.
+2009;9(6):703–11.
+139. Kim YK. Extracellular microRNAs as biomarkers in human disease. Chonnam
+Med J. 2015;51(2):51–7.
+140. Grasedieck S, Sorrentino A, Langer C, Buske C, Dohner H, Mertens D,
+Kuchenbauer F. Circulating microRNAs in hematological diseases: principles,
+challenges, and perspectives. Blood. 2013;121(25):4977–84.
+141. Arroyo JD, Chevillet JR, Kroh EM, Ruf IK, Pritchard CC, Gibson DF, Mitchell PS,
+Bennett CF, Pogosova-Agadjanyan EL, Stirewalt DL, et al. Argonaute2
+complexes carry a population of circulating microRNAs independent of
+vesicles in human plasma. Proc Natl Acad Sci U S A. 2011;108(12):5003–8.
+142. Vickers KC, Palmisano BT, Shoucri BM, Shamburek RD, Remaley AT.
+MicroRNAs are transported in plasma and delivered to recipient cells by
+high-density lipoproteins. Nat Cell Biol. 2011;13(4):423–33.
+143. Wang K, Zhang S, Weber J, Baxter D, Galas DJ. Export of microRNAs and
+microRNA-protective protein by mammalian cells. Nucleic Acids Res. 2010;
+38(20):7248–59.
+144. Mittelbrunn M, Gutierrez-Vazquez C, Villarroya-Beltri C, Gonzalez S, Sanchez-
+Cabo F, Gonzalez MA, Bernad A, Sanchez-Madrid F. Unidirectional transfer of
+microRNA-loaded exosomes from T cells to antigen-presenting cells. Nat
+Commun. 2011;2:282.
+145. Camussi G, Deregibus MC, Bruno S, Grange C, Fonsato V, Tetta C. Exosome/
+microvesicle-mediated epigenetic reprogramming of cells. Am J Cancer Res.
+2011;1(1):98–110.
+146. Weber JA, Baxter DH, Zhang S, Huang DY, Huang KH, Lee MJ, Galas DJ,
+Wang K. The microRNA spectrum in 12 body fluids. Clin Chem. 2010;56(11):
+1733–41.
+147. Guay C, Regazzi R. Circulating microRNAs as novel biomarkers for diabetes
+mellitus. Nat Rev Endocrinol. 2013;9(9):513–21.
+148. Zampetaki A, Kiechl S, Drozdov I, Willeit P, Mayr U, Prokopi M, Mayr A,
+Weger S, Oberhollenzer F, Bonora E, et al. Plasma microRNA profiling reveals
+loss of endothelial miR-126 and other microRNAs in type 2 diabetes. Circ
+Res. 2010;107(6):810–7.
+Page 15
+Iacomino and Siani Genes & Nutrition (2017) 12:23  Page 15 of 16
+149. Zhang T, Lv C, Li L, Chen S, Liu S, Wang C, Su B. Plasma miR-126 is a potential
+biomarker for early prediction of type 2 diabetes mellitus in susceptible
+individuals. Biomed Res Int. 2013;2013:761617.
+150. Zile MR, Mehurg SM, Arroyo JE, Stroud RE, DeSantis SM, Spinale FG.
+Relationship between the temporal profile of plasma microRNA and left
+ventricular remodeling in patients after myocardial infarction. Circ
+Cardiovasc Genet. 2011;4(6):614–9.
+151. Cermelli S, Ruggieri A, Marrero JA, Ioannou GN, Beretta L. Circulating microRNAs
+in patients with chronic hepatitis C and non-alcoholic fatty liver disease. PLoS
+One. 2011;6(8):e23937.
+152. Li S, Zhu J, Zhang W, Chen Y, Zhang K, Popescu LM, Ma X, Lau WB, Rong R,
+Yu X, et al. Signature microRNA expression profile of essential hypertension
+and its novel link to human cytomegalovirus infection. Circulation. 2011;
+124(2):175–84.
+153. Karolina DS, Tavintharan S, Armugam A, Sepramaniam S, Pek SL, Wong MT,
+Lim SC, Sum CF, Jeyaseelan K. Circulating miRNA profiles in patients with
+metabolic syndrome. J Clin Endocrinol Metab. 2012;97(12):E2271–6.
+154. Deiuliis JA. MicroRNAs as regulators of metabolic disease: pathophysiologic
+significance and emerging role as biomarkers and therapeutics. Int J Obes.
+2016;40(1):88–101.
+155. Wang YT, Tsai PC, Liao YC, Hsu CY, Juo SH. Circulating microRNAs have a
+sex-specific association with metabolic syndrome. J Biomed Sci. 2013;20:72.
+156. Hulsmans M, De Keyzer D, Holvoet P. MicroRNAs regulating oxidative stress
+and inflammation in relation to obesity and atherosclerosis. FASEB J. 2011;
+25(8):2515–27.
+157. Heneghan HM, Miller N, McAnena OJ, O'Brien T, Kerin MJ. Differential
+miRNA expression in omental adipose tissue and in the circulation of obese
+patients identifies novel metabolic biomarkers. J Clin Endocrinol Metab.
+2011;96(5):E846–50.
+158. Carreras-Badosa G, Bonmati A, Ortega FJ, Mercader JM, Guindo-Martinez M,
+Torrents D, Prats-Puig A, Martinez-Calcerrada JM, Platero-Gutierrez E, De
+Zegher F, et al. Altered circulating miRNA expression profile in
+pregestational and gestational obesity. J Clin Endocrinol Metab. 2015;
+100(11):E1446–56.
+159. Iacomino G, Russo P, Stillitano I, Lauria F, Marena P, Ahrens W, De Luca P,
+Siani A. Circulating microRNAs are deregulated in overweight/obese
+children: preliminary results of the I.Family study. Genes Nutr. 2016;11:7.
+160. Can U, Buyukinan M, Yerlikaya FH. The investigation of circulating
+microRNAs associated with lipid metabolism in childhood obesity. Pediatr
+Obes. 2016;11(3):228–34.
+161. Thompson MD, Cismowski MJ, Serpico M, Pusateri A, Brigstock DR: Elevation
+of circulating microRNA levels in obese children compared to healthy
+controls. Clin Obes 2017.
+162. Christopher AF, Kaur RP, Kaur G, Kaur A, Gupta V, Bansal P. MicroRNA
+therapeutics: discovering novel targets and developing specific therapy. Perspect
+Clin Res. 2016;7(2):68–74.
+163. Fischer-Posovszky P, Roos J, Kotnik P, Battelino T, Inzaghi E, Nobili V,
+Cianfarani S, Wabitsch M. Functional significance and predictive value of
+microRNAs in pediatric obesity: tiny molecules with huge impact? Horm Res
+Paediatr. 2016;86(1):3–10.
+164. Jung UJ, Choi MS. Obesity and its metabolic complications: the role of
+adipokines and the relationship between obesity, inflammation, insulin
+resistance, dyslipidemia and nonalcoholic fatty liver disease. Int J Mol Sci.
+2014;15(4):6184–223.
+165. Wellen KE, Hotamisligil GS. Inflammation, stress, and diabetes. J Clin Invest.
+2005;115(5):1111–9.
+166. Kammoun HL, Kraakman MJ, Febbraio MA. Adipose tissue inflammation in
+glucose metabolism. Rev Endocr Metab Disord. 2014;15(1):31–44.
+167. Kraakman MJ, Murphy AJ, Jandeleit-Dahm K, Kammoun HL. Macrophage
+polarization in obesity and type 2 diabetes: weighing down our
+understanding of macrophage function? Front Immunol. 2014;5:470.
+168. Tang QQ, Lane MD. Adipogenesis: from stem cell to adipocyte. Annu Rev
+Biochem. 2012;81:715–36.
+169. Kim H-J, Cho H, Alexander R, Patterson HC, Gu M, Lo KA, Xu D, Goh VJ, Nguyen
+LN, Chai X, et al. MicroRNAs are required for the feature maintenance and
+differentiation of brown adipocytes. Diabetes. 2014;63(12):4045–56.
+170. Li J, Zhou C, Li J, Su Z, Sang H, Jia E, Si D. Global correlation analysis for microRNA
+and gene expression profiles in human obesity. Pathol Res Pract. 2015;211(5):
+361–8.
+171. Rottiers V, Naar AM. MicroRNAs in metabolism and metabolic disorders. Nat
+Rev Mol Cell Biol. 2012;13(4):239–50. 
+172. Xie H, Lim B, Lodish HF. MicroRNAs induced during adipogenesis that accelerate
+fat cell development are downregulated in obesity. Diabetes. 2009;58(5):1050–7.
+173. Ali AT, Hochfeld WE, Myburgh R, Pepper MS. Adipocyte and adipogenesis.
+Eur J Cell Biol. 2013;92(6–7):229–36.
+174. Linhart HG, Ishimura-Oka K, DeMayo F, Kibe T, Repka D, Poindexter B, Bick
+RJ, Darlington GJ. C/EBPalpha is required for differentiation of white, but
+not brown, adipose tissue. Proc Natl Acad Sci U S A. 2001;98(22):12532–7.
+175. Moseti D, Regassa A, Kim WK: Molecular regulation of adipogenesis and
+potential anti-adipogenic bioactive molecules. Int J Mol Sci. 2016;17(1):124.
+176. Wang Q, Li YC, Wang J, Kong J, Qi Y, Quigg RJ, Li X. miR-17-92 cluster accelerates
+adipocyte differentiation by negatively regulating tumor-suppressor Rb2/p130.
+Proc Natl Acad Sci U S A. 2008;105(8):2889–94.
+177. Song G, Xu G, Ji C, Shi C, Shen Y, Chen L, Zhu L, Yang L, Zhao Y, Guo X. The
+role of microRNA-26b in human adipocyte differentiation and proliferation.
+Gene. 2014;533(2):481–7.
+178. Zaragosi LE, Wdziekonski B, Brigand KL, Villageois P, Mari B, Waldmann R,
+Dani C, Barbry P. Small RNA sequencing reveals miR-642a-3p as a novel
+adipocyte-specific microRNA and miR-30 as a key regulator of human
+adipogenesis. Genome Biol. 2011;12(7):R64.
+179. Li M, Liu Z, Zhang Z, Liu G, Sun S, Sun C. miR-103 promotes 3T3-L1 cell
+adipogenesis through AKT/mTOR signal pathway with its target being
+MEF2D. Biol Chem. 2015;396(3):235–44.
+180. Esau C, Kang X, Peralta E, Hanson E, Marcusson EG, Ravichandran LV, Sun Y,
+Koo S, Perera RJ, Jain R, et al. MicroRNA-143 regulates adipocyte
+differentiation. J Biol Chem. 2004;279(50):52361–5.
+181. Chen L, Dai YM, Ji CB, Yang L, Shi CM, Xu GF, Pang LX, Huang FY, Zhang
+CM, Guo XR. MiR-146b is a regulator of human visceral preadipocyte
+proliferation and differentiation and its expression is altered in human
+obesity. Mol Cell Endocrinol. 2014;393(1–2):65–74.
+182. Shi C, Zhang M, Tong M, Yang L, Pang L, Chen L, Xu G, Chi X, Hong Q, Ni Y,
+et al. miR-148a is associated with obesity and modulates adipocyte
+differentiation of mesenchymal stem cells through Wnt signaling. Sci Rep.
+2015;5:9930.
+183. Li H, Chen X, Guan L, Qi Q, Shu G, Jiang Q, Yuan L, Xi Q, Zhang Y. MiRNA-
+181a regulates adipogenesis by targeting tumor necrosis factor-alpha (TNF-
+alpha) in the porcine model. PLoS One. 2013;8(10):e71568.
+184. Shi XE, Li YF, Jia L, Ji HL, Song ZY, Cheng J, Wu GF, Song CC, Zhang QL,
+Zhu JY, et al. MicroRNA-199a-5p affects porcine preadipocyte proliferation
+and differentiation. Int J Mol Sci. 2014;15(5):8526–38.
+185. Huang J, Zhao L, Xing L, Chen D. MicroRNA-204 regulates Runx2 protein
+expression and mesenchymal progenitor cell differentiation. Stem Cells.
+2010;28(2):357–64.
+186. Hamam D, Ali D, Vishnubalaji R, Hamam R, Al-Nbaheen M, Chen L, Kassem
+M, Aldahmash A. Alajez NM: microRNA-320/RUNX2 axis regulates adipocytic
+differentiation of human mesenchymal (skeletal) stem cells. Cell Death Dis.
+2014;5:e1499.
+187. Bork S, Horn P, Castoldi M, Hellwig I, Ho AD, Wagner W. Adipogenic
+differentiation of human mesenchymal stromal cells is down-regulated by
+microRNA-369-5p and up-regulated by microRNA-371. J Cell Physiol. 2011;
+226(9):2226–34.
+188. Gerin I, Bommer GT, McCoin CS, Sousa KM, Krishnan V, MacDougald OA.
+Roles for miRNA-378/378* in adipocyte gene expression and lipogenesis.
+Am J Physiol Endocrinol Metab. 2010;299(2):E198–206.
+189. Zhang JF, Fu WM, He ML, Wang H, Wang WM, Yu SC, Bian XW, Zhou J, Lin
+MC, Lu G, et al. MiR-637 maintains the balance between adipocytes and
+osteoblasts by directly targeting Osterix. Mol Biol Cell. 2011;22(21):3955–61.
+190. Andersen DC, Jensen CH, Schneider M, Nossent AY, Eskildsen T, Hansen JL,
+Teisner B, Sheikh SP. MicroRNA-15a fine-tunes the level of delta-like 1
+homolog (DLK1) in proliferating 3T3-L1 preadipocytes. Exp Cell Res. 2010;
+316(10):1681–91.
+191. Huang S, Wang S, Bian C, Yang Z, Zhou H, Zeng Y, Li H, Han Q, Zhao RC.
+Upregulation of miR-22 promotes osteogenic differentiation and inhibits
+adipogenic differentiation of human adipose tissue-derived mesenchymal
+stem cells by repressing HDAC6 protein expression. Stem Cells Dev. 2012;
+21(13):2531–40.
+192. Tang YF, Zhang Y, Li XY, Li C, Tian W, Liu L. Expression of miR-31, miR-125b-5p,
+and miR-326 in the adipogenic differentiation process of adipose-derived stem
+cells. OMICS. 2009;13(4):331–6.
+193. Taniguchi M, Nakajima I, Chikuni K, Kojima M, Awata T, Mikawa S. MicroRNA-
+33b downregulates the differentiation and development of porcine
+preadipocytes. Mol Biol Rep. 2014;41(2):1081–90.
+Page 16
+Iacomino and Siani Genes & Nutrition (2017) 12:23  Page 16 of 16
+194. Cioffi M, Vallespinos-Serrano M, Trabulo SM, Fernandez-Marcos PJ, Firment
+AN, Vazquez BN, Vieira CR, Mulero F, Camara JA, Cronin UP, et al. MiR-93
+controls adiposity via inhibition of Sirt7 and Tbx3. Cell Rep. 2015;12(10):
+1594–605.
+195. Ji HL, Song CC, Li YF, He JJ, Li YL, Zheng XL. Yang GS: miR-125a inhibits
+porcine preadipocytes differentiation by targeting ERRalpha. Mol Cell
+Biochem. 2014;395(1–2):155–65.
+196. Yang Z, Bian C, Zhou H, Huang S, Wang S, Liao L, Zhao RC. MicroRNA hsa-
+miR-138 inhibits adipogenic differentiation of human adipose tissue-derived
+mesenchymal stem cells through adenovirus EID-1. Stem Cells Dev. 2011;
+20(2):259–67.
+197. Guo Y, Chen Y, Zhang Y, Zhang Y, Chen L, Mo D. Up-regulated miR-145
+expression inhibits porcine preadipocytes differentiation by targeting IRS1.
+Int J Biol Sci. 2012;8(10):1408–17.
+198. Skarn M, Namlos HM, Noordhuis P, Wang MY, Meza-Zepeda LA, Myklebost
+O. Adipocyte differentiation of human bone marrow-derived stromal cells is
+modulated by microRNA-155, microRNA-221, and microRNA-222. Stem Cells
+Dev. 2012;21(6):873–83.
+199. Belarbi Y, Mejhert N, Lorente-Cebrian S, Dahlman I, Arner P, Ryden M, Kulyte
+A. MicroRNA-193b controls adiponectin production in human white adipose
+tissue. J Clin Endocrinol Metab. 2015;100(8):E1084–8.
+200. Jeong BC, Kang IH, Hwang YC, Kim SH, Koh JT. MicroRNA-194 reciprocally
+stimulates osteogenesis and inhibits adipogenesis via regulating COUP-TFII
+expression. Cell Death Dis. 2014;5:e1532.
+201. Peng Y, Xiang H, Chen C, Zheng R, Chai J, Peng J, Jiang S. MiR-224 impairs
+adipocyte early differentiation and regulates fatty acid metabolism. Int J
+Biochem Cell Biol. 2013;45(8):1585–93.
+202. Sun L, Xie H, Mori MA, Alexander R, Yuan B, Hattangadi SM, Liu Q, Kahn CR,
+Lodish HF. Mir193b-365 is essential for brown fat differentiation. Nat Cell
+Biol. 2011;13(8):958–65.
+203. Kinoshita M, Ono K, Horie T, Nagao K, Nishi H, Kuwabara Y, Takanabe-Mori R,
+Hasegawa K, Kita T, Kimura T. Regulation of adipocyte differentiation by
+activation of serotonin (5-HT) receptors 5-HT2AR and 5-HT2CR and
+involvement of microRNA-448-mediated repression of KLF5. Mol Endocrinol.
+2010;24(10):1978–87.
+204. Chen H, Mo D, Li M, Zhang Y, Chen L, Zhang X, Li M, Zhou X, Chen Y. miR-
+709 inhibits 3T3-L1 cell differentiation by targeting GSK3beta of Wnt/beta-
+catenin signaling. Cell Signal. 2014;26(11):2583–9.
+205. Chen J, Xu L, Hu Q, Yang S, Zhang B, Jiang H. MiR-17-5p as circulating
+biomarkers for the severity of coronary atherosclerosis in coronary artery
+disease. Int J Cardiol. 2015;197:123–4.
+206. Rotllan N, Price N, Pati P, Goedeke L, Fernandez-Hernando C. microRNAs in
+lipoprotein metabolism and cardiometabolic disorders. Atherosclerosis.
+2016;246:352–60.
+207. Willeit P, Skroblin P, Moschen AR, Yin X, Kaudewitz D, Zampetaki A, Barwari
+T, Whitehead M, Ramirez CM, Goedeke L, et al. Circulating MicroRNA-122 is
+associated with the risk of new-onset metabolic syndrome and type 2
+diabetes. Diabetes. 2017;66(2):347–57.
+208. Pirola CJ, Fernandez Gianotti T, Castano GO, Mallardi P, San Martino J, Mora
+Gonzalez Lopez Ledesma M, Flichman D, Mirshahi F, Sanyal AJ, Sookoian S:
+Circulating microRNA signature in non-alcoholic fatty liver disease: from
+serum non-coding RNAs to liver histology and disease pathogenesis. Gut
+2015, 64(5):800-812.
+209. Marchand L, Jalabert A, Meugnier E, Van den Hende K, Fabien N, Nicolino
+M, Madec AM, Thivolet C, Rome S. miRNA-375 a sensor of glucotoxicity is
+altered in the serum of children with newly diagnosed type 1 diabetes. J
+Diabetes Res. 2016;2016:1869082. 
+Submit your next manuscript to BioMed Central
+and we will help you at every step:
+• We accept pre-submission inquiries
+• Our selector tool helps you to ﬁnd the most relevant journal
+• We provide round the clock customer support
+• Convenient online submission
+• Thorough peer review
+• Inclusion in PubMed and all major indexing services
+• Maximum visibility for your research
+Submit your manuscript at
+www.biomedcentral.com/submit

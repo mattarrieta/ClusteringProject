@@ -1,0 +1,1017 @@
+Creator: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+Producer: Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+Title: A randomized, controlled field study to assess the efficacy and safety of lotilaner (Credelio™) in controlling ticks in client-owned cats in Europe
+Keywords: Credelio,Lotilaner,Fipronil,Cat,Tick,Efficacy,Field study,Safety,Europe
+ModDate: 2018/07/12 14:34:41+02'00'
+Subject: Parasites & Vectors, 2018, doi:10.1186/s13071-018-2967-5
+CreationDate: 2018/07/03 15:00:41+08'00'
+Author: Daniela Cavalleri
+xmp:pdf:Keywords: Credelio,Lotilaner,Fipronil,Cat,Tick,Efficacy,Field study,Safety,Europe
+xmp:pdf:Producer: Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+xmp:dc:format: application/pdf
+xmp:dc:identifier: 10.1186/s13071-018-2967-5
+xmp:dc:publisher: Parasites & Vectors
+xmp:dc:description: Parasites & Vectors, 2018, doi:10.1186/s13071-018-2967-5
+xmp:dc:subject: Credelio; Lotilaner; Fipronil; Cat; Tick; Efficacy; Field study; Safety; Europe
+xmp:dc:title: A randomized, controlled field study to assess the efficacy and safety of lotilaner (Credelio™) in controlling ticks in client-owned cats in Europe
+xmp:dc:creator: Daniela Cavalleri; Martin Murphy; Wolfgang Seewald; Steve Nanchen
+xmp:xmp:MetadataDate: 2018-07-12T14:34:41+02:00
+xmp:xmp:CreateDate: 2018-07-03T15:00:41+08:00
+xmp:xmp:CreatorTool: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+xmp:xmp:ModifyDate: 2018-07-12T14:34:41+02:00
+xmp:xmpMM:DocumentID: uuid:861c239e-4f42-4f39-89c6-2447122ede23
+xmp:xmpMM:InstanceID: uuid:93bb1bd8-400a-48f6-b8da-4c0cccf02b4c
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:c8e30047-8b92-4832-819b-712cd147fe45
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2018-07-03T19:47:29+08:00
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:author:name: Daniela Cavalleri
+xmp:author:orcid: http://orcid.org/0000-0001-8489-2146
+xmp:pdfaSchema:schema: Springer Nature ORCID Schema
+xmp:pdfaSchema:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/
+xmp:pdfaSchema:prefix: sn
+xmp:pdfaProperty:name: authorInfo
+xmp:pdfaProperty:valueType: Bag AuthorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Author information: contains the name of each author and his/her ORCID (ORCiD: Open Researcher and Contributor ID). An ORCID is a persistent identifier (a non-proprietary alphanumeric code) to uniquely identify scientific and other academic authors.
+xmp:pdfaProperty:name: editorInfo
+xmp:pdfaProperty:valueType: Bag EditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Editor information: contains the name of each editor and his/her ORCID identifier.
+xmp:pdfaProperty:name: seriesEditorInfo
+xmp:pdfaProperty:valueType: Bag SeriesEditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Series editor information: contains the name of each series editor and his/her ORCID identifier.
+xmp:pdfaType:type: AuthorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/authorInfo/
+xmp:pdfaType:prefix: author
+xmp:pdfaType:description: Specifies the types of author information: name and ORCID of an author.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an author.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an author.
+xmp:pdfaType:type: EditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/editorInfo/
+xmp:pdfaType:prefix: editor
+xmp:pdfaType:description: Specifies the types of editor information: name and ORCID of an editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an editor.
+xmp:pdfaType:type: SeriesEditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/seriesEditorInfo/
+xmp:pdfaType:prefix: seriesEditor
+xmp:pdfaType:description: Specifies the types of series editor information: name and ORCID of a series editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of a series editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of a series editor.
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdf/1.3/
+xmp:pdfaSchema:prefix: pdf
+xmp:pdfaSchema:schema: Adobe PDF Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A name object indicating whether the document has been modified to include trapping information
+xmp:pdfaProperty:name: Trapped
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/mm/
+xmp:pdfaSchema:prefix: xmpMM
+xmp:pdfaSchema:schema: XMP Media Management Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: UUID based identifier for specific incarnation of a document
+xmp:pdfaProperty:name: InstanceID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: The common identifier for all versions and renditions of a document.
+xmp:pdfaProperty:name: OriginalDocumentID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A reference to the original document from which this one is derived. It is a minimal reference; missing components can be assumed to be unchanged. For example, a new version might only need to specify the instance ID and version number of the previous version, or a rendition might only need to specify the instance ID and rendition class of the original.
+xmp:pdfaProperty:name: DerivedFrom
+xmp:pdfaProperty:valueType: ResourceRef
+xmp:pdfaType:description: Identifies a portion of a document. This can be a position at which the document has been changed since the most recent event history (stEvt:changed). For a resource within an xmpMM:Ingredients list, the ResourceRef uses this type to identify both the portion of the containing document that refers to the resource, and the portion of the referenced resource that is referenced.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Part#
+xmp:pdfaType:prefix: stPart
+xmp:pdfaType:type: Part
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/t/pg/
+xmp:pdfaSchema:prefix: xmpTPg
+xmp:pdfaSchema:schema: XMP Paged-Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A structure containing the characteristics of a font used in a document
+xmp:pdfaProperty:name: Fonts
+xmp:pdfaProperty:valueType: Bag Font
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: XMP08 Spec: An ordered array of plate names that are needed to print the document (including any in contained documents).
+xmp:pdfaProperty:name: PlateNames
+xmp:pdfaProperty:valueType: Seq Text
+xmp:pdfaType:description: A structure containing the characteristics of a font used in a document.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Font#
+xmp:pdfaType:prefix: stFnt
+xmp:pdfaType:type: Font
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdfx/1.3/
+xmp:pdfaSchema:prefix: pdfx
+xmp:pdfaSchema:schema: PDF/X ID Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: ID of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXVersion
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Conformance level of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXConformance
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Company creating the PDF
+xmp:pdfaProperty:name: Company
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Date when document was last modified
+xmp:pdfaProperty:name: SourceModified
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://www.aiim.org/pdfa/ns/id/
+xmp:pdfaSchema:prefix: pdfaid
+xmp:pBOOKMARKS:
+Abstract
+  Background
+  Methods
+  Results
+  Conclusions
+Background
+Methods
+  Animals
+  Randomisation and treatment
+  Assessments and analyses
+    Baseline characteristics
+    Tick counts
+    Environmental tick pressure
+    Palatability
+    Endpoints and analysis methods
+Results
+  Animals
+  Efficacy
+  Palatability
+  Safety
+    Adverse events
+    Body weight
+  Environmental tick pressure
+Discussion
+Conclusions
+Additional file
+Abbreviations
+Acknowledgements
+Funding
+Availability of data and materials
+Authors' contributions
+Ethics approval and consent to participate
+Consent for publication
+Competing interests
+Publisher’s Note
+References
+Page 1
+Cavalleri et al. Parasites & Vectors (2018) 11:411
+https://doi.org/10.1186/s13071-018-2967-5
+RESEARCH  Open Access
+A randomized, controlled field study to
+assess the efficacy and safety of lotilaner
+(Credelio™) in controlling ticks in client-
+owned cats in Europe
+Daniela Cavalleri*  [URL: "http://orcid.org/0000-0001-8489-2146"] , Martin Murphy, Wolfgang Seewald and Steve Nanchen
+French version: Please see Additional file 1 ([URL: "https://doi.org/10.1186/s13071-018-2967-5"] https://doi.org/10.1186/s13071-018-2967-5) for the French translation of the
+Abstract.
+Abstract
+Background: There is a continuing need for novel approaches to tick infestations treatment and control in cats.
+Lotilaner, an isoxazoline with rapid onset of action, has proven its efficacy against ticks in laboratory studies. A study
+was undertaken to confirm lotilaner’s efficacy and safety in client-owned cats, at the minimum dose of 6.0 mg/kg,
+against the most common ticks infesting cats in Europe.
+Methods: Twenty clinics in Germany, Hungary and Portugal participated in the study. Households with no more
+than three cats were randomized 2:1 to a lotilaner or fipronil group. The first household cat with at least three live,
+attached ticks was the primary cat. Treatments were dispensed on days 0, 28 and 56 for owner administration. Tick
+counts were performed on days 0, 7, 14, 21, 28, 42, 56, 70 and 84 (primary cats) and supplementary cats were
+assessed for safety only, on days 28, 56 and 84. Efficacy was assessed by comparing mean day 0 live attached tick
+counts with subsequent counts.
+Results: Most frequently retrieved ticks were Ixodes ricinus, Rhipicephalus sanguineus and Dermacentor reticulatus,
+with Ixodes hexagonus also present. In the lotilaner group (n = 112) efficacy (based on geometric mean tick counts)
+was between 98.3–100%. For fipronil (n = 57), efficacy was between 89.6–99.6%, with live attached ticks present on
+some cats at all time points. Mean tick counts in lotilaner-treated cats were significantly lower than in fipronil-treated
+cats on days 21, 28, 42 and 56 (P < 0.05). The mean percent efficacy over all post-enrolment visits was 99.6% and 96.4%
+(lotilaner and fipronil group, respectively), (P < 0.0001). Lotilaner was superior to fipronil for efficacy averaged over all
+time points (P < 0.0001) and on individual assessment days (day 14 to 70, P < 0.0394); it was non-inferior to fipronil on
+the other days. Owners successfully administered all treatments, and both products were well tolerated.
+Conclusions: CredelioTM was effective and safe for the treatment of tick infestations in client-owned cats.
+Efficacy lasted one month and lotilaner was superior to fipronil on most assessment days. Cure rates ranged
+between 94.5–100% for lotilaner and 68.4–98.2% for fipronil.
+Keywords: Credelio, Lotilaner, Fipronil, Cat, Tick, Efficacy, Field study, Safety, Europe
+* Correspondence: [URL: "mailto:cavalleri_daniela_a@elanco.com"] cavalleri_daniela_a@elanco.com
+Elanco Animal Health, Mattenstrasse 24a, CH-4058 Basel, Switzerland
+© The Author(s). 2018 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License ([URL: "http://creativecommons.org/licenses/by/4.0/"] http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Page 2
+Cavalleri et al. Parasites & Vectors (2018) 11:411  Page 2 of 10
+Background
+Favourable epidemiological conditions due to climate
+change and changing human behaviours leading to
+increased risk of tick exposure for humans and pets,
+have been linked to a widening geographical spread and
+increasing abundance of the ixodid ticks, Ixodes ricinus,
+Dermacentor reticulatus and Rhipicephalus sanguineus
+[1–4].  This increases the risk for vector-borne diseases
+such as tick-borne encephalitis, babesiosis, anaplasmosis
+and ehrlichiosis.
+Topical tick control products have been the mainstay
+of treatment. However, there are now reports of resist-
+ance or tolerance to common topically applied acaricides
+[5]. This highlights the need for novel approaches to the
+treatment of tick infestations in pets. The emergence of
+the isoxazolines has begun to address that need. Acting
+with a unique mode of action, these molecules have
+been shown to be effective in treating ectoparasitic infes-
+tations on dogs [6–8].
+Amongst the available isoxazolines, afoxolaner, flu-
+ralaner, sarolaner and lotilaner are approved as oral
+formulations for the control of tick and flea infesta-
+tions in dogs. Lotilaner (Credelio™,  Elanco) is the
+newest member of this class and is already available
+as a flavoured chewable tablet formulation for dogs
+[9].  Laboratory studies in dogs demonstrated that
+lotilaner quickly begins killing induced infestations
+with I. ricinus,  and has sustained activity against new
+infestations with Ixodes scapularis,  I. ricinus,  Derma-
+centor variabilis,  D. reticulatus and Rhipicephalus
+sanguineus for at least 35 days [10, 11].
+The only isoxazolines approved for use in cats are flur-
+alaner (Bravecto®;  Merck Animal Health, Madison, NJ,
+USA) [12] and sarolaner (Stronghold Plus®,  Zoetis SA,
+Louvain-la-Neuve, Belgium) [13],  both as solutions for
+topical application. A flavoured oral formulation would
+fulfil the need for a rapidly effective, orally administered
+ectoparasiticide with sustained activity for the control of
+ticks and fleas in cats and kittens.
+The safety and efficacy of lotilaner tablets against ticks
+and fleas in cats were assessed in a number of pilot
+(unpublished data) and pivotal [14] studies. A pivotal to-
+lerance study in 8-week-old kittens has shown lotilaner to
+be safe at doses up to 130 mg lotilaner/kg (five times the
+maximum therapeutic dose, with a dose banding of four)
+for monthly administration over 8 months. Efficacy of the
+final formulation was demonstrated following oral adminis-
+tration at a minimum dose rate of 6.0 mg/kg against fleas
+(Ctenocephalides felis) and I. ricinus for 1 month in pivotal
+field and laboratory studies [15–17].
+In this randomised, assessor-blinded, multicentre trial,
+the authors evaluated the efficacy, safety, and palatability
+of lotilaner (CredelioTM chewable tablets for cats)
+administered at a minimum dose rate of 6.0 mg/kg to 
+client-owned cats naturally infested with ticks, under
+field conditions in Europe. Eliminall® Spot-on (fipronil
+50 mg, KRKA d.d. Novo mesto, Novo Mesto Slovenia)
+was used as the comparator.
+Methods
+This randomized, assessor-blinded, positive-controlled,
+multicentre field trial was conducted in compliance with
+VICH GL9 (Good Clinical Practice, June 2000) guidelines
+and Directive 2001/82/EC as amended, applicable
+European and local and national regulatory requirements
+(German Drug Law, Hungarian Regulation 128/2009
+(X.6.) FVM, Portuguese law N° 148/2008 amended by
+413/2009), European Union guidelines for demonstration
+of efficacy of ectoparasiticides [18] and palatability [19], of
+veterinary medicinal products; in addition, other appli-
+cable guidelines [20, 21].
+Animals
+This trial was conducted between March 2015 and
+August 2015 at 20 veterinary practices in Germany,
+Hungary and Portugal, in areas with known high
+prevalence of ticks. Privately owned animals from
+households with a maximum of three cats and two
+dogs, were eligible for participation in the trial,
+provided that the animals did not contact each other
+or share resting places for the duration of the study.
+The animal owner was required to provide written
+consent for his/her animals to be eligible to partici-
+pate in the trial.
+Cats at a minimum age of 2 months, weighing at least
+1 kg and classified as clinically healthy and free of any
+systemic diseases or conditions judged not to interfere
+with suitability for treatment administration were con-
+sidered eligible. One cat from each household (primary
+cat) had to be diagnosed with a tick infestation of at
+least three live, attached ticks for inclusion in the trial.
+Any supplementary cats had to fulfil the same eligibility
+criteria as the primary cats with the exception of tick in-
+festation, i.e. they were included without prior tick count
+and also in the absence of tick infestation. These animals
+were not involved in any efficacy assessments and were
+only monitored for safety and palatability assessments
+(supplementary cats).
+Animals with known hypersensitivity to the active
+ingredients and/or excipients of the investigational vete-
+rinary product (IVP; CredelioTM tablets for cats, active
+ingredient lotilaner; Elanco Animal Health, Greenfield,
+USA) or the control product (CP; Eliminall® 50 mg
+Spot-on solution for cats, active ingredient fipronil;
+KRKA d.d. Novo mesto, Novo Mesto, Slovenia) were not
+eligible for the trial. The use of ectoparasiticides with a
+removal period less than the duration of efficacy
+mentioned on the label, collars with a withdrawal period
+Page 3
+Cavalleri et al. Parasites & Vectors (2018) 11:411  Page 3 of 10
+of less than 2 weeks, endoparasiticides active against ec-
+toparasites or any products potentially interfering with
+the trial objectives, was a criterion for exclusion from
+trial participation. Other criteria for exclusion were
+pregnant or lactating cats, any animal intended for
+breeding within 4 months after the last treatment ad-
+ministration, pre-existing medical or surgical conditions
+that could interfere with the objectives of the study, con-
+valescent animals, and animals scheduled for routine
+surgical procedures unless they were fully recovered
+from the procedure. After inclusion in the study, animals
+could be removed because of a concomitant disease not
+allowing the animal to stay on the trial or requiring the
+use of treatments interfering with the trial objectives,
+death, euthanasia or serious adverse events (AEs).
+Animals could also be withdrawn prematurely because
+of protocol non-compliance, use of a non-approved
+concomitant therapy or owner’s decision.
+The animals remained with their owners under their
+usual housing conditions throughout the trial. Space
+allocation, thermoregulation, ventilation, and relative
+humidity were according to the owner’s usual habits or
+veterinary practices/clinics in case of admission; these
+parameters were not recorded. Feed and water were ac-
+cording to the owner’s usual habits or according to the
+veterinary practices/clinics in case of admission.
+Bathing/immersion in water was to be avoided because
+of the use of a spot-on treatment as CP.
+Except for the IVP or CP administered according to
+the protocol, the use of any product with efficacy against
+ticks on the animal or environment between day 0 and
+the last tick count on day 84 ± 2 was not allowed. Con-
+comitant treatments not interfering with the objectives
+of the study were allowed. All concomitant treatments
+were recorded.
+Randomisation and treatment
+There were two separate teams (the examining veterinar-
+ian’s and the dispenser’s team) at each study site performing
+the different tasks within the study. The examining veteri-
+narian and laboratory personnel were blinded to the treat-
+ment allocation. The sponsor’s representative as well as
+other study personnel and animal owners were not blinded,
+but were trained not to provide any treatment information
+to any blinded study personnel during the study.
+Using a block design in a 2:1 ratio (IVP:CP), the primary
+cats were randomised per household in the sequence of
+inclusion; all cats (primary and supplementary) in the
+same household were randomised to the same treatment.
+Study design, randomisation, definition of inclusion and
+exclusion criteria, definition of assessment criteria, and
+description of evaluation criteria and statistical analyses
+were measures aimed at reducing any bias and provide
+solid data for analysis. 
+Treatments (IVP or CP) were administered every 4
+weeks on days 0, 28 ± 2 and 56 ± 2. Based on the indi-
+vidual animal’s body weight, animals in Group 1 received
+the IVP (CredelioTM chewable tablets for cats) at a
+minimum dose rate of 6.0 mg/kg, orally. Two tablets
+strengths were available, i.e. 12 mg or 48 mg lotilaner.
+These two tablets were specifically developed and for-
+mulated for cats, with a  small tablet size and
+vanilla-yeast flavouring to aid in administration. The IVP
+was administered to the cat by the owner under fed con-
+ditions, i.e. approximately one-third of the daily ration of
+regular feed, taken less than 30 min before treatment.
+Animals in Group 2 were treated with the CP
+(Eliminall® 50 mg Spot-on solution): 1 pipette (0.5 ml)
+topically regardless of body weight, according to the
+product label. Dogs in the same households (up to
+two per household) were treated on day 0 or latest
+on day 1, with an adequate commercial ectoparasiti-
+cide provided by the veterinary practice. These dogs
+had to be under treatment until the end of the study
+(day 84 ± 2).
+Assessments and analyses
+The total duration of the study was between 82 and 86
+days per animal except for those prematurely removed
+from the study. On day 0, all animals were assessed to
+confirm that they met the eligibility criteria, animal
+demographics and history were recorded, and cats were
+allocated to the relevant study group. On days 0, 7 ± 1,
+14 ± 2, 21 ± 2, 28 ± 2, 42 ± 2, 56 ± 2, 70 ± 2 and 84 ± 2,
+the examining veterinarian assessed the primary cats for
+tick infestation (tick counts), interviewed the owners for
+any abnormal observation, measured the bodyweight
+and performed clinical examination (primary and sup-
+plementary cats). On day 84 ± 2, all cats were presented
+for study completion. Cats that were removed from the
+study early, underwent the same procedure as planned
+for the study end visit on day 84 ± 2, if possible, and the
+reason for the animal’s early removal was recorded. The
+cat owners assessed palatability for all Group 1 cats on
+days 0, 28 ± 2 and 56 ± 2.
+Baseline characteristics
+Using descriptive statistics, treatment groups were com-
+pared for the following baseline parameters: animal
+characteristics (breed, sex, age, coat length and body
+weight),  animal husbandry. For primary cats, parasite
+counts on day 0 (live attached ticks and tick species)
+were also compared. Nominal P-values were calculated.
+Tick counts
+The examining veterinarian performed a tick count on
+each primary cat. The cat was restrained and the entire
+coat searched, beginning at the head and proceeding
+Page 4
+Cavalleri et al. Parasites & Vectors (2018) 11:411  Page 4 of 10
+systematically to cover all areas of the animal. The hair
+was pushed manually against its natural lie to expose the
+skin and attached ticks. If ticks were observed, they were
+counted, removed, collected, and sent to a laboratory for
+identification. Before proceeding with the tick removal,
+the tick viability was assessed. Both live attached and
+dead attached ticks were counted and collected separ-
+ately. The examining veterinarian recorded the number
+of live attached and dead attached ticks.
+Environmental tick pressure
+The environmental tick pressure was assessed and docu-
+mented as the estimated overall number of animals (cats
+and dogs) presented at the veterinary practice or clinic,
+diagnosed with a tick infestation and the number of
+products supplied for tick prophylaxis in the last 7 days
+before study enrolment and in the last 7 days before
+every scheduled follow-up visit of a primary cat.
+Palatability
+Palatability assessment was based on the voluntary ac-
+ceptance rate defined as the percentage of dosings in
+which the animals accepted the IVP when offered in an
+empty bowl or on the ground during 60 s, or when sub-
+sequently offered from the hand for an additional 60 s. 
+where M0 is the mean tick count on day 0 and MD is
+the mean tick count on actual day; efficacy was based on
+live attached ticks.
+Tick counts of the IVP treated group were compared
+to those of the CP group for non-inferiority, with a 20%
+margin, for each time point during the study and aver-
+aged over the whole study period. Non-inferiority was
+shown if the two-sided 95% confidence interval (CI) for
+the ratio of tick counts for live attached ticks for the
+IVP, divided by the same value for the CP, lay within the
+interval [0, 1/0.80] or [0, 1.25].
+All study animals receiving at least one dose of the in-
+vestigational veterinary or control product were included
+in the Safety population. This population matched the
+ITT population. Animals without any major protocol de-
+viation were included in the PP population.
+The percentage of adverse events and serious adverse
+events were compared between the two treatment
+groups using Fisher’s exact test. Body weight at the vari-
+ous time points were compared between the two treat-
+ment groups by ANCOVA with the pre-treatment value
+as the covariate.
+French translation of the Abstract is available in
+Additional file 1.
+Endpoints and analysis methods
+The primary study endpoint was the average efficacy of
+the IVP compared to the CP over the entire treatment
+period compared to baseline, based on counts of live,
+attached ticks in primary cats. The secondary efficacy
+criterion was the efficacy of the IVP compared to the CP
+for each treatment period compared to baseline, again
+based on live, attached tick counts in primary cats. The
+experimental unit was the individual animal.
+Data from all study animals were entered directly into
+StudyBase®, a validated CRO-owned Electronic data cap-
+ture (EDC) system (version 1.7.8.0). All calculations were
+performed using SAS® statistical analysis software v9.2.2
+(SAS Institute Inc., Cary, NC, USA).
+Tick counts were log-transformed prior to analysis of
+covariance (ANCOVA). To avoid taking the log of zero,
+1 was added to all tick counts before log-transforming.
+All statistical differences were assessed at the 2-sided 5%
+significance level (P < 0.05) corresponding to a 1-sided
+significance level of 2.5%).
+The primary analysis of efficacy was based on primary
+cats in the Per-Protocol (PP) population, but the results
+were virtually identical for the Intent-to-Treat (ITT) and
+the PP analysis. Percent efficacy was calculated for the
+average of all visits and for each visit (days 7 ± 1; 14 ± 2;
+21 ± 2; 28 ± 2; 42 ± 2; 56 ± 2; 70 ± 2; and 84 ± 2) as
+follows:
+Percent efficacy = 100 (M0 - MD)/M0 
+Results
+Animals
+A total of 309 cats were randomized in the study: 169
+primary cats and 140 supplementary cats. There were
+112 and 57 primary cats enrolled in the IVP and CP
+group, respectively, comprising the ITT population.
+None of the enrolled primary cats were completely ex-
+cluded from the PP analysis. Four animals were excluded
+from the statistical analysis of specific study days; four
+animals had missing visits and three animals of the effi-
+cacy population did not complete the study meeting the
+criteria for premature removal. Of the 169 primary cats,
+47% (n = 79), 24% (n = 40) and 30% (n = 50) were from
+households with a single cat, 1 supplementary cat and 2
+supplementary cats, respectively.
+Treatment groups were homogenous for demographic and
+characteristics at baseline: sex (P = 0.6266), age (P = 0.7704),
+body weight (P = 0.5854),  breed (P = 0.9562),  hair
+length (P = 0.7208),  husbandry (P = 1.0000),  time
+spent indoors/outdoors (P = 0.1697) and tick counts
+(P = 0.9411) (Table 1).
+Following enrolment, 7 cats (3 in the IVP group and 4
+in the CP group) were removed from the study because
+of the following reasons: death (3; 2 cats were killed in
+car accidents and 1 cat died because of respiratory
+failure secondary to acute-subacute aspiration pneumo-
+nia and pleural effusion),  pregnancy (1),  owner’s
+non-compliance (2) and loss to follow-up (1).
+Page 5
+Cavalleri et al. Parasites & Vectors (2018) 11:411  Page 5 of 10
+Table 1 Baseline demographics and characteristics (ITT population)
+Parameter  Lotilaner
+(n = 112)
+Age (years)  Arithmetic mean ± SD  4.15 ± 3.38
+Minimum–Maximum 0.20–17.0
+Sex  Male  60 (54%)
+Female  52 (46%)
+Body weight (kg)  Arithmetic mean ± SD  4.1 ± 1.1
+Minimum–Maximum 1.5–7.4
+Breed  Purebred  21 (19%)
+Crossbred  91 (81%)
+Hair length  Short  81 (72%)
+Medium  13 (12%)
+Long  18 (16%)
+Husbandry  Countryside 84 (75%)
+Urban  28 (25%)
+Time spent  Mostly indoors  19 (17%)
+Mostly outdoors 93 (83%)
+Day 0 tick count (live attached) Number  454
+Geometric mean  3.60
+Abbreviations: n, number of primary cats; SD, standard deviation
+aZ of a Mann-Whitney test; χ2 of a Kruskal-Wallis test (of treatment vs breed) 
+Fipronil
+(n = 57)
+4.42 ± 3.64
+0.50–14.0
+33 (58%)
+24 (42%)
+4.1 ± 1.0
+1.5–5.8
+10 (18%)
+47 (82%)
+41 (72%)
+13 (23%)
+3 (5%)
+42 (74%)
+15 (26%)
+5 (9%)
+52 (91%)
+215
+3.52 
+Z-value/
+χ2-valuea
+Z = 0.29
+Z = 0.53
+Z = 0.55
+χ2 
+= 
+0.66, df = 4
+Z = 0.36
+Z = 0.18
+Z = 1.44
+Z = 0.07
+– 
+P-value
+0.7704
+0.6266
+0.5854
+0.9562
+0.7208
+1.0000
+0.1697
+0.9411
+–
+Efficacy
+At each administration day, all study animals received the
+correct amount of IVP or CP as defined in the protocol.
+The efficacy analysis population (both PP and ITT) in-
+cluded 169 primary cats with 112 and 57 cats in the IVP
+and CP groups, respectively. Because no cats were com-
+pletely excluded from the PP analysis and 4 cats were only
+partially excluded (2 each in the IVP and CP groups), the
+results of the efficacy analysis for the ITT and PP popula-
+tions are almost identical. Results are presented here for
+the PP population. The geometric mean tick count at 
+baseline was 3.60 and 3.52 in the IVP and CP groups,
+respectively.
+It was demonstrated (with a 97.5% confidence limit)
+that tick counts in the IVP group were not higher than
+those in the CP group, up to a non-inferiority margin of
+20% over all visits. Superiority of lotilaner compared to
+fipronil was demonstrated on the majority of study days
+[day 14 to day 70, when cats treated with lotilaner had
+significantly lower tick counts (P < 0.0394)], as well as
+for efficacy averaged over all time points (P < 0.0001)
+(Table 2).
+Table 2 ANCOVA analysis for non-inferiority testing - live attached tick counts (PP)
+Day Lotilaner (n = 112)  Fipronil (n = 57)  Comparison 95% CI
+Geometric mean tick count Est  SE  Geometric mean tick count Est  SE  t-value P-valuea
+0  3.60  na  na  3.52  na  na  –  –  –
+7  0.00  0.00  0.01  0.01  0.01  0.01  t(162) 
+= 1.32  0.1876 0.97–1.01
+14  0.00  0.00  0.01  0.04  0.05  0.02  t(164) 
+= 2.08  0.0394 0.92–1.00
+21  0.00  0.01  0.02  0.09  0.10  0.03  t(164) 
+= 2.82  0.0054 086–0.97
+28  0.06  0.06  0.04  0.37  0.35  0.07  t(162) 
+= 4.04  < 0.0001 0.69–0.88
+42  0.00  0.00  0.03  0.22  0.22  0.04  t(163) 
+= 4.53  < 0.0001 0.75–0.89
+56  0.04  0.03  0.03  0.22  0.21  0.05  t(162) 
+= 3.25  0.0014 0.78–0.94
+70  0.01  0.01  0.02  0.11  0.10  0.03  t(160) 
+= 2.42  0.0167 0.85–0.98
+84  0.00  0.00  0.01  0.01  0.01  0.01  t(159) 
+= 1.36  0.1747 0.97–1.01
+Mean 0.01  0.02  0.02  0.13
+Abbreviations: Est, estimate; na, not applicable; SE, standard error
+aSignificant values (P < 0.05) in bold 
+0.18  0.03  t(164) 
+= 5.16  < 0.0001 0.82–0.91
+Page 6
+Cavalleri et al. Parasites & Vectors (2018) 11:411  Page 6 of 10
+Cure rate was defined as percentage of cats with zero
+live attached ticks. Cure rates in the IVP group were
+100%, 100%, 100%, 94.5%, 100%, 95.5%, 99.1% and 100%
+on days 7, 14, 21, 28, 42, 56, 70 and 84, respectively. The
+corresponding cure rates in the CP group were 98.2%,
+96.5%,  93%,  68.4%,  82.5%,  80.4%,  89.3% and 98.2%,  re-
+spectively (Fig. 1).
+The baseline data for tick species and numbers are
+provided in Table 3. The study period covered the nor-
+mal period of activity for the tick species Ixodes ricinus,
+Rhipicephalus sanguineus,  Dermacentor reticulatus and
+Ixodes hexagonus, and persistent challenge was demon-
+strated. The overall mean percentage efficacy, as well as
+the efficacy against the various identified tick species in
+this study for the IVP and CP treated groups over the
+treatment period compared with baseline, are shown in
+Table 4 and Table 5.
+Palatability
+Palatability was assessed for all primary and supplemen-
+tary cats in the IVP group. Administration compliance
+in the lotilaner group was 100%,  with all cats success-
+fully dosed by their owners and no refusal of tablets re-
+corded. The mean voluntary acceptance rate (pooled
+data from all 3 monthly treatment days) was 48%.
+Safety
+The safety population included all primary and supple-
+mentary animals. In total, 309 cats were included in the
+safety population with 211 and 98 in the IVP and the CP
+group, respectively. 
+Adverse events
+Over the study duration, 18 adverse events [AEs and ser-
+ious adverse events (SAEs)] were reported in 7 of the
+309 animals with 3 of 211 cats (1.0%) in the IVP group
+and 4 out of 98 cats (1.3%) in the CP group showing at
+least 1 clinical sign.
+With the exception of 2 deaths in the Eliminall®
+group (frequency = 2%),  all other AEs were reported
+in only one cat each, with a corresponding frequency
+of 0.5% in the CredelioTM group and 1% in the Elimi-
+nall® group. No vomiting nor diarrhoea were observed
+in the study, in any of the treatment groups. Using
+Fisher’s exact test, no statistical significant difference
+was found between the 2 treatment groups for any of
+the reported AEs or SAEs (P = 0.2138 and P =
+0.2372, respectively).
+Three cats had SAEs during the study, none of which
+were attributed to either treatments. Two cats in the CP
+group died because of car accidents. One 12-year-old cat
+in the IVP group was brought to the clinic on study day
+22 due to complaints of the upper respiratory tract and
+corneal injury and was administered vitamins, a subcuta-
+neous infusion and an oral endoparasiticide containing
+milbemycin oxime and praziquantel; a first dose of
+meloxicam suspension and of marbocyl tablets were also
+given by the examining veterinarian and continued by
+the animal owner at home. On day 26, the cat was pre-
+sented to the clinic with severe dyspnoea, tachycardia,
+cyanosis and dehydration and in spite of all efforts, died
+after 40 min because of respiratory failure. Necropsy re-
+vealed lung necrosis and pleural effusion and the cat’s
+symptoms were attributed to acute-subacute aspiration
+pneumonia with consequential respiratory failure and
+Fig. 1 Percentage of cats free of live ticks after treatment with lotilaner or fipronil throughout the study
+Page 7
+Cavalleri et al. Parasites & Vectors (2018) 11:411  Page 7 of 10
+Table 3 Tick species and numbers at baseline (ITT)
+Ticks  Lotilaner  Fipronil  Comparison
+(live ticks)
+No. of  Live Dead No. of  Live Dead Z-value P-value
+subjects ticks ticks subjects ticks ticks
+All  112  454 1  57  215 2  0.07  0.9411
+Genus Rhipicephalus  32  132 0  14  50  0.50  0.50  0.6175
+Dermacentor  26  58  0  15  39  0.60  0.60  0.5515
+Ixodes  75  264 1  38  126 0.19  0.19  0.8480
+Species Rhipicephalus sanguineus  32  132 0  14  50  0.50  0.50  0.6175
+Dermacentor reticulatus  26  58  0  15  39  0.60  0.60  0.5515
+Ixodes ricinus  69  249 1  35  113 0.39  0.39  0.6989
+Ixodes hexagonus  6  15  0  6  13  1.21  1.21  0.2277
+Morphotype Rhipicephalus sanguineus, morphotype 2  31  103 0  14  40  0.53  0.53  0.5986
+Rhipicephalus sanguineus, morphotype unknown 10  29  0  8  10  0.99  0.99  0.3246
+Stage  Adult  110  444 1  55  202 0.49  0.49  0.6222
+Nymph  4  7  0  5  10  1.43  1.43  0.1535
+Larva  1  3  0  1  3  0.48  0.48  1.0000
+Sex  Male  69  126 0  32  52  0.92  0.92  0.3591
+Female  107  318 1  54  150 0.11  0.11  0.9120
+Not determinable  5  10  0  6  13  1.51  1.51  0.1304
+shock. All AEs and sAEs were considered unrelated to
+the IVP administration.
+Body weight
+The mean (SD) baseline body weight was 4.10 (1.00)
+kg and 3.90 (1.00) kg for cats in the IVP and CP
+groups, respectively. Group comparisons of body
+weight using RMANCOVA showed no significant dif-
+ference between the treatment groups at any of the
+time points (P = 0.9739).
+Table 4 Mean percentage efficacy against ticks compared with
+baseline (PP)
+Day Lotilaner  Fipronil
+Geometric mean Efficacy (%)  Geometric Efficacy (%)
+tick count  mean tick count
+0  3.60  na  3.52  na
+7  0  100  0.01  99.6
+14  0  100  0.04  98.8
+21  0  100  0.09  97.5
+28  0.06  98.3  0.37  89.6
+42  0  100  0.22  93.7
+56  0.04  98.9  0.22  93.6
+70  0.01  99.6  0.11  96.9
+84  0  100  0.01  99.6
+Mean 0.01  99.6  0.13  96.4
+Abbreviation: na, not applicable 
+Environmental tick pressure
+The number of animals diagnosed with tick infestation
+during the 7 days prior to a study visit ranged between
+0–13 cats and 0–18 dogs. The number of individual
+products dispensed for tick prophylaxis during the 7
+days prior to a study visit ranged between 1–20 cats and
+1–74 dogs (Fig. 2).
+Discussion
+This field study compared the safety and the efficacy of
+the lotilaner commercial formulation (CredelioTM)
+against ticks when administered orally at the minimum
+dose rate of 6 mg/kg, vs a fipronil spot-on (Eliminall®, in
+cats. The choice of the three different regions in which
+the study was performed ensured the evaluation of the
+efficacy of the product in different climatic and geo-
+graphical conditions, with a high environmental tick in-
+festation pressure.
+The comparison between an orally-administered prod-
+uct (lotilaner) against a spot-on treatment (fipronil) was
+driven by the lack of availability of an oral tick product
+for cats. Furthermore, a generic fipronil containing
+product was preferred over the more commonly used
+Frontline® spot-on for cats, because of its consistent 4
+weeks efficacy duration against I. ricinus [22],  as
+opposed to the shorter duration claimed by Frontline®,
+as short as 2 weeks, depending on the country, [23].
+The minimum body weight of the cats for inclusion
+(1 kg) was driven by the comparator product. In pilot
+Page 8
+Cavalleri et al. Parasites & Vectors (2018) 11:411  Page 8 of 10
+Table 5 Mean percentage efficacy against tick species over the
+treatment period compared with baseline (PP)
+Species Time
+point 
+Lotilaner
+Geometric Geometric
+mean % efficacy
+tick count 
+Fipronil
+Geometric Geometric
+mean % efficacy
+tick count
+Ixodes ricinus Day 0  1.36  99.0  1.22  91.7
+Mean 0.01  0.10
+Rhipicephalus Day 0  0.53
+sanguineus 
+Mean 0 
+100  0.45  97.2
+0.01
+Dermacentor Day 0  0.29  99.6  0.38  100
+reticulatus 
+Mean 0  0.00
+Ixodes
+hexagonus 
+Day 0  0.07
+Mean 0 
+100  0.12  89.6
+0.01
+and pivotal target animal safety studies (unpublished
+data and 22, respectively),  lotilaner was shown to be
+safe for cats as light as 0.5 kg, but since Eliminall®
+was contraindicated for cats lighter than 1 kg, a
+minimum bodyweight of 1 kg at inclusion was se-
+lected in order to maintain the blinding and prevent
+the introduction of a bias.
+Tick counts and analysis of the demographic pa-
+rameters and related variables (age, sex, body weight,
+breed, hair length, living area: countryside vs urban,
+and lifestyle, i.e. time spent primarily indoors vs out-
+doors) confirmed that the two treatment groups
+were homogeneous at baseline, with no statistically
+significant difference in any of the variables.
+In the lotilaner group the efficacy vs baseline was
+above 98% at all time points and 99.6% averaged over
+all time points. In the fipronil group the efficacy was
+above 89% at all time points and 96.4% averaged over
+all time points. 
+Lotilaner was proven to be superior to fipronil on the
+majority of study days, i.e. from day 14 to day 70, when
+cats treated with lotilaner had significantly lower tick
+counts (P < 0.0394), and was non-inferior to the control
+product on the other assessment days. Superiority of
+lotilaner was shown as well for efficacy averaged over all
+time points (P < 0.0001).
+Although in the pivotal laboratory studies the efficacy
+of lotilaner was only tested against the most common
+European cat tick (Ixodes ricinus) [17], the results of this
+field study demonstrate that the product is equally effi-
+cacious against the other clinically relevant tick species
+infesting cats in Europe, i.e. Rhipicephalus sanguineus,
+Dermacentor reticulatus and possibly I. hexagonus,  al-
+though the low number of these ticks at baseline does
+not allow for a firm conclusion on efficacy. The species
+specific analysis showed an efficacy of 100% against R.
+sanguineus and I. hexagonus at all time points and an
+average efficacy of 99.6% against D. reticulatus.
+CredelioTM chewable tablets for cats was designed
+specifically as a small, vanilla flavoured, chewable tab-
+let, to ensure ease of administration and acceptance by
+cats; 100% compliance in the lotilaner group confirmed
+that the tablets were easy for pet owners to administer
+and well accepted by cats. Palatability results showed
+that the product had been taken voluntarily by 48%
+cats, which is in line with the “pickiness” and well
+documented individual eating preferences of cats [24],
+as well as their aversion to unfamiliar flavours and
+textures [25].
+Both treatments were well tolerated, with 0.014% lotilaner
+cats and 0.4% cats treated with fipronil affected by adverse
+events. The difference was not statistically significant. In
+addition, no significant differences between the two groups
+in body weight change were observed.
+Fig. 2 Mean number of non-study cats treated for tick infestations; average over study sites within countries at weekly intervals throughout
+the study
+Page 9
+Cavalleri et al. Parasites & Vectors (2018) 11:411  Page 9 of 10
+Conclusions
+Lotilaner tablets for cats, used at a minimum dose rate
+of 6.0 mg/kg, were shown to be effective and safe for the
+treatment of tick infestations in cats presented as pa-
+tients to veterinary practices under field conditions in
+Germany, Hungary and Portugal. Persistent efficacy
+lasted for one month and lotilaner was superior to fipro-
+nil for efficacy averaged over all time points (P < 0.0001)
+as well as on most individual assessment days (day 14 to
+70, P < 0.0394), and was non-inferior to fipronil on the
+other days. Lotilaner tablets were easy for pet owners to
+administer and well accepted by cats.
+Additional file
+ Additional file 1: French translation of the Abstract. (PDF 18 kb)
+Abbreviations
+AE: Adverse event; ANCOVA: Analysis of covariance; CI: Confidence interval;
+CP: Control product; EDC: Electronic data capture; ITT: Intent-to-treat;
+IVP: Investigational veterinary product; PP: Per protocol; SAE: Serious adverse
+event; SD: Standard deviation
+Acknowledgements
+The authors would like to thank the participating veterinarians, the cat
+owners who agreed to enrol their cats in the study and Parag Shah of Eli
+Lilly Services Private Limited, Bangalore, India for assistance with the
+manuscript.
+Funding
+The study was funded by Elanco.
+Availability of data and materials
+The datasets supporting the conclusions of this article are included within
+the article. Due to commercial confidentiality of the research, data not
+included in the manuscript can only be made available to bona fide
+researchers, subject to a non-disclosure agreement.
+Authors' contributions
+All authors participated in one or more of design, completion and reporting
+of the studies and were involved in drafting of the manuscript. All authors
+read and approved the final manuscript.
+Ethics approval and consent to participate
+The study was approved by the Sponsor Global Animal Welfare Group.
+Participating cat owners were required to sign an informed consent form for
+their cat(s) to participate in the study, after details of the study design and
+products under investigation had been explained.
+Consent for publication
+Not applicable.
+Competing interests
+DC, MM, WSo and Steve Nanchen are employees of Elanco Animal Health.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations. 
+Received: 13 February 2018 Accepted: 20 June 2018
+References
+1.  Jaenson TG, Jaenson DG, Eisen L, Petersson E, Lindgren E. Changes in the
+geographical distribution and abundance of the tick Ixodes ricinus during
+the past 30 years in Sweden. Parasit Vectors. 2012;5:8.
+2.  Zając Z, Katarzyna B, Buczek A. Factors influencing the distribution and
+activity of Dermacentor reticulatus (F.) ticks in an anthropopressure-
+unaffected area in central-eastern Poland. Ann Agric Environ Med. 2016;23:
+270–5.
+3.  Földvári G, Široký P, Szekeres S, Majoros G, Sprong H. Dermacentor
+reticulatus: a vector on the rise. Parasit Vectors. 2016;9:314.
+4.  Randolph SE. Evidence that climate change has caused ‘emergence’ of tick
+borne diseases in Europe? Int J Med Microbiol. 2004;293(Suppl. 37):5–15.
+5.  Eiden AL, Kaufman PE, Oi FM, Allan SA, Miller RJ. Detection of permethrin
+resistance and fipronil tolerance in Rhipicephalus sanguineus (Acari: Ixodidae)
+in the United States. J Med Entomol. 2015;52:429–36.
+6.  Ozoe Y, Asahi M, Ozoe F, Nakahira K, Mita T. The antiparasitic isoxazoline
+A1443 is a potent blocker of insect ligand-gated chloride channels.
+Biochem Biophys Res Commun. 2010;391:744–9.
+7.  Shoop WL, Hartline EJ, Gould BR, Waddell ME, McDowell RG, Kinney JB, et
+al. Discovery and mode of action of afoxolaner, a new isoxazoline
+parasiticide for dogs. Vet Parasitol. 2014;201:179–89.
+8.  McTier TL, Chubb N, Curtis MP, Hedges L, Inskeep GA, Knauer CS, et al.
+Discovery of sarolaner: A novel, orally administered, broad-spectrum.
+isoxazoline ectoparasiticide for dogs. Vet Parasitol. 2016;222:3–11.
+9.  Little SE. Lotilaner - a novel systemic tick and flea control product for dogs.
+Parasit Vectors. 2017;10:539.
+10. Murphy M, Cavalleri D, Seewald W, Drake J, Nanchen S. Laboratory
+evaluation of the speed of kill of lotilaner (Credelio™) against Ixodes ricinus
+ticks on dogs. Parasit Vectors. 2017;10:541.
+11. Cavalleri D, Murphy M, Lizundia Gorbea R, Seewald W, Drake J, Nanchen S.
+Laboratory evaluations of the immediate and sustained effectiveness of
+lotilaner (Credelio™) against three common species of ticks affecting dogs
+in Europe. Parasit Vectors. 2017;10:527.
+12. European Medicines Agency. Committee for Medicinal Products for
+Veterinary Use, Bravecto® European Product Information. [URL: "http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/veterinary/002526/WC500163859.pdf"] http://www.ema.
+ europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/
+ veterinary/002526/WC500163859.pdf. Accessed 23 March 2018.
+13. European Medicines Agency. Committee for Medicinal Products for
+Veterinary Use, Stronghold® Plus, European Product Information. [URL: "http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/veterinary/004194/WC500222781.pdf"] http://
+ www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_
+[URL: "http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/veterinary/004194/WC500222781.pdf"] Information/veterinary/004194/WC500222781.pdf. Accessed 23 March 2018.
+14. Kuntz E, Kammanadiminti S. Safety of lotilaner flavoured chewable
+tablets (Credelio TM) after oral administration in cats. Parasit Vectors.
+2018; (In press)
+15. Cavalleri D, Murphy M, Seewald W, Nanchen S. A randomized,
+controlled field study to assess the efficacy and safety of lotilaner
+(Credelio™) in controlling fleas in client-owned cats in Europe. Parasit
+Vectors.  2018; (In press)
+16. Cavalleri D, Murphy M, Seewald W, Nanchen S. Laboratory evaluation of the
+efficacy and speed of kill of lotilaner (Credelio™) against Ctenocephalides felis
+on cats. Parasit Vectors. 2018; (In press)
+17. Cavalleri D, Murphy M, Seewald W, Drake J, Nanchen S. Laboratory
+evaluation of the efficacy and speed of kill of lotilaner (CredelioTM) against
+Ixodes ricinus ticks on cats. Parasit Vectors. 2018; (In press)
+18. The Rules Governing Medicinal Products in the European Union. Volume
+VIIA: Guidelines for the testing of veterinary medicinal products:
+Demonstration of Efficacy of Ectoparasiticides, 7AE17a. [URL: "http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2009/10/WC500004662.pdf"] http://www.ema.
+ europa.eu/docs/en_GB/document_library/Scientific_guideline/2009/10/
+ WC500004662.pdf. Accessed 21 March 2018.
+19. European Medicines Agency. Committee for Medicinal Products for
+Veterinary Use, EMA/CVMP/EWP/206024/2011: Guideline on the
+demonstration of palatability of veterinary medicinal products. [URL: "http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2014/07/WC500170030.pdf"] http://www.
+ ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2014/07/
+ WC500170030.pdf. Accessed 21 Mar 2018.
+20. European Medicines Agency. Committee for Medicinal Products for
+Veterinary Use, /CVMP/EWP/005/2000-Rev.2: Guideline for the testing and
+evaluation of the efficacy of antiparasitic substances for the treatment and
+prevention of tick and flea infestation in dogs and cats. [URL: "http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2009/10/WC500004596.pdf"] http://www.ema.
+Page 10
+Cavalleri et al. Parasites & Vectors (2018) 11:411
+ europa.eu/docs/en_GB/document_library/Scientific_guideline/2009/10/
+ WC500004596.pdf. Accessed 21 Mar 2018.
+21. Marchiondo AA, Holdsworth PA, Fourie LJ, Rugg D, Hellmann K, Snyder DE,
+Dryden MW. World Association for the Advancement of Veterinary
+Parasitology (W.A.A.V.P.) second edition: guidelines for evaluating the
+efficacy of parasiticides for the treatment, prevention and control of flea
+and tick infestations on dogs and cats. Vet Parasitol. 2013;194:84–97.
+22. Veterinary Medicines Directorate. Eliminall® 50 mg spot-on solution for cats,
+Summary of Product Characteristics (SPC). [URL: "http://www.vmd.defra.gov.uk/ProductInformationDatabase/SPC_Documents/SPC_339506.doc"] http://www.vmd.defra.gov.uk/
+ ProductInformationDatabase/SPC_Documents/SPC_339506.doc. Accessed
+22 March 2018.
+23. Frontline Combo® Spot-on Cat, Summary of Product Characteristics (SPC).
+ http://mri.cts-mrp.eu/Veterinary/Product/Details/805. Accessed 27 Mar 2018.
+24. Sandau MM, Goodman JR, Thomas A, Bucker JB. Rawson NE. A functional
+comparison of the domestic cat bitter receptors Tas2r38 and Tas2r43 with
+their human orthologs. BMC Neurosci. 2015;16:33.
+25. International Cat Care's owner advice information. [URL: "https://icatcare.org/advice/how-give-your-cat-tablet"] https://icatcare.org/
+ advice/how-give-your-cat-tablet. Accessed 23 Mar 2018. 
+Page 10 of 10

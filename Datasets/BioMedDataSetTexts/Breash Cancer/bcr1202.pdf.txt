@@ -1,0 +1,441 @@
+BOOKMARKS:
+Abstract
+Introduction
+Technical issues
+Single-voxel spectroscopy
+Lipids
+Quantification
+Applications Diagnosis
+Monitoring response to treatment
+Conclusions
+Competing interests
+Acknowledgements
+References
+Page 1
+Available online http://breast-cancer-research.com/contents/7/4/149
+Review
+Imaging in breast cancer: Magnetic resonance spectroscopy
+Patrick J Bolan1,2, Michael T Nelson2,3, Douglas Yee3,4 and Michael Garwood1,2,3
+1Center for Magnetic Resonance Research, University of Minnesota Medical School, Minneapolis, MN, USA
+2Department of Radiology, University of Minnesota Medical School, Minneapolis, MN, USA
+3Cancer Center, University of Minnesota Medical School, Minneapolis, MN, USA
+4Department of Medicine, University of Minnesota Medical School, Minneapolis, MN, USA
+Corresponding author: Michael Garwood, gar@cmrr.umn.edu
+Published: 12 May 2005
+This article is online at http://breast-cancer-research.com/content/7/4/149
+© 2005 BioMed Central Ltd 
+Breast Cancer Research 2005, 7:149-152 (DOI 10.1186/bcr1202)
+Abstract
+A technique called in vivo magnetic resonance spectroscopy (MRS)
+can be performed along with magnetic resonance imaging (MRI) to
+obtain information about the chemical content of breast lesions. This
+information can be used for several clinical applications, such as
+monitoring the response to cancer therapies and improving the
+accuracy of lesion diagnosis. Initial MRS studies of breast cancer
+show promising results, and a growing number of research groups
+are incorporating the technique into their breast MRI protocols. This
+article introduces 1H-MRS of the breast, reviews the literature,
+discusses current methods and technical issues, and describes
+applications for treatment monitoring and lesion diagnosis.
+Introduction
+The first in vivo magnetic resonance spectroscopy (MRS)
+studies of breast measured resonances from phosphorus
+atoms (31P). These studies showed that measurable variations
+in phospholipid metabolism could be detected and used for
+diagnosing cancer and monitoring the response to treatment
+(reviewed in [1,2]). More recently, there has been growing
+interest in breast cancer research using hydrogen (1H)-MRS,
+because of its higher sensitivity than 31P-MRS. The first
+breast 1H-MRS reports focused on the diagnostic utility of
+the water :  fat ratio in the breast [3-5],  but subsequent
+studies did not find this ratio to be a useful diagnostic metric
+[6,7].  However, several studies performed with 1H-MRS
+noted that a resonance from choline-containing compounds
+(tCho) was commonly present in malignant lesions but not in
+benign or normal tissues [4,6-11]. Figure1 shows a repre-
+sentative example of a localized 1H spectrum of an invasive
+ductal carcinoma, with the tCho resonance indicated.
+Ex vivo studies have been performed to identify the different
+choline compounds giving rise to the tCho resonance at a
+chemical shift of 3.2ppm. High-resolution 1H spectra 
+acquired from biopsy tissues have shown that the tCho
+resonance is actually a superposition of several resonances
+[12-14]. The primary constituents are those with a trimethyl-
+amine moiety, R–(CH
+2
+)
+2
+–N+–(CH
+3
+)
+3
+, including free choline,
+phosphocholine, and glycerophosphocholine. Other
+metabolites possibly contributing include taurine, glucose,
+phosphoethanolamine, and myo-inositol [14].  The choline
+head groups associated with semi-mobile lipids may also
+contribute. These resonances can be separated in ex vivo
+studies with high-resolution magnetic resonance (MR)
+spectrometers, but in vivo these peaks are substantially
+broadened, and at fields as high as 4 T these resonances are
+generally indistinguishable. Consequently, the simplified
+approach used in studies in vivo is to treat the 3.2ppm
+spectral peak as a single resonance.
+Numerous in vivo, ex vivo, and in vitro studies have shown
+that this tCho peak is elevated in neoplastic tissues.
+However, the precise mechanisms that produce an elevated
+tCho concentration ([tCho]) have not yet been fully identified.
+A working hypothesis is that elevated [tCho] is an indicator of
+increased cellular proliferation. The largest component
+contributing to the tCho peak from neoplastic tissue is
+phosphocholine, a known precursor of membranes. Thus, the
+increased [tCho] in neoplastic tissues may be a reflection of
+increased membrane turnover by replicating cells. This is
+probably an oversimplified view, because [tCho] can be
+modulated by numerous changes in enzymatic activity and
+fluxes in biosynthetic and catabolic pathways in which choline
+compounds serve as both precursors and catabolites. This is
+an active area of research.
+In spite of this seemingly complex situation, several groups
+have successfully shown that tCho can be used as an
+DCE = dynamic contrast-enhanced; MR = magnetic resonance; MRI = magnetic resonance imaging; MRS = magnetic resonance spectroscopy;
+MRSI = magnetic resonance spectroscopic imaging; SVS = single-voxel spectroscopy; tCho = total choline-containing compounds; [tCho] = con-
+centration of total choline-containing compounds.  149
+Page 2
+Breast Cancer Research July 2005 Vol 7 No 4 Bolan et al.
+Figure 1
+Example of a localized breast spectrum acquired at 4 T. The image on the left indicates the voxel placement, which covers a rim-enhancing lesion
+of invasive ductal carcinoma. The water-suppressed spectrum on the right shows the resonances typically observed in malignant breast lesions.
+Quantifying the spectrum by using water as an internal reference produced a measurement of concentration of total choline-containing compounds
+of 4.4 ± 0.3 mmol/kg (±SD).
+indicator of malignancy with clinical 1.5T scanners. Some
+groups have also shown that the tCho peak decreases or
+disappears in response to chemotherapy treatment. The
+results of these studies are encouraging, and with continued
+technical development it seems likely that MRS will become a
+useful tool in detecting and managing breast cancer. 
+multiple lesions or evaluating the spatial variation of a
+metabolite in a heterogeneous lesion. However, MRSI is
+technically more challenging than SVS, and quantification of
+metabolite levels is more problematic. For these reasons, and
+because it is not yet commonly used in the breast, the rest of
+the discussion here will focus on SVS.
+Technical issues
+Historically, 1H-MRS research has been focused mainly on the
+brain, in part because use of this technique on the brain poses
+fewer technical challenges than on other organ sites. Most of
+the research and development in the field of MR has been
+focused on brain applications; as a result, commercial MR
+systems are generally better optimized for brain rather than
+breast studies. As a result of increased interest by clinicians and
+researchers in the application of MR to breast cancer, many
+technical advances are now taking place that are improving the
+quality and reliability of breast magnetic resonance imaging
+(MRI) and MRS. For example, significant improvement in signal :
+noise ratio can be realized by using multi-channel phased-array
+coils that are now commercially available.
+Single-voxel spectroscopy
+Most breast MRS studies so far have used single-voxel
+spectroscopy (SVS) to localize the chemical signals to a single,
+cuboid volume (called a voxel) centered on the lesion of
+interest. Our group uses a specialized pulse sequence called
+LASER (localization by adiabatic selective refocusing) [15].
+This technique has several useful properties; most notably it is
+insensitive to radiofrequency field inhomogeneity and provides
+clean localization. Although most breast MRS studies have
+been done with SVS, other researchers have explored the use
+of magnetic resonance spectroscopic imaging (MRSI) as an
+alternative [16]. In MRSI, spectra are acquired in a grid. MRSI
+has an important advantage: it provides information about the
+150 spatial distribution of metabolites, which is useful for studying 
+A typical MRS study is performed immediately after acquiring
+dynamic contrast-enhanced (DCE) MR images. Decisions
+about the placement of the MRS voxel are usually based on a
+review of the lesion morphology and the kinetics of contrast
+agent uptake while the patient is still in the magnet. With
+SVS, the placement of the voxel is of critical importance. The
+voxel should be placed so that it contains as much of the
+lesion as possible while excluding other tissues such as
+normal fibroglandular or adipose tissue. In studies using MRS
+to monitor response to treatment, the voxel size and position
+can be adjusted to cover the same anatomical region of the
+tumor, decreasing the voxel size as the tumor shrinks.
+Lipids
+Intense resonances from mobile lipids are a prominent feature
+of 1H spectra of breast tissues, whereas these signals are
+essentially absent from brain spectra. The amplitude of the
+lipid resonance can vary markedly depending on the tissue
+heterogeneity. The adipose tissue not directly involved in
+breast carcinoma can pose problems for breast MRS. When
+trying to place a voxel in a suspect lesion, any adipose tissue
+inadvertently included in the voxel creates a partial volume
+effect, reducing the effective volume for spectroscopy.
+Adipose tissue also limits the ability to optimize (or ‘shim’) the
+homogeneity of the magnetic field inside the voxel, which in
+turn leads to broad resonances and reduced signal : noise
+ratio. Intense lipid resonances can also produce sideband
+artefacts that can interfere with MRS measurements. These
+artefactual resonances can be larger than the tCho
+Page 3
+Available online http://breast-cancer-research.com/contents/7/4/149
+resonance. To reduce sideband artefacts, our group uses a
+method called echo-time averaging, which causes coherent
+cancellation of sideband artefacts by averaging spectra
+acquired at several different echo-time values [17].  For all
+these reasons, it is important to plan voxels carefully to
+minimize the amount of adipose tissue included.
+Quantification
+Although several groups have had success in using the
+detectability of tCho to indicate malignancy, this approach
+assumes that the MRS measurement sensitivity is roughly
+constant from one measurement to the next. However, there
+are several factors that make this assumption questionable in
+breast MRS, such as variations in voxel size, adipose tissue
+content, and coil sensitivity. In our experience at 4 T, we have
+found that these factors produce a large variation in
+sensitivity [18]. Thus, some form of quantification should be
+used to correct for sensitivity variations, or at the very least
+exclude those voxels with unusual sensitivity.
+A variety of approaches have been used for quantifying MRS
+data. We chose to use the intravoxel water resonance as an
+internal reference, because this method is robust and
+automatically compensates for variations in many factors [18].
+Some groups have proposed using an external standard for
+referencing [6,19].  This approach also works but requires
+additional corrections for voxel size, adipose tissue content,
+and coil efficiency. Both internal and external referencing
+methods need correction for differences in relaxation rates,
+which are difficult to measure in individual subjects.
+Applications
+Diagnosis
+The first and most studied application for breast MRS is to
+distinguish benign from malignant lesions before biopsy. The
+first published paper on this topic, by Roebuck and colleagues
+in 1998 [6], proposed the idea that tCho could be used as a
+marker of malignancy. Several papers that followed, listed in
+Table1, continued to use this hypothesis but performed
+studies with somewhat different techniques. The overall results
+are quite consistent. Katz-Brull and colleagues published a
+combined analysis of the first five papers in Table1 and
+reported an overall sensitivity of 83% and specificity of 85%
+[20].  These results are very encouraging, especially
+considering that the determination of malignancy was done
+without considering any other diagnostic or historical
+information that would normally be available clinically.
+Other publications describing tCho detection in breast
+cancers did not report diagnostic specificity and sensitivity
+[5,7]. Although the results using a simple detectability hypo-
+thesis are encouraging, it seems likely that there are benign
+pathologies that also produce detectable levels of tCho.
+Indeed, at 1.5T, a detectable tCho resonance has been
+reported in fibroadenomas [8,9,16,21],  tubular adenomas
+[6,10] and lactating subjects [8,11]. 
+Table 1
+MRS in the diagnostic context
+No. of
+Reference cancers 
+No. 
+benign
+[6]  10  7
+[8]  11  11
+[10]  23  15
+[11]  32  14
+[9]  24  6
+[24]  19  16
+[25]  19  27
+[16]  8  7 
+Sensitivity
+(%)
+70
+82
+83
+78
+92
+100
+89
+87 
+Specificity
+(%)
+86
+82
+87
+86
+83
+100
+100
+85
+Two recent studies have sought to evaluate whether MRS
+can improve the specificity of a diagnostic breast MR exam.
+Huang and colleagues appended a single-voxel MRS
+measurement and a single-slice T
+2*
+-weighted perfusion
+measurement to a conventional DCE-MRI exam [21].  They
+found that the addition of MRS increased the specificity of
+the exam from 62.5% to 87.5%, and the further addition of
+the perfusion measurement raised the specificity to 100%.
+Our group recently performed a retrospective blinded-
+observer performance study with four readers and 55
+subjects to determine whether quantitative MRS could
+improve the specificity and sensitivity of a DCE-MRI exam
+[22]. In this study we reported that adding quantitative MRS
+results to a DCE-MRI exam produced improvements in the
+sensitivity, specificity, and accuracy for all readers, and
+improved the interobserver agreement between the readers.
+Monitoring response to treatment
+A second and perhaps more promising application is the use of
+breast MRS for predicting response to cancer treatment.
+Current clinically available methods such as palpation and
+imaging rely on changes in tumor size, which take several
+weeks before any changes are detectable. Breast MRS, in
+contrast, detects changes in intracellular metabolism that
+would occur before any gross morphological change. The first
+report using tCho measurements to detect treatment response
+in breast cancer was by Jaganathan and colleagues, who
+observed that the tCho resonance disappeared or became
+smaller in 89% of subjects undergoing chemotherapy [11].
+Expanding on this observation, our group performed a study
+designed to determine whether changes in [tCho] could
+provide a biomarker of clinical response as soon as 24hours
+after the first dose of doxorubicin-based chemotherapy for
+locally advanced breast cancer [23]. Of the first 13 patients
+who successfully completed the protocol without technical
+problems, the change in [tCho] between baseline and
+24hours after the first dose of chemotherapy showed a
+significant positive correlation (R = 0.79, P = 0.001) with the 151
+Page 4
+Breast Cancer Research July 2005 Vol 7 No 4 Bolan et al.
+This article is part of a review series on Imaging in breast
+cancer, edited by David A Mankoff.
+Other articles in the series can be found online at
+http://breast-cancer-research.com/articles/
+review-series.asp?series=bcr_imaging
+change in lesion size measured at the end of four cycles of
+chemotherapy (median duration 67days; range 65 to
+72days).  The change in [tCho] within 24hours was
+significantly different between responders and nonresponders
+(P = 0.007) classified with RECIST (Response Evaluation
+Criteria in Solid Tumors).  These results suggest that the
+change in [tCho] within 24hours after the first dose of the
+drug can serve as an early indicator for predicting clinical
+response to treatment for locally advanced breast cancer.
+Conclusions
+The quality and reliability of MRS data will only improve as
+further refinements in MR systems and techniques continue
+to occur. At present, dissemination of MRS methodology
+optimized for breast studies is occurring, and breast MRS
+and MRI are rapidly becoming standard capabilities of most
+state-of-the-art clinical MR systems with magnets 1.5T or
+stronger. The promising results from multiple institutions
+reported so far suggest that MRS, along with MRI, will have
+an increased role in the clinical assessment of breast cancer
+in the future. However, large multicenter trials are still needed
+before the tCho biomarker can be widely used to guide
+diagnostic decisions and to predict response to therapy.
+Competing interests
+The author(s) declare that they have no competing interests.
+Acknowledgements
+The authors acknowledge support from the NIH (grants CA92004,
+RR08079, and RR00400), the DOD Breast Cancer Research program
+(DAMD 17–01-1–0331), the Lillian Quist–Joyce Henline Chair in Bio-
+medical Research, the Tickle Family Land Grant Endowment in Breast
+Cancer Research, and the MIND Institute.
+References
+1. Daly PF, Cohen JS: Magnetic resonance spectroscopy of
+tumors and potential in vivo clinical applications: a review.
+Cancer Res 1989, 49:770-779.
+2. Leach MO, Verrill M, Glaholm J, Smith TAD, Collins DJ, Payne GS,
+Sharp JC, Ronen SM, McCready VR, Powles TJ et al: Measure-
+ments of human breast cancer using magnetic resonance
+spectroscopy: a review of clinical measurement and a report
+of localized 31P measurements of response to treatment.
+NMR Biomed 1998, 11:314-340.
+3. Sijens PE, Wijrdeman HK, Moerland MA, Bakker CJG, Vermeulen
+JWAH, Luyten PR: Human breast cancer in vivo: H-1 and P-31
+MR spectroscopy at 1.5 T. Radiology 1988, 169:615-620.
+4. Jagannathan NR, Singh M, Govindaraju V, Raghunathan P,
+Choshic O, Julka PK, Rath GK: Volume localized in vivo proton
+MR spectroscopy of breast carcinoma: variation of water-fat
+ratio in patients receiving chemotherapy. NMR Biomed 1998,
+11:414-422.
+5. Thomas MA, Binesh N, Yue K, DeBruhl N: Volume-localized two-
+dimensional correlated magnetic resonance spectroscopy of
+human breast cancer. J Magn Reson Imaging 2001, 14:181-186.
+152 6. Roebuck JR, Cecil KM, Schnall MD, Lenkinski RE: Human breast 
+lesions: characterization with proton MR spectroscopy. Radiol-
+ogy 1998, 209:269-275.
+7. Gribbestad IS, Singstad TE, Nilsen G, Fjosne HE, Engan T,
+Haugen OA, Rinck PA: In vivo 1H MRS of normal breast and
+breast tumors using dedicated double breast coil. J Magn
+Reson Imaging 1998, 8:1191-1197.
+8. Kvistad KA, Bakken IJ, Gribbestad IS, Ehrnholm B, Lundgren S,
+Fjosne HE, Haraldseth O: Characterization of neoplastic and
+normal human breast tissues with in vivo 1H MR spec-
+troscopy. J Magn Reson Imaging 1999, 10:159-164.
+9. Yeung DK, Cheung HS, Tse GM: Human breast lesions: char-
+acterization with contrast-enhanced in vivo proton MR spec-
+troscopy – initial results. Radiology 2001, 220:40-46.
+10. Cecil KM, Schnall MD, Siegelman ES, Lenkinski RE: The evalua-
+tion of human breast lesions with magnetic resonance
+imaging and proton magnetic resonance spectroscopy. Breast
+Cancer Res Treat 2001, 68:45-54.
+11. Jagannathan NR, Kumar M, Seenu V, Coshic O, Dwivedi SN, Julka
+PK, Srivastava A, Rath GK: Evaluation of total choline from in
+vivo volume localized proton MR spectroscopy and its
+response to neoadjuvant chemotherapy in locally advanced
+breast cancer. Br J Cancer 2001, 84:1016-1022.
+12. Mackinnon WB, Barry PA, Malycha PL, Gillett DJ, Russell P, Lean
+CL, Doran ST, Barraclough BH, Bilous M, Mountford CE: Fine-
+needle biopsy specimens of benign breast lesions distin-
+guished from invasive cancer ex vivo with proton MR
+spectroscopy. Radiology 1997, 204:661-666.
+13. Cheng LL, Chang W, Smith BL, Gonzalez RG: Evaluating
+human breast ductal carcinomas with high-resolution magic-
+angle spinning proton magnetic resonance spectrscopy. J
+Magn Reson 1998, 135:194-202.
+14. Gribbestad IS, Sitter B, Lundgren S, Krane J, Axelson D: Metabo-
+lite composition in breast tumors examined by proton nuclear
+magnetic resonance spectroscopy. Anticancer Res 1999, 19:
+1737-1746.
+15. Garwood M, DelaBarre L: The return of the frequency sweep:
+designing adiabatic pulses for contemporary NMR. J Magn
+Reson 2001, 153:155-177.
+16. Jacobs MA, Barker PB, Bottomley PA, Bhujwalla Z, Bluemke DA:
+Proton magnetic resonance spectroscopic imaging of human
+breast cancer: a preliminary study. J Magn Reson Imaging
+2004, 19:68-75.
+17. Bolan PJ, DelaBarre L, Baker EH, Merkle H, Everson LI, Yee D,
+Garwood M: Eliminating spurious lipid sidebands in 1H MRS
+of breast lesions. Magn Reson Med 2002, 48:215-222.
+18. Bolan PJ, Meisamy S, Baker EH, Lin J, Emory T, Nelson M,
+Everson LI, Yee D, Garwood M: In vivo quantification of choline
+compounds in the breast with 1H MR spectroscopy. Magn
+Reson Med 2003, 50:1134-1143.
+19. Bakken IJ, Gribbestad IS, Singstad TE, Kvistad KA: External
+standard method for the in vivo quantification of choline-con-
+taining compounds in breast tumors by proton MR spec-
+troscopy at 1.5 Tesla. Magn Reson Med 2001, 46:189-192.
+20. Katz-Brull R, Lavin PT, Lenkinski RE: Clinical utility of proton
+magnetic resonance spectroscopy in characterizing breast
+lesions. J Natl Cancer Inst 2002, 94:1197-1203.
+21. Huang W, Fisher PR, Dulaimy K, Tudorica LA, O’Hea B, Button
+TM: Detection of breast malignancy: diagnostic MR protocol
+for improved specificity. Radiology 2004, 232:585-591.
+22. Meisamy S, Bolan PJ, Baker EH, Pollema MG, Le CT, Kelcz F,
+Lechner MC, Luikens BA, Carlson RA, Brandt KR, et al.: The
+value of adding quantitative 1H MRS for improving diagnostic
+accuracy of breast MRI: preliminary results from an observer
+performance study at 4 Tesla. Radiology 2005, in press.
+23. Meisamy S, Bolan PJ, Baker EH, Bliss RL, Gulbahce E, Everson
+LI, Nelson MT, Emory TH, Tuttle TM, Yee D, et al.: Predicting
+response to neoadjuvant chemotherapy of locally advanced
+breast cancer with in vivo 1H MRS: a pilot study at 4 Tesla.
+Radiology 2004, 233:424-431.
+24. Kim J-K, Park S-H, Lee HM, Lee Y-H, Sung N-K, Chung D-S, Kim
+O-D: In vivo 1H-MRS evaluation of malignant and benign
+breast disease. Breast 2003, 12:179-182.
+25. Tse GMK, Cheung HS, Pang L-M, Chu WCW, Law BKB, Kung
+FYL, Yeung DKW: Characterization of lesions of the breast
+with proton MR spectroscopy: comparison of carcinomas,
+benign lesions, and phyllodes tumors. Am J Roentgenol 2003,
+181:1267-1272.

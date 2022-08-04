@@ -1,0 +1,1127 @@
+BOOKMARKS:
+Abstract
+Introduction
+Planar scintigraphy, SPECT and PET
+Scintimammography
+  Primary breast cancer
+  Locally recurrent breast cancer
+PET imaging with
+PET imaging with 18F-FDG
+  Primary breast cancer
+  Axillary metastases
+  Recurrent and metastatic breast cancer
+  Assessment of response to therapy
+Imaging estrogen receptor expression
+Radiolabeled nucleosides and amino acids
+  [18F]Fluorothymidine
+  Radiolabeled amino acids
+Other receptors as targets for diagnostic imaging
+  Sigma receptors
+  Other molecular targets
+Conclusion
+Competing interests
+Authors’ contributions
+References
+Page 1
+Available online http://breast-cancer-research.com/contents/7/4/153
+Review
+Imaging in breast cancer: Single-photon computed tomography
+and positron-emission tomography
+François Bénard and Éric Turcotte
+Metabolic and Functional Imaging Center, Clinical Research Center, Centre hospitalier universitaire de Sherbrooke, Fleurimont, QC, Canada
+Corresponding author: François Bénard, francois.benard@usherbrooke.ca
+Published: 12 May 2005
+This article is online at http://breast-cancer-research.com/content/7/4/153
+© 2005 BioMed Central Ltd 
+Breast Cancer Research 2005, 7:153-162 (DOI 10.1186/bcr1201)
+Abstract
+Although mammography remains a key imaging method for the
+early detection and screening of breast cancer, the overall
+accuracy of this test remains low. Several radiopharmaceuticals
+have been proposed as adjunct imaging methods to characterize
+breast masses by single-photon-emission computed tomography
+(SPECT) and positron-emission tomography (PET).  Useful in
+characterizing indeterminate palpable masses and in the detection
+of axillary metastases, these techniques are insufficiently sensitive
+to detect subcentimetric tumor deposits. Their role in staging nodal
+involvement of the axillary areas therefore currently remains limited.
+Several enzymes and receptors have been targeted for imaging
+breast cancers with PET. [18F]Fluorodeoxyglucose is particularly
+useful in the detection and staging of recurrent breast cancer and
+in assessing the response to chemotherapy. Several other ligands
+targeting proliferative activity, protein synthesis, and hormone and
+cell-membrane receptors may complement this approach by
+providing unique information about biological characteristics of
+breast cancer across primary and metastatic tumor sites.
+Introduction
+Early diagnosis remains the best method of improving the
+odds of curing breast cancer. Among the tools currently
+widely available, screening mammography has been credited
+with an earlier diagnosis and a decreased risk of death from
+breast cancer. However, false negatives occur frequently,
+particularly when imaging post-surgical recurrence, fibro-
+cystic breast disease and dense breast tissue in younger
+women [1]. Mammography also has a low positive predictive
+value, and accurate second-line imaging methods are useful
+in some instances to reduce the number of unnecessary
+excisional biopsies. 
+invasive sentinel node biopsy may not always detect axillary
+involvement because the sentinel nodes can be bypassed in
+3 to 7% of cases [2-5]. Nodal metastases can also occur in
+internal mammary or mediastinal nodal groups, which are
+usually not sampled in conventional surgical staging. Multiple
+imaging studies are often prescribed to exclude the presence
+of bone, liver and lung metastases.
+Despite some progress arising from increased public
+awareness and screening programs that have tended to
+improve the stage at which breast cancers are detected, the
+rate of recurrence remains significant. In 2005, the death : case
+ratio for breast cancer in Canada has been estimated to be 0.24
+[6]. Efficient imaging techniques are warranted for the accurate
+assessment of recurrent and metastatic disease. The preferred
+treatment will often be proposed by oncologists on the basis of
+the integration of several factors, such as the tumor pathologic
+grade, the age of the patients, the presence or absence of
+estrogen receptors (ERs) and the site of recurrence [7-9]. To
+validate whether the treatments are appropriate, the disease
+burden often needs to be assessed before and after treatment.
+Among the various imaging techniques used to assess
+primary or recurrent breast cancer, radionuclide imaging
+techniques such as planar scintigraphy, single-photon-
+emission computed tomography (SPECT) and positron-
+emission tomography (PET) can provide an accurate
+assessment of the presence and extent of disease as well as
+unique information about tumor biological characteristics
+such as the rate of proliferation and metabolic activity.
+The presence of lymph node spread is determined by axillary
+dissection, a diagnostic surgical procedure that can
+significantly impair the quality of life of many women. The less 
+Planar scintigraphy, SPECT and PET
+Planar scintigraphy has been used in nuclear medicine for
+over 40years and is widely available across hospitals
+18F-FDG = [18F]fluorodeoxyglucose; 18F-FLT = 3′-deoxy-3′-[18F]fluorothymidine; 18F-FES = 16α-[18F]fluoro-17β-estradiol; 99mTc-MIBI = 99mTc-
+methoxyisobutylisonitrile (99mTc-sestamibi); 99mTc = technetium-99m; σ
+1
+, σ
+2 
+= sigma receptors; CT = computed tomography; ER = estrogen recep-
+tor; FWHM = full width at half maximum; MIVE = 17α-[123I]iodovinyl-11β-methoxyestradiol; MRI = magnetic resonance imaging; PEM =
+positron-emission mammography; PET = positron-emission tomography; PPV = positive predictive value; SMM = scintimammography; SPECT =
+single-photon-emission computed tomography.  153
+Page 2
+Breast Cancer Research July 2005 Vol 7 No 4 Bénard and Turcotte
+worldwide. This technique consists of injecting a radio-
+pharmaceutical, typically labeled with technetium-99m
+(99mTc),  into a patient, followed by planar imaging with a
+conventional gamma camera. SPECT images are three-
+dimensional reconstructions of rotating planar images
+acquired over a 180° or 360° arc around the patient. Typical
+radiopharmaceuticals used in planar imaging and SPECT for
+breast cancer imaging include 99mTc-diphosphonates (for
+bone scans),  [201Tl]thallium chloride, 99mTc-tetrofosmin and
+99mTc-methoxyisobutylisonitrile (99mTc-MIBI; 99mTc-sestamibi).
+PET is an imaging technique that permits the detection of
+annihilation photons produced by the disintegration of
+positron-emitting radioisotopes. Typical radioisotopes used in
+PET imaging are oxygen-15, nitrogen-13, carbon-11 and
+fluorine-18. In the past few years, the use of PET imaging in
+oncology has grown rapidly, with the development of several
+ligands for cancer detection such as [18F]fluorodeoxyglucose
+(18F-FDG) [10],  3′-deoxy-3′-[18F]fluorothymidine (18F-FLT)
+[11] and 16α-[18F]fluoro-17β-estradiol (18F-FES) [12].  PET
+imaging requires expensive equipment and a supply of short-
+lived isotopes. 18F-FDG, the most commonly used radio-
+pharmaceutical, is now widely available in most urban
+centers. There has been considerable progress in PET equip-
+ment technology over the past few years. New systems now
+commercialized offer an integrated computed tomography
+(CT) scanner for simultaneous PET and CT (PET/CT) imaging
+to combine the sensitivity of PET imaging with the anatomical
+localization capabilities of CT. Positron-emission mammo-
+graphy (PEM) devices are dedicated high-resolution instru-
+ments that may have value in detecting primary breast cancer.
+Scintimammography
+Primary breast cancer
+Over the last several years, many clinical studies in the
+medical literature have shown that 99mTc-MIBI, normally used
+for myocardial perfusion imaging, concentrates in breast
+cancers (Fig. 1) [13].  This uptake is due to an increase in
+blood flow, number of mitochondria and cancer cell
+membrane hyperpolarization in the tumor and as a function of
+the expression of the multidrug resistance gene [14-17].
+Since FDA approval, 99mTc-MIBI scintimammography (SMM)
+has been used clinically to evaluate patients with a palpable
+breast abnormality when mammography is negative or
+indeterminate. For optimal imaging, patients are placed in
+prone position over a special table with a lateral cut-off or a
+foam cushion with the breast hanging freely. The breast is not
+compressed as part of the procedure. In a recent meta-
+analysis summarizing studies from 5,340 patients, the overall
+aggregated sensitivity and specificity of SMM in detecting a
+palpable primary breast cancer were, respectively, 85.2% and
+86.6% [13].  For non-palpable breast lesions, the sensitivity
+and specificity of SMM were 66.8% and 86.9%, respectively.
+SMM and 18F-FDG-PET have similar sensitivities and
+specificities in detecting primary breast cancers [18].  In
+154 benign disease, 18F-FDG and 99mTc-MIBI did not localize 
+Figure 1
+99mTc-methoxyisobutylisonitrile mammoscintigraphy showing a typical
+case of breast cancer in the external upper quadrant of the left breast.
+Panel (a) shows the anterior planar images. Lateral images obtained in
+the prone position (b) are obtained to improve the detection of smaller
+breast lesions
+fibrocystic lesions, but could falsely identify fibroadenomas as
+cancer. Globally, the diagnostic accuracies of planar SMM
+and SPECT SMM [19] were equivalent to that of 18F-FDG-
+PET for the detection of primary breast cancer. For the
+detection of lymph node metastases of the axilla, 18F-FDG
+was more sensitive than planar SMM (sensitivity 36 to 84%,
+specificity 86 to 100% [19-21]) and SPECT SMM, in which
+sensitivity in some studies seemed to be superior to that of
+planar imaging (sensitivity 37.5 to 84.2%,  specificity 91%
+[19,22]).  Statistically, SPECT-SMM did not significantly
+improve the diagnostic accuracy over planar SMM. Neither
+18F-FDG-PET, SPECT SMM nor planar SMM are sufficiently
+sensitive to rule out axillary lymph node metastases. For that
+purpose, axillary dissection or sentinel lymph node biopsy
+remain the best available techniques.
+In a more recent study, Cwikla and colleagues cautioned that
+SMM should be interpreted in combination with mammo-
+graphy to produce more accurate results than either modality
+alone (combined results: sensitivity 92%,  specificity 80%,
+positive predictive value 89% and negative predictive value
+86%;  SMM: 87%,  65%,  81% and 75%;  mammography:
+69%,  72%,  81% and 57%,  respectively) [23].  99mTc-MIBI
+SMM could not be used for the routine evaluation of all micro-
+calcifications detected by mammography (sensitivity 58%,
+specificity 81%); SMM was more often positive in high-grade
+than in low-grade or intermediate-grade ductal carcinoma in
+situ [24]. SMM was also proposed as a complementary study
+Page 3
+Available online http://breast-cancer-research.com/contents/7/4/153
+for evaluating younger patients (less than 50years old) with
+dense breasts, even when mammography was negative,
+because 60% of those cases could be genuinely positive
+under SMM [25].  SMM should not be used to exclude
+malignancy whenever histopathological clarification of a
+suspicious lesion is necessary [26]. When SMM is positive, a
+biopsy is necessary because a high proportion of these
+lesions will prove to be cancerous. Although fewer biopsies
+may be required, the percentage of positive biopsies should
+increase, leading to a more cost-effective approach to core
+needle biopsy.
+SMM has also been used to assess tumor response to
+treatment. Mankoff and colleagues reported that 99mTc-MIBI
+imaging could accurately assess the response to neoadjuvant
+chemotherapy in patients with locally advanced breast
+carcinoma [27]. The assessment of response to treatment (5-
+fluorouracil, epirubicin and cyclophosphamide) was accurate
+only after completion of neoadjuvant chemotherapy. SMM
+was unable to predict the response after one cycle [28]. A
+positive 99mTc-MIBI scan was highly predictive of the
+presence of significant residual disease on completion of
+chemotherapy [29].  However, a negative 99mTc-MIBI scan
+could not rule out the presence of considerable residual
+tumor. Whereas ultrasound and clinical assessment
+underestimated the response to chemotherapy, 99mTc-MIBI
+imaging tended to overestimate the response [29].  High
+primary breast tumor 99mTc-MIBI uptake after neoadjuvant
+chemotherapy predicted poor survival, suggesting that serial
+99mTc-MIBI imaging could provide a useful quantitative
+surrogate endpoint for neoadjuvant chemotherapy [30].
+Finally, 99mTc-MIBI SMM was useful to determine P-glyco-
+protein and multidrug resistance-related protein expression in
+patients with breast cancers, and therefore could predict
+resistance to further chemotherapy [31].
+Locally recurrent breast cancer
+The detection of recurrent breast cancer by mammography is
+a challenging task because architectural changes, mainly
+fibrosis and scarring secondary to surgery and radiotherapy,
+cause difficulties in the interpretation of mammograms. In a
+prospective trial [32] performed in the year 2000 to assess
+the accuracy of 99mTc-MIBI SMM in women with suspected
+recurrent breast cancer in the breast and/or locoregional
+tissues, the sensitivity of SMM was 78% in detecting
+recurrent disease, compared with 42% for mammography. In
+addition, SMM identified 63% of axillary lymph nodes with
+recurrent tumor. SMM is believed to be more accurate than
+mammography in identifying recurrent disease in the breast
+and can identify locoregional recurrence outside the breast.
+PET imaging with 18F-FDG
+PET imaging can capitalize on the excessive utilization of
+glucose by malignant cells by measuring the uptake of 18F-
+FDG [33],  a derivative of glucose. 18F-FDG is transported
+across the cell membrane of malignant cells by the glucose 
+transporters Glut-1 and Glut-3 and then phosphorylated by
+hexokinase [34].  18F-FDG-6-phosphate is trapped in tumor
+cells in proportion to the utilization of glucose [35]. Hypoxia
+and inflammation contribute in part to the increased retention
+of 18F-FDG in tumor tissues [36-38].  Avril and colleagues
+found weak but significant correlations between 18F-FDG
+uptake and the histological subtype of breast cancers, tumor
+cell density, microscopic vascular invasion, the expression of
+Glut-1, the proliferation rate and the number of lymphocytes
+[39]. Crippa and colleagues noted that lobular carcinomas
+had a low avidity for 18F-FDG, and that 18F-FDG uptake had
+no correlation with the thymidine labeling index or the
+presence of hormone receptors [40].
+Primary breast cancer
+Many groups have studied the role of 18F-FDG-PET in the
+evaluation of suspicious breast lesions, with sensitivity values
+ranging between 80 and 90%,  and specificity values
+between 71 and 95% [41-47]. In a series of 117 patients
+with primary breast cancer, Schirrmeister and colleagues
+showed that PET was twice as sensitive as the combination
+of mammography and ultrasound in detecting multifocal
+tumor involvement of the breasts and could upstage the
+disease in some cases [48]. However, like SMM, 18F-FDG is
+limited by a lower sensitivity in detecting some breast tumors
+because of their small size, metabolic activity, histological
+subtype, microscopic tumor growth pattern and proliferation
+[39].  No correlation was demonstrated between primary
+tumor size, lymph node status, percentage of tumor cells,
+presence of inflammatory cells, histopathologic grade, steroid
+receptor status, expression of glucose receptors Glut-1 and
+the uptake of FDG by the primary tumor [39]. The value of
+18F-FDG-PET was compared with dynamic contrast-
+enhanced magnetic resonance imaging (MRI) in a small study
+with a limited number of subjects [49].  No significant
+differences could be demonstrated between PET and MRI.
+Although 18F-FDG-PET can be a useful adjunct to mammo-
+graphy in characterizing primary breast tumors, this technique
+is limited by a low sensitivity to detect small tumors and
+lobular carcinomas [39]. The lack of evidence to demonstrate
+clear advantages over other complementary techniques and
+the high cost of PET imaging has limited the use of this tool in
+the routine diagnosis of primary breast cancer.
+PEM has been introduced as a lower-cost, dedicated
+alternative to PET with a higher spatial resolution designed to
+detect small primary breast cancers. PEM typically uses two
+opposite coincident detector heads placed on each side of
+the breast. These positron detectors can be mounted on a
+mammographic gantry with or without a stereotactic biopsy
+unit to permit simultaneous or sequential analysis of the
+breast. The first clinical PEM case study was published in
+1996 and demonstrated visualization of primary breast
+cancer in vivo within an imaging time of 4min [50].  The
+original system had a spatial resolution of 2.8 mm full width at
+half maximum (FWHM), required a tumor:background ratio 155
+Page 4
+Breast Cancer Research July 2005 Vol 7 No 4 Bénard and Turcotte
+uptake of 6:1 to obtain an image of contrast 1.86:1, and was
+incapable of imaging lesions within 2cm of the chest wall
+because of limitations in the field of view [50]. In a study of
+14 patients [51] (10 malignant and 6 benign lesions) using a
+10% asymmetry of breast uptake or intense focal uptake as
+criteria of malignancy, PEM had a sensitivity of 80% and
+specificity of 100%. In a recent series [52] among 18 breast
+lesions (7 malignant and 11 benign),  using a threshold of
+greater than 2.5:1 lesion:background ratio, PEM showed a
+sensitivity of 86%, a specificity of 91%, and an accuracy of
+89%.  The only false negative originated from an invasive
+lobular carcinoma. Since 2000 PEM scanner technology has
+evolved rapidly, with larger fields of view (15cm× 20cm)
+[53] as well as improved spatial resolution and count
+sensitivity. In a study conducted with a new-generation PEM
+scanner and in which a majority of lesions measured 2.5cm
+and less, Rosen and colleagues reported a sensitivity of 86%
+[53]. Two false positives were identified in this study as fat
+necrosis. Two ductal adenocarcinomas and one ductal
+carcinoma in situ between 0.8 and 2.8cm were not
+visualized. PEM scanners recently reached a spatial
+resolution of 1.5mm FWHM [54].  This might improve the
+sensitivity of 18F-FDG in detecting very small breast cancers.
+However, low uptake of 18F-FDG by some breast cancers
+and abnormal uptake by some inflammatory lesions are
+unlikely to be resolved with this method. 
+Figure 2
+[18F]Fluorodeoxyglucose (18F-FDG) (a) and 16α-[18F]fluoro-17β-
+estradiol (18F-FES) (b) positron-emission tomography (PET) studies
+obtained in a patient with newly diagnosed metastatic recurrent breast
+cancer in the bones. The bone metastases are readily seen in both
+studies. Whereas 18F-FDG-PET images provide information about the
+metabolic activity of the metastases, 18F-FES images can demonstrate
+that the recurrent lesions still express high levels of estrogen
+receptors.
+Axillary metastases
+Many articles published between 1996 and 1997 suggested
+that 18F-FDG-PET could be accurate in detecting axillary nodal
+metastases, reaching sensitivity values in the range 79 to
+100% and specificity values ranging from 66 to 100% [44,55-
+57].  A large single-center study by Greco and colleagues,
+published in 2001, also suggested that PET was highly
+accurate in staging the axilla, with an overall accuracy of 90%
+[58]. Several recent studies have somewhat dampened the
+initial enthusiasm for using PET for this purpose: for example,
+studies by Fehr and colleagues [59] and Barranger and
+colleagues [60] conducted in clinically node-negative patients
+both found a sensitivity of only 20% for 18F-FDG-PET
+compared with sentinel-node biopsy. A recent prospective
+multicenter study conducted on 360 women with newly
+diagnosed invasive breast cancer reported values of 61%,
+80%, 62% and 79% for sensitivity, specificity and positive and
+negative predictive values, respectively [61].  18F-FDG-PET
+was less sensitive in detecting axillary metastases from lobular
+carcinoma (sensitivity 25%) than ductal carcinoma (sensitivity
+66%). PET was unable to detect axillary metastases in several
+cases with a limited number of small involved nodes. Lovrics
+and colleagues published a prospective study in 98 patients
+with clinical stage I or II breast cancer, and found a sensitivity
+of 40% with a specificity of 97% [62]. Given the impact of the
+axillary status on the decision to administer adjuvant
+chemotherapy, the current data suggest that the predictive
+accuracy of 18F-FDG-PET is insufficient to recommend this
+156 modality for routine use. 
+Recurrent and metastatic breast cancer
+With clinically suspected recurrences, in addition to a
+complete history and physical examination, the commonly
+used restaging tools are radionuclide bone scintigraphy and
+CT of the chest and abdomen, with MRI being used in
+selected cases for suspected neurological or bone
+involvement. The role of imaging studies in this setting is to
+confirm the recurrence and to assess whether the disease is
+localized or systemic (Fig. 2a).  The presence of visceral
+metastases is also associated with a poor prognosis, and this
+may influence the choice of therapy. Several retrospective
+studies published in recent years suggest that 18F-FDG-PET
+is an accurate imaging modality for detecting recurrent breast
+cancer [63-67].  Kamel and colleagues studied 60
+consecutive patients with suspected recurrent breast cancer.
+They found accuracies of 89% and 98% for the detection of
+local and metastatic recurrences, respectively [68].  In 57
+patients, Siggelkow found a sensitivity of 81% and a
+specificity of 98% for PET imaging [66].  Eubank and
+colleagues showed that PET was more accurate than CT in
+detecting involvement in mediastinal and internal mammary
+nodes [69]. 18FDG-PET may also be useful in distinguishing
+between radiation-induced and metastatic brachial
+plexopathy [70].
+Cook and colleagues compared 18F-FDG-PET imaging with
+bone scintigraphy to detect bone metastases in 23 patients
+[71].  They found on average nearly twice as many lesions
+Page 5
+Available online http://breast-cancer-research.com/contents/7/4/153
+with PET than with bone scintigraphy, and PET was more
+sensitive in detecting osteolytic lesions. However, several
+osteoblastic bone metastases depicted by bone scintigraphy
+were missed by PET imaging. In 48 patients with suspected
+bone metastases, Yang and colleagues concluded that 18F-
+FDG-PET was as sensitive as the bone scan but more
+specific for the detection of bone metastases [72].
+Assessment of response to therapy
+PET imaging has also been proposed as an alternative for the
+rapid assessment of tumor response to chemotherapy: a
+reduction in 18F-FDG uptake has been postulated to predict
+the eventual clinical or pathological response [73,74]. Wahl
+and colleagues studied 11 patients with locally advanced
+breast cancer, treated with hormone chemotherapy [73].
+They observed a significant decrease in 18F-FDG uptake in
+responders after one cycle of chemotherapy and no
+significant decrease in non-responders. Smith and colleagues
+studied 30 patients with large primary tumors or locally
+advanced disease treated with neoadjuvant chemotherapy.
+After one cycle of chemotherapy, a reduction of 18F-FDG had
+a high sensitivity for the prediction of a complete pathologic
+response [75]. Similar results were reported by Schelling and
+colleagues after the first and second courses of
+chemotherapy in 22 patients [76].  Mankoff studied tumor
+blood flow and glucose metabolism by PET to assess
+whether these parameters are predictive of the response to
+chemotherapy in locally advanced breast cancer [77]. They
+found that tumors with high 18F-FDG uptake had a poorer
+response to chemotherapy. Patients with a low uptake rate of
+FDG associated with increased blood flow in their tumors
+were more likely to experience a complete response.
+18F-FDG-PET has also been evaluated as a tool with which to
+monitor the response of breast cancer bone metastases to
+therapy. Preliminary results by Stafford and colleagues
+showed a correlation of changes in FDG uptake after therapy
+with the overall clinical assessment [78].  Results also
+showed a strong correlation between the change in FDG
+uptake by bone metastases and the percentage of change in
+tumor marker CA 27.29.
+Imaging estrogen receptor expression
+A few groups have developed radiopharmaceuticals for the
+assessment of ERs, including radio-iodinated ligands for
+scintigraphy, and fluorinated ligands for PET imaging [79].
+Ribeiro-Barras and colleagues demonstrated that 17α-
+[123I]iodovinyl-11β-methoxyestradiol (MIVE) scintigraphy
+could be used in patients to assess the presence of the
+estrogen receptor (ER) in primary and metastatic breast
+cancers [80]. Using a more selective stereoisomer, Nachar
+and colleagues showed that the uptake of MIVE on
+scintigraphy correlated well with in vitro results of ER
+concentration [81]. Bennink and colleagues, in a study with
+23 subjects, showed that patients with high initial uptake of
+MIVE and complete blockage of MIVE incorporation after 
+initiation of treatment with tamoxifen had a significantly longer
+progression-free interval than those with low uptake of the
+tracer and partial or incomplete blockage under therapy [82].
+A series of several radiofluorinated estrogen ligands were
+developed by Katzenellenbogen and Welch in St Louis; their
+most promising compound was 18F-FES (see Fig. 2b). 18F-
+FES had a high affinity for the ER and a good chemical
+stability in vivo [83,84]. Mintun and colleagues showed that
+18F-FES uptake could detect ER-positive breast tumors [85],
+and could assess ER expression in nodal and distant
+metastases [86].  Dehdashti and colleagues confirmed the
+excellent correspondence (88%)  between ER status
+determined by 18F-FES-PET imaging and in vitro results from
+biopsy samples [87]. Because 18F-FES is rapidly metabolized
+in the blood, other analogs have been synthesized with
+fluorine substituents at the 2 and 4 ring positions to resist
+metabolic inactivation, and with a methoxy group at position
+11 to reduce non-specific binding [88,89].  Derivatives of
+fulvestrant (Faslodex®; AstraZeneca) have also been labeled
+to assess the potential response of breast cancers to this
+pure anti-estrogen [90], but in vivo results were disappointing
+[91].
+Because the ER status of primary breast tumors is almost
+always known from a histopathology specimen, 18F-FES and
+other ER-binding analogs add little to the initial diagnosis of
+breast cancer. The key potential role of these ligands is to
+assess recurrent breast cancer in women with a history of an
+ER-positive primary tumor. ER imaging with PET can confirm
+the ER positivity of sites that are inaccessible to biopsy and
+can demonstrate in vivo the heterogeneity of ER expression.
+Clinical trials are under way to assess whether ER imaging
+with PET can predict the outcome of first-line or second -line
+hormone therapy in women with recurrent breast cancer.
+Mortimer and colleagues reported a study with combined 18F-
+FDG and 18F-FES imaging for the evaluation of therapy
+response to tamoxifen in 40 women with breast cancer [92].
+A successful response to tamoxifen was associated with ER
+blockage and a metabolic ‘flare’ response (increased 18F-
+FDG uptake) 7 to 10 days after the initiation of tamoxifen.
+Radiolabeled nucleosides and amino acids
+[18F]Fluorothymidine
+18F-FLT has been proposed by Shields and colleagues to
+image tumor proliferation in vivo by PET [11]. Although 18F-
+FLT is not directly incorporated into DNA and rather reflects
+thymidine kinase-1 activity, the uptake of this radiotracer has
+been shown to correlate well with the percentage of cells in S
+phase [93]. Vesselle and colleagues recently reported that, in
+10 patients with non small cell lung cancer, 18F-FLT activity
+correlated well with Ki-67 staining by immunohistochemistry,
+which reflects proliferative activity [94]. Thus, 18F-FLT seems
+to be a promising agent for measuring cellular proliferation
+and for the early assessment of therapy effectiveness. In a
+clinical study [95] evaluating the use of 18F-FLT as a PET 157
+Page 6
+Breast Cancer Research July 2005 Vol 7 No 4 Bénard and Turcotte
+tracer for the diagnosis of breast cancer (12 patients: T2 to
+T4) in comparison with 18F-FDG, 93% of primary tumors
+demonstrated focally increased 18F-FLT uptake and 88% with
+histologically proven axillary lymph node metastases showed
+focally increased uptake of 18F-FLT. In direct comparison with
+18F-FDG, the 18F-FLT activity was lower than that of 18F-FDG
+in most primary tumor sites and axillary lymph node
+metastases, but tumor contrast was comparable to that of
+18F-FDG. This first available study using 18F-FLT as a PET
+tracer in breast cancer concluded that 18F-FLT-PET seems to
+be suitable for the diagnosis of primary breast cancer and
+locoregional metastases, but further studies are required to
+validate this hypothesis.
+Radiolabeled amino acids
+Various radiolabeled amino acids were developed for breast
+cancer detection with PET. However, few studies compared
+these radiopharmaceuticals with other diagnostic methods.
+Those radiolabeled amino acids studied in breast cancer
+include L-[18F]α-methyltyrosine [96], [11C]methionine [96,97],
+[18F]fluoroalanine [98] and [11C]tyrosine [99]. During chemo-
+therapy courses, the uptake of [11C]methionine from meta-
+stases decreased in cases of stable or responsive disease
+and increased in cases of progressive disease [97]. This led
+the authors to conclude that metabolic changes in radio-
+labeled amino acid incorporation measured by PET preceded
+the clinical response. Studies of the distribution of
+[18F]fluoroalanine in tissue showed that the tumor:tissue ratio
+increased as a function of time, suggesting that this tracer
+could be of interest in detecting breast cancer [98].
+[11C]Tyrosine seemed to visualize malignant breast tumors as
+effectively as 18F-FDG, but the visual contrast was better with
+18F-FDG. [11C]Tyrosine had a lower uptake in fibrocystic
+disease than 18F-FDG, which could reduce false-positive
+studies. No difference in the tumor : non-tumor ratio was
+found between the two tracers [99].
+Other receptors as targets for diagnostic
+imaging
+Sigma receptors
+Sigma receptors (σ)  constitute a family of binding sites
+initially considered as a subtype of opiate receptors, and both
+subtypes (σ
+1 
+and σ
+2
+) are expressed in very high concen-
+trations on human breast cancer cell lines [100]. John and
+colleagues observed high levels of σ
+1 
+and σ
+2 
+receptors on
+primary breast tumors from four patients [101].  Healthy
+breast tissues did not express specific binding for σ receptor
+ligands. With a monoclonal antibody directed to the σ
+1
+receptor, Simony-Lafontaine and colleagues showed, on
+tumor specimens from 95 breast cancer patients, a positive
+correlation between progesterone receptor positivity and the
+presence of σ
+1 
+receptors [102].
+John and colleagues initiated the first studies to assess σ
+ligands for the diagnostic imaging of cancer. They developed
+158 several ligands labeled with radioactive iodine for the 
+detection of breast cancer [103-105].  Caveliers and
+colleagues recently published the first clinical imaging study
+evaluating a non-selective σ ligand labeled with iodine-123 in
+patients with breast cancer [106]. Their preliminary results,
+obtained in 10 patients in planar mode, showed the detection
+of 8 of 10 breast cancers, despite the limited spatial
+resolution of planar imaging. No radiotracer uptake was noted
+in fibrocystic disease or inflammatory adenitis, which can
+cause false positive results on 18F-FDG-PET studies. Collier
+and colleagues synthesized a highly selective σ
+1 
+ligand
+labeled with fluorine-18 for PET imaging of σ receptors [107].
+Preliminary results for the detection of spontaneous breast
+tumors occurring in transgenic MMTV mice were promising
+with 1-(3-[18F]fluoropropyl)-4-(4-cyanophenoxymethyl)-piperidine
+[108]. Shiue and colleagues reported promising results for
+imaging human breast tumors implanted in SCID mice with
+N(N-benzylpiperidine-4-yl)2-[18F]fluorobenzamide [109,110].
+Other molecular targets
+Several other ligands are being evaluated for the molecular
+characterization of breast cancer: among many others, these
+include ligands for assessing the HER2/neu status of breast
+cancers [111],  radiolabeled metalloproteinase inhibitors to
+measure invasion capacity [112] and labeled peptides to
+detect cell surface receptors that are overexpressed in breast
+cancer cells [113]. The key advantage of PET and SPECT
+over other imaging methods lies in their ability to measure
+nanomolar concentrations of cellular receptors or enzymes
+without saturating the system under study. This allows
+radiochemists to follow new developments in molecular
+therapeutics with radiolabeled analogs of potentially
+therapeutic compounds to provide non-invasive in vivo
+characterization of breast cancers. Given the highly variable
+clinical evolution of this disease, such information may
+eventually serve to individualize the therapeutic approach by
+providing functional information about the status of a specific
+receptor or enzyme across tumor sites.
+Conclusion
+Planar scintigraphy, SPECT and PET can each be useful as
+adjunct imaging methods for detecting and staging primary
+breast cancer, but they cannot currently replace invasive
+procedures because of an insufficient sensitivity to detect
+small (less than 1cm) tumor deposits. SMM is a useful tool
+for assessing palpable breast masses in women with dense
+breasts and for evaluating a suspected recurrence in a
+treated breast when mammography is equivocal or negative.
+18F-FDG-PET imaging can confirm and restage suspected
+recurrences, and can provide an early assessment of the
+effectiveness of a new treatment regimen. Other tracers, such
+as radiolabeled estrogens, amino acids and nucleosides, may
+be more specific than 18F-FDG; further clinical studies will be
+of interest for the assessment of their potential roles in the
+detection of primary breast cancer and the prediction or
+evaluation of response to therapy. As new molecular targets
+are identified and new radioligands synthesized for SPECT
+Page 7
+Available online http://breast-cancer-research.com/contents/7/4/153
+This article is part of a review series on Imaging in breast
+cancer, edited by David A Mankoff.
+Other articles in the series can be found online at
+http://breast-cancer-research.com/articles/
+review-series.asp?series=bcr_imaging
+and PET imaging, this field is likely to expand with selective
+ligands targeting proteins that are overexpressed in breast
+cancer cells. The challenge will be to follow these
+developments with well-designed clinical studies to evaluate
+their relative usefulness with respect to other invasive
+procedures and non-invasive imaging modalities.
+Competing interests
+The author(s) declare that they have no competing interests.
+Authors’ contributions
+Both authors participated equally in the draft of the
+manuscript, and read and approved the submitted version.
+References
+1. Buist DS, Porter PL, Lehman C, Taplin SH, White E: Factors con-
+tributing to mammography failure in women aged 40–49
+years. J Natl Cancer Inst 2004, 96:1432-1440.
+2. Viale G, Bosari S, Mazzarol G, Galimberti V, Luini A, Veronesi P,
+Paganelli G, Bedoni M, Orvieto E: Intraoperative examination of
+axillary sentinel lymph nodes in breast carcinoma patients.
+Cancer 1999, 85:2433-2438.
+3. Altinyollar H, Kapucuoglu N, Pak I, Berberoglu U: Lymphatic
+mapping and sentinel lymphadenectomy in early stage breast
+carcinoma. J Exp Clin Cancer Res 2000, 19:141-144.
+4. Weaver DL, Krag DN, Ashikaga T, Harlow SP, O’Connell M:
+Pathologic analysis of sentinel and nonsentinel lymph nodes
+in breast carcinoma: a multicenter study. Cancer 2000, 88:
+1099-1107.
+5. Hsieh PP, Ho WL, Yeh DC, Liu TJ, Wu CC, Lin JH, Wang SJ:
+Histopathologic analysis of sentinel lymph nodes in breast
+carcinoma. Chung Hua I Hsueh Tsa Chih (Taipei) 2000, 63:
+744-750.
+6. Canadian Cancer Statistics 2005 [http://www.cancer.ca]
+7. Fisher B, Osborne K, Margolese R, Bloomer W: Neoplasms of
+the breast. In Cancer Medicine.  Vol. 1. 4th edition. Edited by
+Holland J, Blast R, Morton D, Frei E, Kuge D, Weichselbaum R.
+Baltimore: Williams & Wilkins; 1997:2349-2429.
+8. Jardines L, Callans LS, Torosian MH: Recurrent breast cancer:
+presentation, diagnosis, and treatment. Semin Oncol 1993, 20:
+538-547.
+9. Peters W: Management of metastatic breast cancer. Adv Intern
+Med 1995, 40:341-364.
+10. Hustinx R, Benard F, Alavi A: Whole-body FDG-PET imaging in
+the management of patients with cancer. Semin Nucl Med
+2002, 32:35-46.
+11. Shields AF, Grierson JR, Dohmen BM, Machulla HJ, Stayanoff JC,
+Lawhorn-Crews JM, Obradovich JE, Muzik O, Mangner TJ:
+Imaging proliferation in vivo with [F-18]FLT and positron
+emission tomography. Nat Med 1998, 4:1334-1336.
+12. Kieswetter D, Kilbourn M, Landvatter S, Heiman D, Katzenellenbo-
+gen J, Welch M: Preparation of four fluorine-18-labeled estro-
+gens and their selective uptake in target tissues of immature
+rats. J Nucl Med 1984, 25:1212-1221.
+13. Liberman M, Sampalis F, Mulder DS, Sampalis JS: Breast cancer
+diagnosis by scintimammography: a meta-analysis and review
+of the literature. Breast Cancer Res Treat 2003, 80:115-126.
+14. Bender H, Friedrich E, Zamora PO, Guhlke S, Biersack HJ:
+Effects of induction of multi-drug resistance on accumulation
+of 99mTc-sestamibi in vitro. Anticancer Res 1997, 17:1833-
+1839. 
+15. Chiu ML, Kronauge JF, Piwnica-Worms D: Effect of mitochondr-
+ial and plasma membrane potentials on accumulation of
+hexakis (2-methoxyisobutylisonitrile) technetium(I) in cul-
+tured mouse fibroblasts. J Nucl Med 1990, 31:1646-1653.
+16. Maublant JC, Zhang Z, Rapp M, Ollier M, Michelot J, Veyre A: In
+vitro uptake of technetium-99m-teboroxime in carcinoma cell
+lines and normal cells: comparison with technetium-99m-ses-
+tamibi and thallium-201. J Nucl Med 1993, 34:1949-1952.
+17. Piwnica-Worms D, Chiu ML, Croop JM, Kronauge JF: Enhance-
+ment of Tc-99m-sestamibi accumulation in multidrug resis-
+tant (MDR) cells by cytotoxic drugs and MDR reversing
+agents. J Nucl Med 1993, 34:140P.
+18. Palmedo H, Bender H, Grunwald F, Mallmann P, Zamora P, Krebs
+D, Biersack HJ: Comparison of fluorine-18 fluorodeoxyglucose
+positron emission tomography and technetium-99m
+methoxyisobutylisonitrile scintimammography in the detec-
+tion of breast tumours. Eur J Nucl Med 1997, 24:1138-1145.
+19. Yutani K, Shiba E, Kusuoka H, Tatsumi M, Uehara T, Taguchi T,
+Takai SI, Nishimura T: Comparison of FDG-PET with MIBI-
+SPECT in the detection of breast cancer and axillary lymph
+node metastasis. J Comput Assist Tomogr 2000, 24:274-280.
+20. Danielsson R, Bone B, Perbeck L, Aspelin P: Evaluation of
+planar scintimammography with 99mTc-MIBI in the detection
+of axillary lymph node metastases of breast carcinoma. Acta
+Radiol 1999, 40:491-495.
+21. Taillefer R, Robidoux A, Turpin S, Lambert R, Cantin J, Leveille J:
+Metastatic axillary lymph node technetium-99m-MIBI imaging
+in primary breast cancer. J Nucl Med 1998, 39:459-464.
+22. Schillaci O, Scopinaro F, Danieli R, Tavolaro R, Picardi V, Cannas
+P, Colella AC: 99mTc-sestamibi scintimammography in patients
+with suspicious breast lesions: comparison of SPET and
+planar images in the detection of primary tumours and axillary
+lymph node involvement. Nucl Med Commun 1997, 18:839-
+845.
+23. Cwikla JB, Buscombe JR, Kolasinska AD, Holloway B, Hilson AJ:
+Evaluation of scintimammography as an additional test to
+conventional mammography in detection of breast cancer [in
+Polish]. Ginekol Pol 2003, 74:362-370.
+24. Fondrinier E, Muratet JP, Anglade E, Fauvet R, Berger V, Lorimier
+G, Jallet P: Clinical experience with 99mTc-MIBI scintimam-
+mography in patients with breast microcalcifications. Breast
+2004, 13:316-320.
+25. Palmedo H, Biersack HJ, Lastoria S, Maublant J, Prats E, Stegner
+HE, Bourgeois P, Hustinx R, Hilson AJ, Bischof-Delaloye A: Scin-
+timammography with technetium-99m methoxyisobutylisoni-
+trile: results of a prospective European multicentre trial. Eur J
+Nucl Med 1998, 25:375-385.
+26. Tiling R, Linke R, Kessler M, Untch M, Sommer H, Brinkbaumer K,
+Becker I, Hahn K: Breast scintigraphy using 99mTc-sestamibi –
+use and limitations [in German]. Nuklearmedizin 2002, 41:148-
+156.
+27. Mankoff DA, Dunnwald LK, Gralow JR, Ellis GK, Drucker MJ, Liv-
+ingston RB: Monitoring the response of patients with locally
+advanced breast carcinoma to neoadjuvant chemotherapy
+using [technetium 99m]-sestamibi scintimammography.
+Cancer 1999, 85:2410-2423.
+28. Wilczek B, von Schoultz E, Bergh J, Eriksson E, Larsson SA,
+Jacobsson H: Early assessment of neoadjuvant chemotherapy
+by FEC-courses of locally advanced breast cancer using
+99mTc-MIBI. Acta Radiol 2003, 44:284-287.
+29. Marshall C, Eremin J, El-Sheemy M, Eremin O, Griffiths PA: Moni-
+toring the response of large (>3 cm) and locally advanced (T3-
+4, N0-2) breast cancer to neoadjuvant chemotherapy using
+99mTc-Sestamibi uptake. Nucl Med Commun 2005, 26:9-15.
+30. Dunnwald LK, Gralow JR, Ellis GK, Livingston RB, Linden HM,
+Lawton TJ, Barlow WE, Schubert EK, Mankoff DA: Residual
+tumor uptake of [99mTc]-sestamibi after neoadjuvant
+chemotherapy for locally advanced breast carcinoma predicts
+survival. Cancer 2005, 103:680-688.
+31. Kao CH, Tsai SC, Liu TJ, Ho YJ, Wang JJ, Ho ST, ChangLai SP:
+P-glycoprotein and multidrug resistance-related protein
+expressions in relation to technetium-99m methoxy-
+isobutylisonitrile scintimammography findings. Cancer Res
+2001, 61:1412-1414.
+32. Cwikla JB, Kolasinska A, Buscombe JR, Hilson AJ: Tc-99m MIBI
+in suspected recurrent breast cancer. Cancer Biother Radio-
+pharm 2000, 15:367-372.  159
+Page 8
+Breast Cancer Research July 2005 Vol 7 No 4 Bénard and Turcotte
+33. Gallagher BM, Fowler JS, Gutterson NI, MacGregor RR, Wan CN,
+Wolf AP: Metabolic trapping as a principle of radiopharmaceu-
+tical design: some factors responsible for the biodistribution
+of [18F]deoxyglucose. J Nucl Med 1978, 19:1154-1161.
+34. Phelps ME, Huang SC, Hoffman EJ, Selin C, Sokoloff L, Kuhl DE:
+Tomographic measurement of local cerebral glucose meta-
+bolic rate in humans with (F-18)2-fluoro-2-deoxy-D-glucose:
+validation of method. Ann Neurol 1979, 6:371-388.
+35. Wahl RL, Hutchins GD, Buchsbaum DJ, Liebert M, Grossman HB,
+Fisher S: 18F-2-deoxy-2-fluoro-D-glucose uptake into human
+tumor xenografts. Feasibility studies for cancer imaging with
+positron-emission tomography. Cancer 1991, 67:1544-1550.
+36. Brown RS, Leung JY, Fisher SJ, Frey KA, Ethier SP, Wahl RL:
+Intratumoral distribution of tritiated fluorodeoxyglucose in
+breast carcinoma: I. Are inflammatory cells important? J Nucl
+Med 1995, 36:1854-1861.
+37. Clavo AC, Brown RS, Wahl RL: Fluorodeoxyglucose uptake in
+human cancer cell lines is increased by hypoxia. J Nucl Med
+1995, 36:1625-1632.
+38. Higashi K, Clavo AC, Wahl RL: Does FDG uptake measure pro-
+liferative activity of human cancer cells? In vitro comparison
+with DNA flow cytometry and tritiated thymidine uptake. J
+Nucl Med 1993, 34:414-419.
+39. Avril N, Menzel M, Dose J, Schelling M, Weber W, Janicke F,
+Nathrath W, Schwaiger M: Glucose metabolism of breast
+cancer assessed by 18F-FDG PET: histologic and immunohis-
+tochemical tissue analysis. J Nucl Med 2001, 42:9-16.
+40. Crippa F, Seregni E, Agresti R, Chiesa C, Pascali C, Bogni A,
+Decise D, De Sanctis V, Greco M, Daidone MG, et al.: Associa-
+tion between [18F]fluorodeoxyglucose uptake and postopera-
+tive histopathology, hormone receptor status, thymidine
+labelling index and p53 in primary breast cancer: a preliminary
+observation. Eur J Nucl Med 1998, 25:1429-1434.
+41. Adler LP, Crowe JP, al-Kaisi NK, Sunshine JL: Evaluation of
+breast masses and axillary lymph nodes with [F-18] 2-deoxy-
+2-fluoro-D-glucose PET. Radiology 1993, 187:743-750.
+42. Crowe JP Jr, Adler LP, Shenk RR, Sunshine J: Positron emission
+tomography and breast masses: comparison with clinical,
+mammographic, and pathological findings. Ann Surg Oncol
+1994, 1:132-140.
+43. Nieweg OE, Kim EE, Wong WH, Broussard WF, Singletary SE,
+Hortobagyi GN, Tilbury RS: Positron emission tomography with
+fluorine-18-deoxyglucose in the detection and staging of
+breast cancer. Cancer 1993, 71:3920-3925.
+44. Scheidhauer K, Scharl A, Pietrzyk U, Wagner R, Gohring UJ,
+Schomacker K, Schicha H: Qualitative [18F]FDG positron emis-
+sion tomography in primary breast cancer: clinical relevance
+and practicability. Eur J Nucl Med 1996, 23:618-623.
+45. Tse NY, Hoh CK, Hawkins RA, Zinner MJ, Dahlbom M, Choi Y,
+Maddahi J, Brunicardi FC, Phelps ME, Glaspy JA: The application
+of positron emission tomographic imaging with fluoro-
+deoxyglucose to the evaluation of breast disease. Ann Surg
+1992, 216:27-34.
+46. Wahl RL, Cody RL, Hutchins GD, Mudgett EE: Primary and
+metastatic breast carcinoma: initial clinical evaluation with
+PET with the radiolabeled glucose analogue 2-[F-18]-fluoro-
+2-deoxy-D-glucose. Radiology 1991, 179:765-770.
+47. Avril N, Rose CA, Schelling M, Dose J, Kuhn W, Bense S, Weber
+W, Ziegler S, Graeff H, Schwaiger M: Breast imaging with
+positron emission tomography and fluorine-18 fluoro-
+deoxyglucose: use and limitations. J Clin Oncol 2000, 18:-
+3495-3502.
+48. Schirrmeister H, Kuhn T, Guhlmann A, Santjohanser C, Horster T,
+Nussle K, Koretz K, Glatting G, Rieber A, Kreienberg R, et al.: Flu-
+orine-18 2-deoxy-2-fluoro-D-glucose PET in the preoperative
+staging of breast cancer: comparison with the standard
+staging procedures. Eur J Nucl Med 2001, 28:351-358.
+49. Brix G, Henze M, Knopp MV, Lucht R, Doll J, Junkermann H,
+Hawighorst H, Haberkorn U: Comparison of pharmacokinetic
+MRI and [18F] fluorodeoxyglucose PET in the diagnosis of
+breast cancer: initial experience. Eur Radiol 2001, 11:2058-
+2070.
+50. Weinberg I, Majewski S, Weisenberger A, Markowitz A, Aloj L,
+Majewski L, Danforth D, Mulshine J, Cowan K, Zujewski J, et al.:
+Preliminary results for positron emission mammography:
+real-time functional breast imaging in a conventional mam-
+160  mography gantry. Eur J Nucl Med 1996, 23:804-806. 
+51. Murthy K, Aznar M, Thompson CJ, Loutfi A, Lisbona R, Gagnon
+JH: Results of preliminary clinical trials of the positron emis-
+sion mammography system PEM-I: a dedicated breast
+imaging system producing glucose metabolic images using
+FDG. J Nucl Med 2000, 41:1851-1858.
+52. Levine EA, Freimanis RI, Perrier ND, Morton K, Lesko NM,
+Bergman S, Geisinger KR, Williams RC, Sharpe C, Zavarzin V, et
+al.: Positron emission mammography: initial clinical results.
+Ann Surg Oncol 2003, 10:86-91.
+53. Rosen EL, Turkington TG, Soo MS, Baker JA, Coleman RE:
+Detection of primary breast carcinoma with a dedicated,
+large-field-of-view FDG PET mammography device: initial
+experience. Radiology 2005, 234:527-534.
+54. Weinberg IN, Beylin D, Zavarzin V, Yarnall S, Stepanov PY,
+Anashkin E, Narayanan D, Dolinsky S, Lauckner K, Adler LP:
+Positron emission mammography: high-resolution biochemi-
+cal breast imaging. Technol Cancer Res Treat 2005, 4:55-60.
+55. Adler LP, Faulhaber PF, Schnur KC, Al-Kasi NL, Shenk RR: Axil-
+lary lymph node metastases: screening with [F-18]2-deoxy-2-
+fluoro-D-glucose (FDG) PET. Radiology 1997, 203:323-327.
+56. Avril N, Dose J, Janicke F, Bense S, Ziegler S, Laubenbacher C,
+Romer W, Pache H, Herz M, Allgayer B, et al.: Metabolic charac-
+terization of breast tumors with positron emission tomogra-
+phy using F-18 fluorodeoxyglucose. J Clin Oncol 1996, 14:
+1848-1857.
+57. Utech CI, Young CS, Winter PF: Prospective evaluation of fluo-
+rine-18 fluorodeoxyclucose positron emission tomography in
+breast cancer for staging of the axilla related to surgery and
+immunocytochemistry. Eur J Nucl Med 1996, 23:1588-1593.
+58. Greco M, Crippa F, Agresti R, Seregni E, Gerali A, Giovanazzi R,
+Micheli A, Asero S, Ferraris C, Gennaro M, et al.: Axillary lymph
+node staging in breast cancer by 2-fluoro-2-deoxy-D-glucose-
+positron emission tomography: clinical evaluation and alter-
+native management. J Natl Cancer Inst 2001, 93:630-635.
+59. Fehr MK, Hornung R, Varga Z, Burger D, Hess T, Haller U, Fink D,
+von Schulthess GK, Steinert HC: Axillary staging using positron
+emission tomography in breast cancer patients qualifying for
+sentinel lymph node biopsy. Breast J 2004, 10:89-93.
+60. Barranger E, Grahek D, Antoine M, Montravers F, Talbot JN, Uzan
+S: Evaluation of fluorodeoxyglucose positron emission
+tomography in the detection of axillary lymph node metas-
+tases in patients with early-stage breast cancer. Ann Surg
+Oncol 2003, 10:622-627.
+61. Wahl RL, Siegel BA, Coleman RE, Gatsonis CG, Group PETS:
+Prospective multicenter study of axillary nodal staging by
+positron emission tomography in breast cancer: a report of
+the staging breast cancer with PET Study Group. J Clin Oncol
+2004, 22:277-285.
+62. Lovrics PJ, Chen V, Coates G, Cornacchi SD, Goldsmith CH, Law
+C, Levine MN, Sanders K, Tandan VR: A prospective evaluation
+of positron emission tomography scanning, sentinel lymph
+node biopsy, and standard axillary dissection for axillary
+staging in patients with early stage breast cancer. Ann Surg
+Oncol 2004, 11:846-853.
+63. Bender H, Kirst J, Palmedo H, Schomburg A, Wagner U,
+Ruhlmann J, Biersack HJ: Value of 18fluoro-deoxyglucose
+positron emission tomography in the staging of recurrent
+breast carcinoma. Anticancer Res 1997, 17:1687-1692.
+64. Kim TS, Moon WK, Lee DS, Chung JK, Lee MC, Youn YK, Oh SK,
+Choe KJ, Noh DY: Fluorodeoxyglucose positron emission
+tomography for detection of recurrent or metastatic breast
+cancer. World J Surg 2001, 25:829-834.
+65. Moon D, Hoh C, Silverman D, Glaspy J, Phelps M, Maddahi J:
+Accuracy of whole-body FDG PET for the detection of recur-
+rent or metastatic breast carcinoma [abstract].  J Nucl Med
+1996, 37:99P.
+66. Siggelkow W, Zimny M, Faridi A, Petzold K, Buell U, Rath W: The
+value of positron emission tomography in the follow-up for
+breast cancer. Anticancer Res 2003, 23:1859-1867.
+67. Suarez M, Perez-Castejon MJ, Jimenez A, Domper M, Ruiz G,
+Montz R, Carreras JL: Early diagnosis of recurrent breast
+cancer with FDG-PET in patients with progressive elevation of
+serum tumor markers. Q J Nucl Med 2002, 46:113-121.
+68. Kamel EM, Wyss MT, Fehr MK, von Schulthess GK, Goerres GW:
+[18F]-Fluorodeoxyglucose positron emission tomography in
+patients with suspected recurrence of breast cancer. J Cancer
+Res Clin Oncol 2003, 129:147-153.
+Page 9
+Available online http://breast-cancer-research.com/contents/7/4/153
+69. Eubank WB, Mankoff DA, Takasugi J, Vesselle H, Eary JF, Shanley
+TJ, Gralow JR, Charlop A, Ellis GK, Lindsley KL, et al.: 18Fluo-
+rodeoxyglucose positron emission tomography to detect
+mediastinal or internal mammary metastases in breast
+cancer. J Clin Oncol 2001, 19:3516-3523.
+70. Ahmad A, Barrington S, Maisey M, Rubens RD: Use of positron
+emission tomography in evaluation of brachial plexopathy in
+breast cancer patients. Br J Cancer 1999, 79:478-482.
+71. Cook GJ, Houston S, Rubens R, Maisey MN, Fogelman I: Detec-
+tion of bone metastases in breast cancer by 18FDG PET: dif-
+fering metabolic activity in osteoblastic and osteolytic lesions.
+J Clin Oncol 1998, 16:3375-3379.
+72. Yang SN, Liang JA, Lin FJ, Kao CH, Lin CC, Lee CC: Comparing
+whole body 18F-2-deoxyglucose positron emission tomogra-
+phy and technetium-99m methylene diphosphonate bone
+scan to detect bone metastases in patients with breast
+cancer. J Cancer Res Clin Oncol 2002, 128:325-328.
+73. Wahl RL, Zasadny K, Helvie M, Hutchins GD, Weber B, Cody R:
+Metabolic monitoring of breast cancer chemohormonother-
+apy using positron emission tomography: initial evaluation. J
+Clin Oncol 1993, 11:2101-2111.
+74. Jansson T, Westlin JE, Ahlstrom H, Lilja A, Langstrom B, Bergh J:
+Positron emission tomography studies in patients with locally
+advanced and/or metastatic breast cancer: a method for early
+therapy evaluation? J Clin Oncol 1995, 13:1470-1477.
+75. Smith IC, Welch AE, Hutcheon AW, Miller ID, Payne S, Chilcott F,
+Waikar S, Whitaker T, Ah-See AK, Eremin O, et al.: Positron
+emission tomography using [18F]-fluorodeoxy-D-glucose to
+predict the pathologic response of breast cancer to primary
+chemotherapy. J Clin Oncol 2000, 18:1676-1688.
+76. Schelling M, Avril N, Nahrig J, Kuhn W, Romer W, Sattler D,
+Werner M, Dose J, Janicke F, Graeff H, et al.: Positron emission
+tomography using [18F]fluorodeoxyglucose for monitoring
+primary chemotherapy in breast cancer. J Clin Oncol 2000, 18:
+1689-1695.
+77. Mankoff DA, Dunnwald LK, Gralow JR, Ellis GK, Charlop A,
+Lawton TJ, Schubert EK, Tseng J, Livingston RB: Blood flow and
+metabolism in locally advanced breast cancer: relationship to
+response to therapy. J Nucl Med 2002, 43:500-509.
+78. Stafford SE, Gralow JR, Schubert EK, Rinn KJ, Dunnwald LK, Liv-
+ingston RB, Mankoff DA: Use of serial FDG PET to measure the
+response of bone-dominant breast cancer to therapy. Acad
+Radiol 2002, 9:913-921.
+79. Van de Wiele C, De Vos F, Slegers G, Van Belle S, Dierckx RA:
+Radiolabeled estradiol derivatives to predict response to hor-
+monal treatment in breast cancer: a review. Eur J Nucl Med
+2000, 27:1421-1433.
+80. Ribeiro-Barras MJ, Foulon C, Baulieu JL, Guilloteau D, Bougnoux
+P, Lansac J, Besnard JC: Estrogen receptor imaging with 17
+alpha-[123I]iodovinyl-11 beta-methoxyestradiol (MIVE2)—Part
+II. Preliminary results in patients with breast carcinoma. Int J
+Radiat Applic Instrum B Nucl Med Biol 1992, 19:263-267.
+81. Nachar O, Rousseau JA, Ouellet R, Rioux A, Lefebvre B, Ali H, van Lier
+JE: Scintimammography with 11beta-methoxy-(17alpha,20Z)-
+[123I]iodovinylestradiol: a complementary role to 99mTc-
+methoxyisobutyl isonitrile in the characterization of breast
+tumors. J Nucl Med 2000, 41:1324-1331.
+82. Bennink RJ, van Tienhoven G, Rijks LJ, Noorduyn AL, Janssen AG,
+Sloof GW: In vivo prediction of response to antiestrogen
+treatment in estrogen receptor-positive breast cancer. J Nucl
+Med 2004, 45:1-7.
+83. Kieswetter D, Katzenellenbogen J, Kilbourn M, Welch M: Fluo-
+rine-18 labeled estrogen: stereochemical and radiochemical
+considerations in the preparation of fluorine-18 labeled 16-
+fluoro estrogens by fluoride ion displacement reactions. J Org
+Chem 1984, 49:4900-4905.
+84. Tewson T: Synthesis of 16-alpha-fluoroestradiol (abstract).  J
+Nucl Med 1983, 24:P52.
+85. Mintun MA, Welch MJ, Siegel BA, Mathias CJ, Brodack JW,
+McGuire AH, Katzenellenbogen JA: Breast cancer: PET imaging
+of estrogen receptors. Radiology 1988, 169:45-48.
+86. McGuire AH, Dehdashti F, Siegel BA, Lyss AP, Brodack JW,
+Mathias CJ, Mintun MA, Katzenellenbogen JA, Welch MJ:
+Positron tomographic assessment of 16 alpha-[18F] fluoro-17
+beta-estradiol uptake in metastatic breast carcinoma. J Nucl
+Med 1991, 32:1526-1531.
+87. Dehdashti F, Mortimer JE, Siegel BA, Griffeth LK, Bonasera TJ, 
+Fusselman MJ, Detert DD, Cutler PD, Katzenellenbogen JA,
+Welch MJ: Positron tomographic assessment of estrogen
+receptors in breast cancer: comparison with FDG-PET and in
+vitro receptor assays. J Nucl Med 1995, 36:1766-1774.
+88. Seimbille Y, Rousseau J, Bénard F, Ali H, van Lier JE: Synthesis
+of 2,16alpha- and 4,16alpha-[16alpha-18F]difluoroestradiols
+and their 11beta-methoxy derivatives for estrogen receptor
+imaging. J Labelled Cpd Radiopharm 2001, 44:S348-S350.
+89. Seimbille Y, Bénard F, van Lier JE: Synthesis of 16alpha-fluoro
+ICI 182,780 derivatives: powerful antiestrogens to image
+estrogen receptor densities in breast cancer by positron
+emission tomography. J Chem Soc Perkin Trans I 2002, 20:
+2275-2281.
+90. Seimbille Y, Rousseau J, Benard F, Morin C, Ali H, Avvakumov G,
+Hammond GL, van Lier JE: 18F-labeled difluoroestradiols:
+preparation and preclinical evaluation as estrogen receptor-
+binding radiopharmaceuticals. Steroids 2002, 67:765-775.
+91. Seimbille Y, Bénard F, Rousseau J, Pépin E, Aliaga A, Tessier G,
+van Lier JE: Impact on estrogen receptor binding and target
+tissue uptake of [18F]fluorine substitution at the 16alpha-
+position of fulvestrant (Faslodex; ICI 182,780). Nucl Med Biol
+2004, 31:691-698.
+92. Mortimer JE, Dehdashti F, Siegel BA, Trinkaus K, Katzenellenbo-
+gen JA, Welch MJ: Metabolic flare: indicator of hormone
+responsiveness in advanced breast cancer. J Clin Oncol 2001,
+19:2797-2803.
+93. Rasey JS, Grierson JR, Wiens LW, Kolb PD, Schwartz JL: Valida-
+tion of FLT uptake as a measure of thymidine kinase-1 activity
+in A549 carcinoma cells. J Nucl Med 2002, 43:1210-1217.
+94. Vesselle H, Grierson J, Muzi M, Pugsley JM, Schmidt RA, Rabi-
+nowitz P, Peterson LM, Vallieres E, Wood DE: In vivo validation
+of 3′-deoxy-3′-[18F]fluorothymidine ([18F]FLT) as a prolifera-
+tion imaging tracer in humans: correlation of [18F]FLT uptake
+by positron emission tomography with Ki-67 immunohisto-
+chemistry and flow cytometry in human lung tumors. Clin
+Cancer Res 2002, 8:3315-3323.
+95. Smyczek-Gargya B, Fersis N, Dittmann H, Vogel U, Reischl G,
+Machulla HJ, Wallwiener D, Bares R, Dohmen BM: PET with
+[18F]fluorothymidine for imaging of primary breast cancer: a
+pilot study. Eur J Nucl Med Mol Imaging 2004, 31:720-724.
+96. Amano S, Inoue T, Tomiyishi K, Ando T, Endo K: In vivo compari-
+son of PET and SPECT radiopharmaceuticals in detecting
+breast cancer. J Nucl Med 1998, 39:1424-1427.
+97. Huovinen R, Leskinen-Kallio S, Nagren K, Lehikoinen P, Ruot-
+salainen U, Teras M: Carbon-11-methionine and PET in evalua-
+tion of treatment response of breast cancer. Br J Cancer
+1993, 67:787-791.
+98. Yang D, Kuang LR, Cherif A, Tansey W, Li C, Lin WJ, Liu CW,
+Kim EE, Wallace S: Synthesis of [18F]fluoroalanine and
+[18F]fluorotamoxifen for imaging breast tumors. J Drug Target
+1993, 1:259-267.
+99. Kole AC, Nieweg OE, Pruim J, Paans AM, Plukker JT, Hoekstra
+HJ, Schraffordt Koops H, Vaalburg W: Standardized uptake
+value and quantification of metabolism for breast cancer
+imaging with FDG and L-[1-11C]tyrosine PET. J Nucl Med
+1997, 38:692-696.
+100.Vilner BJ, John CS, Bowen WD: Sigma-1 and sigma-2 recep-
+tors are expressed in a wide variety of human and rodent
+tumor cell lines. Cancer Res 1995, 55:408-413.
+101.John CS, Vilner BJ, Schwartz AM, Bowen WD: Characterization
+of sigma receptor binding sites in human biopsied solid
+tumors [abstract]. J Nucl Med 1996, 37:267P.
+102.Simony-Lafontaine J, Esslimani M, Bribes E, Gourgou S, Lequeux
+N, Lavail R, Grenier J, Kramar A, Casellas P: Immunocytochemi-
+cal assessment of sigma-1 receptor and human sterol iso-
+merase in breast cancer and their relationship with a series of
+prognostic factors. Br J Cancer 2000, 82:1958-1966.
+103.John CS, Bowen WD, Fisher SJ, Lim BB, Geyer BC, Vilner BJ,
+Wahl RL: Synthesis, in vitro pharmacologic characterization,
+and preclinical evaluation of N-[2-(1′-piperidinyl)ethyl]-3-
+[125I]iodo-4-methoxybenzamide (P[125I]MBA) for imaging
+breast cancer. Nucl Med Biol 1999, 26:377-382.
+104.John CS, Vilner BJ, Bowen WD: Synthesis and characterization
+of [125I]-N-(N-benzylpiperidin-4-yl)-4- iodobenzamide, a new
+sigma receptor radiopharmaceutical: high-affinity binding to
+MCF-7 breast tumor cells. J Medicinal Chem 1994, 37:1737-
+1739.  161
+Page 10
+Breast Cancer Research July 2005 Vol 7 No 4 Bénard and Turcotte
+105.John CS, Vilner BJ, Gulden ME, Efange SM, Langason RB, Moody
+TW, Bowen WD: Synthesis and pharmacological characteriza-
+tion of 4-[125I]-N-(N-benzylpiperidin-4-yl)-4-iodobenzamide: a
+high affinity sigma receptor ligand for potential imaging of
+breast cancer. Cancer Res 1995, 55:3022-3027.
+106.Caveliers V, Everaert H, John CS, Lahoutte T, Bossuyt A: Sigma
+receptor scintigraphy with N-[2-(1′-piperidinyl)ethyl]-3-123I-
+iodo-4-methoxybenzamide of patients with suspected
+primary breast cancer: first clinical results. J Nucl Med 2002,
+43:1647-1649.
+107.Collier TL, O’Brien JC, Waterhouse RN: Synthesis of [18F]-1-(3-
+fluoropropyl)-4-(4-cyanophenoxymethyl)-piperidine: a poten-
+tial sigma-1 receptor radioligand for PET. J Labelled Cpd
+Radiopharm 1996, 38:785-793.
+108.Waterhouse RN, Fawwaz R, Atuahene NF, Liu L, Schmidt AM,
+Collier TL: Biodistribution and micropet studies of the sigma-1
+receptor radiotracer [18F]FPS in the MMTV transgenic mouse
+breast cancer model [abstract]. J Nucl Med 2003, 44:371P.
+109.Shiue C, Shiue GG, Benard F, Visonneau S, Santoli D, Alavi AA:
+N-(n-Benzylpiperidin-4-yl)-2-[18F]fluorobenzamide: a potential
+ligand for PET imaging of breast cancer. Nucl Med Biol 2000,
+27:763-767.
+110.Shiue CY, Shiue GG, Zhang SX, Wilder S, Greenberg JH, Benard
+F, Wortman JA, Alavi AA: N-(N-benzylpiperidin-4-yl)-2-[18F]fluo-
+robenzamide: a potential ligand for PET imaging of sigma
+receptors. Nucl Med Biol 1997, 24:671-676.
+111.Bruskin A, Sivaev I, Persson M, Lundqvist H, Carlsson J, Sjoberg
+S, Tolmachev V: Radiobromination of monoclonal antibody
+using potassium [76Br] (4 isothiocyanatobenzyl-ammonio)-
+bromo-decahydro-closo-dodecaborate (Bromo-DABI).  Nucl
+Med Biol 2004, 31:205-211.
+112.Zheng QH, Fei X, Liu X, Wang JQ, Bin Sun H, Mock BH, Lee
+Stone K, Martinez TD, Miller KD, Sledge GW, et al.: Synthesis
+and preliminary biological evaluation of MMP inhibitor radio-
+tracers [11C]methyl-halo-CGS 27023A analogs, new potential
+PET breast cancer imaging agents. Nucl Med Biol 2002, 29:
+761-770.
+113.Reubi JC: Peptide receptors as molecular targets for cancer
+diagnosis and therapy. Endocr Rev 2003, 24:389-427.
+162

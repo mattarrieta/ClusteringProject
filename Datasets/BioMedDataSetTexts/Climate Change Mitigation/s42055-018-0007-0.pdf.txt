@@ -1,0 +1,822 @@
+Creator: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+Producer: Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+Title: Improving collaborative knowledge production for climate change mitigation: lessons from EU Horizon 2020 experiences
+Keywords: Science-policy interface,Knowledge use,Boundary organisations,Climate change,Mitigation,Co-production
+ModDate: 2018/12/04 02:13:32+01'00'
+Subject: Sustain Earth, doi:10.1186/s42055-018-0007-0
+Author: Daan Boezeman
+CreationDate: 2018/11/30 06:01:01+08'00'
+xmp:pdf:Keywords: Science-policy interface,Knowledge use,Boundary organisations,Climate change,Mitigation,Co-production
+xmp:pdf:Producer: Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+xmp:dc:format: application/pdf
+xmp:dc:identifier: 10.1186/s42055-018-0007-0
+xmp:dc:publisher: Sustainable Earth
+xmp:dc:description: Sustain Earth, doi:10.1186/s42055-018-0007-0
+xmp:dc:subject: Science-policy interface; Knowledge use; Boundary organisations; Climate change; Mitigation; Co-production
+xmp:dc:title: Improving collaborative knowledge production for climate change mitigation: lessons from EU Horizon 2020 experiences
+xmp:dc:creator: Daan Boezeman; Heleen Coninck
+xmp:xmp:MetadataDate: 2018-12-04T02:13:32+01:00
+xmp:xmp:CreateDate: 2018-11-30T06:01:01+08:00
+xmp:xmp:CreatorTool: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+xmp:xmp:ModifyDate: 2018-12-04T02:13:32+01:00
+xmp:xmpMM:DocumentID: uuid:95712226-93b0-4562-85d3-c14605d6e64c
+xmp:xmpMM:InstanceID: uuid:5f5a12e3-e146-4501-a6cf-b0276e51d203
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:f9bccdd5-bce8-4f20-995e-258f6e0931e4
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2018-11-30T06:24:50+08:00
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:author:name: Daan Boezeman
+xmp:author:orcid: http://orcid.org/0000-0001-6207-2112
+xmp:pdfaSchema:schema: Springer Nature ORCID Schema
+xmp:pdfaSchema:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/
+xmp:pdfaSchema:prefix: sn
+xmp:pdfaProperty:name: authorInfo
+xmp:pdfaProperty:valueType: Bag AuthorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Author information: contains the name of each author and his/her ORCID (ORCiD: Open Researcher and Contributor ID). An ORCID is a persistent identifier (a non-proprietary alphanumeric code) to uniquely identify scientific and other academic authors.
+xmp:pdfaProperty:name: editorInfo
+xmp:pdfaProperty:valueType: Bag EditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Editor information: contains the name of each editor and his/her ORCID identifier.
+xmp:pdfaProperty:name: seriesEditorInfo
+xmp:pdfaProperty:valueType: Bag SeriesEditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Series editor information: contains the name of each series editor and his/her ORCID identifier.
+xmp:pdfaType:type: AuthorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/authorInfo/
+xmp:pdfaType:prefix: author
+xmp:pdfaType:description: Specifies the types of author information: name and ORCID of an author.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an author.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an author.
+xmp:pdfaType:type: EditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/editorInfo/
+xmp:pdfaType:prefix: editor
+xmp:pdfaType:description: Specifies the types of editor information: name and ORCID of an editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an editor.
+xmp:pdfaType:type: SeriesEditorInformation
+xmp:pdfaType:namespaceURI: http://sprBOOKMARKS:
+Abstract
+Plain english summary
+Climate action and the need for robust knowledge
+CARISMA’s design: Engagement on different levels
+Experiences with communication, translation and mediation
+Structural challenges of boundary organisations
+  Knowledge use and the role of researchers
+  Incentive structures for ongoing collaboration
+Balancing flexibility and stability
+Seven directions to move forward
+Abbreviations
+Acknowledgements
+Funding
+Availability of data and materials
+Authors’ contributions
+Authors’ information
+Ethics approval and consent to participate
+Consent for publication
+Competing interests
+Publisher’s Note
+Author details
+References
+Page 1
+Boezeman and Coninck Sustainable Earth 
+https://doi.org/10.1186/s42055-018-0007-0 
+(2018) 1:6  Sustainable Earth
+GUIDELINES  Open Access
+Improving collaborative knowledge
+production for climate change mitigation:
+lessons from EU Horizon 2020 experiences
+Daan Boezeman1* and Heleen de Coninck2
+Abstract
+Scientific knowledge is key to climate mitigation governance. However, effective exchange between science and
+policy is challenging. Science-policy theory suggests collaboration, stakeholder participation and iterative communication
+as key principles for improving the science-policy interface. The Horizon 2020 project “Coordination and Assessment of
+Research and Innovation in Support of climate Mitigation Actions” (CARISMA) attempted to implement these principles.
+To help other projects learn from CARISMA’s experiences, this Guideline article critically discusses how the CARISMA
+project fared. CARISMA’s activities included stakeholder engagement through feedback loops, interviews with Advisory
+Board members, and an information platform. Experiences were discussed in a workshop with science-policy
+practitioners. Theory and workshop participants’ insights led to the identification of seven practical directions
+towards a more effective exchange between science and policy, aimed at policymakers, funding agencies and
+researchers: 1) Know the researcher’s role; 2) Work with policy dynamics; 3) Use alternative communication means; 4)
+Allow for flexibility in projects’ deliverables and milestones; 5) Be realistic about the possibility of stakeholder engagement;
+6) Adjust funding criteria; 7) Invest in stable knowledge infrastructures.
+Keywords: Science-policy interface, Knowledge use, Boundary organisations, Climate change, Mitigation, Co-production
+Plain english summary
+Addressing climate change requires scientific knowledge.
+The academic literature formulates various theories on
+how to improve the use of scientific knowledge in policy.
+However, effective exchange between science and policy
+is challenging in practice. Scientific knowledge often
+mismatches the needs of policy makers. Therefore,
+improving the effective exchange between science and
+policy is an important challenge for those working in ap-
+plied research projects and in research funding agencies.
+In this Guideline article we draw on the European Union
+Horizon 2020 project “Coordination and Assessment of
+Research and Innovation in Support of climate Mitiga-
+tion Actions” (CARISMA) to share practical experiences
+and formulate recommendations to improve the so
+called ‘science-policy interface’.
+* Correspondence: [URL: "mailto:d.boezeman@fm.ru.nl"] d.boezeman@fm.ru.nl
+1Institute for Management Research, Radboud University and PBL
+Netherlands Environmental Assessment Agency, Postbus 9108 6500,
+Nijmegen, HK, The Netherlands
+Full list of author information is available at the end of the article 
+CARISMA aimed not to develop new knowledge per se,
+but rather assess, synthesise and exchange existing know-
+ledge. The project design was based upon theory-informed
+principles. Those principles are genuine two-directional
+communication, translation of knowledge towards different
+audiences, and active mediation in conflicts about know-
+ledge. These principles informed the use of ‘stakeholder
+feedback loops, two advisory bodies that contain a broad ’
+group of stakeholders and a climate mitigation knowledge
+platform. Realising a productive collaboration between sci-
+entists and policy makers and producing knowledge that
+was directly useful in policy was difficult. Firstly, we con-
+clude that supplying readily applicable knowledge for policy
+is often not realistic. Researchers have more useful roles in
+the science-policy interface than only a consultant like role
+of direct knowledge supply. Facilitating learning by present-
+ing alternatives, new uncertain knowledge or engagement
+in collaborative reflection was also highly valued. Secondly,
+we that incentives and requirements are not always aligned
+towards collaboration between science and policy. The
+temporary project funding makes it difficult to invest in
+© The Author(s). 2018 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License ([URL: "http://creativecommons.org/licenses/by/4.0/"] http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Page 2
+Boezeman and Coninck Sustainable Earth (2018) 1:6  Page 2 of 8
+permanent knowledge exchange infrastructure, such as
+online platforms. Creating practical mechanisms that
+stimulate collaboration are important. Based on CARISMA
+experiences, we formulate seven recommendations to im-
+prove the exchange between science and policy.
+1. Know the researcher’s role
+2. Work with policy dynamics
+3. Use alternative communication means
+4. Allow for flexibility in projects’ deliverables and
+milestones
+5. Be realistic about the possibility of stakeholder
+engagement
+6. Adjust funding criteria
+7. Invest in stable knowledge infrastructures
+Climate action and the need for robust
+knowledge
+Addressing climate change relies on scientific knowledge
+[1]. However, both producing policy-relevant knowledge
+and crafting evidence-based policy are challenging [2].
+All too often, decision-makers find that research results
+are published too late to be of use, or are beside the
+point. In turn, researchers are confronted with policy
+questions that are hard to answer in a scientifically
+sound way. These observations influences a burgeoning
+literature with principles on organising more open and
+collaborative knowledge systems [3] and research pro-
+jects [4] that inform funding schemes for societal chal-
+lenges [5].  In response, the Horizon2020 project
+CARISMA (Coordination and Assessment of Research
+and Innovation in Support of climate Mitigation Ac-
+tions) has had the ambition to coordinate and support
+the maintenance, assessment and communication of cli-
+mate change mitigation knowledge for decision-makers
+in both the public and the private sector.
+The organisation of CARISMA was built upon the
+general theoretical principles of collaborative knowledge
+production. From the start, the project plan acknowl-
+edged that climate mitigation is a ‘wicked issue’ [6]. Such
+stubborn issues are characterised by multiple perspec-
+tives on what ‘the problem’  actually is, and therefore
+what knowledge is needed to address it. In wicked prob-
+lems, yesterday’s  solutions may become tomorrow’s
+problems. When preferences for what needs to be done
+vary and stakes are high, knowledge may become con-
+tested [2, 7, 8]. Stimulating participation and facilitating
+reciprocal communication between experts, policy-
+makers and societal stakeholders was central to CARIS-
+MA’s project design to improve mutual understanding
+and facilitate knowledge exchange. With this design,
+CARISMA aimed to circulate knowledge simultaneously
+perceived as salient (meaning politically useful, feasible
+and timely), credible (scientifically sound) and legitimate 
+(societally acceptable), following the criteria of Cash and
+colleagues [9].
+This Guideline aims to offer both practical lessons
+for practitioners of the science-policy interface and
+propose suggestions to strengthen the interface. We
+reflect on the key choices CARISMA made in the
+project design, the practical forms it used to forge col-
+laboration and the problems it encountered doing so.
+We build on our observations of the project made
+during formal interviews, reflection workshops, infor-
+mal talks and documents analysis, and confront these
+observations with the scientific theory on these mat-
+ters. In line with the theory on which we draw, a first
+draft essay [10] functioned as a starting point of a
+workshop with practitioners of the science-policy
+interface, involving also other Horizon2020 projects
+focussing on decarbonisation pathways in combination
+with explicit collaborative and participatory objectives
+(TRANSrisk, REINVENT and DEEDS).  During this
+workshop the reflections were refined, tested and
+jointly elaborated in a series of lessons for the design
+of projects that seek to bring science and policy to-
+gether. The last section of this Guideline summarises
+seven directions that we recommend for improving
+the navigations of the interface between science and
+policy. Those directions were validated in an extensive
+review by policymakers and researchers.
+CARISMA’s design: Engagement on different
+levels
+CARISMA was funded as a ‘Coordination and Support
+Act’  under the EU Horizon 2020 programme with a
+budget of approximately 1.5 million euros in 2014–2018.
+As such, the project was supposed not to develop new
+scientific knowledge per se, but rather provide synthesis,
+assessment and communication of existing climate
+knowledge. Nevertheless, identifying and addressing
+knowledge gaps was part of the project. Embedded in
+various work packages (i.e. innovation, mitigation op-
+tions, policy, governance, international cooperation), the
+project was to support and develop mitigation policies
+by first providing an overview of technical and social
+options, evaluate them in economic, environmental, so-
+cial and political terms, and communicate in terms to
+facilitate public and private governance processes with
+‘useful’  knowledge. Given the diversity of the relevant
+that were to be integrated, the project involved natural
+scientists, economists, social scientists and legal scholars
+based t universities and think thanks.
+The academic literature highlights three central activ-
+ities of effective boundary organisations that intermediate
+between science and politics [9, 11]. First, communication
+is to be iterative and two-directional. Second, information
+needs to be continuously translated for multiple audiences
+Page 3
+Boezeman and Coninck Sustainable Earth (2018) 1:6  Page 3 of 8
+involved. Third, conflicting interests about knowledge re-
+quire active mediation.
+Two-directional engagement in CARISMA was orga-
+nised at different levels. ‘Feedback loops’ were a key elem-
+ent of the project. Actively targeting stakeholders, those
+loops were to harvest questions, provide answers via as-
+sessment and identify follow up questions, etc. In various
+rounds, ‘generalist’ stakeholders were queried about miti-
+gation knowledge needs, as well as for inputs in the pro-
+ject. The double advisory board, one representing the
+policy community and the other the business world, were
+regularly consulted and interviewed extensively once (in
+late Fall 2015) [12] for advice on the project. On a more
+concrete level, stakeholders were engaged on specific
+topics in work packages. In the work packages, stake-
+holder needs were assessed and workshops consistently
+included both practitioners and researchers. In CARIS-
+MA’s case, the (potential) stakeholder group was broad.
+Involved stakeholders varied from practitioners technical
+options to those working on governance arrangements for
+technology transfer or innovation. Also, stakeholders
+worked in both the private and public sector. This made it
+hard to serve all needs and choices were necessary. Yet it
+also provided the opportunity to be useful to different pol-
+icy communities.
+Experiences with communication, translation and
+mediation
+Several key issues regarding the three central activities
+stand out. Realising iterative and two-directional
+communication via feedback loops proved difficult in
+practice. With a flying start in the first year, knowledge
+needs expressed were quite broad. Questions included
+how to embed mitigation options in socio-economic
+planning, how to create market conditions for particular
+transitions, and under what conditions do options and
+policies ‘work’ [13]. In general, those questions are very
+hard to credibly answer via ‘normal’  scientific research
+[14] and readily available bodies of knowledge on those
+issues which could be assessed and synthesised were
+limited. While some questions were out of the project
+scope, addressing the questions required choices to be
+made on which issues the development of new expertise
+was to be based. This yielded a need to redirect the
+project and also deciding on what loops could not be
+followed up.
+In addition, gradually, commitment to the feedback
+loops faded. Time investment for both researchers and
+practitioners was substantial, while other priorities
+loomed. During CARISMA’s kick-off meeting, many re-
+searchers implicitly resonated what is termed the ‘linear
+model’  of science-policy relations: filling a reservoir of
+knowledge to be transferred to policy [7]. Complete the
+substantive tasks of the grant agreement and then move 
+to communication. Moreover, the linear model still in-
+forms ideas of policy officials and knowledge institutions
+developed at the European level, albeit sometimes in an
+‘inverted’ form. For example, when a new project or or-
+ganisational form is set up to facilitate ‘knowledge trans-
+fer’. The fading enthusiasm risked the feedback loops to
+remain single shots.
+In science-policy workshops, the importance of
+interaction in multiple cycles was stressed in order to
+gradually develop both more useful knowledge by re-
+searchers and better answerable questions by practi-
+tioners. Thus, iterative communication is much more
+than the active circulating of knowledge in attractive
+communicative formats such as policy briefs,
+one-pagers, infographics or tweets. Notwithstanding
+the importance of form, iterative and two-directional
+communication is about learning via dialogue. Learn-
+ing by both researchers and policymakers on their
+respective roles and expectations requires investments
+by both.
+Active mediation in conflicting interests about know-
+ledge was therefore necessary. Informed by the advisory
+board’s feedback, the CARISMA coordinator, supported
+by the project officer with the European Commission
+(not a project member),  continuously pushed outcome
+(salient products), rather than output (deliverables). An
+internal review system was set up involving both re-
+searchers and advisory board members. This measure
+aimed to institutionalise that publications were interro-
+gated on their epistemic credibility as well as on their
+policy salience. In project meetings, policy processes,
+such as those surrounding the Paris Agreement imple-
+mentation, were reviewed and discussed for links where
+the CARISMA work could add value, and follow-up ac-
+tion was agreed.
+On a more systemic level, however, it seems the case
+that CARISMA aimed to commensurate two conflicting
+ideas. On the one hand, CARISMA was about assess-
+ment. This means compiling evidence, making it more
+readily accessible and presenting it in salient ways. On
+the other hand, CARISMA was about research. The pro-
+ject also aimed to fill knowledge gaps on mitigation
+options and policies, and “upstreaming stakeholders in
+the production of knowledge”. The conflict was not just
+about how to allocate resources among the two ideas,
+but also about how to advise policy: providing an over-
+view of (dis)agreements in different studies or providing
+novel research results?
+Structural challenges of boundary organisations
+The aforementioned conflicting ideas about project
+goals and difficulties of maintaining ongoing feedback
+loops also signify two more structural challenges
+CARISMA faced.
+Page 4
+Boezeman and Coninck Sustainable Earth (2018) 1:6  Page 4 of 8
+Knowledge use and the role of researchers
+The first issue concerns the question on how knowledge
+ends up in policy [1, 15]. And, more importantly, what
+does that mean for the possible roles of those working
+in the borderlands of science and policy [16, 17]? A
+dominant perspective held by many stakeholders, and
+what seems the holy grail for many CARISMA re-
+searchers as well, is the need to provide ‘actionable’
+information. Actionable is then equal to those mitigation
+options, suggestions and data that can directly inform
+officials working on policies.
+In this rationalist view, the policy process is por-
+trayed as a process dominated by ‘puzzling’:  know-
+ledge is used to make policies more evidence-based.
+Researchers can have a ‘consultant’ role in which they
+develop and supply knowledge for clear and stable
+problems. Unfortunately, research has shown this type
+of ‘instrumental use’  (see Table 1 below) to be very
+rare, especially in dense and noisy policy arenas. Of
+course, practical problems are important, to which we
+return later. But the main argument here is that this
+type of use is usually restricted to those policy issues
+that are uncontested, depoliticised and scientifically
+relatively structured. None of these conditions apply
+to climate mitigation policy.
+Political science conceives the role of knowledge
+much more strategic and underscores that policy-
+making is about ‘powering’.  This more cynical take
+suggests concrete knowledge gets used predominantly
+to underline standpoints when real decisions already
+taken. This is termed ‘symbolic use’.  Some of the
+stakeholders warned CARISMA to provide knowledge
+to be impartial. Still, a supposedly impartial know-
+ledge claim can always become ammunition in parti-
+san debates. Involving multiple normative viewpoints
+and disclosing the procedures in which knowledge is
+translated can strengthen the perceived legitimacy of
+the boundary organisation in question.
+Interestingly, studies on policy change come up with
+even different types of knowledge use. Already in the
+1970s, Carol Weiss [18] argued that knowledge finds
+its ways to policy in a more indirect and conceptual
+manner. Knowledge offers ongoing reflection, doubt
+and alternatives to policymakers. In her ‘enlighten-
+ment’  type of knowledge use, the policy and research
+Table 1 Typology of knowledge use based on [8]
+Policymaking as puzzling Policymaking as powering
+Direct informing Instrumental use  Symbolic use
+Indirect informing Enlightenment use  Political use
+The different types of knowledge use can be organised according to whether
+they inform policies directly or more indirectly. Depending on whether the
+policy process is about rational ‘puzzling’ for optimal solutions or about
+organising ‘power’ for decisions, types of knowledge use are different 
+communities gradually learn to see alternative prob-
+lems and solutions. This view links up with contem-
+porary ideas that a key role for researchers is to ‘open
+up’ issues [3, 19]. Researchers then either act as honest
+brokers of alternatives [16].  Their role is then raising
+new questions and bring in knowledge-based alterna-
+tives. They remain in an intermediate position between
+knowledge production and use. Alternatively they can
+take a role of participatory knowledge producers [17],
+in which they take a more active position in developing
+new knowledge and facilitating broader deliberation.
+These roles are often especially related to wicked prob-
+lems such as climate change, in which value disputes
+loom and science is inherently incomplete [20].
+The final suggested variant is termed ‘political use’,
+building on the idea that knowledge is a strategic re-
+source in political power disputes. Some knowledge
+cannot get used until a paradigmatic shift in the way an
+issue is conceptualised happens, or when a political
+landslide brings a different group in power, and hence a
+‘window of opportunity’ opens up [21]. Researchers can
+act as entrepreneurs to push knowledge to negotiation
+tables. This requires the uneasy task of being at the
+table at the right moment and being keenly aware of
+political processes.
+It is up to CARISMA and other projects to acknow-
+ledge that there are several types of knowledge use [8,
+15, 18] and that there are multiple valuable roles re-
+searchers can play [16, 17].  Sometimes researchers can
+play a consultant role, tailoring knowledge in such a
+form that it can directly be used in policy. However, one
+needs to acknowledge that silver bullet knowledge solu-
+tions are not always realistic. It may find its way into the
+policy realm, but only as other ideas, models, data and
+narratives have softened up the community for its ac-
+ceptance. During interviews with stakeholders and the
+advisory boards, the importance of other roles was also
+emphasised as valuable.
+The appreciation of a ‘learning space’  to reflect on
+new, yet not directly implementable, ideas was also
+expressed by CARISMA’s advisory board members and
+stakeholders. CARISMA documents, but especially
+meetings were named by some interviewed stakeholders
+a ‘learning space’: to keep up with new ideas and allow-
+ing for dialogues to explore also uncertainties and the
+limits of knowledge. Hence, to facilitate learning and
+reflection, researchers can play a role to open up ways of
+thinking with alternatives, criticise core policy assump-
+tions, or provide novel, yet not readily applicable, new
+insights. Also, sometimes researchers have to be messen-
+gers that knowledge is incomplete or uncertain. A medi-
+ating role may be in situations be useful, e.g. in
+illuminating conflicts in which knowledge is disputed
+with alternative claims.
+Page 5
+Boezeman and Coninck Sustainable Earth (2018) 1:6  Page 5 of 8
+The lesson for CARISMA is that it should be aware
+of the possibility of multiple useful roles, which empha-
+sise different tasks (e.g. supplying knowledge, bridging
+fields or facilitating stakeholders to learn) and require
+different skills (e.g. in communication and process sup-
+port).  The project goal of synthesising and assessing
+knowledge of mitigation options in factsheets and data-
+bases, requires a supplying role in researchers focussing
+on the scientific credibility of knowledge. Engagement
+with stakeholders can then be less intensive and is
+about making information more accessible and under-
+standable. The goal to facilitate collaborative learning
+about policy-relevant issues stakeholder engagement
+must be more intensive. Negotiating roles and being
+transparent about what a researcher can and cannot do,
+within what timeframe and within what normative
+starting points, is important to maintain credibility and
+trust in case of disputes over knowledge.
+Incentive structures for ongoing collaboration
+The second issue is that researchers and policymakers
+respond to communities with different cultures. Col-
+laboration via several iterative cycles is not necessarily
+rewarded. A stream of literature suggests that the
+practical mismatches in timing, language and mes-
+sages are a result of differences in cultures, reward
+systems and codes of conduct [2, 20].  To counter
+these problems, formal incentives and requirements
+were created, such as reserving a substantial part of
+the project budget for outreach and follow up ques-
+tions in the final project year and an internal proced-
+ure for reviewing products on both scientific validity
+(credible) and policy relevance (salience).
+An example of the importance of incentives and re-
+quirements are the well-known publication criteria at
+universities, which often push researchers to do novel
+research, rather than providing rigorous assessments
+of current knowledge. On the other hand, via funding
+criteria of modern demand-led research programmes,
+CARISMA researchers were pushed to develop
+activities to work with stakeholders and disseminate
+information in ways fitting knowledge needs of policy-
+makers such as the feedback loops in the project
+design. While the project design made a substantial
+time and budget reservation for a final outreach stage
+and follow up questions, there was a pressure on re-
+searchers to spend time on products pushed by their
+universities or research organisations rather than
+investing in better tailoring their outreach. In CAR-
+ISMA this issue was addressed by the project coordin-
+ator pushing project members for salience. In one of
+the reflection workshops it was also suggested that it
+would incentivise collaboration of researchers and pol-
+icy makers could write short proposals for funding 
+follow up questions (see also [20],). This would require
+not earmarking all project budget over the partners in
+advance incorporating more budgetary flexibility. Pol-
+icymakers usually have less of such formal incentive
+mechanisms to keep them committed in projects to
+take their part in a continued dialogue and help de-
+velop questions that are suitable for the realm of
+research. Just as researchers have to become aware of
+the “ridiculous deadlines” of politics, as one civil ser-
+vant expressed it in a meeting, policymakers have to
+learn to be patient with researchers, who need to do
+their assessment work in a credible way.
+Another example are the requirements of detailed
+and delineated activities with deliverables to get
+boundary projects funded. Bi-directional engagement
+of the two communities takes place not only in formal
+CARISMA reports and workshops, but importantly
+also in the continuous informal contacts, exchanges,
+and meetings in very different venues and occasions.
+Such activities of large science-policy consortia are
+opaque, while reward structures favour producing
+visible (and promised) products: deliverables. Such
+structures, designed to guarantee legitimacy and trans-
+parency, risk overlooking the ongoing activities that
+are crucial to realise them. In CARISMA,
+In addition, projects are funded on temporary bud-
+gets, and new consortia take over after projects have
+ended. In these circumstances it is less attractive to in-
+vest in more permanent exchange infrastructure, that
+is more resource intensive and takes time before re-
+searchers and policy makers start using it. By the time
+such infrastructure starts paying off for the project,
+the project may have already ended. This was espe-
+cially a challenge for CARISMA’s interactive platform,
+to which we return in the next section. Combined
+with the phenomenon of quick personnel turnover,
+both with researchers and rotating civil servants, the
+temporary character of funding makes it difficult to
+build lasting relations and trust, and render continued
+collaboration and dialogue challenging.
+Balancing flexibility and stability
+In the CARISMA project, the EU project officer was
+open to the possibility to adapt the original project
+plan. This was important for CARISMA’s impact.
+While initially not foreseen, the decision was gradually
+made to change the initial plan of an interactive,
+CARISMA-based online platform into an information
+platform ([URL: "http://climatechangemitigation.eu/"] http://climatechangemitigation.eu/) that in-
+tegrates multiple EU projects, creating a venue for
+research results. Not building new venues for ex-
+change and new channels for dissemination, but rather
+strengthening the existing flows in the science-policy
+interface, could be effective, as the platform offers the
+Page 6
+Boezeman and Coninck Sustainable Earth (2018) 1:6  Page 6 of 8
+‘boundary infrastructure’  that enables the collabor-
+ation between scientists and policymakers. It offered
+the certainty to publics as a venue to find useful
+knowledge on mitigation options and lower transac-
+tion costs of searching. Credibility can be enhanced by
+reviewing content, salience by ongoing feedback on
+the content.
+However, the platform can also be problematic as it
+is facing an institutional environment – of a
+time-bound research project – that threatens its con-
+tinuity, which is crucial for its effectiveness. This insti-
+tutional environment favours the set-up of new
+projects rather than continuing existing ones, and de-
+pends on ad-hoc funding. There is no embedding in a
+permanent organisation that safeguards its continu-
+ation. The challenge for the platform is not to make it
+work, notwithstanding that daunting task, but to
+maintain the platform to work. In CARISMA, the
+follow-up Coordination and Support Action, the
+DEEDS project, will adopt the platform so its contin-
+ued operation is safeguarded for the next three years.
+This was made possible by a push on the part of the
+Commission, by a constructive attitude of those man-
+aging stakeholder engagement in DEEDS and CAR-
+ISMA, and the practical coincidence that the project
+period of the two projects overlapped.
+Seven directions to move forward
+Effective work at the science-policy interface needs a
+significant effort of all actors involved as well as an in-
+stitutional environment that incentivises commitment
+of researchers and policymakers. This commitment
+should facilitate cross-boundary cooperation, rather
+than dissolving the productive differences between the
+two communities altogether. Answers are needed on
+the question how continued collaboration can be
+made more rewarding for all actors involved. Drawing
+upon the lessons of the CARISMA project and the
+reflection workshop in which the structural challenges
+of boundary organisations were discussed in relation
+to EU funded projects, we identify the following seven
+directions forward to make the science-policy ex-
+change more effective:
+1) Reflect and act on the role of project researchers.
+Multiple roles in a project are useful. While hard
+to mix in a single person, a project team can
+contain multiple roles. Especially in domains
+characterised by scientific uncertainties, clear
+communication of the roles taken is important to
+maintain credibility and trust.
+2) Work with the dynamics of the policy process.
+Topics in the agenda-setting phase require other
+types of knowledge than topics that facing 
+decisions. The former may allow novel ideas while
+the latter is about substantiating or amending a
+decision at hand. The criteria and timing to which
+knowledge should respond varies with the phase.
+3) Explore and try alternatives in communication.
+Involving science journalists and influential
+societal actors can help translating research
+findings in salient messages. They can also act as
+ambassadors. Using alternative communication
+means requires a clear understanding of the
+different audiences of the project and the routes
+via which knowledge reaches them.
+4) Incorporate and appreciate flexibility in projects.
+The system of ex-ante promised deliverables favours
+unidirectional exchange and mismatches in pace of
+research and policy, if not be approached with some
+flexibility. Flexibility regarding deliverables requires
+cooperative attitudes of both funding officials,
+project coordinators and researchers. The project
+coordinator needs possibilities to reallocate budget
+to emerging issues, while staying within the general
+scope of project goals.
+5) Be realistic about and prepared for stakeholder
+involvement. Involving stakeholders is vital for
+both relevance and robustness of research.
+Different rationales for involvement are legitimate,
+but manage expectations, including those of the
+funding agency or client. Involvement requires
+substantial investment of time and resources of all
+actors. This points at two conditions: researchers
+and policymakers need to be prepared to spend
+time (or they will not start), and the time spent on
+cooperation needs to be rewarding (or they will
+not continue).
+6) Reconsider funding criteria. Demonstrating how
+collaboration is guaranteed should be an
+eligibility criterion for funding. Collaboration
+could be rewarded by funding small joint projects
+between researchers and policymakers that
+address follow-up questions from the project’s
+assessments. A small part of future project
+budgets can be reserved for the purpose. Small
+budget extensions are also an option, but risk
+high transaction costs if this would require new
+procedures with funders.
+7) Invest in stable knowledge infrastructures. Ad hoc
+funding is problematic for knowledge
+infrastructures that require ongoing maintenance,
+such as online platforms. Invested human capital
+in the form of human relationships between people
+at the science-policy interface risk discontinuation,
+but are crucial. This needs rethinking how and
+with what criteria to fund Coordination and
+Support Actions.
+Page 7
+Boezeman and Coninck Sustainable Earth (2018) 1:6  Page 7 of 8
+Fig. 1 Seven directions for strengthening the science-policy interface
+The seven directions address both the direct actors
+involved (see Fig. 1) as well as the institutional envir-
+onment in which they operate. They should not be
+understood in isolation but are highly interrelated.
+For example, investing in a skillset of participating
+researchers, stakeholders and project coordinators is
+of no avail if an enabling operating environment is
+absent. A favourable science-policy environment re-
+mains ineffective if it is not effectively navigated.
+Abbreviations
+CARISMA: Coordination and Assessment of Research and Innovation in
+Support of climate Mitigation Actions; DEEDS: DialoguE on European
+Decarbonisation Strategies; REINVENT: Realising Innovation in Transitions for
+Decarbonisation; TRANSrisk: Transitions Pathways and Risk Analysis for
+Climate Change Mitigation and Adaption Strategies
+Acknowledgements
+The authors wish to thank all interview respondents, workshop participants
+and two anonymous reviewers for their time and their valuable
+contributions to the paper.
+Funding
+This project has received funding from the European Union’s Horizon 2020
+research and innovation programme under grant agreement No. 642242.
+Availability of data and materials
+The datasets used and/or analysed during the current study are available
+from the corresponding author on reasonable request.
+Authors’ contributions
+DB designed the research, collected the data and wrote the first draft. DB
+and HC organised the reflection workshop and revised the draft based on
+the results. All authors read and approved the final manuscript. 
+Authors’ information
+During the research phase Daan Boezeman worked as a researcher and
+lecturer at the chair group Political Sciences of the Environment at the
+Radboud University. In 2017 he moved to PBL Netherlands Environmental
+Assessment Agency and is an affiliated researcher at his former institution.
+Heleen de Coninck is an associate professor at the Department of
+Environmental Sciences of the Radboud University, project coordinator of
+the CARISMA project, and coordinating lead author in the IPCC special
+report on 1.5 degrees.
+Ethics approval and consent to participate
+The research was based on interviews, observations and a reflection
+workshop with practitioners following Chatham House Rules. Statements are
+anonymised and cannot be traced to individual participants. Participants
+were aware of and approved the writing of this paper. All conclusions
+remain the sole responsibility of the authors.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Author details
+1Institute for Management Research, Radboud University and PBL
+Netherlands Environmental Assessment Agency, Postbus 9108 6500,
+Nijmegen, HK, The Netherlands. 2Department of Environmental Science,
+Radboud University, PO Box 9010 (Mailbox 89), Nijmegen, GL 6500, The
+Netherlands.
+Page 8
+Boezeman and Coninck Sustainable Earth (2018) 1:6
+Received: 10 May 2018 Accepted: 20 November 2018
+References
+1.  Turnhout E, Tuinstra W, Halffman W. Environmental expertise: connecting
+science, policy and society. Cambridge: Cambridge University Press; 2019.
+2.  Sarewitz D, Pielke RA. The neglected heart of science policy: reconciling
+supply of and demand for science. Environ Sci Pol. 2007;10:5–16.
+3.  Cornell S, Berkhout F, Tuinstra W, Tàbara JD, Jäger J, Chabay I, et al.
+Opening up knowledge systems for better responses to global
+environmental change. Environ Sci Pol. 2013;28:60–70. [URL: "https://doi.org/10.1016/j.envsci.2012.11.008"] https://doi.org/10.
+ 1016/j.envsci.2012.11.008.
+4.  Meadow AM, Ferguson DB, Guido Z, Horangic A, Owen G, Wall T. Moving
+toward the deliberate coproduction of climate science knowledge. Weather
+Clim Soc. 2015;7:179–91.
+5.  Boon W, Edler J. Demand, challenges, and innovation. Making sense of new
+trends in innovation policy. Sci Public Policy. 2018;45:435–47 [URL: "https://doi.org/10.1093/scipol/scy014"] https://doi.org/
+ 10.1093/scipol/scy014.
+6.  Rittel HJ, Webber M. Dilemmas in a general theory of planning. Policy Sci.
+1973;4:155–69. [URL: "https://doi.org/10.1007/bf01405730"] https://doi.org/10.1007/bf01405730.
+7.  Jasanoff S, Wynne B. Science and decision making. In: Rayner S, Malone E,
+editors. Human choice and climate change, vol. 1: the societal framework.
+Columbus: Battelle press; 1998. p. 1–87.
+8.  Daviter F. The political use of knowledge in the policy process. Policy Sci.
+2015;48:491–505. [URL: "https://doi.org/10.1007/s11077-015-9232-y"] https://doi.org/10.1007/s11077-015-9232-y.
+9.  Cash DW, Clark WC, Alcock F, Dickson NM, Eckley N, Guston DH, et al.
+Knowledge systems for sustainable development. PNAS. 2003;100:8086–91.
+10. Boezeman D, De Coninck HC. Organising effective exchange in the science-
+policy interface: Lessons from the Horizon 2020 CARISMA project.
+Deliverable 8.5. Nijmegen: Radboud University; 2018. [URL: "http://carisma-project.eu/LinkClick.aspx?fileticket=KhqvIBnIvTM%3D&tabid=95&portalid=0&mid=580"] http://carisma-project.
+ eu/LinkClick.aspx?fileticket=KhqvIBnIvTM%3D&tabid=95&portalid=0&mid=
+ 580.
+11. Boezeman D. Transforming adaptation. Authoritative knowledge for climate
+change governance. Nijmegen: Radboud University; 2015. [URL: "http://hdl.handle.net/2066/141636"] http://hdl.handle.
+ net/2066/141636
+12. Hagens J, Koretsky Z. CARISMA Advisory Boards consultations report.
+Nijmegen: Radboud University; 2016.
+13. Van der Gaast W, Stavakras V. D2.4 report on implementation of stakeholder
+engagement plan and communication plan. Groningen: JIN; 2016.
+14. Funtowicz SO, Ravetz JR. Science for the post-normal age. Futures. 1993;25:
+739–55. [URL: "https://doi.org/10.1016/0016-3287(93)90022-l"] https://doi.org/10.1016/0016-3287(93)90022-l.
+15. Radaelli CM. The role of knowledge in the policy process. J Eur Public
+Policy. 1995;2:159–83. [URL: "https://doi.org/10.1080/13501769508406981"] https://doi.org/10.1080/13501769508406981.
+16. Pielke R. The honest broker: making sense of science in policy and politics.
+Cambridge: Cambridge University Press; 2007.
+17. Turnhout E, Stuiver M, Klostermann J, Harms B, Leeuwis C. New roles of
+science in society: different repertoires of knowledge brokering. Sci Public
+Policy. 2013;40:354–65. [URL: "https://doi.org/10.1093/scipol/scs114"] https://doi.org/10.1093/scipol/scs114.
+18. Weiss CH. Have we learned anything new about the use of evaluation? Am
+J Eval. 1998;19:21–33. [URL: "https://doi.org/10.1177/109821409801900103"] https://doi.org/10.1177/109821409801900103.
+19. Stirling A. “Opening up” and “closing down”: power, participation, and
+pluralism in the social appraisal of technology. Sci Technol Human Values.
+2008;33:262–94. [URL: "https://doi.org/10.1177/0162243907311265"] https://doi.org/10.1177/0162243907311265.
+20. Termeer C, van Buuren A, Knieling J, Gottschick M. Reconciling collaborative
+action research with existing institutions: insights from Dutch and German
+climate knowledge programmes. J water Clim Chang. 2015;6:89–103.
+21. Kingdon JW. Agendas, alternatives, and public policies. 2nd ed. Boston:
+Little, Brown; 1995. 
+Page 8 of 8

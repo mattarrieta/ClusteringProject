@@ -1,0 +1,507 @@
+Creator: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+Producer: Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+Title: HIV prevalence in suspected Ebola cases during the 2014–2016 Ebola epidemic in Sierra Leone
+Keywords: HIV,HCV,Ebola,Prevalence,Sierra Leone
+ModDate: 2019/02/20 09:53:45+01'00'
+Subject: Infectious Diseases of Poverty, 2019, doi:10.1186/s40249-019-0525-9
+Author: William J. Liu
+CreationDate: 2019/02/15 18:32:59+08'00'
+xmp:pdf:Keywords: HIV,HCV,Ebola,Prevalence,Sierra Leone
+xmp:pdf:Producer: Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+xmp:dc:format: application/pdf
+xmp:dc:identifier: 10.1186/s40249-019-0525-9
+xmp:dc:publisher: Infectious Diseases of Poverty
+xmp:dc:description: Infectious Diseases of Poverty, 2019, doi:10.1186/s40249-019-0525-9
+xmp:dc:subject: HIV; HCV; Ebola; Prevalence; Sierra Leone
+xmp:dc:title: HIV prevalence in suspected Ebola cases during the 2014–2016 Ebola epidemic in Sierra Leone
+xmp:dc:creator: William J. Liu; Hai-Yang Hu; Qiu-Dong Su; Zhe Zhang; Yang Liu; Yu-Lan Sun; Xian-Da Yang; Da-Peng Sun; Shao-Jian Cai; Xiu-Xu Yang; Idrissa Kamara; Abdul Kamara; Matt Lebby; Brima Kargbo; Patricia Ongpin; Xiao-Ping Dong; Yue-Long Shu; Wen-Bo Xu; Gui-Zhen Wu; Michael Gboun; George F. Gao
+xmp:xmp:MetadataDate: 2019-02-20T09:53:45+01:00
+xmp:xmp:CreateDate: 2019-02-15T18:32:59+08:00
+xmp:xmp:CreatorTool: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+xmp:xmp:ModifyDate: 2019-02-20T09:53:45+01:00
+xmp:xmpMM:DocumentID: uuid:51170f77-6a3c-4d2c-b94b-266085262d54
+xmp:xmpMM:InstanceID: uuid:e412b2db-e3e4-4c71-90ae-75f7813dc923
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:98309de2-40d4-44f3-b0a4-6c08369ca2ab
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2019-02-16T03:10:39+08:00
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:author:name: William J. Liu
+xmp:author:orcid: http://orcid.org/0000-0003-3605-4070
+xmp:pdfaSchema:schema: Springer Nature ORCID Schema
+xmp:pdfaSchema:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/
+xmp:pdfaSchema:prefix: sn
+xmp:pdfaProperty:name: authorInfo
+xmp:pdfaProperty:valueType: Bag AuthorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Author information: contains the name of each author and his/her ORCID (ORCiD: Open Researcher and Contributor ID). An ORCID is a persistent identifier (a non-proprietary alphanumeric code) to uniquely identify scientific and other academic authors.
+xmp:pdfaProperty:name: editorInfo
+xmp:pdfaProperty:valueType: Bag EditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Editor information: contains the name of each editor and his/her ORCID identifier.
+xmp:pdfaProperty:name: seriesEditorInfo
+xmp:pdfaProperty:valueType: Bag SeriesEditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Series editor information: contains the name of each series editor and his/her ORCID identifier.
+xmp:pdfaType:type: AuthorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/authorInfo/
+xmp:pdfaType:prefix: author
+xmp:pdfaType:description: Specifies the types of author information: name and ORCID of an author.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an author.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an author.
+xmp:pdfaType:type: EditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/editorInfo/
+xmp:pdfaType:prefix: editor
+xmp:pdfaType:description: Specifies the types of editor information: name and ORCID of an editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an editor.
+xmp:pdfaType:type: SeriesEditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/seriesEditorInfo/
+xmp:pdfaType:prefix: seriesEditor
+xmp:pdfaType:description: Specifies the types of series editor information: name and ORCID of a series editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of a series editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of a series editor.
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdf/1.3/
+xmp:pdfaSchema:prefix: pdf
+xmp:pdfaSchema:schema: Adobe PDF Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A name object indicating whether the document has been modified to include trapping information
+xmp:pdfaProperty:name: Trapped
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/mm/
+xmp:pdfaSchema:prefix: xmpMM
+xmp:pdfaSchema:schema: XMP Media Management Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: UUID based identifier for specific incarnation of a document
+xmp:pdfaProperty:name: InstanceID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: The common identifier for all versions and renditions of a document.
+xmp:pdfaProperty:name: OriginalDocumentID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A reference to the original document from which this one is derived. It is a minimal reference; missing components can be assumed to be unchanged. For example, a new version might only need to specify the instance ID and version number of the previous version, or a rendition might only need to specify the instance ID and rendition class of the original.
+xmp:pdfaProperty:name: DerivedFrom
+xmp:pdfaProperty:valueType: ResourceRef
+xmp:pdfaType:description: Identifies a portion of a document. This can be a position at which the document has been changed since the most recent event history (stEvt:changed). For a resource within an xmpMM:Ingredients list, the ResourceRef uses this type to identify both the portion of the containing document that refers to the resource, and the portion of the referenced resource that is referenced.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Part#
+xmp:pdfaType:prefix: stPart
+xmp:pdfaType:type: Part
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/t/pg/
+xmp:pdfaSchema:prefix: xmpTPg
+xmp:pdfaSchema:schema: XMP Paged-Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A structure containing the characteristics of a font used in a document
+xmp:pdfaProperty:name: Fonts
+xmp:pdfaProperty:valueType: Bag Font
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: XMP08 Spec: An ordered array of plate names that are needed to print the document (including any in contained documents).
+xmp:pdfaProperty:name: PlateNames
+xmp:pdfaProperty:valueType: Seq Text
+xmp:pdfaType:description: A structure containing the characteristics of a font used in a document.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Font#
+xmp:pdfaType:prefix: stFnt
+xmp:pdfaType:type: Font
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdfx/1.3/
+xmp:pdfaSchema:prefix: pdfx
+xmp:pdfaSchema:schema: PDF/X ID Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: ID of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXVersion
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Conformance level of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXConformance
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Company creating the PDF
+xmp:pdfaProperty:name: Company
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Date when document was last modified
+xmp:pdfaProperty:name: SourceModified
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://www.aiim.org/pdfa/ns/id/
+xmp:pdBOOKMARKS:
+Abstract
+  Background
+  Case presentation
+  Conclusions
+Multilingual Abstract
+Background
+Case presentation
+Discussion and conclusions
+Additional file
+Abbreviations
+Acknowledgements
+Funding
+Availability of data and materials
+Authors’ contributions
+Ethics approval and consent to participate
+Consent for publication
+Competing interests
+Author details
+References
+Page 1
+Liu et al. Infectious Diseases of Poverty (2019) 8:15
+https://doi.org/10.1186/s40249-019-0525-9
+CASE REPORT  Open Access
+HIV prevalence in suspected Ebola cases
+during the 2014–2016 Ebola epidemic in
+Sierra Leone
+William J. Liu1,12*†  [URL: "http://orcid.org/0000-0003-3605-4070"] , Hai-Yang Hu2,12†, Qiu-Dong Su1,12†, Zhe Zhang3,12†, Yang Liu1,12, Yu-Lan Sun4,12,
+Xian-Da Yang5,12, Da-Peng Sun6,12, Shao-Jian Cai7,12, Xiu-Xu Yang3,12, Idrissa Kamara8,12, Abdul Kamara8,
+Matt Lebby8, Brima Kargbo8, Patricia Ongpin9, Xiao-Ping Dong1, Yue-Long Shu1, Wen-Bo Xu1, Gui-Zhen Wu1,
+Michael Gboun9 and George F. Gao1,10,11*
+Abstract
+Background: The 2014–2016 Ebola virus epidemic in West Africa was the largest outbreak of Ebola virus disease
+(EVD) in history. Clarifying the influence of other prevalent diseases such as human immunodeficiency virus
+infection and acquired immune deficiency syndrome (HIV/AIDS) will help improve treatment and supportive care of
+patients with EVD.
+Case presentation: We examined HIV and hepatitis C virus (HCV) antibody prevalence among suspected EVD cases
+from the Sierra Leone-China Friendship Biological Safety Laboratory during the epidemic in Sierra Leone. HIV and
+HCV antibodies were tested in 678 EVD-negative samples by enzyme-linked immunosorbent assay. A high HIV
+prevalence (17.6%) and low HCV prevalence (0.22%) were observed among the suspected cases. Notably, we found
+decreased HIV positive rates among the suspected cases over the course of the epidemic. This suggests a
+potentially beneficial effect of an improved public health system after assistance from the World Health
+Organization and other international aid organizations.
+Conclusions: This EVD epidemic had a considerable impact on the public health system and influenced the
+prevalence of HIV found among suspected cases in Sierra Leone, but also provided an opportunity to establish a
+better surveillance network for infectious diseases.
+Keywords: HIV, HCV, Ebola, Prevalence, Sierra Leone
+Multilingual Abstract
+Please see Additional file 1 for translations of the ab-
+stract into the five official working languages of the
+United Nations.
+Background
+The 2014–2016 Ebola virus (EBOV) epidemic in West
+Africa was the largest outbreak of Ebola virus disease
+(EVD) in history, causing over 28 616 infections and 11
+* Correspondence: [URL: "mailto:liujun@ivdc.chinacdc.cn"] liujun@ivdc.chinacdc.cn; [URL: "mailto:gaofu@chinacdc.cn"] gaofu@chinacdc.cn
+William J. Liu, Hai-Yang Hu, Qiu-Dong Su and Zhe Zhang are contribute
+equally to this paper
+1NHC Key Laboratory of Biosafety, National Institute for Viral Disease Control
+and Prevention, Chinese Center for Disease Control and Prevention(China
+CDC), Beijing 102206, China
+Full list of author information is available at the end of the article 
+310 deaths by June 2016 [1]. Sierra Leone, as one of the
+least developed countries in the world, was one of the
+three countries most seriously impacted during the out-
+break. Clarifying the influence of other prevalent dis-
+eases such as HIV/AIDS will help improve treatment
+and supportive care of patients with EVD [2].
+The Sierra Leone Demographic and Health Survey in
+2008 and 2013 showed that 1.5% of Sierra Leonean
+adults aged 15–49 years were HIV-positive and that the
+HIV prevalence was slightly higher among women
+(1.7%) than men (1.3%) [3, 4].  However, some groups
+had reported that these rates were dramatically underes-
+timated. From November 2014 to March 2015, sus-
+pected EVD-patients were admitted to the Sierra
+Leone-China Friendship Hospital in Sierra Leone and
+© The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License ([URL: "http://creativecommons.org/licenses/by/4.0/"] http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Page 2
+Liu et al. Infectious Diseases of Poverty (2019) 8:15  Page 2 of 4
+assessed for EBOV infection via real-time polymerase
+chain reaction (PCR) test of blood samples. Out of 278
+EBOV-negative patients, 44 (15.83%) were diagnosed as
+HIV-positive [5].  During the same period at Moyamba
+Ebola Treatment Center (ETC), Sierra Leone, three out
+of 44 EBOV-negative patients (8.8%) were HIV-positive
+[6].  To further understand HIV prevalence among sus-
+pected Ebola cases in Sierra Leone, we tested blood sam-
+ples for the presence of HIV antibodies among suspected
+EVD patients at a biosafety level-3 laboratory, examined
+the prevalence of HIV, and analysed the probable correl-
+ation between HIV and EVD epidemic in Sierra Leone.
+Case presentation
+From March to November 2015, the Sierra Leone-China
+Friendship Biological Safety Laboratory received a total
+of 901 blood samples collected from 731 EVD-suspected
+patients. Of these samples, 94 from 53 individuals were
+EBOV positive as confirmed by real-time PCR, while
+807 samples from 678 individuals tested EBOV negative
+by real-time PCR. The 678 EBOV-negative samples were
+first tested for HIV antibodies using an enzyme-linked
+immunosorbent assay (ELISA; Beijing Wantai Biological
+Pharmacy Enterprise Co., Ltd., Beijing, China) and then
+retested using another ELISA reagent (Zhuhai Livzon
+Diagnostics Inc., Zhuhai, China). HIV positivity was de-
+fined as having positive results in the two tests [7]. The
+EVD-negative samples were also tested for hepatitis C
+virus (HCV) antibodies via ELISA (Beijing Wantai Bio-
+logical Pharmacy Enterprise Co., Ltd., Beijing, China).
+All data were entered into a Microsoft Excel spread-
+sheet (2016, Microsoft, Redmond, USA).  All data ana-
+lyses were performed using SPSS version 19.0 (SPSS
+Inc., Chicago, IL, USA). Frequency analyses were used to
+calculate the HIV-antibody and HCV-antibody positivity
+rates among all EBOV-negative patients and subgroups.
+Chi-square tests were used to compare differences be-
+tween subgroups. Chi-square trend tests were used to
+evaluate the trend of HIV prevalence. Pearson’s correl-
+ation coefficient analyses were used to evaluate the cor-
+relation between the monthly HIV prevalence and
+reported Ebola cases. Differences with P-values less than
+0.05 were considered statistically significant.
+Of the 678 EBOV-negative patients, 55.7% (372/668)
+were male, while 44.3% (296/668) were female (Table 1).
+Regarding age distribution, the 0–14 year age group con-
+stituted 24.7% (162/656), the 15–49 year age group consti-
+tuted 63.1% (414/656), and the 50-year-old or older age
+group constituted 12.2% (80/656) of the entire cohort. Re-
+garding geographical distribution, 64.9% (440/678) was
+from the Western Urban area, 29.8% from the Western
+Rural area, and 5.3% from other or unknown areas.
+Among EBOV-negative patients, the mean
+HIV-antibody positivity rate was 17.6%,  with 11.3% in 
+males, 25.7% in females, 2.5% in 0–14 age group, 24.6%
+in 15–49 age group, 7.5% in 50 years old or older group,
+14.8% in Western Urban group and 22.8% in Western
+Rural group (Table 1). In our study, the distribution fea-
+tures of HIV prevalence by gender and age were consist-
+ent with the previous reports in Sierra Leone and other
+African countries [8]. This may be related to the differ-
+ent characteristics of multiple sexual partners and con-
+dom usage in populations with different gender and age
+distributions. For the HCV antibody test, only one posi-
+tive sample was detected, indicating a low HCV preva-
+lence (0.22%).
+We then evaluated the HIV positivity rate among the sus-
+pected EVD cases. From March to July 2015, the preva-
+lence of HIV infection among the suspected EVD cases was
+22.5% and over 16% per month, including up to 36% in
+May. From August to November 2015, the prevalence was
+9.8% and less than 16% per month, including zero in No-
+vember. From April to November 2015, the prevalence of
+HIV infection among the suspected EVD cases showed a
+significant decrease (P < 0.001) in Chi-square value and a
+significant correlation with the monthly-reported number
+of EVD cases (r = 0.745, P = 0.034) by Pearson’s correlation
+coefficient analyses (Fig. 1).
+Discussion and conclusions
+The 2014–2016 EVD outbreak in West Africa resulted
+in the disruption of an already fragile but essential health
+service and drug distribution system. Particularly, HIV
+clinical services in affected countries were also affected
+[9].  The death of several healthcare workers in early
+2014, as well as the strain on healthcare facilities caused
+by increased numbers of EVD patients and decreased
+numbers of staff, resulted in the closure of many clinics
+and the interruption of routine health delivery services,
+including HIV testing, antiretroviral therapy (ART) [10],
+prevention of mother-to-child transmission of HIV [11],
+childhood vaccination, and maternity care. This may im-
+pact on other infectious diseases, such as AIDS, malaria,
+tuberculosis, and measles [12, 13].  A recent computa-
+tional simulation model has estimated a 50% reduction
+in ART coverage and 10% increase in AIDS-related
+deaths attributable to this EVD outbreak in Sierra Leone
+from March 2014 to March 2015 [14]. Thus, HIV/AIDS
+patients may have been inclined to visit the ETCs for
+medical care during the EVD outbreak.
+From January to July 2015, the EVD outbreak en-
+tered the second phase of the response, during which
+great efforts were undertaken by the World Health
+Organization (WHO) and partners, including enhan-
+cing capacities for case finding, increasing efforts for
+contact tracing, and community engagement. Strength-
+ened surveillance and response systems resulted in
+many suspected EVD patients suffering from other
+Page 3
+Liu et al. Infectious Diseases of Poverty (2019) 8:15  Page 3 of 4
+Table 1 The distributions of HIV prevalence by gender, age and district (n=678)
+Variable  Negative (n)  Positive (n)  Prevalence (%)
+Gender
+Female  220  76  25.7
+Male  330  42  11.3
+unknown  9  1  10
+Age group (years)
+0-14  158  4  2.5
+15-49  312  102  24.6
+50  74  6  7.5
+unknown  15  7  31.8
+District
+Western Urban  375  65  14.8
+Western Rural  156  46  22.8
+Other and unknown 28  8  22.2 
+χ2
+23.972
+48.511
+6.695 
+P-value
+<0.001
+<0.001
+0.035
+diseases visiting ETCs. Thus, many suspected EVD
+cases were indeed HIV/AIDS-positive as they exhibited
+many of the same symptoms and/or because many
+AIDS patients had defaulted their treatments. During
+the second half of 2015, with the help of the WHO
+and other international assistances including the
+support from Chinese Center for Disease Control and
+Prevention, the overarching goal of interrupting the
+remaining chains of EBOV transmission was
+completed, and the public health system was being 
+re-established. Moreover, the public health situations
+in Sierra Leone had improved to respond to the
+surveillance of several other dominant infectious
+diseases, including malaria and HIV/AIDS. Thus,
+HIV-infected persons may now visit the HIV/AIDS
+service units again. Before admission to ETCs,
+HIV-infected persons were differentiated from sus-
+pected EVD cases using specific tests. Accordingly, this
+may have led to a decreased HIV-positive ratio among
+EVD suspected cases.
+Fig. 1 The prevalence of HIV among EBOV-negative EVD-suspected cases tested at Sierra Leone-China Friendship Biological Safety Laboratory,
+Sierra Leone, 2015. After its establishment in early 2015, the Sierra Leone-China Friendship Biological Safety Laboratory was responsible for EBOV
+testing of EVD-suspected patients from most districts of the country. From March to November 2015, 678 individuals were excluded from EBOV
+infection by real-time PCR method. HIV antibodies in the sera were tested using ELISA (with kits from Beijing Wantai Biological Pharmacy
+Enterprise Co., Ltd., Beijing, China, and positive cases were confirmed using kits from Zhuhai Livzon Diagnostics Inc., Zhuhai, China). The
+significant decreases (P < 0.001 in Chi-square tests) in HIV prevalence ratio among the Ebola RNA negative suspected Ebola cases in each month
+are shown as brown lines and diamond symbols. The monthly reported number of Ebola cases in Sierra Leone by the WHO are shown as blue
+lines and diamond symbols ([URL: "http://apps.who.int/gho/data/view.ebola-sitrep.ebola-summary-latest?lang=en"] http://apps.who.int/gho/data/view.ebola-sitrep.ebola-summary-latest?lang=en) and were significantly correlated with
+the reported monthly number of Ebola cases (r = 0.745, P = 0.034) using Pearson’s correlation coefficient analyses. EBOV: Ebola virus; EVD: Ebola
+virus disease; PCR: Polymerase chain reaction; ELISA: Enzyme-linked immunosorbent assay
+Page 4
+Liu et al. Infectious Diseases of Poverty (2019) 8:15  Page 4 of 4
+In conclusion, our study indicates an interaction be-
+tween the EVD outbreak and other important infectious
+diseases prevalent in the same area. The 2014–2016
+EVD epidemic had a considerable impact on the public
+health system and influenced the prevalence of HIV
+found among suspected EVD cases in Sierra Leone.
+However, it also accelerates the establishment of a better
+surveillance network for infectious diseases. During the
+post-EBOV era, a passive surveillance system was insuf-
+ficient for identifying more cases of HIV infection. Other
+innovative and effective strategies should be imple-
+mented to expand HIV testing in Sierra Leone. A
+well-established disease control and prevention system
+in Africa will make invaluable contributions to global
+health.
+Additional file
+ Additional file 1: Multilingual abstracts in the five official working
+languages of the United Nations. (PDF 230 kb)
+Abbreviations
+ART: Antiretroviral therapy; EBOV: Ebola virus; ELISA: Enzyme-linked
+immunosorbent assay; ETC: Ebola treatment center; EVD: Ebola virus disease;
+HCV: Hepatitis C virus; PCR: Polymerase chain reaction; WHO: World Health
+OrganizationHIV/AIDSHuman immunodeficiency virus infection and acquired
+immune deficiency syndrome
+Acknowledgements
+Hundreds of Chinese and Sierra Leonean staff on-site took part in the sample
+collection, transportation, detection, and data analysis. We especially
+acknowledge the excellent work of six previous detection teams of the China
+CDC (mobile and fixed laboratories) and indispensable support (materials
+and reagents) of the National Institute for Viral Disease Control and
+Prevention, China CDC. We thank Professor Gary Wong for his great help in
+the English language revision. We also express our deep condolences to the
+family of Dr. Abdul Kamara of the Ministry of Health and Sanitation, Sierra
+Leone. Dr. Abdul Kamara contributed a lot to this project but died after the
+successful control of Ebola epidemic in Sierra Leone.
+Funding
+This work was supported by the National Mega-Project for Infectious Disease,
+Ministry of Science and Technology (Grant no. 2016ZX10004222–003), Na-
+tional Key Project of Ebola Research, National Natural Science Foundation of
+China (NSFC; Grant no. 81590763), and also NSFC projects for Dr. William J.
+Liu (Grant no. 81373141 and 81401312).
+Availability of data and materials
+The data analysed during this study are included in this paper. Some of the
+datasets are available from the corresponding author upon reasonable request.
+Authors’ contributions
+WJL and GFG contributed to the conception and design of the study. HH,
+QS, YL, YLSun, XDY, DS, SC, ZZ, XXY, and IK contributed to the laboratory
+experiments. AK, ML, BK, PO, XD, YLShu, WX, GW, and MG contributed to the
+consultation and material support. WJL, HH, and GFG drafted the manuscript.
+WJL, HH, PO, HR, MG, and GFG revised the report. All authors approved the
+final version.
+Ethics approval and consent to participate
+All manipulations of human samples were approved by the Sierra Leone Ethics
+and Scientific Review Committee, Directorate of Training and Research, Ministry
+of Health and Sanitation. The study was conducted in accordance with the
+tenets of the Declaration of Helsinki and the standards of Good Clinical Practice
+(as defined by the International Conference on Harmonization). 
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Author details
+1NHC Key Laboratory of Biosafety, National Institute for Viral Disease Control
+and Prevention, Chinese Center for Disease Control and Prevention(China
+CDC), Beijing 102206, China. 2Jiangsu Provincial Center for Disease control
+and Prevention, Nanjing 210009, China. 3Beijing Institute of Biotechnology,
+Beijing 100071, China. 4Beijing Center for Disease Prevention and Control,
+Beijing 100013, China. 5Jilin Provincial Center for Disease control and
+Prevention, Changchun 130021, China. 6Shandong Provincial Center for
+Disease control and Prevention, Jinan 250014, China. 7Fujian Provincial
+Center for Disease control and Prevention, Fuzhou 350001, China. 8The
+Ministry of Health and Sanitation, Freetown, Sierra Leone. 9UNAIDS,
+Freetown, Sierra Leone. 10Chinese Center for Disease Control and Prevention,
+Beijing 102206, China. 11CAS Key Laboratory of Pathogenic Microbiology and
+Immunology, Institute of Microbiology, Chinese Academy of Sciences (CAS),
+Beijing 100101, China. 12Sierra Leone-China Friendship Biological Safety
+Laboratory, Freetown, Sierra Leone.
+Received: 2 May 2018 Accepted: 6 February 2019
+References
+1.  WHO. Ebola outbreak 2014–2015. Geneva: World Health Organization; 2016.
+2.  Lamontagne F, Fowler RA, Adhikari NK, Murthy S, Brett-Major DM, Jacobs M,
+et al. Evidence-based guidelines for supportive care of patients with Ebola
+virus disease. Lancet. 2017. [URL: "https://doi.org/10.1016/S0140-6736(17)31795-6."] https://doi.org/10.1016/S0140-6736(17)31795-6.
+3.  Statistics Sierra Leone SSL. Sierra Leone demographic and health survey
+2013. Freetown Sierra Leone Statistics Sierra Leone Jul. 2014;42:57–62.
+4.  Brima N, Burns F, Fakoya I, Kargbo B, Conteh S, Copas A. Factors associated
+with HIV prevalence and HIV testing in Sierra Leone: findings from the 2008
+demographic health survey. PLoS One. 2015;10:e0137055.
+5.  Li WG, Chen WW, Li L, Ji D, Ji YJ, Li C, et al. The etiology of Ebola virus
+disease-like illnesses in Ebola virus negative patients from Sierra Leone.
+Oncotarget. 2016;7:27910–5.
+6.  Arranz J, Lundeby KM, Hassan S, Zabala Fuentes LM, San Jose Garces P,
+Haaskjold YL, et al. Clinical features of suspected Ebola cases referred to the
+Moyamba ETC, Sierra Leone: challenges in the later stages of the 2014
+outbreak. BMC Infect Dis. 2016;16:308.
+7.  Hu H, Yan H, Liu X, Xu X, Xu J, Qiu T, et al. Trends in late HIV diagnosis
+among men who have sex with men in Jiangsu province, China: results
+from four consecutive community-based surveys, 2011-2014. PLoS One.
+2017;12:e0172664.
+8.  UNAIDS. UNAIDS report on the global AIDS epidemic 2013. 2013.
+9.  Mobula ML, Brown CA, Burnham G, Phelps BR. Need for reinforced
+strategies to support delivery of HIV clinical services during the ebola
+outbreak in Guinea, Liberia, and Sierra Leone. Disaster Med Public Health
+Prep. 2015;9:522–6.
+10. Jacobs GP, Bhat P, Owiti P, Edwards JK, Tweya H, Najjemba R. Did the 2014
+Ebola outbreak in Liberia affect HIV testing, linkage to care and ART
+initiation? Public Health Action. 2017;7(Suppl 1):S70–5.
+11. Leno NN, Delamou A, Koita Y, Diallo TS, Kaba A, Delvaux T, et al. Ebola virus
+disease outbreak in Guinea: what effects on prevention of mother-to-child
+transmission of HIV services? Reprod Health. 2018;15(1):60.
+12. Takahashi S, Metcalf CJ, Ferrari MJ, Moss WJ, Truelove SA, Tatem AJ, et al.
+Reduced vaccination and the risk of measles and other childhood infections
+post-Ebola. Science. 2015;347:1240–2.
+13. Walker PG, White MT, Griffin JT, Reynolds A, Ferguson NM, Ghani AC. Malaria
+morbidity and mortality in Ebola-affected countries caused by decreased
+health-care capacity, and the potential effect of mitigation strategies: a
+modelling analysis. Lancet Infect Dis. 2015;15:825–32.
+14. Parpia AS, Ndeffo-Mbah ML, Wenzel NS, Galvani AP. Effects of response to
+2014-2015 Ebola outbreak on deaths from malaria, HIV/AIDS, and
+tuberculosis, West Africa. Emerg Infect Dis. 2016;22:433–41.

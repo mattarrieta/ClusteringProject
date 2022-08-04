@@ -1,0 +1,1197 @@
+BOOKMARKS:
+Abstract
+Background
+Methods
+  VEPP and Monday Morning Meeting exercise
+  Content learning from MMM
+  Confidence development from MMM
+Results and discussion
+  Content learning: Multiple choice
+  Content learning: open-ended responses
+  Beginner learning gains (introductory students)
+  GPS data example response
+  Novice learning gains (volcanology students)
+  Measures of confidence: beginner
+  Measures of confidence: novice
+  Connections between learning and self-efficacy with MMM
+Conclusions and recommendations
+  Themes of MMM training
+  Recommendations
+Competing interests
+Authors’ contributions
+Acknowledgements
+Author details
+References
+Page 1
+Teasdale et al. Journal of Applied Volcanology (2015) 4:11
+DOI 10.1186/s13617-015-0026-x
+RESEARCH  Open Access
+Using near-real-time monitoring data from Pu‘u
+‘Ō‘ō vent at Kīlauea Volcano for training and
+educational purposes
+Rachel Teasdale1*, Katrien van der Hoeven Kraft2 and Michael P Poland3
+Abstract
+Training non-scientists in the use of volcano-monitoring data is critical preparation in advance of a volcanic crisis,
+but it is currently unclear which methods are most effective for improving the content-knowledge of non-scientists
+to help bridge communications between volcano experts and non-experts. We measured knowledge gains for
+beginning-(introductory-level students) and novice-level learners (students with a basic understanding of geologic
+concepts) engaged in the Volcanoes Exploration Program: Pu‘u ‘Ō‘ō (VEPP) “Monday Morning Meeting at the Hawaiian
+Volcano Observatory” classroom activity that incorporates authentic Global Positioning System (GPS), tilt, seismic, and
+webcam data from the Pu‘u ‘Ō‘ō eruptive vent on Kīlauea Volcano, Hawai‘i (NAGT website, 2010), as a means of
+exploring methods for effectively advancing non-expert understanding of volcano monitoring. Learner groups
+consisted of students in introductory and upper-division college geology courses at two different institutions.
+Changes in their content knowledge and confidence in the use of data were assessed before and after the activity
+using multiple-choice and open-ended questions. Learning assessments demonstrated that students who took part in
+the exercise increased their understanding of volcano-monitoring practices and implications, with beginners reaching a
+novice stage, and novices reaching an advanced level (akin to students who have completed an upper-division
+university volcanology class). Additionally, participants gained stronger confidence in their ability to understand
+the data. These findings indicate that training modules like the VEPP: Monday Morning Meeting classroom activity
+that are designed to prepare non-experts for responding to volcanic activity and interacting with volcano scientists should
+introduce real monitoring data prior to proceeding with role-paying scenarios that are commonly used in such courses.
+The learning gains from the combined approach will help improve effective communications between volcano experts
+and non-experts during times of crisis, thereby reducing the potential for confusion and misinterpretation of data.
+Keywords: Volcano monitoring; Hazards training; Geoscience learning; Self-efficacy
+Background
+Communication between scientists and non-scientists
+(e.g. policy makers, the general public) is a significant
+challenge in volcanology (e.g., McGuire et al. 2009). The
+two groups may not be familiar with each other’s ter-
+minology, even to the extent that some words, such as
+“tilt” and “eruption”, will have different meanings to dif-
+ferent people. Data and scientific reports may be readily
+available to the general public, but it is unreasonable to
+expect non-science experts to efficiently navigate such
+* Correspondence: [URL: "mailto:rteasdale@csuchico.edu"] rteasdale@csuchico.edu
+1Geological and Environmental Sciences, California State University, Chico
+400 W 1st St, 95929-0205 Chico, CA, USA
+Full list of author information is available at the end of the article 
+resources, understand data-collection methods and lim-
+itations, and comprehend how the data may relate to
+hazardous events (especially those with low probabil-
+ities, like caldera-forming eruptions). Leaving volcano-
+monitoring data and conclusions open to interpretation
+by untrained non-scientists (e.g. “non-experts” who are
+represented here by introductory-level students) has
+the potential to introduce needless confusion; or in the
+worst-case scenario, improper action -or lack of action,
+which during a crisis can have disastrous consequences
+to life and infrastructure. The consequences of ineffect-
+ive communication between scientists and policy
+makers, planners, the media, and the public can be dire
+(e.g. Fiske 1984; Voight 1990).  Effective interaction
+© 2015 Teasdale et al.; licensee Springer. This is an Open Access article distributed under the terms of the Creative Commons
+Attribution License ([URL: "http://creativecommons.org/licenses/by/4.0"] http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction
+in any medium, provided the original work is properly credited.
+Page 2
+Teasdale et al. Journal of Applied Volcanology (2015) 4:11  Page 2 of 16
+between scientists and non-scientists regarding data
+collection and application to eruption forecasting is
+therefore of critical importance—but how can commu-
+nication between these groups be bridged?
+We addressed this question by testing the utility of
+online near-real-time volcano-monitoring data as an
+educational tool in college and university courses, with
+two populations of students; non-geology majors (re-
+ferred to as “non-experts”) and geology majors (consid-
+ered “novices”).  Real- and near-real-time datasets,
+including webcam imagery, earthquake locations, and
+surface deformation, that are available via the Internet
+are increasingly common for volcanoes around the
+world and constitute a valuable, yet largely unrealized,
+resource for formal and informal geoscience education.
+Such data demonstrate the dynamic nature of the Earth
+and are an effective means of connecting with students
+and other non-experts, especially once they realize that
+they are looking at the same information- at the same
+time as professionals who are attempting to better
+understand volcanic processes. Online datasets (e.g.
+GEOROC, IODP/Janus, Marine Geoscience Data System,
+Smithsonian GVN, and other databases),  are seldom 
+comprehensive, presented in a format useful for in-class
+adaptation, or accompanied by background information to
+aid with interpretation—aspects that are critical for educa-
+tional applications both in and outside of the classroom.
+The Volcanoes Exploration Program: Pu‘u ‘Ō‘ō (VEPP)
+is a website that was established to address the need for an
+organized and up-to-date educational resource in volcan-
+ology (United States Geological Survey 2009; Poland et al.
+2010b,c; Poland et al. 2011).  The VEPP website hosts
+near-real-time monitoring data from the active Pu‘u ‘Ō‘ō
+eruptive vent on Kīlauea Volcano, Hawai‘i, along with
+background and context information (Figure 1).  A
+strength of VEPP is the common theme of the Pu‘u ‘Ō‘ō
+eruption (ongoing since 1983; Heliker and Mattox 2003;
+Orr et al. in press), which allows the website to be revisited
+multiple times to demonstrate different principles of
+eruption monitoring and integration of many types of data
+used in volcano monitoring.
+The VEPP website is home to a variety of data and
+ancillary materials concerning the Pu‘u ‘Ō‘ō vent of
+Kīlauea. Near-real-time datasets include webcam im-
+agery, tilt, GPS, and seismic amplitude, while maps of
+lava flow activity and results from episodic kinematic
+Figure 1 Example of VEPP website showing option tabs such as Data, Techniques, and Updates.
+Page 3
+Teasdale et al. Journal of Applied Volcanology (2015) 4:11  Page 3 of 16
+GPS surveys covering a network of benchmarks
+around Pu‘u ‘Ō‘ō are made available as those measure-
+ments are collected. The time-series data (e.g. seismic
+amplitude, tilt, and GPS) can be queried through the
+VALVE (Volcano Analysis and Visualization Environ-
+ment; Cervelli et al. 2002) interface, which allows a
+user to plot data from various monitoring stations
+over user-defined time periods. Webcam imagery is
+available via a searchable database, while lava flow
+maps and kinematic GPS results can be downloaded
+for the specific dates on which they were collected.
+The data are supported on the VEPP site by informa-
+tion including the history of the Pu‘u ‘Ō‘ō eruption,
+how various monitoring data are collected, and how
+monitoring data relate to eruptive activity. The vision
+for VEPP is that students and other users can examine
+a diversity of monitoring data from a period that they
+define—either collected recently or spanning some
+past event of interest—and use those data to interpret
+the volcanic processes that are responsible for the
+observed signals.
+We explored the impact of VEPP on improving students’
+understanding of volcano monitoring and hazards through
+the use of a teaching module that simulates the weekly staff
+meeting at the U.S. Geological Survey’s Hawaiian Volcano
+Observatory. We developed the “VEPP: Monday Morning
+Meeting at the Hawaiian Volcano Observatory” (MMM)
+activity to give students the opportunity to work in small
+groups to use VEPP data to monitor an eruptive event at
+Pu‘u ‘Ō‘ō.  The goal of this work is to determine if the
+MMM VEPP activity effectively results in transitioning be-
+ginner or novice level students to the advanced level on
+the spectrum of comprehension for volcano monitoring
+techniques and if their ability to interact with experts
+increases.
+The learning goals of the activity are for students to be
+able to “interpret a multidisciplinary dataset for monitor-
+ing volcanic activity and to use that data to make a fore-
+cast for a potential eruption” (Poland et al. 2010a). We
+found that exposure to VEPP data through the MMM
+activity advanced non-expert students to a level where
+they could communicate effectively with experts. Our re-
+sults suggest that to improve exchanges between scien-
+tists and non-scientists, it is important to gain the
+perspective of how non-experts think, how they can
+learn, and how information may best be targeted to dif-
+ferent levels of non-experts, which should reduce a
+source of misunderstanding when scientists and non-
+scientists interact during a volcanic crisis. The VEPP ap-
+proach to educating non-experts is unique compared to
+other training exercises because the student participants
+work with real volcano-monitoring data, as opposed to
+mock monitoring results (even though these are usually
+based on real eruption experiences).  Other methods 
+used to enhance communication between groups or the
+understanding level of non-experts such as tabletop
+exercises (e.g.,  Haynes et al. 2008; Solana et al. 2008;
+Pierson et al. 2013) and direct-delivery courses with
+role-playing scenarios used in the Federal Emergency
+Management Agency course on Volcanic Crises Aware-
+ness (B. Houghton, written communication, 2014) may
+benefit from including VEPP or similar online volcano-
+data resources. Including a VEPP-based activity that uti-
+lizes real volcano-monitoring data in such courses prior to
+an eruption role-playing project would provide important
+background to beginner and novice participants, allowing
+them to get more out of the role-playing exercise, and take
+better advantage of the monitoring experience. The VEPP
+data and related activities may also work well leading up
+to other simulation activities such as the eruption crisis
+simulation of Harpp and Sweeney (2002) or in addition to
+other volcano-related simulations such as Hales and
+Cashman (2008) for training or classes focused on diverse
+volcano hazards.
+Methods
+VEPP and Monday Morning Meeting exercise
+To support use of the VEPP website, a week-long work-
+shop was held at Kīlauea Volcano in July 2010. The 25 par-
+ticipants from the United States and Canada represented a
+diverse cross section of higher learning institutions, from
+community colleges to research universities, and they in-
+cluded geology faculty who teach introductory non-major
+classes (both large and small),  laboratories, discipline-
+specific upper-division courses, and graduate seminars. An
+outcome of the workshop is that 20 new volcanology
+teaching modules that incorporate the VEPP site were
+developed and made available for community use via
+the Science Education Resource Center (SERC) website
+(National Association of Geoscience Teachers 2010;
+Poland et al. 2011). We developed the “VEPP: Monday
+Morning Meeting at the Hawaiian Volcano Observatory”
+activity (Poland et al. 2010a) and have assessed how
+student learning can be improved through the use of
+online volcano-monitoring data that are supported by
+background materials and use of effective and research-
+based pedagogical methods.
+The Monday Morning Meeting (MMM) activity is
+intended to simulate the weekly staff meeting of the
+USGS Hawaiian Volcano Observatory, during which ex-
+perts from different disciplines (typically geology, geo-
+desy, seismology, and gas geochemistry) present data
+collected over the previous week, and discuss implica-
+tions for volcanic activity. The MMM exercise is a jigsaw
+activity (Aronson et al. 1978; Shulman and Sherin 2004),
+in which students in small groups (3–4 students) are
+given one type of monitoring data, either tilt, GPS, web-
+cams, or seismic data associated with the July 21, 2007,
+Page 4
+Teasdale et al. Journal of Applied Volcanology (2015) 4:11  Page 4 of 16
+fissure eruption on the east flank of the Pu‘u ‘Ō‘ō erup-
+tive vent (Figure 2; Poland et al. 2008). We chose to use
+archive data available on the VEPP website because an
+interpretation of that eruptive activity has already been
+published, providing the opportunity for classes to
+complete the MMM exercise to predict volcanic activity
+and then to read the real outcome (Poland et al. 2008).
+The same exercise can be run using near-real-time data,
+in which students interpret volcanic activity as it is hap-
+pening. Student groups discuss their assigned data type
+in terms of what the data indicate is happening on the
+volcano. A handout included in the activity (available at
+ http://nagt.org/nagt/teaching_resources/vepp/examples/
+ 48383.html) guides student discussion. After a set period 
+of time for discussion, new groups are formed consisting
+of at least one student from each discipline. The stu-
+dents describe their data to one another and are then
+tasked with developing an interpretation of the vol-
+canic activity that can satisfy all the datasets they have
+examined. Instructors can use a handout included in
+the activity to guide the second set of student discus-
+sions, which can be followed by a whole-group discus-
+sion led by the instructor. The timing of each student
+discussion session can be determined by the instructor,
+based on our use of the MMM activity, we recommend
+30–50 minutes each. As with any jigsaw activity (e.g.
+Aronson et al. 1978), the distribution of each data type
+is governed by the number of students and groups
+Figure 2 Examples of GPS, Tilt, Seismic and Webcam data used in MMM activity for July 1–31, 2007.
+Page 5
+Teasdale et al. Journal of Applied Volcanology (2015) 4:11  Page 5 of 16
+participating in the two discussion sessions. Grading is at
+the discretion of the instructor, an additional writing as-
+signment is provided, which asks student participants to
+read the EOS-Transactions article that describes the
+eruption event they had been asked to interpret from the
+activity (Poland et al. 2008) and compare their final inter-
+pretation based on VEPP data with actual events.
+Students in seven different undergraduate geoscience
+courses participated in the MMM activity during 2011–13
+(Table 1) and took a pre- and post- MMM activity survey.
+In each of these classes, learning gains ((Post%-Pre%)/(100-
+Pre%) from Hake 1998) were measured for students who
+completed surveys that include multiple choice and
+open-ended responses, which were qualitatively analyzed
+for learning (Tables 2 and 3). Participants at the two-year
+college (2yc) included students in a geologic hazards intro-
+ductory course, in which students engaged in the activity
+administered during three separate classes, and in two
+physical introductory geology courses, in which students
+engaged in the activity in just one class period. Partici-
+pants at the comprehensive university (4yc) used the
+MMM exercise in a large lecture setting for the introduc-
+tory physical geology course during two class periods and
+in a small upper-division volcanology course during two
+class periods. All classes at the 2yc were taught by one
+instructor and all classes at the 4yc were all taught by a
+second instructor.
+Our intent for administering this range of populations,
+class settings, and time frames was to assess if time, class
+size, or level of background expertise played a role in
+the ability for the students who started as non-experts to
+improve their knowledge of volcano monitoring as a re-
+sult of using the MMM activity. For the purpose of ana-
+lyzing learning in the MMM activity, we defined four
+categories of learners. Introductory students started at a
+beginner level with minimal amounts of prior knowledge
+based on pre-MMM survey results. It is this population
+that we liken to the non-expert, general population (i.e.,
+public decision makers, news media, and the general 
+Table 2 Statistical analysis of results of MMM multiple
+choice question
+Classes Paired t-test Cohen’s d (effect size) p-value
+2yc (111) Hazards 5.11  2.19  <0.001
+2yc (101 a) Intro 4.28  1.01  <0.001
+2yc (101 b) Intro 5.87  1.67  <0.001
+4yc (101 a) Intro 4.68  1.81  <0.001
+4yc (101 b) Intro 13.31  1.91  <0.001
+Volcanology 2.07  0.72  0.05
+Introductory 15.70  2.07  <0.001
+Statistical comparison of pre-MMM and post- MMM scores, effect sizes and
+p-values. Significance was tested at the 0.05 level, all p-values less than 0.05
+are considered to be statistically significant. All d values over 0.8 are considered
+to have a large effect size (Cohen 1969).
+public) with whom volcanologists may need to interact
+during times of planning and crisis. The volcanology stu-
+dents had some prior knowledge both from the course
+content as well as other courses where some of the meth-
+odology and content may have been provided in other
+contexts, such as the use of GPS in a Structural Geology
+class. We consider these students to be novices; they have
+more knowledge than a beginner. Advanced learners are
+able to apply appropriate terminology to the collection
+and use of specific volcano-monitoring techniques and
+have a basic ability to interpret the data. As such, the
+knowledge of advanced learners is similar to what is de-
+sired for civil defense personnel and other professionals
+with whom planning and communication often occurs in
+volcanically active regions. Experts are volcanologists who
+actively work with volcano monitoring data. The notion of
+a beginner- to- expert continuum is similar to those de-
+scribed in other contexts (Chi et al. 1981; Bransford et al.
+2000; Petcovic and Libarkin 2007). The goal of this work
+was to determine if the MMM activity effectively allows
+for a beginner or novice to advance on the spectrum of
+comprehension for volcano-monitoring techniques and
+become more literate in conversing with experts.
+Table 1 Results of MMM multiple-choice question #1
+Classes (and student ID numbers)  Time (mins) N  Class total N  Pre- mean Pre- s.d. Post- mean Post- s.d.
+2yc (GLG111) Hazards (A1-A12)  200  12 13  −1.25  2.23  2.25  0.97
+2yc (GLG101a) Intro (A14-A31)  75  18 23  −1.39  1.82  1.33  1.81
+2yc (GLG101b) Intro (A33-A46)  75  14 14  −1.07  2.40  2.64  1.39
+4yc (GEOS101a) Intro (C4-C48)  100  16 105  −1.25  1.06  2.38  1.63
+4yc (GEOS101b) Intro (C50-C98)  100  49 57  −1.92  1.64  2.35  1.74
+Volcanology (2011 & 2013) (GEOS436) (10-392-10-409) 100  17 21  2.00  1.06  2.77  1.09
+All introductory  –  109 –  −1.56  1.97  2.21  1.65
+Descriptive statistics of the quantitative measure of student learning gains from multiple-choice (MC) question #1 that asked students to identify monitoring
+techniques. Time (min) is the amount of time each class spent on the activity; N is the number of participants who gave permission for data to be used and
+completed both pre- MMM and post- MMM surveys; Class Total N is the total number of students enrolled in the class. Scoring is described in the text. Pre- MMM
+mean, Post- MMM mean and SD columns report the before and after scores for the MC question. Minimum score = −8, Maximum score = 4.
+Page 6
+Teasdale et al. Journal of Applied Volcanology (2015) 4:11  Page 6 of 16
+Table 3 Learning gains for question 1 on MMM survey
+Classes  Pre %  Post % Learning
+(mean) (mean) gains
+2yc (GLG111) Hazards  51.28  78.85  0.49
+2yc (GLG101a) Intro  50.85  71.79  0.38
+2yc (GLG101b) Intro  53.30  81.87  0.59
+4yc (GEOS101a) Intro  51.92  79.81  0.50
+4yc (GEOS101b) Intro  46.78  79.59  0.59
+Volcanology (2011 & 2013) GEOS436) 76.92  82.81  0.14
+All introductory  49.54  78.55  0.53
+Learning Gains is the (Post%-Pre%)/(100-Pre%) and ranges from a possible gain of
+−1 to +1 (Hake 1998). Class mean % for pre and post scores once normalized out
+of 12 points. Learning gains are class mean gains based on each participants Post
+% - Pre %/100- Pre % score. Lower Learning Gains for Volcanology students may
+be associated with a ceiling effect associated with higher pre-MMM survey scores,
+as discussed in the text.
+Content learning from MMM
+Our primary method for measuring learning gains was
+from the use of a pre-MMM and post-MMM survey ad-
+ministered to students (electronically or paper format,
+see discussion below) prior to and following the MMM
+activity (Table 4). The post-MMM survey was adminis-
+tered between 1–3 weeks after the activity. Pre- MMM-
+and post- MMM surveys were delivered in hard copy
+during all three classes at the 2yc (GLG111, GLG101a,
+and GLG101b) and the 2011 volcanology course at the
+4yc (GEOS436). Electronic versions were offered to stu-
+dents in two introductory courses (GEOS101a and
+GEOS101b) and the 2013 volcanology course at the 4yc.
+Not all enrolled students completed both the pre-MMM
+and post- MMM surveys offered electronically, with re-
+sponse rates of 28% (spring 2013) and 47% (fall 2012)
+for the introductory courses and 70% for the volcanology
+students. While the response rate in the spring 2013 
+introductory class was low, respondents received the
+same range of final grades as the whole class, and their
+survey scores were statistically consistent with the fall
+2012 class (which had a 47% response rate).
+The MMM curriculum and survey were developed
+through an iterative process of consultation between
+content experts and education specialists. The MMM
+survey is tied to the content taught within the MMM
+module and is designed to capture student learning
+gains about methods used to monitor and forecast vol-
+canic eruptions through multiple questions.
+The multiple-choice question in both the pre- MMM
+and post- MMM survey asked students to identify which
+of “the following data types are used to monitor volcanic
+eruptions?”  Possible answers included widely used
+methods and distractor responses that are not commonly
+used for monitoring purposes. The scoring for this ques-
+tion was one point for each correctly identified method
+and a loss of a point for each inaccurate method identified
+and each unidentified correct method. The lowest possible
+score was −8 and the highest possible score was +4. We
+completed basic statistical tests (number of participants,
+pre-MMM and post- MMM survey scores, mean, and
+standard deviation) and t-test comparisons for each class
+and between beginner (introductory classes) and novice
+(volcanology classes) levels to assess prior knowledge and
+overall learning gains for all student participants. Identifi-
+cation of beginner, novice, and advanced level learners are
+for the purposes of distinguishing learner types before
+and after the use of the MMM activity and do not
+imply knowledge beyond the scope of the pre-MMM
+and post- MMM surveys completed here.
+In addition to the multiple-choice question, we mea-
+sured student responses to open-ended questions about
+the collection and use of GPS, tilt, and seismic data,
+Table 4 Questions from the pre-MMM and post-MMM surveys
+Multiple choice: The following data types are used to monitor volcanic eruptions (circle all that apply)
+Tilt  Continuous GPS  Earthquakes Jacob’s Staff  Webcams
+Potentiometric GPS Mineral alteration  Strike & Dip  Gravity
+Open ended response:
+GPS:  Describe how GPS data are used to monitor volcanoes, including the following:
+a) How are the data collected?
+b) How the data are used in volcano monitoring (e.g. what is a sign of an impending eruption?)
+Tilt:  Describe how tilt data are used to monitor volcanoes, including the following:
+a) How are the data collected?
+b) How the data are used in volcano monitoring (e.g. what is a sign of an impending eruption?)
+Seismic  Describe how seismic data are used to monitor volcanoes, including the following:
+a) How are the data collected?
+b) How the data are used in volcano monitoring (e.g. what is a sign of an impending eruption?)
+Before-After:  Describe and interpret changes in tilt patterns expected before, during, and after an episode of lava effusion at Pu’u ‘Ō’ō.
+Questions from the pre-MMM and post-MMM surveys described in the text.
+Page 7
+Teasdale et al. Journal of Applied Volcanology (2015) 4:11  Page 7 of 16
+which provided greater insights into student understand-
+ing of these concepts (Table 5).  Student participants
+were asked to briefly describe how each of the three
+monitoring data types (GPS, tilt, seismic) was collected
+and used to monitor volcanoes. A summative, short-
+answer question asked students to, “Describe and inter-
+pret changes in tilt patterns expected before, during, and
+after an episode of lava effusion at Pu‘u ‘Ō‘ō (a volcanic
+vent of Kīlauea)”.  This last question provided students
+the opportunity to tell a more holistic story of events as-
+sociated with volcanic activity in the context of a specific
+method used for volcano monitoring and forecasting.
+Open-ended responses from students were analyzed
+for overall learning gains by comparing responses from
+pre-MMM to post- MMM surveys. Changes in learning
+scores were determined from a thematic level of analysis
+(Miles and Huberman 1994). Thematic analysis is an ap-
+proach of looking at trends within the data to identify
+responses used by students that illustrate common
+learning themes. Common phrases revealed two themes
+across the student responses: a) use of vocabulary,
+through increased use of appropriately applied termin-
+ology (e.g., inflation/deflation, radial/tangential tilt) or b)
+overall conceptual gains when pre-MMM and post-
+MMM responses from the same student were compared.
+Answers that indicated an increase in understanding
+(e.g.,  a pre-MMM survey answer of “I don’t know” or
+“seismographs” in response to the question of how seis-
+mic data are collected would be considered improved if
+the student’s post-survey response was more detailed,
+such as, “using seismometers to detect an increase in
+earthquake activity” [student A34]) were scored as +1.
+Responses that were categorized as the same or no
+change in understanding received a score of “0”.  Re-
+sponses received a −1 score if there was evidence of a
+decrease in understanding or use of language, or if they
+reflected a misconception that was not evident in the
+pre-MMM survey. For example, one student (10–394)
+applied the term “potentiometric GPS” in the post-survey
+response, which was one of the distractors in the pre-
+MMM and post- MMM survey multiple-choice ques-
+tion. Responses to the open-ended questions were 
+initially scored separately by the individual instructors
+and were subsequently evaluated jointly. If there was a
+disagreement in the scoring, a common score was
+agreed upon through discussion. It was possible for a
+student to improve their understanding and also gain a
+new misconception, so there were some students who
+received both a +1 and −1 score. Counts of values were
+used to determine percent of learning gains, loss, or no
+changes and correlated to student learning gains for the
+multiple choice question results. The total possible range
+of change from pre-MMM to post- MMM survey re-
+sponses to open-ended questions is +7 (increase in all
+seven questions) to −7 (decrease in all seven questions).
+Confidence development from MMM
+Self-efficacy is the confidence in one’s ability to be suc-
+cessful with a specific task in the ability to understand
+content largely based on prior experiences (Bandura
+1986; Zimmerman 2000),  and it consistently predicts
+student performance in different subjects, including
+introductory science courses (e.g.,  Chemistry, Zusho
+et al. 2003; Geology, McConnell et al. 2010). While self-
+report data is dependent on the experiences and prior
+knowledge of the student, such data are valuable in help-
+ing to determine changes in the perception of student
+learning, and can be predictive of performance (Assor
+and Connell 1992).  Self-efficacy of student participants
+was measured in pre-MMM and post- MMM surveys
+from self-ratings on a Likert Scale (Likert 1932) for state-
+ments, “I understand [seismic/tilt/GPS/webcam] data and
+how to interpret it regarding eruptive conditions”.  An
+additional set of data are from self-ratings on a Likert
+Scale for the statement, “I understand that assessments of
+volcanic activity are based on multiple datasets, and can
+describe how different datasets complement one another”.
+In all cases, students were asked to rate their level of con-
+fidence using a scale of 1 (not at all),  3 (somewhat),  5
+(I could look at this data and assess the state of activity).
+Changes in self-efficacy are from comparison of indi-
+viduals’ scores in their pre-MMM and post- MMM survey
+responses (Table 6).
+Table 5 Results of MMM Written results from pre-MMM and post- MMM surveys
+Change in open-ended question scores from pre- MMM to post-MMM survey*
+Class  Multiple choice GPS (a) GPS (b) Tilt (a) Tilt (b) Seismic (a) Seismic (b) Before- -After Sum of score
+changes**
+Average introductory (2yc) 3.77  0.40  0.26  0.39  0.43  0.25  0.26  0.50  2.45
+Average introductory (4yc) 4.11  0.55  0.70  0.54  0.56  3.77
+Average volcanology 0.76  0.63  0.65  0.35  0.53  0.35  0.53  0.41  3.41
+*Note: Possible scores are −1 (decreased quality answer), 0 (same quality answer), +1 (improved answer).
+**4yc written questions asked on basis of 4 questions by topic (without (a) and (b) designations, scores normalized to 7 points possible for easy comparison with
+2yc introductory and volcanology student scores.
+Summary of comparison of student pre-MMM and post- MMM scores for open-ended (written) questions, which address (a) the collection of data and (b) the use
+of data in monitoring volcanoes.
+Page 8
+Teasdale 
+et 
+al. 
+Journal 
+of 
+Applied 
+Volcanology 
+(
+2015) 
+4:
+11
+Table 6 Results of MMM self-efficacy scores for pre-MMM and post- MMM surveys
+Pre-MMM survey 5 pt Likert scale  Post-MMM survey 5 pt Likert scale  Difference pre- to post- Likert score
+Classes  Seismic Tilt GPS Webcam Multiple Pre-score Seismic Tilt GPS Webcam Multiple Post-score Seismic Tilt GPS Webcam Multiple Average
+data sets total (/30)  data sets total (/30)  data sets post-pre
+difference
+2YC GLG111 Intro-Hazards 1.7  1.3  1.6  1.7  1.8  9.2  3.1  3.5  3.4  4.0  3.6  19.7  1.4  2.3  1.8  2.3  1.8  1.9
+2YC GLG101a Intro  1.6  1.1  1.1  1.3  1.8  6.9  2.9  3.1  2.8  3.6  4.0  16.3  1.3  1.9  1.7  2.3  2.2  1.9
+2yc GLG101b Intro  1.5  1.1  1.1  1.3  1.5  6.5  3.2  3.1  3.3  3.8  4.0  17.4  1.7  2.1  2.1  2.5  2.5  2.2
+4yc GEOS101a Intro  2.4  2.3  2.4  1.8  2.8  13.8  4.3  4.1  3.9  4.0  4.3  23.7  1.9  1.8  1.6  2.2  1.5  1.8
+4yc GEOS101b Intro  2.3  2.1  2.4  2.2  2.8  14.1  3.7  3.4  3.6  3.9  3.8  20.9  1.3  1.3  1.2  1.8  1.0  1.3
+All volcanology. 3.4  2.9  3.4  3.6  3.6  19.7  4.1  4.1  4.3  3.9  4.6  23.7  0.7  1.2  0.9  0.4  0.9  0.8
+Average - Intro (all)  2.0  1.7  1.9  1.8  2.4  9.9  3.5  3.4  3.4  3.9  3.9  18.1  1.5  1.7  1.5  2.1  1.5  1.7
+Average - Volcanology 3.4  2.9  3.4  3.6  3.6  16.9  4.1  4.1  4.3  3.9  4.6  21.1  0.7  1.2  0.9  0.4  0.9  0.8
+Self-Efficacy ratings of students in pre-MMM and post- MMM surveys, using Likert Scale (1 = low confidence to 5 = high confidence in the use of volcano monitoring data). 
+Page 
+8 
+of 
+16
+Page 9
+Teasdale et al. Journal of Applied Volcanology (2015) 4:11  Page 9 of 16
+Results and discussion
+Content learning: Multiple choice
+In order to compare the introductory students (beginners)
+to students enrolled in the volcanology course (novices),
+we compared the mean pre MMM values for both popula-
+tions. The pre MMM survey for the beginners was −1.56
+(normalized to 6.44) and for the novices was 2.00 (normal-
+ized to 10.00). An independent t-test comparison between
+these two populations determined that the pre-MMM
+survey responses for the beginners was significantly
+different from the novice pre-MMM survey results
+(t = −11.16, df = 36.28, p < 0.001, with non-equal vari-
+ances assumed due to the large difference in popula-
+tion sizes). The effect size illustrates the magnitude of
+the difference between these populations with a 1.89
+Cohen’s d-value, where general convention is that any-
+thing over 0.8 is considered to be a large effect size
+(Cohen 1969). As a result, we have including a general
+category of “introductory” that treats all of the intro-
+ductory students at both the two-year college and the
+four-year college as one population.
+An independent t-test compares the means between
+the two populations in order to determine if the differ-
+ence in means is significantly different than zero
+(Coladarci et al. 2008).  A paired t-test compares the
+difference in mean scores for each participant and de-
+termines if that difference is significantly different
+from zero (Coladarci et al. 2008). Cohen’s d is a meas-
+ure of the effect size, which is to say, how much the
+means between two populations vary as a function of
+their standard deviations, this measure is more mean-
+ingful than significance which is a function of the size
+of a given population (Coe 2002).  Learning gains are
+calculated by normalizing the pre and post scores out
+of 12, so a pre score of −3 would result in a value of a
+normalized score of 5 and would be the equivalent of
+a pre % score of 38.46%.  As a result, learning gains
+were calculated as a function of the formula from
+Hake (1988) of (Post%-Pre%)/(100-Pre%).  This allows
+one to examine the learning gains as a function of the
+maximum possible learning gains. As such, it has pre-
+viously been posited that any gain over 0.7 is a large
+learning gain, between 0.7 and 0.3 is a medium learn-
+ing gain and less than 0.3 is a small learning gain
+(Hake 1998).  Table 3 illustrates the learning gain
+means for each class. Figure 3 illustrates the learning
+gains, converted to percent as compared to the initial
+pre-score values, which illustrates the high incoming
+knowledge of the volcanology (novice) students. The
+results of this difference in incoming population sup-
+ports the importance of the follow-up details from the
+written responses in an effort to better understand
+what these learning gains represent in a more nuanced
+fashion. 
+In identifying monitoring methods in the multiple-
+choice question, all of the beginners (introductory) had
+significant changes in their MMM survey scores. While
+the extent of learning for novices (volcanology) was not
+statistically significant, both the small sample size and
+high pre-MMM survey score may have impacted this re-
+sult. Beginner learners increased their scores from −1.56
+to 2.21 and novice learners increased scores from 2.00 to
+2.77 (Table 1). Novice-student scores indicate that they
+started where the beginner’s knowledge ended. Because
+this item only scored to a maximum of 4 points, the
+total growth for the novice learners was limited. Stu-
+dents who started at the novice level may have experi-
+enced a ceiling effect on the multiple choice question of
+the post-MMM survey in that their pre-MMM survey
+scores were high, which may have limited how high their
+post MMM score could improve (e.g., Deslauriers et al.
+2011). This limitation in demonstrating learning was rein-
+forced with the learning gains, which were both positive,
+but was 0.53 for the beginner population and 0.14 for the
+novice population on a scale from −1 to +1 (Table 3).
+Content learning: open-ended responses
+For the purposes of this paper, in which we are examining
+the learning of two populations —beginners and novices—
+we find that the open-ended responses reveal more than
+the quantitative results from the multiple choice question
+analyzed. In particular, we note different degrees of shifts in
+understanding of the content between the pre-MMM and
+post- MMM survey. Students shifted from a beginner to a
+novice level of understanding and from a novice to an ad-
+vanced level of understanding. Examples of these shifts are
+presented below, selected to illustrate shifts in learning
+across a range of monitoring topics. For all open-ended
+response questions, minor spelling errors were cor-
+rected provided they did not change the meaning of the
+student’s statement (e.g.,  “erution” was corrected to
+“eruption” [student 10–404], whereas “satiles” was not
+changed to “satellites” [A-7] as it may or may not repre-
+sent an understanding of satellites).
+Beginner learning gains (introductory students)
+Introductory students, who generally lacked prior know-
+ledge of volcano monitoring, had small improvements in
+understanding, improving, on average, by 1 point. We
+categorize this shift as beginner to novice. While their
+understanding grew, it lacked the larger conceptual
+framework within which volcano-monitoring data are
+used and inform interpretations; however, these shifts
+are important for students who are starting from the
+lowest level of experience and understanding. Examples
+of student responses are presented below to illustrate
+that students often started with little to no knowledge
+about the subject, and in some cases started with
+Page 10
+Teasdale et al. Journal of Applied Volcanology (2015) 4:11  Page 10 of 16
+Figure 3 % Learning gains vs. % Pre-MMM score gains, which illustrates the overall learning gains for most student participants, even
+with the higher pre-scores for the volcanology (novice) students.
+incorrect knowledge, but gained a greater familiarity
+with the data-collection method and how it is used to
+monitor volcanoes after participating in the MMM activ-
+ity. Pre- MMM and post-MMM survey responses below
+are from students in introductory courses at the two
+year college (class: GLG101) for questions that ask how
+data are collected (question a) and how they are used in
+volcano monitoring (question b).
+GPS Data Example Response: 
+These kinds of small shifts in understanding, while not
+completely correct, represent partial shifts similar to
+those seen in other beginner populations engaged in
+active-learning scenarios (Lewis et al. 2010).
+In some cases, beginner students who had some prior
+knowledge demonstrated a more obvious shift in learn-
+ing. An example of this prior knowledge from a 2yc
+introductory-course student is:
+Seismic Data Example Response:
+Pre: “a) satellites, b)?”
+Post: “a) Through certain points that change GPS location
+during an eruption, b) A shift in the position” [A39]
+Tilt Data Example Response:
+Pre: “a) unsure, b) unsure”
+Post: “a) The data is collected through a machine that
+can detect if the magma underground is moving, b) The
+sign that a volcano might erupt would be if the tilt was
+increasing and increasing all around the volcano”. [A37]
+Seismic Data Example Response:
+Pre: “a) minerals, b) I don’t know”.
+Post: “a) by how much the earth shake, b) the graphs
+it comes out with” [A45] 
+Pre: “a) seismic waves are collected from plate
+movement; b) a sign would be significant seismic
+waves (an earthquake)”
+Post: “a) seismic data is collected by use of
+seismographs, place strategically around or on the
+volcano; b) A change in earthquake activity tends to
+signal an impending eruption, so if a change or
+increase in earthquake activity would occur, it would
+signal an impending eruption”. [A26]
+This example illustrates how possessing prior know-
+ledge on a topic can lead to greater advances in overall
+conceptual understanding (Chinn and Brewer 1993;
+Lewis et al. 2010).
+Students in the 2yc introductory hazards course
+(GLG111) had more time (200 minutes vs 100 or 75 mi-
+nutes spent in other courses) to spend with the MMM
+activity, which led to opportunities to engage more deeplyPage 11
+Teasdale et al. Journal of Applied Volcanology (2015) 4:11  Page 11 of 16
+with the content and allowed for greater overall shifts in
+learning gains. Examples below represent responses for
+students from the introductory hazards course:
+GPS data example response
+Tilt Data Example Response:
+Pre: “a) GPS trackers are placed on the volcano to see
+if it is moving or shifting, b) unsure”,
+Post: “a) GPS nodes are placed around the volcano
+and send information of their location to a satellite
+and then to us, b) If there is increased or decreased
+distance between the GPS nodes then you know it is
+active/possible eruption”. [A8]
+Pre: “a) I don’t know, b) I don’t know”,
+Post: “a) Using tiltmeters on or just below the surface,
+they measure if the ground is ‘tilting’ up or out (radial-up,
+tangential-out), b) The tiltmeters will show that the
+magma underneath is expanding, causing the ground to
+balloon out”. [A5]
+This student [A5] also greatly improved the explanation
+of how tilt data varies before, during, and after an eruption
+with:
+Pre: “I don’t know”
+Post: “Before: The tilt patterns showed radial and
+tangential tilt prior to the eruption, showing that the
+magma was expanding, During: The tilt patterns
+showed more radial tilt than tangential, due to the
+pressure of the magma being released, After: The tilt
+patterns lowered and show little sign of tilt”. [A-5]
+Responses like these suggest that the amount of time
+spent on the activity may help support beginners in de-
+veloping more sophisticated understanding. Both prior
+knowledge and increased time spent on the MMM activ-
+ity are important factors that should be considered in
+the development of training courses or other situations
+that involve working with non-experts.
+Novice learning gains (volcanology students)
+Novice learners (volcanology students in GEOS436) start
+the MMM activity with greater prior knowledge (pre-
+MMM survey multiple choice average scores = 2, Table 1)
+and fewer “I  don’t  know” responses than beginner
+learners (e.g., introductory students), although the learn-
+ing gains of novices are lower for the multiple choice
+question (0.14) than for beginners (0.53). Novice learners
+outperform beginner learners in conceptual knowledge 
+following the MMM activity, as measured by the average
+increase in open-ended (written) responses to questions
+about the collection and use of monitoring data—novice
+learners improved on average by 3.4 points (compared
+to 1 point for beginner learners). These results indicate
+that the novice learners increased their knowledge to
+what we have defined as “advanced” levels (able to apply
+appropriate terminology to the collection and use of spe-
+cific volcano-monitoring techniques and have a basic
+ability to interpret the data) as a result of the MMM ac-
+tivity. For example, student 10-404’s pre-MMM survey
+answer about the use of GPS data, “GPS data points are
+used as a source to determine the amount of tectonic
+movement within a specific area” reflects knowledge of
+GPS in the context of monitoring tectonic displace-
+ments, but is not phrased in the context of volcano
+monitoring. Following the MMM activity, this student’s
+response to the same question in the post-survey is,
+“The increased movement between two specific data
+points are imminent signs of an impending eruption.” In
+this case, the student began the activity with a grasp of
+how GPS is used, but increased the sophistication of the
+post-survey answer by providing additional detail with
+regard to the volcanological applications of GPS.
+The open-ended responses indicate that the novice
+learners’ knowledge level becomes much more sophisticated
+and nuanced and represents a shift towards that of ad-
+vanced learners. This is an important consideration in the
+design of training for civil-defense or emergency-planning
+personnel who might already be familiar with using scien-
+tific data but not in the context of a volcanic crisis.
+Measures of confidence: beginner
+Based on self-efficacy responses in the pre-MMM and
+post- MMM surveys (Table 6), student confidence in the
+use of each type of volcano-monitoring data increased
+for all beginner learners (introductory classes) following
+the MMM activity. Average increases for beginners range
+from 1.5 (seismic data) to 2.1 (webcam data). The webcam
+change may be an indicator of the simplicity in applying
+webcams to volcano monitoring and research. While most
+students are likely familiar with webcams, they initially
+lacked the confidence in applying them to volcano-
+monitoring scenarios, but were able to rapidly grasp the
+applications once they were exposed to the data. Efficacy
+increases were well aligned with increased knowledge in
+this beginner population. For example, pre-MMM survey
+responses to questions of how monitoring data are
+collected and used were left blank or had “I don’t know”
+responses. In particular, 55–100% of students in the intro-
+ductory hazards class (GLG111) started with “I don’t
+know” responses (depending on the particular monitoring
+method),  but in the post-survey, only 40% or fewer
+responded with “I don’t know” for the same questions.
+Page 12
+Teasdale et al. Journal of Applied Volcanology (2015) 4:11  Page 12 of 16
+Measures of confidence: novice
+The confidence of novice learners (volcanology students)
+starts higher than for beginner learners prior to the
+MMM activity, which is consistent with novices starting
+from more sophisticated content knowledge. Confidence
+ratings for most novice learners increased following the
+MMM activity, with gains ranging from average 0.35
+points (on the 5 point scale) for webcam data to average
+gains of 1.2 for tilt data (Table 6). Comparisons of pre-
+MMM and post- MMM self-efficacy data reveal lower
+increases for novices than for beginner learners for every
+data type. This may be the result of a ceiling effect in
+which novices are more confident with data prior to the
+MMM activity, resulting in smaller changes following
+the activity—in other words, they do not have as far to
+go in their confidence rankings in the post-survey. When
+compared with their learning gains in the written pre-
+MMM and post- MMM scores, novice learners show
+much larger improvement than beginner learners, so
+we suspect that with the MMM activity, novice learners
+increase their knowledge to the advanced level and
+come to recognize there is more to know about a par-
+ticular monitoring technique than they first realized.
+Their post-survey responses, therefore, reflect a more-
+sophisticated understanding that the monitoring tech-
+niques are complex. In particular, as they gain a greater
+understanding of where their ability is on the expert
+continuum, they may be less likely to indicate confidence
+at a full level (score of 5), which may also dampen the im-
+pact of self-efficacy scores with the novice population. As 
+learners recognize that the use of monitoring data is more
+complex and contains more uncertainty than they previ-
+ously thought, they may be more cautious as they assess
+their ability to use the data for volcano-monitoring
+purposes—in essence, as students have better models to
+construct their understanding, they can more accurately
+gauge their abilities and limitations (Bandura 1986).
+Connections between learning and self-efficacy with
+MMM
+Post-MMM survey scores for open-ended questions
+show improved content knowledge accompanied by im-
+proved self-efficacy measured for all classes (Figure 4).
+Beginner learners all start the MMM activity with simi-
+larly low self-efficacy in seismic, tilt, and GPS data, but
+high confidence in the use of webcam data. Post-data in-
+dicate that all classes increased in self-efficacy for all
+types of data, with the largest increase for webcam data.
+The multiple-choice scores for beginner learners in-
+creased by 22-29%, which is nearly the same as increases
+in their Likert-scale scores, by 22%-30% from before to
+after using the MMM activity (Tables 1 and 6).
+A prevailing informal assumption is that training/teach-
+ing in smaller class sizes results in greater learning for be-
+ginners, but there is evidence that with the MMM activity,
+learning can happen just as well with beginners in larger
+classes (e.g. >100 students) as in smaller classes (e.g., 13 stu-
+dents), particularly if enough time is spent on the activity.
+Figure 5 illustrates that multiple-choice learning gains oc-
+curred in all ranges of class sizes (from 13 to 105 students).
+Figure 4 Comparison of multiple choice (MC) and Self-Efficacy scores in post-surveys, after students use MMM activity. Classes are
+designated by colors as indicated, monitoring data types are designated by symbols.
+Page 13
+Teasdale et al. Journal of Applied Volcanology (2015) 4:11  Page 13 of 16
+Figure 5 Increase in learning from multiple choice and written responses for classes based on number of students enrolled.
+Class time spent on the activity may be an important
+factor for increasing student learning gains (Figure 6),
+which is particularly apparent with the open-ended ques-
+tions. Students who had at least 100 minutes to spend on
+the activity at the beginner level were more likely to have
+higher overall learning gains than beginners who spent
+75 minutes. This becomes an important consideration
+when introducing non-experts to volcano-monitoring
+methods. Brief overviews and one-time exposures are
+probably insufficient if attempting to shift beginners’ un-
+derstanding to a novice level. Longer time periods spent
+with the MMM module were also correlated with stronger 
+knowledge retention. Beginner learners who spent at least
+100 minutes on the MMM activity retained their ability to
+identify monitoring techniques at a 98% success rate for
+the final exam, which was three weeks after the conclusion
+of the activity. Of that group, 88% were able to identify
+how inflation and deflation patterns related to eruptive
+activity on the final exam. This suggests that the MMM
+scenario provides a meaningful experience for beginners
+to learn about volcano monitoring beyond a superficial
+awareness. For learners that started at the novice level, the
+shift to an advanced level following the MMM activity ar-
+gues that increased background knowledge (Chinn and
+Figure 6 Increase in learning from multiple choice and written responses for classes based on amount of time (in minutes) spent on
+the MMM activity.
+Page 14
+Teasdale et al. Journal of Applied Volcanology (2015) 4:11  Page 14 of 16
+Brewer 1993; Zimmerman 2000) and increased expos-
+ure to information enhances learning and efficacy levels
+(Pintrich and Zusho 2007).
+Conclusions and recommendations
+Themes of MMM training
+Beginners (introductory students) show the greatest
+learning gains in the use of volcano-monitoring data but
+showed smaller gains in open-ended written responses,
+which represents their lower-level ability to articulate
+new-found knowledge. Scores on Pre-MMM surveys re-
+flect their unfamiliarity and lack of confidence in the use
+of scientific volcano monitoring data, but their increase to
+the novice level with very large learning gains (0.38-0.59)
+demonstrates their improved understanding of informa-
+tion provided by expert scientists.
+Our results reinforce the idea that novice learners (vol-
+canology students) with some prior knowledge improve to
+advanced levels of understanding through use of the
+MMM activity. Novice learners had a stronger shift to
+advanced conceptual understanding (especially in com-
+parison to beginners) and also appear to realize the
+limits of their knowledge, which may explain the
+smaller increases in self-efficacy scores from those of
+beginners.
+An overriding theme of our work with the MMM ac-
+tivity in college-level courses is that the more time that
+is spent with the module, the greater the learning gains
+and retention, especially for beginner learners. This re-
+sult supports the idea that training intended to prepare
+non-experts to deal with volcanic activity should dedi-
+cate an appropriate amount of time to the subject. Based
+on the learning and the increase in self-efficacy docu-
+mented here, using an activity like the VEPP MMM in
+situations where participants have the opportunity to
+work with real monitoring data from an active volcanois a good complement to eruption scenario exercises.
+For beginner students, using archived data that are asso-
+ciated with a well-characterized past event may be pref-
+erable so they can compare their interpretations to the
+actual volcanic activity (in other words, an “answer”
+already exists) in Poland et al. 2008. More advanced stu-
+dents would benefit from using near-real-time data (also
+available on the VEPP website), allowing their interpreta-
+tions to evolve over time along with the activity they are
+tracking, and the uncertain nature of the outcome would
+be a lesson in itself. This use of near-real time-data and
+the sophisticated nuances that come with it could
+address some of the ceiling effect observed in the novice
+population.
+Recommendations
+Based on our experience using VEPP and the MMM ac-
+tivity with beginning- and novice-level undergraduate 
+students, we recommend that those who engage in
+volcano-monitoring training programs for non-science
+experts such as emergency managers, land use planners,
+members of the media and civil defense experts consider
+the following:
+1. Volcano-monitoring reports and data are currently
+made available to the public but aren’t necessarily
+incorporated into training modules designed to
+familiarize beginners with the use or understanding
+of those data (e.g Kokelaar 2002, Setting,
+Chronology and consequences of the eruption of
+Soufrière Hills Volcano, Montserrat 1995–1999
+Activities like MMM provide beginners with
+instruction and active engagement that guide them
+through the interpretation of real data, resulting in
+improved learning. The fact that working with real
+volcano-monitoring data is clearly tied to increases
+in understanding of how such data can be used to
+assess volcanic unrest argues that the practice
+should be integrated into training that targets
+improving communication between scientists and
+non-scientists. For example, using the MMM or
+similar activity based on real monitoring data could
+be used in exercises that bring together volcanologists
+and land managers, emergency response officials,
+members of the media (who relate reports of volcanic
+activity to the general public), and others whose work
+may involve understanding hazards and risk (e.g.
+insurance agents). When used in conjunction with
+role-playing scenarios especially, non-experts are likely
+to increase their comprehension and retention of
+volcano monitoring with the MMM activity. We
+therefore recommend that activities similar to MMM
+be developed for other volcano-eruption scenarios,
+and that such an approach may be useful in other
+hazard situations (e.g., responses to earthquakes,
+tsunami, and severe weather).
+2. The amount of time that participants (and beginners
+in particular) are engaged in training activities is
+critical to their success. Beginners who engaged with
+the MMM activity for 100 minutes or more showed
+improved learning over those who had less time
+with the activity. We therefore recommend that
+training activities like MMM should be of sufficient
+time for trainees to engage with data in a meaningful
+way.
+3. Experts (volcanologists, in this case) should be
+cognizant of the level of understanding of their
+audience when communicating volcano-monitoring
+information to avoid confusing or unintentionally
+overwhelming non-expert media, civil-defense, or
+planning personnel. Based on learning observed
+from MMM, we recommend that beginner- and
+Page 15
+Teasdale et al. Journal of Applied Volcanology (2015) 4:11  Page 15 of 16
+novice-level populations of civil-defense and other
+public safety officials or media personnel be trained in
+the interpretation of volcano-monitoring data through
+activities that use real data in an interactive format
+such as MMM and others (e.g. Hales and Cashman
+2008, the FEMA Volcanic Crises Awareness).
+Competing interests
+The authors declare that they have no competing interests.
+Authors’ contributions
+All authors drafted, revised the MMM activity RT, KvdHK collected data on
+student learning for the activities All authors reviewed and interpreted the
+data All authors drafted and revised the manuscript All authors read and
+approved the final manuscript.
+Acknowledgements
+Initial funding for VEPP was provided by a NASA New Investigator Program
+grant to M. Poland via the U.S. Geological Survey’s (USGS) Hawaiian Volcano
+Observatory and the University of Hawai‘i, Mānoa, in 2007; following the end
+of the NASA grant in 2010, funding to maintain the VEPP Website was
+provided by USGS. Site design and implementation was completed by Reid
+Townson, and database and server maintenance have been performed by
+Loren Antolik and Lopaka Lee. The NAGT-SERC staff maintains the VEPP
+Activities Web site and workshop pages, with particular thanks to John
+McDaris and Molly Kent. We are grateful for the 25 participants of the VEPP
+workshop in July 2010, whose dedication and support helped to establish a
+repository of activities that have facilitated use of the VEPP Website. We also
+would like to acknowledge our students for participating in this investigation
+on their learning experience.
+Author details
+1Geological and Environmental Sciences, California State University, Chico
+400 W 1st St, 95929-0205 Chico, CA, USA. 2Geology Faculty Whatcom
+Community College, 237 W Kellogg Rd., 98226 Bellingham, WA, USA.
+3Hawaiian Volcano Observatory USGS, 51 Crater Rim Drive, 96718 Hawaii
+National Park, HI, USA.
+Received: 17 April 2014 Accepted: 26 January 2015
+References
+Aronson E, Blaney N, Stephan C, Sikes J, Snapp M (1978) The Jigsaw Classroom.
+Sage, Beverly Hills, CA
+Assor A, Connell JP (1992) The validity of students’ self-reports as measures
+of performance affecting self-appraisals. In: Schunk DH, Meece JL (eds)
+Student perceptions in the classroom. Lawrence Erlbaum Associates,
+Hillsdale, NJ, pp 24–47
+Bandura A (1986) Social Foundations of Thought and Action: A Social Cognitive
+Theory. Prentice Hall, Englewood Cliffs, NJ
+Bransford JD, Brown AL, Cocking RR, Donovan MS, Pellegrino JW (eds) (2000)
+How People Learn: Brain, Mind, Experience, and School (expanded edn)
+National Academy Press Washington D.C.
+Cervelli DP, Cervelli PF, Miklius A, Krug R, Lisowsk, M (2002) VALVE: Volcano
+Analysis and Visualization Environment. Eos Trans. AGU 83(47): Fall Meeting
+Suppl Abstract (U52A-01)
+Chi MTH, Feltovich PJ, Glaser R (1981) Categorization and representation of
+physics problems by experts and novices. Cognitive Science 5(2):121–52
+Chinn CA, Brewer WF (1993) The role of anomalous data in knowledge
+acquisition: A theoretical framework and implications for science instruction.
+Rev Educ Res 63(1):1–49
+Coe R (2002) It’s the effect size, stupid. Paper presented at the Annual
+Conference of the British Educational Research Association, University of
+Exeter, Exeter, England, [URL: "http://www.leeds.ac.uk/educol/documents/00002182.htm"] http://www.leeds.ac.uk/educol/documents/
+ 00002182.htm
+Cohen J (1969) Statistical power analysis for the behavioral sciences. Academic,
+New York NY
+Coladarci T, Cobb CD, Minium EW, Clarke RB (2008) Fundamentals of statistical
+reasoning in education. Wiley, Hoboken, NJ 
+Deslauriers L, Schelew E, Wieman C (2011) Improved learning in a large-enrollment
+physics class. Science 332(862):862–4
+Fiske RS (1984) Volcanologists, Journalists and the concerned Local Public: A Tale
+of Two Crises in the Eastern Caribbean. In: Explosive volcanism: Inception,
+Evolution, and Hazards. National Academy Press, Studies in Geophysics,
+Washington DC, pp 170–6
+Hake RR (1998) Interactive-engagement versus traditional methods: A six-
+thousand-student survey of mechanics test data for introductory physics
+courses. Am J Phys 66(1):64–74
+Hales TC, Cashman KV (2008) Simulating social and political influences on hazard
+analysis through a classroom role playing exercise. J Geoscience Education
+56(1):54–60
+Harpp K, Sweeney WJ (2002) Simulating a volcanic crisis in the classroom.
+J Geoscience Education 50:410–8
+Haynes K, Barclay J, Pidgeon N (2008) The issue of trust and its influence on risk
+communication during a volcanic crisis. Bull Volcanol 70:605–21
+Heliker C, Mattox TN (2003) The first two decades of the Pu‘u ‘Ō‘ō-Kūpaianaha
+eruption: Chronology and selected bibliography. In: Heliker C, Swanson DA,
+Takahashi TJ (eds) The Pu‘u ‘Ō‘ō-Kūpaianaha Eruption of Kīlauea Volcano,
+Hawai’i: The First 20 Years, United States Geological Survey Professional
+Paper 1676 pp 1–27
+Kokelaar BP (2002) Setting, Chronology and consequences of the eruption of
+Soufriere Hills Volcano, Montserrat (1995). In: Druitt TH, Kokelaar BP (eds) The
+eruption of Soufriere Hills Volcano, Montserrat, from 1995–1999. Geological
+Society, London, pp 1–43, Memoirs 21
+Lewis EB, van der Hoeven Kraft KJ, Watts NB, Baker DR, Wilson MJ, Lang
+MG (2010) Elementary teachers’  comprehension of flooding through
+inquiry-based professional development and use of self-regulation
+strategies. Int J Sci Educ 33(11):1473–512
+Likert R (1932) A technique for the measurement of attitudes. Archives of
+Psychology 140:1–55
+McConnell DA, Stempien J, Perkins D, van der Hoeven Kraft KJ, Vislova T,
+Wirth K (2010) The little engine that could: less prior knowledge but
+high self-efficacy is equivalent to greater prior knowledge and Low
+self-efficacy. Paper presented at Geological Society of America, Abstracts
+with Program 42(5):191
+McGuire WJ, Solana MC, Kilburn CRJ, Sanderson D (2009) Improving
+communication during volcanic crises on small, vulnerable islands. J Volcanol
+Geotherm Res 13(1):63–75, doi:10.1016/j.jvolgeores.2009.02.019
+Miles MB, Huberman, AM (1994) Qualitative data analysis (2nd ed) Thousand
+Oaks, CA: Sage
+National Association of Geoscience Teachers (2010) VEPP Activities. [URL: "http://nagt.org/nagt/teaching_resources/vepp/index.html"] http://nagt.org/
+ nagt/teaching_resources/vepp/index.html. Accessed 12 March 2014.
+Orr TR, Poland MP, Patrick MR, Thelen WA, Sutton AJ, Elias T, Thornber CR,
+Parcheta C, Wooten KM (2015) Kīlauea’s 5–9 March 2011 Kamoamoa fissure
+eruption and its relation to 30+ years of activity from Pu‘u ‘Ō‘ō. In: Carey RJ,
+Cayol V, Poland MP, Weis D (eds) Hawaiian Volcanoes, From Source to
+Surface, American Geophysical Union Monograph 208 pp 393-420
+doi:10.1002/9781118872079.ch18
+Petcovic HL, Libarkin JC (2007) Research in science education: the expert-novice
+continuum. J Geosci Educ 55(4):333–9
+Pierson TC, Driedger CL, Tilling RI (2013) Volcano crisis response at Yellowstone
+volcanic complex—after-action report for exercise held at Salt Lake City,
+Utah, November 15, 2011: U.S. Geological Survey Open-File Report 2013–1018: 31.
+(Available at [URL: "http://pubs.usgs.gov/of/2013/1018/"] http://pubs.usgs.gov/of/2013/1018/)
+Pintrich PR, Zusho A (2007) Student Motivation and Self-Regulated Learning in
+the College Classroom. In: Perry RP, Smart JC (eds) The Scholarship of
+Teaching and Learning in Higher Education: An Evidence-Based Perspective.
+Spring, Dordrecht, pp 731–810
+Poland MP, Miklius A, Orr T, Sutton AJ, Thornber CR, Wilson D (2008) New
+episodes of volcanism at Kilauea volcano, Hawaii, EOS, transactions. Am
+Geophys Union 89(5):37–8
+Poland MP, Teasdale R, Kraft K (2010a) Internet-accessible, near real-time volcano
+monitoring data for Geoscience education: Volcanoes Exploration Program:
+Pu‘u ‘O‘o. Paper presented at Fall Meeting, AGU, Abstract ED21C-0684
+Poland MP, van der Hoeven Kraft KJ, Teasdale R (2010b) The Volcanoes Exploration
+Program: Pu`u `Ō’ō—a Website and workshop for utilizing near-real-time volcano
+monitoring data in geoscience education. GSA Abstracts with Program 42(5).
+Poland, MP, Teasdale, R, Kraft, K, 2010c, VEPP: Monday Morning Meeting at the
+Hawaiian Volcano Observatory. [URL: "http://nagt.org/nagt/teaching_resources/vepp/examples/48383.html"] http://nagt.org/nagt/teaching_resources/
+ vepp/examples/48383.html, Accessed March 2014
+Page 16
+Teasdale et al. Journal of Applied Volcanology (2015) 4:11
+Poland MP, van der Hoeven Kraft KJ, Teasdale R (2011) Volcanology curricula
+development aided by online educational resource. EOS Transactions
+Newsletter 92(12):101
+Shulman LS, Sherin MG (2004) Fostering communities of teachers as learners:
+disciplinary perspectives. J Curric Stud 36(2):135–40
+Solana CM, Kilburn CRJ, Rolandi G (2008) Communicating eruption and hazard
+forecasts on Vesuvius, Southern Italy. Journal of Volcanology and Geothermal
+Research 172:308–14
+United States Geological Survey (2009) Volcanoes Exploration Program: Pu‘u ‘O‘o
+(VEPP). [URL: "https://vepp.wr.usgs.gov/"] https://vepp.wr.usgs.gov/. Accessed 12 March 2014 (Note this site is
+password protected, contact mpoland “at” usgs.gov for login information)
+Voight B (1990) The 1985 nevado del Ruiz volcano catastrophe: anatomy and
+retrospection. J Volcanol Geotherm Res 44:349–86
+Zimmerman BJ (2000) Self-efficacy: an essential motive to learn. Contemp Educ
+Psychol 25:82–91
+Zusho A, Pintrich PR, Coppola B (2003) Skill and will: The role of motivation and
+cognition in the learning of college chemistry. Int J Sci Educ 25(9):1081–94 
+Page 16 of 16
+Submit your manuscript to a
+journal and beneﬁ t from:
+7 Convenient online submission
+7 Rigorous peer review
+7 Immediate publication on acceptance
+7 Open access: articles freely available online
+7 High visibility within the ﬁeld
+7 Retaining the copyright to your article
+Submit your next manuscript at 7 springeropen.com

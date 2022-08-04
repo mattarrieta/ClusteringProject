@@ -1,0 +1,246 @@
+Page 1
+Wolfram Language
+The Wolfram Language ([URL: "https://en.wikipedia.org/wiki/Help:IPA/English"] /ˈwʊlfrəm/ [URL: "https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key"] WUUL-frəm) is a general
+ multi-paradigm programming language[7] developed by Wolfram
+ Research. It emphasizes symbolic computation, functional
+programming, and [URL: "https://en.wikipedia.org/wiki/Rule-based_programming"] rule-based programming[8] and can employ
+arbitrary [URL: "https://en.wikipedia.org/wiki/Data_structure"] structures and data.[8] It is the programming language of
+the mathematical symbolic computation program Mathematica.[9] 
+Wolfram Language
+Contents
+History
+Syntax
+Basics
+Syntax sugar
+Functional programming
+Pattern matching
+Implementations
+Naming
+See also
+References
+External links
+History
+The Wolfram Language was a part of the initial version of
+Mathematica in 1988.[10]
+Symbolic aspects of the engine make it a computer algebra system.
+The language can perform integration, differentiation, [URL: "https://en.wikipedia.org/wiki/Matrix_(mathematics)"] matrix
+manipulations, and solve [URL: "https://en.wikipedia.org/wiki/Differential_equation"] differential equations using a set of rules.
+Also in 1988 was the notebook model and the ability to embed
+sound and images, according to [URL: "https://en.wikipedia.org/wiki/Theodore_Gray"] Theodore Gray's patent.[11]
+An online frontend for the language, WolframAlpha, was released
+ in 2009. Wolfram implemented this website by translating natural
+language statements into Wolfram-language queries that link to its
+database. The work leading to Wolfram Alpha also means that
+Wolfram's implementation of the language now has built-in access
+to a knowledge-base as well as natural language processing
+functions. 
+ Paradigm [URL: "https://en.wikipedia.org/wiki/Programming_paradigm#Multi-paradigm_programming_language"] Multi-paradigm:
+ term-rewriting,
+functional,
+procedural, [URL: "https://en.wikipedia.org/wiki/Array_programming"] array
+ Designed by [URL: "https://en.wikipedia.org/wiki/Stephen_Wolfram"] Stephen Wolfram
+ Developer [URL: "https://en.wikipedia.org/wiki/Wolfram_Research"] Wolfram Research
+First appeared 1988
+ Stable release 13.0.1[1]/
+February 17, 2022
+ Typing
+discipline 
+Dynamic, [URL: "https://en.wikipedia.org/wiki/Strong_typing"] strong
+ OS  [URL: "https://en.wikipedia.org/wiki/Cross-platform"] Cross-platform
+ License [URL: "https://en.wikipedia.org/wiki/Proprietary_license"] Proprietary
+ Filename
+extensions 
+.nb, .m, .wl
+Website [URL: "https://www.wolfram.com/language/"] www.wolfram.com
+/language/ (https://
+www.wolfram.com/
+language/)
+Major [URL: "https://en.wikipedia.org/wiki/Programming_language_implementation"] implementations
+Mathematica, [URL: "http://www.wolfram.com/wolfram-one/"] Wolfram|One (http://
+www.wolfram.com/wolfram-one/),
+ Mathics (https://github.com/mathics/
+Mathics)[URL: "https://github.com/corywalker/expreduce"] , Expreduce (https://github.
+com/corywalker/expreduce),
+ MockMMA (https://web.archive.org/
+web/20160119224638/http://www.c
+s.berkeley.edu/~fateman/lisp/mma4
+max/), [URL: "https://en.wikipedia.org/wiki/WolframAlpha"] WolframAlpha
+Influenced by
+ APL · [URL: "https://en.wikipedia.org/wiki/C_(programming_language)"] C · [URL: "https://en.wikipedia.org/wiki/C%2B%2B"] C++ · [URL: "https://en.wikipedia.org/wiki/FORTRAN"] FORTRAN · [URL: "https://en.wikipedia.org/wiki/Lisp_(programming_language)"] Lisp ·
+Page 2
+Wolfram also added features for more complex tasks, such as 3D
+modeling.[12] 
+ Pascal · [URL: "https://en.wikipedia.org/wiki/Prolog"] Prolog · [URL: "https://en.wikipedia.org/wiki/Schoonschip"] Schoonschip[2] ·
+ Simula · [URL: "https://en.wikipedia.org/wiki/Smalltalk"] Smalltalk[3] · [URL: "https://en.wikipedia.org/wiki/Symbolic_Manipulation_Program"] SMP[4]
+A name was finally adopted for the language in 2013, as Wolfram Influenced
+Research decided to make a version of the language engine free  [URL: "https://en.wikipedia.org/wiki/Jupyter"] Jupyter[5] · [URL: "https://en.wikipedia.org/wiki/Clojure"] Clojure[6] · [URL: "https://en.wikipedia.org/wiki/Julia_(programming_language)"] Julia
+for [URL: "https://en.wikipedia.org/wiki/Raspberry_Pi"] Raspberry Pi users, and they needed to come up with a name
+for it.[13] It was included in the recommended software bundle that the [URL: "https://en.wikipedia.org/wiki/Raspberry_Pi_Foundation"] Raspberry Pi Foundation provides
+for beginners, which caused some controversy due to the Wolfram language's [URL: "https://en.wikipedia.org/wiki/Non-free_software"] proprietary nature.[14] Plans
+ to port the Wolfram language to the Intel Edison were announced after the board's introduction at CES
+2014 but was never released.[15] In 2019, a link was added to make Wolfram libraries compatible with the
+ Unity game engine, giving game developers access to the language's high level functions.[16][17]
+Syntax
+ The Wolfram Language syntax is overall similar to the M-expression of 1960s LISP, with support for infix
+operators and "function-notation" function calls.
+Basics
+The Wolfram language writes basic arithmetic expressions using [URL: "https://en.wikipedia.org/wiki/Infix_operator"] infix operators.
+(* This is a comment. *)
+4 + 3
+(* = 7 *)
+1 + 2 * (3 + 4)
+(* = 15 *)
+(* Note that Multiplication can be omitted: 1 + 2 (3 + 4) *)
+(* Divisions return rational numbers: *)
+6 / 4
+(* = 3/2 *)
+Function calls are denoted with square brackets:
+Sin[Pi]
+(* = 0 *)
+(* This is the function to convert rationals to floating point: *)
+N[3 / 2]
+(* = 1.5 *)
+Lists are enclosed in curly brackets:
+Oddlist={1,3,5}
+(* = {1,3,5} *)
+Syntax sugar
+The language may deviate from the M-expression paradigm when an alternative, more human-friendly way
+of showing an expression is available:
+Page 3
+A number of formatting rules are used in this language, including TeXForm for typeset
+expressions and InputForm for language input.
+Functions can also be applied using the prefix expression @ and the postfix expression //.
+Derivatives can be denoted with an apostrophe '.
+The infix operators themselves are considered "sugar" for the [URL: "https://en.wikipedia.org/wiki/Function_notation"] function notation system.
+A FullForm formatter desugars the input:[18]
+FullForm[1+2]
+(* = Plus[1, 2] *)
+Functional programming
+ Currying is supported.
+Pattern matching
+Functions in the Wolfram Language are effectively a case of simple patterns for replacement:
+F[x_] := x ^ 0
+The := is a "SetDelayed operator", so that the x is not immediately looked for. x_ is syntax sugar for
+Pattern[x, Blank[]], i.e. a "blank" for any value to replace x in the rest of the evaluation.
+An iteration of [URL: "https://en.wikipedia.org/wiki/Bubble_sort"] bubble sort is expressed as:
+sortRule := {x___,y_,z_,k___} /; y>z -> {x,z,y,k}
+(* Rule[Condition[List[PatternSequence[x, BlankNullSequence[]], Pattern[y, Blank[]],
+Pattern[z, Blank[]], PatternSequence[k, BlankNullSequence[]]], Greater[y, z]], List[x, z, y, 
+k]] *)
+The /; operator is "condition", so that the rule only applies when y>z. The three underscores are a syntax
+for a BlankNullSequence[], for a sequence that can be null.
+A ReplaceRepeated //. operator can be used to apply this rule repeatedly, until no more change happens:
+{ 9, 5, 3, 1, 2, 4 } //. sortRule
+(* = ReplaceRepeated[{ 9, 5, 3, 1, 2, 4 }, sortRule] *)
+(* = {1, 2, 3, 4, 5, 9} *)
+The [URL: "https://en.wikipedia.org/wiki/Pattern_matching"] pattern matching system also easily gives rise to rule-based integration and derivation. The following
+are excerpts from the Rubi package of rules:[19]
+(* Reciprocal rule *)
+Int[1/x_,x_Symbol] :=
+Log[x];
+(* Power rule *)
+Int[x_^m_.,x_Symbol] :=
+x^(m+1)/(m+1) /;
+FreeQ[m,x] && NeQ[m,-1]
+Page 4
+Implementations
+The official, and reference, implementation of the Wolfram Language lies in Mathematica and associated
+online services. These are closed source.[20] Wolfram Research has, however, released a [URL: "https://en.wikipedia.org/wiki/C%2B%2B"] C++ parser of the
+language under the [URL: "https://en.wikipedia.org/wiki/Open_source"] open source [URL: "https://en.wikipedia.org/wiki/MIT_License"] MIT License.[21] The reference book is [URL: "https://en.wikipedia.org/wiki/Open_access"] open access.[22]
+In the over three-decade-long existence of the Wolfram language, a number of [URL: "https://en.wikipedia.org/wiki/Open_source"] open source third party
+implementations have also been developed. Richard Fateman's MockMMA from 1991 is of historical note,
+both for being the earliest reimplementation and for having received a cease-and-desist from Wolfram.
+Modern ones still being maintained as of April 2020 include Symja in Java, expreduce in Golang, and the
+ SymPy-based Mathics.[23] These implementations focus on the core language and the computer algebra
+system that it implies, not on the online "knowledgebase" features of Wolfram.
+In 2019,[24] Wolfram Research released a [URL: "https://en.wikipedia.org/wiki/Freeware"] freeware Wolfram Engine, to be used as a programming library
+in non-commercial software.[25]
+Naming
+The language was officially named in June 2013 although, as the backend of the computing system
+Mathematica, it has been in use in various forms for over 30 years since Mathematica's initial release.[9][26]
+See also
+ Notebook interface
+References
+1. [URL: "https://www.wolfram.com/language/quick-revision-history/"] "Revision History" (https://www.wolfram.com/language/quick-revision-history/).
+2. [URL: "https://writings.stephenwolfram.com/2021/01/tini-veltman-1931-2021-from-assembly-language-to-a-nobel-prize/"] Wolfram, Stephen. "Tini Veltman (1931–2021): From Assembly Language to a Nobel Prize
+—Stephen Wolfram Writings" (https://writings.stephenwolfram.com/2021/01/tini-veltman-193
+1-2021-from-assembly-language-to-a-nobel-prize/). stephenwolfram.comwritings. Retrieved
+22 January 2021.
+3. Maeder, Roman E. (1994). The Mathematica® Programmer. Academic Press, Inc. p. 6.
+ISBN 978-[URL: "https://en.wikipedia.org/wiki/Special:BookSources/978-1-48321-415-3"] 1-48321-415-3.
+4. [URL: "https://www.wolfram.com/language/faq/"] "Wolfram Language Q&A" (https://www.wolfram.com/language/faq/). Wolfram Research.
+Retrieved 2016-12-05.
+5. [URL: "https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/"] Somers, James. "The Scientific Paper Is Obsolete" (https://www.theatlantic.com/science/arc
+hive/2018/04/the-scientific-paper-is-obsolete/556676/). The Atlantic. Retrieved 2018-04-10.
+6. [URL: "https://web.archive.org/web/20171003001051/https://www.amazon.com/gp/richpub/listmania/fullview/R3LG3ZBZS4GCTH"] Hickey, Rich. "Clojure Bookshelf" (https://web.archive.org/web/20171003001051/https://ww
+w.amazon.com/gp/richpub/listmania/fullview/R3LG3ZBZS4GCTH). Amazon.com. Archived
+ from the original (https://www.amazon.com/gp/richpub/listmania/fullview/R3LG3ZBZS4GCT
+H) on 2017-10-03. Retrieved 2020-05-06.
+7. [URL: "https://www.wolfram.com/language/for-experts/"] "Notes for Programming Language Experts about Wolfram Language" (https://www.wolfram.
+com/language/for-experts/). Wolfram.com. Retrieved 2015-11-05.
+8. [URL: "https://blog.stephenwolfram.com/2013/02/what-should-we-call-the-language-of-mathematica/"] "What Should We Call the Language of Mathematica?—Stephen Wolfram Blog" (https://blo
+g.stephenwolfram.com/2013/02/what-should-we-call-the-language-of-mathematica/).
+Blog.stephenwolfram.com. 2013-02-12. Retrieved 2015-11-05.
+Page 5
+9. [URL: "https://blog.wolfram.com/2013/06/23/celebrating-mathematicas-first-quarter-century/"] "Celebrating Mathematica's First Quarter Century—Wolfram Blog" (https://blog.wolfram.com/
+2013/06/23/celebrating-mathematicas-first-quarter-century/). Blog.wolfram.com. Retrieved
+2015-11-05.
+10. Wolfram (1988). Mathematica, a System for Doing Mathematics By Computer.
+11. [URL: "http://bit-player.org/wp-content/extras/bph-publications/Pixel-1990-01-Hayes-Mathematica.pdf"] Hayes, Brian (1990-01-01). "Thoughts on Mathematica" (http://bit-player.org/wp-content/extr
+as/bph-publications/Pixel-1990-01-Hayes-Mathematica.pdf) (PDF). Pixel.
+12. [URL: "https://reference.wolfram.com/language/"] "Wolfram Language & System Documentation Center" (https://reference.wolfram.com/langu
+age/). Reference.wolfram.com. Retrieved 2015-11-05.
+13. [URL: "https://blog.wolfram.com/2013/11/21/putting-the-wolfram-language-and-mathematica-on-every-raspberry-pi/"] "Putting the Wolfram Language (and Mathematica) on Every Raspberry Pi—Wolfram Blog"
+(https://blog.wolfram.com/2013/11/21/putting-the-wolfram-language-and-mathematica-on-ev
+ery-raspberry-pi/). Blog.wolfram.com. Retrieved 2015-11-05.
+14. [URL: "https://www.cnet.com/news/premium-mathematica-software-free-on-budget-raspberry-pi/"] Sherr, Ian (2013-11-22). "Premium Mathematica software free on budget Raspberry Pi -
+CNET" (https://www.cnet.com/news/premium-mathematica-software-free-on-budget-raspberr
+y-pi/). News.cnet.com. Retrieved 2015-11-05.
+15. [URL: "https://www.heise.de/newsticker/meldung/Intels-Edison-Pentium-System-im-Format-einer-SD-Karte-2076917.html"] Daniel AJ Sokolov (2014-11-22). "Intels Edison: Pentium-System im Format einer SD-Karte
+| heise online" (https://www.heise.de/newsticker/meldung/Intels-Edison-Pentium-System-im-
+Format-einer-SD-Karte-2076917.html). Heise.de. Retrieved 2015-11-05.
+16. [URL: "https://gamasutra.com/view/news/212709/The_Wolfram_Language_will_soon_be_integrated_into_Unity"] "The Wolfram Language will soon be integrated into Unity" (https://gamasutra.com/view/new
+s/212709/The_Wolfram_Language_will_soon_be_integrated_into_Unity). Gamasutra.
+2014-03-10. Retrieved 2015-11-05.
+17. [URL: "https://web.archive.org/web/20170719095116/https://community.wolfram.com/groups/-/m/t/312155"] "Is there a way to use Wolfram Language in Unity3D?" (https://web.archive.org/web/201707
+19095116/https://community.wolfram.com/groups/-/m/t/312155). Wolfram. 2017. Archived
+from [URL: "https://community.wolfram.com/groups/-/m/t/312155"] the original (https://community.wolfram.com/groups/-/m/t/312155) on 19 July 2017.
+Retrieved 11 April 2017.
+18. [URL: "https://reference.wolfram.com/language/ref/FullForm.html"] "FullForm" (https://reference.wolfram.com/language/ref/FullForm.html). Wolfram Language
+Documentation.
+19. [URL: "https://rulebasedintegration.org/"] "Welcome to Rubi, the Rule-based Integrator" (https://rulebasedintegration.org/). Rule-based
+Integration.
+20. [URL: "https://blog.wolfram.com/2019/04/02/why-wolfram-tech-isnt-open-source-a-dozen-reasons/"] McLoone, J. "Why Wolfram Tech Isn't Open Source—A Dozen Reasons—Wolfram Blog" (htt
+ps://blog.wolfram.com/2019/04/02/why-wolfram-tech-isnt-open-source-a-dozen-reasons/).
+21. [URL: "https://github.com/WolframResearch/codeparser"] "codeparser: Parse Wolfram Language source code as abstract syntax trees (ASTs) or
+concrete syntax trees (CSTs)" (https://github.com/WolframResearch/codeparser). GitHub.
+Wolfram Research, Inc. 13 April 2020.
+22. [URL: "https://www.wolfram.com/open-materials/"] "Open Materials from Wolfram: Open Code, Open Source, Open Data, Open Resources" (htt
+ps://www.wolfram.com/open-materials/). www.wolfram.com.
+23. [URL: "https://mathematica.stackexchange.com/a/4456"] Simon. "Is there an open source implementation of Mathematica-the-language?" (https://mat
+hematica.stackexchange.com/a/4456). Mathematica Stack Exchange.
+24. [URL: "https://writings.stephenwolfram.com/2019/05/launching-today-free-wolfram-engine-for-developers/"] Wolfram, Steven. "Launching Today: Free Wolfram Engine for Developers—Stephen
+Wolfram Writings" (https://writings.stephenwolfram.com/2019/05/launching-today-free-wolfra
+m-engine-for-developers/).
+25. [URL: "https://www.wolfram.com/engine/"] "Free Wolfram Engine for Developers" (https://www.wolfram.com/engine/).
+www.wolfram.com. Retrieved 19 January 2021.
+26. [URL: "https://readwrite.com/2013/03/11/stephen-wolfram-has-an-algorithm-for-everything-literally/#awesm=~oekpXL21gq1fST"] "Stephen Wolfram Says He Has An Algorithm For Everything — Literally" (https://readwrite.c
+om/2013/03/11/stephen-wolfram-has-an-algorithm-for-everything-literally/#awesm=~oekpXL
+21gq1fST). Readwrite.com. Retrieved 2015-11-05.
+External links
+ Documentation for the Wolfram Language (https://reference.wolfram.com/language/)
+Page 6
+ An Elementary Introduction to the Wolfram Language (https://www.wolfram.com/language/el
+ementary-introduction/2nd-ed/)
+ The Wolfram Programming Cloud (https://www.wolframcloud.com/)
+ WolframLanguage.org (https://wolframlanguage.org/): a guide to community resources about
+Wolfram Language
+ Showcase of the "Mathematica language" (https://codegolf.stackexchange.com/a/44683),
+Code Golf StackExchange Community Wiki
+ Mathematics, Physics & Chemistry with the Wolfram Language (https://www.worldscientific.c
+om/worldscibooks/10.1142/12548) (World Scientific, 2022)
+Retrieved from "[URL: "https://en.wikipedia.org/w/index.php?title=Wolfram_Language&oldid=1083188341"] https://en.wikipedia.org/w/index.php?title=Wolfram_Language&oldid=1083188341"
+This page was last edited on 17 April 2022, at 15:21 (UTC).
+Text is available under the [URL: "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"] Creative Commons Attribution-ShareAlike License 3.0;additional terms may apply. By
+using this site, you agree to the [URL: "https://foundation.wikimedia.org/wiki/Terms_of_Use"] Terms of Use and [URL: "https://foundation.wikimedia.org/wiki/Privacy_policy"] Privacy Policy. Wikipedia® is a registered trademark of the
+[URL: "https://www.wikimediafoundation.org/"] Wikimedia Foundation, Inc., a non-profit organization.

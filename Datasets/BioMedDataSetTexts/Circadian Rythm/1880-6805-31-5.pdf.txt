@@ -1,0 +1,1535 @@
+BOOKMARKS:
+Abstract
+Review
+  Sleep in adults
+  Basic chronobiology
+    Endogenous and exogenous components of a rhythm
+    The body clock and its adjustment by zeitgebers
+  Sleep rhythms
+    Laboratory-based results
+    Possible cause of rhythms of the sleep-wake cycle
+    Sleep stages
+  Modeling sleep rhythms and the distribution of sleep stages
+    The basic model
+    Interpreting physiological and biochemical correlates of the sleep model
+  Using the two-component model to explain altered sleep patterns in adults
+    Possible causes of differences in sleep patterns
+    Adults who are poor sleepers and short-sleepers
+    The effect of chronotype
+  Differences in sleep patterns with age
+    Neonates and infants up to adolescence
+    Adolescents
+    Older persons
+Conclusions
+Author details
+Authors' contributions
+Competing interests
+References
+Page 1
+Waterhouse et al. Journal of Physiological Anthropology 2012, 31:5
+http://www.jphysiolanthropol.com/content/31/1/5
+REVIEW
+Daily rhythms of the sleep-wake cycle
+Jim Waterhouse1*,  Yumi Fukuda2 and Takeshi Morita2 
+Open Access
+Abstract
+The amount and timing of sleep and sleep architecture (sleep stages) are determined by several factors, important
+among which are the environment, circadian rhythms and time awake. Separating the roles played by these
+factors requires specific protocols, including the constant routine and altered sleep-wake schedules. Results from
+such protocols have led to the discovery of the factors that determine the amounts and distribution of slow wave
+and rapid eye movement sleep as well as to the development of models to determine the amount and timing of
+sleep. One successful model postulates two processes. The first is process S, which is due to sleep pressure (and
+increases with time awake) and is attributed to a ‘sleep homeostat’.  Process S reverses during slow wave sleep
+(when it is called process S’). The second is process C, which shows a daily rhythm that is parallel to the rhythm of
+core temperature. Processes S and C combine approximately additively to determine the times of sleep onset and
+waking. The model has proved useful in describing normal sleep in adults. Current work aims to identify the
+detailed nature of processes S and C. The model can also be applied to circumstances when the sleep-wake cycle
+is different from the norm in some way. These circumstances include: those who are poor sleepers or short
+sleepers; the role an individual’s chronotype (a measure of how the timing of the individual’s preferred sleep-wake
+cycle compares with the average for a population);  and changes in the sleep-wake cycle with age, particularly in
+adolescence and aging, since individuals tend to prefer to go to sleep later during adolescence and earlier in old
+age. In all circumstances, the evidence that sleep times and architecture are altered and the possible causes of
+these changes (including altered S, S’  and C processes) are examined.
+Keywords: Adolescence, chronotype, circadian rhythm, endogenous component, exogenous component, old age,
+sleep homeostat, time awake
+Review
+Sleep in adults
+Most adults take a consolidated 7-hour sleep during the
+night [1]. The reasons for sleeping at night are partly
+because the environment is quiet and also it would be
+unconventional to arrange meetings or meet friends at
+this time. Moreover, we are diurnal creatures and after a
+normal day when we have been awake and active for
+some time, we feel tired in the evening and ready for
+sleep. It is possible to sleep at other times, as is evident
+from the lifestyle of night workers but, even in a quiet
+environment, daytime sleep tends to be more fragmen-
+ted and shorter than nocturnal sleep. That is, the ability
+to get to sleep and sleep uninterruptedly for long
+enough shows a daily rhythm. This rhythm of ease of
+getting to sleep (sleep propensity) is clear if individuals
+* Correspondence: [URL: "mailto:waterhouseathome@hotmail.com"] waterhouseathome@hotmail.com
+1Research Institute for Sport and Exercise Physiology, Liverpool John Moores
+University, Liverpool, UK
+Full list of author information is available at the end of the article 
+miss a night’s sleep; they feel tired during the night but,
+in spite of having had no sleep, they then feel less tired
+as the new day dawns and, during the afternoon, will
+feel surprisingly alert. However, by the evening, the sen-
+sation of fatigue increases markedly and becomes
+increasingly difficult to resist. This result indicates that
+there is an increasing drive to sleep as the amount of
+time awake continues to rise but that it is mixed with a
+rhythmic component that varies during the course of
+the 24 hours.
+A good sleep is recuperative and removes the feelings
+of fatigue (and also produces an improvement in cogni-
+tive ability); individuals then feel ready to face the rigors
+of a new day. Intuitively, the concept of increasing ‘sleep
+pressure’ with increasing time awake is not difficult to
+appreciate (even if the detailed nature of sleep pressure
+is not understood).  However, the presence of daily
+rhythms in the desire to sleep, staying asleep and waking
+up might be less easy to understand. In fact, when
+repeated measurements are made over the course of
+© 2012 Waterhouse et al; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License ([URL: "http://creativecommons.org/licenses/by/2.0"] http://creativecommons.org/licenses/by/2.0),  which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly cited.
+Page 2
+Waterhouse et al. Journal of Physiological Anthropology 2012, 31:5
+http://www.jphysiolanthropol.com/content/31/1/5 
+Page 2 of 14
+24 hours in subjects who are living normally (active in
+the daytime and sleeping at night), all physiological and
+biochemical variables show daily rhythms. Some proper-
+ties of such rhythmicity need to be considered, and they
+will be illustrated by the rhythm of core temperature
+(which is representative of biological rhythms in
+general).
+Basic chronobiology
+Endogenous and exogenous components of a rhythm
+Figure 1 shows the 24-hour rhythm of core temperature
+in a group of subjects living normally. The temperature
+is higher in the daytime and lower at night. A priori, it
+would be supposed that such rhythms result from the
+behavioral changes that are associated with the sleep-
+activity cycle. During the daytime, individuals are physi-
+cally and mentally active, and eat and drink in an envir-
+onment that is busy and stimulating; all of these factors
+will tend to raise core temperature. By contrast, at
+night, individuals fast, are inactive, sleep and choose a
+quiet, dark environment.
+In fact, such an explanation is only partially correct;
+the standard method for demonstrating this is the ‘con-
+stant routine’. In this protocol, a subject is required to
+remain awake and sedentary (or lying down) and relaxed
+for at least 24 hours in an environment of constant tem-
+perature, humidity and lighting; to engage in similar
+activities, generally reading or listening to music; and to
+take identical meals at regularly-spaced intervals. Such a
+protocol removes any rhythmic changes due to the indi-
+vidual’s lifestyle or environment. When this protocol is
+undertaken, it is observed (Figure 1) that the rhythm of
+core temperature does not disappear, even though its
+Figure 1 The daily rhythm of core temperature in a group of
+eight young men. Full line: under normal conditions (sleep from
+12 a.m. to 7 a.m.,  indicated by bar). Dashed line: undergoing a 24-
+hour constant routine starting at 4 a.m. (From [2]). 
+amplitude decreases. The rhythm shows a peak around
+4 p.m. to 6 p.m. and a minimum around 4 a.m. to 5 a.
+m. The rhythm is quite symmetrical, with the time of
+most rapid rise being in the period 7 a.m. to 10 a.m.
+and that of most rapid fall around 10 a.m. to 1 a.m.
+By considering the two temperature profiles shown in
+Figure 1, the following deductions can be made [2,3]:
+(i) The rhythm observed during the constant routine
+arises internally; it is the endogenous component of the
+temperature rhythm and its generation is attributed to a
+‘body clock’.
+(ii) Since the two rhythms are not identical, effects
+due to the environment and lifestyle are also present
+when the participants live conventionally; the difference
+between the two rhythms is the exogenous component
+of the rhythm. The exogenous component of core tem-
+perature is dominated by the sleep-wake cycle, activity
+raising temperature and lying down and sleeping
+decreasing it.
+(iii) The two components are in phase. During the
+daytime, body temperature is raised by the body clock
+acting in synchrony with a more dynamic environment
+and increased physical and mental activities; during the
+night, the clock, a more restful environment and relaxed
+lifestyle all act to reduce core temperature.
+These deductions are general, insofar as all rhythms
+show a mixture of endogenous and exogenous compo-
+nents when compared under normal living conditions
+and during a constant routine. However, when different
+rhythms are investigated, differences do exist, as
+described below.
+The origin of the exogenous component For example:
+the exogenous component is the sleep-wake cycle in the
+cases of heart rate and blood pressure, as with the
+rhythm of core temperature; it is the light-dark cycle for
+melatonin secretion; it is the rhythms of posture and
+fluid intake for urine flow; and it is the rhythm of food
+intake for plasma insulin concentration.
+The relative size of the endogenous and exogenous
+components As Figure 1 indicates, these two compo-
+nents are of similar size for core temperature. By con-
+trast, the exogenous component is larger than the
+endogenous component in the cases of heart rate, blood
+pressure, urine flow and insulin secretion. For melatonin
+secretion, provided light levels are low (as normally
+found domestically) - the exogenous component is smal-
+ler than the endogenous component. Because the rela-
+tive sizes of the endogenous components of the rhythms
+of core temperature and, particularly, melatonin are
+small, these rhythms are often used as ‘clock markers’.
+The body clock and its adjustment by zeitgebers
+The body clock consists of paired suprachiasmatic
+nuclei at the base of the hypothalamus; many details of
+its genetics and molecular biochemistry are now known
+Page 3
+Waterhouse et al. Journal of Physiological Anthropology 2012, 31:5
+http://www.jphysiolanthropol.com/content/31/1/5 
+Page 3 of 14
+[4-6]. It is sited close to areas that exert widespread
+effects upon the body (for example, temperature regula-
+tion, hormone secretion and the feeding cycle) and
+sends outflows to these areas, so producing rhythmicity
+throughout the body.
+When individuals are studied in time-free environ-
+ments (such as an underground cave), the body clock
+and rhythms produced by it continue to be manifest but
+with a period closer to 25 than 24 hours. Such rhythms
+are called circadian (Latin: about a day) and the timing
+system is described as ‘free-running’. This period of
+about 25 hours does not reflect the intrinsic period of
+the body clock (tau) exactly, due to effects of light expo-
+sure during waking. Current evidence (from protocols
+using very dim light during waking or from blind sub-
+jects) indicates that the true value of tau averages about
+24.3 hours [7].
+Whatever the exact value for tau in an individual, a
+body clock will be of value only if it and the rhythms it
+drives are synchronized to a solar (24-hour) day. This
+adjustment is due to zeitgebers (German: time-giver),
+rhythms in the environment and/or the individual’s
+behavior which show a 24-hour period. For humans, the
+most important zeitgebers are the light-dark cycle and
+rhythmic secretion of pineal melatonin during the dark.
+Rhythms of physical activity, social factors and food
+intake appear to play comparatively minor roles [8-10].
+Nevertheless, whatever the details of the components of
+a ‘zeitgeber package’, all potential zeitgebers normally
+act harmoniously to adjust the body clock to the 24-
+hour (solar) day.
+The effect of light exposure upon the body clock
+depends upon the time of exposure relative to the tem-
+perature minimum (normally around 4 a.m. to 5 a.m.,
+see Figure 1). Light exposure in the 6 hours after this
+minimum advances the body clock to an earlier time, in
+the 6 hours before the minimum, delays it, and at other
+times exerts no effect upon the clock [11]. Outdoor
+light is more effective at adjusting the body clock than
+is the dimmer light found indoors (that is, it tends to
+produce larger phase shifts),  even though domestic
+lighting is normally adequate to act as a zeitgeber. The
+relationship between the time when a zeitgeber is pre-
+sented and the shift of the body clock that is produced
+is called a phase-response curve.
+Melatonin ingestion also adjusts the body clock; in the
+afternoon and early evening, melatonin ingestion
+advances the clock and, in the second half of sleep and
+during the early morning, delays it. Bright light inhibits
+endogenous melatonin secretion, and the clock-shifting
+effects of these two zeitgebers reinforce each other;
+bright light in the hours immediately after the tempera-
+ture minimum advances the body clock directly via the
+phase-response curve (see above) and also indirectly (by 
+suppressing melatonin secretion and so preventing the
+phase-delaying effect that melatonin would have exerted
+at this time) [12].
+Sleep rhythms
+Laboratory-based results
+A laboratory environment is advantageous in that condi-
+tions conducive to sleep (quiet, comfort, and so on) can
+be standardized. The standardization of such factors is
+equivalent to standardizing the exogenous components
+of the rhythms of sleep. Studies in sleep laboratories
+have systematically investigated the separate effects
+upon sleep and sleep architecture (the distribution of
+sleep stages) of time of day and time awake, which
+together constitute the endogenous component of the
+sleep rhythms. Several protocols have been used, includ-
+ing the constant routine, multiple sleep latency tests and
+modifying sleep-wake protocols (by changing the time
+of day while maintaining time awake constant or chan-
+ging the amount of time awake at the same times of
+day). These protocols have been discussed in detail in
+Reilly and Waterhouse [13]. Some of the main findings
+from these investigations are detailed below.
+Firstly, falling asleep is easiest if core temperature is
+falling or low (evening and night) and most difficult if it
+is high or rising (morning and afternoon). Secondly,
+waking up spontaneously tends to be the opposite of
+falling asleep; it is easiest if core temperature is rising or
+high, and most difficult when it is falling or low. These
+last results explain why, if individuals have gone to bed
+earlier or later than normal, even though they will feel
+less or more fatigued, respectively, than normal, they are
+likely to have a longer or shorter sleeps, respectively,
+than normal. Thirdly, the above two results stress that
+the ability to initiate and sustain sleep shows rhythmic
+changes during the course of the 24-hour day, and that
+these are associated with the rhythm of core tempera-
+ture. However, superimposed upon these effects is that
+(if time-of-day effects are taken into account) sleep pro-
+pensity - measured subjectively (fatigue, alertness) or
+objectively (polysomnography) - increases in proportion
+to time awake. This finding means that the endogenous
+component of sleep rhythms, like those of alertness, fati-
+gue and cognition, is a mixture of two main elements,
+time of day and time awake. Finally, combining these
+findings indicates that an unbroken sleep is most likely
+to occur if it starts in the late evening and ends some-
+time after 7 a.m., the individual having slept through the
+trough of core temperature (see Figure 1). Sleep onset
+will occur as core temperature falls, melatonin secretion
+begins, fatigue increases and alertness falls, the indivi-
+dual having been awake for about 16 hours; sleep will
+end when core temperature rises and melatonin secre-
+tion falls.
+Page 4
+Waterhouse et al. Journal of Physiological Anthropology 2012, 31:5
+http://www.jphysiolanthropol.com/content/31/1/5 
+Page 4 of 14
+Possible cause of rhythms of the sleep-wake cycle
+The association between the sleep-wake cycle (sleep
+propensity, sleep maintenance and waking up) and the
+rhythm of core temperature has been interpreted as a
+causal link, incorporating temperature-induced changes
+in brain metabolism (see, for example, [14]). However,
+this might be an oversimplification of the position since
+there are many other rhythms associated with the sleep-
+wake rhythm [3,15]. These rhythms include: reciprocal
+activity of the sympathetic and parasympathetic
+branches of the autonomic nervous system (sympathetic
+activity paralleling core temperature and parasympa-
+thetic activity showing a profile that is the mirror
+image); levels of plasma adrenaline (parallel to core tem-
+perature);  and plasma melatonin, concentrations of
+which are low in daytime light, start to rise around 9 p.
+m., peak during sleep in the dark, and fall on awakening
+in the morning. Melatonin is known to cause cutaneous
+vasodilatation (and so promote a fall of core tempera-
+ture) as well as to increase fatigue. It is likely that many
+factors contribute to the physiological preparations that
+need to be accomplished to feel ready for sleep in the
+evening, to being able to maintain unbroken sleep at
+night, to making preparations for waking up in the
+morning, and to being physically and mentally active in
+the daytime. Core temperature is only one of these fac-
+tors and should be seen as only one of the factors that
+reflect the activity of the body clock and rhythmicity of
+the body as a whole.
+The value of the rhythms of core temperature and
+melatonin secretion as convenient markers of the timing
+of the body clock has already been mentioned. Alertness
+and fatigue, important indicators of sleep-mediated
+recuperation and the need for sleep, respectively, are
+also affected by the body clock. Once again, however,
+many other factors also contribute to these subjective
+feelings (for example, boredom and excitement with
+tasks in hand and, particularly, time awake). The effects
+of boredom and interest mean that alertness and fatigue
+can be misleading indicators as to the physiological
+need for sleep (the build-up of sleep pressure) at any
+time. Even so, the principles involved in modeling the
+rhythm of sleep times (see below) have also been used
+to model rhythms of alertness, fatigue and mental activ-
+ity (for details of which, see [16-20]).
+Sleep stages
+Sleep is not homogeneous, and this has been investi-
+gated by recording surface electrical activity on the scalp
+using an electroencephalogram (EEG). In normal sleep,
+there is an ultradian rhythm of cycling between slow
+wave sleep (SWS) and rapid-eye-movement (REM) sleep
+stages, the REM-nonREM cycle. This cycle lasts
+approximately 90 minutes, about five cycles occurring
+during the course of a normal night’s sleep. The 
+composition of successive cycles varies, with the amount
+of SWS decreasing and the amount of REM sleep
+increasing.
+Modeling sleep rhythms and the distribution of sleep
+stages
+The basic model
+One simple, and yet very effective, model of sleep
+rhythms is the two-process model of sleep homeostasis
+of Borbély [21] (Figure 2). In this model, it is postulated
+that one of the processes, sleep pressure (S), increases
+during waking as an exponential saturating function,
+and then decreases exponentially during sleep (now
+being termed S’). The other process, C, is rhythmic with
+a period of about 24 hours and consists of two parallel
+components, an upper and lower component, both
+approximately in phase with core temperature.
+Sleep onset occurs when the rising value of S inter-
+cepts the upper C function, normally during the phase
+of rapid decline and some hours before the minimum of
+the upper C function. During sleep, the level of S’ falls
+exponentially (but with a shorter half-time constant
+than exists for S) until it meets the lower C function, at
+which point waking occurs and the cycle starts again.
+Waking normally occurs after about 7 hours of sleep, a
+few hours after the minimum of the lower C function
+when it is rising quickly. Factors S and C are assumed
+to act additively (but see [22,23]).
+A three-component model of sleep regulation, based
+upon the two-component model but incorporating
+‘sleep inertia’, has been developed. Sleep inertia is the
+Sleep Wake  Sleep Wake
+Upper C
+Lower C
+Figure 2 Times of sleep and wake (top, separated by the
+double vertical lines). The C component is represented by two
+curves (Upper C and Lower C). Sleep pressure increases
+exponentially in the wake phase (Process S, dotted line) and
+decreases at a faster exponential rate in the sleep phase (S’,  dashed
+line). For more details, see text. (Based on [21]).
+Page 5
+Waterhouse et al. Journal of Physiological Anthropology 2012, 31:5
+http://www.jphysiolanthropol.com/content/31/1/5 
+Page 5 of 14
+phenomenon whereby, immediately after waking from
+sleep, the beneficial effects of sleep upon cognitive per-
+formance and mood are not immediately apparent
+[24-26].
+Interpreting physiological and biochemical correlates of the
+sleep model
+Many investigations have been performed to define
+the physiological and biochemical correlates of pro-
+cesses S and S’  and the rhythmic function C, and
+others are in progress. As with investigations of sleep
+times, studies of processes S and S’  generally consist
+of measuring aspects of waking or sleep (subjective
+estimates of fatigue and alertness, or objective mea-
+sures of EEG during waking and sleep, for example)
+after the sleep-wake schedules of volunteers have been
+altered in some way.
+The general view (summarized in [22,27]) is that the
+amount of sleep pressure accumulated during the wake
+time (process S) is reflected in the amount of SWS that
+occurs during the following sleep. Such ‘deep sleep’ has
+been regarded for some time as the type of sleep that
+best reflects its recuperative role. The actual dissipation
+of sleep pressure (process S’) is associated with the
+amount of slow wave activity (SWA), assessed from the
+power in the low-frequency band of the sleep EEG.
+Increasing sleep pressure during the daytime when the
+subject is awake can be measured by assessing sleep
+propensity (the opposite of sleep latency) and the power
+in the theta-alpha band of the waking EEG. Sleep pres-
+sure is also related to increasing subjective fatigue and
+decreasing alertness. SWS and SWA are little affected
+by core temperature; by contrast, the amount of REM
+sleep is inversely proportional to core temperature and
+little affected by prior wake time. It is the difference
+between the factors associated with SWS and REM
+sleep that leads, during a normal nocturnal sleep, to the
+first REM-nonREM cycles being richer in SWS (begin-
+ning the process of recuperation) and the later ones,
+closer to the temperature trough, richer in REM sleep.
+However, the detailed nature of the links involved
+remains unresolved. Comments already made about
+other variables being temporally associated with core
+temperature (and, therefore, the C component), and all
+of them possibly being reflections of some more funda-
+mental process, apply here also. The fundamental rea-
+sons why increased wake time leads to an increased
+need for sleep and change in sleep architecture remain
+to be elucidated. One approach to this problem has
+been to investigate substances that accumulate in the
+brain during the waking period and the neurophysiologi-
+cal changes that take place during this time [28]. How-
+ever, detailed explanations of the associations between
+sleep stages and time awake and core temperature are
+still awaited. 
+Using the two-component model to explain altered sleep
+patterns in adults
+Possible causes of differences in sleep patterns
+With regard to adjustment of the body clock by zeitge-
+bers, this process need not be precise on any particular
+day. Daily differences in detailed timing of biological
+rhythms will arise due to slight variations in the body
+clock and timing of the zeitgebers on a particular day.
+Moreover, different individuals will show biological var-
+iation with regard to the exact intrinsic period of their
+body clock (tau), their exposure to zeitgebers and details
+of their phase-response curves to different zeitgebers.
+That is, there will be both intra- and inter-individual
+variation in the timing of the circadian clock and the
+rhythms it drives.
+Such variation will also apply when considering either
+the sleep homeostat (S and S’) or rhythmic (C) compo-
+nents of the two-component model of sleep (Figure 2),
+all of which is predicted to lead to changes in the
+detailed timing of the sleep-wake cycle. Thus if the tim-
+ing of the upper or lower components is changed, this
+will alter times of falling asleep or waking (times when
+the S and S’  curves intercept the C curves);  curves
+phased earlier will tend to cause earlier times of sleep
+onset and offset, and vice versa. If the amplitude of the
+C rhythms is decreased, the angle between the S and C
+curves will be less, and this will result in any changes in
+the curves causing increased variations in the exact tim-
+ing of the points of intersection; this will in turn cause
+an increased variability in sleep onset and offset times.
+If process S increases less with time awake (its half-time
+constant is increased), then sleep onset will be delayed.
+Finally, if process S’ is less marked (its half-time con-
+stant is increased), then sleep can be considered to be
+less recuperative (SWS and SWA will decline) and will
+tend to last longer.
+These predicted changes can then form the basis of
+attempts to explain some abnormalities of sleep beha-
+vior, even though the understanding is incomplete in
+the absence of knowledge as to the exact correlates of
+the S, S’ and C components (see above).
+Adults who are poor sleepers and short-sleepers
+Because, like any biological variable, the S, S’  and C
+components will show inter- and intra-individual varia-
+tion, there is the implication that the sleep-wake cycle
+will differ between individuals and between days in a
+single individual. It is common for individuals to delay
+their sleep-wake cycle over the weekend (generally due
+to increased social activities) and to find difficulty in
+readjusting it to weekday requirements on the Monday.
+There is also evidence that those with less regular life-
+styles have more sleep problems [29]. These are external
+factors, and so contribute to the exogenous component
+of sleep rhythms, and readily modified by a change in
+Page 6
+Waterhouse et al. Journal of Physiological Anthropology 2012, 31:5
+http://www.jphysiolanthropol.com/content/31/1/5 
+Page 6 of 14
+lifestyle. The issue is if differences in the internal factors
+(S, S’ and C) are present in some cases of altered sleep.
+There are differences in the amount of sleep habitually
+taken by individuals because individuals choose to do
+this (external factors), seem to need less sleep (’short
+sleepers’), or get less sleep than they want and so feel
+tired in the daytime (’poor sleepers’). Studies using bed-
+rest and sleep deprivation have been used to investigate
+if poor sleepers show systematic differences from ‘nor-
+mal’ sleepers [30], but they have not reliably shown that
+the sleep homeostat or rhythm of core temperature is
+different. For example, the temperature rhythm and
+responses to the multiple sleep latency tests following
+these changed schedules were normal in poor sleepers.
+Also, when short sleepers (< 6 hours per night) and
+long sleepers (> 9 hours per night) were compared, both
+responded in the same way with regard to the effect of
+prior wake time upon the amount of SWS and the
+kinetics of SWS during recovery sleep [31]. Therefore, it
+has been suggested that short sleepers endure higher
+sleep pressure, and that poor sleepers are not particu-
+larly susceptible to sleep pressure.
+Even though these differences from normal sleep gen-
+erally produce no more than some degree of inconveni-
+ence, they can be more troublesome if daytime fatigue is
+marked and cognitive function impaired. In these cases,
+treatment is sometimes contemplated, which generally
+consists of attempts to strengthen the individual’s expo-
+sure to zeitgebers (particularly bright light) or regular
+ingestion of melatonin a few hours before sleep is
+desired [32-34]. In this regard, treatment is very similar
+to that for aged subjects (see below).
+The effect of chronotype
+The measurement of a person’s chronotype score is now
+commonplace, the original questionnaire having been
+translated into several languages (and then validated
+upon local populations of subjects) and also adapted for
+cultures that, for example, routinely rise early. A popula-
+tion’s chronotype scores are distributed normally, with
+those who tend towards the ‘morningness’ part of the
+distribution choosing to perform important activities in
+the morning, and those tending towards ‘eveningness’
+choosing to do them in the evening. The tails of the dis-
+tribution - the extreme morning types (larks) and
+extreme evening types (owls) - can find normal lifestyles
+difficult to participate in fully and effectively. This differ-
+ence might be due to habits (and so influence the times
+of exposure to zeitgebers) and/or the body clock (tau
+values differing between individuals) and/or to the phase
+response curves (which might differ in the size of
+advances and delays in the body clock that zeitgebers
+produce), but few data on this issue are available. What
+can be stated is that individuals are likely to have pro-
+blems if they adopt an early lifestyle (retiring and rising 
+earlier than average) but have a circadian system that
+tends to run later than average (for whatever reason), or
+vice versa. Such disparities can be important for those
+working shift systems.
+The observation [35] that temperature rhythms in
+morning- and evening-types during constant routines
+are phased about 1 hour earlier or later than average,
+respectively, implies that some endogenous component
+(differences in adjustment of the body clock? differences
+in tau?) is involved, but it might also be caused partly
+by the phase differences (due to different lifestyles) that
+were present in the days before the constant routine.
+The S and C components of the two-process sleep
+model have been compared in morning and evening
+types, using the core temperature rhythm (a reflection
+of the C component) and daytime measures of subjec-
+tive sleepiness and alpha-theta activity (reflections of the
+S component). The core temperature was phased earlier,
+and the build-up of sleepiness and alpha-theta activity
+was more rapid, in the morning types; that is, both com-
+ponents of the two-component model were different
+[36]. In other studies, morning-types had more SWA at
+the start of a recovery sleep following a night of sleep
+disruption, and also showed a more rapid decay of SWA
+[37,38]. These results indicate that both processes S and
+S’ might be more rapid in morning types, in addition to
+an earlier phasing of the body clock (see above), and all
+factors might contribute to earlier times of retiring and
+rising.
+There is evidence that some of the differences
+between chronotypes and in processes S, S’ and C have
+a genetic basis. Evidence from a large study upon adults
+in which sleepiness, chronotype, quality of life and sleep
+times were compared [39] indicated that associations
+existed that could not be explained by common lifestyles
+(those sharing the same household, for example); this
+implies a genetic component. One of the clock genes,
+PERIOD3, shows polymorphism and individuals homo-
+zygous for one variant, the five-repeat allele, PER3(5/5),
+are not only more likely to be a morning type but also
+more susceptible to the effects of sleep loss. By contrast,
+individuals homozygous for another variant, PER3(4/4),
+are more likely to be an evening type. Subjects homozy-
+gous for PER3(5/5) also showed more waking alpha-
+theta activity, more SWA during sleep and a greater
+decline in cognitive function when sleep-deprived [40].
+A previous study [41] had also shown that individuals
+could be divided into ‘resistant’ and ‘non-resistant’ on
+the basis of deterioration of their brain function follow-
+ing sleep loss; since this division was independent of any
+difference in phasing of core temperature, it seems to
+relate to the sleep homeostat rather than process C.
+Two comparatively rare syndromes have been
+described: delayed sleep phase syndrome and advanced
+Page 7
+Waterhouse et al. Journal of Physiological Anthropology 2012, 31:5
+http://www.jphysiolanthropol.com/content/31/1/5 
+Page 7 of 14
+sleep phase syndrome. In the former, the internal rela-
+tionship between daily rhythms and the sleep-wake
+cycle is normal, except that the whole system is delayed
+with regard to external time; for example, the core tem-
+perature rhythm shows a minimum around 8 a.m., and
+melatonin secretion begins around midnight (both
+rhythms being delayed about 4 hours compared with
+normal). Subjects tend to wish to retire around 4 a.m.
+and rise about noon, and this lifestyle can be very
+inconvenient [42]. The opposite changes in timing of
+daily rhythms and chosen sleep-wake cycle apply to
+advanced sleep phase syndrome. Behaviorally, the indivi-
+duals can be considered as pathologically extreme exam-
+ples of evening or morning types. Whether the
+syndromes result from extreme values of tau, abnormal
+phase-response curves, and/or abnormalities with regard
+to the sleep homeostat is unknown.
+In summary, evidence is beginning to be obtained that
+indicates individuals’  chronotypes partly reflect some
+aspects of the timing of their body clock and sleep
+homeostat, and that a genetic component contributes to
+these differences.
+Differences in sleep patterns with age
+Neonates and infants up to adolescence
+Immediately after birth, neither full-term nor premature
+babies show clear circadian rhythms of the sleep-wake
+cycle or any other variable [43-45]. Instead, bouts of
+sleep and waking alternate several times during the
+course of a 24-hour period. Therefore, the concept of
+sleep pressure, accumulating with substantial periods of
+waking, cannot be applied in the same way. Further,
+EEG results indicate that the nature of sleep is different,
+there being two types of sleep, ‘quiet’  and ‘active’
+[46-48]. That is, the basic two-component model of
+sleep cannot be applied to individuals in newborn
+babies.
+Even if the sleep-wake rhythm and other circadian
+rhythms developed progressively during the first years of
+life, to become firmly established when the child is five
+years of age [49-52], there are no studies in which com-
+ponents of the two-component model have been investi-
+gated in children of this age. The reasons for this are
+easy to understand - requiring infants to take part in
+such studies would be unethical.
+Adolescents
+In practice, therefore, the earliest age at which substan-
+tial amounts of data have been collected is when the
+child reaches adolescence, though here also experimen-
+tal sleep-deprivation experiments have not been per-
+formed and no constant routine data are available. The
+data that are available for this age group (10 to 17
+years) are dominated by the observation that they go to
+bed considerably later in the evening (particularly if they 
+have access to television or live in latitudes where sum-
+mer evenings can be very long) and so tend to be sleep-
+deprived on school days [53-64]. At weekends, they
+catch up on lost sleep by extended time spent in bed
+(lie-ins). At the weekends also, the melatonin rhythm is
+phase delayed compared with during the week. Adoles-
+cents tend towards evening types, therefore, though this
+change is more marked in some than others and occurs
+at a slightly earlier age in girls, possibly due to their ear-
+lier onset of puberty [65]. The sleep restriction that is
+experienced during weekdays causes concern with
+regard to school performance, particularly when school
+starts early in the morning and the degree of evening-
+ness of an individual is marked [66-71].
+Some of these points are illustrated by some of our
+unpublished data, which show changes in chronotype
+and sleep quality in primary and secondary school stu-
+dents in Japan (7 to 18 years old; 404 boys, 411 girls).
+The Japanese versions of Horne and Ostberg’s Morning-
+ness-Eveningness Questionnaire (MEQ) and the Pitts-
+burgh Sleep Quality Index (PSQI) were used. Figure 3
+shows the MEQ scores. Although most of the students
+were neither morning type nor evening type, that is,
+they were ‘intermediate type’, the scores decreased sig-
+nificantly with age, indicating a change towards becom-
+ing evening type (boys: r = -0.99, P < 0.001; girls: r =
+-0.83, P = 0.041, Pearson’s correlation coefficients).
+Female students older than 10 years tended to be more
+evening types than their male counterparts, but this dif-
+ference decreased with age and was reversed in students
+aged18 years old. There was a clear linear relationship
+between the MEQ scores and age of male students,
+while this relationship was less clear in the female stu-
+dents and appeared to be affected other factors,
+Figure 3 Morningness-Eveningness Questionnaire (chronotype)
+scores in male and female school children of different ages.
+Filled bars, boys; open bars, girls. Scores indicate: range 16 to 30,
+definitely evening-type; 31 to41, moderately evening-type; 42 to 58,
+neither or intermediate-type; 59 to 69, moderately morning-type;
+and 70 to 86, definitely morning-type.
+Page 8
+Waterhouse et al. Journal of Physiological Anthropology 2012, 31:5
+http://www.jphysiolanthropol.com/content/31/1/5 
+Page 8 of 14
+especially around 10 years of age. This change in female
+MEQ scores at around 10 years might relate to
+menarche.
+Figure 4 shows that their PSQI scores tended to
+increase significantly with age, indicating a deterioration
+in sleep quality (boys: r = 0.96, P < 0.01; girls: r = 0.95,
+P < 0.01, Pearson’s correlation coefficients), girls tending
+to be worse than boys. Given that all students had to
+rise at the same time in the morning to attend school,
+the poorer sleep observed in the older children was con-
+sistent with the tendency for the chronotype in older
+children to become progressively more orientated
+towards that of an evening type.
+Attempts have been made to incorporate the findings
+regarding lifestyle and chronotype in adolescents into
+the two-component model of sleep regulation [72-74]. It
+is believed that both components change. The evidence
+for changes in the C component is the later phasing of
+core temperature and melatonin rhythms; the evidence
+for a change in the sleep homeostat (S and S’ compo-
+nents) is an increase in sleep latency and a decline in
+delta power density. From a circadian viewpoint, the
+delayed rhythms imply that early school hours will be
+too soon after the trough of the core temperature
+rhythm and time of high melatonin secretion (resulting
+in poorer cognitive performance), and the fall in core
+temperature and onset of melatonin secretion later in
+the evening will delay sleep onset. The observed changes
+in the sleep homeostat appear to enable these later bed-
+times to occur.
+Why such changes should exist during and just after
+puberty is unclear; attributing them to the marked
+maturational changes, in the brain as well as the pitui-
+tary-gonadal axis, is an obvious possibility, but details of
+the mechanisms involved are unknown [75,76]. It is also
+possible that the individual’s increasing independence at
+this age means that personal interests might delay
+Figure 4 Pittsburgh Sleep Quality Index scores in male and
+female school children of different ages. Filled bars, boys; open
+bars, girls. Scores > 5 indicate some problems with sleep. 
+bedtime, and this will lead to a delay in the circadian
+system. If this exogenous factor were important, then
+curtailing evening activities and retiring earlier would
+provide a suitable remedy; but if the driving force
+behind the change were neurologically or hormonally-
+based (and internally-based), then advising earlier retir-
+ing times would be ineffective. Whatever the cause,
+recommendations that school hours and examination
+times should be delayed are common [66,68,70,71].
+Older persons
+There has been a large amount of research upon the
+sleep-wake cycle and associated rhythms in aged indivi-
+duals, generally 55 years or older (for recent reviews, see
+[77-79]. Volunteers for such investigations have come
+from two main sources; those who come to the labora-
+tory and those who live in homes for the elderly. The
+type of person studied in these two cases might not be
+the same. Subjects volunteering for laboratory-based
+studies are likely to be healthy, active and independent;
+those studied in homes are more likely to be less active
+and independent, and also more likely to suffer from
+some of the problems associated with old age - forms of
+dementia, for example. The concepts of ‘survivor’ and
+‘frailty’,  respectively, have sometimes been used to
+describe these two types of volunteer [80], and differ-
+ences between the results given by them might be
+expected.
+Nevertheless, there are the following general findings
+[58,81-88]: daytime is associated with a greater number
+of naps and night with greater sleep latency and more
+fractionated sleep (sleep efficiency declines);  the
+increased frequency of waking is associated with a need
+to empty the bladder; and times of retiring and rising
+tend to become slightly earlier, individuals become more
+of a morning type. These changes to sleep and the
+sleep-wake cycle have been observed in longitudinal
+[89,90] as well as transverse studies, and made use of
+measurements that have come from self-report diaries,
+answering questionnaires, reports of care-givers or
+objective measures of activity (by actimetry) or sleep
+(EEG and polysomnography).
+Other factors that might be involved with changed
+sleep-wake cycles are also found in aged individuals.
+Poorer thermoregulation [91] and cognitive function
+[92] are present but, as in younger adults, a nap
+improves cognitive performance [93]. Poorer sleep at
+night and increased daytime naps will decrease the nor-
+mal degree of dichotomy between daytime activity and
+nocturnal rest. Associated with this decrease is likely to
+be decreased regularity of lifestyle and smaller exogen-
+ous components of circadian rhythms. Against this sce-
+nario, however, are the results from studies that have
+shown an increase in lifestyle regularity [94-96]. Also,
+following a simulated time-zone transition, aged
+Page 9
+Waterhouse et al. Journal of Physiological Anthropology 2012, 31:5
+http://www.jphysiolanthropol.com/content/31/1/5 
+Page 9 of 14
+persons, like younger adults, suffer from sleep loss and
+deterioration in cognitive performance - but older sub-
+jects seem better able to pace themselves and maintain
+cognitive performance at times of sleep loss and low
+core temperature [97,98]. There is also other evidence
+that alertness in the aged seems to be less dependent
+upon core temperature than is the case in younger sub-
+jects [99].  In other words, some of the behavioral
+changes observed in aged subjects accord with the view
+that individuals try to adopt lifestyles that oppose the
+difficulties that arise with aging.
+Circadian rhythms alter with aging; those of core tem-
+perature and melatonin secretion having been studied
+most. The amplitudes of these rhythms, when measured
+in aged individuals living their normal lifestyles, nor-
+mally show lower values when compared with younger
+controls and phase advances in the order of 1 hour
+[85,100]. There is also evidence that aged individuals
+who suffer from poor sleep at night have a raised core
+temperature at this time [101], but this is in contrast to
+the results from an earlier study that had found that
+altered sleep could not be accounted for by changed
+rhythms of core temperature [102]. Such deterioration
+in circadian rhythms is not observed equally in all aging
+subjects [103,104] but tends to be more marked when
+other problems (such as pain, failing cognitive powers
+or senile dementia) are also present, and less marked if
+a partner or companion is present.
+Determining the cause of the observed changes is dif-
+ficult because the links that exist between circadian
+rhythms and the sleep-wake cycle are complex. For
+example, the need for recuperation during nocturnal
+sleep might be lessened if, during the daytime, an indivi-
+dual is less physically and mentally active and takes
+naps. Also, even though decreased activity of the supra-
+chiasmatic nucleus (producing a rhythmic output that is
+lower in amplitude) could account for many of the
+observed changes, so too could, for example, decreased
+exposure to or perception of zeitgebers, daytime activity
+and exposure to the natural light-dark cycle being com-
+promised by decreased mobility (not being able to ven-
+ture outdoors) and/or poorer eyesight.
+Poorer vision might be particularly important, causing
+individuals to lack confidence and further restrict their
+daytime activities, both indoors (reading, for example)
+and outdoors (walking). The cornea and lens become
+more opaque with age and light transmission, particu-
+larly of the shorter (bluer) wavelengths, decreases [105].
+This acquired tritanomaly can be assessed objectively by
+a desaturated 15-hue test, in which patients are required
+to distinguish between very similar shades of blue. This
+partial loss of perception of blue colors can also be seen
+in some paintings in which, as the artist gets older,
+there is more interest in reds and yellows than greens 
+or blues. These changes in the perception of blue hues
+can be marked in those who suffer from cataracts.
+Light of shorter wavelengths is also important in the
+control of body temperature, melatonin secretion and
+the sleep-wake rhythm. Melatonin secretion in the late
+evening and night promotes sleep, partly due to the fall
+in core temperature that it produces. This secretion is
+suppressed by light, particularly light at the blue end of
+the visible spectrum [106-108]. Accordingly, it seems
+possible that changing transmission of blue light
+through the lens in aged subjects, particularly those suf-
+fering from cataracts, will change the pattern of melato-
+nin secretion and times of sleep. For example, the
+declining transmission of blue wavelengths in the eve-
+ning might lead to an earlier rise of melatonin secretion
+in the evening, contributing to earlier sleep onset in
+aged individuals. In addition, it has been observed [109]
+that daytime exposure to bright light in young adults
+raises the secretion of melatonin at night, causes a
+greater fall of core temperature at this time, and
+improves sleep; such effects might be less marked if the
+lens of the eye has reduced ability to transmit light at
+some, or all, of the visible wavelengths.
+Therefore, cataract surgery will not only improve indi-
+viduals’ sight but it might also alter the quality of their
+sleep. Asplund and Lindblad [110,111] found that a con-
+siderable proportion of the patients who had undergone
+cataract surgery reported subjective improvements in
+their sleep after surgery. This has recently been re-
+examined [112]. Fifteen patients were studied before and
+one month after cataract surgery, in which UV light-cut-
+ting intra-ocular lenses had been implanted. Vision and
+color perception both improved. After recovery from
+the surgery, they also demonstrated a change in noctur-
+nal sleep, though this improvement varied between
+patients. After surgery, patients showed a negative cor-
+relation between later wake-up or retiring times and
+sleep efficiency; that is, sleep efficiency of patients with
+earlier wake-up and retiring times was higher than in
+those with later wake-up and retiring times. It seems
+that, after surgery, the patients’ retinas received more
+light of shorter wavelengths and this affected sleep
+efficiency.
+Whilst the detailed implications of these results with
+regard to the link between light perception and sleep
+are still unclear, they do confirm that light, melatonin
+secretion and sleep are linked. It is also noteworthy that,
+in aged individuals who do not suffer visual problems,
+the phase shifts produced by exposure to bright light
+are the same as in younger controls [113]. Also, a 3-
+hour bout of exercise at the start of normal sleep time
+delayed the melatonin rhythm equally in young and old
+adults [114].  That is, there is no evidence that the
+increased morningness found in aged individuals can be
+Page 10
+Waterhouse et al. Journal of Physiological Anthropology 2012, 31:5
+http://www.jphysiolanthropol.com/content/31/1/5 
+Page 10 of 14
+attributed to altered adjustment of the body clock by
+zeitgebers.
+Attempts to interpret the causes of altered sleep pat-
+terns in the aged in terms of the two-component model
+of sleep provide some evidence that both the C and S
+components are altered, but interpretation of such
+results is not without problems. For example, whilst
+many circadian rhythms show decreased amplitude, this
+decline can be due to a fall in the endogenous or the
+exogenous component of the rhythm, or both. That is,
+the observed fall in amplitude of the rhythm of core
+temperature (which implies a change in the C compo-
+nent) might reflect decreased output from the supra-
+chiasmatic nucleus (the endogenous component of the
+rhythm), decreased secretion of melatonin (which causes
+core temperature to fall due to cutaneous dilatation), or
+a decrease in the dichotomy between daytime activity
+and nocturnal inactivity (the exogenous component).
+Further, the tendency for aged individuals to become
+more morning-orientated might be due to an altered
+body clock and/or timing of individuals’ lifestyles (fac-
+tors that might reflect the C component of the two-
+component model in particular),  or the more rapid
+build-up of sleep pressure (the S component). A further
+difficulty of interpretation arises because older indivi-
+duals might go to bed earlier because their body clock is
+running faster, their poorer eyesight restricts what they
+can do (read or watch television), their declining mental
+faculties mean they get bored more easily, sleep pressure
+builds up more quickly or they fear a poor sleep at night
+and so want to attempt it sooner.
+It is only the endogenous component of the rhythm of
+core temperature that is directly associated with compo-
+nent C. Since the endogenous and exogenous compo-
+nents of a circadian rhythm normally act together to
+produce a measured rhythm, it is necessary to distin-
+guish between them. The constant routine protocol is
+believed to enable the circadian output from the body
+clock to be assessed more directly. However, it must be
+remembered that this protocol assumes that any effects
+of the sleep-wake cycle upon the amplitude and phase
+of the core temperature rhythm on normal days (when
+the exogenous component is present) do not continue
+into the constant routine but disappear immediately it is
+undertaken. There is some evidence to support this
+assumption, at least with regard to amplitude [115].
+However, when aged participants undergo constant rou-
+tines and their core temperature rhythm or secretion of
+melatonin in dim light is investigated (two common
+markers of the body clock),  there is evidence for a
+reduced output from the body clock insofar as the
+amplitude of these rhythms is reduced; also, the tem-
+perature profile has been found to advance [116,117].
+These results suggest the presence of a body clock with 
+a declining output and an advanced timing. However,
+when the free-running period of the body clock was
+examined in aged individuals who were blind (twice in
+each individual, the occasions of study being separated
+by a period of 10 years), where effects of light upon tau
+are absent, the period lengthened [118]. Other studies
+also have failed to find a consistent phase advance of
+the core temperature rhythm in sighted individuals
+when using the constant routine protocol. Only an
+advance of phase of the core temperature rhythm, possi-
+bly due to a reduction in tau, would indicate an endo-
+genous cause for the increasing tendency to
+morningness with aging (rather than an exogenous
+cause such as preferring to get up earlier and go to bed
+earlier). Therefore, the general position with regard to
+the change in the endogenous component of the tem-
+perature rhythm in aged individuals is unclear. Again,
+differences between survivors and the frail might be
+important.
+The changes in sleep with aging might be explained in
+terms of altered S and S’  processes. Investigations of
+responses to altered sleep-wake schedules (advancing or
+delaying bedtime, for example) have shown that changes
+similar to those found in younger adults under the same
+circumstances are found for many sleep variables,
+including sleep efficiency and time awake after sleep
+onset [119]. The increase in sleep latency with age has
+been taken to imply that sleep pressure decreases but,
+again, contradictory results have been obtained. SWS
+during the first part of a night’s sleep is normally
+decreased in the aged [120,121]. The rate of dissipation
+of S (S’, as assessed from SWA) does not differ from
+that found in younger adults and, as in them, the
+amount of SWS increases following sleep-deprivation
+[122] and decreases in nocturnal sleeps taken after day-
+time naps [123].  On the other hand, another study
+claimed that the relationship between SWS and prior
+wakefulness was different between aged participants and
+younger controls [116] and that daytime naps led to a
+fall in sleep efficiency and earlier waking [124]. Several
+differences in the power of different frequency bands in
+the EEG have been found in aged individuals compared
+with younger controls [120],  though their detailed
+meaning is unclear.
+It has already been mentioned that those who seem to
+experience fewer difficulties with sleep also seem to
+have more regular lifestyles. It is stressed that this
+increased regularity might reflect a relatively stronger
+output from the body clock (process C) or stronger
+activity of the sleep homeostat (processes S and S’) - or
+it might be that increasing the exogenous components
+of circadian rhythms, attempting to be active and so
+promote accumulation of sleep pressure when awake,
+and having regular exposure to zeitgebers, can all be
+Page 11
+Waterhouse et al. Journal of Physiological Anthropology 2012, 31:5
+http://www.jphysiolanthropol.com/content/31/1/5 
+Page 11 of 14
+considered as ways of combating a declining influence of
+endogenous components. Whatever the exact cause of
+the decreased daily variability in some aged individuals,
+it becomes translated into several ways of improving the
+quality of life of the aged, at least in those living in
+homes for the elderly [125].
+The general aim of these procedures is to increase the
+dichotomy between daytime activities in the light and
+nocturnal sleep in the dark [1,126-137]. Possibilities
+include increasing daytime physical activity, outdoors in
+natural light, if possible and increasing daytime mental
+activities, by providing an interest or getting individuals
+to discuss topics of interest to them (their childhood,
+favorite food or films, for example). Increasing artificial
+lighting levels is also used, not only to promote condi-
+tions suitable for taking part in activities but also to
+inhibit napping. Coupled with these courses of action
+can be encouragement to individuals to stay in bed at
+night, even if they cannot sleep, with restricted use of
+lights (as long as requirements for safety and care are
+met). In addition, some studies have indicated that the
+regular use of a mild soporific is effective (melatonin,
+for example), though the long-term use of any drug
+requires medical advice [135,138,139].
+Many of these treatments have been found to be effec-
+tive; it often being stressed that individuals should be
+encouraged to see some form of regular daytime activity
+as a simple means of improving their quality of life. The
+possible mechanisms which might cause the treatments
+to be effective have been considered above; they might
+act on the exogenous or endogenous component of cir-
+cadian rhythms by promoting accumulation of sleep
+pressure, and promote sleep pressure directly. Which
+mechanism(s) are important is not yet known.
+A rather different approach to the problem of improv-
+ing sleep in older individuals is based upon the decline
+in efficiency of thermoregulation with age [91]. Part of
+the problem is that, due to impaired cutaneous thermal
+sensitivity, aged individuals are less able to perceive the
+temperature of their surroundings, and so are unable to
+forestall falls or rises of body temperature by suitable
+behavior. Additionally, sleep onset is inhibited by cold
+hands and feet, and this is observed in all age groups.
+Warming the feet by wearing bed-socks was found to
+decrease sleep latency in aged individuals [140].
+Conclusions
+The two-process model of sleep has enabled the pro-
+cesses that determine sleep times and some aspects of
+sleep architecture to be described. Equally, the constant
+routine protocol remains the standard way of distin-
+guishing between endogenous and exogenous compo-
+nents of circadian rhythms. Taken together, these
+concepts of a sleep homeostat and endogenous and 
+exogenous components of circadian rhythms have
+enabled the quantity, timing and quality of sleep to be
+understood better. Such understanding has been applied
+successfully to understanding the timing of sleep in
+healthy individuals and in the changed circumstances of
+adolescence and old age. However, details of the nature
+of the S, S’ and C components of the sleep model, and
+unraveling the interactions between these components
+and those of the circadian rhythms, are still required.
+Obtaining such details will improve our knowledge of
+differences between healthy individuals at different
+stages of their life-span and when suffering from some
+sleep disorders. Such deeper understanding will then
+give a firmer rationale to advice and treatment, with the
+hope that they will become more successful.
+Author details
+1Research Institute for Sport and Exercise Physiology, Liverpool John Moores
+University, Liverpool, UK. 2Department of Living Environmental Science,
+Fukuoka Women’s University, Japan.
+Authors’ contributions
+The preliminary draft of part of the section on adolescents was written by
+YF, of part of the section on old persons by TM, and of the rest of the
+review by JW. Thereafter, all authors were equally involved in the several
+revisions that were undertaken. All authors read and approved the final
+manuscript.
+Competing interests
+The authors declare that they have no competing interests.
+Received: 8 February 2012 Accepted: 13 March 2012
+Published: 13 March 2012
+References
+1.  Ancoli-Israel S, Ayalon L, Salzman C: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/18803103?dopt=Abstract"] Sleep in the elderly: normal variations
+ and common sleep disorders. Harv Rev Psychiatry 2008, 16:279-286.
+2.  Minors D, Waterhouse J: Circadian Rhythms and the Human Bristol, UK: John
+Wright; 1981.
+3.  Reilly T, Atkinson G, Waterhouse J: Biological Rhythms and Exercise Oxford:
+Oxford University Press; 1997.
+4.  Clayton J, Kyriacou C, Reppert S: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/11237000?dopt=Abstract"] Keeping time with the human genome.
+Nature 2001, 409:829-831.
+5.  Reppert S, Weaver D: Molecular analysis of mammalian circadian
+rhythms. Ann Rev Physiol 2001, 63:647-678.
+6.  Jolma I, Laerum O, Lillo C, Ruoff P: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/20836046?dopt=Abstract"] Circadian oscillators in eukaryotes.
+Wiley Interdiscip Rev Syst Biol Med 2010, 2:533-549.
+7.  Shanahan T, Czeisler C: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/10975436?dopt=Abstract"] Physiological effects of light on the human
+ circadian pacemaker. Semin Perinatol 2000, 24:299-320.
+8.  Mrosovsky N: Critical assessment of methods and concepts in nonphotic
+phase shifting. Biol Rhythm Res 1999, 30:135-148.
+9.  Mistlberger R, Skene D: Social influences on mammalian circadian
+rhythms: animal and human studies. Biol Rhythm 2004, 79:533-556.
+10. Edwards B, Reilly T, Waterhouse J: Zeitgeber effects of exercise on human
+circadian rhythms: what are alternative approaches to investigating the
+existence of a phase-response curve to exercise? Biol Rhythm Res 2009,
+40:53-69.
+11. Khalsa S, Jewett M, Cajochen C: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/12717008?dopt=Abstract"] A phase response curve to single bright
+ light pulses in human subjects. J Physiol 2003, 549:945-952.
+12. Lewy A, Bauer V, Ahmed S: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/9493716?dopt=Abstract"] The human phase response curve (PRC) to
+ melatonin is about 12 hours out of phase with the PRC to light.
+Chronobiol Int 1998, 15:71-83.
+13. Reilly T, Waterhouse J: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/19418063?dopt=Abstract"] Sports performance: is there evidence that the
+ body clock plays a role? Eur J Appl Physiol 2009, 106:321-332.
+14. Kleitman N: Sleep and Wakefulness Chicago: University of Chicago Press; 1963.
+Page 12
+Waterhouse et al. Journal of Physiological Anthropology 2012, 31:5
+http://www.jphysiolanthropol.com/content/31/1/5 
+Page 12 of 14
+15. Van Someren E: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/10841209?dopt=Abstract"] More than a marker: Interaction between the circadian
+ regulation of temperature and sleep, age-related changes, and
+ treatment possibilities. Chronobiol Int 2000, 17:313-354.
+16. Åkerstedt T, Folkard S: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/9095372?dopt=Abstract"] The three-process model of alertness and its
+ extension to performance, sleep latency, and sleep length. Chronobiol Int
+1997, 14:115-123.
+17. Åkerstedt T: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/17049569?dopt=Abstract"] Altered sleep/wake patterns and mental performance. Physiol
+Behav 2007, 90:209-218.
+18. Beersma D, Gordij M: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/17055008?dopt=Abstract"] Circadian control of the sleep-wake cycle. Physiol
+Behav 2007, 90:190-195.
+19. McCauley P, Kalachev L, Smith A, Belenky G, Dinges D, Van Dongen H: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/18938181?dopt=Abstract"] A
+ new mathematical model for the homeostatic effects of sleep loss on
+ neurobehavioral performance. J Theor Biol 2009, 256:227-239.
+20. Van Dongen H: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/15018263?dopt=Abstract"] Comparison of mathematical model predictions to
+ experimental data of fatigue and performance. Aviat Space Environ Med
+2004, 75(3 Suppl):A15-A36.
+21. Borbély A: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/7185792?dopt=Abstract"] A two process model of sleep regulation. Hum Neurobiol 1982,
+1:195-204.
+22. Achermann P: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/10643753?dopt=Abstract"] Sleep homeostasis and models of sleep regulation. J Biol
+Rhythms 1999, 14:557-568.
+23. Van Dongen H, Dinges D: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/12941057?dopt=Abstract"] Investigating the interaction between the
+ homeostatic and circadian processes of sleep-wake regulation for the
+ prediction of waking neurobehavioural performance. J Sleep Res 2003,
+12:181-187.
+24. Naitoh P, Kelly T, Babkoff H: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/8500187?dopt=Abstract"] Sleep inertia: best time not to wake up?
+Chronobiol Int 1993, 10:109-118.
+25. Åkerstedt T, Billiard M, Bonnet M, Ficca G, Garma L, Mariotti M, Salzarulo P,
+Schulz H: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/12531132?dopt=Abstract"] Awakening from sleep. Sleep Med Rev 2002, 6:267-286.
+26. Krauchi K, Knoblauch V, Wirz-Justice A, Cajochen C: Challenging the sleep
+homeostat does not influence the thermoregulatory system in men:
+evidence from a nap vs. sleep-deprivation study. Amer J Physiol Regul
+Integr Comp Physiol 2006, 290:R1052-R1061.
+27. Puente-Munoz A, Perez-Martinez D, Villalibre-Valderrey I: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/12022067?dopt=Abstract"] The role of slow
+ wave sleep in the homeostatic regulation of sleep. Rev Neurol 2002,
+34:211-215.
+28. Inoue S, Honda K, Komodo Y: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/7546322?dopt=Abstract"] Sleep as neuronal detoxification and
+ restitution. Behav Brain Res 1995, 69:91-96.
+29. Monk T, Reynolds C, Buysse D, DeGrazia J, Kupfer D: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/12638693?dopt=Abstract"] The relationship
+ between lifestyle regularity and subjective sleep quality. Chronobiol Int
+2003, 20:97-107.
+30. Benoit O, Aguirre A: Homeostatic and circadian aspects of sleep
+regulation in young poor sleepers. Clin Neurophysiol 1996, 26:40-50.
+31. Aeschbach D, Postolache T, Sher L, Matthews J, Jackson M, Wehr T:
+ Evidence from the waking electroencephalogram that short sleepers live
+ under higher homeostatic sleep pressure than long sleepers.
+Neuroscience 2001, 102:493-502.
+32. Yang C, Spielman A, D’Ambrosio P, Serizawa S, Nunes J, Birnbaum J: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/11322709?dopt=Abstract"] A
+ single dose of melatonin prevents the phase delay associated with a
+ delayed weekend sleep pattern. Sleep 2001, 24:272-281.
+33. Zisapel N: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/11463135?dopt=Abstract"] Circadian rhythm sleep disorders - pathophysiology and
+ potential approaches to management. CNS Drugs 2001, 15:311-328.
+34. Arendt J, Van Someren E, Appleton R, Skene D, Akerstedt T: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/18724603?dopt=Abstract"] Clinical
+ update: melatonin and sleep disorders. Clin Med 2008, 8:381-383.
+35. Kerkhof G, Van Dongen H: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/8945751?dopt=Abstract"] Morning-type and evening-type individuals
+ differ in the phase position of their endogenous circadian oscillator.
+Neurosci Lett 1996, 218:153-156.
+36. Taillard J, Philip P, Coste O, Sagaspe P, Bioulac B: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/14633238?dopt=Abstract"] The circadian and
+ homeostatic modulation of sleep pressure during wakefulness differs
+ between morning and evening chronotypes. J Sleep Res 2003, 12:275-282.
+37. Mongrain V, Carrier J, Dumont M: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/16704571?dopt=Abstract"] Circadian and homeostatic sleep
+ regulation in morningness-eveningness. J Sleep Res 2006, 15:162-168.
+38. Mongrain V, Dumont M: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/17580599?dopt=Abstract"] Increased homeostatic response to behavioral
+ sleep fragmentation in morning types compared to evening types. Sleep
+2007, 30:773-780.
+39. Evans D, Snitker S, Wu S, Mody A, Njajou O, Perlis M, Gehrman P,
+Shuldiner A, Hsueh W: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/21532960?dopt=Abstract"] Habitual sleep/wake patterns in the old order
+ Amish: heritability and association with non-genetic factors. Sleep 2011,
+34:661-669.
+40. Dijk D-J, Archer S: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/19716732?dopt=Abstract"] PERIOD3, circadian phenotypes, and sleep
+ homeostasis. Sleep Med Rev 2010, 14:151-160. 
+41. Vandewalle G, Archer S, Wuillaume C, Balteau E, Degueldre C, Luxen A,
+Maquet P, Dijk D-J: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/19553435?dopt=Abstract"] Functional Magnetic Resonance Imaging-assessed
+ brain responses during an executive task depend on interaction of sleep
+ homeostasis, circadian phase, and PER3 genotype. J Neurosci 2009,
+29:7948-7956.
+42. Weitzman E, Czeisler C, Coleman R, Spielman A, Zimmerman J, Dement W,
+Richardson G: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/7247637?dopt=Abstract"] Delayed Sleep Phase Syndrome - a chronobiological
+ disorder with sleep-onset insomnia. Arch Gen Psychiatry 1981, 38:737-746.
+43. Shimada M, Takahashi K, Segawa M, Higurashi M, Samejim M, Horiuchi K:
+Emerging and entraining patterns of the sleep-wake rhythm in preterm
+and term infants. Brain Develop 1999, 21:468-473.
+44. Mirmiran M, Maas Y, Ariagno R: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/14505599?dopt=Abstract"] Development of fetal and neonatal sleep
+ and circadian rhythms. Sleep Med Rev 2003, 7:321-334.
+45. Goessel-Symank R, Grimmer I, Korte J, Siegmund R: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/15470961?dopt=Abstract"] Actigraphic monitoring
+ of the activity-rest behavior of preterm and full-term infants at 20
+ months of age. Chronobiol Int 2004, 21:661-671.
+46. Peirano P, Algarin C, Uauy R: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/14597916?dopt=Abstract"] Sleep-wake states and their regulatory
+ mechanisms throughout early human development. J Pediatr 2003, 143:
+S70-S79.
+47. Biagioni E, Boldrini A, Giganti F, Guzzetta A, Salzarulo P, Cioni G:
+Distribution of sleep and wakefulness EEG patterns in 24-h recordings of
+preterm and full-term newborns. Early Hum Develop 2005, 81:333-339.
+48. McLaughlin Crabtree V, Williams NA: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/19836688?dopt=Abstract"] A normal sleep in children and
+ adolescents. Child Adolesc Psychiatr Clin N Am 2009, 18:799-809.
+49. Rivkees S: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/12897290?dopt=Abstract"] A developing circadian rhythmicity in infants. Pediatrics 2003,
+112:373-381.
+50. Mirmiran M, Baldwin R, Ariagno R: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/12621096?dopt=Abstract"] Circadian and sleep development in
+ preterm infants occurs independently from the influences of
+ environmental lighting. Pediatr Res 2003, 53:933-938.
+51. Pringuey D, Tible O, Cherikh F: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/19268170?dopt=Abstract"] [Ontogenesis of circadian rhythms in
+ humans]. Encephale 2009, 35:S46-S52.
+52. Zornoza-Moreno M, Fuentes-Hernandez S, Sanchez-Solis M, Rol M, Larque E,
+Madrid J: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/21539424?dopt=Abstract"] Assessment of circadian rhythms of both skin temperature and
+ motor activity in infants during the first 6 months of life. Chronobiol Int
+2011, 28:330-337.
+53. Mantz J, Muzet A, Winter A: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/10761601?dopt=Abstract"] The characteristics of sleep-wake rhythm in
+ adolescents aged 15-20 years: a survey made at school during ten
+ consecutive days. Arch Pediatr 2000, 7:256-262.
+54. Takeuchi H, Inoue M, Watanabe N, Yamashita Y, Hamada M, Kadota G,
+Harada T: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/11763989?dopt=Abstract"] Parental enforcement of bedtime during childhood modulates
+ preference of Japanese junior high school students for eveningness
+ chronotype. Chronobiol Int 2001, 18:823-829.
+55. Aronen E, Fjallberg M, Paavonen E, Soininen M: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/11893171?dopt=Abstract"] Day length associates with
+ activity level in children living at 60 degrees north. Child Psychiatry Hum
+Dev 2002, 32:217-226.
+56. Vinha D, Cavalcante J, Andrade M: Sleep-wake patterns of student
+workers and non-workers. Biol Rhythm Res 2002, 33:417-426.
+57. Louzada F, Menna-Barreto LL: Sleep-wake cycle in rural populations. Biol
+Rhythm Res 2004, 35:153-157.
+58. Ohayon M, Carskadon M, Guilleminault C, Vitiello M: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/15586779?dopt=Abstract"] Meta-analysis of
+ quantitative sleep parameters from childhood to old age in healthy
+ individuals: developing normative sleep values across the human
+ lifespan. Sleep 2004, 27:1255-1273.
+59. Chung K, Cheung M: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/18274265?dopt=Abstract"] Sleep-wake patterns and sleep disturbance among
+ Hong Kong Chinese adolescents. Sleep 2008, 31:185-194.
+60. Hagenauer M, Perryman J, Lee T, Carskadon M: Adolescent changes in the
+homeostatic and circadian regulation of sleep. Develop Neurosci 2009,
+31:276-284.
+61. Peixoto C, da Silva A, Carskadon M, Louzada F: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/19330580?dopt=Abstract"] Adolescents living in
+ homes without electric lighting have earlier sleep times. Behav Sleep Med
+2009, 7:73-80.
+62. Randler C, Frech D: Young people’s time-of-day preferences affect their
+school performance. J Youth Stud 2009, 12:653-667.
+63. Crowley S, Carskadon M: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/20795887?dopt=Abstract"] Modifications to weekend recovery sleep delay
+ circadian phase in older adolescents. Chronobiol Int 2010, 27:1469-1492.
+64. Figueiro M, Rea M: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/20653452?dopt=Abstract"] Evening daylight may cause adolescents to sleep less
+ in spring than in winter. Chronobiol Int 2010, 27:1242-1258.
+65. Figueiro M, Rea M: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/20150866?dopt=Abstract"] Lack of short-wavelength light during the school day
+ delays dim light melatonin onset (DLMO) in middle school students.
+Neuroendocrinol Lett 2010, 31:92-96.
+Page 13
+Waterhouse et al. Journal of Physiological Anthropology 2012, 31:5
+http://www.jphysiolanthropol.com/content/31/1/5 
+Page 13 of 14
+66. Fischer F, Radosevic-Vidacek B, Koscec A, Teixeira L, Moreno C, Lowden A:
+Internal and external time conflicts in adolescents: sleep characteristics
+and interventions. Mind Brain Educ 2008, 2:17-23.
+67. Fischer F, Nagai R, Teixeira L: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/18533330?dopt=Abstract"] Explaining sleep duration in adolescents:
+ The impact of socio-demographic and lifestyle factors and working
+ status. Chronobiol Int 2008, 25:359-372.
+68. Koscec A, Radosevic-Vidacek B, Bakotic M: Regulation of wakefulness and
+sleep in adolescence: biological and social aspects. Suvremena Psiholgija
+2008, 11:223-239.
+69. Natal C, Lourenco T, Silva L, Boscolo R, Silva A, Tufik S, de Mello M: Gender
+differences in the sleep habits of 11-13 year olds. Revista Brasileira
+Psiquiatria 2009, 31:358-361.
+70. Besoluk S, Onder I, Deveci I: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/21231873?dopt=Abstract"] Morningness-eveningness preferences and
+ academic achievement of University students. Chronobiol Int 2011,
+28:118-125.
+71. Kirby M, Maggi S, D’Angiulli A: School start times and the sleep-wake
+cycle of adolescents: a review and critical evaluation of available
+evidence. Educ Res 2011, 40:56-61.
+72. Carskadon M, Acebo C, Jenni O: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/15251897?dopt=Abstract"] Regulation of adolescent sleep:
+ implications for behavior. Ann N Y Acad Sci 2004, 1021:276-291.
+73. Campbell I, Higgins L, Trinidad J, Richardson P, Feinberg I: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/18246977?dopt=Abstract"] The increase in
+ longitudinally measured sleepiness across adolescence is related to the
+ maturational decline in low-frequency EEG power. Sleep 2007,
+30:1677-1687.
+74. Crowley S, Acebo C, Carskadon M: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/17383934?dopt=Abstract"] Sleep, circadian rhythms, and delayed
+ phase in adolescence. Sleep Med 2007, 8:602-612.
+75. Laberge L, Petit D, Simard C, Vitaro F, Tremblay R, Montplaisir J:
+ Development of sleep patterns in early adolescence. J Sleep Res 2001,
+10:59-67.
+76. Taylor D, Jenni O, Acebo C, Carskadon M: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/16120098?dopt=Abstract"] Sleep tendency during
+ extended wakefulness: insights into adolescent sleep regulation and
+ behavior. J Sleep Res 2005, 14:239-244.
+77. Pandi-Perumal S, Seils L, Kayumov L, Ralph M, Lowe A, Moller H, Swaab D:
+Senescence, sleep, and circadian rhythms. Age Res Rev 2002, 1:559-604.
+78. Arbus C, Cochen V: Sleep changes with aging. Psychol Neuropsychiat Vieil
+2010, 8:7-14.
+79. Roepke S, Ancoli-Israel S: Sleep disorders in the elderly. Ind J Med Res
+2010, 131:302-310.
+80. Cochen V, Arbus C, Soto M, Villars H, Tiberge M, Montemayor T, Hein C,
+Veccherini M, Onen S, Ghorayeb I, Verny M, Fitten L, Savage J, Dauvilliers Y,
+Vellas B: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/19300867?dopt=Abstract"] Sleep disorders and their impacts on healthy, dependent, and
+ frail older adults. J Nutr Health Aging 2009, 13:322-329.
+81. De La Calzada M: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/10863732?dopt=Abstract"] Modifications in sleep with aging. Rev Neurol 2000,
+30:577-580.
+82. Fetveit A, Bjorvatn B: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/12112156?dopt=Abstract"] Sleep disturbances among nursing home residents.
+Int J Geriatr Psychiatry 2002, 17:604-609.
+83. Huang Y, Liu R, Wang Q, Van Someren E, Xu H, Zhou J: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/12126998?dopt=Abstract"] Age-associated
+ difference in circadian sleep-wake and rest-activity rhythms. Physiol
+Behav 2002, 76:597-603.
+84. Park Y, Matsumoto K, Seo Y, Kang M, Nagashima H: Effects of age and
+gender on sleep habits and sleep trouble for aged people. Biol Rhythm
+Res 2002, 33:39-51.
+85. Münch M, Cajochen C, Wirz-Justice A: Sleep and circadian rhythms in
+ageing. Z Gerontol Geriatr 2005, 38:21-23.
+86. Hoekert M, Riemersma-van der Lek R, Swaab D, Kaufer D, Van Someren E:
+ Comparison between informant-observed and actigraphic assessments
+ of sleep-wake rhythm disturbances in demented residents of homes for
+ the elderly. Am J Geriatr Psychiatry 2006, 14:104-111.
+87. Martin J, Webber A, Alam T, Harker J, Josephson K, Alessi C: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/16473976?dopt=Abstract"] Daytime
+ sleeping, sleep disturbance, and circadian rhythms in the nursing home.
+Am J Geriatr Psychiatry 2006, 14:121-129.
+88. Monk T, Thompson W, Buysse D, Hall M, Nofzinger E, Reynolds C: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/16911027?dopt=Abstract"] Sleep in
+ healthy seniors: a diary study of the relation between bedtime and the
+[URL: "http://www.ncbi.nlm.nih.gov/pubmed/16911027?dopt=Abstract"] amount of sleep obtained. J Sleep Res 2006, 15:256-260.
+89. Bliwise D, Ansari F, Straight L, Parker K: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/16319300?dopt=Abstract"] Age changes in timing and 24-
+ hour distribution of self-reported sleep. Am J Geriatr Psychiatry 2005,
+13:1077-1082.
+90. Loerbroks A, Debling D, Amelang M, Sturmer T: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/19548221?dopt=Abstract"] Nocturnal sleep duration
+ and cognitive impairment in a population-based study of older adults.
+Int J Geriatr Psychiatry 2010, 25:100-109. 
+91. Raymann R, Van Someren E: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/18788655?dopt=Abstract"] Diminished capability to recognize the
+ optimal temperature for sleep initiation may contribute to poor sleep in
+ elderly people. Sleep 2008, 31:1301-1309.
+92. Oosterman J, Van Someren E, Vogels R, Van Harten B, Scherder E:
+ Fragmentation of the rest-activity rhythm correlates with age-related
+ cognitive deficits. J Sleep Res 2009, 18:129-135.
+93. Campbell S, Murphy P, Stauble T: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/15667375?dopt=Abstract"] Effects of a nap on nighttime sleep and
+ waking function in older subjects. J Am Geriatr Soc 2005, 53:48-53.
+94. Minors D, Atkinson G, Bent N, Rabbitt P, Waterhouse J: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/9504369?dopt=Abstract"] The effects of age
+ upon some aspects of lifestyle and implications for studies on circadian
+ rhythmicity. Age Ageing 1998, 27:67-72.
+95. Minors D, Rabbitt P, Worthington H, Waterhouse J: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/2743466?dopt=Abstract"] Variation in meals and
+ sleep-activity patterns in aged subjects; its relevance to circadian
+ studies. . Chronobiol Int 1989, 6:139-146.
+96. Monk T, Buysse D, Hall M, Nofzinger E, Thompson W, Mazumdar S,
+Reynolds C: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/16887751?dopt=Abstract"] Age-related differences in the lifestyle regularity of seniors
+ experiencing bereavement, care-giving, insomnia, and advancement
+ into old-old age. Chronobiol Int 2006, 23:831-841.
+97. Monk T, Kupfer D: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/10841210?dopt=Abstract"] Circadian rhythms in healthy aging - effects
+ downstream from the pacemaker. Chronobiol Int 2000, 17:355-368.
+98. Monk T: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/16077155?dopt=Abstract"] Aging human circadian rhythms: conventional wisdom may not
+ always be right. J Biol Rhythms 2005, 20:366-374.
+99. Monk T, Buysse D, Carrier J, Kupfer D: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/10849237?dopt=Abstract"] Inducing jet-lag in older people:
+ directional asymmetry. J Sleep Res 2000, 9:101-116.
+100. Pandi-Perumal S, Zisapel N, Srinivasan V, Cardinali D: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/16183237?dopt=Abstract"] Melatonin and sleep
+ in aging population. Exp Gerontol 2005, 40:911-925.
+101. Lushington K, Dawson D, Lack L: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/10875557?dopt=Abstract"] Core body temperature is elevated
+[URL: "http://www.ncbi.nlm.nih.gov/pubmed/10875557?dopt=Abstract"] during constant wakefulness in elderly poor sleepers. Sleep 2000,
+23:504-510.
+102. Carrier J, Monk T, Reynolds C, Buysse D, Kupfer D: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/10023578?dopt=Abstract"] Are age differences in
+ sleep due to phase differences in the output of the circadian timing
+ system? Chronobiol Int 1999, 16:79-91.
+103. Fetveit A, Bjorvatn B: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/16927407?dopt=Abstract"] Sleep duration during the 24-hour day is associated
+ with the severity of dementia in nursing home patients. Int J Geriatr
+Psychiatry 2006, 21:945-950.
+104. Crowley K: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/21225347?dopt=Abstract"] Sleep and sleep disorders in older adults. Neuropsychol Rev
+2011, 21:41-53.
+105. Brainard G, Rollag M, Hanifin J: Photic regulation of melatonin in humans:
+ocular and neural signal transduction. J Biol Rhythms 1997, 2:537-546.
+106. Brainard G, Hanifin J, Greeson J, Byrne B, Glickman G, Gerner E, Rollag M:
+ Action spectrum for melatonin regulation in humans: Evidence for a
+ novel circadian photoreceptor. J Neurosci 2001, 21:6405-6412.
+107. Thapan K, Arendt J, Skene D: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/11507175?dopt=Abstract"] An action spectrum for melatonin
+ suppression: evidence for a novel non-rod, non-cone photoreceptor
+ system in humans. J Physiol 2001, 535:261-267.
+108. Herjevic M, Middleton B, Thapan K, Skene D: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/15763401?dopt=Abstract"] Light-induced melatonin
+ suppression: age-related reduction in response to short wavelength
+ light. Exp Gerontol 2005, 40:237-242.
+109. Tokura H, Rutkowska D, Kim H, Aizawa S, Park S-J, Zhang P, Teramoto Y:
+Physiological significance of light for behavioral and autonomic
+temperature regulation in humans in terms of circadian rhythm. In
+Biological Clocks. Mechanisms and Applications. Edited by: Touitou Y.
+Amsterdam: Elsevier Science; 1998:209-216.
+110. Asplund R, Lindblad B: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/14764356?dopt=Abstract"] The development of sleep in persons undergoing
+ cataract surgery. Arch Gerontol Geriatr 2002, 35:179-187.
+111. Asplund R, Lindblad B: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/14599706?dopt=Abstract"] Sleep and sleepiness 1 and 9 months after
+ cataract surgery. Arch Gerontol Geriatr 2004, 38:69-75.
+112. Tanaka M, Hosoe K, Hamada T, Morita T: Change in sleep state of the
+elderly before and after cataract surgery. J Physiol Anthropol 2011,
+29:219-224.
+113. Benloucif S, Green K, L’Hermite-Baleriaux M, Weintraub S, Wolfe L, Zee P:
+ Responsiveness of the aging circadian clock to light. Neurobiol Aging
+2006, 27:1870-1879.
+114. Baehr E, Eastman C, Revelle W, Olson S, Wolfe L, Zee P: Circadian phase-
+shifting effects of nocturnal exercise in older compared with young
+adults. Am J Physiol 2003, 284:R1542-R1550.
+115. Waterhouse J, Minors D, Folkard S, Owen D, Atkinson G, MacDonald I,
+Nevill A, Reilly T, Sytnik N, Turner P, Weinert D: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/10023579?dopt=Abstract"] Lack of evidence that
+ feedback from lifestyle alters the amplitude of the circadian pacemaker
+ in humans. Chronobiol Int 1999, 16:93-107.
+Page 14
+Waterhouse et al. Journal of Physiological Anthropology 2012, 31:5
+http://www.jphysiolanthropol.com/content/31/1/5 
+Page 14 of 14
+116. Dijk D, Duffy J, Czeisler C: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/10841208?dopt=Abstract"] Contribution of circadian physiology and sleep
+ homeostasis to age-related changes in human sleep. Chronobiol Int 2000,
+17:285-311.
+117. Harper D, Volicer L, Stopa E, McKee A, Nitta M, Satlin A: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/15879584?dopt=Abstract"] Disturbance of
+ endogenous circadian rhythm in aging and Alzheimer disease. Am J
+Geriatr Psychiatry 2005, 13:359-368.
+118. Kendall A, Lewy A, Sack R: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/11220783?dopt=Abstract"] Effects of aging on the intrinsic circadian
+ period of totally blind humans. J Biol Rhythms 2001, 16:87-95.
+119. Monk T, Buysse D, Begley A, Billy B, Fletcher M: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/19360494?dopt=Abstract"] Effects of a two-hour change in
+ bedtime on the sleep of healthy seniors. Chronobiol Int 2009, 26:526-543.
+120. Dijk D, Duffy J, Riel E, Shanahan T, Czeisler C: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/10087357?dopt=Abstract"] Ageing and the circadian
+ and homeostatic regulation of human sleep during forced desynchrony
+ of rest, melatonin and temperature rhythms. J Physiol 1999, 516:611-627.
+121. Niggemyer K, Begley A, Monk T, Buysse D: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/15683145?dopt=Abstract"] Circadian and homeostatic
+ modulation of sleep in older adults during a 90-minute day study. Sleep
+2004, 27:1535-1541.
+122. Cajochen C, Münch M, Knoblauch V, Blatter K, Wirz-Justice A: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/16687319?dopt=Abstract"] Age-related
+ changes in the circadian and homeostatic regulation of human sleep.
+Chronobiol Int 2006, 23:461-474.
+123. Campbell I, Feinberg I: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/15585353?dopt=Abstract"] Homeostatic sleep response to naps is similar in
+ normal elderly and young adults. Neurobiol Aging 2005, 26:135-144.
+124. Monk T, Buysse D, Carrier J, Billy B, Rose L: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/11560181?dopt=Abstract"] Effects of afternoon “siesta”
+ naps on sleep, alertness, performance, and circadian rhythms in the
+ elderly. Sleep 2001, 24:680-687.
+125. Vinzio S, Ruellan A, Perrin A, Schlienger J, Goichot B: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/12519455?dopt=Abstract"] Actigraphic
+ assessment of the circadian rest-activity rhythm in elderly patients
+ hospitalized in an acute care unit. Psychiatry Clin Neurosci 2003, 57:53-58.
+126. Gasio P, Krauchi K, Cajochen C, Van Someren E, Amrhein I, Pache M,
+Savaskan E, Wirz-Justice A: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/12543279?dopt=Abstract"] Dawn-dusk simulation light therapy of
+ disturbed circadian rest-activity cycles in demented elderly. Exp Gerontol
+2003, 38:207-216.
+127. Benloucif S, Orbeta L, Ortiz R, Janssen I, Finkel S, Bleiberg J, Zee P: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/15683146?dopt=Abstract"] Morning
+ or evening activity improves neuropsychological performance and
+[URL: "http://www.ncbi.nlm.nih.gov/pubmed/15683146?dopt=Abstract"] subjective sleep quality in older adults. Sleep 2004, 27:1542-1551.
+128. Fetveit A, Bjorvatn B: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/15175095?dopt=Abstract"] The effects of bright-light therapy on actigraphical
+ measured sleep last for several weeks post-treatment. A study in a
+ nursing home population. J Sleep Res 2004, 13:153-158.
+129. Valtonen M, Niskanen L, Kangas A, Koskinen T: Effect of melatonin-rich
+night-time milk on sleep and activity in elderly institutionalized subjects.
+Nordic J Psychiatry 2005, 59:217-221.
+130. Conn D, Madan R: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/16732687?dopt=Abstract"] Use of sleep-promoting medications in nursing home
+ residents - risks versus benefits. Drugs Aging 2006, 23:271-287.
+131. Grandner M, Kripke D, Langer R: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/16725207?dopt=Abstract"] Light exposure is related to social and
+ emotional functioning and to quality of life in older women. Psychiatry
+Res 2006, 143:35-42.
+132. Martin J, Marler M, Harker J, Josephson K, Alessi C: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/17301040?dopt=Abstract"] A multicomponent
+ nonpharmacological intervention improves activity rhythms among
+ nursing home residents with disrupted sleep/wake patterns. J Gerontol A
+Biol Sci Med Sci 2007, 62:67-72.
+133. Fetveit A: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/19702931?dopt=Abstract"] Late-life insomnia: a review. Geriatr Gerontol Int 2009, 9:220-234.
+134. Friedman L, Zeitzer J, Kushida C, Zhdanova I, Noda A, Lee T, Schneider B,
+Guilleminault C, Sheikh J, Yesavage J: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/19187411?dopt=Abstract"] Scheduled bright light for treatment
+ of insomnia in older adults. J Am Geriatr Soc 2009, 57:441-452.
+135. Wade A, Ford I, Crawford G, McConnachie A, Nir T, Laudon M, Zisapel N:
+ Nightly treatment of primary insomnia with prolonged release
+ melatonin for 6 months: a randomized placebo controlled trial on age
+ and endogenous melatonin as predictors of efficacy and safety. BMC
+Med 2010, 8:51.
+136. Zisberg A, Gur-Yaish N, Shochat T: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/20394320?dopt=Abstract"] Contribution of routine to sleep quality
+ in community elderly. Sleep 2010, 33:509-514.
+137. Lieverse R, Van Someren E, Nielen M, Uitdehaag B, Smit J, Hoogendijk W:
+ Bright light treatment in elderly patients with nonseasonal major
+ depressive disorder: a randomized placebo-controlled trial. Arch Gen
+Psychiatry 2011, 68:61-70.
+138. Mishima K, Okawa M, Shimizu T, Hishikawa Y: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/11231989?dopt=Abstract"] Diminished melatonin
+ secretion in the elderly caused by insufficient environmental
+ illumination. J Clin Endocrinol Metab 2001, 86:129-134.
+139. Rikkert M, Rigaud A: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/11828891?dopt=Abstract"] Melatonin in elderly patients with insomnia - a
+ systematic review. Z Gerontol Geriatr 2001, 34:491-497.
+140. Raymann R, Swaab D, Van Someren E: [URL: "http://www.ncbi.nlm.nih.gov/pubmed/17070562?dopt=Abstract"] Skin temperature and sleep-onset
+ latency: changes with age and insomnia. Physiol Behav 2007, 90:257-266. 
+doi:10.1186/1880-6805-31-5
+Cite this article as: Waterhouse et al.: Daily rhythms of the sleep-wake
+cycle. Journal of Physiological Anthropology 2012 31:5.
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color ﬁgure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at
+www.biomedcentral.com/submit

@@ -1,0 +1,614 @@
+BOOKMARKS:
+Abstract
+  Background
+  Methods
+  Results
+  Conclusion
+Background
+Methods
+  Study areas
+  Malaria vector surveillance methods
+  Spatial and temporal clustering
+  Temporal period and trend decomposition
+Results
+  Overview of the dataset
+  Clustering distribution
+  The temporal trend of identified clusters
+Discussion
+Conclusion
+Competing interests
+Authors’ contributions
+Acknowledgments
+Author details
+References
+Page 1
+Huang et al. Parasites & Vectors (2015) 8:146
+DOI 10.1186/s13071-015-0741-5
+RESEARCH  Open Access
+Spatio-temporal analysis of malaria vectors in
+national malaria surveillance sites in China
+Ji-Xia Huang1,2,3†, Zhi-Gui Xia4†, Shui-Sen Zhou4, Xiao-Jun Pu5, Mao-Gui Hu3,6, Da-Cang Huang7, Zhou-Peng Ren3,6,
+Shao-Sen Zhang4, Man-ni Yang4, Duo-Quan Wang4* and Jin-Feng Wang3,6*
+Abstract
+Background: To reveal the spatio-temporal distribution of malaria vectors in the national malaria surveillance sites
+from 2005 to 2010 and provide reference for the current National Malaria Elimination Programme (NMEP) in China.
+Methods: A 6-year longitudinal surveillance on density of malaria vectors was carried out in the 62 national malaria
+surveillance sites. The spatial and temporal analyses of the four primary vectors distribution were conducted by the
+methods of kernel k-means and the cluster distribution of the most widely distribution vector of An.sinensis was
+identified using the empirical mode decomposition (EMD).
+Results: Totally 4 species of Anopheles mosquitoes including An.sinensis, An.lesteri, An.dirus and An.minimus were
+captured with significant difference of distribution as well as density. An. sinensis was the most widely distributed,
+accounting for 96.25% of all collections, and its distribution was divided into three different clusters with a
+significant increase of density observed in the second cluster which located mostly in the central parts of China.
+Conclusion: This study first described the spatio-temporal distribution of malaria vectors based on the nationwide
+surveillance during 2005–2010, which served as a baseline for the ongoing national malaria elimination program.
+Keywords: Malaria vectors, Spatio-temporal distribution, Cluster, Surveillance sites
+Background
+Malaria, HIV/AIDS and tuberculosis (TB) are considered
+to be the three major public health problems in the
+world. In order to timely monitor the malaria epidemic
+and provide evidence for strategies development as well
+as evaluation of control activities, China government is-
+sued in 2005 the malaria surveillance program which
+was trialed out until 2010, and totally 62 townships in
+18 provinces were selected as the sentinel sites where
+the malaria vectors were surveyed every 15 days from
+June to October [1]. However, the spatio-temporal infor-
+mation of continuous vectors surveillance has not been
+mined particularly for the NMEP from the perspective
+of vector control.
+* Correspondence: [URL: "mailto:duoquan2006@hotmail.com"] duoquan2006@hotmail.com; [URL: "mailto:wangjf@lreis.ac.cn"] wangjf@lreis.ac.cn
+†Equal contributors
+4National Institute of Parasitic Diseases, Chinese Center for Disease Control
+and Prevention, WHO Collaborating Center for Malaria, Schistosomiasis and
+Filariasis, Key Laboratory of Parasite and Vector Biology, Ministry of Health,
+Shanghai, People’s Republic of China
+3LREIS, Institute of Geographic Science and Natural Resource Research,
+Chinese Academy of Sciences, Beijing, China
+Full list of author information is available at the end of the article 
+With continuous reduction of malaria incidence, a
+strong political commitment was made by China
+through issuing the National Action Plan for Malaria
+Elimination (2010–2020) in 2010. The goal is to elimin-
+ate locally acquired malaria by the end of 2015 except
+for the bordering areas in Yunnan Province, and elimin-
+ate the disease by 2020 nationwide. Though well-
+described relationships between the parasite, man and
+vector will provide an empirical basis for eradication of
+this disease, until recently there has been a paucity of
+systematic data on malaria vectors distribution in the
+malaria epidemic-prone regions of China. Undoubtedly,
+the efficiency of malaria elimination interventions will
+depend largely on information of the distribution of pri-
+mary vectors. It is evident from a series of studies in
+China as well as in other countries [2-7] that the tem-
+poral and spatial distribution of malaria vectors is very
+dynamic. Thus, knowledge of the spatio-temporal mal-
+aria vector distribution will facilitate the malaria elimin-
+ation efforts and overall mapping is needed to focus on
+priority areas for additional surveillance and response.
+© 2015 Huang et al.; licensee BioMed Central. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License ([URL: "http://creativecommons.org/licenses/by/4.0"] http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain
+Dedication waiver ([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article,
+unless otherwise stated.
+Page 2
+Huang et al. Parasites & Vectors (2015) 8:146  Page 2 of 9
+Therefore, the purpose of this study is to map the
+spatio-temporal distribution of malaria vectors to pro-
+vide a dataset that would aid informed decision making
+on malaria elimination program, and to provide a basis
+for implementation of the elimination strategy in China.
+Methods
+Study areas
+All the 62 national malaria surveillance sites between
+2005 and 2010 in China were enrolled for malaria vectors
+surveillance during the transmission seasons (Figure 1).
+These sites were divided into the following three categor-
+ies based on the transmission levels of malaria [1]:
+1. Unstable endemic areas: 30 townships in 6 provinces
+(Hainan, Yunnan, Anhui, Hubei, Henan, Jiangsu) [5
+counties/ province, 1 township/county].
+2. Low endemic areas: 24 townships in 8 provinces
+(Sichuan, Chongqing, Guizhou, Guangdong,
+Guangxi, Hunan, Jiangxi, Fujian) [3 counties/
+province, 1 township/county]. 
+3. Pre-elimination areas: 8 townships in 4 provinces
+(Shanghai, Zhejiang, Shandong, Liaoning) [2
+counties/province, 1 township/county].
+Malaria vector surveillance methods
+According to WHO recommendations [8], human land-
+ing catches were made by two adult volunteers from the
+local population working beside the bed-net with one
+sleeping person. Mosquitoes coming to bite the collec-
+tors or sleeping person were detected using a flashlight,
+collected with glass tubes (CDC backpack aspirator:
+John W. Hock Co.,  Florida, USA) and placed in the
+screened pint-sized containers. Collections were con-
+ducted from 18:00 to 06:00 overnight during every
+15 days from June to October, 2005–2010. Collectors
+worked in pairs for 6-h shifts. Mosquitoes were taken to
+the laboratory and killed by suffocation with chloroform
+vapor. They were counted and identified morphologic-
+ally using taxonomic keys [9], and the density was calcu-
+lated as the number of female adults per man per night.
+Figure 1 The national malaria surveillance sites in 2005–2010 of China, and the purple points represent the 62 national malaria
+surveillance sites.
+Page 3
+Huang et al. Parasites & Vectors (2015) 8:146  Page 3 of 9
+Spatial and temporal clustering
+Kernel k-means method was used to identify the spatial
+distribution of malaria vectors in terms of density in the
+surveillance sites. We had surveillance on malaria vec-
+tors every 15 days during June and October from 2005
+to 2010. For the 62 sentinel sites, each had 60 time series
+data equaling 60 dimensions. In this research, each time
+series data denotes the density of An.sinensis, An.lesteri,
+An.dirus or An.minimus per site. The time series data of
+these surveillance sites were interlocked, indicating the
+observed data in one site would not always be higher or
+lower than that in other sites. The classic classifier (such
+as k-means) would not perform well in this situation.
+Kernel k-means method performs well for those high di-
+mensional and nonlinear data [10].  Comparing to the
+classic k-means, all of the operations will be done in fea-
+ture space for kernel k-means [11]. With kernel k-means
+method, all data are projected in high dimension feature
+space that the data will be easily linearly classified in fea-
+ture space. In feature space, the original data (x1
+,…,xN
+)
+which represent the density of the malaria vector, will be
+projected to be (φ(x1
+), …, φ(xN
+)). The processes of kernel
+k-means are as follows [10]:
+(a) Initializing the centers mk
+(k =1,…,K) for those
+clusters in feature space.
+(b)Assigning each observed value φ(xi
+)(i = 1, …, N) to
+the nearest center, and the distance between
+observed value and center is computed through
+Euclidean distance:
+d ¼ argmin
+φð Þ xi 
+−mk
+k2
+(c) Update the centers and recalculate the sum of the
+within-cluster variation E;
+mk 
+¼ 
+1
+Nk 
+X
+xj
+∈classk 
+ÀÁ
+φ xj 
+; E ¼ 
+XK XNk 
+φ
+À
+xj
+Á
+−mk
+2
+k¼1 j¼1
+(d)Repeat step (b) and (c), until the E is stable or less
+than a threshold value.
+Caliński [12] proposed the CH index to indicate the
+number of clusters. The CH index simultaneously in-
+cludes the variances of within-cluster and between-
+clusters. The formula of CH index is as follows:
+CH kð Þ ¼ ½   B=ð  Þ k−1 =½   W=ð  Þ n−k
+B denotes variances of between-clusters, W are the
+variances of within-cluster, k is the clusters’ count, n in-
+dicates the count of monitoring station. The high CH
+value indicates the well clustering results. In this re-
+search, we chose the count of clusters when the CH 
+index is highest. The kernel k-means function was used
+the “kern lab” package [13] in R [14] in our study.
+Temporal period and trend decomposition
+Empirical mode decomposition (EMD), an adaptive time
+series data analysis model [15,16],  was used to identify
+the temporal trend of malaria vectors in terms of density
+in the clustered surveillance sites. In EMD analysis, the
+original data is decomposed into a series of modes with-
+out requiring prior knowledge. Comparing with Fourier
+and wavelet decomposition, EMD has its own advantage.
+The Fourier analyses could transform data into the com-
+bination of sine and cosine functions with different fre-
+quencies, while wavelet analysis needs wavelet splines.
+These types of decomposition involve many spurious
+components due to serious restriction of the harmonic
+nature of the basis function [10,17]. The EMD method
+decomposes the data into several oscillatory compo-
+nents, corresponding to some physical phenomenon
+underlying the data, and the residual of the decompos-
+ition is the trend of the data [10].
+The model decomposed from EMD methods is called
+the intrinsic mode function (IMF) [15,16].  An IMF
+should satisfy two conditions [10,15]:  First, the differ-
+ence between the number of extrema and the number of
+zero-crossings in the whole data span should be less
+than or equal to one. Second, the mean value of the en-
+velope defined by the local maxima and the envelope de-
+fined by the local minima is zero at any point. We
+calculated the IMFs and the residuals of the density of
+the malaria vectors using the sifting method by taking
+the following steps:
+Initialize r (t) = x(t), i = 0, k = 1, where x(t) is the time
+series of density of the malaria vectors. We define a
+threshold δ , the count of extreme points N.
+Step1: Calculate the local maximum value and the
+local minimum value of the time-series r(t);
+Step2: Calculate the upper envelope emax
+(t) through
+interpolating the local maximum value, and the lower
+envelope emin
+(t) through interpolating the local mini-
+mum value;
+Step3: Calculate the local average value using the
+formula: m(t) = (emax
+(t) + emin
+(t))/2;
+Step4: Appoint i = i + 1, then the proto-mode function
+(PMF) is calculated through the following formula:
+pi
+(t) = r(t) − m(t), r(t) = pi
+(t);
+Step 5: The termination condition is:
+X
+SD ¼ 
+t 
+j  j pi
+ð Þt − pi−1
+ð Þt  2
+!
+p2
+i−1
+ð Þt
+If SD < δ, then imfk
+(t) = pi
+(t), go to the following step;
+otherwise, go back to step 1–4;
+Page 4
+Huang et al. Parasites & Vectors (2015) 8:146  Page 4 of 9
+Step 6: Appoint r(t) = r(t) − imfk
+(t). If the count of ex-
+treme points of r(t) is greater than N, then k = k + 1, i = 0,
+and go back to step 1; otherwise, stop the sifting process.
+The density series of malaria vectors x(t) can then be
+expressed as:
+XK
+x t ð Þ ¼  imf i 
+þ r
+i¼1
+Where K is the number of IMFs and r is the trend of
+the original data. The first IMF (IMF1) is the component
+with the highest frequency. All of the IMFs were statisti-
+cally tested against the null hypothesis [18]. In this re-
+search, the EMD method was processed with the code
+written by Rilling et al. [19]
+Results
+Overview of the dataset
+A total of 37,257 female anopheles were captured in the
+62 surveillance sites during 3,720 nights of collecting
+from 2005 to 2010, with a significant difference in the
+distribution as well as density of different species. The
+collections contained 4 species namely An.sinensis repre-
+senting 96.25% (35,861/37,257),  An. lesteri 0.75% (278/ 
+37,257),  An.dirus 1.49% (555/37,257) and An.minimus
+1.51% (563/37,257).  The above observations indicated
+the most widely distribution of An. sinensis in the all
+surveillance sites (62 townships) of 18 provinces, but
+showed great variation. It had a classic peak of abun-
+dance each year in the rainy season (July-August), while
+the other malaria vectors had the peak of abundance
+during August-September in the surveillance sites during
+2005–2010 (Figure 2).
+The density of An. sinensis per site averaged 6.21 and
+ranged between 0.40 and 107, the three highest density
+of An. sinensis was observed at Quanzhou site (106.94
+bites per man per night) in Guangxi Province, followed
+by Jinxian (71.57 bites per man per night) and Wuyuan
+(54.43 bites per man per night) in Jiangxi Province, while
+the three lowest density of An. sinensis was found at
+Jiangyang (1.06 bites per man per night), Qingshen (0.49
+bites per man per night) and Junlian (0.40 bites per man
+per night) in Sichuan Province (Figure 3A).
+An. lesteri was found at 13 surveillance sites in 7 prov-
+inces (Henan, Hubei, Guangdong, Hainan, Sichuan,
+Guizhou and Yunnan),  with a peak of abundance each
+year from June to July. The density per site averaged
+0.45 and ranged from 0.03 to 2.29 bites per man per
+Figure 2 Seasonal distributions of An.sinensis (A) and An.lesteri, An. dirus and An. minimus (B) in the surveillance sites during 2005–2010.
+Page 5
+Huang et al. Parasites & Vectors (2015) 8:146  Page 5 of 9
+Figure 3 The spatial distribution of malaria vectors in the surveillance sites of China during 2005–2010. (A. An. sinensis; B. An. lesteri;
+C. An. minimus; D. An. dirus).
+night, the three highest density was observed at Anlu
+(2.29 bites per man per night) in Hubei Province,
+followed by Tongbai (0.80 bites per man per night) in
+Henan Province and Baisha (0.78 bites per man per
+night) in Hainan Province (Figure 3B).
+An. minimus was captured at 13 national malaria sur-
+veillance sites in 5 provinces (Fujian, Guangdong, Hainan,
+Guizhou and Yunnan),with a peak of abundance each year
+from July to September. The density of An. minimus per
+site averaged 1.26 and ranged from 0.20 to 3.57 bites per
+man per night, the two highest density was observed at
+Menglian (3.57 bites per man per night) and Jinghong
+(3.50 bites per man per night) from Yunnan Province
+(Figure 3C).
+An. dirus was captured at 8 national malaria surveil-
+lance sites in 3 provinces (Guangdong, Guizhou and
+Hainan). The density of An. dirus per site averaged 1.21
+and ranged between 0.11 and 4.22 bites per man per
+night, the highest density was observed at Zengcheng
+(4.22 bites per man per night) in Guangdong Province, 
+followed by Congjiang (1.76 bites per man per night) in
+Guizhou Province (Figure 3D).
+Clustering distribution
+Since the density distribution of An. sinensis in some
+sites was similar in the surveillance regions, kernel k-
+means was used to identify these similarities, and three
+distinct clusters were determined among the surveillance
+regions based on CH value [10] (Figure 4).
+The first cluster (low An. sinensis density) including 28
+sentinel sites in 18 provinces was the most widely dis-
+tributed with the lowest median density of 0.48 bites per
+man per night comparing to the other two clusters, the
+second cluster (medium An. sinensis density) was mainly
+concentrated mostly in the central parts of China with
+the median density of 1.67 bites per man per night, espe-
+cially in Hubei and Anhui Provinces, the third cluster
+(high An. sinensis density) was centralized in the
+southeastern part of China such as Fujian, Zhejiang
+Page 6
+Huang et al. Parasites & Vectors (2015) 8:146  Page 6 of 9
+Figure 4 The cluster distribution of An. sinensis in the surveillance sites during 2005–2010.
+and Jiangxi Provinces with highest median density of
+5.03 bites per man per night (Table 1).
+The temporal trend of identified clusters
+During the surveillance period, a significant decrease in
+An. sinensis density was found in the first as well as the
+third cluster. In the first cluster, most decrease in the
+density (from 0.53down to 0.39 bites per man per night)
+occurred during 2005–2008 with little change between
+2009 and 2010, while the decrease was significant (from
+8.1 to 2.5 bites per man per night) in the third cluster
+during the total surveillance period. However, an in-
+crease of An. sinensis density was observed in the sec-
+ond cluster during whole surveillance period with a
+Table 1 The density distribution in three clusters of
+An. sinensis during 2005-2010
+Clusters Mean Minimum Percentile Maximum
+(SD) 
+25% 50% 75%
+Low density 0.21 0.05  0.29 0.48 0.58 0.87
+Medium density 0.95 0.16  0.83 1.67 2.26 4.24
+High density 4.00 0.29  2.38 5.03 7.56 17.20 
+significant increase (from 1.4 to 1.7 bites per man per
+night) during 2006–2009, while a little decrease in
+2010, which was a big difference from the other two
+clusters (Figure 5).
+Discussion
+Like many former studies [20-25] indicating four pri-
+mary malaria vector species including An.sinensis, An.
+lesteri, An.dirus and An.minimus existed in China, this
+study also showed the same malaria vectors existing with
+significant discrepancy of spatial distribution in the sur-
+veillance regions.
+Although An.sinensis is an inefficient vector mainly
+because of its zoophilic habit, it is still considered an im-
+portant vector of P. vivax malaria due to its wide distri-
+bution as well as high density. Malaria transmission had
+often taken place due to its high density under suitable
+conditions such as the open plains in the greater part of
+China between 25 ~ 33 north latitude [25-27].
+An. lesteri was mainly distributed in low hill, hillock
+and shallow hilly plain between 22 ~ 33 north latitude
+which had still been found in 11 provinces with 205
+counties through the survey conducted from 1998 to
+Page 7
+Huang et al. Parasites & Vectors (2015) 8:146  Page 7 of 9
+Figure 5 EMD decomposition of the three clusters of An. sinensis density: (A) first cluster (low density) (B) second cluster (medium
+density) (C) third cluster (high density).
+2001 [3]. However, An. lesteri had been captured only in
+13 counties from 7 provinces (Henan, Hubei, Guang-
+dong, Hainan, Sichuan, Guizhou and Yunnan) in the
+surveillance sites during 2005–2010, indicating that the
+spatial distribution of this vector became smaller than
+before. The extensive agricultural use of pesticides and
+indoor insecticide spraying may have substantially re-
+duced its distribution [23,28,29].
+An.minimus had long been regarded as a principal
+malaria vector in China. In the past, mosquitoes of the
+An. minimus group were recorded from 16 provinces in
+southern China including Sichuan, Chongqing, Hubei,
+Henan, Anhui, Zhejiang, Yunnan, Guizhou, Guangxi,
+Hainan, Hunan, Jiangxi, Guangdong, Fujian, Hong Kong
+and Taiwan throughout southern China from Yunnan
+Province eastward and from Hainan Island northward to
+approximately 32.5 north latitude [30-33]. However, An.
+minimus was captured only in 5 provinces (Fujian, 
+Guangdong, Hainan, Guizhou and Yunnan) from the
+surveillance sites during 2005–2010. It is still a major
+malaria vector in the hilly bordering regions of Yunnan
+Province near Myanmar [33].
+In China, An.leucosphyrus was found for the first time
+by the writer in 1941 in Yunnan [34]. It was then recti-
+fied to An.dirus, a new species described by Peyton and
+Harrison [35], based on the detailed morphological com-
+parison of specimens from Thailand. However, different
+from previous research that An.dirus had been captured
+from four provinces of Hainan, Yunnan, Guangxi and
+Tibet [36],  it was only captured at 8 national malaria
+surveillance sites during 2005–2010 from 3 provinces
+(Guangdong, Guizhou and Hainan). An.dirus has so far
+been known as a malaria vector only on Hainan Island.
+Further, this is the first study to systematically explore
+the temporal-spatial dynamics of An.sinensis in China
+using kernel k-means based on CH value [10].  The
+Page 8
+Huang et al. Parasites & Vectors (2015) 8:146  Page 8 of 9
+significant difference of population density may have
+resulted from available resources that more rice fields
+in the southern part of China than the others contrib-
+uting to the suitable breeding sites of An.sinensis [37].
+Different from the first and third cluster that a signifi-
+cant decrease of An. sinensis density was observed, the
+second cluster displayed a significant increase during
+2005–2010 in the central part of China, which the increas-
+ing vectorial capacity leading to malaria re-emergence in
+Huang-Huai River of central China may be related to this
+change [38,39].
+Conclusion
+As malaria transmission relies mainly on Anopheles mos-
+quitoes, the present results will serve as a baseline for the
+ongoing NMEP in China, which will help to address the
+knowledge gaps with respect to the malaria profile under
+different settings.
+Competing interests
+The authors hereby certify that no conflict of interest of any kind occurred in
+the framework of this study.
+Authors’ contributions
+WDQ and WJF designed the study. XZG, WDQ, HJX conducted the analysis
+and drafted the manuscript. WDQ, XZG, ZhouSS, ZhangSS and YMN
+collected the data. All authors read and approved the final manuscript.
+Acknowledgments
+This study was supported by the Fundamental Research Funds for the Central
+Universities (no. BLX2014-08) and the National S & T Major Program
+(Grant No. 2012ZX10004-220 and 2012CB955503).  We would like to
+thank all the staff enrolled in this national surveillance program for
+their excellent cooperation.
+Author details
+1College of Forestry, Beijing Forestry University, Beijing 100083, China.
+2Center of 3S Technology and Mapping, College of Forestry, Beijing Forestry
+University, Beijing 100083, China. 3LREIS, Institute of Geographic Science and
+Natural Resource Research, Chinese Academy of Sciences, Beijing, China.
+4National Institute of Parasitic Diseases, Chinese Center for Disease Control
+and Prevention, WHO Collaborating Center for Malaria, Schistosomiasis and
+Filariasis, Key Laboratory of Parasite and Vector Biology, Ministry of Health,
+Shanghai, People’s Republic of China. 5Geospatial Information Sciences in the
+School of Economic, Political and Policy Sciences at The University of Texas
+in Dallas, Richardson, USA. 6Key Laboratory of Surveillance and Early Warning
+on Infectious Disease, Chinese Center for Disease Control and Prevention,
+Beijing 102206, China. 7School of Geographical Science, Northeast Normal
+University, Changchun 130024, China.
+Received: 11 September 2014 Accepted: 13 February 2015
+References
+1.  Ministry of Health. Malaria surveillance project in China. 2005.
+2.  Lu B. The present status of mosquito-borne diseases in China. Program and
+Abstracts of 4th Intern Meeting of Tropical Medicine and parasitology.
+1998;18-20.
+3.  Guo C. Advance in the research of Anopheles anthropophagus in China.
+China Tropical Med. 2005;5(2):396–9.
+4.  Qu F. Research of mosquitoes during recent fifty years in China. Chinese J
+Parasitological Parasitic Dis. 1999;17(5):264–6.
+5.  Hay SI, Guerra CA, Tatem AJ, Noor AM, Snow RW. The global distribution
+and population at risk of malaria:past, present, and future. Lancet Infect Dis.
+2004;4(6):327–36. 
+6.  Greenwood BM, Fidock DA, Kyle DE, Kappe SH, Alonso PL, Collins FH, et al.
+Malaria: progress, perils, and prospects for eradication. J Clin Invest.
+2008;118(4):1266–76.
+7.  Zhou G, Minakawa N, Githeko A, Yan G. Spatial distribution patterns of
+malaria vectors and sample size determination in spatially heterogeneous
+environments: a case study in the west Kenyan highland. J Med Entomol.
+2004;41(6):1001–9.
+8.  Wang DQ, Tang LH, Liu HH, Gu ZC, Zheng X. Application of Structural
+Equation Models for Elucidating the Ecological Drivers of Anopheles sinensis
+in the Three Gorges Reservoir. PLoS One. 2013;8(7):e68766. doi:10.1371/
+journal.pone. 0068766.
+9.  Wang DQ, Tang LH, Gu ZC, Zheng X, Jiang WK. Malaria transmission
+potential in the three gorges reservoir of the Yangtze River, China. Biomed
+Environ Sci. 2013;26(1):54–62.
+10. Hu MG, Jia L, Wang JF, Pan YP. Spatial and temporal characteristics of
+particulate matter in Beijing, China using the empirical model
+decomposition method. Sci Total Environ. 2013;458–460:70–80.
+11. Dhillon I, Guan Y, Kulis B. A unified view of kernel k-means, spectral clustering
+and graph partitioning. UTCS Technical Report. 2004.
+12. Caliński T, Harabasz J. A dendrite method for cluster analysis. Commun Stat.
+1974;3:1–27.
+13. Karatzoglou A, Smola A, Hornik K, Zeileis A. kernlab - an S4 package for kernel
+methods in R. J Stat Softw. 2004;11:1–20.
+14. R Core Team. R: a language and environment for statistical computing.
+Vienna, Austria: R Foundation for Statistical Computing; 2012.
+15. Huang NE, Shen Z, Long SR, Wu MC, Shih HH, Zheng Q, et al. The empirical
+mode decomposition and the Hilbert spectrum for nonlinear and non-
+stationary time series analysis. Proc R SocLond A. 1998;454:903–95.
+16. Huang NE, Wu MC, Long SR, Shen SSP, Qu W, Gloersen P, et al. A
+confidence limit for the empirical mode decomposition and Hilbert spectral
+analysis. Proc R SocLond A. 2003;459:2317–45.
+17. Klionski DM, Oreshko NI, Geppener VV, Vasiljev AV. Applications of empirical
+mode de-composition for processing nonstationary signals. Pattern Recog-
+nition Image Anal. 2004;18:390–9.
+18. Wu Z, Huang NE. A study of the characteristics of white noise using the
+empirical modedecomposition method. Proc R SocLond A. 2004;460:1597–611.
+19. Rilling G, Flandrin P, Goncalves P. On empirical mode decomposition and its
+algorithms. Proceedings of IEEE-EURASIP workshop on nonlinear signal and
+image processing; 2003.
+20. Chow CY. Malaria vector in China. Chin J Entomol. 1991;Special Publ(6):67–79.
+21. Ministry of Health Disease Prevention and Control Bureau. Handbook for
+malaria control and prevention. Beijing: People’s Hygiene Publishing House
+Press; 2007.
+22. Sinka EM, Bangs JM, Manguin S, Chareonviriyaphap T, Patil PA, Temperley HW,
+et al. The dominant Anopheles vectors of human malaria in the Asia-Pacific
+region: occurrence data, distribution maps and bionomic précis. Parasi
+Vectors. 2011;4:89.
+23. Tang LH, Qian HL, Xu SH. Malaria and its control in the People’s Republic of
+China. Southeast Asian J Trop Med Public Health. 1991;22:467–76.
+24. Rueda LM, Ma Y, Song GH, Gao Q. Notes on the distribution of Anopheles
+(Anopheles) sinensis Wiedemann (Diptera: Culicidae) in China and the status
+of some Anopheleshyrcanus group type specimens from China. Proc
+Entomol Soc Wash. 2005;107:235–8.
+25. Sleigh AC, Liu XL, Jackson S, Li P, Shang LY. Resurgence of vivax malaria in
+Henan Province. China Bull World Health Organ. 1998;76:265–70.
+26. Xu JJ, Feng LC. Studies on the Anopheles hyrcanus group of mosquitoes in
+China [in Chinese]. Acta Entomol Sinica. 1975;18:77–98. 76 pls.
+27. Ma SF. Studies on the Anopheles (A.) sinensis group of mosquitoes in
+China, including four new sibling species [in Chinese].  Sinozoologia.
+1981;1:59–70. 54 pls.
+28. Ho C, Chou TC, Ch’En TH, Hsueh AT. The Anopheles hyrcanus group and its
+relation to malaria in east China. Chin Med J. 1962;81:71–8.
+29. Liu C. Comparative studies on the role of Anopheles anthropophagus and
+Anopheles sinensis in malaria transmission in China [in Chinese]. Zhonghua
+Liu Xing Bing Xue Za Zhi. 1990;11:360–3.
+30. Ho C, Feng LC. Studies on malaria in new China. Chin Med J. 1958;77:533–51.
+31. Dong XS. The malaria vectors and their ecology in Yunnan Province.
+Chinese J Parasitic Dis Control. 2000;13(2):144–7.
+32. Wang XZ, Du ZW, Lu YY, Zhu GJ, Huang R, Gu Y, et al. Bionomics of An.
+minimus and its role in malaria transmission in south parts of Yunnan.
+Chinese J Vector Biology Control. 1999;10(5):343–6.
+Page 9
+Huang et al. Parasites & Vectors (2015) 8:146
+33. Lu BL. Fauna Sinica, Insecta, Vol. 9, Diptera. CulicidaeI I. Beijing: Science
+Press; 1997.
+34. Shi W, Zhou X, Zhang Y, Zhou X, Hu L, Wang X, et al. Investigation on
+malaria vectors in western part of China-Myanmar border. Chin J Parasitol
+Parasit Dis. 2011;9(2):134–7.
+35. Sweet WC, Feng LC, Chow CY, Hsu SC. Anophelines of Southwestern
+Yunnan and their relation to malaria. J Natl Mal Soc. 1942;1:25–32.
+36. Colless DH. Further notes on the systematic of the Anopheles leucosphyrus
+group. Proc Roy Ent Soc London. 1957;26:131–9.
+37. Harrison. PA Medical entomology studies XII. Contrib Am Ent Inst.
+1980;17:195.
+38. Xiao X, Boles S, Liu J, Zhuang D, Frolking S, Lia C, et al. Mapping paddy rice
+agriculture in southern China using multi-temporal MODIS images. Remote
+Sens Environ. 2005;95(4):480–92.
+39. Pan JY, Zhou SS, Zheng X, Huang F, Wang DQ, Shen YZ, et al. Vector
+capacity of An. sinensisin malaria outbreak areas of central China. Parasit
+Vectors. 2012;5:136. 
+Page 9 of 9
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color ﬁgure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at
+www.biomedcentral.com/submit

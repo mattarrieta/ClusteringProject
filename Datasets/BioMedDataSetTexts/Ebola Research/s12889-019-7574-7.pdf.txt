@@ -1,0 +1,978 @@
+Creator: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+Producer: Acrobat Distiller 10.0.0 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+Title: Evaluation of the performance of the National Tuberculosis Program of Liberia during the 2014–2015 Ebola outbreak
+Keywords: Ebola,Outbreak,TB,Treatment outcome,Case detection,TB/HIV
+ModDate: 2019/10/21 15:57:47+02'00'
+Subject: BMC Public Health, 2019, doi:10.1186/s12889-019-7574-7
+Author: Kassaye Tekie Desta
+CreationDate: 2019/10/13 10:26:55+08'00'
+xmp:pdf:Keywords: Ebola,Outbreak,TB,Treatment outcome,Case detection,TB/HIV
+xmp:pdf:Producer: Acrobat Distiller 10.0.0 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+xmp:dc:format: application/pdf
+xmp:dc:identifier: 10.1186/s12889-019-7574-7
+xmp:dc:publisher: BMC Public Health
+xmp:dc:description: BMC Public Health, 2019, doi:10.1186/s12889-019-7574-7
+xmp:dc:subject: Ebola; Outbreak; TB; Treatment outcome; Case detection; TB/HIV
+xmp:dc:title: Evaluation of the performance of the National Tuberculosis Program of Liberia during the 2014–2015 Ebola outbreak
+xmp:dc:creator: Kassaye Tekie Desta; Dedeh Barr Kessely; Jerry G. Daboi
+xmp:xmp:ModifyDate: 2019-10-21T15:57:47+02:00
+xmp:xmp:MetadataDate: 2019-10-21T15:57:47+02:00
+xmp:xmp:CreateDate: 2019-10-13T10:26:55+08:00
+xmp:xmp:CreatorTool: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+xmp:xmpMM:DocumentID: uuid:eced4066-10df-4c3c-8382-a670b9f3c963
+xmp:xmpMM:InstanceID: uuid:1b29a0b3-6296-4dcb-8389-1e2b37326b4f
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:eced4066-10df-4c3c-8382-a670b9f3c963
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2019-10-18T05:13:25+08:00
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:author:name: Kassaye Tekie Desta
+xmp:author:orcid: http://orcid.org/0000-0002-2124-8289
+xmp:pdfaSchema:schema: Springer Nature ORCID Schema
+xmp:pdfaSchema:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/
+xmp:pdfaSchema:prefix: sn
+xmp:pdfaProperty:name: authorInfo
+xmp:pdfaProperty:valueType: Bag AuthorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Author information: contains the name of each author and his/her ORCID (ORCiD: Open Researcher and Contributor ID). An ORCID is a persistent identifier (a non-proprietary alphanumeric code) to uniquely identify scientific and other academic authors.
+xmp:pdfaProperty:name: editorInfo
+xmp:pdfaProperty:valueType: Bag EditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Editor information: contains the name of each editor and his/her ORCID identifier.
+xmp:pdfaProperty:name: seriesEditorInfo
+xmp:pdfaProperty:valueType: Bag SeriesEditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Series editor information: contains the name of each series editor and his/her ORCID identifier.
+xmp:pdfaType:type: AuthorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/authorInfo/
+xmp:pdfaType:prefix: author
+xmp:pdfaType:description: Specifies the types of author information: name and ORCID of an author.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an author.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an author.
+xmp:pdfaType:type: EditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/editorInfo/
+xmp:pdfaType:prefix: editor
+xmp:pdfaType:description: Specifies the types of editor information: name and ORCID of an editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an editor.
+xmp:pdfaType:type: SeriesEditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/seriesEditorInfo/
+xmp:pdfaType:prefix: seriesEditor
+xmp:pdfaType:description: Specifies the types of series editor information: name and ORCID of a series editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of a series editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of a series editor.
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdf/1.3/
+xmp:pdfaSchema:prefix: pdf
+xmp:pdfaSchema:schema: Adobe PDF Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A name object indicating whether the document has been modified to include trapping information
+xmp:pdfaProperty:name: Trapped
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/mm/
+xmp:pdfaSchema:prefix: xmpMM
+xmp:pdfaSchema:schema: XMP Media Management Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: UUID based identifier for specific incarnation of a document
+xmp:pdfaProperty:name: InstanceID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: The common identifier for all versions and renditions of a document.
+xmp:pdfaProperty:name: OriginalDocumentID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A reference to the original document from which this one is derived. It is a minimal reference; missing components can be assumed to be unchanged. For example, a new version might only need to specify the instance ID and version number of the previous version, or a rendition might only need to specify the instance ID and rendition class of the original.
+xmp:pdfaProperty:name: DerivedFrom
+xmp:pdfaProperty:valueType: ResourceRef
+xmp:pdfaType:description: Identifies a portion of a document. This can be a position at which the document has been changed since the most recent event history (stEvt:changed). For a resource within an xmpMM:Ingredients list, the ResourceRef uses this type to identify both the portion of the containing document that refers to the resource, and the portion of the referenced resource that is referenced.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Part#
+xmp:pdfaType:prefix: stPart
+xmp:pdfaType:type: Part
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/t/pg/
+xmp:pdfaSchema:prefix: xmpTPg
+xmp:pdfaSchema:schema: XMP Paged-Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A structure containing the characteristics of a font used in a document
+xmp:pdfaProperty:name: Fonts
+xmp:pdfaProperty:valueType: Bag Font
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: XMP08 Spec: An ordered array of plate names that are needed to print the document (including any in contained documents).
+xmp:pdfaProperty:name: PlateNames
+xmp:pdfaProperty:valueType: Seq Text
+xmp:pdfaType:description: A structure containing the characteristics of a font used in a document.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Font#
+xmp:pdfaType:prefix: stFnt
+xmp:pdfaType:type: Font
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdfx/1.3/
+xmp:pdfaSchema:prefix: pdfx
+xmp:pdfaSchema:schema: PDF/X ID Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: ID of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXVersion
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Conformance level of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXConformance
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Company creating the PDF
+xmp:pdfaProperty:name: Company
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Date when document was last modified
+xmp:pdfaProperty:name: SourceModified
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://www.aiim.org/pdfa/ns/id/
+xmp:pdfaSchema:prefix: pdfaid
+xmp:pdfaSchema:schema: PDF/A ID Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Part of PDF/A standard
+xmBOOKMARKS:
+Abstract
+  Background
+  Methods
+  Results
+  Conclusion
+Background
+Methods
+  Study design
+  Study setting
+  Study participants, sampling and data collection
+  Data analysis
+  Ethical considerations
+Results
+  Performance of the TB laboratory diagnosis during the EVD outbreak
+  Impact of EVD on TB treatment outcome
+  NLTCP and TB hospital staff’s perspectives of the impact of EVD on TB treatment outcome
+Discussion
+  Recommendation
+  Scope and limitations of the study
+Conclusion
+Abbreviations
+Acknowledgements
+Authors’ contributions
+Funding
+Availability of data and materials
+Ethics approval and consent to participate
+Consent for publication
+Competing interests
+Author details
+References
+Publisher’s Note
+Page 1
+Desta et al. BMC Public Health (2019) 19:1221
+https://doi.org/10.1186/s12889-019-7574-7
+RESEARCH ARTICLE  Open Access
+Evaluation of the performance of the
+National Tuberculosis Program of Liberia
+during the 2014–2015 Ebola outbreak
+Kassaye Tekie Desta1,2* [URL: "http://orcid.org/0000-0002-2124-8289"] , Dedeh Barr Kessely3 and Jerry G. Daboi4
+Abstract
+Background: Liberia is among the three west African countries which were crippled by the Ebola Virus Disease
+(EVD) outbreak of 2014. One of the programs which was affected by the EVD outbreak was the National Leprosy
+and Tuberculosis Control Program (NLTCP). Determining the magnitude of the impact of EVD on the NLTCP
+performance is crucial in restoring the service and in devising effective post EVD strategies. The purpose of the
+study was to analyse the impact of EVD outbreak on the performance of the NLTCP of the Ministry of Health (MOH)
+OF Liberia.
+Methods: A cross sectional study design was conducted in 2016 using both quantitative and qualitative methods.
+Quantitative data was used for the Tuberculosis (TB) program evaluation before EVD (2012–2013) and during EVD
+(2014–2015). Qualitative data was used to complement the data obtained for the quantitative study. Descriptive
+statistical analyses of quantitative data were conducted using Microsoft Excel.
+Results: Notified TB cases of all forms decreased from 7822 in 2013 to 4763 and 6118 in 2014 and 2015 respectively.
+The number increased to 7180 and 7728 in 2016 and 2017 respectively. The TB treatment success rate was 71 and 61%
+in 2014 and 2015 respectively compared to the 83% in 2013. The treatment success rate was 77% in 2016. The loss to
+follow up (LTFU) was as high as 47% in some regions which were highly affected by the EVD outbreak. The national
+average LTFU was 5–10% in 2012–2013 and 16 and 21% in 2014 and 2015 respectively. The percentage of TB patients
+with known HIV result decreased from 75% in 2013 to 74 and 42% in 2014 and 2015 respectively. TB culture and drug
+susceptibility testing service was interrupted throughout the outbreak. The results of the focal group discussions and
+interviews conducted in our study also indicated that the TB case finding and the TB treatment outcome was
+significantly affected by the EVD outbreak.
+Conclusion: Notified TB cases and treatment outcome was significantly affected by the EVD outbreak which occurred
+in 2014 and 2015 in Liberia. Effective restoration strategies should be developed in order to improve the TB case
+finding and treatment outcome.
+Keywords: Ebola, Outbreak, TB, Treatment outcome, Case detection, TB/HIV
+* Correspondence: [URL: "mailto:kassayetek@gmail.com"] kassayetek@gmail.com
+1Clinton Health Access Initiative, Monrovia, Liberia
+2Atlantic Med System Consulting, Monrovia, Liberia
+Full list of author information is available at the end of the article
+© The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License ([URL: "http://creativecommons.org/licenses/by/4.0/"] http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Page 2
+Desta et al. BMC Public Health (2019) 19:1221  Page 2 of 10
+Background
+TB is a major public health problem worldwide. It af-
+fects the health of approximately 10 million people each
+year and is one of the top ten causes of death worldwide.
+TB is the ninth leading cause of death worldwide
+exceeding death from HIV/AIDS [1].  According to the
+World Health Organization (WHO) report of 2017; the
+TB incidence in Liberia for the year 2016 was 308/100,
+000 population compared to 242/100,000 in 2000 [2].
+Liberia is among the high TB burden countries in Sub-
+Saharan Africa. The NLTCP of Liberia was well func-
+tioning starting from its establishment in 1989 under the
+Department of Preventive Health Services of the Minis-
+try of Health and Social Welfare with TB case detection
+rate of above 60% and TB treatment success rate of
+above 70% between the 1990 and 2000 [3, 4]. Although
+few cases of TB were detected between 2005 and 2007,
+an increase in notification was observed from 2008 to
+2012 notably because of the expansion of the program
+through funding from the Global Fund. The TB case no-
+tification of all forms was, 3456,4514 and 4511 in 2005,
+2006 and 2007 respectively. The notification increased
+to 5007 and 8132 in 2008 and 2012 respectively.
+In Liberia, the treatment success rate was 76% in 2009
+[4, 5]. This figure was by far less than the national and
+global targets of 85% set by the Stop TB strategy of
+WHO [6]. Treatment success rate is the number of new
+smear-positive pulmonary TB cases registered in a speci-
+fied period that were cured plus the number that com-
+pleted treatment divided by total number of new smear-
+positive pulmonary TB cases registered in the same
+period. Treatment outcome includes treatment success
+rate, LTFU, death rate and transfer out [7].
+The recent west Africa EVD outbreak was first
+detected in Guinea in March 2014 and spread to the
+neighbouring countries of Liberia and Sierra Leone. As
+the result of this deadly outbreak, 28,616 cases and 11,
+310 deaths were reported in West Africa. Among this,
+11,000 cases and 4800 deaths were reported in Liberia
+[8].  EVD is a severe, zoonotic, filovirus infection and
+life-threatening disease which spreads through direct
+contact with body fluids of a sick person with EVD [9].
+Direct contact with the deceased person’s body during
+funeral or burial preparation is another means of trans-
+mission for the virus [10].  The 2014 west Africa EVD
+outbreak was the largest and longest Ebola epidemic and
+the first to occur in three entire neighbouring countries.
+The pre-existing health system of the three countries
+was already fragile before the outbreak due to years of
+armed conflict and poor economic status. This was
+further aggravated by the outbreak as result of death of
+health workers, fear of infection, closure of health facil-
+ities, delayed response of international community and
+stock out of medical supplies [11]. The devastating EVD 
+outbreak in the three countries impacted significantly
+on all sectors of the healthcare systems including the
+TB prevention and control programs [12].  The out-
+break hampered the diagnosis and treatment of HIV,
+malaria, TB and other diseases. Outpatient attendance
+was decreased significantly for fear of infection at the
+health facilities. Border closures, disruption of transpor-
+tation route and curfew made access to routine medical
+services difficult [13].
+In Liberia, the EVD outbreak began in March 2014
+and caused a devastating impact on the health system,
+the population at large and the Liberian economy. As
+result of the 14 years of civil war which was started in
+1989, the health system was on recovery and ill equipped
+to effectively respond to the epidemic with the necessary
+health facilities. The infection prevention measures,
+laboratory infrastructure and health work force were not
+in a position to contain the outbreak [14]. As a result of
+the existing weak infection prevention measures, the
+EVD epidemic had a 30 times higher risk of infection
+amongst Liberian health workers as compared to the
+general population, with 372 health workers infected,
+and 180 health workers died as of 18th March 2015 [15].
+In addition to the weak infection prevention measures,
+the pre-existing structural vulnerabilities that aggravated
+the outbreak included inadequate and poorly motivated
+staff, insufficient and unsuitable infrastructure and
+equipment, weak supply chain and poor quality of care.
+During the EVD outbreak patients were screened and
+treated for EVD according to the WHO guidelines. All
+patients including presumed and confirmed TB were
+screened for fever at entry to each health facility. Any
+patient presenting with unexplained hemorrhage, or with
+a fever or who had been in contact with a known Ebola
+case, or an ill or dead animal, was referred to the Ebola
+Treatment Center in Liberia [16, 17].
+Even though the exact magnitude of the impact of the
+EVD outbreak on TB was not exactly determined in
+Liberia, the health facility closures, community distrust,
+fears and refusal of health workers to provide routine
+health services has critically impacted the health service
+delivery. As a result, there were disruptions in provision
+of routine services. These disruptions have affected the
+entire health services. One of the programs which was
+affected by the EVD outbreak was the NLTCP. This was
+due to the temporary closure of the health facilities, fear
+and stock out of medical supplies. The impact of EVD
+on the health sector in general and TB in particular was
+studied in Sierra Leone and Guinea but it was not well
+studied in Liberia. The study findings from both coun-
+tries indicated a decline in TB case notification and TB
+treatment outcome [13, 18]. This study is the first of its
+type in Liberia to exhaustively analyze the impact of
+EVD on TB case finding and treatment outcome in
+Page 3
+Desta et al. BMC Public Health (2019) 19:1221  Page 3 of 10
+Liberia. It attempted to address the challenges caused by
+EVD with the ultimate aim of improving the TB treat-
+ment outcome to reduce Liberia’s TB-related mortality
+and morbidity rates with advantages for the individual
+TB patients and their families during the EVD outbreak
+and post EVD health service recovery. The study also
+provided recommendations to the National TB program
+on how to improve the post EVD TB treatment outcome
+and TB case finding and to effectively control future
+outbreaks and keep the momentum towards achieving
+the End TB strategies set by WHO for 2035 [6, 19].
+Methods
+Study design
+A cross sectional study design was used for the study
+conducted in 2016 using both quantitative and qualita-
+tive study methods. Quantitative research design was
+used for the TB program evaluation before EVD (2012–
+2013) and during EVD (2014–2015). Quantitative study
+design was used for the study on the impact of EVD on
+TB program treatment outcome and case finding using
+the data obtained from TB program. NLTCP treatment
+outcome and laboratory diagnosis (2009–2017) data was
+extracted from the Ministry of Health of Liberia health
+management information system, NLTCP of Liberia
+documents and reports using a standard self-developed
+and piloted checklist. The data extracted included TB
+case notification rate, TB treatment outcome, TB/HIV
+co-infection trends and TB treatment success rate.
+The qualitative study included two Focus Group
+Discussions (FGDs) and one semi structured interview
+questionnaires. The purpose of conducting these inter-
+views and FGDs was to understand the real experience of
+the participants in evaluating any impact of EVD on TB
+program performance. The findings of these qualitative
+data analysis are considered to supplement the findings of
+the quantitative study.
+Study setting
+The study was conducted in Liberia. Liberia is located in
+West Africa and is bounded by Guinea in the north,
+Cote d‘Ivoire in the east, Sierra Leone in the west and
+the Atlantic Ocean in the south. The country has a
+population of 4.3 million. The study setting included the
+NLTCP of Liberia where the TB program performance
+data was obtained. Besides, TB annex hospital which is
+co-located with NLTCP in Monrovia were used as study
+setting for the qualitative data collection.
+Study participants, sampling and data collection
+The impact of EVD on TB program performance was
+evaluated from TB program managers and staff perspec-
+tive. The study participants were selected using purposive
+sampling. Participants included TB program managers, 
+county health team officers, county diagnostic supervisors,
+laboratory heads, nurses and laboratory technicians work-
+ing in TB hospital, pharmacist and administrative staff.
+The qualitative data collection methods included individ-
+ual interviews and FGDs. Two FGDS each composed of
+10 people were included in the qualitative part of the
+study. The FGDs were facilitated by a moderator and the
+FGDs discussions were captured on the FGD guide. In
+addition to this, semi-structured interview questionnaires
+were conducted by the principal investigator. The inter-
+view participants were program managers, county health
+team officers, different facility TB staffs and county diag-
+nostic officers. Altogether, 30 respondents participated of
+the 35 who consented. All the interviews and FGDs were
+conducted in English; the national language of Liberia.
+Data analysis
+Thematic content analyses were performed on the qualita-
+tive data based on the FGD guides and semi-structured
+interview guide. Content analysis was used as it enables a
+systematic coding of data by organizing the information
+into categories to discover patterns undetectable by merely
+reading the transcripts. Inductive categories of themes and
+sub-themes emerged from the transcripts were used to
+draw original and unbiased conclusions. Direct quotes
+from the group discussion participants were not reported
+as each quote is captured in the themes and sub-themes.
+For the quantitative data, descriptive statistical analyses
+were conducted using Microsoft Excel.
+Ethical considerations
+A written permission letter for TB program data and to
+conduct the study was obtained from the National
+Leprosy and Tuberculosis program of Liberia. Prior to
+conducting the study, permission was obtained in the
+form of a clearance certificate from the National Ethics
+Board of Liberia. Written consent was obtained from the
+FGD and interview study participants. Confidentiality
+was ensured at all stages of the study as no identifying
+details were written on the questionnaires, check lists
+and FGDs to link anyone to the data obtained. No infor-
+mation was given to third party without the permission
+of the Ministry of Health of Liberia.
+Results
+Performance of the TB laboratory diagnosis during the
+EVD outbreak
+The TB laboratory network in Liberia consists of one
+referral laboratory, one central laboratory, five regional
+laboratories and 167 peripheral microscopy service sites.
+The TB case notification of the NLTCP of Liberia before
+and during the 2014 EVD outbreak is shown below
+(Figs. 1 and 2). Notified smear positive cases of TB were
+3820 in 2013 and dropped to 2448 during the 2014
+Page 4
+Desta et al. BMC Public Health (2019) 19:1221  Page 4 of 10
+Fig. 1 Tuberculosis case notification in Libera from 2009 to 2017. The graph in blue indicates notified TB cases of all forms and the graph in red
+indicates notified TB cases of smear positive per 100,000 population
+heightened outbreak of EVD in Liberia. TB case notifica-
+tion had been increasing since 2011 but declined in 2014
+and 2015.The TB case notification was in 2013 was 7822
+and declined to 4763 and 6118 in 2014 and 2015
+respectively. The number of TB cases notified increased
+to 7188 and 7728 in 2016 and 2017 respectively. The 
+impact of the 2014 EVD outbreak on smear positive TB
+cases and on TB treatment success rate was analyzed
+using the interrupted time series analysis. Regression
+analysis with Newey -West adjusted standard errors was
+used to evaluate the impact of the 2014 EVD on smear
+positive TB cases. For smear positive cases, there was a
+Fig. 2 Tuberculosis case notification in Libera from 2009 to 2017. The line in blue indicates notified TB cases of all forms and the line in orange
+indicates notified TB cases of smear positive per 100,000 population
+Page 5
+Desta et al. BMC Public Health (2019) 19:1221  Page 5 of 10
+significant change of level of the variable TB positive
+smear cases as well as in the trend of the number of
+cases of this variable (Fig. 3). This trend in notified TB
+cases clearly indicated that the decline in 2014 and 2015
+was attributed to the EVD outbreak.
+TB/HIV coinfection and collaboration efforts were also
+analyzed before and after the EVD outbreak to deter-
+mine the impact of the outbreak on HIV testing of TB
+patients. In addition to this, the percentage of HIV + TB
+patients started or continued on Cotrimoxazole Prevent-
+ive Therapy (CPT) and the percentage of HIV+ TB pa-
+tients started or continued on Anti- Retroviral Therapy
+(ART) were compared before and after the EVD out-
+break. The % of HIV + TB patients started or continued
+on CPT decreased during the outbreak but the % of HIV+
+TB patients started or continued on ART increased during
+the outbreak as indicated below (Table 1).
+Laboratory diagnostic supervisors’  perspectives of the
+impact of EVD on TB laboratory diagnosis.
+This is a qualitative study where one FGD was
+conducted to get insight on the impact of EVD on TB
+laboratory performance from diagnostic supervisors’
+perspective. A total of 10 county diagnostic supervisors
+participated in the FGD discussion. The work experi-
+ences of the participants were 6 to 20 years. There are
+15 county diagnostic supervisors in Liberia who are
+assigned one per county. Of the 15 county diagnostic
+supervisors, 10 participated. The main themes that
+emerged from the FGD participants on the impact of
+EVD included TB laboratory diagnosis interruption as a
+result of facility closure for fear of EVD, priority was 
+given to EVD and TB laboratory services were compro-
+mised. Besides, poor knowledge on the nature and trans-
+mission mechanism of EVD was another theme emerged
+during the FGD discussion. The sub-themes included
+work load as some laboratory technicians were reposi-
+tioned for EVD response and lack of incentives and con-
+tinuous stock out of laboratory reagents and supplies.
+FGDs were also asked to share their experience on the
+impact of EVD on Tuberculosis case finding. All the
+FGD participants mentioned that EVD affected the TB
+laboratory services in various ways. Most of the FGDs
+participants explained that the closure of the health
+facilities for fear of EVD crucially affected the TB ser-
+vices in their respective counties. The repurposing of re-
+sources to fight Ebola including logistics and man power
+was associated to the EVD impact on TB case finding by
+FGD participants. The lack of incentive to health
+workers including laboratory staff during the outbreak
+was argued by an FGD participant as the main cause of
+the negative impact on TB laboratory performance.
+Besides; the care given to the infected national staff was
+not intensive as those of infected expats and this was
+also discouraging as mentioned by an FGD participant.
+Impact of EVD on TB treatment outcome
+TB treatment success rate is considered as one of the of
+TB program treatment outcome indicators which help
+to evaluate the performance of national TB programs.
+Liberia made progress in maintaining a high treatment
+success rate above 80% in 2011 and 2012. In 2013, the
+treatment success rate was 83%. The treatment success
+Fig. 3 Regression with Newey -West adjusted standard errors. The line graph indicates the trend of TB positive smear cases before the EVD
+(2009–2013), during the EVD outbreak (2014–2015) and after the outbreak (2016–2017). Smeartb = Smear positive TB cases
+Page 6
+Desta et al. BMC Public Health (2019) 19:1221  Page 6 of 10
+Table 1 TB/HIV co-infection in Liberia (2011–2017)
+TB/HIV Indicators  2011
+Notified TB cases  7965
+TB patients with known HIV test result  4355 (55%)
+TB patients with positive HIV test  454 (10%)
+HIV + TB patients started or continued on CPT 309 (68%)
+HIV + TB patients started or continued on ART 45 (10%)
+*NA: Data not available 
+2012
+8132
+5661 (70%)
+772 (14%)
+324 (42%)
+108 (14%) 
+2013
+7822
+5899 (75%)
+950 (16%)
+703 (74%)
+152 (16%) 
+2014
+4763
+3567 (74%)
+538 (15%)
+301 (56%)
+145 (27%) 
+2015
+6118
+2577 (42%)
+368 (14%)
+173 (47%)
+92 (25%) 
+2016
+7180
+5313 (74%)
+829 (16%)
+NA*
+390 (47%) 
+2017
+7728
+5410 (70%)
+827 (15%)
+NA*
+347 (42%)
+rate of Liberia was also declined to 71% in 2014 and 61%
+in 2015 (Fig. 4). The TB treatment success rate increased
+to 77% in the year 2016 and 2017. Regression analysis
+using Newey -West adjusted standard errors showed no
+significant change both in the level of the variable treat-
+ment success rate and in the trend of this variable
+(Fig. 5). This indicated that Treatment success rate was
+not affected significantly during the 2014 EVD outbreak.
+TB treatment outcome of cured rate, completed rate,
+failure rate, death rate and LTFU rate were also used as
+measures of the impact of EVD on TB treatment out-
+come. The most important cause of unfavourable out-
+come in Liberia after the EVD outbreak was the LTFU
+which was 7% in 2013 and became 16 and 21% during
+2014 and 2015 respectively. The LTFU became 13% in
+2016. The information obtained from the interview re-
+spondents and FGD participants of this study also indi-
+cated that the LTFU was as high as 47% in some regions 
+of Liberia which were highly affected by the EVD out-
+break in 2014. This was attributed to facility closures for
+fear of EVD and service interruption during the outbreak
+as indicated by the FGDs and interview respondents of
+our study. This had nevertheless by far increased from
+the national average LTFU rate of 9, 6, 4% in the 2010,
+2011and 2012 respectively (Table 2).
+NLTCP and TB hospital staff’s perspectives of the impact
+of EVD on TB treatment outcome
+To get more insight of the impact of TB on EVD
+treatment outcome, one focal group discussion with 10
+participants was included in the qualitative study. The
+composition of the FGD included two nurses, pharmacist,
+two medical doctors, two physician assistants, counselor
+nurse, laboratory technician and data clerk. The FGDs for
+this part of the study were selected purposively from each
+unit of the TB Annex hospital. The minimum years the
+Fig. 4 Tuberculosis treatment success rate (proportion of TB cases successfully treated; i.e. cured plus treatment completed among all TB cases
+notified) in Liberia from 2009 to 2017
+Page 7
+Desta et al. BMC Public Health (2019) 19:1221  Page 7 of 10
+Fig. 5 Regression with Newey -West adjusted standard errors. The line graph indicates the trend of TB treatment success rate before the EVD
+(2009–2013), during the EVD outbreak (2014–2015) and after the outbreak (2016–2017). tx success = TB treatment success rate
+FGD participants service in the TB referral hospital was 3.
+This was helpful to get in depth understanding of the pro-
+gram performance from the facility point of view and the
+impact of EVD on their facility performance. The main
+themes that emerged during the FGD discussion were
+interruption of TB facility service for fear of EVD, lack of
+logistics for TB service and lack of knowledge on the na-
+ture and transmission of the EVD and infection preven-
+tion mechanism. Stigma and denial were also mentioned
+as sub-themes. The other subthemes emerged were lack
+of government incentive for staff at high risk of infection,
+low salary, high staff turnover and poor service at the facil-
+ity before the EVD outbreak.
+FGD participants were also asked and discussed their
+experience on the impact of EVD outbreak on TB treat-
+ment outcome. Almost all participants explained that
+Table 2 Trends of TB treatment out come in Liberia
+TB treatment out come
+Year Cured Completed Failed Died Transfer out
+2008 64% 15%  2%  4% 2%
+2009 57% 26%  1%  5% 1%
+2010 57% 25%  1%  5% 3%
+2011 64% 22%  1%  4% 3%
+2012 57% 30%  1%  4% 4%
+2013 62% 21%  1%  3% 6%
+2014 53% 18%  1%  7% 4%
+2015 50% 11%  4%  8% 6%
+2016 64% 13%  2%  6% 2% 
+LTFU
+13%
+10%
+9%
+6%
+4%
+7%
+16%
+21%
+13% 
+TB treatment outcome was highly affected by the EVD
+outbreak. They further explained that there was high
+rate of treatment interruption, failure and LTFU. FGD
+participants also indicated that EVD being a public health
+emergency during the outbreak, resources were prioritized
+to fight EVD and this also highly compromised the TB
+services.
+The FGD participants provided the following recom-
+mendations on how to improve the post EVD TB treat-
+ment outcome in their facility as well as nationally.
+ Improve the supply of TB drugs and laboratory
+reagents
+ Initiate the interrupted GeneXpert and TB culture
+and drug susceptibility testing
+ Build trust by ensuring safety of health workers and
+health facilities
+ Improve the TB infection prevention from the
+lessons learnt from EVD Infection prevention
+practice
+ Assess facility needs and filling their gap
+ Involve the community to create awareness about
+TB so as to improve TB treatment adherence which
+was affected by EVD.
+In addition to the two FGDs, Interview were conducted
+by the principal investigator using semi-structured
+interview guide. The interviews were conducted with TB
+program managers, county health team officers and
+county diagnostic officers as part of the qualitative study.
+The interview included 30 participants. The number of
+Page 8
+Desta et al. BMC Public Health (2019) 19:1221  Page 8 of 10
+interview respondents who strongly agreed that EVD
+significantly impacted the TB laboratory diagnoses and
+treatment outcome of Liberia were 25(85%). Among the
+30 interview respondents, 5(15%) associated the impact of
+EVD on TB laboratory diagnosis and treatment outcome
+to the existing poorly funded fragile health system before
+the EVD outbreak. The interview with the program man-
+agers at NLTCP also supported the later argument that
+there was some delay in the release of funding by Global
+fund. According to the interview respondents; the EVD
+outbreak also happened at the time where the TB pro-
+gram was writing the Global Fund to fight TB, AIDS and
+Malaria (GFTAM) round ten proposal. The delay from
+the GFTAM on the approval of the proposal was one
+impact. After this only extension grant was available
+throughout the EVD outbreak. The implementation of the
+proposed activities was delayed. The TB laboratory ser-
+vices including GeneXpert, Culture and drug susceptibility
+testing were interrupted during the outbreak and most of
+the data report indicated that TB smear was not done.
+Without a laboratory result, it was very difficult to meet
+the global case detection and treatment success rate of 70
+and 85% respectively. The interview respondents further
+explained that the logistic and supply support from The
+MOH for the TB program was also critically affected by
+the outbreak and affected the program activities.
+Discussion
+This is among the few studies conducted in the EVD
+affected west Africa countries to show the impact of
+EVD on the health service delivery. The findings of
+the study indicated that EVD negatively impacted the
+TB case finding and treatment outcome of Liberia.
+The first finding of our study was a sharp decline in
+the TB case notification of both smear positive TB
+cases and all forms of TB during the EVD outbreak.
+According to the FGD and interview participants of
+our study, the interruption of the routine TB sputum
+smear microscopy, TB culture, susceptibility testing
+and GeneXpert MTB/RIF during the outbreak were
+the main reason for the decline in TB case notifica-
+tion. Our findings were similar to the study findings
+of similar research conducted in Sierra Leone but dif-
+ferent from the study findings in Guinea [18, 20].  A
+significant drop in case notification was observed in
+2014 compared to 2015. In 2015, the health facilities
+were re-opened and the basic services were restored
+including the TB diagnosis and treatment. As result,
+there was an increase both in notified forms of all TB
+as well as notified cases of smear positive TB.
+The findings of our study also indicated that the TB
+treatment outcome was significantly affected by the EVD
+outbreak. The treatment success rate of Liberia declined
+by EVD from 83% in 2013 to 71% in 2014 and 61% in 
+2015. This was lower than the Stop TB strategy target of
+85% and by far lower than the End TB WHO target set
+after the Stop TB [6, 19]. This decline in treatment suc-
+cess rate was attributed to the high rate of LTFU of TB
+patients during the outbreak. The LTFU increased from
+7% in 2013 to 16 and 21% in 2014 and 2015 respectively.
+The LTFU decreased to 13% in 2016 indicating an
+improvement in the performance of the TB program
+following the end of the outbreak. The TB treatment
+success rate also increased to 77% in 2016. Our study
+finding was similar to a study finding in Sierra Leonne
+[18].  The main reasons for the high LTFU deducted
+from the FGD participants and interview respondents of
+the study were closure of health facilities during the out-
+break, decreased patients’  health facility visit for fear of
+EVD, treatment interruption, lack of laboratory reagents,
+poor knowledge of EVD and lack of standard infection
+prevention system at health facilities. The Ministry of
+Health of Liberia’s situational analysis of the post EVD
+health service indicated that more than 40% of health fa-
+cilities across Liberia that previously provided TB diag-
+nostic and treatment services were closed down between
+May and August 2014 [15]. A study conducted in West
+Africa also explained that the 2014–2015 Ebola outbreak
+in west Africa crippled the healthcare systems of the
+three countries, hampering diagnosis and treatment for
+endemic diseases such as malaria, HIV/AIDS and Tuber-
+culosis [13, 21]. The death of health workers, closure of
+many health facilities and fear of EVD transmission af-
+fected the routine health service delivery including TB
+and HIV [22, 23]. During the EVD outbreak the percent-
+age of TB patients who were tested for HIV declined to
+3567(74%) and 2577(42%) in 2014 and 2015 respectively
+from 5899 (75%) in 2013. It was only starting from the
+end of 2014 to the first quarter of 2015 that the outbreak
+reached its peak. People might have been afraid of infec-
+tion and restrained from attending health facilities in the
+year 2015. The percentage was 74% for the year 2016
+showing a significant increase after the outbreak.
+Percentage HIV positive TB patients started or
+continued on CPT was only 8% in 2010 and reached
+74% in 2013 as per the data of NLTCP of Liberia.
+This service was also highly affected during the EVD
+outbreak and decreased to 56 and 47% in 2014 and
+2015 respectively. Our findings as well as the findings
+from similar study indicated that HIV testing among
+TB patients, which relies on the finger-prick test
+which was not recommended during an Ebola outbreak,
+decreased, leading to a reduction in the number of
+individuals diagnosed with HIV [13].  Shortcomings in
+ascertaining HIV status affected the uptake of both CPT
+needed for preventing opportunistic disease and ART [5].
+Our findings were similar to the study conducted by
+Alyssa et al. [13].
+Page 9
+Desta et al. BMC Public Health (2019) 19:1221  Page 9 of 10
+Despite the significant impact of the 2014–2015 EVD
+outbreak, The NLTCP was not on hold with all TB
+service delivery being uninterrupted. This is the most
+encouraging experience during the outbreak. This was
+due to the commitment of the MOH of Liberia and
+international partners who stayed on the ground and
+continued their support throughout the outbreak. A
+study conducted in Guinea on the effect of EVD on TB
+program performance showed that TB program activities
+and performance were sustained, all TB facilities
+remained open, no stock out of TB drugs as result of the
+presence of enhanced health systems support to uphold
+TB services by international partners [23]. This was en-
+couraging lesson and in stark contrast to other health set-
+tings in Guinea, Sierra Leone and Liberia where the study
+findings indicated negative impact on TB treatment
+outcome, treatment success rate and HIV testing of TB
+patients, TB drug stock outs, high rate of loss to follow
+up, facility closures and death of health workers [24, 25].
+Recommendation
+The National Leprosy and Tuberculosis Control pro-
+gram of Liberia should conduct country wide service
+readiness assessment and situational analysis to improve
+the EVD affected TB services delivery of the country and
+develop strategy that will sustainably restore the pro-
+gram. This will enable the program to continue its mo-
+mentum before the EVD outbreak and meet country
+specific as well as global TB program performance tar-
+gets. The NLTCP should align its outbreak preparedness
+and restoration strategies with the Ministry of Health
+and other sectors as EVD and another epidemic out-
+break can happen in the region as result of expanding
+probable virus reservoirs. The experience gained from
+the 2014–2015 EVD outbreak can be used to prevent
+and contain similar outbreaks that may happen in the
+region by implementing effective surveillance and pre-
+paredness strategies.
+Scope and limitations of the study
+Our study only included TB case finding and TB
+treatment outcome data. It could have been significantly
+improved by including other TB program data such as
+the TB program financing. Besides, TB program per-
+formance data from Guinea and Sierra Leonne; the other
+two EVD affected countries should have been included
+to provide regional perspective of the outbreak.
+The findings of the study clearly indicated the impact
+of EVD on the TB treatment outcome and laboratory
+diagnosis of the NLTCP of Liberia. Every single aspect
+of the TB treatment outcome and case finding may not
+be reflected on the study but the major areas that reflect
+the overall TB treatment outcome and laboratory per-
+formance of the program were addressed. The qualitative 
+study interview and one of the two FGDs were conducted
+in the most populated city of the country, Monrovia
+where more than 50% of the population of Liberia lives.
+The other counties were not included in this part of the
+study though the other components of the study included
+the entire country. This was considered as one methodo-
+logical limitation of the study. The other methodological
+limitation of the study was the use of focus group discus-
+sion as an instrument for the qualitative part of the study;
+the participants might have felt peer pressure to give simi-
+lar answers which might have affected the data obtained
+from the discussion.
+Conclusion
+Our study findings indicated that that the National
+Leprosy and Tuberculosis Control Program of Liberia
+TB service delivery and treatment outcome was drastic-
+ally affected by the 2014–2015 EVD outbreak and it
+should device effective and sustainable restoration strat-
+egies to address this critical bottle necks, meet national
+and global TB program targets and effectively contain
+similar outbreaks that may happen in the future.
+Abbreviations
+AIDS: Acquired Immuno Deficiency Syndrome; ART: Anti- Retroviral Therapy;
+CTP: Cotrimoxazole Preventive Therapy; EVD: Ebola Virus Disease;
+FGDs: Focus Group Discussions; GFTAM: Global Fund to fight TB, AIDS and
+Malaria; HIV: Human immunodeficiency virus; LTFU: Loss to follow up;
+MOH: Ministry of Health; NLTCP: National Leprosy and Tuberculosis Control
+Program; TB: Tuberculosis; WHO: World Health Organization
+Acknowledgements
+We are most grateful to all the study participants from the counties as well
+as from the National leprosy and Tuberculosis Control Program of Liberia.
+We would also like to thank the National leprosy and Tuberculosis Control
+Program of Liberia for granting permission and supporting this study in
+providing the necessary data and information.
+Authors’ contributions
+KT (Clinton Health Access Initiative, Liberia), designed the study method,
+coordinated data collection, analysed the data and wrote the manuscript. JD
+(Ministry of Health of Liberia), assisted the data collection and editing of the
+draft writeup. DK (National Leprosy and Tuberculosis Control Program of
+Ministry of Health of Liberia) facilitated the data collection for the TB
+treatment outcome and edited the manuscript. All authors have read and
+approved the manuscript.
+Funding
+This work was not funded by any institution or organization.
+Availability of data and materials
+The datasets used and/or analyzed during the current study are available
+from the corresponding author on request.
+Ethics approval and consent to participate
+A written permission letter for TB program data and to conduct the study
+was obtained from the National Leprosy and Tuberculosis program of
+Liberia. Prior to conducting the study, permission was obtained in the form
+of a clearance certificate from the National Ethics Board of Liberia. Written
+consent was obtained from the FGD and interview study participants.
+Consent for publication
+Not applicable.
+Page 10
+Desta et al. BMC Public Health (2019) 19:1221  Page 10 of 10
+Competing interests
+The authors declare that they have no competing interest which may have
+inappropriately influenced them in writing this article.
+Author details
+1Clinton Health Access Initiative, Monrovia, Liberia. 2Atlantic Med System
+Consulting, Monrovia, Liberia. 3National Leprosy and Tuberculosis Control
+Program of, Monrovia, Liberia. 4Ministry of Health of Liberia National
+Diagnostic Unit, Monrovia, Liberia.
+Received: 18 September 2018 Accepted: 30 August 2019
+References
+1.  World Health Organization (WHO). Global tuberculosis report 2015. World
+Health Organization. Geneva: WHO Press; 2016. [URL: "https://www.who.int/tb/publications/global_report/gtbr15_main_text.pdf"] https://www.who.int/tb/
+ publications/global_report/gtbr15_main_text.pdf
+2.  World Health Organization (WHO). Global Tuberculosis report 2016. World
+Health Organization: Geneva. WHO press; 2017. p. 8–24. [URL: "https://www.who.int/tb/publications/global_report/gtbr2017_main_text.pdf"] https://www.who.
+ int/tb/publications/global_report/gtbr2017_main_text.pdf
+3.  National Leprosy and TB Control Programme. National TB strategic plan
+2007–2012. Monrovia, Liberia: ministry of. Health and Social Welfare.
+2006:12–56.
+4.  Ministry of Health and Social Welfare (MOH &SW). Annual report. 2012.
+MOH& SW, Liberia.2013; 1–82.
+5.  Desta KT, Masango TE, Nkosi ZZ. Performance of the National Tuberculosis
+Control Program in the post conflict Liberia. PLoS One. 2018;13(6):e0199474
+ https://doi.org/10.1371/journal.pone.0199474.
+6.  World Health Organization (WHO). The global plan to STOP TB, 2011–2015/
+Stop TB partnership. Geneva: WHO press; 2010. p. 18–45.
+7.  World Health Organization. Compendium of indicators for monitoring and
+evaluating national tuberculosis programmes. Geneva: WHO Press; 2004.
+ http://who.int/iris/bitstream/handle/10665/68768/WHO_HTM_TB_2004.344.pdf
+8.  World Health Organization. WHO Situation Report Ebola Virus Disease,10th
+June. 2016; [URL: "http://apps.who.int/iris/bitstream/10665/208883/1/ebolasitrep_10Jun2016"] http://apps.who.int/iris/bitstream/10665/208883/1/ebolasitrep_1
+ 0Jun2016.
+9.  Sanchez A, Geisbert TW, Feldmann H. Filoviridae: Marburg and Ebola viruses.
+In: Knipe DM, Howley PM, editors. fields virology. Philadelphia: Lippincott
+Williams & Wilkins; 2006. p. 1409–48.
+10. Gire SK, Goba A, Andersen KG, Sealfon RS, Park DJ, et al. Genomic
+surveillance elucidates Ebola virus origin and transmission during the 2014
+outbreak. Science. 2014;345:1369–72.
+11. Zachariah R, Ortuno N, Hermans V, Desalegn W, Rust S, Reid J, Boeree J,
+Harries D. Ebola, fragile health systems and tuberculosis care: a call for
+preemptive action and operational research. Int J Tuberc Lung Dis.
+2015;19(11):1271–5.
+12. Ansumana R, Samuel K, Gregory R, Francine N, Eskild P, Giuseppe I,
+Alimuddin Z. Impact of infectious disease epidemics on tuberculosis
+diagnostic, management, and prevention services: experiences and lessons
+from the 2014–2015 Ebola virus disease outbreak in West Africa.
+Int J Infect Dis. 2016; [URL: "https://doi.org/10.1016/j.ijid.2016.10.010"] https://doi.org/10.1016/j.ijid.2016.10.010.
+13. Parpia AS, Ndeffo-Mbah ML, Wenzel NS, Galvani AP. Effects of response to
+2014–2015 Ebola outbreak on deaths from malaria, HIV/AIDS, and
+tuberculosis, West Africa. Emerg Infect Dis. 2016. [URL: "https://doi.org/10.3201/eid2203.150977"] https://doi.org/10.3201/
+ eid2203.150977.
+14. MOH &SW of Liberia. 2011. National health and Social welfare policy and
+plan 2011–21.MOH report.2012. 23–56.
+15. MOH of Liberia. Investment Plan for Building a Resilient Health System in
+Liberia; In response to the Ebola Virus Disease Outbreak of 2014 – 2015.
+2015; 1:72.
+16. World Health Organization. Case definition recommendations for Ebola or
+Marburg virus disease. 2014 [URL: "https://www.who.int/csr/resources/publications/ebola/ebola-case-definition-contact-en.pdf"] https://www.who.int/csr/resources/publications/
+ ebola/ebola-case-definition-contact-en.pdf.
+17. World Health Organization. Implementation and management of contact
+tracing for Ebola virus disease, emergency guideline. 2015. [URL: "http://who.int/iris/bitstream/handle/10665/185258/WHO_EVD_Guidance_Contact_15.1_eng.pdf"] http://who.int/
+ iris/bitstream/handle/10665/185258/WHO_EVD_Guidance_Contact_15.1_
+ eng.pdf.
+18. Bah O, Kamara B, Bhat P, Harries AD, Owiti P, et al. The influence of the
+Ebola outbreak on presumptive and active tuberculosis in Bombali District,
+vol. 7: Sierra Leone. Public Health Action; 2017. p. 1. 
+19. Uplekar M, Weil D, Lonnroth K, Jaramillo E, Lienhardt C, Dias HM, et al.
+WHO’s new end TB strategy. Lancet. 2015;385(9979):1799–801.
+20. Ortuno-Gitierrez N, Zachariah R, Woldeyohannes D, Bangoura A, et al.
+Upholding tuberculosis services during the 2014 Ebola storm: an
+encouraging experience from Conakry, Guinea. PLoS One. 2016;11(8)
+ https://doi.org/10.1371/journal.pone.0157296.
+21. Piot P, Muyembe J-J, Edmunds WJ. Ebola in West Africa: from disease
+outbreak to humanitarian crisis. Lancet Infect Dis. 2014;14:1034–5 [URL: "https://doi.org/10.1016/S1473-3099(14)70956-9"] https://
+ doi.org/10.1016/S1473-3099(14)70956-9.
+22. Takahashi S, Metcalf CJE, Ferrari MJ, Moss WJ, Truelove SA, Tatem AJ, et al.
+Reduced vaccination and the risk of measles and other childhood infections
+post-Ebola. Science. 2015;347:1240–2 [URL: "https://doi.org/10.1126/science"] https://doi.org/10.1126/science.
+23. Walker PGT, White MT, Griffin JT, Reynolds A, Ferguson NM, Ghani AC.
+Malaria morbidity and mortality in Ebola-affected countries caused by
+decreased health-care capacity, and the potential effect of mitigation
+strategies: a modelling analysis. Lancet Infect Dis. 2015;15:825–32.
+24. Tattevin P, Baysah MK, Raguin G. Retention in care for HIV-infected patients
+in the eye of the Ebola storm. AIDS. 2015;29.
+25. Leuenberger D, Hebelamou J, Strahm S, De Rekeneire N, Balestre E,
+Wandeler G, et al. Impact of the Ebola epidemic on general nd HIV care in
+Macenta, Forest Guinea, 2014. AIDS. 2015;29(14):1883–6.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.

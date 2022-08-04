@@ -1,0 +1,710 @@
+BOOKMARKS:
+Abstract
+  Background
+  Methods
+  Results
+  Conclusion
+Introduction
+  Table 1
+Methods
+  Statistical analysis
+Results
+Discussion
+Acknowledgements
+References
+Page 1
+Journal of NeuroEngineering and
+Rehabilitation [URL: "http://www.biomedcentral.com/"] BioMed Central
+Research  [URL: "http://www.biomedcentral.com/info/about/charter/"] Open Access
+Reaching in reality and virtual reality: a comparison of movement
+kinematics in healthy subjects and in adults with hemiparesis
+Antonin Viau1,2, Anatol G Feldman2,3, Bradford J McFadyen4 and
+Mindy F Levin*2,5
+Address: 1School of Rehabilitation, Faculty of Medicine, University of Montreal, Canada, 2Center for Interdisciplinary Research in Rehabilitation
+(CRIR), 6300 Darlington, Montreal, Quebec, Canada, 3Department of Physiology, University of Montreal, Canada, 4Center for Interdisciplinary
+Research in Rehabilitation and Social Integration (CIRRIS), Department of Rehabilitation, Laval, Canada and 5School of Physical and
+Occupational Therapy, McGill University, Canada
+Email: Antonin Viau - antonin_viau@hotmail.com; Anatol G Feldman - Feldman@med.umontreal.ca; 
+Bradford J McFadyen - brad.mcfadyen@rea.ulaval.ca; Mindy F Levin* - mindy.levin@mcgill.ca
+* Corresponding author 
+Published: 14 December 2004
+Journal of NeuroEngineering and Rehabilitation 2004, 1:11 doi:10.1186/1743-0003-1-11 
+Received: 29 November 2004
+Accepted: 14 December 2004
+ This article is available from: http://www.jneuroengrehab.com/content/1/1/11
+© 2004 Viau et al; licensee BioMed Central Ltd. 
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License ([URL: "http://creativecommons.org/licenses/by/2.0"] http://creativecommons.org/licenses/by/2.0),
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+arm reachingprehensionrehabilitationstroketherapeutic approachhemiplegia
+Abstract
+Background: Virtual reality (VR) is an innovative tool for sensorimotor rehabilitation increasingly being employed in
+clinical and community settings. Despite the growing interest in VR, few studies have determined the validity of
+movements made in VR environments with respect to real physical environments. The goal of this study was to compare
+movements done in physical and virtual environments in adults with motor deficits to those in healthy individuals.
+Methods: The participants were 8 healthy adults and 7 adults with mild left hemiparesis due to stroke. Kinematics of
+functional arm movements involving reaching, grasping and releasing made in physical and virtual environments were
+analyzed in two phases: 1) reaching and grasping the ball and 2) ball transport and release. The virtual environment
+included interaction with an object on a 2D computer screen and haptic force feedback from a virtual ball. Temporal and
+spatial parameters of reaching and grasping were determined for each phase.
+Results: Individuals in both groups were able to reach, grasp, transport, place and release the virtual and real ball using
+similar movement strategies. In healthy subjects, reaching and grasping movements in both environments were similar
+but these subjects used less wrist extension and more elbow extension to place the ball on the virtual vertical surface.
+Participants with hemiparesis made slower movements in both environments compared to healthy subjects and during
+transport and placing of the ball, trajectories were more curved and interjoint coordination was altered. Despite these
+differences, patients with hemiparesis also tended to use less wrist extension during the whole movement and more
+elbow extension at the end of the placing phase.
+Conclusion: Differences in movements made by healthy subjects in the two environments may be explained by the use
+of a 2D instead of a 3D virtual environment and the absence of haptic feedback from the VR target. Despite these
+differences, our findings suggest that both healthy subjects and individuals with motor deficits used similar movement
+strategies when grasping and placing a ball in the two reality conditions. This suggests that training of arm movements in
+VR environments may be a valid approach to the rehabilitation of patients with motor disorders. 
+Page 1 of 7
+(page number not for citation purposes)
+Page 2
+Journal of NeuroEngineering and Rehabilitation 2004, 1:11  http://www.jneuroengrehab.com/content/1/1/11
+Introduction
+Virtual reality (VR) is a computer-based, multisensory
+interactive simulation occurring at the same speed and
+time as events in the physical world. Different levels of
+immersion can be achieved ranging from complete 3D
+(cave, head-mounted display) to partial 2D (computer
+display, TV screen) with different hardware configura-
+tions. Interface devices (computer mouse, joystick, force
+sensor, cyberglove) allow the user to move in and interact
+with objects in the virtual environment. Of crucial rele-
+vance to rehabilitation is the potential for increasing the
+user's level of interaction with their real physical environ-
+ment so as to maximize their return to community life [1].
+The efficacy of using VR to retrain movement and the issue
+of whether training in a virtual environment will transfer
+to meaningful function in the real physical world has
+been explored in a number of studies with encouraging
+early results [2-4].
+Neurophysiologists and rehabilitation specialists like
+physical and occupational therapists are beginning to be
+interested in VR as a tool to study motor control and to
+evaluate and treat motor deficits secondary to central
+nervous system lesions such as stroke [5]. The use of vir-
+tual computer-based interventions for telerehabilitation is
+also gaining in popularity because of the possibility of
+providing extended practice in the patient's own home or
+community environment [6,7]. The advantage of using VR
+in community, clinical and laboratory settings is that by
+virtue of its programmability, environments and the
+amount and type of feedback can be modified according
+to the user's motor capacities, motivation and therapeutic
+goals [5,8]. In addition, sensory parameters of the envi-
+ronment can be creatively adapted to evoke responses to a
+larger number of situations in a shorter amount of time
+than is available in physical set-ups. For example, in
+research studies, when determining the capacity to reach
+and grasp static targets, methodologies are often limited
+to one or two tasks because of the inability to easily adapt
+the experimental hardware. VR permits the use of more
+dynamic experimental set-ups in which object locations
+and orientations can be reliably and rapidly modified. 
+This study focused on the possibility of using virtual envi-
+ronments for the retraining of arm motor function in indi-
+viduals with hemiparesis due to stroke. Major barriers to
+arm motor recovery after stroke are coordination deficits
+and the use of maladaptive movement strategies for reach-
+ing and grasping. Patient motivation and movement rep-
+etition are key factors in motor recovery [9-12]. Current
+practice of rehabilitation of reaching deficits after stroke is
+based on movement repetition of targeted tasks. However,
+improvements in tasks practised in clinical settings have
+not been shown to have adequate carry over into real
+world activities of daily living [10]. One of the factors that
+may decrease the real world relevancy of practice in the
+clinical setting is the lack of attention to the retraining of
+varied goal-directed, effector-relevant whole arm move-
+ments. VR is an ideal medium in which to create such
+practise environments that have the advantage of provid-
+ing additional motivation to patients to perform repeti-
+tive movement and can be available in the home or
+community following formal rehabilitation [13]. Indeed,
+some studies have reported that motor gains achieved by
+patients with stroke in VR environments may transfer to
+physical tasks and be measurable using common clinical
+scales [2,5,14].
+Despite the growing interest in the use of VR for motor
+retraining, it is not known if movements involving reach-
+ing and grasping objects in VR environments are per-
+formed in a manner similar to those done in the physical
+world. Thus, the goal of this study was to validate VR as a
+tool for studying reaching and grasping in healthy sub-
+jects and in individuals with hemiparesis by comparing
+movement kinematics of identical tasks made in a physi-
+cal and a virtual environment. Since reaching and grasp-
+ing deficits have been well characterized in individuals
+with hemiparesis [15-17], the purpose of the study was
+not to compare movements between groups but to estab-
+lish the validity of using a VR environment for the study
+of movement in each group. Preliminary results have
+appeared in abstract form [18].
+Table 1: Demographic characteristics and clinical scores of participants with hemiparesis
+Subject Age (yrs)/sex  Time since injury (months) Type of lesion  CM: arm CM: hand
+1
+2
+3
+4
+5
+6
+7
+Mean ± SD 
+63/M
+42/F
+27/F
+51/F
+31/F
+47/M
+81/M
+48.9 ± 18.6 
+28
+34
+63
+51
+33
+64
+33
+43.7 ± 15.3 
+Temporo-parietal
+Parietal
+Parietal
+Frontal
+Temporo-parietal
+Fronto-temporo-parietal
+Temporo-parietal 
+6
+7
+7
+7
+6
+7
+7
+6.7 ± 0.5 
+6
+6
+3
+6
+6
+6
+6
+5.6 ± 1.1
+M = male, F = female, CM = Chedoke-McMaster stroke assessment 
+Page 2 of 7
+(page number not for citation purposes)
+Page 3
+Journal of NeuroEngineering and Rehabilitation 2004, 1:11  http://www.jneuroengrehab.com/content/1/1/11
+Methods
+Eight healthy subjects (4 males and 4 females; 56.8 ± 17.1
+years) and 7 adults with hemiparesis (3 males and 4
+females; 48.9 ± 18.6 years) with no prior experience with
+VR participated in the study. Potential participants were
+identified from discharge lists of Montreal area rehabilita-
+tion centres. Out of 17 medical charts screened, 12
+patients met eligibility requirements according to study
+inclusion and exclusion criteria. Patients were included if
+they were under 60 years old, had sustained a single, non-
+traumatic unilateral stroke in the territory of the left mid-
+dle cerebral artery and had arm paresis (3/7 for the hand
+and 6/7 for the arm on the Chedoke-McMaster Stroke
+Assessment Scale [19] (Table 1). Patients were excluded if
+they had cerebellar or brain stem lesions, shoulder pain or
+other neurological/orthopaedic conditions affecting
+reaching ability, visual field deficits, uncorrected prob-
+lems of visual acuity or severe perceptuo-cognitive deficits
+(heminegligence, ataxia, receptive aphasia) determined
+by standard clinical tests. Of these 12 individuals, 10
+expressed willingness to participate. After obtaining
+informed consent approved of by the institutional Ethics
+Committee, they were assessed by a physical therapist and
+3 individuals were excluded because of inability to per-
+form the task. Healthy subjects were recruited from the
+community. They had no orthopaedic or neurological dis-
+ease. All patients had been discharged from all in- or out-
+patient clinical services. 
+Subjects performed 6 trials each of two near identical tasks
+set in the physical world or in a virtual environment. In
+both tasks, seated subjects grasped a real or virtual ball of
+7 cm diameter with their right hand, beginning from the
+edge of a real or virtual table, reached forward by leaning
+the trunk and then placed the ball within a 2 cm × 2 cm
+yellow square on a real or virtual target (Figure 1). Care
+was taken to set-up the physical task so that the initial
+position of the arm, ball, table and wall were identical to
+that of the virtual task. Thus, in both environments, the
+initial position of the arm was about 0° flexion, 30°
+abduction and 0° external rotation (shoulder), 80° flex-
+ion and 0° supination (elbow) with the wrist and hand in
+the neutral position. The fingers were slightly flexed. The
+initial position of the ball was 13 cm in front of the right
+shoulder, 7 cm above and 3 cm to the left of the subject's
+hand. The target was placed 31 cm in front of the shoul-
+der, 12.5 cm above and 14 cm to the right of the initial
+position of the ball (Figure 1).
+For the VR task, the ball appeared on a computer screen
+inside a cube that also displayed the position of the sub-
+ject's hand. The VR target was the upper right back corner
+of the cube. Subjects had to grasp the virtual ball, trans-
+port it to the VR target and release it. The VR environment
+was displayed in 2 dimensions (2D) on a computer screen
+placed 75 cm in front of subject's manubrium (Figure 1).
+The virtual representation of the subject's hand was
+Expe imental set-up Figure 1
+Experimental set-up. Physical (a) and virtual reality condition (b). 
+Page 3 of 7
+(page number not for citation purposes)
+Page 4
+Journal of NeuroEngineering and Rehabilitation 2004, 1:11  http://www.jneuroengrehab.com/content/1/1/11
+obtained using a 22 sensor fibre optic glove (Cyberglove,
+Immersion Corp.) and an electromagnetic sensor (Fas-
+trak, Polhemus Corp.) that was used to orient the glove in
+the 2D environment. Data from these devices were syn-
+chronized in real time. To enable the subject to "feel" the
+virtual ball, a prehension force feedback device (Cyber-
+grasp, Immersion Corp.) was fitted to the dorsal surface of
+the hand. The Cybergrasp delivered prehension force
+feedback in the form of extension forces to the distal pha-
+lanxes of the thumb and each finger. Forces applied to the
+fingers were calibrated for each subject while he/she was
+wearing the Cyberglove. These ranged from 6 to 8 N per
+finger and all subjects perceived that they were holding a
+spherical object in their hand.
+Prior to data collection, all participants practised the tasks
+in physical and virtual conditions (20 – 40 min). To better
+compare the participants' performance in the two envi-
+ronments, the glove and grasp devices were worn on the
+hand in both conditions (Figure 1).
+Kinematic data from the right arm were recorded with 6
+infrared-emitting diodes (IREDs) placed on the distal
+phalanx of the index and thumb, the distal head of the
+first metacarpal, the radial styloid process, the lateral
+epicondyle of the humerus and the acromion (120 Hz,
+Optotrak Motion Analysis System, Northern Digital
+Corp.).
+Each trial was divided in two phases: 1) reaching and
+grasping the ball and 2) ball transport and release. For the
+first movement phase, 4 temporal and 4 spatial parame-
+ters of reaching and grasping were determined. Temporal
+parameters were movement time, time to peak wrist
+velocity (RPV), time to maximal hand aperture (RMGA), 
+and the delay between them (RPV-RMGA). Spatial param-
+eters were endpoint path curvature, maximal grip aper-
+ture, angular ranges of joint motion and elbow-shoulder
+interjoint coordination [16]. For the second movement
+phase, we determined one temporal (movement time)
+and 4 spatial (endpoint path curvature, trajectory length,
+angular ranges of joint motion and interjoint coordina-
+tion) parameters.
+Movement onsets and offsets of each phase were defined
+as the times at which the tangential velocity of the IRED
+on the index finger surpassed and remained above or fell
+and remained below 10% of the maximal peak velocity
+respectively. The temporal parameters (time to peak wrist
+velocity, time to maximal grip aperture) were normalized
+to movement time and the delay between them was calcu-
+lated. For the spatial parameters, the curvature of the tra-
+jectory of the IRED on the index finger was estimated as
+the ratio between the actual trajectory length and a
+straight line segment between the initial and final posi-
+tions [20]. Joint angular excursions were expressed as the
+difference in degrees between the angle at the beginning
+and the end of movement, according to movement times
+defined above. For interjoint coordination, we deter-
+mined the slopes between elbow extension and 1) shoul-
+der flexion and 2) shoulder abduction. The slope of the
+angle-angle relationship describes the relative contribu-
+tion of each joint throughout the movement where a
+slope of 1 indicates an equal contribution of each joint.
+Slopes greater than 1 indicated a larger contribution of
+elbow extension than shoulder movement and vice versa.
+The relationship between both angles was considered lin-
+ear since all regression correlation coefficients were = 0.8.
+However, since a linear approximation was used, the
+Table 2: Comparisons between reality conditions for the first phase of movement: reaching and grasping the ball.
+Temporal parameters 
+Healthy
+Physical condition
+Mean  SD 
+VR condition
+Mean SD 
+Stroke
+Physical condition
+Mean  SD 
+VR condition
+Mean SD
+Movement time – onset to grasping (s)
+RPV (%)
+RMGA (%)
+Delay between RPV and RMGA (%) 
+0.68
+44.9
+72.5
+31.6 
+0.17 0.95
+10.4  41.8
+12.5  60.9
+16.6  19.2 
+0.35 1.23†
+6.1  34.3
+11.8  73.5
+10.7  34.5 
+0.27 1.43†
+12.6  40.8
+16.1  65.3
+15.0  24.3 
+0.41
+2.9
+9.1
+8.1
+Spatial parameters
+Curvature index
+Wrist extension at grasping (°)
+Slope elbow extension/shoulder flexion
+Slope elbow extension/shoulder abduction
+Maximal grip aperture (mm) 
+1.39
+1.4
+0.70
+2.30
+95.7 
+0.16 1.62
+9.1  -3.9
+0.34 0.60
+2.02 2.31
+16.4  90.2 
+0.44 1.76
+8.2  12.1
+0.26 0.53
+2.54 2.65
+20.5  89.8 
+0.62 1.97
+2.2  4.5
+0.33 0.47
+1.66 2.30
+20.2  84.9 
+0.86
+14.1
+0.27
+1.26
+19.3
+RPV = relative time to peak velocity of the wrist; RMGA = relative time to maximal grip aperture; VR = virtual reality
+† Significant difference between groups, Kruskal-Wallis, p < 0.05 
+Page 4 of 7
+(page number not for citation purposes)
+Page 5
+Journal of NeuroEngineering and Rehabilitation 2004, 1:11  http://www.jneuroengrehab.com/content/1/1/11
+Table 3: Comparisons between reality conditions for the second phase of movement: ball transport and release
+Temporal parameters 
+Healthy
+Physical condition
+Mean  SD 
+VR condition
+Mean SD 
+Stroke
+Physical condition
+Mean  SD 
+VR condition
+Mean SD
+Movement time – onset to placing (s)  0.84  0.29 1.18  0.31 1.49†  0.45 2.28†  0.82
+Spatial parameters
+Curvature index
+Wrist extension at placing (°)
+Elbow extension (°)
+Shoulder flexion (°)
+Shoulder abduction (°)
+Slope elbow extension/shoulder flexion
+Slope elbow extension/shoulder abduction 
+1.14
+18.2
+25.6
+24.8
+13.6
+1.08
+2.36 
+0.03 1.23
+12.1  4.0*
+6.9  38.4*
+5.2  33.0
+5.2  16.4
+0.08 1.21
+0.76 2.88 
+0.29 1.37†
+8.1  20.3
+10.9  26.9
+7.1  28.4
+4.6  18.5
+0.16 1.01
+1.19 1.51† 
+0.27 1.42
+8.2  6.4
+11.0  37.3
+4.9  35.5
+6.9  20.7
+0.26 1.18
+0.69 1.48† 
+0.57
+16.0
+19.6
+18.2
+8.9
+0.15
+0.51
+* Significant difference between reality conditions, Student t-tests with Bonferroni correction (p < 0.05/4 angles = 0.013); VR = virtual reality
+† Significant difference between groups, Kruskal-Wallis, p < 0.05
+slope provides only a general estimate of the contribution
+of each angle.
+Statistical analysis
+Both parametric and non-parametric statistics were used.
+For within-group comparisons between the two condi-
+tions of reality, Student t-tests were used. However, since
+variances were not homogeneous (Levene's test) for
+healthy subjects and participants with hemiparesis, non-
+parametric tests were used for between-group
+comparisons (Kruskal-Wallis ANOVA).  A significance
+level of p < 0.05 was used, adjusted for multiple compari-
+sons by type using the Bonferroni correction.
+Results
+All healthy subjects and participants with mild upper limb
+motor deficits were able to reach, grasp, transport, place
+and release the virtual ball using movement strategies that
+were similar to those used for the physical ball (Tables 2
+and 3).  Arm movement trajectories (Figure 2) were
+smooth and followed similar paths for movements made
+in both environments for both subject groups. Trajectory
+lengths were similar in both conditions for healthy sub-
+jects (289 ± 28 mm in real compared to 302 ± 55 mm in
+VR) and for participants with hemiparesis (251 ± 25 mm
+in real compared to 260 ± 30 mm in VR). 
+M an ndpoint (marker on the th two phases of the movement in the two reality conditions Figur 2 e  e  index inger) trajectories for task for one healthy subject
+Mean endpoint (marker on the index finger) trajectories for
+the two phases of the movement task for one healthy subject
+in the two reality conditions.
+In healthy subjects, the temporal and spatial aspects of the
+two phases of the task were almost identical between the
+physical and virtual conditions (Tables 2, 3). However,
+there was a non-significant tendency to make movements
+more slowly and to use less wrist extension for grasping
+during the first phase of the movement (reaching and
+grasping the ball) in the virtual condition (Table 2). Dur- 
+ing the second phase, healthy subjects used significantly
+less wrist extension (paired t-test, p < 0.05) and more
+elbow extension (paired t-test, p < 0.05) to place the ball
+on the virtual vertical surface (Table 3, Figure 3). In these
+subjects, there were no other differences between any
+Page 5 of 7
+(page number not for citation purposes)
+Page 6
+Journal of NeuroEngineering and Rehabilitation 2004, 1:11  http://www.jneuroengrehab.com/content/1/1/11
+decreased the wrist extension while 4 increased elbow
+extension at the end of the second phase of the movement
+(at the time of placing the ball) in the VR condition.
+Interjoint coordinationFigure 3
+Interjoint coordination. Relationship between elbow exten-
+sion and shoulder horizontal adduction (mean traces per
+condition) during the second phase of the movement (plac-
+ing) for both conditions in two healthy subjects (A,B) and in
+two individuals with hemiparesis (C,D). In all examples, sub-
+jects used more elbow extension in the virtual reality
+condition. 
+Discussion
+The similarity in movement kinematics between physical
+and virtual reaching and grasping suggests that virtual
+reality may be an effective environment for rehabilitation.
+Interest in training in virtual environments is increasing
+amongst rehabilitation professionals in light of recent evi-
+dence suggesting that neuronal recovery after stroke-
+related brain damage critically depends on the motivation
+of the individual and the intensity of training [10,11]. Vir-
+tual reality represents a novel training environment in
+which a wide variety of tasks can be easily practiced. It is
+also becoming increasingly accessible with the advent of
+home-based computers and telerehabilitation technology
+[7]. Thus, the demonstration that movements practiced in
+a virtual environment are kinematically similar to
+movements with physical objects is essential to ensure the
+transfer of training benefits to the real-life situation.
+Our results show that subjects tended to decrease wrist
+extension and increase elbow extension in the virtual
+compared to the physical condition. Two principal factors
+may explain those differences: the absence of depth per-
+ception in the VR condition and the absence of tactile
+feedback at the end of the reach.
+other temporal or spatial parameter for both movement
+phases (peak wrist velocity, relative time to peak wrist
+velocity, timing of maximal grip aperture, trajectory curva-
+ture or interjoint coordination).
+Movements made by individuals with hemiparesis in the
+physical environment differed from those made by
+healthy subjects in three ways. In both phases, move-
+ments were significantly slower and in the second phase,
+trajectories were more curved and interjoint coordination
+was altered (Tables 2 and 3). In particular, the slope of the
+relationship between elbow extension/shoulder abduc-
+tion was lower than in healthy subjects during the second
+phase of the movement (p < 0.02, Figure 3). This decrease
+in slope was due to a more abducted position of the
+shoulder in the patient group. Despite these differences,
+patients showed tendencies similar to healthy subjects
+when reaching and grasping in the VR environment com-
+pared to the real environment (Tables 2, 3). They tended
+to decrease the speed of movements made in VR com-
+pared to the physical environment, to use less wrist exten-
+sion in both movement phases and to use more elbow
+extension in the second phase of the movement. In addi-
+tion, 5 out of 7 participants with hemiparesis significantly 
+Binocular vision enables humans to perceive depth in a 3
+dimensional (3D) environment. This faculty is called ster-
+eopsis (for a review see [21]). Since the VR condition in
+our experimental set-up was a 3D task presented on a 2D
+display, the results can be compared with those investigat-
+ing reaching and grasping movements made under
+conditions of monocular vision in which depth percep-
+tion is reduced. Indeed, such studies have shown that
+reaching and grasping movements are characterized by
+shorter movement time and shorter relative time to maxi-
+mal grip aperture [22].
+The difference in depth perception in the 2D virtual envi-
+ronment may also be responsible for the tendency to
+increase elbow extension in both groups. Previous studies
+have shown that fine motor corrections are produced by
+distal joints [23]. The 2D display resulted in the subject
+underestimating the real distance to the wall so that dur-
+ing the course of the second phase of the movement, the
+subject had to compensate by increasing the extension of
+the limb until the screen display indicated that the ball
+had reached the target distance. This caused a slight
+change in strategy for the second phase of the movement
+requiring an increase in the amount of elbow extension.
+Participants with hemiparesis showed the same tenden-
+cies as the healthy group but differences were not
+Page 6 of 7
+(page number not for citation purposes)
+Page 7
+Journal of NeuroEngineering and Rehabilitation 2004, 1:11  http://www.jneuroengrehab.com/content/1/1/11
+significant due to subject variability. Changes in motor
+patterns may be avoided by using 3D immersive environ-
+ments, such as those visualized through a head-mounted
+display.
+The absence of depth perception cannot explain the
+decrease of wrist extension at the end of the second phase
+of the movement in VR compared to the physical condi-
+tion. A more likely explanation involves the type of haptic
+feedback provided to the subject. In the physical condi-
+tion, subjects had to extend the wrist so that the ball and
+not their fingers would make contact with the target. In
+the VR condition, wrist extension was not necessary
+because subjects only had to place the ball at the coordi-
+nates of the virtual wall without encountering a physical
+barrier. To avoid such differences between physical and
+VR environments, relevant haptic feedback is necessary to
+indicate contact of the hand with the object or target.
+Another way is to integrate physical objects into the VR
+environment such as the manipulation of a real paper
+envelope in real-time in a VR environment [6], or the
+mimicking of irregularities in a walkway with a multi-
+dimensional movement platform [24,25].
+Overall, the finding that both healthy subjects and indi-
+viduals with motor deficits used similar movement
+strategies in a physical and a limited virtual environment
+suggests that VR technology is a valuable tool for studying
+and retraining reaching, grasping and placing movements.
+Whether movement kinematics may be improved with
+the use of interfaces providing stereopsis and more rele-
+vant haptic feedback should be investigated by comparing
+movements made in immersive to those made in non-
+immersive virtual environments.
+Acknowledgements
+Source of support: Canadian Foundation for Innovation, Canadian Insti-
+tutes of Health Research, AV received a summer research scholarship from
+the Université de Montréal.
+Some of this work was presented at the XVth Congress of ISEK, Boston, 
+June 18–21, 2004
+References
+1.  Stanton D, Foreman N, Wilson P: Uses of virtual reality in clinical
+training: developing the spatial skills of children with mobil-
+ity impairments. In In Virtual Environments in Clinical Psychology and
+Neuroscience: Methods and Techniques in Advanced Patient-Therapist
+Interaction Edited by: Riva G, Wiederhold BK, Molinari E. Amsterdam:
+IOS Press; 1998:219-232. 
+2.  Deutsch JE, Merians AS, Burdea GC, Boian R, Adamovich SV, Poizner
+H: Haptics and virtual reality used to increase strength and
+improve function in chronic individuals post-stroke: two case
+reports. Neurol Rep 2002, 26:72-86.
+3.  Merians AS, Jack D, Boian R, Tremaine M, Burdea GC, Adamovich SV,
+Recce M, Poizner H: [URL: "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=12201804"] Virtual reality-augmented rehabilitation
+ for patients following stroke. Phys Ther 2002, 82:898-915.
+4.  Sveistrup H, McComas J, Thornton M, Marshall S, Finestone H,
+McCormick A, Babulic K, Mayhew A: [URL: "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=12855079"] Environmental studies of
+ virtual reality-delivered compared to conventional exercise
+ programs for rehabilitation. Cyberpsychol Behav 2003, 6:245-249. 
+5.  Holden MK, Dyar T: Virtual environment training: a new tool
+for neurorehabilitation. Neurol Rep 2002, 26:62-71.
+6.  Piron L, Tonin P, Atzori A, Trivello E, Dam M: A virtual-reality
+based motor tele-rehabilitation system [abstract]. In Proceed-
+ings of the Second International Workshop on Virtual Rehab 2003:21-26.
+7.  Riva G, Gamberini L: [URL: "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=11110636"] Virtual reality in telemedicine. Telemed J E
+Health 2000, 6:327-340.
+8.  Rizzo A: A SWOT analysis of the field of virtual rehabilitation
+[abstract]. In Proceedings of the Second International Workshop on Vir-
+tual Rehab 2003:1-2.
+9.  Bütefisch C, Hummelsheim H, Denzler P, Mauritz KH: [URL: "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=7650532"] Repetitive
+[URL: "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=7650532"] training of isolated movements improves the outcome of
+ motor rehabilitation of the centrally paretic hand. J Neurol Sci
+1995, 130:59-68.
+10. Kwakkel G, Wagenaar RC, Twisk JW, Lankhorst GJ, Koetsier JC:
+ Intensity of leg and arm training after primary middle-cere-
+ bral-artery stroke: a  randomized trial. Lancet 1999,
+354:191-196.
+11. Nudo RJ, Milliken GW: [URL: "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=8734610"] Reorganization of movement represen-
+ tations in primary motor cortex following focal ischemic inf-
+ arcts in adult squirrel monkeys. J  Neurophysiol 1996,
+75:2144-2149.
+12. Wu C, Wong M, Lin K, Chen H: [URL: "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=11136917"] Effects of task goal and personal
+ preference on seated reaching kinematics after stroke. Stroke
+2001, 32:70-76.
+13. Kizony R, Raz L, Katz N, Weingarden H, Weiss PL: Using a video
+projected VR system for patients with spinal cord injury
+[abstract]. In Proceedings of the Second International Workshop on Vir-
+tual Rehab 2003:82-88.
+14. Todorov E, Shadmehr R, Bizzi E: Augmented feedback presented
+in a virtual environment accelerates learning of a difficult
+motor task. J Motor Behav 1997, 29:147-158.
+15. Cirstea M, Levin MF: [URL: "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=10775539"] Compensatory strategies for reaching in
+ stroke. Brain 2000, 123:940-953.
+16. Levin MF: [URL: "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=8624689"] Interjoint coordination during pointing movements
+ is disrupted in spastic hemiparesis. Brain 1996, 119:281-293.
+17. Michaelsen SM, Levin MF: [URL: "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=15192250"] Short-term effects of practice with
+ trunk restraint on reaching movements in patients with
+ chronic stroke: a controlled trial. Stroke 2004, 35:1914-1919.
+18. Viau A, Levin MF, McFadyen BJ, Feldman AG: Reaching in reality
+and in virtual reality: A comparison of movement kinematics
+[abstract]. ISEK, Boston 2004.
+19. Gowland C, Stratford P, Ward M, Moreland J, Torresin W, Van Hul-
+lenaar S, Sanford J, Barreca S, Vanspall B, Plews N: Measuring phys-
+ical impairment and disability with the Chedoke-McMaster
+stroke assessment. Stroke 1983, 24:58-63.
+20. Archambault P, Pigeon P, Feldman AG, Levin MF: [URL: "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=10333007"] Recruitment and
+ sequencing of different degrees of freedom during pointing
+movements involving the trunk in healthy and hemiparetic
+ subjects. Exp Brain Res 1999, 126:55-67.
+21. Cumming BG, DeAngelis GC:  The physiology of stereopsis. Annu
+Rev Neurosci 2001, 24:203-238.
+22. Bradshaw MF, Elliott KM: [URL: "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=12858953"] The role of binocular information in
+ the 'on-line' control of prehension. Spatial Vision 2003,
+16:295-309.
+23. Seidler R, Stelmach GE: [URL: "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=11114230"] Trunk-assisted prehension: specifica-
+ tion of body segments with imposed temporal constraints. J
+Mot Behav 2000, 32:379-388.
+24. Bioan RF, Kourtev H, Deutsch JE, Lewis JA, Burdea GC: Dual stew-
+art-platform gait rehabilitation system for individuals post-
+stroke [abstract]. In Proceedings of the Second International Work-
+shop on Virtual Rehab 2003:93.
+25. Comeau F, Chapdelaine S, McFayden BJ, Malouin F, Lamontagne A,
+Galiana L, Laurendeau D, Richards CL, Fung J: Development of
+increasingly complex virtual environments for locomotor
+training after stroke [abstract]. In Proceedings of the Second Inter-
+national Workshop on Virtual Rehab 2003:90. 
+Page 7 of 7
+(page number not for citation purposes)

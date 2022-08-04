@@ -1,0 +1,144 @@
+WEEKLY CASH FLOW
+CASH FLOW ANALYSIS,,,,,,,,
+,,,,,,,,
+,,,WEEK ENDING,WEEK ENDING,WEEK ENDING,WEEK ENDING,WEEK ENDING,WEEK ENDING
+,,DUE,06/2/2007,06/9/2007,06/16/2007,06/23/2007,06/30/2007,07/7/2007
+,AMOUNT,DATE,FORECAST,FORECAST,FORECAST,FORECAST,FORECAST,FORECAST
+BEGINNING BANK BALANCE C1,"$233,881.00",,"$233,881.00","Red($8,719.00)","$135,104.10","$13,936.10","$64,436.10","Red($132,788.90)"
+CASH COLLECTED C2,,,,,,,,
+Individual Revenue,,,"$11,000.00","$60,000.00","$90,000.00","$15,000.00","$15,000.00","$15,000.00"
+Enterprise Revenue,,,"$10,000.00","$20,000.00","$20,000.00","$20,000.00","$15,000.00","$15,000.00"
+CIS International,,,$-,"$50,000.00","$2,000.00",$-,$-,$-
+CIS Public Policy,,,$-,"$62,500.00","$28,000.00","$15,000.00","$96,500.00","$17,000.00"
+Global Vantage,,,$-,"$28,333.00","$5,000.00",$-,$-,$-
+Protective Intelligence,,,"$18,000.00","$10,000.00","$23,000.00","$1,500.00","$21,500.00","$10,000.00"
+Other Sources,,,$0.00,,,,,
+,,,,,,,,
+,,,,,,,,
+C3,,,,,,,,
+TOTAL CASH COLLECTED,,,"$39,000.00","$230,833.00","$168,000.00","$51,500.00","$148,000.00","$57,000.00"
+TOTAL AVAILABLE CASH,,,"$272,881.00","$222,114.00","$303,104.10","$65,436.10","$212,436.10","Red($75,788.90)"
+CASH PAYMENTS C4,,,,,,,,
+Ex-Pat Assignment,,,"$7,000.00","$2,000.00","$1,000.00","$1,000.00","$7,000.00","$7,000.00"
+Credit Card settlements,,,$-,$-,$-,$-,$-,$-
+Payroll - includes travel reimbursements,,,"$200,000.00",$-,"$205,000.00",$-,"$205,000.00",$-
+Benefits,"$30,273.90",,$-,"$30,273.90",$-,$-,$-,"$30,273.90"
+Contract Labor,,,"$54,000.00","$28,000.00","$15,000.00",$-,"$54,000.00","$10,000.00"
+Commissions,$-,,"$1,003.00","$12,236.00","$40,000.00",$-,$-,$-
+Legal,"$2,500.00",,$-,$-,"$4,500.00",$-,$-,$-
+Rent,"$25,000.00",,$-,$-,$-,$-,"$25,000.00",$-
+Office Supplies,"$1,000.00",,$-,$500.00,$-,,$-,"$1,000.00"
+Telephone/cell phone,"$3,000.00",,$-,"$3,000.00",$-,,$-,"$3,000.00"
+IT related,"$15,558.49",,$-,$-,"$17,500.00",$-,"$10,000.00",$-
+Insurance,"$4,000.00",,"$1,066.00",$-,$-,$-,,"$4,000.00"
+Repair and Maintenance,$450.00,,$-,,$-,,$450.00,$-
+Utilities,$425.00,,$425.00,,$-,,$425.00,$-
+Equipment Leases,"$4,000.00",,$-,"$4,000.00",$-,$-,$-,$-
+Loan Payments,$-,,$-,$-,$-,$-,$-,$-
+Miscellaneous,"$3,000.00",,"$3,000.00",,$-,$-,"$3,000.00",$-
+Professional Services,$350.00,,$350.00,,$350.00,,$350.00,$350.00
+Settlements,"$40,000.00",,"$13,848.00",$-,$-,,"$40,000.00",$-
+Severance,,,,,"$5,818.00",$-,,
+United Bankcard,$908.00,,$908.00,$-,,,$-,$-
+DC Office,,,$-,$-,$-,$-,$-,$-
+UA Move,,,$-,"$7,000.00",$-,$-,$-,$-
+,,,$-,$-,$-,$-,$-,$-
+,,,$-,$-,$-,$-,$-,$-
+,,,$-,$-,$-,$-,$-,$-
+,,,$-,$-,$-,$-,$-,$-
+,,,$-,$-,$-,$-,$-,$-
+,,,$-,$-,$-,$-,$-,$-
+,,,$-,$-,$-,$-,$-,$-
+,,,$-,$-,$-,$-,$-,$-
+,,,$-,$-,$-,$-,$-,$-
+,,,$-,$-,$-,$-,$-,$-
+,,,$-,$-,$-,$-,$-,$-
+TOTAL EXPENSES,"$100,191.49",,"$281,600.00","$87,009.90","$289,168.00","$1,000.00","$345,225.00","$55,623.90"
+,,,,,,,,
+ENDING BANK BALANCE,,,"Red(8,719.00)","$135,104.10","13,936.10","64,436.10","Red(132,788.90)","Red(131,412.80)"
+,,,,,,,,
+LINE OF CREDIT USED,,,$0.00,,,,,
+LINE OF CREDIT AVAILABLE,,,$0.00,$0.00,$0.00,,,
+Stratfor Cash Management
+C1:,[A satisfied Microsoft Office user] Enter the initial Bank Balance in the next column.  Subsequent balances are carried forward.
+C2:,[A satisfied Microsoft Office user] This section records cash coming into the business
+C3:,[A satisfied Microsoft Office user] Do not enter data into this row.
+C4:,[A satisfied Microsoft Office user] This section records cash going out of the business.
+PP Revenue
+,,,,,,,,
+,2007 Public Policy Cash Forecast,,,,,,,
+,Date,Monthly?,Qtrly?,Semi?,Annual?,One Time?,Pymt Amt,
+Exxon Mobil,6,,X,,,,"$31,500","Pay J, A, J, O"
+Abundant Forest,8,X,,,,,"$6,000",48K upfront: 6k a month
+NMA,9,X,,,,,"$11,000",
+Dow Chemical,15,X,,,,,"$10,000",
+AF&PA,15,X,,,,,"$10,000",
+Dupont,16,,,,,X,"$8,000",
+Duchin,22,,,,,X,"$5,000",
+Marsh,23,X,,,,,"$15,000",
+Kimberly Clark,25,,,X,,,"$90,000",June
+Dow Corning,27,X,,,,,"$6,500",
+PP Revenue
+GV Revenue
+,,,,,,,,
+,2007 Global Vantage Sales Forecast,,,,,,,
+,Date,Monthly?,Qtrly?,Semi?,Annual?,One Time?,Pymt Amt,
+,,,,,,,,
+ADM,26-Mar,,,,X,,"$20,000",
+API,,,,,,,$-,
+Northrop Grumman,17-May,,,,X,,"$20,000",
+Cedar Hill Capitol,27-Nov,,,,X,,"$20,000",
+Coke,24-Jul,,,,X,,"$20,000",
+Duke Energy,,,,,,,$-,
+Marsh,23rd,X,,,,,"$8,333",
+General Dynamics,10th,,X,,,,"$5,000","M, J, S, D"
+Intel,25-Jul,,,,X,,"$20,000",
+ITT Aerospace and Comm,19-Dec,,,,X,,"$20,000",
+Perot Systems,17-May,,,,X,,"$20,000",
+Washington Group International,25-Aug,,,,X,,"$20,000",
+Wexford Capitol,9-May,,,,X,,"$22,000",
+SUEZ Energy Marketing NA,29-Sep,,,,X,,"$1,667",
+GV Revenue
+IN Revenue
+,,,,,,,,
+,2007 International Sales Forecast,,,,,,,
+,Date,Monthly?,Qtrly?,Semi?,Annual?,One Time?,Pymt Amt,
+,,,,,,,,
+DOE (Research Solutions),15th,X,,,,,"$2,000",Misc Reports
+Northrop Grumman,TBD,,,,,,"$32,000",P4 Tasks 3 & 4 - $32k each
+National Oil Well,,,,,,,$-,
+Best Buy,1-Jun,,,,,X,"$50,000",
+Pentagon Federal CU,,,,,,,$-,
+Royal Bank of Canada,,,,,,,$-,
+Rimrock Capital,,,,,,,$-,
+Masters Forum,,,,,,,$-,
+Valve Manufacturers Assc,28-Jun,,,,,X,"$10,000",
+JP Morgan,,,,,,,$-,
+GenRe,,,,,,,$-,
+Singapore Investment Group,10-Apr,,,,X,,$-,
+Wexford Capital,,,,,,,$-,
+Citigroup,15th,,,,,X,"$3,000",2 Exec Briefings - date TBD
+National Petrochemical and Refiners Association,,,,,,,$-,
+IN Revenue
+PI Revenue
+,,,,,,,,
+,2007 Protective Intelligence Sales Forecast,,,,,,,
+,Date,Monthly?,Qtrly?,Semi?,Annual?,One Time?,Pymt Amt,
+,,,,,,,,
+Dell,26th,X,,,,,"$8,000",
+Concentric Solutions International,15th,X,,,,,"$2,000",
+Chevron Texaco,23rd,X,,,,,"$1,500",
+AIG,,,,,,,$-,
+Google,15th,,X,,,,"$20,000","J, A, J, O"
+Emerson,15th,,X,,,,"$9,000",Beginning Oct 1; Paid $15k for 5 months in May 2007
+Humphreys,25th,,X,,,,"$9,000","M, J, S, D"
+Pritzker,15th,,X,,,,"$9,000","M, J, S, D"
+George Soros,15th,X,,,,,"$1,500",
+Wal-mart,3rd,X,,,,,"$10,000",
+Watermark (Gates Foundation),22-Jan,,,,X,,"$36,000",
+Watermark 2 (Gates Foundation),26th,X,,,,,"$3,000",
+MSD Capital,,,,,,,$-,
+Ziff Brothers,15th,X,,,,,"$1,500",
+Knights of Columbus,15-Aug,,,,X,,"$30,000",
+Deloitte Touche Tohmatsu,12-Mar,,,,X,,"$32,400",
+PI Revenue

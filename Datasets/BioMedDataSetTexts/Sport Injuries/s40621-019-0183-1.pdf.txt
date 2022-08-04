@@ -1,0 +1,514 @@
+Creator: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+Producer: Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+Title: Comparison of subsequent injury categorisation (SIC) models and their application in a sporting population
+Keywords: Sports injury,Athletic injury,Injury classification,Injury definition,Sports medicine,Epidemiology,Water sports,Water polo
+ModDate: 2019/02/21 09:35:05+01'00'
+Subject: Injury Epidemiology, 2019, doi:10.1186/s40621-019-0183-1
+Author: Liam A. Toohey
+CreationDate: 2019/02/12 13:05:31+08'00'
+xmp:pdf:Keywords: Sports injury,Athletic injury,Injury classification,Injury definition,Sports medicine,Epidemiology,Water sports,Water polo
+xmp:pdf:Producer: Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+xmp:dc:format: application/pdf
+xmp:dc:identifier: 10.1186/s40621-019-0183-1
+xmp:dc:publisher: Injury Epidemiology
+xmp:dc:description: Injury Epidemiology, 2019, doi:10.1186/s40621-019-0183-1
+xmp:dc:subject: Sports injury; Athletic injury; Injury classification; Injury definition; Sports medicine; Epidemiology; Water sports; Water polo
+xmp:dc:title: Comparison of subsequent injury categorisation (SIC) models and their application in a sporting population
+xmp:dc:creator: Liam A. Toohey; Michael K. Drew; Lauren V. Fortington; Miranda J. Menaspa; Caroline F. Finch; Jill L. Cook
+xmp:xmp:MetadataDate: 2019-02-21T09:35:05+01:00
+xmp:xmp:CreateDate: 2019-02-12T13:05:31+08:00
+xmp:xmp:CreatorTool: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+xmp:xmp:ModifyDate: 2019-02-21T09:35:05+01:00
+xmp:xmpMM:DocumentID: uuid:98c69146-7a9f-4b6a-8542-9619651cfb65
+xmp:xmpMM:InstanceID: uuid:94e82fdc-923c-44ff-8602-a85aa547303b
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:be1c866f-0beb-453d-96f0-d1cba03e818a
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2019-02-12T13:15:42+08:00
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:author:name: Liam A. Toohey
+xmp:author:orcid: http://orcid.org/0000-0003-3312-7027
+xmp:pdfaSchema:schema: Springer Nature ORCID Schema
+xmp:pdfaSchema:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/
+xmp:pdfaSchema:prefix: sn
+xmp:pdfaProperty:name: authorInfo
+xmp:pdfaProperty:valueType: Bag AuthorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Author information: contains the name of each author and his/her ORCID (ORCiD: Open Researcher and Contributor ID). An ORCID is a persistent identifier (a non-proprietary alphanumeric code) to uniquely identify scientific and other academic authors.
+xmp:pdfaProperty:name: editorInfo
+xmp:pdfaProperty:valueType: Bag EditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Editor information: contains the name of each editor and his/her ORCID identifier.
+xmp:pdfaProperty:name: seriesEditorInfo
+xmp:pdfaProperty:valueType: Bag SeriesEditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Series editor information: contains the name of each series editor and his/her ORCID identifier.
+xmp:pdfaType:type: AuthorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/authorInfo/
+xmp:pdfaType:prefix: author
+xmp:pdfaType:description: Specifies the types of author information: name and ORCID of an author.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an author.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an author.
+xmp:pdfaType:type: EditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/editorInfo/
+xmp:pdfaType:prefix: editor
+xmp:pdfaType:description: Specifies the types of editor information: name and ORCID of an editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:vaBOOKMARKS:
+Abstract
+  Background
+  Methods
+  Results
+  Conclusions
+Background
+Methods
+Results
+Discussion
+Conclusion
+Additional file
+Abbreviations
+Acknowledgements
+Funding
+Availability of data and materials
+Authors’ contributions
+Ethics approval and consent to participate
+Consent for publication
+Competing interests
+Publisher’s Note
+Author details
+References
+Page 1
+Toohey et al. Injury Epidemiology (2019) 6:9
+https://doi.org/10.1186/s40621-019-0183-1
+SHORT REPORT  Open Access
+Comparison of subsequent injury
+categorisation (SIC) models and their
+application in a sporting population
+Liam A. Toohey1,2* [URL: "http://orcid.org/0000-0003-3312-7027"] , Michael K. Drew2, Lauren V. Fortington1,4,5, Miranda J. Menaspa3, Caroline F. Finch1,4 and
+Jill L. Cook1
+Abstract
+Background: The original subsequent injury categorisation (SIC-1.0) model aimed to classify relationships between
+chronological injury sequences to provide insight into the complexity and causation of subsequent injury
+occurrence. An updated model has recently been published. Comparison of the data coded according to the
+original and revised subsequent injury categorisation (SIC-1.0 and SIC-2.0) models has yet been formally compared.
+Methods: Medical attention injury data was prospectively collected for 42 elite water polo players over an 8 month
+surveillance period. The SIC-1.0 and SIC-2.0 models were retrospectively applied to the injury data. The injury
+categorisation from the two models was compared using descriptive statistics.
+Results: Seventy-four injuries were sustained by the 42 players (median = 2, range = 0–5), of which 32 injuries
+(43.2%) occurred subsequent to a previous injury. The majority of subsequent injuries were coded as occurring
+at a different site and being of a different nature, while also being considered clinically unrelated to the
+previous injury (SIC-1.0 category 10 = 57.9%; SIC-2.0 clinical category 16 = 54.4%). Application of the SIC-2.0
+model resulted in a greater distribution of category allocation compared to the SIC-1.0 model that reflects a
+greater precision in the SIC-2.0 model.
+Conclusions: Subsequent injury categorisation of sport injury data can be undertaken using either the original
+(SIC-1.0) or the revised (SIC-2.0) model to obtain similar results. However, the SIC-2.0 model offers the ability to
+identify a larger number of mutually exclusive categories, while not relying on clinical adjudication for category
+allocation. The increased precision of SIC-2.0 is advantageous for clinical application and consideration of injury
+relationships.
+Keywords: Sports injury, Athletic injury, Injury classification, Injury definition, Sports medicine, Epidemiology,
+Water sports, Water polo
+Background
+Subsequent injuries, defined as any injury that occurs at
+any stage following an initial (index) injury, account for a
+large proportion of all injuries that are sustained within
+sporting populations. (Finch et al. 2017; Fortington et al.
+2017) Understanding the within-person dependency of in-
+juries is an important component of developing injury
+* Correspondence: [URL: "mailto:liam.toohey@sportaus.gov.au"] liam.toohey@sportaus.gov.au
+1La Trobe Sport and Exercise Medicine Research Centre, La Trobe University,
+School of Allied Health (Physiotherapy), Bundoora, VIC 3086, Australia
+2Athlete Availability Program, Applied Technology and Innovation, Australian
+Institute of Sport, Leverrier Street, Bruce, ACT 2617, Australia
+Full list of author information is available at the end of the article 
+prevention and treatment strategies for athletes. (Finch
+and Cook 2014; Toohey et al. 2018) Meaningful consider-
+ation of the relationships underpinning subsequent injur-
+ies currently relies on categorisation frameworks that
+support the identification of how injury types are related
+in terms of body part, nature and side of injury.
+The original subsequent injury categorisation (SIC-1.0)
+model (Finch and Cook 2014) provided ten mutually ex-
+clusive categories that extended beyond the limitations of
+previous classification models. One of the advancements
+provided by the SIC-1.0 model was the ability to distin-
+guish the injury onset (acute or gradual) for subsequent
+© The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License ([URL: "http://creativecommons.org/licenses/by/4.0/"] http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Page 2
+Toohey et al. Injury Epidemiology (2019) 6:9  Page 2 of 6
+injuries that were sustained at the same body site and
+nature to a previous injury. A second iteration of this
+model (SIC-2.0) has recently been published, (Toohey
+et al. 2018) which provides a two-tiered hierarchical
+structure for subsequent injury categorisation (Table 1).
+The application of the SIC-2.0 overarching data-driven
+level of categorisation has already been demonstrated
+in a sporting dataset, (Toohey et al. 2018) but the appli-
+cation of sub-categorisation to the clinical level of in-
+jury relatedness that the model offers has not been
+demonstrated. Nor has there been an evaluation be-
+tween the two models’ (SIC-1.0 and SIC-2.0) classifica-
+tion outputs, which currently limits the ability to make
+comparisons between the two. Thus, the aims of this
+study were to: (1) apply the revised SIC-2.0 model to a
+sporting dataset to both the data-driven and clinical
+sub-categorisation levels and to (2) compare the cat-
+egorisation output with the original SIC-1.0 model out-
+put within the same sporting injury dataset.
+Methods
+The classification outputs from both the SIC-1.0 and
+SIC-2.0 models were generated based on prospectively col-
+lected injury data for 42 elite water polo players (36 women, 
+mean age: 19.9 ± 3.4; 6 men, mean age: 20.8 ± 4.1) over
+eight consecutive months (August 2013 to March 2014).
+All injury data were entered into a centralised database
+(Athlete Management System (AMS),  Fusion Sport Pty
+Ltd.,  Brisbane, Australia) by the squad’s senior sports
+physiotherapist (MJM). A four character Orchard Sports
+Injury Classification System 10 (OSICS-10.1) (Rae and
+Orchard 2007) injury diagnosis code was assigned pro-
+spectively at the time of injury or treatment to each in-
+jury by the physiotherapist (MJM),  with the side of
+injury occurrence, mechanism of injury, date of injury,
+date of return to training, and date of full injury reso-
+lution also recorded. All data were de-identified (but
+linked by a unique athlete ID) and injuries were time
+ordered according to the date of injury for each injured
+athlete. (Finch and Fortington 2018)
+For SIC-1.0, following the 8 month surveillance period,
+the injury data were retrospectively coded using the
+SIC-1.0 model (Finch and Cook 2014), again by the same
+physiotherapist (MJM).  (Wallis and Drew 2014) For
+SIC-2.0, the injury data were retrospectively coded using
+the updated model, (Toohey et al. 2018) to both the
+data-driven and clinical category levels by one author,
+independent to the water polo squad (LAT).  For
+Table 1 Comparison of the original (SIC-1.0) and revised (SIC-2.0) subsequent injury categorisation models
+SIC-2.0 data-driven  SIC-2.0 clinical category Category description
+category (Toohey et al. 2018) (Toohey et al. 2018) 
+SIC-1.0 category
+(Finch and Cook 2014)
+I  1  No subsequent injury; only one injury was sustained 1
+by the athlete throughout the surveillance period
+II  2  Re-injury after recovery, to the same site, same nature,  2a
+same side, and same structure (related)
+3  Re-injury after recovery, to the same site, same nature,  6a
+same side, and same structure (unrelated)
+III  4  Acute exacerbation before recovery, to the same site,  3a
+same nature, same side, and same structure
+5  Continual/sporadic exacerbation before recovery, to the  4a
+same site, same nature, same side, and same structure (related)
+6  Continual/sporadic exacerbation before recovery, to the same site, 5a
+same nature, same side, and same structure (unrelated)
+IV  7  Injury to the same site, same nature, same side, but of a different 2-6a
+structure (related)
+8  Injury to the same site, same nature, same side, but of a different 2-6a
+structure (unrelated)
+V  9  Injury to the same site, same nature, but different side (related) 2-6a
+10  Injury to the same site, same nature, but different side (unrelated) 2-6a
+VI  11  Injury to the same site but of a different nature (related) 7
+12  Injury to the same site but of a different nature (unrelated) 8
+VII  13  Injury to a different site, but of the same nature (related) 9b
+14  Injury to a different site, but of the same nature (unrelated) 10b
+VIII  15  Injury to a different site and of a different nature (related) 9b
+16  Injury to a different site and of a different nature (unrelated) 10bAdapted from Toohey et al., 2018 (Toohey et al. 2018) with permission
+a side and structure of injury was not differentiated in the SIC-1.0 model; b injury nature at different site was not differentiated in the SIC-1.0 model
+Page 3
+Toohey et al. Injury Epidemiology (2019) 6:9  Page 3 of 6
+consistency, the sub-categorisation of the data-driven
+categories reached in the SIC-2.0 model was performed
+utilising the original clinical decision that determined
+whether or not a subsequent injury was determined to
+be clinically related to a previous injury as determined
+in the SIC-1.0 model categorisation process. This deci-
+sion was used to ensure consistency between model
+comparisons. A descriptive analysis is presented to
+compare the output of the two models by the number
+and percentage within each category. Ethical approval
+for the study was obtained from the Human Research
+Ethics Committees of the Australian Institute of Sport
+and La Trobe University (Approval Number 20160401).
+Results
+A total of 74 injuries were sustained by 42 athletes over
+the surveillance period (median = 2, range = 0–5). Thirty-
+two (43.2%) injuries were subsequent to a previous injury
+within the surveillance period. Injuries to the shoulder
+(n = 17, 23.0%),  elbow (n = 12, 16.2%)  and lumbar
+spine (n = 10, 13.5%) were the most frequent accord-
+ing to body site. The most common type of injuries 
+sustained were impingement (n = 16, 21.6%), joint sprains
+(n = 14, 18.2%) and muscle injuries (n = 12, 16.2%).
+From the SIC-1.0 model, the majority of subsequent
+injury relationships were categorised as category 10 in-
+juries (57.9%; injury to a different site and different na-
+ture and unrelated to the previous injury/injuries),  or
+category 9 injuries (28.1%; injury to a different site and
+different nature and related to the previous injury/in-
+juries).  Of the ten SIC-1.0 categories, only four (cat-
+egories 5, 7, 9, and 10) were identified during the
+categorisation process. In total, 38.6% of the subsequent
+injuries were determined to be clinically related to a
+previous injury (Fig. 1a) (Additional file 1).
+Categorisation to the data-driven level of the SIC-2.0
+model found category VIII (injury to a different site
+and of a different nature) subsequent injury relation-
+ships to be the most common (79.3%), followed by cat-
+egory VII (12.1%; injuries to a different site, but of the
+same nature) (Fig. 1b) (Additional file 1). Sub-categor-
+isation to the clinical level of the SIC-2.0 model, identi-
+fied SIC-2.0 categories 16 (54.4%; injury to a different
+site and of a different nature and unrelated) and 15
+Fig. 1 Subsequent injury categorisation output from the original subsequent injury categorisation (SIC-1.0) model (a) and the revised subsequent
+injury categorisation (SIC-2.0) model at the data-driven level of categorisation (b) and the clinical level of categorisation (c)
+Page 4
+Toohey et al. Injury Epidemiology (2019) 6:9  Page 4 of 6
+(24.6%; injury to a different site and of a different na-
+ture and related) to be the most commonly allocated
+categorisation codes (Fig. 1c) (Additional file 1).
+When the category allocation was specified to the in-
+juries according to the sequence that they were sus-
+tained in (i.e. 1st injury, 2nd injury, 3rd injury, 4th
+injury, or 5th injury),  it was observed that the most
+common type of subsequent injury relationship identi-
+fied by the different models was a different site and dif-
+ferent nature (SIC-1.0 category 10 and 9; SIC-2.0 data
+driven category VIII and SIC-2.0 clinical category 16
+and 15) (Fig. 2). Following the second injury being sus-
+tained, all of the subsequent injury relationships were
+identified to be of a different site and different nature.
+Discussion
+This is the first paper to apply the SIC-2.0 model to the
+clinical sub-categorisation level, considering the influ-
+ence that a clinical decision has on the segregation of
+subsequent injury categorisation. The application of the
+SIC-2.0 model to this level demonstrates the model’s
+ability to identify differences between the data-driven
+categories.
+This study also shows that similar categorisation re-
+sults are observed when the SIC-1.0 and SIC-2.0
+models are applied to the same dataset. The most com-
+mon relationship between injuries within a time-series
+categorised them as being of a different site and differ-
+ent nature. This finding is consistent with studies
+across a range of sports using both the SIC-1.0 model
+(Finch et al. 2017; Finch and Cook 2014; Finch et al.
+2015; Moore et al. 2018) and the SIC-2.0 model. (Toohey
+et al. 2018) The ability of the SIC-2.0 model to identify
+and differentiate a larger number of different relationships
+between a subsequent injury and the injuries that pre-
+ceded it appears to offer a greater sensitivity for more pre-
+cise categorisation than the SIC-1.0 model.
+Considering the range of criteria that can be used define
+a subsequent injury as being clinically-related to a 
+previous injury presents a complex question for sports
+medicine professionals. There are no established guide-
+lines that outline what criteria should be considered
+when adjudicating whether a subsequent injury is re-
+lated or not to a previous injury, (Toohey et al. 2018)
+rather research to date has replied on clinical reasoning
+to determine these relationships. (Finch et al. 2017;
+Finch and Cook 2014; Moore et al. 2018) The
+inter-rater reliability of the SIC-1.0 model, which re-
+quires the user to make a decision on injury related-
+ness, has been demonstrated to be strong between team
+clinicians and moderate to strong between a team clin-
+ician and a non-team clinician. (Moore et al. 2018) The
+level of agreement between raters reduces however
+when a clinician’s categorisation output is compared to
+that of a non-clinician rater. (Moore et al. 2018)
+We did not attempt to define these criteria within
+this study, rather we chose to use an injury dataset that
+had previously been coded according to the SIC-1.0
+model with the team clinician’s interpretation of what
+constituted an injury to be related. There are many po-
+tential factors that can be considered by a clinician on
+whether an injury is or is not related to a previous in-
+jury. (Moore et al. 2018) These include, but are not lim-
+ited to: anatomical considerations (the body site, tissue
+type, and the side of injury), the time between injury oc-
+currences, the biomechanical relationships between body
+segments specific to the demands of the sport, the estab-
+lished training workload following a previous injury, and
+residual deficits or changes in technique related to a previ-
+ous injury, or potential changes in psychological status fol-
+lowing a previous injury which could all influence the risk
+of sustaining a future injury.
+To overcome the challenge of determining related-
+ness between injuries, at least until there is inter-
+national agreement on how this is defined, a stronger
+focus on the data-driven categorisation of SIC-2.0 is
+recommended. The SIC-2.0 model was designed to
+offer an overarching data-driven approach to avoid the
+Fig. 2 Application of the SIC-1.0 model (a), data-driven level of SIC-2.0 (b) and clinical level of categorisation (c) according to the injury number
+in order of temporal occurrence (Finch et al. 2017; Fortington et al. 2017; Finch and Cook 2014; Toohey et al. 2018; Rae and Orchard 2007)
+Page 5
+Toohey et al. Injury Epidemiology (2019) 6:9  Page 5 of 6
+need for a clinical decision to be made in the categor-
+isation process. This provides a standardised method of
+categorisation that is reproducible and the automated
+ability of the model provides a method free from hu-
+man error. (Toohey et al. 2018) This is evidenced by
+the 100% inter-rater reliability between two physiother-
+apists and between the physiotherapists and the auto-
+mated coding script. (Toohey et al. 2018) Concurrently,
+outcomes that rely on a subjective clinical decision to
+be made in the categorisation process, such as those
+produced at the clinical categorisation level of the
+SIC-2.0 model and the SIC-1.0 model, should be con-
+sidered with some caution and ideally be determined at
+the time of injury, not retrospectively. It is acknowl-
+edged that an adjudicated determination of clinical re-
+latedness between temporal injury sequences may
+provide additional valuable information for understand-
+ing subsequent injury occurrence. However, further re-
+search to determine the most appropriate criteria to
+define injury relatedness is required to achieve reliable
+categorisation output.
+Application of the SIC-2.0 data-driven categorisation
+in this study has demonstrated, that even within a small
+dataset, a larger distribution of category allocation is
+achieved as a greater degree of precision in category al-
+location is possible when compared to the original
+SIC-1.0 model.
+In this study, all of the subsequent injuries that followed
+a second injury within a temporal series occurred at a dif-
+ferent site to previous injuries. This finding has implica-
+tions for clinical rehabilitation which challenges the
+preliminary goal of restoring function of the specific in-
+jured site to prevent a recurrent injury to the same site.
+Medical staff also need to be aware that on return to play
+an athlete is at risk of sustaining another injury at a differ-
+ent site and rehabilitation should incorporate tertiary pre-
+vention strategies to mitigate the risk of different types of
+subsequent injury occurring. (Blanch and Gabbett 2016;
+Jacobsson and Timpka 2015; Toohey et al. 2017).
+Subsequent injury categorisation offers sports injury
+researchers the ability to consider injury relationships
+beyond recurrent-only injuries, which have been demon-
+strated in numerous sports to only account for a very
+small proportion of all injuries sustained. (Finch et al.
+2017; Toohey et al. 2018; Moore et al. 2018) Consider-
+ation of all possible inter-injury relationships provides a
+greater insight into the associations and an opportunity
+to investigate the mechanisms that underpin subsequent
+injury occurrence. (Shrier and Steele 2014) Through
+greater understanding, more specifically targeted tertiary
+injury prevention strategies can be developed for ath-
+letes who have already sustained an injury to help miti-
+gate the risk of the subsequent injury types that are
+most likely to sequentially occur. 
+Conclusion
+The categorisation output of subsequent injury data in
+sport utilising the original (SIC-1.0) and revised
+(SIC-2.0) models offer comparable results. The ability of
+the SIC-2.0 model to execute the categorisation process
+without the reliance on clinical adjudication offers
+greater reliability and also allows non-clinicians to use
+the model accurately. The SIC-2.0 model provides a lar-
+ger number of mutually exclusive categories, which en-
+hances the precision of subsequent injury categorisation
+and enables improved analysis of injury relationships.
+Additional file
+ Additional file 1: Categorisation output distribution of the SIC-1.0 and
+SIC-2.0 models. (DOCX 18 kb)
+Abbreviations
+AMS: Athlete management system; ID: Identification number; OSICS: Orchard
+sports injury coding system; SIC: Subsequent injury categorisation;
+SIC-1.0: Subsequent injury categorisation model (original version);
+SIC-2.0: Subsequent injury categorisation model (revised version)
+Acknowledgements
+Not applicable.
+Funding
+This research is associated with the research program of the Australian
+Centre for Research into Injury in Sport and its Prevention (ACRISP) which is
+one of the International Research Centres for Prevention of Injury and
+Protection of Athlete Health supported by the International Olympic
+Committee (IOC). This work was supported by an Australian Government
+Research Training Program Scholarship awarded to author LAT for support
+during his PhD.
+Prof Cook is supported by a NHMRC practitioner fellowship (no. 1058493).
+Availability of data and materials
+The datasets used and/or analysed during the current study are available
+from the corresponding author on reasonable request.
+Authors’ contributions
+All authors contributed to the original concept. MJM collected the data and
+performed the SIC-1.0 coding of the data. LAT performed the SIC-2.0 coding
+of the injury dataset. All authors contributed to the drafting and final
+approval of the manuscript. This work was undertaken by LAT as a compo-
+nent of his PhD under the supervision of authors JLC, CFF, MKD and LVF.
+Ethics approval and consent to participate
+Ethical approval for the study was obtained from the Human Research Ethics
+Committees of the Australian Institute of Sport and La Trobe University
+(Approval Number 20160401).
+Consent for publication
+Approval for publication was granted within the ethics approval as specified
+above.
+Competing interests
+The authors declare that they have no competing interests.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Page 6
+Toohey et al. Injury Epidemiology (2019) 6:9
+Author details
+1La Trobe Sport and Exercise Medicine Research Centre, La Trobe University,
+School of Allied Health (Physiotherapy), Bundoora, VIC 3086, Australia.
+2Athlete Availability Program, Applied Technology and Innovation, Australian
+Institute of Sport, Leverrier Street, Bruce, ACT 2617, Australia. 3Physical
+Therapies, Australian Institute of Sport, Bruce, ACT, Australia. 4School of
+Medical and Health Sciences, Edith Cowan University, Joondalup, WA,
+Australia. 5Federation University Australia, Ballarat, Australia.
+Received: 2 December 2018 Accepted: 1 February 2019
+References
+Blanch P, Gabbett TJ. Has the athlete trained enough to return to play safely?
+The acute:chronic workload ratio permits clinicians to quantify a player's risk
+of subsequent injury. Br J Sports Med. 2016;50(8):471–5.
+Finch CF, Cook J. Categorising sports injuries in epidemiological studies: the
+subsequent injury categorisation (SIC) model to address multiple, recurrent
+and exacerbation of injuries. Br J Sports Med. 2014;48(17):1276–80.
+Finch CF, Cook J, Gabbe BJ, Orchard J. A new way of categorising recurrent, repeat
+and multiple sports injuries for injury incidence studies-the subsequent injury
+categorisation (SIC) model. Aust Epidemiol. 2015;22(1):22–5.
+Finch CF, Cook J, Kunstler BE, Akram M, Orchard J. Subsequent injuries are more
+common than injury recurrences: an analysis of 1 season of prospectively
+collected injuries in professional Australian football. Am J Sports Med. 2017;
+45(8):1921–7.
+Finch CF, Fortington LV. So you want to understand subsequent injuries better?
+Start by understanding the minimum data collection and reporting
+requirements. Br J Sports Med. 2018;52(17):1077–8.
+Fortington LV, van der Worp H, Van den Akker-Scheek I, Finch CF. Reporting
+multiple individual injuries in studies of team ball sports: a systematic review
+of current practice. Sports Med. 2017;47(6):1103–22.
+Jacobsson J, Timpka T. Classification of prevention in sports medicine and
+epidemiology. Sports Med. 2015;45(11):1483–7.
+Moore IS, Mount S, Mathema P, Ranson C. Application of the subsequent injury
+categorisation model for longitudinal injury surveillance in elite rugby and
+cricket: intersport comparisons and inter-rater reliability of coding. Br J Sports
+Med. 2018;52(11):1137–42.
+Rae K, Orchard J. The Orchard sports injury classification system (OSICS) version
+10. Clin J Sport Med. 2007;17(3):201–4.
+Shrier I, Steele RJ. Classification systems for reinjuries: a continuing challenge. Br J
+Sports Med. 2014;48(18):1338–9.
+Toohey LA, Drew MK, Cook JL, Finch CF, Gaida JE. Is subsequent lower limb
+injury associated with previous injury? A systematic review and meta-analysis.
+Br J Sports Med. 2017;51(23):1670–8.
+Toohey LA, Drew MK, Fortington LV, Finch CF, Cook JL. An updated subsequent
+injury categorisation model (SIC-2.0): data-driven categorisation of
+subsequent injuries in sport. Sports Med. 2018;48(9):2199–210.
+Wallis M, Drew M. Subsequent injury in women's water polo. J Sci Med Sport.
+2014;18:e54. 
+Page 6 of 6

@@ -1,0 +1,1426 @@
+Creator: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+Producer: Acrobat Distiller 10.0.0 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+Title: Lessons learned from engaging communities for Ebola vaccine trials in Sierra Leone: reciprocity, relatability, relationships and respect (the four R’s)
+Keywords: Community engagement,Vaccine trials,Ebola,Sierra Leone,Disease preparedness
+ModDate: 2019/12/11 16:04:47+01'00'
+Subject: BMC Public Health, 2019, doi:10.1186/s12889-019-7978-4
+Author: Sara Dada
+CreationDate: 2019/12/06 02:48:45+08'00'
+xmp:pdf:Keywords: Community engagement,Vaccine trials,Ebola,Sierra Leone,Disease preparedness
+xmp:pdf:Producer: Acrobat Distiller 10.0.0 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+xmp:dc:format: application/pdf
+xmp:dc:identifier: 10.1186/s12889-019-7978-4
+xmp:dc:publisher: BMC Public Health
+xmp:dc:description: BMC Public Health, 2019, doi:10.1186/s12889-019-7978-4
+xmp:dc:subject: Community engagement; Vaccine trials; Ebola; Sierra Leone; Disease preparedness
+xmp:dc:title: Lessons learned from engaging communities for Ebola vaccine trials in Sierra Leone: reciprocity, relatability, relationships and respect (the four R’s)
+xmp:dc:creator: Sara Dada; Gillian McKay; Ana Mateus; Shelley Lees
+xmp:xmp:ModifyDate: 2019-12-11T16:04:47+01:00
+xmp:xmp:MetadataDate: 2019-12-11T16:04:47+01:00
+xmp:xmp:CreateDate: 2019-12-06T02:48:45+08:00
+xmp:xmp:CreatorTool: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+xmp:xmpMM:DocumentID: uuid:b67aad50-3e26-4c58-b289-48b288d03944
+xmp:xmpMM:InstanceID: uuid:6771743c-519a-4a16-877c-444e35248ea5
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:b67aad50-3e26-4c58-b289-48b288d03944
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2019-12-06T03:00:04+08:00
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:author:name: Sara Dada
+xmp:author:orcid: http://orcid.org/0000-0003-3910-1856
+xmp:pdfaSchema:schema: Springer Nature ORCID Schema
+xmp:pdfaSchema:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/
+xmp:pdfaSchema:prefix: sn
+xmp:pdfaProperty:name: authorInfo
+xmp:pdfaProperty:valueType: Bag AuthorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Author information: contains the name of each author and his/her ORCID (ORCiD: Open Researcher and Contributor ID). An ORCID is a persistent identifier (a non-proprietary alphanumeric code) to uniquely identify scientific and other academic authors.
+xmp:pdfaProperty:name: editorInfo
+xmp:pdfaProperty:valueType: Bag EditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Editor information: contains the name of each editor and his/her ORCID identifier.
+xmp:pdfaProperty:name: seriesEditorInfo
+xmp:pdfaProperty:valueType: Bag SeriesEditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Series editor information: contains the name of each series editor and his/her ORCID identifier.
+xmp:pdfaType:type: AuthorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/authorInfo/
+xmp:pdfaType:prefix: author
+xmp:pdfaType:description: Specifies the types of author information: name and ORCID of an author.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an author.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an author.
+xmp:pdfaType:type: EditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/editorInfo/
+xmp:pdfaType:prefix: editor
+xmp:pdfaType:description: Specifies the types of editor information: name and ORCID of an editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an editor.
+xmp:pdfaType:type: SeriesEditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/seriesEditorInfo/
+xmp:pdfaType:prefix: seriesEditor
+xmp:pdfaType:description: Specifies the types of series editor information: name and ORCID of a series editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of a series editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of a series editor.
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdf/1.3/
+xmp:pdfaSchema:prefix: pdf
+xmp:pdfaSchema:schema: Adobe PDF Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A name object indicating whether the document has been modified to include trapping information
+xmp:pdfaProperty:name: Trapped
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/mm/
+xmp:pdfaSchema:prefix: xmpMM
+xmp:pdfaSchema:schema: XMP Media Management Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: UUID based identifier for specific incarnation of a document
+xmp:pdfaProperty:name: InstanceID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: The common identifier for all versions and renditions of a document.
+xmp:pdfaProperty:name: OriginalDocumentID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A reference to the original document from which this one is derived. It is a minimal reference; missing components can be assumed to be unchanged. For example, a new version might only need to specify the instance ID and version number of the previous version, or a rendition might only need to specify the instance ID and rendition class of the original.
+xmp:pdfaProperty:name: DerivedFrom
+xmp:pdfaProperty:valueType: ResourceRef
+xmp:pdfaType:description: Identifies a portion of a document. This can be a position at which the document has been changed since the most recent event history (stEvt:changed). For a resource within an xmpMM:Ingredients list, the ResourceRef uses this type to identify both the portion of the containing document that refers to the resource, and the portion of the referenced resource that is referenced.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Part#
+xmp:pdfaType:prefix: stPart
+xmp:pdfaType:type: Part
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/t/pg/
+xmp:pdfaSchema:prefix: xmpTPg
+xmp:pdfaSchema:schema: XMP Paged-Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A structure containing the characteristics of a font used in a document
+xmp:pdfaProperty:name: Fonts
+xmp:pdfaProperty:valueType: Bag Font
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: XMP08 Spec: An ordered array of plate names that are needed to print the document (including any in contained documents).
+xmp:pdfaProperty:name: PlateNames
+xmp:pdfaProperty:valueType: Seq Text
+xmp:pdfaType:description: A structure containing the characteristics of a font used in a document.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Font#
+xmp:pdfaType:prefix: stFnt
+xmp:pdfaType:type: Font
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdfx/1.3/
+xmp:pdfaSchema:prefix: pdfx
+xmp:pdfaSchema:schema: PDF/X ID Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: ID of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXVersion
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Conformance level of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXConformance
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Company creating the PDF
+xmp:pdfaProperty:name: Company
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Date when document was last modified
+xmp:pdfaProperty:name: SourceModified
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://www.aiim.org/pdfa/ns/id/
+xmp:pdfaSchema:prefix: pdfaid
+xmp:pdfaSchema:schema: PDFBOOKMARKS:
+Abstract
+  Background
+  Methods
+  Results
+  Conclusion
+Background
+  Community engagement in biomedical research
+  Community engagement in practice
+  Ebola in West Africa
+  Ebola vaccine trials in Sierra Leone
+Methods
+  Data analysis
+  Ethical considerations
+Results
+  The Four R’s
+  Reciprocity
+  Relatability
+  Relationships
+  Respect
+Discussion
+  Limitations
+Conclusion
+Supplementary information
+Abbreviations
+Acknowledgements
+Authors’ contribution
+Funding
+Availability of data and materials
+Ethics approval and consent to participate
+Consent for publication
+Competing interests
+References
+Publisher’s Note
+Page 1
+Dada et al. BMC Public Health (2019) 19:1665
+https://doi.org/10.1186/s12889-019-7978-4
+RESEARCH ARTICLE
+Lessons learned from engaging
+communities for Ebola vaccine trials in
+Sierra Leone: reciprocity, relatability,
+relationships and respect (the four R’s)
+Sara Dada1,2* [URL: "http://orcid.org/0000-0003-3910-1856"] , Gillian McKay1, Ana Mateus2 and Shelley Lees1 
+Open Access
+Abstract
+Background: Building trust and engaging the community are important for biomedical trials. This was core to the
+set up and delivery of the EBOVAC-Salone and PREVAC Ebola vaccine trials in Sierra Leone during and following the
+2014–2016 West African Ebola epidemic. Local community liaison teams (CLT) engaged with the community
+through public meetings, radio chat shows, and other activities, while a social science team (SST) assessed
+community members’ and participants’ perceptions and regularly updated the clinical team to adapt procedures to
+improve the acceptability and compliance of the trial. The objective of this study was to examine the community
+engagement (CE) program in these trials and to identify potential barriers and facilitators.
+Methods: Fifteen CLT and SST members participated in in-depth interviews and 23 community members attended
+three focus groups to discuss the Ebola vaccine trials and their experiences and perspectives of the CE activities.
+Results: A key aim of the CE program was to build trust between the community and the trial. Four main
+principles (the “four R’s”) evolved from the discussions with team members and the community that influenced this
+trust: reciprocity, relatability, relationships and respect. The CLT and SST ensured reciprocal communication
+between the trial team and the community. The CLT delivered key messages from the trial, whilst the SST
+completed ethnographic research in the field to uncover rumors and perceptions of the trial in the community.
+These ethnographic findings were shared with the CLT and addressed in targeted messaging to the community.
+Both the CLT and SST approached the communities in an egalitarian manner, by dressing modestly, speaking local
+dialects, and using relatable examples. Appreciation and understanding of the importance of interpersonal
+relationships and respect for the people, their customs, and traditions also played a large role in the CE program.
+Conclusion: These findings provide an in-depth understanding of how interdisciplinary community liaison and
+social science teams can work with a clinical team to strengthen trust. The four R’s suggest the ways in which trust
+relations are central to CE and confidence in vaccine trials, and could offer an approach to CE in vaccine trials.
+Keywords: Community engagement, Vaccine trials, Ebola, Sierra Leone, Disease preparedness
+* Correspondence: [URL: "mailto:sara.dada1@lshtm.ac.uk"] sara.dada1@lshtm.ac.uk
+1London School of Hygiene and Tropical Medicine, Keppel Street, London
+WC1E 7HT, UK
+2The Royal Veterinary College, Royal College Street, London NW1 0TU, UK
+© The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License ([URL: "http://creativecommons.org/licenses/by/4.0/"] http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Page 2
+Dada et al. BMC Public Health (2019) 19:1665  Page 2 of 13
+Background
+Community engagement (CE) is an important dimension
+of disease control and preparedness interventions. Re-
+sponses to the Ebola outbreak in West Africa between
+2013 and 2016 understandably necessitated methods to
+engage the community in interventions to achieve effect-
+ive disease control [1]. Amongst these response programs
+were the numerous Ebola vaccine trials implemented to
+prove an effective vaccine for Ebola virus disease (EVD).
+The EBOVAC-Salone and PREVAC vaccine trials’  CE
+programs were developed and delivered as a collaboration
+between the Innovative Medicines Initiative (IMI)-funded
+Ebola Vaccine Deployment, Acceptance and Compliance
+(EBODAC) and the Ebola vaccine (EBOVAC1) projects in
+Sierra Leone. This paper examines the relationships be-
+tween trust, CE, and acceptance of a clinical trial.
+Community engagement in biomedical research
+CE is used for a variety of capacities in biomedical re-
+search including participatory research and research eval-
+uations [2]. Dicket et al. (2005) have proposed four main
+goals of CE: “enhanced protection, enhanced benefits, le-
+gitimacy, and shared responsibility” [ [3],  p.1124].  How
+the public engages with biomedical research can influence
+the design, implementation strategy, level of uptake, and
+impact of disease control and prevention programs. As re-
+search in low and middle income countries (LMICs) in-
+creases, CE has become an increasingly important part of
+biomedical research methods and procedures, especially
+in programs involving vulnerable populations [4–6].
+CE is important in biomedical research because it pro-
+vides an opportunity for the researchers to understand
+the community’s needs and priorities [2].  CE may also
+help mitigate challenges faced by biomedical research.
+For example, CE activities can address public mistrust
+towards biomedical research by demonstrating respect
+for the communities involved in the research program
+[7, 8]. In addition to the potential benefits of CE, a re-
+view of evidence conducted by Attree et al. highlighted
+the potential for unintended negative impacts [9]; these
+include physical and mental exhaustion from the re-
+quirements of engagement that may not always outweigh
+the expected benefits [9] as well as further entrenching
+existing inequalities influenced by power and resource
+prioritization [10].  Furthermore, CE requires not only
+time and resources, but also researchers that are compe-
+tent and capable of taking on the challenges of establish-
+ing this engagement with the community [11].
+Some barriers to CE can arise from challenges in es-
+tablishing equal relationships with the community. Bio-
+medical research programs come with an imbalance in
+power between the researchers and the community,
+which could hinder CE if it is not acknowledged in a
+transparent and productive way [12].  This relationship 
+can be particularly strained in marginalized communities
+where citizens may not have regular access to health
+care and the resulting benefits of biomedical research
+[12]. Additionally, existing relationship structures within
+a community may pose challenges in CE as participation
+can reflect existing “social hierarchies and economic or
+political divisions” [ [10], p.457].
+To be successful many CE activities rely on mutu-
+ally beneficial relationships and high levels of trust
+between the research program and the community
+[13–15].  In order to develop trust with the commu-
+nity, a study on the informed consent practices of a
+vaccine trial in Kenya used both external technical
+experts and local field assistants who were known to
+the community to convey information about a trial
+before it began [15].  Relationships are important to
+CE and biomedical research because they provide an
+avenue for researchers to understand the priorities,
+needs and context of a community [12]. The relation-
+ships between the community and the research pro-
+gram can also influence the community members’
+perception of the research study and their willingness
+to participate [15].
+Community engagement in practice
+MacQueen et al. (2015) have noted there were few
+guidelines available for the implementation and
+evaluation of CE programs in the context of global
+health [5].  Amongst existing guidelines, the Good
+Participatory Practice (GPP) Guidelines, developed
+by AIDS Vaccine Advocacy Coalition (AVAC) and
+the Joint United Nations Programme on HIV/AIDS
+(UNAIDS),  provide guidance on engaging stake-
+holders in the design and implementation of clinical
+trials [16].  This document outlines six guiding prin-
+ciples (respect, mutual understanding, integrity,
+transparency, accountability, and community stake-
+holder autonomy) and various practices that could
+be used to develop beneficial relationships and en-
+gagement between trials and stakeholders [16].  Since
+being developed for HIV prevention trials in 2011,
+the GPP guidelines have been adapted and applied
+to engage stakeholders in various other research
+areas including tuberculosis and emerging pathogens
+[16–19].  While stakeholder engagement has become
+acknowledged as key to improving uptake and effi-
+cacy of trials, there has been limited documented
+evaluation on the actual implementation of the
+framework outlined by the GPP [17, 20–24].
+Further to this limitation, Lavery et al. (2010) argue
+that there is little evidence on what makes CE effective
+in different contexts [14].  This highlights the gap in
+current discourse around CE and health interventions.
+Existing research on effective CE has revolved around
+Page 3
+Dada et al. BMC Public Health (2019) 19:1665  Page 3 of 13
+participation in biomedical research such as vaccine tri-
+als. Much of this research centered on the social rela-
+tionships influencing individual involvement [25] and
+the ethical implications of CE in biomedical research.
+For example, a study in Kenya found that CE enabled re-
+searchers to take opinions and concerns of participants
+into account at an early stage to adapt messages and
+identify effective methods to address any ethical issues
+that might emerge [26]. There is an opportunity to build
+on such work to use CE in the development of health in-
+terventions or clinical trials.
+Ebola in West Africa
+Between 2013 and 2016, multiple countries in West Africa
+experienced outbreaks of EVD [27]. Beginning in Guinea,
+the virus spread to Sierra Leone in May 2014 through
+human-to-human transmission and continued for a sus-
+tained period [28]. Three months into the EVD outbreak,
+the World Health Organization (WHO) declared the EVD
+outbreak a Public Health Emergency of International Con-
+cern [27]. As of March 27th 2016, Sierra Leone experienced
+14,124 confirmed, probable, and suspected cases and 3955
+deaths due to EVD [29]. Interventions responding to the
+outbreak focused on containment strategies such as case
+isolation, contact-tracing and quarantine, and the training
+and implementation of sanitary funeral practices [30].
+These non-pharmaceutical methods were emphasized be-
+cause of the lack of experimental vaccines and treatment
+options at the beginning of the epidemic [31]. Two add-
+itional preventive interventions were also relevant in the
+2014 Ebola response: infection control in health care set-
+tings and avoiding contact with bush meat and bats [32].
+What was notable about the Ebola response in West
+Africa was the delayed response in effectively addressing
+the outbreak. Initial responses were lacking and may have
+been impeded by political or structural factors [33]. Other
+factors that served as barriers in controlling the outbreak
+and implementing interventions, included: mobile popula-
+tions, lack of trust in governments, weak health systems
+and poor coordination [34]. These challenges were exacer-
+bated by “inadequate communication strategy, misconcep-
+tions around the disease, ignorance of local culture and
+customs, and lack of involvement of local communities in
+the control strategies” which led to further distrust and re-
+luctance from the communities [ [35], p.1]. For example,
+the association between some funeral rites and risk of EVD
+transmission [36] was poorly addressed until responders
+considered the cultural and social norms behind these be-
+haviors and consulted local community members to imple-
+ment safe and culturally respectful burial practices [1, 37].
+In the early months of responding to the Ebola out-
+break, the focus of many communication strategies was
+“sensitization, emphasizing that local populations lacked
+knowledge on Ebola and that ‘traditional practices’ 
+spread disease” [ [38], p.2]. This focus on correcting mis-
+information did not engage the community in the
+process as an equal party. Other critics, explained that
+health messages failed to include practical information
+communities needed answered in real time such as
+“How do I manage a family of children, including infants
+and toddlers, in quarantine?” [39]. Hence, involving local
+communities and empowering community-based man-
+agement were pivotal to containing EVD [39]. Laverack
+and Manoncourt emphasized this importance and found
+that intergovernmental agencies and non-governmental
+organizations (NGOs) learned from earlier mistakes and
+made an effort to increase CE later on in the response.
+These authors also argued for a reciprocal engagement
+approach that utilized bottom up communication strat-
+egies and incorporated local involvement [40].
+One aspect of the West Africa Ebola response saw the
+fast-tracked implementation of trials to test candidate
+vaccines. Amongst these, the EBOVAC-Salone trial was
+set up with a CE approach, during the ongoing outbreak
+response, raising many challenges around conducting re-
+search in an emergency setting [41]. This paper will ex-
+plore the CE approach implemented in two vaccine
+trials during and post the West Africa Ebola epidemic.
+The perspective taken will focus not on the ethical im-
+plications of CE, but rather on how it has been imple-
+mented in two case settings.
+Ebola vaccine trials in Sierra Leone
+The EBOVAC-Salone vaccine trial was implemented to
+test a candidate Ebola vaccine in 2015, whilst the Ebola
+outbreak was still ongoing in West Africa. The trial was
+led by EBOVAC1 and supported by EBODAC. This trial
+studied a two-dose prime-boost vaccine developed by
+Janssen Pharmaceuticals and Bavarian Nordic in the
+Kambia District, one of the last districts in Sierra Leone
+reporting Ebola cases [42]. When setting up the trial, re-
+searchers considered the importance of understanding the
+socio-cultural context to build trust and engage with com-
+munity members [38].  Because the Ebola outbreak was
+ongoing while these trials were developed, the climate,
+fear, and stigma around the disease and potential vaccine
+were a significant concern. Acceptance of the vaccine,
+which would be necessary for the clinical trials’ operation,
+could be influenced by multiple factors including: the so-
+cial and cultural context of the population, perceptions of
+vaccine efficacy or safety, and trust or distrust in national
+and international authorities [43–45]. In the setting of the
+West Africa Ebola outbreak, resistance to outbreak re-
+sponse was not uncommon with reported cases of vio-
+lence against health care workers [46, 47] and resistance
+to the ring vaccination trial in the area of Macenta in
+Guinea [48]. The two-dose nature of the prime-boost vac-
+cine being studied added another layer of complexity to
+Page 4
+Dada et al. BMC Public Health (2019) 19:1665  Page 4 of 13
+the challenges behind vaccine acceptance and compliance
+by necessitating every participant to receive the right vac-
+cine at the right time. To address these challenges, the
+EBODAC project focused on communications, technology
+and community engagement to support the EBOVAC-
+Salone and later PREVAC clinical trials in Sierra Leone.
+The subsequent community engagement program
+implemented in the EBOVAC-Salone trials was
+shaped by the importance of understanding and tai-
+loring communications to the local context [49] as
+well as previous participatory research techniques
+used in HIV prevention trials in Tanzania [50].  The
+use of a “community liaison system” [50] that con-
+nected the trial to the community was integral to the
+EBODAC/EBOVAC community engagement structure
+as demonstrated by Fig. 1.
+In this structure, the trial recruited two local teams: a
+community liaison team (CLT) and a social science team
+(SST). The CLT, comprised of nine locally recruited staff
+employed by the University of Sierra Leone’s College of
+Medicine and Allied Health Sciences (CoHMAS) and
+two LSHTM supervisors. The team received background
+training on clinical trials and were responsible for imple-
+menting the CE strategy, monitoring rumors and con-
+cerns circulating in the community, and providing
+information about the trial at national and international
+levels. The SST was comprised of four locally recruited
+research assistants, a data analyst, a transcriptionist, and
+an LSHTM social scientist. This team explored commu-
+nity and participant perceptions and experiences of the
+study and the socio-cultural context. For example, in in-
+vestigating trial participants’ reasons for joining the trial,
+the SST found community members were motivated by 
+altruism, curiosity, access to health and the vaccine, and
+expectations of some benefit [51].  The SST conducted
+this ethnographic work independently from the recruit-
+ment efforts of the CLT, but these two teams informed
+each other as well as the clinical team to address ru-
+mours and misconceptions circulating in the community
+[38, 51]. The CLT was specifically trained as a connect-
+ing mechanism between the community and the trial.
+Notably, the SST was trained to be independent from
+the trial. The reality of how this was perceived will be
+discussed further.
+The same CLT/SST approach was adopted in the PRE-
+VAC trial in Mambolo, Sierra Leone which started
+approximately two and a half years after the EBOVAC-
+Salone trial in May 2018. The PREVAC trial examines
+three different experimental vaccines which are com-
+pared with a placebo [52].
+Methods
+We conducted a qualitative study to explore the experi-
+ences of conducting CE for the two vaccine trials that
+were set up during and after the 2014–2016 Ebola out-
+break in Sierra Leone. This research used two case stud-
+ies (i.e.,  the EBOVAC-Salone trial in Kambia and the
+PREVAC trial in Mambolo) to compare strategies and
+identify barriers and facilitators related to CE. Data were
+collected in Sierra Leone in May 2018. This was towards
+the end of the EBOVAC-Salone trial and in the first few
+weeks of the PREVAC trial.
+One researcher (SD) conducted in depth, semi-
+structured interviews (IDIs) with EBOVAC-Salone and
+PREVAC CLT and SST members (15 participants). Par-
+ticipants were recruited using convenience sampling,
+Fig. 1 Community Engagement Structure . The trial’s community engagement structure, highlighting the interactions between the different
+parties. Source: EBOVAC trial community engagement diagram – Tom Mooney
+Page 5
+Dada et al. BMC Public Health (2019) 19:1665  Page 5 of 13
+based on team members’  availability. Interviews were
+conducted in English as all CLT and SST members were
+English-speakers. IDIs focused on the individual’s role in
+the trial and/or Ebola epidemic as well as their under-
+standing of the CE model being used. Specific interview
+questions included: “What is your role on the trial?
+What are the key issues that arise during engagement?
+How do you think the community engagement you do
+addresses these concerns? Describe your experience
+working with the other trial teams.” Some of the inter-
+viewees were involved in both trials and were therefore
+able to compare their experiences of the two.
+In parallel to the IDIs, one researcher (SD) conducted
+focus groups discussions (FGD) with community mem-
+bers living near to each trial site (2 FGDs) and with local
+leaders in Kambia (1 FGD). An FGD for local leaders in
+Mambolo was not conducted because of the unavailability
+of potential participants. FGDs were conducted with com-
+munity members and local leaders due to time constraints
+and based on the advice from the SST that FGDs would
+be more conducive to free-flowing conversations in the
+community, especially when approached by a foreigner.
+FGD participants were recruited through a purposive sam-
+pling method; a local research assistant reached out to po-
+tential volunteers based on conversations and referrals
+from the SST. The local research assistant supported
+FGDs when language translation was necessary. These
+FGDs focused on participants’ experiences with the Ebola
+epidemic and with information activities around the trials.
+Specific questions included: “How did you receive infor-
+mation about the trial? Tell me about your experiences
+with the people delivering this information? What sugges-
+tions would you make to improve the community engage-
+ment around the trial?” Discussions and interviews were
+audio recorded with the permission of the participants
+and notes were taken by the interviewer. Interviews were
+transcribed (and translated where necessary).  All inter-
+views were anonymized to ensure confidentiality. After
+the first few interviews, themes emerging through initial
+thematic analysis were incorporated into the interview
+guide and explored in subsequent interviews. For example,
+when multiple interviews described the importance of ‘re-
+spect’ in the community engagement activities, the inter-
+viewer incorporated questions about how the trial teams
+demonstrated respect to the community in subsequent in-
+terviews and focus groups. IDI and FGD interview guides
+are provided in Additional file 1.
+Data analysis
+Interview transcripts were imported into NVivo 12 Soft-
+ware. Another researcher conducted an overall thematic
+analysis of the data. As the data were analyzed, a work-
+ing analytical framework emerged (the Four R’s) and was
+then used to identify similarities and differences as well 
+as possible relationships in the entire data set [53]. Given
+staff time constraints, double coding of all interviews
+was not possible. However, one interview was double
+coded by another researcher with experience in qualita-
+tive research in Sierra Leone for validation of identified
+themes. This is an acknowledged limitation of this study.
+While a comparative analysis was not formally used,
+similar findings that align or do not align have been pre-
+sented in the results. The results from this study are pre-
+sented in two parts: how the community engagement
+program functioned (the roles of the teams) and why it
+functioned well (the Four R’s).
+Ethical considerations
+Ethics approvals were obtained from the Sierra Leone
+Ethics and Scientific Review Committee and the London
+School of Hygiene and Tropical Medicine (LSHTM). All
+study participants were volunteers, received participant
+project information sheets, provided written consent and
+agreed to have their anonymized quotations included in
+publication. FGD participants received a small travel al-
+lowance of 20,000 Sierra Leonean Leones (approximately
+£2) and light refreshments. This was in line with ethical
+approaches within the trials and the Sierra Leone re-
+search community.
+Findings are presented as quotes or paraphrased de-
+scriptions using the following notation: CLTxxx and
+SSTxxx refer to IDI participants with an anonymized
+identification number while FGDxxx is attributed to a
+particular focus group but not a specific participant.
+Results
+The findings of this study provide insight on the delivery
+of a community engagement programme primarily from
+the perspective of the individuals delivering it. The CLT
+felt their role was to explain the trial and its importance
+to the community, recruit participants and to address
+any rumours or misconceptions the community had
+about the trial (CLT004). They did this through a variety
+of activities including one-to-one stakeholder meetings,
+group area meetings, public performances and radio jin-
+gles (CLT002, CLT009, CLT010).  The SST served two
+functions. The first was to support the trial through
+power mapping to understand the community’s leader-
+ship structure, community household mapping to collate
+geographic locations, and ethnographic research to ex-
+plore rumours and concerns circulating in the commu-
+nity of interest (SST001, SST002, SST004). The second
+was to produce independent research on the social as-
+pects of the trial to understand what factors led people
+to participate in the trial and their experiences as partici-
+pants (SST001). Finally, the Participant Advisory Group
+(PAG) was a group of trial participants that served in an
+auxiliary capacity to the trial. They held their own
+Page 6
+Dada et al. BMC Public Health (2019) 19:1665  Page 6 of 13
+meetings to discuss grievances and concerns and re-
+ported their priorities for action back to the trial
+(CLT004).
+SST and CLT members that were interviewed brought
+up a number of challenges faced in recruiting partici-
+pants for the trial. It was often difficult to locate people
+because they did not know their addresses or because
+they had businesses or farms that kept them out of the
+house all day. Due to the community members’  busy
+schedules, the CLT would conduct their house-to-house
+visits early in the morning or late in the evenings and
+would ask organization leaders to book times that
+worked best for their members for area meetings
+(CLT002, CLT003, CLT004, CLT007).  From the per-
+spective of the CLT, many in the community were un-
+willing to listen to anything relating to Ebola because of
+residual fear of the disease based on their community’s
+recent experiences with it (CLT001) or could be unwill-
+ing to attend meetings or discuss the trial because “peo-
+ple’s minds are very fixed from what they told them
+[during the outbreak]” (CLT008). This perception of an
+unwillingness to learn about the experimental vaccine
+was verified during FGDs in Mambolo and Kambia
+(FGD001, FGD002). Local community leaders in Kambia
+explained that they did not trust this experimental vac-
+cine when they first heard of it because of the experi-
+ences they had during the outbreak where they were
+also told there was no medicine to cure Ebola (FGD002).
+These were some of the sources behind the hesitancies
+that the SST and CLT would need to address.
+Interestingly, both teams described themselves as a
+bridge between the trial and the community. This could
+be because both teams felt they were a mechanism that
+ensured that the voices of the community were raised
+and heard by the clinical trial team. While both teams
+viewed themselves in this similar capacity, they carried
+out this role in different ways. While the CE program
+structure had a few mechanisms for feedback (Fig. 1),
+CLT and SST members typically described a flow of in-
+formation that is represented in Fig. 2. 
+This section describes four characteristics of the CE
+program and the dynamic presented above that were un-
+covered throughout the interviews.
+The Four R’s
+Trial team members expressed positive impressions of
+their work in the community, citing the high number of
+trial participants as evidence of their success. When
+asked about how the CE work of the trial had been suc-
+cessful, both individual team members and FGD partici-
+pants pointed to the importance of trust. As one CLT
+member said:
+If people do not have confidence in you, […] you will
+not succeed. Yes, the first thing is confidence building –
+trust. People need to have trust in you that presented
+the message. If they do not have trust in you, even
+when you present the message, they will sit down and
+listen to you, [but] these people do not accept the
+messaging.. . (CLT008).
+Throughout the interviews, four concepts emerged re-
+lating to the activities of both the CLT and SST: reci-
+procity, relatability, relationships, and respect. These
+were not formal principles that staff were trained on, but
+they helped establish the trust between the community
+and the trial staff through their delivery and influenced
+the success of the CE.
+Reciprocity
+There were several ways through which this CE model
+established a reciprocity that created effective engage-
+ment. The first was the CLT-SST feedback loop that
+allowed for any issues in the community to be both
+heard and addressed. Another avenue that created this
+reciprocal relationship was the exit interviews conducted
+by SST members at the clinic. These conversations, that
+occurred at the end of a participants’ visit to the clinic,
+allowed the SST to bring information from the trial par-
+ticipants back to the trial – both the CLT and clinic
+Fig. 2 “Bridges of Information”. The flow of information in the community engagement program of the vaccine trial based on descriptions from
+interview participants
+Page 7
+Dada et al. BMC Public Health (2019) 19:1665  Page 7 of 13
+staff. This forum was also appreciated by the community
+members:
+One thing I love about them whenever you go there for
+the marklate [vaccine] immediately after taking the
+marklate [vaccine] they have an interview room where
+they will take you and whatever you say there is secret.
+They give you confidence to ask questions …
+(FGD002).
+This opportunity to provide confidential feedback, in-
+cluding potentially negative feedback or criticism, on
+their experience built trust among the community mem-
+bers towards the trial. This sentiment also echoed an
+SST member’s comments on how their team provided
+an aspect of care – an opportunity for feedback and fol-
+low up – typically missing from the hospitals and health
+care system in Sierra Leone (SST001). Trial participants
+were also able to discuss and provide feedback on the
+trial through the established PAG. This group contrib-
+uted to the trial by bringing participants together to dis-
+cuss with each other their grievances. This group was
+completely independent of the trial, with the ability to
+bring certain issues to the trial team’s attention.
+Reciprocity could also be seen in the format of area
+meetings held by the CLT. At these meetings, commu-
+nity members had an opportunity to ask their own ques-
+tions after the trial staff presented their information. In
+addition to answering questions, CLT members would
+interact with meeting attendees to keep them engaged
+and interested. A CLT member explained:
+We ask them questions – how are they getting the
+message. We tell them ‘ask us questions.’ If they don’t
+ask us we say okay we will ask you. We interact.. . We
+will ask them the questions.. . How many marklates
+[vaccines] are they giving you? They tell us. If they
+make a mistake we correct them. (CLT003).
+By consulting local authorities, the trial teams were
+able to improve the trial procedures to make them more
+acceptable to participants. One challenge they faced in
+May 2018 was how the holy fasting month of Ramadan
+would affect trial participation. A CLT member ex-
+plained that they approached this challenge by reaching
+out to the religious leaders for advice on what they
+thought the appropriate response to questions about
+what the religion says about observing the month of
+Ramadan and participating in a trial that involves injec-
+tions or drawing blood (CLT010). This inclusion demon-
+strated both a respect (another one of the four
+principles) for local leaders and beliefs as well as reci-
+procity as the community contributed directly to the
+functioning of the trial. The overlap between reciprocity 
+and respect was also clear in the practice of providing
+refreshments during meetings. An SST member that ob-
+served area meetings in both trials described the import-
+ance of these:
+This model of providing the refreshment for people
+plays a very big role because we have this type of
+reciprocity. If I give you, you should be able to give me
+in return. Whichever way - I am sacrificing my time, I
+am sacrificing my business, I am sacrificing my other
+economic activities to come and listen to you to help to
+promote your agenda. What do I stand to gain in
+return? (SST001).
+This concept of exchange is not unusual or unex-
+pected [51], but it could be a delicate matter to apply in
+a way that does not coerce or bribe research partici-
+pants. This CE approach could be adopted in future tri-
+als to support finding the balance between these issues.
+Relatability
+Another theme that became apparent in interviews was
+the relatability of the trial team members with the com-
+munity members. Most of the EBOVAC-Salone and
+PREVAC CLT and SST members were recruited locally.
+The CLT and SST staff could relate to their target audi-
+ences as they shared the same cultural and social norms,
+appearance, language, and terminology. The first impres-
+sion from appearance was agreed to be an important
+first step in being able to engage with the community. A
+CLT member explained the importance in dressing
+modestly because:
+If you dress as if you are the president of this country,
+some of these stakeholders will not even talk to you.
+They will say that these are the people that are eating
+the country’s money so we see no reason for us to listen
+to them. .. That’s why you need to put yourself in that
+moderate manner so that maybe when you go there
+they will think that all of us, we are equal. (CLT004).
+Another form of relatability comes from using local in-
+stitutions and infrastructures for the project. For ex-
+ample, the use of a local town crier demonstrated
+respect for that institution while reaching community
+members in a way to which they were accustomed. In
+using these existing systems of communication, it was
+vital to consider language. A common language (Krio,
+Temne, Susu or Fula depending on the setting) not only
+allowed for conversations to take place, but also facili-
+tated a better understanding, comfort, and trust between
+the two parties (CLT004).
+In addition to speaking the same language, CLT and
+SST members needed to account for some of the scientific
+Page 8
+Dada et al. BMC Public Health (2019) 19:1665  Page 8 of 13
+terminology used to explain the trial. An SST member
+highlighted the need to break down complicated or scien-
+tific terminology into relatable terms (SST001). One ex-
+ample of this that was observed throughout the interviews
+was the use of the word “marklate” instead of “vaccine” or
+“injection.” Between 1988 and 1990, there was a national
+campaign to eradicate polio from the country [54]. This
+large-scale campaign and the “polio marklate” were relat-
+able experiences for the community members. Because
+the people were more familiar with that word, it became a
+term frequently used by both trial staff and community
+members to refer to the experimental Ebola vaccines. An-
+other example was that there was no local term for men-
+ingitis. Instead, a CLT member said they would explain
+the condition and its symptoms without calling it ‘menin-
+gitis’ as this was not a familiar word (CLT003). Employing
+appropriate language and terminology could be a consid-
+erable challenge when discussing nuances in a ‘naïve com-
+munity’ with no experience in biomedical research.
+Relevant examples and simple metaphors were another
+way the CLT members related to community members
+in order to convey their message. When community
+members questioned the extensive screenings required
+before administering the vaccine, CLT members ex-
+plained how a doctor in a hospital would run tests to
+confirm diagnosis if they were ill because this was an ex-
+perience with which they were familiar (CLT005). A vac-
+cine trial was a new experience in the community and so
+the CLT needed to explain that they were testing the
+vaccine being administered. A CLT member said they
+would mention existing vaccines that the community
+knew and would explain that these vaccines went
+through similar processes around the world before they
+could be dispensed in their own communities (CLT010).
+Focus group participants confirmed that the CLT mem-
+bers gave clear information with a relatable football meta-
+phor that they could understand (FGD002).  One SST
+member described the value of this strategy to justify why
+staff members were not taking the experimental vaccine:
+People want to hear not just explanations, but
+practical examples. That will force them to believe. For
+example, you set up the scenario of a footballer and a
+referee. In a football match, you cannot be referee and
+at the same time, play the match. What will happen if
+you play a foul that leads to a penalty kick – would
+you blow that whistle? Any time this kind of example
+is made, you will see people laugh. You will see them
+nodding their heads, nodding their heads in
+acknowledgement. (SST001).
+Finally, this relatable demeanor and language was
+complimented with visual aids. To respond to the con-
+cerns over blood sampling, the CLT brought the test 
+tubes used at the clinic to the area meetings. They filled
+a test tube with water and poured the tube’s contents
+into their hands to demonstrate the small volume that
+would be collected. In each FGD, participants recalled
+this display when asked about the type of information
+they received at area meetings.
+Relationships
+The next principle highlighted throughout the interviews
+was the emphasis on relationships in these communities.
+Both staff and community members expressed the value
+of family and friend relationships in Sierra Leone. Two
+CLT members explained their roles would not have been
+as effective had they been strangers to the local commu-
+nity because the fact that the people knew and trusted
+them was important in delivering their messages about
+the trial (CLT005, CLT003). This high value on relation-
+ships was why it was important for trial staff to be re-
+cruited locally. Local residents hired for CE work had
+already established both relationships and reputations
+within the community that primed them for effective
+trial message delivery. Multiple SST members agreed
+that local staff was important for the trial to succeed
+(SST001, SST004).
+An additional benefit of local staff was the connections
+they brought. A CLT member explained that their “rela-
+tionship between we the community liaison and the para-
+mount chief, the heads of different areas, is very cordial
+because most of the stakeholders, they are our parents”
+(CLT008). This was acknowledged by community mem-
+bers as well and given as one of the reasons they trusted
+them. In Mambolo, an FGD participant explained:
+Some of them are related to stakeholders here, some
+came from ruling houses, so as a matter of fact, there
+is that trust […] that confidence in them and like the
+previous speakers said, some of them are our former
+school pupils and some of them have attained higher
+education. So, with all of that, there is that confidence
+and trust to accept whatever information they brought
+us. (FGD001).
+This speaker mentioned the value of not only the CLT
+members’  relatives’  reputations but also their own.
+Growing up and interacting with the community
+throughout their lives gave them the credibility to
+approach their neighbors for the purpose of the trial.
+This idea was echoed in a Kambia FGD as well:
+We trust them because they are native born of Kambia
+and we know them. We know that they cannot take us
+somewhere where we will lose our lives... Everyone is
+related to each other and they cannot contribute to
+trouble for each other. Brothers and sisters always
+Page 9
+Dada et al. BMC Public Health (2019) 19:1665  Page 9 of 13
+bring good thing for each other. So, that is why once I
+see them, I am always ready to listen to them.
+(FGD002).
+This agreement featured another example of the
+strong sense of family and relationships in these com-
+munities that was apparent in observing community area
+meetings and FGD dynamics. This attitude and regard
+for others as “uncle, auntie, son, daughter” demonstrated
+both respect and a high regard for interpersonal rela-
+tionships. For example, community members referred to
+elders or local authorities as “ma” or “pa” and to younger
+people as their own children. As one CLT member said,
+“When the people see me, they build up confidence be-
+cause I am their son” (CLT008).
+Respect
+Respect is interwoven throughout the activities and exam-
+ples of the other three principles and is an underlying fac-
+tor in any engagement. The CLT and SST members
+needed to trust and respect the work of their colleagues.
+This was a common challenge in the beginning of the trial,
+with some SST members describing an initial tension be-
+tween the CLT, SST, and clinical teams. One SST member
+explained this tension as a result of providing feedback on
+aspects of the trial that could include the behaviors of trial
+staff such as an error made in the clinic or a confusing
+statement described at a community meeting (SST005).
+These comments on actions trial staff did or did not take
+could then be perceived as a personal attack (SST001,
+SST002).  Addressing this issue took time and patience;
+another SST member explained that more frequent train-
+ing sessions and checkpoints between the different teams
+mitigated the tension (SST003). The mutual respect that
+eventually developed at these meetings allowed the teams
+to move forward together.
+Trial team members stressed the importance of demon-
+strating respect to the community members in the areas they
+worked. A CLT member provided this scenario to illustrate
+the overlap between relationships, reputations, and respect:
+First of all, one thing about community people, if you
+are indigene of this place, make sure you have respect
+for people. You need to have respect… Now when you
+have respect, here is a village area, so when you greet
+somebody you do not call them by names, you call
+them my uncles, my auntie, my grandmother. With
+that respect, when they see you my son, my daughter,
+have this bucket go and find water for me. My son,
+please come and help me pound this rice. My son,
+today I have work in my farm, please go and help me.
+From that, people build up confidence in you. That
+you are a son or a daughter that have respect for
+them. (CLT008). 
+The CLT members believed they were respectful by
+answering the questions of community members and
+through greeting people in the typical custom with
+handshakes instead of handwaving from a distance
+(CLT009, CLT010).  Community members and local
+leaders agreed that these behaviors and how the staff
+carried themselves showed that the trial teams respected
+them. In one FGD, community members explained that
+a disrespectful person would not be accommodating and
+approachable, but the CLT and SST staff were always
+polite and encouraging (FGD002).  Another participant
+expressed an appreciation for the way trial team mem-
+bers were receptive to any comments they wanted to
+share and would respond in a respectful tone and man-
+ner (FGD002).
+In addition to this behavior at the area group meetings,
+community members felt the time trial team members
+would take to visit them at their own homes to answer
+questions demonstrated their respect (FGD003). Ensuring
+confidentiality in these one-on-one conversations became
+another way to show respect for the community members.
+When an SST member heard a rumor or concern that
+needed to be corrected, they only reported the area where
+the rumor was circulating rather than the individual who
+conveyed it (SST003). This respect for privacy encouraged
+community members and trial participants to continue to
+be open with their feedback or criticism of the trial when
+speaking with the SST.
+When asked if the community members respected the
+trial team members in return, there was a resounding
+unanimous agreement. When questioned why they
+respected the trial team members, one participant aptly
+reported:
+Because this is just like if you don’t want yourself to be
+slapped by someone, don’t slap anyone [laughing …].
+So if you respect somebody, somebody will respect you
+in return. They have already given us our own respect,
+why don’t we give them the same respect? (FGD002).
+Respecting the existing power hierarchies and struc-
+tures of the community was imperative for the program
+because of the high respect community members had
+for their local authorities and leaders. The CLT under-
+stood that it was crucial for important stakeholders to
+be actively involved in order for the rest of the commu-
+nity to be willing to listen (CLT008).  An SST member
+further explained that “the local authorities must not be
+seen to be sidelined. They must be seen to be taking the
+center stage, because our people impose high trust on
+these local authorities” (SST001).  This respect for local
+leaders also aided the trial when a key leader of Kambia
+became a trial participant. Community members in both
+Kambia and Mambolo cited this example as one of the
+Page 10
+Dada et al. BMC Public Health (2019) 19:1665  Page 10 of 13
+reasons they believed that the trial was not malicious.
+Seeing an individual of such high status and regard tak-
+ing the experimental vaccine had a noticeable influence
+on the perceptions of the trial.
+The trial team members exhibited their respect for the
+local leaders not only by reaching out to them first, but
+also by having them set the times and terms of their meet-
+ings. They also made sure to acknowledge the relevant
+customs and traditions in the community. One CLT
+member gave the example of bringing a small token to the
+chief as a sign of respect to him and to the local customs
+(CLT010). While this custom would be a sign of respect
+in this community, in some settings, it could also be mis-
+construed as a bribe. This is one example of a challenge in
+maintaining a balance between respecting customs and
+practicing appropriate research ethics.
+Discussion
+This research explored the application of a CE program
+in two Ebola vaccine trials in Sierra Leone, primarily
+through the perspectives of the people implementing it.
+While this study set out to find barriers and facilitators
+to such CE, it mainly found patterns in qualities that
+served as facilitators in this specific CE program. Similar
+to other biomedical research programs with CE compo-
+nents, this collaborative model delivered by the EBO-
+DAC/EBOVAC partnership allowed the trial to consider
+community perceptions and adapt its practices accord-
+ingly [4, 8, 15, 26, 50, 55].  While the EBOVAC-Salone
+and PREVAC trials were implemented in different time
+periods and geographic settings, participants felt the dis-
+tinguishing factor was that EBOVAC-Salone was one of
+the first clinical trials of its kind in the country, not that
+it was initiated during an ongoing outbreak.
+If CE is as pivotal to epidemic recovery, preparedness,
+and response as Wilkinson et al. [1] argue, it is useful
+that this study reveals four characteristics (reciprocity,
+relatability, relationships, and respect) that address com-
+plex social relations between trialists and community
+members. These findings are in line with the literature
+that point to relationships and respect as key aspects
+of a successful CE program. Analyzing the EBODAC/
+EBOVAC CE approach used in the EBOVAC-Salone
+and PREVAC trials in Sierra Leone has shown that
+these two principles, along with relatability and reci-
+procity, could influence the success of a CE program.
+Whilst these characteristics have been identified as
+important in other literature [7, 10, 12, 15, 16, 26,
+50],  this study has revealed the importance of using
+all four in conjunction. Additionally, this study con-
+sidered the implementation of the CE model in an
+outbreak and post-outbreak setting and found that
+both drew on the same four principles. 
+From the narrative of the participants, the inclusion of
+the independent SST and CLT served in different capacities
+as a bridge between the trial and the community. While this
+overlap in the perceived role of the two teams was uninten-
+tional, this bidirectional flow of information and conversa-
+tion was integral to reciprocity. The idea of a reciprocal link
+between a trial and a community is not a new one. Com-
+munity advisory boards as well as other participatory re-
+search models are common in biomedical research [26, 50]
+and are predicated on a principle of reciprocity by requiring
+a form of direct involvement from the community. For the
+trials examined in this study, the separation of the SST and
+CLT is what fostered an equal and reciprocal relationship;
+for example, by allowing for independent and confidential
+exit interviews conducted by the SST.
+To communicate effectively with the community, these
+teams used local languages, terminology, knowledge of so-
+cial norms, and examples to be relatable and easily under-
+stood by the community. This quality of relatability builds
+off of the principle of mutual understanding outlined by
+the GPP [16]. Additionally, the recruitment of staff from
+the local communities where the trial would be imple-
+mented influenced their work during the trial but was also
+influenced by existing power dynamics and structure.
+Some studies have described the challenges of avoiding an
+asymmetrical relationship of power between the commu-
+nity and the trial [7] or of understanding the distribution
+of power and the social hierarchical structure of a com-
+munity itself [10, 12]. Previous research has shown the im-
+portance of positive relationships on a community’s
+perception of biomedical research programs and how CE
+can be used to demonstrate respect and address public
+mistrust of biomedical research [7, 12, 15]. The relevance
+of power was also clear in the emphasis on respect. The
+SST and CLT had to respect such power structures, for
+example by communicating via local leaders, in order to
+be heard by or have access to the community. Previous lit-
+erature has found that demonstrating respect through CE
+has not only an ethical importance but also aids in the de-
+velopment of trust and encourages participation [7]. This
+is in line with the GPP highlighting respect as one of the
+guiding principles in stakeholder engagement [16].
+While these four concepts could aid in applying CE in
+biomedical research naïve communities, they also raise
+important considerations to be addressed. Though it was
+not explicit in the findings of this study, the high value
+of relationships in this CE program could be problem-
+atic. For example, understanding community ‘leadership’
+and power dynamics can pose challenges in the identifi-
+cation of and respect given to key ‘stakeholders’  in the
+community [38]. In the community of Kambia in Sierra
+Leone, it is notable that these power structures were not
+necessarily straightforward and it was imperative to
+understand these nuances in order to effectively engage
+Page 11
+Dada et al. BMC Public Health (2019) 19:1665  Page 11 of 13
+with the community [38]. There is some indication from
+this study that connections to family or previous rela-
+tionships with local leaders were influential to the teams’
+work and rapport with the community. It may be useful
+in the future to consider how this could then influence
+the dynamics of power, representation, and privileged
+access to staff or resources.
+These considerations can be further expanded to the use
+of CE in general. There is a great deal of momentum be-
+hind supporting CE in biomedical research, and in outbreak
+response settings as well. However, the unusual circum-
+stances and challenges of emergency settings must not be
+overlooked or generalized in attempting to fit a CE program
+to the response. Many in the field have already pondered
+questions such as: at what point do trialists engage the
+community and to what degree? How do we balance what
+may seem to be conflicting priorities of clinical care, bio-
+medical research, and open communication? How do we
+manage power and fairness in an emergency health setting
+that is inherently unfair? How does CE interact with exist-
+ing power imbalances or resource inequities? [16, 23, 56,
+57] These questions and challenges cannot be addressed
+with a ‘one size fits all’ model; further research is needed to
+look at the impact of CE that incorporates the Four R’s on
+the process, priorities and power of engagement.
+Limitations
+The scope, both in time and resources, of this study
+served as a limitation affecting both sample size and data
+collection. While data saturation was achieved among
+IDI participants (demonstrated by the repetition among
+responses), it could have been useful to speak to a wider
+audience of community members and trial participants
+to gain a better understanding of their perceptions of
+the trial and its CE activities. Additionally, it is possible
+that participant bias may have been present in some of
+this study’s participants’  responses given their roles as
+staff on the EBOVAC-Salone and PREVAC trials. Be-
+cause of their positions, participants may have been in-
+clined to answer questions in a more positive light.
+Another limitation not foreseen was the delay of the
+PREVAC trial. The trial launch was originally planned for
+early 2018 but did not actually roll out until just a few
+weeks before data collection began. This delay meant that
+CLT members and Mambolo community members did
+not have as much experience with the trial or messaging
+as was expected. Additionally, because individual inter-
+views were conducted in English, some nuance in re-
+sponses may have been lost that would have been
+differently expressed in a native tongue. Another limitation
+came from the phrasing of certain questions. Interview
+topic guides were reviewed with the assistance of the SST
+in Sierra Leone to check for technical words or phrases
+that would not be clear for interview participants. Despite 
+this, some interviews still had the occasional misunder-
+standing. In some instances, rephrasing a question or pro-
+viding examples of potential answers may have biased the
+response through unintentional leading of the participant.
+Future studies would benefit from testing the questions a
+priori and using local languages during interviews.
+Conclusion
+In conclusion, the CE approach delivered through the
+EBODAC/EBOVAC partnership depended on trust
+established between the teams and community members
+that was reciprocal, relatable, relational, and respectful.
+These are qualities that have been mentioned in the
+existing literature on CE, but not as one comprehensive
+framework that could foster trust and therefore effective
+engagement. Furthermore, the ‘Four Rs’  could also be
+further developed as a tool to benchmark effective com-
+munity engagement; to do so would require additional
+work to ensure the creation or adaptation of appropriate
+indicators for monitoring. While some of these findings
+may be significant to the setting in Sierra Leone and the
+Ebola vaccine trials or may be influenced by some of the
+limitations in this study, it is hoped that these Four R’s
+could facilitate CE in other settings and strengthen dis-
+ease preparedness activities. Furthermore, gaps in the lit-
+erature also call for more in-depth research to be
+conducted on effective models of CE for both global
+health emergency and disease preparedness settings.
+Supplementary information
+Supplementary information accompanies this paper at [URL: "https://doi.org/10.1186/s12889-019-7978-4"] https://doi.org/10.
+ 1186/s12889-019-7978-4.
+Additional file 1. IDI and FGD interview guides.
+Abbreviations
+CE: Community engagement; CLT: Community liaison team; EBODAC: Ebola
+Vaccine Deployment, Acceptance and Compliance; EVD: Ebola virus disease;
+FGD: Focus group discussion; IDI: In-depth interview; IMI: Innovative
+Medicines Initiative; PAG: Participant advisory group; SST: Social science team
+Acknowledgements
+The authors would like to acknowledge the critical translation and
+transcription assistance of Maseray Fofanah and Gibril Gottor. Additionally,
+the authors would like to thank Thomas Mooney for his instrumental help
+and guidance as well as Richard Barke and Samantha Vanderslott for their
+helpful review and comments on the manuscript. Finally, this study would
+not have been possible without the collaboration and support of the
+EBOVAC-Salone and PREVAC trial teams and staff as well as the community
+members in Kambia and Mambolo, Sierra Leone. The authors would also like
+to acknowledge the partners of the EBOVAC/EBODAC collaboration: Heidi
+Larson, Deborah Watson-Jones, Brian Greenwood, and David Ishola. This pro-
+ject was conducted to contribute to Objective 6 of the African Coalition for
+Epidemic Research, Response, and Training (ALERRT) consortium by generat-
+ing evidence on engagement processes in different communities in Sierra
+Leone.
+Authors’ contribution
+All authors (SD, GM, AM, SL) were involved in the development and
+conception of this paper. SD was responsible for collecting and analyzing
+Page 12
+Dada et al. BMC Public Health (2019) 19:1665  Page 12 of 13
+data and drafting this manuscript. All authors (SD, GM, AM, SL) were involved
+in revising and editing the draft manuscript. All authors (SD, GM, AM, SL)
+read and approved the final manuscript.
+Funding
+This project was funded by the Royal Veterinary College Student Research
+Project fund and the London School of Hygiene and Tropical Medicine
+Travel Grant scheme. This project has also received funding for publication
+from the ALERRT consortium. ALERRT is part of the EDCTP2 programme
+supported by the European Union under grant agreement RIA2016E-1612.
+ALERRT is also supported by the United Kingdom National Institute for
+Health Research.
+The EBOVAC and EBODAC projects have received funding from the
+Innovative Medicines Initiative 2 Joint Undertaking under grant agreement
+No 115854. This Joint Undertaking receives support from the European
+Union’s Horizon 2020 research and innovation programme and the
+European Federation of Pharmaceutical Industries and Association.
+The aforementioned funders had no role in study design, data collection,
+analysis, interpretation, or writing of this study.
+Availability of data and materials
+In order to protect the privacy of research participants, the raw qualitative
+data for this project will not be publicly available.
+Ethics approval and consent to participate
+This study protocol obtained ethics approval from the local Office of the
+Sierra Leone Ethics and Scientific Review Committee as well as of the
+London School of Hygiene and Tropical Medicine. All participants for the
+study were volunteers and received participant project information sheets.
+Participants provided written consent or their thumb-print along with an im-
+partial witness’s signature. All interviews have been anonymized.
+Consent for publication
+Participants gave consent for quotes to be included in this report.
+Competing interests
+The authors declare that they have no competing interests.
+Received: 2 July 2019 Accepted: 20 November 2019
+References
+1.  Wilkinson A, Parker M, Martineau F, Leach M. Engaging ‘communities’:
+anthropological insights from the west African Ebola epidemic. Philos Trans
+R Soc B. 2017;372(1721):20160305.
+2.  Ahmed SM, Palermo A-GS. Community engagement in research: frameworks
+for education and peer review. Am J Public Health. 2010;100(8):1380–7.
+3.  Dickert N, Sugarman J. Ethical goals of community consultation in research.
+Am J Public Health. 2005;95(7):1123–7.
+4.  Aggett S. Turning the gaze: challenges of involving biomedical researchers
+in community engagement with research in Patan, Nepal. Crit Public Health.
+2018;28(3):306–17.
+5.  MacQueen KM, Bhan A, Frohlich J, Holzer J. Sugarman J, the ethics working
+group of the HIVPTN. Eval Community Engage Global Health Res. 2015;16:44.
+6.  Tindana PO, Singh JA, Tracy CS, Upshur REG, Daar AS, Singer PA, et al.
+Grand challenges in Global Health: community engagement in research in
+developing countries. PLoS Med. 2007;4(9):e273.
+7.  Holzer JK, Ellis L, Merritt MW. Why we need community engagement in
+medical research. J Investig Med. 2014;62(6):851–5.
+8.  Moreno-John G, Gachie A, Fleming CM, Napoles-Springer A, Mutran E,
+Manson SM, et al. Ethnic minority older adults participating in clinical
+research: developing trust. J Aging Health. 2004;16(5 Suppl):93s–123s.
+9.  Attree P, French B, Milton B, Povall S, Whitehead M, Popay J. The experience
+of community engagement for individuals: a rapid review of evidence.
+Health Soc Care Community. 2011;19(3):250–60.
+10. McCoy DC, Hall JA, Ridge M. A systematic review of the literature for
+evidence on health facility committees in low- and middle-income
+countries. Health Policy Plan. 2012;27(6):449–66.
+11. Fregonese F. Community involvement in biomedical research conducted in
+the global health context; what can be done to make it really matter? BMC
+Med Ethics. 2018;19(Suppl 1):44. 
+12. Yarborough M, Edwards K, Espinoza P, Geller G, Sarwal A, Sharp R, et al.
+Relationships hold the key to trustworthy and productive translational
+science: recommendations for expanding community engagement in
+biomedical research. Clin Trans Sci. 2013;6(4):310–3.
+13. Marsh V, Kamuya D, Rowa Y, Gikonyo C, Molyneux S. Beginning community
+engagement at a busy biomedical research programme: Experiences from
+the KEMRI CGMRC-Wellcome Trust Research Programme, Kilifi, Kenya. Soc
+Sci Med (1982). 2008;67(5):721–33.
+14. Lavery JV, Tinadana PO, Scott TW, Harrington LC, Ramsey JM, Ytuarte-Nuñez
+C, et al. Towards a framework for community engagement in global health
+research. Trends Parasitol. 2010;26(6):279–83.
+15. Gikonyo C, Bejon P, Marsh V, Molyneux S. Taking social relationships
+seriously: Lessons learned from the informed consent practices of a vaccine
+trial on the Kenyan Coast. Soc Sci Med (1982). 2008;67(5):708–20.
+16. UNAIDS/AVAC. Good participatory practice: Guidelines for biomedical HIV
+prevention trials 2011. 2011.
+17. Kutywayo A, Yah CS, Naidoo NP, Malotana M, Dyani S, Mullick S. Implementing
+the good participatory practice guidelines in the girls achieve power trial in
+South Africa. SAGE Open. 2018;8(4):2158244018809149.
+18. CPTR. Good Participatory Practice Guidelines for TB Drug Trials. Critical Path
+to TB Drug Regimens 2012. [URL: "https://www.cptrinitiative.org/resources/gpp-tb-resource-document/"] https://www.cptrinitiative.org/resources/gpp-tb-
+ resource-document/.
+19. Hankins C. Good participatory practice guidelines for trials of emerging (and
+re-emerging) pathogens that are likely to cause severe outbreaks in the
+near future and for which few or no medical countermeasures exist (GPP-
+EP). Geneva: World Health Organization; 2016.
+20. Hannah S, Warren M, Bass E. Global implementation of good participatory
+practice guidelines for biomedical HIV prevention research: charting
+progress and setting milestones. Retrovirology. 2012;9(2):P240.
+21. Baron D, Essien T, Pato S, Magongo M, Mbandazayo N, Scorgie F, et al.
+Collateral benefits: how the practical application of Good Participatory
+Practice can strengthen HIV research in sub-Saharan Africa. J Int AIDS Soc.
+2018;21(Suppl Suppl 7):e25175.
+22. Day S, Blumberg M, Vu T, Zhao Y, Rennie S, Tucker JD. Stakeholder
+engagement to inform HIV clinical trials: a systematic review of the
+evidence. J Int AIDS Soc. 2018;21 Suppl 7(Suppl Suppl 7):e25174.
+23. Newman PA, Rubincam C, Slack C, Essack Z, Chakrapani V, Chuang D-M,
+et al. Towards a science of community stakeholder engagement in
+biomedical HIV prevention trials: an embedded four-country case study.
+PLoS One. 2015;10(8):e0135937.
+24. Mack N, Kirkendale S, Omullo P, Odhiambo J, Ratlhagana M, Masaki M, et al.
+Implementing good participatory practice guidelines in the FEM-PrEP
+Preexposure Prophylaxis Trial for HIV Prevention among African Women: A
+focus on local stakeholder involvement. Open Access J Clin Trials. 2013;5:127.
+25. Fairhead J, Leach M, Small M. Public engagement with science? Local
+understandings of a vaccine trial in the GAMBIA. J Biosoc Sci. 2006;38(1):103–16.
+26. Marsh VM, Kamuya DM, Mlamba AM, Williams TN, Molyneux SS. Experiences
+with community engagement and informed consent in a genetic cohort
+study of severe childhood diseases in Kenya. BMC Med Ethics. 2010;11(1):13.
+27. Statement on the 1st meeting of the IHR Emergency Committee on the 2014
+Ebola outbreak in West Africa: World Health Organization; 2014 [Available from:
+[URL: "http://www.who.int/mediacentre/news/statements/2014/ebola-20140808/en/"] http://www.who.int/mediacentre/news/statements/2014/ebola-20140808/en/.
+28. Gire SK, Goba A, Andersen KG, Sealfon RSG, Park DJ, Kanneh L, et al.
+Genomic surveillance elucidates Ebola virus origin and transmission during
+the 2014 outbreak. Science. 2014;345(6202):1369–72.
+29. Ebola Situation Report - 30 March 2016: World Health Organization; 2016
+[Available from: [URL: "http://apps.who.int/ebola/current-situation/ebola-situation-report-30-march-2016"] http://apps.who.int/ebola/current-situation/ebola-situation-
+ report-30-march-2016.
+30. Pandey A, Atkins KE, Medlock J, Wenzel N, Townsend JP, Childs JE, et al.
+Strategies for containing Ebola in West Africa. Science. 2014;346(6212):991.
+31. Galvani AP, Ndeffo-Mbah ML, Wenzel N, Childs JE. Ebola vaccination: if not
+now, when? Ann Intern Med. 2014;161(10):749–50.
+32. Frieden TR, Damon I, Bell BP, Kenyon T, Nichol S. Ebola 2014 — new challenges,
+new global response and responsibility. N Engl J Med. 2014;371(13):1177–80.
+33. Kamradt-Scott A. WHO’s to blame? The World Health Organization and the
+2014 Ebola outbreak in West Africa. Third World Q. 2016;37(3):401–18.
+34. Coltart CEM, Lindsey B, Ghinai I, Johnson AM, Heymann DL. The Ebola outbreak,
+2013–2016: old lessons for new epidemics. Philos Trans R Soc B. 2017;372:1721.
+35. Thiam S, Delamou A, Camara S, Carter J, Lama EK, Ndiaye B, et al. Challenges in
+controlling the Ebola outbreak in two prefectures in Guinea: why did
+communities continue to resist? Pan Afr Med J. 2015;22(Suppl 1):22.
+Page 13
+Dada et al. BMC Public Health (2019) 19:1665  Page 13 of 13
+36. Tiffany A, Dalziel BD, Kagume Njenge H, Johnson G, Nugba Ballah R, James
+D, et al. Estimating the number of secondary Ebola cases resulting from an
+unsafe burial and risk factors for transmission during the West Africa Ebola
+epidemic. PLoS Negl Trop Dis. 2017;11(6):e0005491.
+37. Fang LQ, Yang Y, Jiang JF, Yao HW, Kargbo D, Li XL, et al. Transmission
+dynamics of Ebola virus disease and intervention effectiveness in Sierra
+Leone. Proc Natl Acad Sci U S A. 2016;113(16):4488–93.
+38. Enria L, Lees S, Smout E, Mooney T, Tengbeh AF, Leigh B, et al. Power,
+fairness and trust: understanding and engaging with vaccine trial
+participants and communities in the setting up the EBOVAC-Salone vaccine
+trial in Sierra Leone. BMC Public Health. 2016;16:1140.
+39. Abramowitz SA, McLean KE, McKune SL, Bardosh KL, Fallah M, Monger J,
+et al. Community-centered responses to Ebola in urban Liberia: the view
+from below. PLoS Negl Trop Dis. 2015;9(4):e0003706.
+40. Laverack G, Manoncourt E. Key experiences of community engagement
+and social mobilization in the Ebola response. Glob Health Promot.
+2015;23(1):79–82.
+41. Mooney T, Smout E, Leigh B, Greenwood B, Enria L, Ishola D, et al. EBOVAC-
+Salone: Lessons learned from implementing an Ebola vaccine trial in an
+Ebola-affected country. Clin Trials (London, England). 2018;15(5):436
+1740774518780678.
+42. Shukarev G, Callendret B, Luhn K, Douoguih M. A two-dose heterologous
+prime-boost vaccine regimen eliciting sustained immune responses to
+Ebola Zaire could support a preventive strategy for future outbreaks.
+Human Vaccin Immun. 2017;13(2):266–70.
+43. Larson HJ, Cooper LZ, Eskola J, Katz SL, Ratzan S. Addressing the vaccine
+confidence gap. Lancet. 2011;378(9790):526–35.
+44. Larson HJ, Jarrett C, Eckersberger E, Smith DMD, Paterson P. Understanding vaccine
+hesitancy around vaccines and vaccination from a global perspective: a systematic
+review of published literature, 2007–2012. Vaccine. 2014;32(19):2150–9.
+45. Larson HJ. Negotiating vaccine acceptance in an era of reluctance. Human
+Vaccin Immun. 2013;9(8):1779–81.
+46. Lancet T. Ebola in West Africa: gaining community trust and confidence.
+Lancet. 2014;383(9933):1946.
+47. Karamouzian M, Hategekimana C. Ebola treatment and prevention are not
+the only battles: understanding Ebola-related fear and stigma. Int J Health
+Policy Manag. 2014;4(1):55–6.
+48. Gsell P-S, Camacho A, Kucharski AJ, Watson CH, Bagayoko A, Nadlaou SD,
+et al. Ring vaccination with rVSV-ZEBOV under expanded access in response
+to an outbreak of Ebola virus disease in Guinea, 2016: an operational and
+vaccine safety report. Lancet Infect Dis. 2017;17(12):1276–84.
+49. Larson HJ, Ghinai I. Lessons from polio eradication. Nature. 2011;473:446.
+50. Shagi C, Vallely A, Kasindi S, Chiduo B, Desmond N, Soteli S, et al. A model for
+community representation and participation in HIV prevention trials among
+women who engage in transactional sex in Africa. AIDS Care. 2008;20(9):1039–49.
+51. Tengbeh AF, Enria L, Smout E, Mooney T, Callaghan M, Ishola D, et al. “We
+are the heroes because we are ready to die for this country”: Participants’
+decision-making and grounded ethics in an Ebola vaccine clinical trial. Soc
+Sci Med. 2018;203:35–42.
+52. NIAID. Ebola: New Trial Launched in West Africa to Evaluate Three
+Vaccination Strategies: NIH: National Institute of Allergy and Infectious
+Diseases; 2017 [Available from: [URL: "https://www.niaid.nih.gov/news-events/ebola-new-trial-launched-west-africa-evaluate-three-vaccination-strategies"] https://www.niaid.nih.gov/news-events/
+ ebola-new-trial-launched-west-africa-evaluate-three-vaccination-strategies.
+53. Gale NK, Heath G, Cameron E, Rashid S, Redwood S. Using the framework
+method for the analysis of qualitative data in multi-disciplinary health
+research. BMC Med Res Methodol. 2013;13(1):117.
+54. Jalloh M, Graeff J, Jalloh S. Marklate (‘Vaccinate’): The Communication Initiative Network.;
+2004 [Available from: [URL: "http://comminit.com/polio/content/marklate-vaccinate"] http://comminit.com/polio/content/marklate-vaccinate.
+55. MacQueen KM, Eley NT, Frick M, Hamilton C. Using theory of change
+frameworks to develop evaluation strategies for research engagement:
+results of a pre-pilot study. J Int AIDS Soc. 2018;21(Suppl 7):e25181.
+56. Okello G, Jones C, Bonareri M, Ndegwa SN, Mcharo C, Kengo J, et al.
+Challenges for consent and community engagement in the conduct of
+cluster randomized trial among school children in low income settings:
+experiences from Kenya. Trials. 2013;14(1):142.
+57. Molyneux S, Bull S. Consent and community engagement in diverse
+research contexts: reviewing and developing research and practice:
+participants in the community engagement and consent workshop, Kilifi,
+Kenya, march 2011. J Empir Res Human Res Ethics. 2013;8(4):1–18. 
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.

@@ -1,0 +1,1141 @@
+BOOKMARKS:
+Abstract
+Introduction
+Review
+  Technical aspects of minisatellite DNA fingerprinting methodology
+  The introduction of DNA fingerprinting to experimental zoology
+  Later developments in DNA fingerprinting
+  Microsatellites in zoology
+  DNA microsatellites used to study population subdivision and male-mediated gene flow
+  DNA microsatellites and conservation biology
+  DNA fingerprinting in the era of whole genome second generation sequencing
+Conclusions
+Abbreviations
+Competing interests
+Authors’ contributions
+Acknowledgements
+Author details
+References
+Page 1
+Chambers et al. Investigative Genetics 2014, 5:3
+http://www.investigativegenetics.com/content/5/1/3
+REVIEW  Open Access
+DNA fingerprinting in zoology: past, present,
+future
+Geoffrey K Chambers1, Caitlin Curtis2, Craig D Millar3, Leon Huynen2 and David M Lambert2*
+Abstract
+In 1962, Thomas Kuhn famously argued that the progress of scientific knowledge results from periodic ‘paradigm
+shifts’ during a period of crisis in which new ideas dramatically change the status quo. Although this is generally
+true, Alec Jeffreys’ identification of hypervariable repeat motifs in the human beta-globin gene, and the subsequent
+development of a technology known now as ‘DNA fingerprinting’, also resulted in a dramatic shift in the life sciences,
+particularly in ecology, evolutionary biology, and forensics. The variation Jeffreys recognized has been used to identify
+individuals from tissue samples of not just humans, but also of many animal species. In addition, the technology has
+been used to determine the sex of individuals, as well as paternity/maternity and close kinship. We review a broad
+range of such studies involving a wide diversity of animal species. For individual researchers, Jeffreys’ invention resulted
+in many ecologists and evolutionary biologists being given the opportunity to develop skills in molecular biology to
+augment their whole organism focus. Few developments in science, even among the subsequent genome discoveries
+of the 21st century, have the same wide-reaching significance. Even the later development of PCR-based genotyping
+of individuals using microsatellite repeats sequences, and their use in determining multiple paternity, is conceptually
+rooted in Alec Jeffreys’ pioneering work.
+Keywords: Multilocus VNTR probes, Single locus probes, Avian mating systems, Microsatellite DNA
+Introduction
+Unique DNA fingerprints arise as a result of restriction
+enzyme digestion of an individual’s tandem repeat loci. In
+individuals belonging to sexually outbreeding populations,
+the resulting multilocus DNA profiles are typically vari-
+able and unique to the individual. These multilocus ‘min-
+isatellite’  DNA repeats (also known as Variable Number
+Tandem Repeats, VNTRs), typically consisting of repeated
+10 to 60 bps units, are highly variable in length, as are re-
+striction enzyme fragments, and are commonly detected
+by hybridization of radiolabeled VNTR probes to restric-
+tion enzyme-digested and size-separated genomic DNA.
+DNA fingerprinting was originally developed as a tool for
+human identification in forensic investigations [1],  and
+later found application in immigration cases [2] and pater-
+nity disputes [3]. Moreover, the subsequent use of DNA
+profiling to establish the innocence of numerous convicted
+persons prompted a re-examination of the reliability of
+* Correspondence: [URL: "mailto:d.lambert@griffith.edu.au"] d.lambert@griffith.edu.au
+2Environmental Futures Research Institute, Griffith University, Nathan,
+QLD 4111, Australia
+Full list of author information is available at the end of the article 
+eyewitness evidence [4]. The discovery of a genetic system
+that would uniquely identify a person was unanticipated,
+even to Jeffreys: ‘We walked out of the darkroom looking
+at this complicated mess on an X-ray film and thought
+“Whoa, wait a minute. We’ve stumbled on the potential
+for DNA-based biological identification”’  [5].  Ideas con-
+cerning the potential application of the technique were
+equally novel. According to Jeffreys: ‘When I talked about
+it in a Department seminar, and then speculated about
+what we could use this for, like catching rapists from
+semen—about a third of the audience fell over laughing. It
+sounds bizarre now because it’s so blindingly obvious that
+you can use DNA for this, but believe me, back in the 80s
+it was simply not there’ [6].
+Jeffreys’ technique [7] resulted in a fundamental change
+in the discipline of zoology as it became apparent that
+DNA fingerprinting could also be applied to a wide range
+of bird and other animal species. Within two years from
+its description [7] and the first application of DNA finger-
+printing within a legal context [2], two pioneering reports
+were published on mating systems in house sparrows
+(Passer domesticus) [8,9].  These were the first of many
+© 2014 Chambers et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License ([URL: "http://creativecommons.org/licenses/by/2.0"] http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly cited. The Creative Commons Public Domain Dedication
+waiver ([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise
+stated.
+Page 2
+Chambers et al. Investigative Genetics 2014, 5:3
+http://www.investigativegenetics.com/content/5/1/3 
+Page 2 of 11
+studies demonstrating the power with which this tech-
+nique could typically determine the genetic identity of
+individuals and measure genetic variation in natural
+populations. This represented a significant advance over
+the degree of genetic resolution that had been available
+with earlier isozyme-based techniques, allowing true gen-
+etic relationships among individuals to be determined, ra-
+ther than them being inferred (often erroneously) from
+field observations. This uncovered some remarkable sur-
+prises, such as the finding that many species are character-
+ized by significant levels of extra-pair paternities, and even
+maternities. One example of this was the discovery that in
+the Australian superb fairywren (Malurus cyaneus), up to
+75% of matings consist of extra-pair copulations [10].
+DNA fingerprinting has also enabled zoologists to test
+predictions of kin selection models [11] in a genuinely
+meaningful way, and multilocus profiles have also been
+used to detect species hybrids [12].  The same methods
+have been applied less frequently and less successfully to
+describe population structure and evolution, though the
+success increased with the advent of single locus methods.
+Finally, we note that minisatellite DNA fingerprinting has
+created spin-off technologies, such as the non-invasive de-
+termination of sex [13-15].
+Among some zoologists there was a rapid embrace of
+the technical challenges associated with DNA fingerprint-
+ing technology. Scientists from Brazil, Canada, Germany,
+New Zealand, and the UK featured prominently among
+the major early contributors. Application of early min-
+isatellite DNA fingerprinting tools rapidly progressed
+through three stages of development: multilocus minisatellite 
+probes, single locus minisatellite probes, and digital array
+minisatellite typing. These techniques were applied to a wide
+range of species and ecological questions, some of which will
+be covered in this review. The majority of the minisatellite
+work was carried out and reported from 1987 to 1994 with a
+trickle of ‘heritage’ reports published as late as 2000 [16].
+Review
+Technical aspects of minisatellite DNA fingerprinting
+methodology
+The first protocols for visualizing multilocus DNA fin-
+gerprints [7] used relatively long ‘minisatellite’  (VNTR)
+DNA probes. Probes were hybridized to restriction
+enzyme-digested DNA that had been size-separated and
+bound to a nylon membrane. These early probes con-
+sisted of concatenates of short (approximately 16 bp)
+‘core’  repeats that were found to be both highly con-
+served and also distributed throughout the genome [3]
+(Figure 1).  These conserved core regions were found
+within the highly repetitive minisatellite repeat se-
+quences. Some of the most commonly used probes
+were derived from an intron of myoglobin, and were
+referred to as ‘33.15’ (consisting of 29 repeats of a min-
+isatellite core with 128 bp of flanking sequence) and
+‘33.6’  (consisting of 18 repeats of a 37 bp sequence
+unit. The 37 bp sequence unit comprised three repeats
+of a 11 to 12 bp core plus two base pairs) (sourced
+from Jeffreys’ United States Patent: US5413908; [URL: "http://www.google.com.au/patents/US5413908"] http://
+ www.google.com.au/patents/US5413908).
+Multilocus, minisatellite probe analysis (early ‘DNA fin-
+gerprinting’) required relatively large (that is, microgram)
+Figure 1 Minisatellite repeat units are characterized by an approximate 16 bp core sequence in humans and other animals. (A) A core
+minisatellite repeat is present at three loci. (B) The number of minisatellite repeats at these loci are shown for one individual (the mother) who is
+heterozygous at each of the three loci. Locus 1 genotype: 5, 2; locus 2 genotype: 7, 3; and locus 3 genotype: 8, 1. (C) Representation of an
+autoradiograph showing restriction fragment profiles of four individuals at these three loci. At each locus in the child’s profile, one allele is shared
+with the mother and the other is shared with the father, as would be expected when maternity and paternity have been correctly identified.
+Note that the unrelated individual shares only a small number of bands with the individuals from this family.
+Page 3
+Chambers et al. Investigative Genetics 2014, 5:3
+http://www.investigativegenetics.com/content/5/1/3 
+Page 3 of 11
+amounts of high quality, high molecular weight, genomic
+DNA digested with an appropriate restriction enzyme. Re-
+striction enzymes with 4 bp recognition cut sites, such as
+HaeIII, were commonly used because they cleave DNA
+frequently and hence typically digest the target DNA se-
+quences close to the repeat motifs. The resulting frag-
+ments were separated according to size by electrophoresis
+through agarose gels, and then transferred to a nitrocellu-
+lose or nylon membrane in preparation for Southern blot
+hybridization (see Kirby [17] for detailed descriptions).
+The membrane containing denatured DNA fragments was
+then hybridized to a radioactively labeled copy of the min-
+isatellite DNA probe (that is, concatenates of 16 bp
+minisatellite ‘core’  repeats).  Hybridization of the la-
+beled minisatellite probes to the digested DNA was de-
+tected by autoradiography (although additional labeling
+methods were sometimes used, including those based on
+the detection of light using horseradish peroxidase). Suc-
+cessful multilocus minisatellite hybridization typically pro-
+duced a unique pattern of signals, ‘a DNA fingerprint’, of
+co-dominant markers that was unique to an individual
+(Figure 2). When two parents and an offspring were ana-
+lyzed, a clear pattern of inheritance was usually observed
+(Figures 1 and 2C).
+For zoologists, the difficulty in applying this technique
+was the requirement for specialized molecular biology
+skills, at the time not generally available to many in the
+field. The Southern blotting technique is a lengthy and
+precise method where well-designed experiments and
+careful benchwork are necessary for optimal results [18].
+Many early DNA fingerprinters experienced non-specific 
+probe hybridization problems with blotting media and
+resorted to the inclusion of one or more exotic blocking
+agents, such as dried milk powder, in pre-hybridization
+buffers. Furthermore, probes were not conveniently
+available from scientific biotechnology companies and
+had to be propagated in cloning vectors. Labeling these
+probes required 32P radioisotope facilities and expertise.
+Additionally, one could never be certain ahead of time
+how long to leave autoradiographs to develop in order
+to obtain the clearest signals.
+With experience, many laboratories were able to pro-
+duce high quality multilocus minisatellite profiles. Re-
+grettably, this is where many of the more difficult
+technical problems began. In order to compare between
+gels, a ‘standard’  individual of known DNA concentra-
+tion was used. By varying conditions it was possible to
+ensure that the same number of bands were present in
+this individual, on different gels. Restriction fragments
+could then be unequivocally recorded as present or absent
+(coded as 1, 0 in a data matrix; see Kirby [17] p. 240). In
+practice, however, some signals were very weak, making
+scoring difficult. This problem was not helped by the non-
+linear response of autoradiography film to exposure time.
+Similarly, it was often difficult to determine if signals of
+similar mobility in lanes widely separated across a gel had
+truly migrated the same distance from the origin. Statis-
+tical quantification of these results was relatively daunting
+and was usually calculated using a Mantel test to deter-
+mine the correlation between two distance matrices.
+A second generation of minisatellite DNA fingerprint-
+ing detected minisatellite repeat patterns at a single
+Figure 2 Sexing and paternity in skuas. (A) An adult south polar skua (Catharacta maccormicki; above) and an adult brown skua (C. lonnbergi;
+below). (B) Multilocus DNA fingerprints resulting from hybridization of probe pV47–2 to genomic DNA from male and female brown skua
+digested with the restriction enzyme HaeIII [14]. Arrows indicate two sex-linked DNA fragments that are present in females but absent in males. (C)
+Multilocus DNA fingerprints of three south polar skua families with the proposed relationships indicated above. DNA fragments that cannot be attributed
+to either putative parent (resident at the nest) are indicated by arrows.
+Page 4
+Chambers et al. Investigative Genetics 2014, 5:3
+http://www.investigativegenetics.com/content/5/1/3 
+Page 4 of 11
+locus. One of two methods was used to detect these re-
+peat sequences. First, in some cases, minisatellite probe
+hybridizations were performed under high stringency
+conditions with the probes sometimes hybridizing to
+unique, locus-specific stretches of sequences that flanked
+the repeat core. Successful hybridizations then resulted
+in simple single locus patterns, rather than the multilo-
+cus DNA profiles typically seen using the 33.6 and 33.15
+probes under less stringent conditions (Figure 3C).  A
+second approach involved the direct isolation of these
+locus-specific minisatellite sequences, although this
+method required significant effort. Genomic DNA librar-
+ies had to be constructed and subsequently screened with
+radioactively labeled core repeat probes to detect inserts
+containing useful polymorphic repeat DNA loci. The next
+step was to sub-clone the unique flanking regions of the
+repeat. These unique regions needed to be close enough
+to the repeat to be contained within a single restriction
+enzyme fragment. The fragment was then sub-cloned and
+used as a probe in Southern blots of genomic DNA. These
+fragments often returned the same simple patterns with
+only two co-dominant signals per individual.
+Single locus minisatellite DNA fingerprints found im-
+mediate favor with forensic scientists, because these
+types of data were easier to defend as evidence in court.
+However, there were still fundamental questions to re-
+solve in distinguishing alleles of the same apparent mo-
+lecular size. Such alleles were distinguished through the
+use of ‘fixed bins’ (in which bins of particular molecular
+size ranges were a priori determined) or ‘sliding bins’
+(these were not predetermined and were simply used to
+determine if signals were, within tolerance, similar in 
+mobility) [19].  The simple patterns and hypervariable
+character of the probes, coupled with the fact that they
+could be used in combination to produce very high ex-
+clusion probabilities, quickly served to make them useful
+tools for forensic casework [20]. Early use of single locus
+minisatellites was largely limited to humans, as few zool-
+ogists were equipped to take up the technical challenge
+of creating panels of single locus probes for their favorite
+species; although the few who did are highlighted in the
+next section.
+With the invention of the PCR an effort was made to
+incorporate the many advantages of this amplification
+method to the analysis of minisatellite loci. Jeffreys and
+co-workers developed this prospect with the develop-
+ment of a digital array typing technique [21,22].  This
+method was an impressive technological accomplish-
+ment, but its appeal to zoologists was limited. This was
+likely due to the advent of microsatellite-based methods
+that resulted in data which were technically much sim-
+pler to produce and easier to interpret, particularly for
+those with previous experience in allozyme electrophoresis
+and analysis. Nevertheless, Jeffreys’  early discoveries need
+to be credited for having led the way to the transformation
+of many researchers from ecology and evolutionary biolo-
+gists into population and evolutionary geneticists.
+The introduction of DNA fingerprinting to experimental
+zoology
+Jeffreys’ multilocus, minisatellite DNA fingerprinting meth-
+odology had its earliest, most significant impact on the
+study of avian mating systems [8,9].  Early publications
+challenged the ‘nuclear family’ model of birdlife where two
+Figure 3 Multilocus and single locus DNA fingerprinting in the pukeko. (A) The pukeko or purple swamphen (Porphyrio porphyrio) is a
+communal breeder. (B) Multilocus DNA fingerprinting profiles of pukeko belonging to a communal group. Genomic DNA was digested with the
+restriction enzyme HaeIII and hybridized to the probe pV47–2. (C) Single locus DNA profiles detected in pukeko using the minisatellite probe
+YNH24 [26]. Arrows indicated the four alleles detected and the genotype of each individual is given above.
+Page 5
+Chambers et al. Investigative Genetics 2014, 5:3
+http://www.investigativegenetics.com/content/5/1/3 
+Page 5 of 11
+doting parents raise their own exclusive offspring in a
+world of adversity. Costs and benefits of alternate breeding
+strategies, including brood parasitism and extra-pair copu-
+lation, were able to be investigated with new precision, and
+a number of studies probing kin selection models in a wide
+range of animals began to follow.
+Gibbs et al.  (1990) examined the dynamics of a
+spatially complex breeding colony of red-winged black-
+birds (Agelaius phoeniceus).  The dominant males sing
+and display strongly to secure the best (central) territor-
+ies in the reed marsh. They attract most female partners
+to build nests there. They also gain most extra-pair cop-
+ulations with females in neighboring territories, but this
+advantage is offset because females residing in their own
+territories gain more than average numbers of extra-pair
+copulations [23].
+Owens et al. (1995) investigated the Eurasian dotterel
+(Charadrius morinellus),  a species with sex-reversed
+plumage and polyandrous behavior. Here males guard
+the nest and provision young so they gain a ‘payoff’ only
+if they can be sure that the eggs that they look after are
+the products of their own gametes. Exactly how individ-
+uals would know this information is unclear. The inves-
+tigators found that only ‘4.6% of chicks tested were not
+the genetic offspring of the caring male’.  Hence, they
+were able to conclude that male dotterels succeeded in
+protecting their ‘parental investment’  via a ‘combined
+strategy of mate guarding and strategic timing of copula-
+tions’ [24].
+Burke et al.  (1987) provide an interesting contrast
+through their earlier study of the facultatively polyan-
+drous songbird, the dunnock (Prunella modularis).  In
+this species several males may accompany a single fe-
+male. Males do not discriminate in favor of their own
+young, but provision the entire brood with an intensity
+of effort that reflects the amount of time that they had
+exclusive ‘access’  to the female just prior to egg laying
+[25].  The latter is then argued to represent a ‘reliable’
+proxy for paternity.
+Lambert et al. (1994) tackled an even more enigmatic
+case study, polygynandry in the pukeko (Porphyrio por-
+phyrio). They found that supposedly dominant males did
+not consistently sire the majority of offspring in a group
+(Figure 3).  These findings thus provide a serious chal-
+lenge to conventional ideas about dominance and its
+presumed advantages [26]. Another species with a vari-
+able breeding system, including apparent female-female
+pairs, is the brown skua (Catharacta lonnbergi) [27]. In
+this case, DNA fingerprinting showed no extra-pair or
+extra-group breeding.
+Other communally breeding birds have also been
+tested, including European bee-eaters (Merops apiaster)
+[28],  Florida scrub-jays (Aphelocoma coerulescens) [29],
+and white-winged choughs (Corcorax melanorhamphos) 
+[30].  In addition to a small central group of breeding
+adults, the tribe was found to consist mainly of offspring
+with delayed dispersal who were functioning as helpers
+at the nest. In the last of these three species members of
+one tribe may even ‘kidnap’ members of another to make
+up their numbers in an apparent effort to maximize for-
+aging success. In contrast, the superb fairywren (M. cya-
+neus) also breeds co-operatively, but the majority of the
+offspring they tend are sired by males from outside the
+group [10]. In this case, the helpers assist the breeding fe-
+male to offset the ‘costs’ of extra-pair fertilization.
+Minisatellite DNA fingerprinting was applied to other
+avian breeding systems [31],  to measure genetic vari-
+ation, and to assess bird population structure to identify
+‘source’ and ‘sink’ populations [32,33], for example in the
+blue duck (Hymenolaimus malacorhynchos). Minisatellite
+DNA fingerprinting was also used to determine genetic
+variability [34] and breeding behavior [35] in the critically
+endangered black robin (Petroica traversi) on New Zeal-
+and’s Chatham Islands. This species was shown to be so-
+cially and sexually monogamous, but with very low
+genetic variability, challenging conventional ideas about
+risk assessments associated with inbreeding in avian taxa.
+The black robin population suggested that once recessive
+deleterious alleles have been purged from bottlenecked
+populations by natural selection, the remaining individ-
+uals may be as fit as, or almost as fit as, comparable out-
+bred populations. Only future events, such as a disease
+outbreak, will determine whether such genetically invari-
+ant species or populations are more vulnerable to extinc-
+tion. However, in approximately 20 years since these
+studies were performed, the black robin continues to
+thrive with increasing numbers, despite the fact that the
+Chatham Islands still acts as a summer breeding ground
+for extremely large numbers of diverse avian species,
+resulting in the endangered black robin being exposed to
+an extraordinary diversity of pathogens.
+Birds were not the only subjects of field studies using
+minisatellite DNA fingerprinting. For instance, Amos
+and colleagues carried out extensive work on mating
+systems in marine mammals [36,37]. In particular these
+were focused on testing if the energy costs of repeatedly
+fighting others to maintain dominance as ‘beachmasters’
+was adequately repaid through exclusive ‘access to’  fe-
+males and offspring sired. The lions (Panthera leo) of
+the Ngorongoro Crater in Tanzania provided an ideal
+opportunity for a similar study [38]. In this case young
+males have to choose (if they have the opportunity) be-
+tween forming a large kinship guild with their brothers
+and pridemates (half-brothers or cousins) or a small
+guild with unrelated males. This takes place when they
+leave their home pride at maturity (or are forced out)
+and disperse in search of mates. Joining a large guild of
+other males increases the probability of making a
+Page 6
+Chambers et al. Investigative Genetics 2014, 5:3
+http://www.investigativegenetics.com/content/5/1/3 
+Page 6 of 11
+successful takeover bid for mates in an already estab-
+lished pride of related females guarded by resident
+males. In guilds of related males the largest and most
+dominant male achieves the majority of copulations, but
+the unrelated males in the smaller guilds sire approxi-
+mately equal numbers of offspring. These observations
+are in accordance with expectations from the Kin selec-
+tion theory as in the larger guilds the sub-dominant
+males can be considered to have contributed to spread-
+ing their own genes through aiding the reproductive suc-
+cess of their dominant relative.
+Minisatellite DNA fingerprinting was also used to
+examine population variation in other wild animals
+and in fish, examples include the California Channel
+Island fox (Urocyon littoralis)  [39],  the humpback
+whale (Megaptera novaeangliae) [40],  and a number
+of commercial fish stocks [41].  Further applications
+for minisatellite analysis were also attempted, includ-
+ing the isolation of single locus probes for use in
+trait mapping and stock assignment [42-44],  with
+mixed success. Jeffreys’  DNA fingerprinting method-
+ology did, however, lead to the creation of some
+functional (though not always commercially viable)
+services, including animal paternity testing [45].
+Commercialization of DNA profiling ventures for
+non-human subjects was difficult primarily due to
+the cost per test and time required to return results
+to clients. However these ventures did provide some
+beneficial services (for example the establishment of
+pedigrees may have prevented the loss of valuable
+breeding stocks [45]).  In one unexpected case, an
+aging Afghan hound, thought to have zero viable
+sperm count, was shown to have sired a litter of
+pups in competition with a vigorous younger, less
+experienced, stud dog from the same kennel.
+The Jeffreys research group applied their DNA finger-
+printing techniques to a wide field in zoology. Work
+over several years on the mutational dynamics of minisa-
+tellites revealed many interesting aspects in primates
+[46] and rodents [47]. The Jeffreys’  research group also
+showed how DNA fingerprinting could aid captive
+breeding programs for rare and endangered species,
+such as the Waldrapp ibis [48]. Other tests were also de-
+veloped directly from DNA fingerprinting methods, in-
+cluding assays for sex testing (Figure 2B) and assays for
+forensic wildlife services to control animal smuggling
+and illegal trade of endangered species [12,13].
+Later developments in DNA fingerprinting
+Multilocus and single locus minisatellite-based ‘DNA
+fingerprinting’  methods were generally superseded by
+the use of single locus microsatellites to genetically iden-
+tify individuals [49,50],  and more recently by second
+generation sequencing (SGS)-based methodologies, 
+including panels of SNPs. The original DNA minisatel-
+lite fingerprinting loci continued to be used to a limited
+extent for the characterization of individuals [51], popu-
+lation studies [52], the identification of disease markers
+[53,54] and quantitative trait loci, and the study of gene
+expression [55,56].
+The transition to the use of single locus microsatellites
+as a method for ‘DNA fingerprinting’ was rapid, particu-
+larly in the USA, despite the fact that similar levels of
+technical laboratory expertise were required for both
+methodologies. Isolating species-specific DNA microsa-
+tellites, typically comprising of di-, tri-, and tetranucleo-
+tide repeat units, required substantial effort, particularly
+the construction and screening of genomic DNA librar-
+ies that were required to identify polymorphic loci. In
+some cases, however, the power of a multilocus assay
+using highly variable, generic minisatellite probes, suc-
+ceeded in revealing differences between individuals when
+polymorphic microsatellite markers were unavailable or
+uninformative for a given species. An analysis of the
+kakapo (Strigops habroptilus),  a nocturnal parrot en-
+demic to New Zealand, illustrates this point particu-
+larly well [57].
+Technical advances in microsatellite DNA fingerprint-
+ing, including rapid automated high resolution identifi-
+cation of alleles through capillary electrophoresis,
+simplified the procedure and increased its reproducibil-
+ity. The use of PCR allowed genetic information to be
+recovered from trace amounts of modern and even an-
+cient samples, and the repository of published PCR
+primers gradually expanded to include increasing num-
+bers of species. Nonetheless, microsatellite-based
+methods are essentially based on the conceptual ap-
+proach developed using multilocus, minisatellite DNA
+fingerprinting for the identification and characterization
+of individuals and populations. In this regard, the influ-
+ence of DNA fingerprinting is likely to be an enduring
+one.
+Microsatellites in zoology
+The disciplines of reproductive ecology and mating systems
+were markedly accelerated as the use of microsatellite-
+based DNA fingerprints became increasingly widespread.
+For example the application of DNA microsatellites to the
+offspring of vertebrates that simultaneously give birth to
+more than one offspring has revealed concurrent multiple
+paternities in a wide range of organisms, particularly in rep-
+tiles [58] (but also noted in birds and mammals).  This
+phenomenon was first documented prior to the use of min-
+isatellite DNA fingerprinting, for example in Belding’s
+ground squirrel [59] and eastern bluebirds using protein
+electrophoresis [60].  The technically less challenging as-
+pects of isolating and routinely amplifying DNA microsatel-
+lites (compared with multilocus minisatellites) and their
+Page 7
+Chambers et al. Investigative Genetics 2014, 5:3
+http://www.investigativegenetics.com/content/5/1/3 
+Page 7 of 11
+usefulness to unambiguously assigning parentage resulted
+in an exponential increase in studies of animal mating sys-
+tems. Concurrent multiple paternity has now been widely
+documented in virtually all vertebrate groups investigated,
+for example it commonly occurs in over 50% of reptilian
+clutches [58]. Simultaneous multiple paternity has been de-
+tected in virtually all turtle species examined to date [61],
+lizards and snakes [62] (see summary in Uller and Olsson
+[58]), birds [63], and in mammals, where patterns of pater-
+nity have been studied [64]. In fish, where parentage has
+been studied quite extensively over the last two decades,
+microsatellite fingerprinting has revealed not only high
+levels of multiple paternity within broods, but also variable
+levels of multiple maternity as well, particularly in spe-
+cies with ‘male pregnancy’  or nest defence (reviewed
+by Coleman and Jones [65]).  Multiply sired litters in
+mice were found to be relatively common (approxi-
+mately 33 of 143 litters, or roughly 23%) in a survey of
+wild populations, with more prevalence in high density
+populations [66].  These observations, and the male
+postcopulatory competition (such as sperm competi-
+tion) that may ensue [67], have fostered a great deal of
+speculation and literature surrounding the potential
+benefits of mating with more than one male. Hypothet-
+ical adaptive benefits have been proposed to include
+ensuring the complete fertilization of entire clutches of
+eggs [68,69], increasing the genetic variation of a litter
+[70], increasing the likelihood of successfully compat-
+ible gametes [71] (as reviewed by Dean et al. [66]), and
+the idea that mating with numerous males may serve
+as a type of confusion mechanism to decrease the
+probability of infanticide [72]. The ability to accurately
+assign paternity has provided a mechanism for testing
+of several hypotheses surrounding sperm competition,
+including the relative reproductive success and the sig-
+nificance of male mating order [73]. Numerous mecha-
+nisms of postcopulatory competition, such as embryonic
+cannibalism in sharks [74], have been suggested. Multiple
+matings by females have now been documented to occur
+with such frequency that the evolutionary significance of
+this phenomenon became the subject of considerable de-
+bate (see Wolff and Macdonald [72] for a review).
+The use of DNA microsatellites has exposed other as-
+pects of vertebrate mating systems that were initially
+considered to be rare anomalies. For example the first
+cases of virgin births (automictic parthenogenesis) in
+sharks were confirmed using DNA microsatellites [75-77].
+Other vertebrates, including snakes [78] and lizards [79],
+have been documented to undergo parthenogenesis, in-
+cluding a high profile study documenting parthenogenesis
+in Komodo dragons [80]. Collectively these studies point
+to the existence of reproductive plasticity among females
+across a wide variety of taxa, and the consequences of this
+plasticity may be worthy of consideration for captive 
+breeding programs involving endangered species [80].
+Early examples of the genetic documentation of vertebrate
+asexual reproduction were limited to captive animals, but
+recent work suggests the existence of parthenogenesis also
+in wild litters of North American copperheads and cotton-
+mouth snakes [81], suggesting that the phenomenon may
+be more widespread than previously thought.
+DNA microsatellites used to study population subdivision
+and male-mediated gene flow
+DNA microsatellites have been useful tools describing
+population connectivity, isolation, and the particulars of
+inter-population gene flow. They have also been used ex-
+tensively to assess population subdivision, sometimes in
+relation to geographical barriers [82].  Contrasting pat-
+terns of genetic partitioning between maternally inher-
+ited mitochondrial sequence data and autosomal DNA
+microsatellites have revealed levels of male-mediated
+gene flow in several species, including bats [83],  great
+white sharks [84], sea turtles [85], sharks [86], and pri-
+mates [87]; note this study also included Y chromosome
+markers.
+DNA microsatellites and conservation biology
+Essentially, the extensive use of microsatellite DNA markers
+has directly given rise to a number of high profile journals,
+including Molecular Ecology, Molecular Ecology Resources,
+and Conservation Genetics. A very large number of micro-
+satellite loci have now been used to document levels of gen-
+etic variation in rare and endangered species and thus better
+inform conservation management actions. In the Florida
+panther, for example, a small remnant population (less than
+100 individuals) is thought to suffer from inbreeding depres-
+sion. The population carries genetic anomalies including
+kinked tails and heart defects. In an attempt to mitigate in-
+breeding, several females from a Texas population were out-
+crossed with the Florida population. DNA microsatellites
+enabled researchers to generate detailed pedigrees to moni-
+tor the success of this genetic restoration program [88].
+The application of DNA microsatellites has improved
+the ability to monitor and enforce conservation mea-
+sures. As an increasing number of populations are char-
+acterized with DNA microsatellites they serve as useful
+databases to identify the provenance of animals confis-
+cated at borders. Widespread progress has been made
+assigning various endangered and threatened species to
+geographic regions using DNA microsatellites, including
+tortoises [89],  fish [90],  bears [91],  and elephants [92].
+Although the existence of microsatellite databases is
+generally useful, problems do arise when genotype data
+are shared among laboratories, due to differences in al-
+lele scores for similar samples. This has been alleviated
+somewhat by the subsequent use of universal reference
+samples for allele calibration.
+Page 8
+Chambers et al. Investigative Genetics 2014, 5:3
+http://www.investigativegenetics.com/content/5/1/3 
+Page 8 of 11
+Although the processes by which microsatellites mu-
+tate are generally established, uncertainties persist about
+their mode of evolution, stepwise versus two-phase
+[93,94], as well as the extent with which these modes of
+evolution uniformly apply to repeats of varying motifs
+and sizes. Although these unknowns potentially com-
+promise the application of standard population genetic
+statistics to microsatellite loci, most investigators treat
+them as if they were of minor influence. Some software
+bundles, such as Bottleneck [95], do account for differ-
+ent mutation models. Recent results show that human
+microsatellites have a predominantly stepwise mode of
+mutation, with a slight bias towards an increase in size
+and an upper size limit [96]. The same study also shows
+a higher mutation rate for tetranucleotide repeats than
+for dinucleotide repeats. This will allow investigators to
+concentrate on recovering suitable repeat types from
+genomic screens, as these not only promise to be more
+polymorphic but will also yield allelic genotypes that are
+easier to score. As a result, zoologists are now positioned
+for a new age of improved microsatellite studies sup-
+ported by genomics and SNP analyses plus expression
+profiling to advance causal explanations for evolutionary
+phenomena.
+DNA fingerprinting in the era of whole genome second
+generation sequencing
+Ecologists continue to develop microsatellite loci for
+population genetic studies using the relatively recently
+introduced SGS platforms [97], and pipelines are emer-
+ging to maximize the success rate of microsatellite PCR
+primer development from SGS runs [98-101]. Bioinfor-
+matics tools, including RepeatSeq [102] and lobSTR
+[103], are emerging to improve the mapping success of
+microsatellite reads from SGS data, although simple se-
+quence repeats such as microsatellites remain relatively
+problematic to analyze with SGS (due to difficulties se-
+quencing through the entire repeat, reliably allelotyping
+a locus, and complexities associated with bioinformatically
+mapping simple sequence repeats). One of the potential
+benefits of using SGS to analyze DNA microsatellite loci
+(fingerprinting) is the very high output of data. Addition-
+ally, deeper sequencing via SGS can reveal variant alleles
+that may go undetected when analyzed by PCR with fluo-
+rescently labeled fragments and capillary electrophoresis.
+Will ecologists and zoologists continue to rely on
+DNA microsatellite fingerprinting of individuals and
+populations in the era of second and third generation se-
+quencing? Panels of SNP loci analyzed on SGS platforms
+have a number of advantages over ‘traditional’ microsat-
+ellite and minisatellite fingerprinting, which may lead to
+their continued replacement over these VNTR-based
+DNA fingerprinting techniques in zoology. One advan-
+tage of using large panels of SNPs for fingerprinting is in 
+their accuracy. However, in principle, although SNP vari-
+ants can be unequivocally assigned to a single individual,
+analyses of non-invasively collected samples are also
+proving problematic because, like microsatellite loci,
+dropout of allelic SNPs can be significant [104]. An add-
+itional advantage is the requirement of only short
+stretches of DNA (<50 bp),  allowing the analysis of
+highly degraded material such as that found in environ-
+mental samples (such as soil),  low quality non-invasive
+samples (such as feces), as well as historical and ancient
+DNA. Research along these lines has allowed association
+and evolutionary studies of a number of iconic animals,
+including 40,000-year-old DNA from a wooly mammoth
+[105], 120,000-year-old DNA from a polar bear [106] and,
+very recently, a 700,000-year-old horse genome [107].
+Rapidly developing SGS technologies now make it pos-
+sible to obtain ‘complete’ animal genomes in less than a
+day, that in the near future will no doubt be affordable
+for most laboratories. At present, the sequencing cap-
+acity of larger second generation sequencers, such as the
+HiSeq 2500 (Illumina, San Diego, CA, USA),  is up to
+600 Gb (gigabases) for a full run (reviewed by Glenn
+[108]) and about 250 Gb for the more affordable Ion
+Proton. The latter, when equipped with a PIII sequen-
+cing chip, promises to deliver high coverage of complete
+animal genomes in less than a day for less than USD
+$1,000 [108].
+Data from a complete nuclear genome sequence is ab-
+solute. In addition to ‘all’ microsatellite and minisatellite
+sequences, complete genomes provide information re-
+garding SNPs, insertions/deletions, as well as any gen-
+ome rearrangements that would be difficult to detect
+using fragment length-based analysis such as capillary
+electrophoresis (microsatellites) or probe hybridizations
+(minisatellites).
+For modern genomes, third generation sequencers are
+likely to be of even greater use. The ability of these sin-
+gle DNA strand sequencers to sequence strands up to
+100,000 bases long in very short times will provide not
+only information on sequence variation but also on link-
+age. At present these sequencers suffer from high error
+rates, approaching 15%, but their utility is in the assembly
+of animal genomes, thereby clarifying possible linkages be-
+tween SNPs and/or sequence repeats (see Weaver [109]
+and Ozsolak [110] for reviews).
+The existence of large microsatellite profile databases
+has served to benefit many population and ecological
+studies. In the same way the accumulation of large com-
+puter databases of animal genomes will eventually bene-
+fit future molecular ecology studies. The collection,
+storage, and maintenance of a complete genome data-
+base, however, will no doubt invoke a number of storage
+issues. Storage of animal genomes, although a few
+gigabases in size, actually contain much less ‘usable’
+Page 9
+Chambers et al. Investigative Genetics 2014, 5:3
+http://www.investigativegenetics.com/content/5/1/3 
+Page 9 of 11
+sequence, particularly if only SNPs (identified by com-
+parison with a suitable reference genome) are used. As
+the average number of SNPs in a genome is 1 per
+1,000 bases, this would effectively require less than 30
+megabytes (MB) of storage. This translates to a total of
+approximately 30,000 terabytes (TB) of required stor-
+age for the SNPs of 1 billion animals, storage that is
+available today. With the information inherent in genome-
+wide SNPs, DNA fingerprinting, born from Jeffreys’ initial
+discovery of minisatellites, is likely to continue in the near
+future with the use of ‘complete’ genome datasets.
+Conclusions
+It is clear that minisatellite DNA studies of humans and
+other animals were the successful forerunners of today’s
+microsatellite DNA genotyping methods. But, because
+minisatellite DNA methods employed Southern blot ana-
+lyses, these were both time-consuming and technically
+challenging to perform on a regular basis. In addition,
+minisatellite DNA analyses required high quality and large
+amounts of sample DNA, which diminished the usefulness
+of this technique for ancient and/or degraded samples. In
+contrast, microsatellite DNA amplifications by PCR de-
+tected similar, although shorter, repeat sequences and
+could be applied to ancient and lower quality samples.
+Hence, the use of DNA microsatellites became more
+widespread among researchers than the minisatellite-
+based fingerprinting systems ever were. Nonetheless,
+Jeffreys’  original insight, that repeated minisatellite DNA
+sequences could be used to study a range of zoological is-
+sues, represents one of the important technical and intel-
+lectual achievements in the history of zoology.
+Abbreviations
+PCR: Polymerase chain reaction; SGS: Second generation sequencing;
+SNP: Single nucleotide polymorphism; VNTR: Variable Number Tandem
+Repeat.
+Competing interests
+The authors declare that they have no competing interests
+Authors’ contributions
+GKC wrote the first draft of the paper after initial discussion with the other
+authors. GKC, CC, and LH collected the reference list and all authors
+contributed to subsequent drafts. CDM and DML designed and contributed
+the figures. All authors read and approved the final manuscript.
+Acknowledgements
+GKC is grateful to Victoria University of Wellington, New Zealand, for making
+computing and library facilities available. GKC, DML, and CDM thank the
+many New Zealand agencies who supported the original work referenced
+here and the many colleagues who contributed to it. LH, CC and DML
+acknowledge Griffith University, Australia, and the Australian Research
+Council (ARC) for support of their research in the form of an ARC Discovery
+grant (DP110101364) and ARC Linkage grant (LP110200229). CDM thanks the
+Allan Wilson Centre for Molecular Ecology and Evolution, as well as the
+University of Auckland, New Zealand, for support. We are grateful to Vivian
+Ward for the graphics and Clive Evans and Yvette Wharton for the
+photographs. 
+Author details
+1School of Biological Sciences, Victoria University of Wellington, PO Box 600,
+Wellington 6140, New Zealand. 2Environmental Futures Research Institute,
+Griffith University, Nathan, QLD 4111, Australia. 3Allan Wilson Centre for
+Molecular Ecology and Evolution, School of Biological Sciences, The
+University of Auckland, Auckland 1142, New Zealand.
+Received: 3 September 2013 Accepted: 19 December 2013
+Published: 3 February 2014
+References
+1.  Gill P, Jeffreys AJ, Werrett DJ: Forensic application of DNA ‘fingerprints’.
+Nature 1985, 318:577–579.
+2.  Jeffreys AJ, Brookfield JFY, Semeonoff R: Positive identification of an
+immigration test case using DNA fingerprints. Nature 1985, 317:818–819.
+3.  Jeffreys AJ: Genetic fingerprinting. Nat Med 2005, 11:1035–1039.
+4.  Connors E, Lundregan T, Miller N, McEwen T: Convicted by juries,
+exonerated by science: Case studies in the use of DNA evidence to
+establish innocence after trial. In Case Studies in Use of DNA Evidence Series:
+NIJ Research Report 1996. Washington DC: National Institute of Justice;
+1996:118.
+5.  Promega Corp: An interview with Sir Alex Jeffreys. Profiles in DNA 2007,
+10(2):3–5. [URL: "http://au.promega.com/~/media/files/resources/profiles%20in%20dna/1002/an%20interview%20with%20sir%20alec%20jeffreys.pdf?la=en"] http://au.promega.com/~/media/files/resources/profiles%20in%
+ 20dna/1002/an%20interview%20with%20sir%20alec%20jeffreys.pdf?la=en.
+6.  Gitschier J: The eureka moment: an Interview with Sir Alec Jeffreys. PLoS
+Genet 2009, 5(12):e1000765. doi:10.1371/journal.pgen.1000765.
+7.  Jeffreys AJ, Wilson V, Thein SV: Hypervariable ‘minisatellite’ regions in
+human DNA. Nature 1985, 314:67–73.
+8.  Burke T, Bruford M: DNA fingerprinting in birds. Nature 1987, 327:149–152.
+9.  Wetton JH, Carter RE, Parkin DT, Walters D: Demographic study of a
+wild house sparrow population by DNA fingerprinting. Nature 1987,
+327:147–149.
+10. Mulder RA, Dunn PO, Cockburn A, Lazenby-Cohen KA, Howell MJ: Helpers
+liberate female fairy-wrens from constraints on extra-pair mate choice.
+Proc Roy Soc Lond B 1994, 255:223–229.
+11. Hamilton WD: The genetical evolution of social behaviour, I and II. J Theor
+Biol 1964, 7:1–52.
+12. Ma W, Lambert DM: Minisatellite DNA markers reveal hybridisation
+between the endangered black robin and tomtits. Electrophoresis 1997,
+18:1682–1687.
+13. May CA, Wetton JH, Parkin DT: Polymorphic sex-specific sequences in
+birds of prey. Proc Roy Soc Lond B 1993, 253:271–276.
+14. Millar CD, Lambert DM, Bellamy AR, Stapleton PM, Young EC: Sex-specific
+restriction fragments and sex ratios revealed by DNA fingerprinting in
+the brown skua. J Hered 1992, 83:350–355.
+15. Miyaki CY, Hanotte O, Wajntal A, Burke T: Sex-typing of Aratinga parrots
+using the human mini-satellite probe 33.15. Nucl Acids Res 1992,
+20:5235–5236.
+16. Korpimäki E, May CA, Parkin DT, Wetton JH, Wiehn J: Environmental- and
+parental condition-related variation in sex ratio of kestrel broods. J Avian
+Biol 2000, 31:128–134.
+17. Kirby LT: DNA Fingerprinting: An Introduction. New York, NY: Stockton Press;
+1990.
+18. Chambers GK: Running the perfect gel. Fingerprint News 1990, 2:4–6.
+19. Budowle B, Giusti AM, Waye JS, Baechtel FS, Fourney RM, Admas DE,
+Deadman HA, Monson KL: Fixed-bin analysis for statistical evaluation of
+continuous distributions of allelic data from VNTR loci for use in forensic
+comparisons. Am J Hum Genet 1991, 48:841–855.
+20. Federal Bureau of Investigation: VNTR Population Data: A Worldwide Study.
+Volumes I-IV. Quantico, VA: Federal Bureau of Investigation, Forensic Science
+Research and Training Center; 1993.
+21. Jeffreys AJ, MacLeod A, Tamaki K, Neil DL, Monckton DG: Minisatellite
+repeat coding as a digital approach to DNA typing. Nature 1991,
+354:204–209.
+22. Jeffreys AJ, Neumann R, Wilson V: Repeat unit sequence variation in
+minisatellites: a novel source of DNA polymorphism for studying
+variation and mutation by single molecule analysis. Cell 1990, 60:473–485.
+23. Gibbs HL, Patrick J, Weatherhead PJ, Boag PT, White BN, Tabak LM, Hoysak
+DJ: Realized reproductive success of polygynous red-winged blackbirds
+revealed by DNA markers. Science 1990, 250:1394–1397.
+Page 10
+Chambers et al. Investigative Genetics 2014, 5:3
+http://www.investigativegenetics.com/content/5/1/3 
+Page 10 of 11
+24. Owens IPF, Dixon A, Burke T, Thompson DBA: Strategic paternity
+assurance in sex-role reversered Eurasian dotterel (Charadrius
+morinellus): Behavioral and genetic evidence. Behav Ecol 1995, 6:14–21.
+25. Burke T, Davies NB, Bruford M, Hatchwell BJ: Parental care and mating
+behaviour of polyandrous dunnocks Prunella modularis related to
+paternity by DNA fingerprinting in birds. Nature 1987, 328:249–251.
+26. Lambert DM, Millar CD, Jack K, Anderson S, Craig JL: Single- and multilocus
+DNA fingerprinting of communally breeding pukeko: Do copulations or
+dominance ensure reproductive success? Proc Natl Acad Sci USA 1994,
+91:9641–9645.
+27. Millar CD, Anthony I, Lambert DM, Stapleton PM, Bergmann CC, Bellamy RA,
+Young EC: Patterns of reproductive success determined by DNA fingerprinting
+in a communally breeding oceanic bird. Biol J Linn Soc 1994, 52:31–48.
+28. Jones CS, Lessells CM, Krebs JR: Helpers-at-the-nest in European bee-eaters
+(Merops apiaster): a genetic analysis. In DNA Fingerprinting: Approaches and
+Applications, Experientia Supplementum. Edited by Burke T, Dolf G, Jeffreys AJ,
+Wolff R. Basel: Birkhauser; 1991:169–192.
+29. Quinn JS, Woolfenden GE, Fitzpatrick JW, White BN: Multi-locus DNA
+fingerprinting supports genetic monogamy in Florida scrub-jays. Behav
+Ecol Sociobiol 1999, 45:1–10.
+30. Beck NR, Peakall R, Heinsohn R: Social constraint and an absence of
+sex-biased dispersaldrive fine-scale genetic structure in white-winged
+choughs. Mol Ecol 2008, 17:4346–4358.
+31. Triggs SJ, Williams M, Marshall SJ, Chambers GK: Genetic relationships
+within a population of blue duck (Hymenolaimus malacorhynchos).
+Wildfowl 1991, 42:87–93.
+32. Triggs SJ, Williams MJ, Marshall SJ, Chambers GK: Genetic structure of blue
+duck (Hymenolaimus malacorhynchos) populations revealed by DNA
+fingerprinting. Auk 1992, 109:80–89.
+33. King TM, Williams M, Lambert DM: Dams, ducks and DNA: identifying the
+effects of a hydro-electric scheme on New Zealand’s endangered blue
+duck. Conserv Genet 2000, 1:103–113.
+34. Ardern SL, Lambert DM, Rodrigo AG, Mclean IG: The effects of population
+bottlenecks on multilocus DNA variation in robins. J Hered 1997, 88:179–186.
+35. Ardern SL, Ma W, Ewen JG, Armstrong DP, Lambert DM: Social and sexual
+monogamy in translocated New Zealand robin populations detected
+using minisatellite DNA. Auk 1997, 114:120–126.
+36. Amos W, Dover GA: DNA fingerprinting and the uniqueness of whales.
+Mammal Rev 1990, 20:23–30.
+37. Amos W, Twiss S, Pomeroy PP, Anderson SA: Male mating success and
+paternity in the grey seal, Halichoerus grypus: a study using DNA
+fingerprinting. Proc Biol Sci 1993, 252:199–207.
+38. Packer C, Gilbert DA, Pusey SAE, O’Brien SJ: Molecular genetic analysis of
+kinship and cooperationin African lions. Nature 1990, 351:562–565.
+39. Gilbert DA, Lehman N, O’Brien SJ, Wayne RK: Genetic fingerprinting reveals
+population structure in the California Channel Islands fox. Nature 1990,
+344:764–767.
+40. Baker CS, Gilbert DA, Weinrich MT, Lambertsen R, Calambokidis J, McArdle B,
+Chambers GK, O'Brien SJ: Population characteristics of DNA fingerprints in
+humpback whales (Megaptera novaeangliae). J Hered 1993, 84:281–290.
+41. Baker CS, MacCarthy M, Smith PJ, Perry AP, Chambers GK: DNA fingerprints
+of orange roughy, Hoplostethus atlanticus: a population comparison.
+Mar Biol 1992, 113:561–567.
+42. Hanotte O, Bruford MW, Burke T: Multilocus DNA fingerprints in
+gallinaceous birds: General approach and problems. Hered 1992, 68:481–494.
+43. Hermans IF, Chambers GK, Jordan TW: Genetic analysis in sheep using
+hypervariable DNA probes. Proc NZ Soc Animal Prod 1990, 50:465–466.
+44. Hermans IF, Morris CA, Chambers GK, Towers NR, Jordan TW: Assessment
+of DNA fingerprinting for determining genetic diversity in sheep
+populations. Animal Genet 1993, 24:385–388.
+45. Hermans IF, Atkinson J, Hamilton JF, Chambers GK: Three cases of disputed
+paternity in dogs resolved by the use of DNA fingerprinting. NZ Vet J
+1991, 39:61–64.
+46. Gray IC, Jeffreys AJ: Evolutionary transience of hypervariable minisatellites
+in man and the primates. Proc Biol Sci 1991, 243:241–253.
+47. Kelly R, Gibbs MA, Collick A, Jeffreys AJ: Spontaneous mutation at the
+hypervariable mouse minisatellite locus Ms6-hm: flanking DNA sequence
+and analysis of germline and early somatic mutation events. Proc Biol Sci
+1991, 245:235–245.
+48. Signer EN, Schmidt CR, Jeffreys AJ: DNA variability and parentage testing
+in captive Waldrapp ibises. Mol Ecol 1994, 3:291–300. 
+49. Litt M, Luty JA: A hypervariable microsatellite revealed by in vitro
+amplification of a dinucleotide repeat within the cardiac muscle actin
+gene. Am J Hum Genet 1989, 44:397–401.
+50. Weber JL, May PE: Abundant class of human DNA polymorphisms which
+can be typed using the polymerase chain reaction. Am J Hum Genet
+1989, 44:388–396.
+51. Hong-Sheng G, Peng Z, Cheng-Bo Y, Sheng-Bin L: HGD-Chn: the database
+of genome diversity and variation for Chinese Populations. Leg Med
+(Tokyo) 2009, 11(Suppl 1):S201–202.
+52. Verbenko DA, Limborskaia SA: Human minisatellite markers: D1S80 locus
+in population studies. Mol Gen Mikrobiol Virusol 2008, 2:3–11.
+53. Zhang X, Li J: Era of universal testing of microsatellite instability in
+colorectal cancer. World J Gastrointest Oncol 2013, 5:12–19.
+54. Shokal U, Sharma PC: Implication of microsatellite instability in human
+gastric cancers. Indian J Med Res 2012, 135:599–613.
+55. Pezer Z, Brajkovic J, Feliciello I, Ugarkovic D: Satellite DNA-mediated effects
+on genome regulation. Genome Dyn 2012, 7:153–169.
+56. Kennedy GC, German MS, Rutter WJ: The minisatellite in the diabetes
+susceptibility locus IDDM2 regulates insulin transcription. Nat Genet 1995,
+9:293–298.
+57. Miller HC, Lambert DM, Millar CD, Robertson BC, Minot EO: Minisatellite
+DNA profiling detects lineages and parentage in the endangered kakapo
+(Strigops habroptilus) despite low microsatellite DNA variation. Conservat
+Genet 2003, 4:265–274.
+58. Uller T, Olsson M: Multiple paternity in reptiles: patterns and processes.
+Mol Ecol 2008, 17:2588–2580.
+59. Hanken J, Sherman PW: Multiple paternity in Belding’s ground squirrel
+litters. Science 1981, 212:351–353.
+60. Gowaty PA, Karlin AA: Multiple parentage in single broods of apparently
+monogamous Eastern Bluebirds (Sialia sialis). Behav Ecol Sociobiol 1984,
+15:91–95 (1985).
+61. Pearse DE, Avise JC: Turtle mating systems: behaviour, sperm storage,
+and genetic paternity. J Hered 2001, 92:206–211.
+62. Olsson M, Schwartz T, Wapstra E, Uller T, Ujvari B, Madsen T, Shine R:
+Climate change, multiple paternity, and offspring survival in lizards.
+Evolution 2011, 65:3323–3326.
+63. Birkhead T, Møller AP: Sperm Competition and Sexual Selection. San Diego,
+CA: Academic Press; 1998.
+64. Soulsbury CD: Genetic patterns of paternity and testes size in mammals.
+PLoS One 2010, 5:e9581.
+65. Coleman SW, Jones AG: Patterns of multiple paternity and maternity in
+fishes. Biol J Linn Soc 2011, 103:735–760.
+66. Dean MD, Ardlie KG, Nachman MW: The frequency of multiple paternity
+suggests that sperm competition is common in house mice. Mol Ecol
+2006, 14:4141–4151.
+67. Birkhead T: Promiscuity- An Evolutionary History of Sperm Competition.
+Cambridge, MA: Harvard University Press; 2000.
+68. Hunter FM, Petrie M, Otronen M, Birkhead T, Møller: Why do females
+copulate repeatedly with one male? Trends Ecol Evol 1993, 8:21–26.
+69. Hoogland JL: Why do female Gunnison’s prairie dogs copulate with more
+than one male? Anim Behav 1998, 55:351–359.
+70. Madsen T, Shine R, Loman J, Hakansson T: Why do female adders copulate
+so frequently? Nature 1992, 355:440–441.
+71. Colegrave N, Kotiaho JS, Tomkins JL: Mate choice or polyandry:
+reconciling genetic compatibility and good genes sexual selection.
+Evol Ecol Res 2002, 4:911–917.
+72. Wolff JO, Macdonald DW: Promiscuous females protect their offspring.
+Trends Ecol Evol 2004, 19:127–134.
+73. Simmons LW, Achmann R: Microsatellite analysis of sperm-use patterns in
+the bushcricket Requena verticalis. Evolution 2000, 54:942–952.
+74. Chapman DD, Wintner SP, Abercrombie DL, Ashe J, Bernard AM, Shivji MS,
+Feldheim KA: The behavioural and genetic mating system of the sand tiger
+shark, Carcharias Taurus, an intrauterine cannibal. Biol Lett 2013, 9:20130003.
+75. Chapman DD, Firchau B, Shivji MS: Parthenogenesis in a large-bodied
+requiem shark, the blacktip Carcharhinus limbatus. J Fish Biol 2008,
+73:1473–1477.
+76. Chapman DD, Shivji MS, Louis E, Sommer J, Fletcher H, Prodöhl PA: Virgin
+birth in a hammerhead shark. Biol Lett 2007, 3:425–427.
+77. Feldheim KA, Chapman DD, Sweet D, Fitzpatrick S, Prodohl PA, Shivji MS,
+Snowden B: Shark virgin birth produces multiple, viable offspring. J Hered
+2010, 101:374–377.
+Page 11
+Chambers et al. Investigative Genetics 2014, 5:3
+http://www.investigativegenetics.com/content/5/1/3 
+Page 11 of 11
+78. Booth W, Johnson DH, Moore S, Schal C, Vargo EL: Evidence for viable,
+non-clonal but fatherless Boa constrictors. Biol Lett 2011, 7:253–256.
+79. Malysheva DN, Tokarskaya ON, Petrosyan VG, Danielyan FD, Darevsky IS,
+Ryskov AP: Genomic variation in parthenogenic lizard Darevskia
+armeniaca, evidence from DNA fingerprinting data. J Hered 2007,
+98:173–178.
+80. Watts PC, Buley KR, Sanderson S, Boardman W, Ciofi C, Gibson R:
+Parthenogenesis in Komodo dragons. Nature 2006, 444:1021–1022.
+81. Booth W, Smith CF, Eskridge PH, Hoss SK, Mendelson JR III, Shuett GH:
+Facultative parthenogenesis in wild vertebrates. Biol Lett 2012, 8:983–985.
+82. Manel S, Schwartz MK, Luikard G, Taberlet P: Landscape genetics:
+combining landscape ecology and population genetics. Trends Ecol Evol.
+2003, 18:189–197.
+83. Wilmer JW, Hall L, Barratt E, Moritz C: Genetic structure and male-mediated
+gene flow in the ghost bat (Macroderma gigas). Evol 1999, 53:1582–1591.
+84. Pardini AT, Jones CS, Noble LR, Kreiser B, Malcolm H, Bruce BD, Stevens JD,
+Cliff G, Scholl MC, Francis M, Duffy CA, Martin AP: Sex biased dispersal of
+great white sharks. Nature 2001, 412:139–140.
+85. Roberts MA, Schwartz TS, Karl SA: Global population genetic structure and
+male-mediated gene flow in the green sea turtle (Chelonia mydas):
+analysis of microsatellite loci. Genetics 2004, 166:1857–1870.
+86. Keeney DB, Heupel MR, Hueter RE, Heist EJ: Microsatellite and
+mitochondrial DNA analysis of the genetic structure of blacktip shark
+(Carcharhinus limbatus) nurseries in the northwestern Atlantic, Gulf of
+Mexico, and Caribbean Sea. Mol Ecol 2005, 14:1911–1923.
+87. Schubert G, Stoneking CJ, Arandjelovic M, Boesch C, Eckhardt N, Hohnmann
+G, Langergraber K, Lukas D, Vigilant L: Male-mediated gene flow in
+patrilocal primates. PLoS One 2011, 6:e21514.
+88. Johnson WE, Onorato DP, Roelke ME, Land ED, Cunningham M, Belden RC,
+McBride R, Jansen D, Lotz M, Shindle D, Howard J, Wildt DE, Penfold LM,
+Hostetler JA, Oli MK, O’Brien SJ: Genetic restoration of the Florida panther.
+Science 2010, 329:1641–1645.
+89. Schwartz TS, Karl SA: Population genetic assignment of confiscated
+gopher tortoises. J Wildlife Management 2008, 72:254–259.
+90. Hansen MN, Kenchington E, Nielsen EE: Assigning individual fish to
+populations using microsatellite DNA markers. Fish and Fisheries 2001,
+2:93–112.
+91. Paetkau D, Calvert W, Stirling I, Strobeck C: Microsatellite analysis of
+population structure in Canadian polar bears. Mol Ecol 1995, 4:347–154.
+92. Wasser SK, Clark WJ, Drori O, Kisamo ES, Mailand C, Mutayoba B, Stephens
+M: Combatting the illegal trade in African elephant ivory with DNA
+forensics. Conserv Biol 2008, 22:1065–1071.
+93. Chambers GK, MacAvoy ES: Microsatellites: consensus and controversy.
+Comp Biochem Physiol B 2000, 126:455–476.
+94. Chambers G, MacAvoy ES: The mutational dynamics and evolution of
+DNA microsatellites. In Dynamical Genetics 2004. Edited by Parisi V,
+DeFonzo V, Aluffi-Pentini F. Kerala: Research Signpost; 2004:133–152.
+95. Cornuet JM, Luikart G: Description and power analysis of two tests for
+detecting recent population bottlenecks from allele frequency data.
+Genetics 1997, 144:2001–2014.
+96. Sun JX, Helgason A, Masson G, Ebenesersdóttir SS, Li H, Mallick S, Gnerre S,
+Patterson N, Kong A, David Reich D, Stefansson K: A direct characterization
+of human mutation based on microsatellites. Nat Genet 2012, 44:1161–1165.
+97. Millar CD, Huynen L, Subramanian S, Mohandesan E, Lambert DM: New
+developments in ancient genomics. Trends Ecol Evol 2008, 23:386–393.
+98. Fernandez-Silva I, Whitney J, Wainwright B, Andrews KR, Ylitalo-Ward H,
+Bowen BW, Toonen RJ, Goetze E, Karl SA: Microsatellites for next-
+generation ecologists: a post-sequencing bioinformatics pipeline.
+PloS One 2013, 8:e55990.
+99. Bornman DM, Hester ME, Schuetter JM, Dasoji MD, Minard-Smith A, Barden
+CA, Nelson SC, Godbold GD, Baker CH, Yang B, Walther JE, Tornes IE, Yan PS,
+Rodriguez B, Bundschuh R, Dickens ML, Young BA, Faith SA: Short-read,
+high-throughput sequencing technology for STR genotyping. BioTechniques
+Rapid Dispatches 2012. doi 10.2144/000113857.
+100. Fordyce SL, Avila-Arcos MC, Rockenbauer E, Borsting C, Frank-Hansen R,
+Peterson FT, Willerslev E, Hansen AJ, Morling N, Gilbert MTP: High-throughput
+sequencing of core STR loci for forensic genetic investigations using the
+Roche Genome Sequencer FLX platform. Biotechniques 2011, 51:127–133.
+101. Divne AM, Edlund H, Allen M: Forensic analysis of autosomal STR markers
+using Pyrosequencing. Foren Sci Int Genet 2010, 4:122–129. 
+102. Highnam G, Franck C, Martin A, Stephens C, Puthige A, Mittelman D:
+Accurate human microsatellite genotypes from high-throughput
+resequencing data using informed error profiles. Nucleic Acids Res
+2013, 41:e32. doi: 10.1093/nar/gks981.
+103. Gymrek M, Golan D, Rosset S, Erlich Y: lobSTR: a short tandem repeat
+profiler for personal genomes. Genome Res 2012, 22:1154–1162.
+104. Green RE, Krause J, Briggs AW, Maricic T, Stenzel U, Kircher M, Patterson N, Li H,
+Zhai W, Fritz MH, Hansen NF, Durand EY, Malaspinas AS, Jensen JD,
+Marques-Bonet T, Alkan C, Prüfer K, Meyer M, Burbano HA, Good JM,
+Schultz R, Aximu-Petri A, Butthof A, Höber B, Höffner B, Siegemund M,
+Weihmann A, Nusbaum C, Lander ES, Russ C, et al: A draft sequence of
+the Neandertal genome. Science 2010, 328:710–722.
+105. Miller W, Drautz DI, Ratan A, Pusey B, Qi J, Lesk AM, Tomsho LP, Packard MD,
+Zhao F, Sher A, Tikhonov A, Raney B, Patterson N, Lindblad-Toh K, Lander ES,
+Knight JR, Irzyk GP, Fredrikson KM, Harkins TT, Sheridan S, Pringle T, Schuster SC:
+Sequencing the nuclear genome of the extinct woolly mammoth. Nature
+2008, 456:387–390.
+106. Miller W, Schuster SC, Welch AJ, Ratan A, Bedoya-Reina OC, Zhao F, Kim HL,
+Burhans RC, Drautz DI, Wittekindt NE, Tomsho LP, Ibarra-Laclette E,
+Herrera-Estrella L, Peacock E, Farley S, Sage GK, Rode K, Obbard M, Montiel R,
+Bachmann L, Ingólfsson O, Aars J, Mailund T, Wiig O, Talbot SL, Lindqvist C:
+Polar and brown bear genomes reveal ancient admixture and
+demographic footprints of past climate change. Proc Natl Acad Sci USA
+2012, 109:E2382–2390.
+107. Orlando L, Ginolhac A, Zhang G, Froese D, Albrechtsen A, Stiller M,
+Schubert M, Cappellini E, Petersen B, Moltke I, Johnson PL, Fumagalli M,
+Vilstrup JT, Raghavan M, Korneliussen T, Malaspinas AS, Vogt J, Szklarczyk D,
+Kelstrup CD, Vinther J, Dolocan A, Stenderup J, Velazquez AM, Cahill J,
+Rasmussen M, Wang X, Min J, Zazula GD, Seguin-Orlando A, Mortensen C, et al:
+Recalibrating Equus evolution using the genome sequence of an early
+Middle Pleistocene horse. Nature 2013, 499:74–78.
+108. Glenn TC: Field guide to next-generation DNA sequencers. Molec Ecol Res
+2011, 11:759–769. doi: 10.1111/j.1755-0998.2011.03024.x.
+109. Weaver J: Promise and pitfalls of third-generation sequencing.
+BioTechniques 2012. July 25.
+110. Ozsolak F: Third-generation sequencing techniques and applications to
+drug discovery. Expert Opin Drug Discovery 2012, 7:231–243.
+doi:10.1186/2041-2223-5-3
+Cite this article as: Chambers et al.: DNA fingerprinting in zoology: past,
+present, future. Investigative Genetics 2014 5:3.
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color ﬁgure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at
+www.biomedcentral.com/submit

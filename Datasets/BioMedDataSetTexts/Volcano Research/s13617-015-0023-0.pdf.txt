@@ -1,0 +1,1871 @@
+BOOKMARKS:
+Abstract
+Introduction
+  Properties and users of probabilistic volcanic hazard maps
+  Data classification
+  Content
+  Colour scheme
+  Map users
+Methods
+  Interviews
+  SurveyResults
+  Interviews
+    Map data classification
+    Map colour scheme
+    Map key expression
+    Map content
+    Revisions to maps for the survey
+  Survey
+    Map data classification
+    Map content
+    Map key expression
+    Hazard curves
+    Map colour scheme
+    Map explanatory text and map format
+Discussion
+  Data classification and uncertainty
+  Colour scheme and messages of hazard
+  Key expression and map trust
+  Map content and map usefulness
+  Map format and the importance of map-maker choices
+  Methodological remarks
+  Implications for volcanic hazard map design
+    Future work
+Conclusion
+Additional file
+Competing interests
+Authors’ contributions
+Acknowledgements
+References
+Page 1
+Thompson et al. Journal of Applied Volcanology (2015) 4:6
+DOI 10.1186/s13617-015-0023-0
+RESEARCH  Open Access
+The influence of probabilistic volcanic hazard
+map properties on hazard communication
+Mary Anne Thompson*, Jan M Lindsay and JC Gaillard
+Abstract
+Probabilistic volcanic hazard analysis is becoming an increasingly popular component of volcanic risk reduction strategies
+worldwide. While probabilistic hazard analyses offer many advantages for decision-making, displaying the statistical results
+of these analyses on a map presents new hazard communication challenges. Probabilistic information is complex, difficult
+to interpret, and associated with uncertainties. Conveying such complicated data on a static map image without careful
+consideration of user perspectives or context, may result in contrasting interpretations, misunderstandings, or aversion to
+using the map. Here, we present the results of interviews and surveys conducted with organisational stakeholders and
+scientists in New Zealand which explored how probabilistic volcanic hazard map properties influence map interpretation,
+understanding, and preference. Our results suggest that data classification, colour scheme, content, and key expression
+play important roles in how users engage with and interpret probabilistic volcanic hazard maps.
+Data classification was found to influence the participants’ perceived uncertainty and data reading accuracy, with
+isarithmic style maps reducing uncertainty and increasing accuracy best. Colour scheme had a strong influence on the
+type of hazard messages interpreted, with a red-yellow scheme conveying the message of a hazard distribution (high to
+low), and a red-yellow-blue scheme conveying the message of hazard state (present or absent) and/or risk. Multiple types
+of map content were found to be useful, and hazard curves were viewed as valuable supplements. The concept of
+“confidence” was more easily interpreted than upper and lower percentiles when expressing uncertainty on the hazard
+curves. Numerical and verbal expression in the key also had an influence on interpretation, with a combination of both a
+percent (e.g., 25%) and a natural frequency (e.g., 1 in 4) “probability” being the most inclusive and widely-understood
+expression. The importance of these map property choices was underscored by a high portion of participants preferring
+to receive maps in unalterable formats, such as PDF.
+This study illustrates how engaging with users in a bottom-up approach can complement and enhance top-down
+approaches to volcanic hazard mapping through a collaborative and integrative design process which may help to
+prevent miscommunications in a future crisis when maps are likely to be drafted and disseminated rapidly.
+Keywords: Hazard communication; Hazard maps; Probabilistic volcanic hazard analysis; Hazard curve; Interviews; Surveys;
+Stakeholders
+Introduction
+Volcanic hazards are spatial phenomena, described and
+communicated globally using maps. In conventional haz-
+ard mapping practice, scientists analyse data about vol-
+canic hazards, and then display the results on a map for a
+diverse audience of readers. However, this insular top-
+down approach to volcanic hazard communication does
+not necessarily translate into effective hazard awareness
+or informed decision-making, which are key contributors
+* Correspondence: [URL: "mailto:m.thompson@auckland.ac.nz"] m.thompson@auckland.ac.nz
+School of Environment, University of Auckland, Private Bag 92019, Auckland
+1142, New Zealand 
+to risk reduction. These factors are dependent on how
+the reader interprets and understands the hazard map, a
+facet of volcanic hazard communication that has been
+relatively unexplored.
+Wide variation in data type, hazard modelling tech-
+niques, cartographic styles, and subjective preference has
+led to a vast diversity in the ways volcanic hazard informa-
+tion is represented on maps (Calder et al. 2012), yet lim-
+ited attention has been paid to the impact of these choices
+on reader response and comprehension. For example, does
+the use of a particular colour scheme (e.g., blues versus
+reds),  data classification (e.g.,  stretched versus binned),
+© 2015 Thompson et al.; licensee Springer. This is an Open Access article distributed under the terms of the Creative Commons
+Attribution License ([URL: "http://creativecommons.org/licenses/by/4.0"] http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction
+in any medium, provided the original work is properly credited.
+Page 2
+Thompson et al. Journal of Applied Volcanology (2015) 4:6  Page 2 of 24
+or key expression (e.g., 10% versus 1 in 10) affect the way
+that a user interprets hazard information from the map?
+Geography (e.g., Robinson 1967; Bertin 1983; MacEachren
+1995; Monmonier 1996; Kunz and Hurni 2011) and com-
+munication (e.g.,  Fisher 1991; Hoffrage et al. 2000;
+Severtson and Myers 2013; Doyle et al. 2014) research
+literature suggests that these types of properties may
+play an important role in hazard information processing.
+As capabilities and accessibility of hazard analyses continue
+to advance, it is important and timely to investigate how
+quantitative hazard map information is interpreted by those
+who may refer to the maps for decision-making. Initial in-
+terpretations of maps become particularly important in the
+context of decision-making during high-stakes, time-
+pressure crisis situations when reliance on affective heuris-
+tics, or intuitive feelings about the map, is likely to be high
+(Finucane et al. 2000).
+In this New Zealand-based study, we use qualitative
+and quantitative methodologies to empirically investigate
+how certain map properties affect the way that stake-
+holders and scientists respond to and interpret informa-
+tion from probabilistic-style volcanic hazard maps, and
+aim to gain key map user perspectives on these hazard
+map properties. Understanding how map properties in-
+fluence map legibility and accessibility can help build
+awareness in the scientific community about the impact
+of certain choices when designing hazard maps, and ac-
+cordingly, help improve the consistency, clarity, and ef-
+fectiveness of volcanic hazard communication.
+Properties and users of probabilistic volcanic
+hazard maps
+Volcanic hazard maps are thematic maps, in which the
+features selected as primary map content are themed on
+information about the potential dangers associated with
+volcanoes. Probabilistic volcanic hazard maps depict, in
+varying ways, the likelihood of a certain dangerous vol-
+canic phenomenon(a) occurring in a particular area in a
+specific time frame. Computational advances and devel-
+opment of a number of probabilistic volcanic hazard
+analysis methodologies over the past decade (e.g., Mader
+et al. 2006) have led to a marked increase in the amount
+of probabilistic volcanic hazard maps being created
+today. There are many advantages of using a probabilis-
+tic approach to analyse volcanic hazards. Volcanoes are
+inherently complex systems associated with many degrees
+of uncertainty. Probabilistic methods allow scientists to
+evaluate the unknowns and to quantify and compare the
+likelihood of a broad range of different possible hazard
+scenarios, introducing more practical applications to
+risk assessment than traditional methods which typic-
+ally analyse only one scenario (Newhall and Hoblitt
+2002; Marzocchi et al. 2012). However, using probabilis-
+tic volcanic hazard data to build hazard maps also 
+presents new challenges. Probabilities are inherently diffi-
+cult to communicate and understand among experts and
+non-experts alike (Hoffrage et al. 2000; Spiegelhalter et al.
+2011), and are interpreted and contextualised differently
+by different types of map users (Reyna and Brainerd 2008;
+Doyle et al. 2014). Conveying uncertain data using con-
+crete map images may also introduce communication ob-
+stacles (Severtson and Myers 2013).
+Many methods exist for both generalising (simplifying)
+and representing (depicting) thematic content on maps
+(Slocum 1999; Dent et al. 2009). Extensive options mean
+that strikingly different maps can be created from a sin-
+gle set of data. Such choices for representing the data
+may have important impacts on how the map is per-
+ceived and interpreted (Monmonier 1996). While a map
+may be designed to convey a single dataset of interest, it
+does not convey a single universal message. Each user
+constructs their own individual knowledge from inter-
+preting the different symbols, colours, and expressions on
+the map (Bertin 1983; MacEachren 1995). Some key the-
+matic map properties for which it is important to consider
+the choice of representational style are: data classification,
+map content, and colour scheme (Monmonier 1996; Dent
+et al. 2009).
+Data classification
+Data classification refers to the characterisation and cat-
+egorisation of a dataset into a particular visual symbol-
+ogy (Dent et al. 2009; Slocum 1999).  For example, for
+a dataset which comprises 1,000 numerical values that
+range from 1 to 100, e.g.,  probabilistic hazard values,
+those values can be stretched gradationally over a grad-
+ual ramp of colours, where each value responds to a
+unique shade of colour on the ramp (e.g.,  white = 0 to
+black = 100 for a greyscale ramp). Isopleths or isarithms
+(lines connecting points of equal value) can be applied
+on top of the shaded classification to provide points of ref-
+erence for the reader. Alternatively, the numerical values
+can be classed into exclusive bins which contain a specific
+range of values (e.g., 1 – 9, 10 – 19, and 20 – 29) and are
+represented by a unique colour. All values that fall together
+within a certain bin, or colour, are equally representative of
+that category. Applying different data classifications can
+yield markedly different patterns on the map, and can also
+influence how readers interpret the data (Robinson et al.
+1995; Monmonier 1996; Brewer and Pickle 2002).
+Content
+Map content is another important property which can
+influence interpretation of thematic maps (Monmonier
+1996; Dent et al. 2009).  Background content, such as
+boundaries, rivers, and landforms, are provided as points
+of reference for the reader, and are essential for users to
+be able to orient themselves with the data. Haynes et al.
+Page 3
+Thompson et al. Journal of Applied Volcanology (2015) 4:6  Page 3 of 24
+(2007) and Nave et al. (2010) found that selection of
+background content can have a significant influence on
+how well readers understand volcanic hazard maps, par-
+ticularly among local populations living proximal to the
+volcano. The representation of thematic feature content
+also has an impact on how readers interpret the map.
+Probabilistic hazard datasets are typically quite robust in
+that they often include a range of data types (e.g., vol-
+canic ash thickness, ash grain size) at multiple levels of
+uncertainty (e.g., 90th percentile, average) over a number
+of different time frames (e.g., in the event of an eruption,
+in the next 10 years).  For example, some probabilistic
+volcanic hazard map toolsets are currently being de-
+signed to output two types of mappable content: a distri-
+bution of the probabilities of reaching and exceeding a
+fixed hazard intensity threshold (e.g., 10 mm of ash), or
+a distribution of hazard intensities expected at a fixed
+probability threshold (e.g.,  25%) over any user-defined
+timeframe (Tonini et al. in press). Certain types of haz-
+ard information may have different meanings and sali-
+ence to different types of map users.
+Colour scheme
+Influencing more than just aesthetics, colour is a map
+property that has the power to provide visual contrast,
+unify elements, and guide attention of the map reader
+(Robinson 1967; Wolfe and Horowitz 2004).  Blends of
+colour hue, saturation, and lightness can be manipulated
+to create a broad range of appropriate and logical colour
+schemes for maps. However, colour schemes also have a
+high margin for confusion (Brewer 1994; Robinson et al.
+1995; Olson and Brewer 1997).  Colours are inherently
+imbued with meanings for the map reader (Robinson
+1967; Bertin 1983; Brewer 1994; Dent et al. 2009). While
+many volcanic hazard maps employ a Western green-
+yellow-red “stoplight” colour scheme, or a blue-yellow-
+red “cold to hot” colour scheme, these may have unin-
+tended meanings for some map readers (Monmonier
+1996). For example, red may be associated with “hot” or
+“bad” and green with “vegetation” or “good”.  A green-
+red diverging colour scheme is also likely to be very dif-
+ficult to perceive for a colour blind user (Olson and
+Brewer 1997; Jenny and Kelso 2007; Brewer et al. 2013).
+Approximately 8% of males and 0.5% of females have
+some form of colour-vision deficiency (AOA 2014) and
+this can cause complications if not taken into consider-
+ation in map colour scheme design (Olson and Brewer
+1997; Jenny and Kelso 2007).  Although map makers
+strive for the highest degree of objectivity in designing
+probabilistic hazard maps, these fundamental choices
+for colour scheme, content type, and data classification
+are largely driven by subjective preference. Currently,
+there are few recommendations available for choosing 
+appropriate styles, as the impact of these choices has not
+previously been tested with volcanic hazard map users.
+Map users
+Volcanic hazard maps have a wide range of applications
+and uses, and accordingly, they have many different types
+of users. In New Zealand, some important hazard map
+stakeholders are in local and regional government, health,
+education, agriculture, aviation, communications, emer-
+gency management, and in other groups which may use
+volcanic hazard information to make decisions regarding
+national, institutional, or local risk reduction. The detailed
+quantitative nature of probabilistic volcanic hazard infor-
+mation is well suited for organisational stakeholder
+decision-making, and could enhance the structure, per-
+formance, and reliability of decision-making strategies
+(Woo 2008, 2009; Marzocchi et al. 2012).  Although
+each stakeholder will have different perspectives and infor-
+mational needs, resource and time constraints make it
+impractical to develop unique hazard maps for each user
+group, particularly in a time of volcanic crisis (Leonard
+et al. 2014). It is therefore important to investigate how
+hazards maps can be designed to maintain a wide degree
+of relevance, legibility, and applicability among a diverse
+group of stakeholders. In order to do this, stakeholder
+perspectives and opinions must be taken into account,
+as studies show that differences exist in the way that
+scientists (typically the hazard map makers) and other
+stakeholders, such as emergency managers, understand
+and use probabilistic volcanic hazard information (Doyle
+et al. 2011, 2014). Emergency managers are a particularly
+important group of hazard map users in New Zealand,
+as they are responsible for managing many short- and
+long-term natural hazard and risk reduction decisions
+which directly affect populations at risk (MCDEM 2002).
+We emphasise that people at risk are also very import-
+ant stakeholders in probabilistic volcanic hazard maps and
+in the decisions made using such maps, but acknowledge
+that a survey of those at risk is outside of the scope of this
+study. We also acknowledge that the New Zealand stake-
+holder community is a generally well-educated populace,
+and typically has a good grasp of the concept of volcanic
+hazard due to regular engagement with the scientific com-
+munity. Exploring probabilistic volcanic hazard map per-
+ception in other cultural, volcanic, and socio-economicsettings both within New Zealand and internationally, is
+an important area for further research.
+Methods
+A pragmatic mixed-methods approach was adopted
+(Morgan 2007),  where qualitative semi-structured in-
+person interviews were implemented as a pilot study to
+test ideas and questions which informed the development
+of a qualitative and quantitative online survey exploring
+Page 4
+Thompson et al. Journal of Applied Volcanology (2015) 4:6  Page 4 of 24
+the influence of probabilistic volcanic hazard map design
+properties on understanding and communicating hazard.
+Inductive thematic analysis of semi-structured interviews
+was used to identify themes regarding how scientists and
+stakeholders felt about certain map design properties and
+how they engaged with the hazard maps. Design proper-
+ties which emerged as themes which have a sensitive or
+powerful impact on interpretation of the hazard maps
+were explored further in the survey among a broader sam-
+ple group. Both methodological components of this study
+were individually approved by a human participation eth-
+ics committee.
+It was emphasised to participants that the data on the
+maps were hypothetical, and all participants were
+reminded that the maps seen were not to be referred to for
+any type of decision-making. The datasets used were in
+raster format and represented the probability of accumulat-
+ing a certain thickness of volcanic ash in the event of a rhy-
+olitic eruption from Tarawera volcano in New Zealand’s
+North Island. Datasets were based on actual ash hazard
+analyses done by Thompson et al. (under review). Tarawera
+volcano is a well-known active volcano in New Zealand,
+and has had two very large explosive eruptions in the past
+1 ka (Walker et al. 1984; Nairn et al. 2001). Ashfall hazard
+was chosen because it is one of the most common prod-
+ucts of volcanic activity worldwide, and it is a widespread,
+disruptive hazard that can impact society on many differ-
+ent spatial, temporal, and socio-economic scales (Blong
+1984). Ashfall is also a volcanic hazard that is commonly
+analysed using a probabilistic approach because of the need
+to consider variable atmospheric conditions (e.g.,  Scollo
+et al. 2008; Folch 2012). New Zealand regularly experiences
+small scale (~1 – 2 mm) volcanic ashfalls from its most fre-
+quently active volcanoes, with the most recent incidence of
+minor ashfall occurring in 2012 (Scott and Potter 2014). 
+isopleths (5% labelled intervals),  and binned (10% inter-
+vals).  These maps were displayed using a red-yellow
+multi-hue sequential colour scheme similar to that used
+commonly in volcanic hazard maps worldwide. The fifth
+map displayed the data using a blue-yellow-red multi-hue
+diverging colour scheme similar to that used in other types
+of hazard maps worldwide (e.g., flooding), and the sixth
+map showed a deterministic scenario hazard map based
+on a single pre-determined eruption scenario (i.e.,  one
+wind condition and one set of eruptive parameters).  A
+series of cards depicting numerical expressions of percent
+(10%), natural frequency (1 in 10), and decimal probability
+(0.1) and verbal expressions of “probability”, “likelihood”,
+and “chance” were also presented for discussion.
+Participants were recruited by e-mailing informational
+flyers to regional and district councils near Tarawera vol-
+cano and to the national geological research institute
+(GNS Science), with encouragement to circulate the in-
+formation among colleagues, affiliates, and peers who
+would be interested in participating. Initial contact was
+made by interested persons contacting the researchers
+with an expression of interest. A total of 14 people par-
+ticipated in the interviews, including four volcano scien-
+tists with specialties in volcano geophysics, monitoring,
+and hazard analysis, and ten stakeholders with special-
+ties in emergency management, planning, infrastructure
+and resource management, and public health.
+Full transcripts of the semi-structured interviews were
+analysed using inductive thematic analysis at the seman-
+tic level, based on the framework outlined by Braun and
+Clarke (2006). The transcripts were analysed in order to
+identify emergent themes regarding how map properties
+such as data classification, colour scheme, key expression,
+and content influenced the way the participant thought
+about or interpreted the map and its usefulness.
+Interviews
+A one-on-one semi-structured interview format was
+used, in which a flexible framework of questions was
+built around discussion of six maps which were designed
+to foster discussion of the participants’  views on map
+data classification, colour scheme, content, key expression,
+and usefulness (Figure 1).  Interviews lasted an average
+duration of 40 minutes. The same probabilistic hazard
+dataset, showing the probability of accumulating ≥10 mm
+of ash, was used for all maps (except one), so that only
+changing map design properties, and not changing data,
+influenced responses. All maps depicted hazard only for
+the administrative region in which Tarawera volcano is lo-
+cated, and were viewed at 315 × 275 mm size.
+Four of the maps showed the hazard data displayed
+using different data classification styles: gradational shaded
+(minimum-maximum stretch),  isarithmic with solid iso-
+pleths (5% labelled intervals),  isarithmic with dashed 
+Survey
+The online survey comprised 16 pages of 31 questions
+designed to measure participant views on data classifica-
+tion (Figure 2), map content (Figure 3), key expression,
+hazard curves (Figure 4), map colour scheme (Figure 5),
+explanatory text (Figure 6),  and map format. These
+topics were chosen based on their assumed relevance
+from results of the interviews, literature review, and the
+prominence of these properties recognised in existing
+natural hazard maps. The survey is summarised in
+Table 1. The survey was based on participants viewing
+eight different hazard maps styles (Figures 2, 3, 5) and
+two hazard curve styles (Figure 4),  and responding to
+questions about them. The results of the interviews
+informed some of the design features used in the survey
+maps. Seven of the maps showed the exact same probabil-
+istic hazard data, the probability of accumulating ≥1 mm
+of ash, so that only changing map design properties, and
+Page 5
+Thompson et al. Journal of Applied Volcanology (2015) 4:6
+A  B 
+Page 5 of 24
+C
+DEF
+Figure 1 Maps used in the in-person interviews. Maps A - D were presented for discussion of the following data classification types: A) gradational
+shaded (minimum-maximum stretch), B) isarithmic with solid isopleths (5% labelled intervals), C) isarithmic with dashed isopleths (5% labelled intervals),
+and D) binned (10% intervals). Map E shows probabilistic hazard data displayed in a blue-yellow-red diverging colour scheme, and map F shows a
+deterministic scenario hazard map (the only map to use a different dataset). Data are cut to a geopolitical regional boundary. Maps were viewed at
+315 × 275 mm size.
+not changing data, influenced responses. The remaining
+map used the same dataset, but showed a probability
+threshold (i.e., 25% probability), instead of an ash thresh-
+old (i.e., ≥ 1 mm ash). All maps were displayed at 150 ppi
+with a size of 800 × 710 pixels (except for colour scheme
+maps, shown at 584 × 518 pixels) and were designed with
+colour blind-safe 8-bit RGB colour schemes retrieved from
+the Color Brewer tool ([URL: "http://www.colorbrewer2.org"] www.colorbrewer2.org, Brewer
+et al. 2013).  Color Brewer is a free, online, research-
+backed (Brewer 1996; Harrower and Brewer 2003) tool
+which provides many colour schemes specifically designed
+to suit a variety of display environments (e.g., screen or
+print) and to be colour blind accessible. Participants
+accessed the free online survey using a custom one-time-
+use URL. The survey was open for participation for
+41 days. Average time for completion was 25 minutes. A
+copy of the survey can be found in Additional file 1.
+Participants were recruited using a standard snowball
+sampling methodology. E-mails were sent by the
+researchers to approximately 50 organisations with a
+request that the information advertising the survey be
+circulated to any persons who may use, be interested in,
+or be involved in the production and editing of, volcanic 
+hazard maps in New Zealand. The e-mail encouraged
+interested persons to share the survey link with
+colleagues or associates that they thought may also
+be interested. All interview participants were also
+directly invited to participate in the survey. The survey
+drew 110 participants from a variety of different occu-
+pational disciplines, with 29.1% of respondents in the
+scientist group, and 70.9% in the stakeholder group
+(including 26.4% in emergency management and plan-
+ning) (Table 2).  The majority of participants (88.1%)
+ranged between 25 and 64 years of age, and 88.2%
+held an undergraduate or postgraduate/graduate degree
+(Table 3).
+Descriptive and inferential statistical analyses of sur-
+vey results were performed using IBM SPSS predictive
+analytics software. Responses to this survey generated
+primarily non-parametric nominal (i.e.,  categorical)
+data, and chi-square tests were used to identify the
+existence of significant differences within and among
+samples. Text responses to open-ended survey questions
+were qualitatively analysed using inductive thematic
+analysis at the semantic level to identify key patterns and
+themes.
+Page 6
+Thompson et al. Journal of Applied Volcanology (2015) 4:6  Page 6 of 24
+A  Figure 2 Map images used in the survey (Table 1, Questions 6–13)
+showing three different probabilistic hazard data classification
+styles: A) gradational shaded, B) binned, and C) isarithmic. Blue
+outline shows the urban area of Whakatane for reference purposes here
+only. In the survey, Whakatane and other areas appeared outlined in
+grey with grey striped fill underneath the transparent hazard overlay (not
+clearly visible at reduced size printed here). Seventeen urban areas, main
+highways, large lakes, and a greyscale digital elevation model underlie
+the transparent hazard layer as background features. Black triangle
+represents the location of Tarawera volcano. Maps were viewed
+at 800 × 710 pixels.
+Results
+Interviews
+Map data classification
+Clarity/ease of reading, precision/uncertainty, and aes-
+B  thetics emerged as the three primary themes in partici-
+pants’  discussion of map data classification. The ease
+with which participants were personally able to read data
+from the map was a motivator for map preference, but
+participants also expressed consideration of how easy it
+would be to use the map to communicate with peers
+and the public:
+It’s more than just communicating it [the map] to
+fellow scientists, or fellow emergency managers,
+or engineers, or whatever. It’s also how do you
+communicate that further down to, to members of
+the public. – Stakeholder 5
+The isarithmic maps (Figure 1B,C) were well-liked and
+were viewed as accurately portraying the realistic nature
+of the volcanic ash hazard, while also being easy to read
+C  with a high degree of precision:
+The advantage is you can still quite easily see the
+gradational nature of the probability, but at the same
+time you can read off the actual percentage if you feel
+you need to read that off. – Scientist 4
+No relationship was observed between dashed
+(Figure 1C) and solid isopleths (Figure 1B) and inter-
+pretation of hazard information. However, the black
+isopleths and labels across the map were viewed as
+busy and distracting, detracting from the aesthetic
+appeal of the map. Participants overall recommended
+smoothing of the isopleths, citing that straight lines
+and right angles resulting from the square grid used in
+the model were visually unappealing and could falsely
+imply certainty. Participants also viewed the 5% inter-
+vals on the isopleths (Figure 1B,C) as misleadingly pre-
+cise, and instead preferred the 10% intervals used in
+the binned map (Figure 1D).
+Page 7
+Thompson et al. Journal of Applied Volcanology (2015) 4:6  Page 7 of 24
+Figure 3 Map images used in the survey (Table 1, Questions 14–15) showing two different types of map content. Map A depicts the hazard
+using a fixed ash threshold – a distribution of probabilities of reaching and exceeding a fixed ash threshold, here, 1 mm, and map B depicts the hazard
+using a fixed probability threshold – a distribution of ash thicknesses expected at a fixed probability threshold, here, 25%. Key in A shows binned
+classes of probability (e.g., 25 – 34%). Key in B shows binned classes of ash thicknesses (e.g., 1 – 10 mm). Maps were viewed at 800 × 710 pixels.
+The binned map was also well-liked among participants,
+who viewed it as easy to read and visually appealing. Stake-
+holder participants also expressed that the binned map
+allowed for interpreting the map with more certainty, view-
+ing binned zones as “more definitive”.  Stakeholders also
+expressed the bins as a useful tool for visualising zones: 
+Although there’s defined areas between them [bins], it’s
+kind of useful in terms of a planning aspect that you’ve
+got some boundaries to work on. – Stakeholder 6
+However, both scientists and stakeholders expressed
+that the boundaries between classes on the binned map
+Figure 4 Hazard curves used in the survey (Table 1, Questions 18–22). Both show the same dataset for Whakatane probabilistic ash hazard,
+but the presentation of the curve in A shows the average absolute probability, along with the 10th and 90th percentile lines, and in B shows the
+average absolute probability, where the area between the 10th and 90th percentile lines is presented as an 80% confidence interval. Hazard curves
+were viewed at 800 × 710 pixels.
+Page 8
+Thompson et al. Journal of Applied Volcanology (2015) 4:6
+A
+B
+C
+Figure 5 (See legend on next page.) 
+Page 8 of 24
+Page 9
+Thompson et al. Journal of Applied Volcanology (2015) 4:6  Page 9 of 24
+(See figure on previous page.)
+Figure 5 Maps used in the survey (Table 1, Questions 23–25) showing three different map colour schemes: A) red-yellow sequential,
+B) blue-yellow sequential, and C) blue-yellow-red diverging. Maps were presented in both gradational shaded (left) and binned (right)
+data classification format simultaneously so that participants could visualise the colour schemes on different styles of map. Maps were viewed
+at 584 × 518 pixels.
+(Figure 1D) could present a disadvantage if they were a potential to be impacted on the red-yellow sequential
+interpreted as non-gradational or “step-wise”:  map (Figure 1A-D):
+Except, when you put a boundary on it, then people
+probably think if they’re on one side of the boundary
+or the other there’s a huge difference in probability
+when there isn’t. – Scientist 3 
+My first impression of that [diverging map] is, blue
+would be safe. Whereas, where this [blue area] is
+yellow in the other maps, it implies there is some sort
+of risk that we need to consider. – Stakeholder 2
+The background content was generally well liked,
+and viewed as helpful for orientation and location
+tasks, without cluttering the map. In contrast, geopol-
+itical boundary limits on the data were not liked. Par-
+ticipants suggested that the boundary made the hazard
+appear to “stop” artificially. Participants also empha-
+sized that managing and responding to hazards is a
+collaborative process that crosses boundaries, and that
+uncertainties or unknowns for the hazard in the sur-
+rounding regions introduced potential issues for inter-
+pretation and application.
+Map colour scheme
+Colour associations, zoning, and response emerged as
+the three primary themes in participants’  dialogue con-
+cerning map colour scheme. Overall, participants associ-
+ated red hues with a presence of hazard and blue hues
+with an absence of hazard. This became particularly im-
+portant in low probability areas, which would be consid-
+ered as “safe” if seen in the blue-yellow-red diverging
+map (Figure 1E), but would still be considered as having 
+These associations were described by participants as
+“subliminal”,  “genetic”,  and “psychological”.  The contrast
+between hues in the diverging map (Figure 1E) was seen as
+making the hazard appear smaller, as a localised zone, and
+was discussed as facilitating distinction between impacted
+zones in the context of targeting response attention:
+It makes it very clear, ‘that’s the area we’re worried
+about. We’re not worried about anything else around
+the district’. – Stakeholder 7
+Stakeholders also observed that the diverging colour
+scheme appeared very similar to other natural hazard
+maps that they had experience with:
+Automatically [I] relate that to weather maps… and
+just to complicate matters worse, we’re also doing
+flooding maps, and the models that we use are based
+very much on the same colour format. So I would
+look at that straight away and think, ‘Oh, it’s a flood
+map.’…because you see the blue. – Stakeholder 8
+Figure 6 Explanatory text provided at the top of one of the maps in the survey (Table 1, Questions 26–27).
+Page 10
+Thompson et al. Journal of Applied Volcanology (2015) 4:6  Page 10 of 24
+Table 1 Summary of questions asked in the online survey
+Questions in survey
+Question  Topic  Type
+Ethics
+1  Understanding of voluntary consent  MC
+2  Understanding of access to summary of study findings MC
+Field of work
+3  Primary field of work  MC*
+Personal associations/relevance of volcanic hazard
+4  Experience/memories of volcanoes  MC*
+5  Importance of volcanic hazard maps  MCL
+Data classification (Figure 2)
+6  Read probabilistic hazard from gradational shaded map Txt
+7  Read qualitative hazard from gradational shaded map MCL
+8  Read probabilistic hazard from binned map  Txt
+9  Read qualitative hazard from binned map  MCL
+10  Read probabilistic hazard from isarithmic map  Txt
+11  Read qualitative hazard from isarithmic map  MCL
+12  Order data classification style maps preference DD
+13  Explain data classification style maps preference Txt
+Map content (Figure 3)
+14  Helpfulness of fixed ash/probability threshold maps MCL
+15  Preferred map to receive of fixed ash/probability MC
+threshold maps
+Key expression
+16  Preferred key text  MC
+17  Influence of key text on perceived level of hazard MC*
+Hazard curves (Figure 4)
+18  Read hazard curve with percentile lines  MC
+19  Ease/difficulty of reading hazard curve with percentile lines MCL
+20  Read hazard curve with confidence interval area MC
+21  Ease/difficulty of reading hazard curve with confidence area MCL
+22  Rank helpfulness of hazard curves being available with map MCL
+Map colour scheme (Figure 5)
+23  Preferred colour scheme set of maps  MC
+24  Explain reason for colour scheme preference Txt
+25  Influence of colour scheme on hazard perception MCL*
+Explanatory text (Figure 6)
+26  Helpfulness of explanatory text to understanding map MCL*
+27  Importance of explanatory text on map  MCL*
+Format
+28  Desired format for receiving volcanic hazard maps MC+
+Demographics (Table 2)
+29  Age bracket  MC
+30  Ethnicity  MC
+31  Highest level of education  MC
+*Optional comments text box provided.
++Can select more than one answer.
+MC, Multiple choice. MCL, Multiple choice Likert scale. Txt, Text. DD, Drag-and-drop.
+See Additional file 1 for full survey. 
+Table 2 Survey participants’ occupational discipline
+Participant occupational discipline
+Primary field
+of work* 
+Frequency Percent Cumulative
+percent
+Group Response
+Scientist**  Physical/chemical/earth 32
+science (academic or
+scientific organisation) 
+29.1  29.1
+Stakeholder Agriculture 4  3.6  70.9
+Communication 3  2.7
+Education 1  0.9
+Emergency
+management
+and planning 
+29  26.4
+Engineering 9  8.2
+Government 17  15.5
+Health  1  0.9
+Infrastructure/resource 11
+management 
+10.0
+Social science 3
+(academic or
+scientific organisation) 
+2.7
+Total  110  100 100
+*“Response” is taken from participant response to a question about their
+primary field of work. “Group” is generalised for purposes of comparison in
+this study, though we acknowledge some participants may identify with both
+groups. An “other” field was present for those who did not identify with a
+particular field. However, all responses with an “other” specification also chose
+a primary field from those provided (e.g., a “statistician” in the
+physical/chemical/earth sciences).
+**For the purposes of this study, a “scientist” is a scientist who specialises in
+the physical, chemical, or earth sciences.
+This was the only significant difference observed be-
+tween scientists and stakeholders in the interviews. The
+potential difficulty in reading maps due to colour blind-
+ness was raised as an issue by several participants.
+Map key expression
+Trust and familiarity emerged as two themes in discus-
+sion of key expression. Overall, participants viewed the
+verbal expressions “probability” and “likelihood” as very
+similar. However, “probability” was considered by stake-
+holders to sound more reliable, scientific, and trust-
+worthy, and in that context, it was also interpreted as a
+more definitive way of expressing the hazard:
+Depends on how accurate you want to be. Probability
+means yes, definitely it is 10% probable. Whereas
+10% likelihood [means] well it might, it might not.
+- Stakeholder 9
+“Chance” was perceived as untrustworthy, and akin to
+“slang”,  invoking associations with gambling and horse-
+racing. Percentages (e.g., 10%) were overall the most pre-
+ferred numerical expression, with participants explaining
+Page 11
+Thompson et al. Journal of Applied Volcanology (2015) 4:6  Page 11 of 24
+that they are a commonly used format in many different
+walks of life. However, some participants noted that nat-
+ural frequencies (e.g., 1 in 10) were easier for people to get
+a “feeling” or gist for the value. Decimal values (e.g., 0.1)
+were universally considered as unfamiliar and too difficult
+for most people to understand. Many participants also
+commented that the gradational shaded key symbology
+was difficult to read with only three percent values marked
+(min., med., and max.).
+Map content
+Participants viewed the probabilistic maps (Figure 1A-E)
+as long-term planning and reference tools, and as pre-
+paredness tools to use in the event of an impending cri-
+sis before more detailed deterministic-style maps (e.g.,
+Figure 1F, or an ash advisory bulletin) were available.
+Participants also expressed that 10 mm was a high
+threshold in terms of useful application of the map.
+Most participants expressed that their primary concern
+would be the possibility of acquiring any ash at all,
+explaining that a hazard threshold even as low as 1 to
+2 mm thickness would have very important impacts that
+they would need to consider:
+Any ash to me is the worst case scenario. - Stakeholder 3
+Similarly, some participants expressed that probabilis-
+tic data for low ash thresholds were helpful supportive
+content:
+I think the probability is more important than the
+thickness because [of] the way people work. It’s,
+‘Will I get ash?’ Not, ‘How much will I get?’ …
+They’re not sort of thinking ‘We can do this with
+10 mill[imetre]s; we can’t do this with 100.’ It’s kind
+of ‘Oh, ok, we have to deal with volcanic ash.’
+Saying that there’s a 30 or 40 percent chance…
+drives home a pretty strong message that they’ve
+got to deal with it. – Scientist 2 
+Many participants also suggested that addition of text
+explaining the possible impacts of the ash thickness
+would make the map more relevant and useful. It was
+advised that the text be placed directly onto the map
+face, explaining that it could easily be misplaced, trun-
+cated, or disregarded if supplied separately.
+Revisions to maps for the survey
+The results of the pilot study interviews which were based
+on the six maps in Figure 1 informed some revisions to
+the maps in order to better meet user preferences and
+needs, resulting in the eight map styles explored in the
+survey (Figures 2, 3, 5):
+ Geopolitical boundary constraint on hazard data
+removed (Figure 2)
+ Colour blind accessible colours were adopted
+(Figure 3)
+ 10% bins and isopleth intervals were adopted
+(instead of 5%)
+ More intervals were labelled on the gradational
+stretch symbology in the key
+ White contour lines were used instead of black
+(to reduce map noise)
+ Isopleths were smoothed to remove the jagged
+artefact of the modelling grid
+ ≥1 mm of ash was displayed instead of ≥10 mm
+of ash.
+Survey
+Out of the 110 respondents, seven participants did not fully
+complete the survey. Results for questions with missing
+values were measured using only the number of completed
+responses (min. 103). Results are reported for the 5% sig-
+nificance level (95% confidence), where χ2 is the chi-square
+value for a goodness-of-fit chi-square test (one sample),
+Pearson χ2 is the chi-square value for a Pearson chi-square
+test of independence (two or more samples),  df is the
+degrees of freedom, and α is the level of significance.
+Table 3 Participant demographics
+Survey participant demographics
+Age bracket
+Group  Percent (%)
+18–24  4.0
+25–44  51.5
+45–64  36.6
+65+  5.0
+Prefer not to answer 3.0 
+Ethnicity
+Group
+NZ European
+NZ Maori
+Other European
+Asian
+Pacific
+Other
+Prefer not to answer 
+Percent (%)
+60.4
+3.0
+27.7
+0.0
+0.0
+6.9
+2.0 
+Highest level of education
+Group
+Did not complete high school
+High School/GED
+Vocational/Trade qualification
+Tertiary/University degree
+Postgraduate/Graduate degree
+Prefer not to answer 
+Percent (%)
+0.0
+4.0
+6.9
+22.8
+65.4
+1.0
+Page 12
+Thompson et al. Journal of Applied Volcanology (2015) 4:6  Page 12 of 24
+In response to a question about whether they had ever
+experienced volcanic activity or had any memories associ-
+ated with volcanic activity (Table 1, Question 4), 68.8% of
+participants responded “yes”.  Of those, 64.0% described
+specific volcanic activity in New Zealand. When asked to
+rank their opinion about how important it is to have a vol-
+canic hazard map for the potentially active volcanoes in
+New Zealand on a 5-point Likert scale (Table 1, Question
+5), 99.1% of respondents expressed that it was important
+to some degree, with 73.4% ranking it “very important”. 
+Map data classification
+Results for questions about data classification (Table 1,
+Question 6–13; Figure 2) are shown in Figure 7A-D.
+When reading probabilistic hazard for the 78 km2 urban
+area of Whakatane, respondents were more likely to give
+a range of values (e.g., 40 - 45%) as opposed to a single
+value (e.g., 40%) when using the binned data classifica-
+tion map (Figure 2B) (χ2 = 114.919, df = 1, α < 0.001)
+or the isarithmic map (Figure 2C) (χ2 = 117.237, df = 1,
+α < 0.001) (Figure 7A).  In contrast, respondents were
+Figure 7 Responses based on questions concerning gradational shaded, binned, and/or isarithmic data classification schemes (see
+Figure 2). Graphs A-C show responses for questions based on reading the hazard for the urban area of Whakatane off of each map separately. Graph A
+shows whether the respondent wrote a single value or a range of values when reading the hazard from each map. Graph B shows the value (average
+probability) of hazard estimated by respondents using each map separately. The actual hazard at Whakatane is approximately 40 - 45%. Categories in graph
+B are mutually exclusive; preference is given to the “within 40 - 45” category before the “within 35 - 45% category”. Graph C shows the estimated
+qualitative level of hazard interpreted for Whakatane using each map separately. Graph D shows the preference for each map type (selected after
+answering questions related to graphs A-C). Note vertical and horizontal scales are different for each graph. Top key is for all graphs.
+Page 13
+Thompson et al. Journal of Applied Volcanology (2015) 4:6  Page 13 of 24
+equally likely to give either a range of values or a single
+value when using the gradational shaded map (Figure 2A)
+(χ2 = 0.092, df = 1, α = 0.762) (Figure 7A).  Of those who
+responded with a range, more participants (17.9%) re-
+ported a 5% interval range when using the isarithmic map
+(Figure 2C) than for any other data classification map
+style. Ten percent ranges were the most commonly esti-
+mated range interval for all data classification types. The
+actual hazard values for Whakatane ranged between ap-
+proximately 40 – 45%. When reading hazard from the isa-
+rithmic map (Figure 2C), respondents were more likely to
+estimate a single or range of values within 40 – 45%
+(very accurate) or 35 – 45% (generally accurate) than
+when using the other two maps (Figure 7B).  When
+using the gradational shaded map (Figure 2A), respon-
+dents were more likely to under- or over-estimate the
+hazard value (Figure 7B).
+More than half of respondents interpreted the qualita-
+tive level of hazard as “medium” regardless of map data
+classification style used (Figure 7C). The level of qualita-
+tive hazard interpreted from each map did not change for
+71.8% of respondents who chose only one hazard level for
+all three maps. Scientists were more likely to show a
+change in the level of qualitative hazard interpreted from
+the different maps than stakeholders (Pearson χ2 = 7.987,
+df = 2, α = 0.018),  with 40.0% of scientists choosing two
+hazard levels among the three maps, and 3.3% choosing
+three, and 25.0%, and 0.0% of stakeholders choosing two
+and three levels of hazard, respectively.
+The isarithmic data classification map (Figure 2C) was
+ranked as the most preferred map choice, and the grad-
+ational shaded map (Figure 2A) was ranked the least pre-
+ferred (Figure 7D).  There was no difference in the
+preferences of scientists and stakeholders, with 37.5% of
+both scientists and stakeholders preferring the binned data
+classification map (Figure 2B),  and 62.5% preferring the
+isarithmic (Figure 2C) (Pearson χ2 = 0.000, df = 1, α =
+1.000). Respondents wrote an average of 30 words in re-
+sponse to an open-ended text question about map data
+classification style preference. Three main themes emerged
+concerning the influence of map data classification style on
+respondent’s interpretation of the hazard map: clarity/ease
+of reading, precision/uncertainty, and realistic hazard rep-
+resentation. Many respondents stated that the presence of
+gradational shading (Figure 2A,C) was favourable because
+it represented the gradational nature of ashfall hazard more
+realistically:
+Clearest because it shows that the hazard is
+gradational, steadily decreasing away from the source.
+– Scientist 30
+Similarly, the binned map (Figure 2B) was seen by
+many users to be an unrealistic portrayal of ash hazard: 
+The [actual] change is gradational, so [the binned
+map] is too stepwise. Gives the wrong impression.
+– Stakeholder 54
+However, using gradational shading only (i.e., without
+isopleths) (Figure 2A) was overall seen as requiring too
+much effort to read with any degree of precision. When
+labelled probability isopleths were included on the grad-
+ational shaded map, many participants found the result-
+ing isarithmic map (Figure 2C) much easier to read with
+a higher degree of precision:
+[It is] instantly obvious which range of values an area
+falls within, plus you can see where in the range it falls,
+so you can get quite a precise value just by quickly
+looking at the [isarithmic] map. – Stakeholder 87
+Less reliance on the key symbology was also seen as
+increasing precision:
+The labels indicating the probability band removes
+any confusion associated with the colour symbology.
+– Scientist 104
+Map content
+Results for questions about map content (Table 1, Ques-
+tion 14–15; Figure 3) are shown in Figure 8A-B. Both
+types of map content investigated (Figure 3) were viewed
+as helpful to some degree by the majority of respon-
+dents, with 95.2% of respondents ranking the fixed ash
+threshold map (Figure 3A), and 89.4% ranking the fixed
+probability threshold map (Figure 3B),  as very helpful,
+helpful, or somewhat helpful (Figure 8).  Among the
+97.2% of respondents who chose a preference, no statis-
+tically significant difference exists between preference
+for receiving a map with content describing a fixed ash
+threshold, a fixed probability threshold, or one of each
+(χ2 = 1.529, df = 2, α = 0.465).  There was no statistically
+significant difference in the preferences of scientists and
+stakeholders (Pearson χ2 = 2.111, df = 2, α = 0.348).
+Map key expression
+Results for questions about key expression (Table 1,
+Question 16–17) are shown in Figure 9. When presented
+with three different combinations of verbal and numer-
+ical phrases of probabilistic hazard in the map key,
+73.4% of respondents said the phrases used did not
+change the level of hazard they interpreted from the
+map. However 14.6% of respondents thought that the
+natural frequency expression (1 in 4) made the hazard
+seem greater than the percentage (25%). Despite the ma-
+jority of respondents saying that the key had no influ-
+ence on hazard perception, 93.2% of respondents chose
+a preferred key expression (Figure 9). More than half of
+Page 14
+Thompson et al. Journal of Applied Volcanology (2015) 4:6  Page 14 of 24
+Figure 8 Respondents’ preference and perceived helpfulness of two different types of map content: maps depicting a distribution of
+probabilities of reaching and exceeding a fixed ash threshold, such as 10 mm (fixed ash threshold), and maps depicting a distribution
+of ash thicknesses expected at a fixed probability threshold, such as 25% (fixed probability threshold) (see Figure 3). Both types of
+content were viewed as helpful to some degree, and no statistically significant difference exists for preference between receiving a fixed ash
+threshold map, fixed probability threshold map, or one of each (see text for Pearson’s chi-square test values).
+respondents preferred having both a percent “probabil-
+ity” and natural frequency “likelihood” expressed in the
+key. The second most preferred key expression was a
+percent probability. Of the 22.3% of respondents who
+entered text as optional commentary, many described
+Preferred map key expression
+3.9% “1 in 4 likelihood”
+6.8% 
+No preference 
+the key with a natural frequency “likelihood” expression
+only as “amateurish”, “subjective”, and “awkward”, with
+one respondent citing that “likelihood” has a different
+and specific meaning in their field of work. Percent
+probability was generally described as a common, famil-
+iar expression that was readily understood by both pro-
+fessionals and the public. Some respondents suggested
+that providing the natural frequency likelihood alongside
+a percent probability may help the message be received
+by a larger audience. No significant difference existed in
+the key expression preference of scientists and stake-
+holders (Pearson χ2 = 0.892, df = 3, α = 0.892).
+51.5%
+“25% probability
+(1 in 4 likelihood)” 
+37.9%
+“25% probability”
+*73.4% of respondents said key expression
+does not change perceived level of hazard
+Figure 9 Map key expression preference. More than half of
+respondents preferred the map key which expressed the hazard as
+both a percent (25%) “probability”, as well as a natural frequency
+(1 in 4) “likelihood”. 
+Hazard curves
+Results for questions about hazard curves (Table 1,
+Question 18–22; Figure 4) are shown in Figure 10A-B.
+When ranking how helpful it would be to be provided
+with hazard curves for chosen locations on the map,
+55.4% of respondents said the curves were very helpful,
+helpful, or somewhat helpful. However, scientists found
+the hazard curves significantly more helpful than stake-
+holders, with 73.3% of scientists ranking the curves as
+helpful to some degree, while only 48.1% of stakeholders
+did (Pearson χ2 = 6.324, df = 2, α = 0.042).  Nine percent
+of stakeholders were not sure about the helpfulness. Per-
+formance in reading a hazard curve for Whakatane im-
+proved significantly when respondents used the hazard
+curve with the 80% confidence area (Figure 4B),  with
+70.3% of respondents choosing the most correct answer,
+Page 15
+Thompson et al. Journal of Applied Volcanology (2015) 4:6  Page 15 of 24
+Avg P with 10th, 90th percentile lines hazard curve Avg P with 80% confidence area hazard curve
+A Response variation in reading hazard curves B  Ease/Difficulty of reading hazard curves
+80  50
+Response 
+frequency 
+(
+%) 
+Response 
+frequency 
+(
+%)
+70 
+40
+60
+50  30
+40
+30  20
+20 
+10
+10
+0 
+1  2
+* correct response 
+3  4*  5
+Response option 
+6 
+0 
+Very
+easy 
+Easy Avg Difficult Very
+difficult
+Response 
+Not
+sure
+Figure 10 Responses based on separate questions in which respondents used a hazard curve for a point in the urban area of
+Whakatane drawn with average probability, 10th, and 90th percentile lines, and then with average probability and an 80% confidence
+area (see Figure 4). Graph A shows the frequency at which six possible responses were chosen using each hazard curve for a question which
+required the respondent to read information from the curve and choose which statement was the most true. Response option four is the most
+correct answer. Graph B shows the level of ease/difficulty respondents reported for reading information from each hazard curve.
+compared to 12.6% when using the hazard curve with
+10th and 90th percentile lines (Figures 4A, 10A).  More
+than 46% of respondents chose a response option in
+which the 10th percentile was incorrectly described as
+10% confidence when using the hazard curve with 10th
+and 90th percentile lines (Figure 4A),  compared to just 
+7.9% when using the hazard curve with 80% confidence
+area (Figure 4B) (response option 2, Figure 10A). In de-
+scribing the ease/difficulty of reading the two hazard
+curves, 71.9% of respondents found the curve with 10th
+and 90th percentiles difficult or very difficult to read,
+and 26.2% found it average, easy, or very easy, compared
+Figure 11 Responses pertaining to A) the degree to which map colour scheme influences hazard perception, and B) preference
+between blue-yellow sequential (blue), red-yellow sequential (red) and, blue-yellow-red diverging (diverging) colour schemes on
+probabilistic volcanic hazard maps (see Figure 5). The majority of respondents (67.3%) agreed that colour scheme influenced their perception
+of hazard, with diverging and red being the two most preferred colour schemes.
+Page 16
+Thompson et al. Journal of Applied Volcanology (2015) 4:6  Page 16 of 24
+Figure 12 Word clouds showing the most frequently used words in responses to an open-ended survey question in which respondents
+entered text to describe their perspectives on the A) red-yellow sequential, B) blue-yellow sequential, and C) blue-yellow-red diverging
+colour scheme maps (see Figure 5). Words shown in red hues are important thematic words. Equal signs were used by participants to express
+colour associations (e.g., “red = hot”). Font size of word reflects the word’s the frequency of occurrence, i.e., the larger the word size, the higher
+it’s frequency of occurrence in responses. Height of word font is approximately 0.8 × word frequency. Approximately 100 of the most frequently
+used words for each colour scheme is shown.
+to 41.6% and 57.4% of respondents for the 80% confi-
+dence area curve, respectively (Figure 10B).
+Map colour scheme
+Results for questions about colour scheme (Table 1,
+Question 23–25; Figure 5) are shown in Figure 11A-B and
+Figure 12A-C. For more than 67% of respondents, colour
+scheme had an effect on how they perceived the level of
+hazard (χ2 = 14.957, df = 2, α = 0.001) (Figure 11A).  The
+blue-yellow-red diverging colour scheme (“diverging”)
+(Figure 5C) and red-yellow sequential colour scheme
+(“red”)  (Figure 5A) were the most preferred colour
+schemes (Figure 11B).  Among the top two preferred
+colour schemes, chosen by 89.1% of respondents, the red
+map (Figure 5A) was preferred by a majority 59.3% of
+scientists, and the diverging map (Figure 5C) was pre-
+ferred by a majority 64.3% of stakeholders (Pearson χ2 =
+5.072, df = 1, α = 0.024).
+Respondents wrote an average of 16 words when
+explaining their map colour scheme preference. Four
+main themes emerged concerning the influence of colour
+scheme: colour associations, cultural/social/mental conno-
+tations, zoning, and risk and response. Figure 12 highlights 
+the words most frequently used by respondents in discus-
+sion of each colour scheme. Red hues were associated with
+concepts of danger, the presence of hazard, and volcanoes
+(Figure 12A). In contrast, blue hues were associated with
+concepts of safety, the absence of hazard, and water
+(Figure 12B):
+Red always denotes hazard to me. – Stakeholder 89
+The blue looks negative rather than low. The colour
+blue is usually associated with water. – Stakeholder 57
+Many respondents remarked that the colour associa-
+tions were evoked by cultural, social, or psychological
+connotations. Respondents used words such as “intui-
+tively”,  “universally”,  “subliminal”,  “socialised”,  “logical”,
+and “used worldwide”, to describe the reasons for their
+strong associations with the colours red and blue. The
+associations with red and blue colours were consistent
+for both diverging and sequential colour schemes:
+[The diverging map] give the impression of safety [in the
+blue areas] and emphasizes danger in the red areas...
+Page 17
+Thompson et al. Journal of Applied Volcanology (2015) 4:6  Page 17 of 24
+volcano, probabilistic hazard, and possible volcanic ash
+impacts on the map was helpful to some degree. The
+same proportion of respondents also viewed explana-
+tory text on the map as important to some degree, with
+50.5% ranking it “very important”. Results for questions
+about map format (Table 1, Question 28) are shown in
+Figure 13. The most popular format for receiving vol-
+canic hazard maps was PDF, followed by GIS layer and
+JPEG (Figure 13). More than three-quarters of respon-
+dents (75.3%) chose more than one of the five format
+options provided.
+Figure 13 Desired formats for receiving volcanic hazard maps.
+Participants could choose one or more of the five formats, GIS layer,
+JPEG, KML, paper, or PDF, or write in an alternative one. More than
+one option was chosen by 75.3% of respondents. The format
+preferred most by respondents was PDF (78.2%).
+[The red map] gives the impression of increasing danger
+closer to the volcano. – Scientist 99
+Red-blue seems to imply hazard and non-hazard,
+instead of hazard and less hazard. – Stakeholder 58
+When describing the diverging colour scheme map,
+many respondents explained that they liked that the
+contrast made it much easier to “distinguish” and “de-
+lineate” the map into discrete “zones” (Figure 12C).
+However, the zones of colour had different context for
+different users. While responses describing the red
+map primarily focused on describing the map in the
+context of hazard, there was a marked increase in dis-
+cussion of “risk” with the diverging colour scheme map
+among stakeholders (Figure 12B,C):
+The blue de-emphasises lower likelihood areas allowing
+for a more risk-based focus. – Stakeholder 46
+In some cases, the area of transition for the divergent
+colours was explicitly linked to response action:
+The transition between hot and cold colours should
+be carefully set at a standard point, as anywhere in
+cold colours is unlikely to receive attention when
+planning in government departments is carried out.
+– Stakeholder 91
+Map explanatory text and map format
+In responding to questions about explanatory text
+(Table 1, Question 26–27; Figure 6),  94.1% of respon-
+dents said that providing informative text about the 
+Discussion
+Data classification and uncertainty
+Regardless of map data classification style viewed (Figure 2),
+more than half of survey participants considered the
+probability of accumulating ≥1 mm of ash in Whakatane
+as a “medium” level of hazard (Figure 7C). Few partic-
+ipants, and particularly few stakeholders, changed the
+qualitative descriptor used, even when their estimates
+of numerical value varied between maps, highlighting
+that qualitative descriptors of hazard may have less
+sensitivity for reflecting subtle perceived changes in
+hazard data. This demonstrates possible issues with
+relying on a broad verbal probability translation table
+for volcanic uncertainty, and emphasises the import-
+ance of including numerical values along with qualita-
+tive descriptors of probability as suggested by Doyle
+et al. (2011) and Budescu et al. (2009).
+Estimates of hazard read from a probabilistic hazard
+map displaying only a gradational shaded stretch of
+values (Figure 2A) were less consistent than for other
+data classification types (Figure 7A,B),  which suggests
+that there is low reliability in the way users may read
+and interpret information from this style of map. The
+vast majority of participants also ranked the map as least
+preferred (Figure 7D) or expressed dislike, which could
+manifest in practice as an aversion to using and applying
+maps with data presented in this style. However, the
+addition of probability isopleths dramatically improved
+the favourableness and readability of gradational shaded
+data classification. The isarithmic map (Figure 2C) was
+the most preferred (Figure 7D) and most accurately-read
+data classification style (Figure 7B). Presence of isopleths
+also increased the frequency of reading hazard as a range
+of values instead of a single value (Figure 7A), which is a
+more accurate estimation of hazard for the 78 km2 area
+of Whakatane (actual hazard ~40 – 45%, Figure 2). Ex-
+pressing a range of values may have positive implications
+for practice, as Dieckmann et al. (2010) found that using
+a range of probabilities to express uncertain information
+is likely to be considered more credible and responsible
+in a decision-making context than use of a single value
+probability.
+Page 18
+Thompson et al. Journal of Applied Volcanology (2015) 4:6  Page 18 of 24
+The isarithmic data classification (Figure 2C) also ap-
+peared to enhance the level of map engagement, by en-
+couraging participants to critically assess the map and
+estimate a more precise range of probabilities. Reading
+the gradational shaded map (Figure 2A) required partici-
+pants to spend increased effort, only to achieve a broad
+variation in accuracy and a low level of consistency in
+responses. Reading the binned map (Figure 2B) facilitated
+quick perception of a range of hazard with little effort, but
+the majority of respondents read this as “definitive” and did
+not elaborate beyond the 10% accuracy conveyed in the
+map key. When reading the isarithmic map (Figure 2C),
+participants were able to quickly and easily estimate a
+10% range of hazard, and more participants opted to
+critically assess the shading within the 10% interval to
+increase the precision of their estimate to within 5% ac-
+curacy (Figure 7B). The non-discrete “fuzzy” appearance
+of gradational shading is considered an appropriate
+strategy to depict uncertain hazard and risk information
+(MacEachren 1992; Slocum 1999), and our results sug-
+gest that adding isopleths to this style effectively im-
+proves reader ability to interpolate shading for those
+who seek to reduce uncertainty.
+Concern about precision and uncertainty in the mod-
+elled data was a primary theme regarding data classifica-
+tion in both the interviews and the surveys. For
+example, most participants found 5% interval isopleths
+(Figure 1B,C) unfavourable because they appeared to de-
+pict “unwarranted” precision or certainty. The prominence
+of uncertainty and precision in discussion of the maps
+suggests that it is recognised as an important component
+of probabilistic volcanic hazard data by both scientists and
+stakeholders. Donovan et al. (2012) found that effective
+communication and acknowledgement of uncertainty
+among both groups was critical for achieving useful appli-
+cation of probabilistic volcanic hazard and risk data in
+decision-making during volcanic crises at Montserrat.
+However, uncertainty in volcanic hazard maps is not al-
+ways recognised or accepted, and it is important to ex-
+plore how users perceive and approach uncertainty in
+maps. In the context of map properties, our results indi-
+cate that depicting 10% intervals in probability may be
+perceived as appropriate, adequate, and accessible for
+visualising and processing hazard information among a di-
+verse group of users.
+As a whole, participants expressed a general under-
+standing that there are uncertainties associated with
+modelled probabilistic volcanic hazard data. However,
+more specific concepts of uncertainty related to the na-
+ture of the probabilistic data were less clear. The con-
+cept and meanings of lower and upper percentile values
+were not consistently or easily understood by the major-
+ity of participants when reading from a hazard curve
+(Figure 10).  A hazard curve displaying the concept of 
+confidence (Figure 4B) was better understood, with more
+participants also finding it easier to read than the curve
+with percentiles (Figure 4A). These differences have im-
+portant implications for the language and graphics we
+use to communicate probabilistic hazard. As probabilis-
+tic tools such as volcanic hazard curves become more
+integrated in volcanic hazard and risk management (e.g.,
+Tonini et al. in press), it is important to understand the
+contextual measures which can be implemented to im-
+prove the presentation of results and achieve clearer
+communication, particularly because statistical interpret-
+ation is a common challenge for many people (Reyna
+and Brainerd 2008).
+Colour scheme and messages of hazard
+The emergence of “risk and response” as a theme associ-
+ated with the diverging colour scheme showed that the
+concept of hazard was also ambiguous in some cases.
+Volcanic hazard refers to the possible occurrence of a
+dangerous or destructive volcanic phenomenon, and can
+vary in frequency, magnitude, and spatial extent. In con-
+trast, volcanic risk implies consideration of both the haz-
+ard and the vulnerabilities and capacities of people and
+communities in the areas exposed to the hazard (Fournier
+d'Albe 1979; UNISDR 2009). While the volcanology com-
+munity agrees that scientists are responsible for analysing
+and communicating hazard, the role of scientists regarding
+volcanic risk and response advice is more controversial, as
+risk-based decision-making must take into account many
+social, political, and economic factors (Marzocchi et al.
+2012). The diverging colour scheme (Figure 5C) was pre-
+ferred by a significantly greater proportion of stakeholders
+than scientists, as this group may have a greater propen-
+sity for seeking risk-related information. Our results sug-
+gest that unintended messages or connotations of risk and
+risk-based response may be avoided by using sequential,
+rather than diverging, colour schemes to illustrate hazard.
+Diverging hues convey messages of a changing state or
+phenomena (Slocum 1999), such as a safe state and a dan-
+gerous state. In contrast, adjusting lightness and saturation
+of incremental hues on a sequential scale conveys a mes-
+sage of changing intensity or degree (Slocum 1999), recog-
+nised in the participants’  perception of low, but not
+absent, hazard in light yellow-coloured areas on the red
+colour scheme map (Figure 5A).  Sequential hue colour
+schemes have also been found to convey changing inten-
+sity in health risk maps (Severtson and Vatovec 2012;
+Severtson and Myers 2013).
+The stakeholder participants’ tendency to observe “con-
+fusing” similarities between the diverging colour scheme
+volcanic hazard map (Figure 5C) and hydrological-type
+hazard maps highlights the fact that many stakeholders
+are often responsible for dealing with many different types
+of hazard and risk. Despite volcanic ash not being a high-
+Page 19
+Thompson et al. Journal of Applied Volcanology (2015) 4:6  Page 19 of 24
+Figure 14 Binned maps from A) the interview, in which colour blind accessible colours were not considered (see Figure 1D), and B) the
+survey map, in which a colour blind accessible colour scheme was used based on Color Brewer ([URL: "http://www.colorbrewer2.org"] www.colorbrewer2.org, Brewer et al.
+2013) (see Figure 2B), viewed through an Adobe Photoshop® protanopia colour blindness filter, which shows how the image would
+appear to a person with protanopia-type (red-green) colour blindness. The issue of colour blindness was raised in interviews, which
+prompted the adaption of colour blind accessible colour schemes for the survey. The upper three classes have greater contrast, and are more
+discernible in B than in A.
+temperature phenomenon, the associations of “hot” volca-
+noes with the red map (Figure 12A) suggests that using
+warm colour schemes may make volcanic hazard maps
+distinguishable for users who frequently encounter hazard
+and risk maps for other phenomena. Improvement in the
+colour contrast of the maps from the interviews to
+the surveys emphasizes the importance of selecting colour
+blind accessible colour schemes. Color Brewer (Brewer
+et al. 2013) was an effective and simple tool for choosing
+colour blind accessible map colour schemes, and filters
+which show how the map is likely to appear to a colour
+blind reader, such as those offered in Adobe Photoshop®,
+or in the free online tool Color Oracle ([URL: "http://www.colororacle.org"] www.colororacle.
+org, Jenny and Kelso 2007), can be helpful tools for testing
+preliminary colour selections on maps (Figure 14).
+Depicting value labels on the map face, instead of only
+in the key, may also assist participants with vision
+deficiencies.
+Key expression and map trust
+The verbal expression “probability” was associated with
+greater levels of trust than “likelihood”.  This suggests
+that verbal expression in the key can play a role in inter-
+pretation of hazard map data, as trust is a critical factor
+in stakeholder engagement with uncertain hazard map
+data (Frewer and Salter 2007; Wachinger et al. 2013). 
+For numerical expression, preference of percentages
+over natural frequencies may reflect a high level of nu-
+meracy in the sampled stakeholder group which re-
+ported high education levels. While many studies
+suggest natural frequencies are the most widely- and
+well-understood numerical expression of probabilistic
+information (e.g.,  Hoffrage et al. 2000; Lipkus 2007),
+others (Reyna and Brainerd 2008; Keller and Siegrist
+2009; Severtson and Myers 2013) advise that the effect
+of expression is dependent on reader numeracy skills.
+Using a combination of both percentages and natural
+frequencies on the key was the most favoured option by
+more than half of participants (Figure 9), and also may
+be the most inclusive option for reaching trust and un-
+derstanding among audiences with different numeracy
+skills. Including natural frequency expressions may also
+have additional importance in the context of low prob-
+ability hazard values, as users may be more likely to in-
+terpret very low probabilities as “very low hazard” when
+reading natural frequencies, as opposed to interpreting
+very low probabilities as “no hazard” when reading per-
+centage values (Kahneman and Tversky 1979; Reyna
+and Brainerd 1991; Stone et al. 1994). This trend may
+be indicated by the ~15% of respondents who viewed
+the hazard as greater when presented with a natural fre-
+quency compared to a percentage.
+Page 20
+Thompson et al. Journal of Applied Volcanology (2015) 4:6  Page 20 of 24
+Map content and map usefulness
+Overall, participants showed an understanding for the
+gradational nature of volcanic ash hazard, acknowledging
+the “realistic” appearance of gradational shading, and dis-
+missing a geopolitical constraint on hazard. These positive
+indications of understanding of volcanic ash hazard may be
+due to the high proportion of participants with memories
+or experiences of volcanoes. Equal preference of fixed ash
+threshold and fixed probability threshold maps indicates
+that there are audiences for both types of probabilistic vol-
+canic hazard map content, and that offering different types
+of outputs is a valuable aspect of probabilistic volcanic haz-
+ard analysis tools. Outputs at a number of different thresh-
+old levels are likely to be useful, with results of this study
+suggesting even thresholds as low as 1 mm of ash can be
+useful information for many stakeholders. However, many
+participants drew upon experiences from New Zealand’s
+past minor ashfall events to express the perceived value in
+information for 1 mm of ash, and this is likely to be differ-
+ent in other regions, where decision-makers and communi-
+ties are more frequently exposed to greater thicknesses of
+volcanic ash.
+Map format and the importance of map-maker choices
+The high preference to receive PDF, JPEG, and paper
+formats (Figure 13), suggest that many hazard map users
+do not expect to alter any of the properties on the original
+map (via GIS or other digital tools). Accordingly, the many
+representation choices for map properties made by the
+map makers (often volcanic hazard scientists) are import-
+ant because they are likely to be carried through decision-
+making processes. Participants also expressed intentions
+to use the maps as tools for communicating with others
+during decision-making processes, stressing the import-
+ance of being able to clearly understand the map them-
+selves in order to be capable of clearly and consistently
+explaining the hazard map to others, as recommended in
+a collective communication strategy by key national stake-
+holders (MCDEM 2010). Considering that maps are likely
+to be used “as is”, it is important that makers of volcanic
+hazard maps are aware of how choices in map properties
+can influence communication and understanding.
+Methodological remarks
+Semi-structured interviews served as a valuable pilot study
+methodology for acquiring rich contextual thematic data
+and for recognising important topics and issues, and the
+surveys were a valuable method for exploring and testing
+these topics among a broader sample group. Overall, no
+major discords or contrasts were recognised between the
+results of the two methodologies. Inclusion of open-ended
+text questions in the survey enhanced the richness of the
+survey data collected and delivered insight into motiva-
+tions behind key trends. Limitations in the survey methods 
+include possible sampling bias, question order bias, and
+internet access. The survey was also limited to investiga-
+tion of the selective map properties and topics addressed
+in the questions, and other important factors or issues
+may exist that are not covered here. In snowball sampling,
+the sample is affected by the network of relationships that
+exist. Accordingly, more well-connected populations are
+more likely to be included in the sample (Patton 2002).
+However, we assume that the proportion of stakeholders
+(70%) to scientists (30%) sampled is an appropriate repre-
+sentation of the target population. We found this purpos-
+ive sampling method was suitable for achieving a high
+level of participation among those who met the specific
+criteria related to volcanic hazard maps and decision-
+making, but acknowledge that potential biases could exist
+within the sample. For example, no statistically significant
+differences were recognised among age groups for all pa-
+rameters. However, the 18 – 24 and 65+ year age categor-
+ies may have been underrepresented for this spread of
+occupational disciplines (Table 3). Findings may also con-
+trast significantly among groups with a lower rate of ter-
+tiary and postgraduate education (Table 3).  This study
+focused on a New Zealand population sample, and im-
+portant cultural differences may exist for other regions.
+For example, although red is globally considered a potent,
+emotional, active colour (Adams and Osgood 1973), it has
+connotations of danger in many Western cultures, but is a
+colour of joy in some Eastern ones, and a colour of life in
+New Zealand Māori culture (e.g., Jackson 1972), and these
+types of cultural meanings could influence the way users
+interpret hazard depicted in red colours (Edsall 2007).
+Ash fall hazard was investigated in this study because
+probabilistic hazard analysis approaches are widely avail-
+able and commonly employed for this type of volcanic
+hazard (e.g., Scollo et al. 2008; Folch 2012). Other import-
+ant volcanic hazards, such as lahars (volcanic mudflows)
+and lava flows are becoming closer to having widely ap-
+plied probabilistic analysis toolsets, but a probabilistic
+approach is not yet as common for mapping these gravity-
+and topography- driven volcanic hazards. Some of the re-
+sults and findings presented here may be different for
+probabilistic volcanic hazard maps depicting these and
+other hazards.
+Implications for volcanic hazard map design
+Results presented here indicate that stakeholders hold
+strong views about certain hazard map properties, and
+highlight the importance of considering user perspec-
+tives in hazard map development. Opening the map de-
+sign process to user contemplation, criticism, and testing
+in times of volcanic dormancy can help build stronger,
+more reliable maps and can prevent miscommunications
+and mistrust during a crisis, when maps are likely to be
+drafted, disseminated, and duplicated rapidly. The
+Page 21
+Thompson et al. Journal of Applied Volcanology (2015) 4:6  Page 21 of 24
+quality of visual graphics and maps presented for decision-
+making can play a vital and significant role in the outcomes
+of a crisis (Tufte 1997). A collaborative and iterative design
+process which considers diverse user perspectives can help
+identify key issues, and may help contribute to the develop-
+ment of a more valuable end product.
+Our findings suggest that the representation of data
+classification, colour scheme, key expression, and con-
+tent, and map presentation format all have an influence
+on interpretation and communication of probabilistic
+volcanic hazard map information. These properties have
+varying influence on map preference, understanding,
+trust, and application, which could have important ef-
+fects for hazard management decision-making and in-
+corporation into risk reduction strategies, particularly if
+a reader relies on intuitive gist or feeling for the infor-
+mation presented to some degree (Reyna and Brainerd
+1991; Finucane et al. 2000). Accordingly, while research
+into user preference is important, as readers are more
+likely to use a map which appeals to them, complemen-
+tary empirical measurements of map interpretation are
+also important because the subjectively preferred map
+may not always be the most effective map for decision-
+making (Mendonça and Delazari 2011).  For example,
+our results show that although stakeholders preferred
+the diverging colour scheme (Figure 5C),  a diverging
+colour scheme may convey unintended or false messages
+of risk (Figure 12C).
+Our results also emphasise that there is no one-size-fits-
+all map presentation. One map cannot comprehensively
+meet the precise needs of a diverse audience of stake-
+holders. For example, different ash thresholds may be of
+concern to different stakeholder groups, and each group
+may use the map for different modes of communication
+with different audiences and communities. However, giv-
+ing a voice to different stakeholder groups in an inclusive
+approach to hazard mapping can help map makers strive
+for the most integrative map possible to mediate this issue.
+Empirical investigation into the interplay of different map
+properties and how they cumulatively affect the appeal and
+interpretations of a map with different stakeholder groups
+can help map makers work towards achieving the most col-
+laborative and effective map possible. A more consentient
+map can facilitate consistent messaging among stakeholder
+communities and stakeholder audiences, and reduce the
+circulation of potentially conflicting information.
+Although it is important to communicate a consistent
+message, it may often be appropriate to create a set of
+maps instead of a single map, for example, a map set com-
+prising a fixed ash threshold map (Figure 3A) and a fixed
+probability threshold map (Figure 3B) supplemented with
+available hazard curves (Figure 4). It is also important to
+consider that probabilistic volcanic hazard maps are built
+on the results of a particular input model, which uses a 
+particular set of parameters, assumptions, and limitations.
+In many circumstances, it may be appropriate to present
+the results of more than one model. In all cases, explana-
+tory text should be provided on the visual itself to ensure
+the information is contextually supported.
+We further note that the challenges of displaying un-
+certain information on a map is not unique to volcanic
+hazards, but has also been discussed in fields such as
+hurricane hazards (Broad et al. 2007),  seismic hazard
+(Newman et al. 2001),  and health hazards (Severtson
+and Myers 2013).  Although the target audiences and
+messages vary for each discipline, many of these visual-
+isation and communication challenges are analogous or
+shared, and research undertaken in one field can serve
+as a valuable resource for guiding enquiries and applica-
+tions in other hazard-related fields.
+Future work
+Few significant differences were recognised between
+stakeholder and scientist participants in this study,
+which may be due to limitations in sample size of the
+study and design of the survey questionnaire (Table 2).
+Recommendations for future work in this area would be
+to focus on identifying any key differences affecting haz-
+ard map perception among various stakeholder groups
+(e.g.,  scientists, emergency managers, and the public).
+People living in areas potentially exposed to volcanic
+hazard are very important stakeholders in hazard map
+information, and are a primary audience for hazard
+maps in the event of volcanic unrest. However, in many
+cases, these people are likely to be less familiar with
+visualisations of volcanic hazard and probabilistic data.
+As such, future research exploring how volcanic hazard
+map design influences hazard communication and un-
+derstanding among these people should be undertaken
+in order to improve the successful transfer of important
+hazard information to the wider at-risk community. Fur-
+ther work also needs to be undertaken to identify any
+further properties which may influence hazard map
+communication and interpretation, in addition to a
+more probing investigation of the parameters explored
+here, such as testing more colour schemes and map
+content types. We propose that future studies in other
+volcanic regions or on other natural hazards could
+adopt a similar methodology to that presented here, and
+refer the reader to Additional file 1 for a full copy of the
+online survey.
+Conclusion
+It is impossible to achieve a wholly objective representa-
+tion of complex reality on a map. However, empirically-
+informed representation choices can help probabilistic
+volcanic hazard maps be designed with an enhanced
+level of ethical intersubjectivity and transparency which
+Page 22
+Thompson et al. Journal of Applied Volcanology (2015) 4:6  Page 22 of 24
+may help reduce miscommunication and misunder-
+standing. There are few existing guidelines available for
+how to choose appropriate representations of volcanic
+hazard data on a map, as no previous studies have
+assessed the impact of such choices on hazard commu-
+nication. Here, we do not propose a universal standard-
+isation for probabilistic volcanic hazard map properties.
+We do, however, suggest ten important considerations,
+in the context of the results of this New Zealand- and
+volcanic ash-based study, for map makers to take into
+account when creating maps to be used by stakeholders,
+such as emergency managers, for high-stakes decision-
+making:
+ Using an isarithmic map comprised of gradational
+shaded stretched data classification with smoothed
+and labelled 10% interval probability isopleths can
+be an effective format for conveying the gradual
+nature of ashfall hazard and for encouraging critical
+analysis of the data with a high level of accuracy.
+ Red-yellow sequential colour schemes are
+commonly associated with volcanoes and hazard,
+and reduce the potential for confusion with
+hydrological hazard map types. The colour scheme
+can effectively convey the message that areas
+depicted as low hazard areas still have some level of
+hazard present.
+ Diverging colour schemes may facilitate unwanted
+associations with volcanic risk concepts, and may
+enable use of the map as a reference tool for risk-
+based response decisions based on the transition
+area between hues. The colour scheme may convey
+messages of hazard absence in low hazard areas, and,
+depending on colour, may also be confused with other
+hazard map types (e.g., flooding hazard map). However,
+this scheme may be helpful for facilitating the
+interpretation of a high hazard “zone”.
+ Color Brewer ([URL: "http://www.colorbrewer2.org"] www.colorbrewer2.org, Brewer et al.
+2013) is a helpful free online tool for selecting
+colour blind safe, appropriately balanced map colour
+schemes. Any colour scheme should be tested using
+a colour blind filter tool, such as those offered
+through Color Oracle (Jenny and Kelso 2007) or
+Adobe Photoshop®, before dissemination. Including
+labels of probability on the map face also assists
+vision deficient users.
+ When expressing uncertainty in a dataset, the
+concept of “confidence” may be grasped more easily
+and more clearly by stakeholders than lower and
+upper percentile data ranks, particularly in hazard
+curve graphics.
+ A percent (e.g., 25%) “probability” is a trusted
+numerical-verbal expression of probabilistic volcanic
+hazard, which is considered familiar and reliable. 
+Including a natural frequency (e.g., 1 in 4) in
+addition is likely to help to increase understanding
+of the expression among a broader audience and
+may reduce the tendency to interpret very low
+hazard as “no hazard”.
+ Qualitative hazard descriptors (e.g., “low”, “medium”,
+and “high”) are less sensitive than numerical hazard
+values (e.g., 30%, 45 - 50%), and may not accurately
+reflect users’ perceived change in hazard probability.
+ Both fixed probability and fixed ash threshold maps
+are valuable probabilistic volcanic hazard map
+content types for organisational stakeholder groups.
+ Static PDF format is a convenient, popular, and
+preferred format for receiving and sharing volcanic
+hazard maps, emphasising the importance of map
+property representation choices.
+ Some differences exist in probabilistic volcanic
+hazard map interpretation between scientists and
+stakeholders, suggesting that engaging with users in
+a multi-perspective bottom-up approach to hazard
+mapping can complement and enhance traditional
+top-down approaches.
+Additional file
+ Additional file 1: Copy of the 31-question online survey. The survey
+was free to access using a one-time-use URL.
+Competing interests
+The authors declare that they have no competing interests.
+Authors’ contributions
+MAT performed the interviews, surveys, analyses, and writing of the
+manuscript under the guidance and support of JML and JCG. JML and JCG
+contributed to editing of the manuscript. All authors read and approved the
+final manuscript.
+Acknowledgements
+The authors would like to express thanks and appreciation to the
+participants of the interviews and surveys. Thanks to E. E. Hudson-Doyle and
+D.M. Johnston for constructive feedback and discussion, and to S. Jenkins
+and C. Fearnley for insightful and helpful reviews which improved this
+manuscript. MAT acknowledges support from the University of Auckland
+and the DEVORA Project (DEtermining VOlcanic Risk in Auckland) with
+thanks. JML gratefully acknowledges support from the New Zealand
+Earthquake Commission.
+Received: 30 June 2014 Accepted: 6 January 2015
+References
+Adams FM, Osgood CE (1973) A cross-cultural study of the affective meanings of
+color. J Cross-Cult Psychol 4(2):135–156
+American Optometric Association (AOA) (2014) Colour vision deficiency.
+ http://www.aoa.org/patients-and-public/eye-and-vision-problems/glossary-of-
+ eye-and-vision-conditions/color-deficiency?sso=y. Accessed 11 June 2014
+Bertin J (1983) Semiology of Graphics (translated by William J. Berg). University of
+Wisconsin Press, Madison, WI
+Blong RJ (1984) Volcanic Hazards: A Sourcebook on the Effects of Eruptions.
+Academic Press Australia, North Ryde, Australia
+Braun V, Clarke V (2006) Using thematic analysis in psychology. Qual Res Psychol
+3(2):77–101
+Page 23
+Thompson et al. Journal of Applied Volcanology (2015) 4:6  Page 23 of 24
+Brewer CA (1994) Color use guidelines for mapping and visualization. In:
+MacEachren AM, Taylor DRF (eds) Visualization in Modern Cartography.
+Elsevier, Tarrytown, New York, pp 123–147
+Brewer CA (1996) Guidelines for selecting colors for diverging schemes on maps.
+Cartogr J 33(2):79–86
+Brewer CA, Harrower M, Sheesley B, Woodruff A, Heyman D (2013) ColorBrewer 2.0.
+The Pennyslvania State University, State College, PA, [URL: "http://www.colorbrewer2.org"] www.colorbrewer2.org
+Brewer CA, Pickle L (2002) Evaluation of methods for classifying epidemiological
+data on choropleth maps in series. Ann Assoc Am Geogr 92(4):662–681
+Broad K, Leiserowitz A, Weinkle J, Steketee M (2007) Misinterpretations of the
+“Cone of Uncertainty” in Florida during the 2004 hurricane season. Bull Am
+Meteorol Soc 88(5):651–667
+Budescu DV, Broomell S, Por H-H (2009) Improving communication of uncertainty
+in the reports of the intergovernmental panel on climate change. Psychol Sci
+20(3):299–308
+Calder E, Wagner K, Ogburn S (2012) One hundred and one volcanic hazard
+maps: what can we learn? In: Abstracts of Cities on Volcanoes 7. IAVCEI,
+Colima, Mexico, pp 19–23, November 2012
+Dent BD, Torguson J, Hodler TW (eds) (2009) Cartography: Thematic Map Design,
+6th edn. McGraw-Hill Higher Education, New York
+Dieckmann NF, Mauro R, Slovic P (2010) The effects of presenting imprecise
+probabilities in intelligence forecasts. Risk Anal 30(6):987–1001
+Donovan A, Oppenheimer C, Bravo M (2012) The use of belief-based probabilistic
+methods in volcanology: scientists’ views and implications for risk
+assessments. J Volcanol Geotherm Res 247–248:168–180
+Doyle EEH, Johnston DM, McClure J, Paton D (2011) The communication of
+uncertain scientific advice during natural hazard events. N Z J Psychol
+40(4):39–50
+Doyle EEH, McClure J, Johnston DM, Paton D (2014) Communicating likelihoods
+and probabilities in forecasts of volcanic eruptions. J Volcanol Geotherm Res
+272:1–15
+Edsall R (2007) Cultural factors in digital cartographic design: Implications for
+communication to diverse users. Cartogr Geogr Inf Sci 34:121–128
+Finucane ML, Alhakami A, Slovic P, Johnson SM (2000) The affect heuristic in
+judgments of risks and benefits. J Behav Decis Mak 13(1):1–17
+Folch A (2012) A review of tephra transport and dispersal models; evolution, current
+status, and future perspectives. J Volcanol Geotherm Res 235–236:96–115
+Fournier d'Albe EM (1979) Objectives of volcanic monitoring and prediction.
+J Geol Soc 136(3):321–326
+Fisher A (1991) Risk communication challenges. Risk Anal 11(2):173–179
+Frewer L, Salter B (2007) Societal trust in risk analysis: Implications for the
+interface of risk assessment and risk management. In: Siegrist M, Earle T,
+Gutscher H (eds) Trust in Cooperative Risk Management: Uncertainty and
+Scepticism in the Public Mind. Earthscan, London
+Harrower M, Brewer CA (2003) ColorBrewer.org: An online tool for selecting
+colour schemes for maps. Cartogr J 40(1):27–37
+Haynes K, Barclay J, Pidgeon N (2007) Volcanic hazard communication using
+maps: an evaluation of their effectiveness. Bull Volcanol 70(2):123–138
+Hoffrage U, Lindsey S, Hertwig R, Gigerenzer G (2000) Communicating statistical
+information. Science 290(5500):2261–2262
+Jackson M (1972) Aspects of symbolism and composition in Maori art. Bijdragen
+tot de Taal-, Land- en Volkenkunde 128(1):33–80
+Jenny B, Kelso NV (2007) Color design for the color vision impaired. Cartographic
+Perspectives 57:61–67
+Kahneman D, Tversky A (1979) Prospect theory: an analysis of decision under risk.
+Econometrica 47:263–291
+Keller C, Siegrist M (2009) Effect of risk communication formats on risk perception
+depending on numeracy. Med Decis Making 29:483–490
+Kunz M, Hurni L (2011) How to enhance cartographic visualisations of natural
+hazards assessment results. Cartogr J 48(1):60–71
+Leonard GS, Stewart C, Wilson TM, Procter JN, Scott BJ, Keys HJ, Jolly GE,
+Wardman JB, Cronin SJ, McBride SK (2014) Integrating multidisciplinary
+science, modelling and impact data into evolving, syn-event volcanic hazard
+mapping and communication: A case study from the 2012 Tongariro
+eruption crisis, New Zealand. J Volcanol Geotherm Res 286:208–232
+Lipkus IM (2007) Numeric, verbal, and visual formats of conveying health risks:
+suggested best practices and future recommendations. Med Decis Making
+27(5):696–713
+MacEachren AM (1992) Visualizing uncertain information. Cartographic
+Perspective 13:10–19
+MacEachren AM (1995) How Maps Work. The Guilford Press, New York 
+Mader HM, Coles SG, Connor CB, Connor LJ (eds) (2006) Statistics in Volcanology,
+vol 1. Special Publications of IAVCEI. Geological Society, London
+Marzocchi W, Newhall C, Woo G (2012) The scientific management of volcanic
+crises. J Volcanol Geotherm Res 247–248:181–189
+MCDEM (2002) Civil Defence Emergency Management Act 2002 (CDEM Act).
+Ministry of Civil Defence & Emergency Management, New Zealand, Public
+Act 2002 No. 33
+MCDEM (2010) Working from the same page: consistent messages for CDEM.
+Ministry of Civil Defence & Emergency Management, Wellington,
+New Zealand
+Mendonça A, Delazari L (2011) What do People prefer and what is more effective
+for maps: a decision making test. In: Ruas A (ed) Advances in Cartography
+and GIScience. Volume 1. Lecture Notes in Geoinformation and Cartography.
+Springer, Berlin Heidelberg
+Monmonier M (1996) How to Lie with Maps. The University of Chicago Press,
+Chicago
+Morgan DL (2007) Paradigms lost and pragmatism regained: methodological
+implications of combining qualitative and quantitative methods. J Mixed
+Methods Res 1(1):48–76
+Nairn IA, Self S, Cole JW, Leonard GS, Scutter C (2001) Distribution, stratigraphy,
+and history of proximal deposits from the c. AD 1305Kaharoa eruptive
+episode at Tarawera Volcano, New Zealand. N Z J Geol Geophys 44:467–484
+Nave R, Isaia R, Vilardo G, Barclay J (2010) Re-assessing volcanic hazard maps for
+improving volcanic risk communication: application to Stromboli Island, Italy.
+J Maps 2010:260–269
+Newhall CG, Hoblitt RP (2002) Constructing event trees for volcanic crises. Bull
+Volcanol 64:3–20
+Newman A, Schneider J, Stein S, Mendez A (2001) Uncertainties in seismic hazard
+maps for the New Madrid Seismic Zone and implications for seismic hazard
+communication. Seismol Res Lett 72(6):647–663
+Olson JM, Brewer CA (1997) An evaluation of color selections to accommodate map
+users with color-vision impairments. Ann Assoc Am Geogr 87(1):103–134
+Patton MQ (ed) (2002) Qualitative Research and Evaluation Methods, 3rd edn.
+Sage Publications, Thousand Oaks, CA
+Reyna VF, Brainerd CJ (1991) Fuzzy-trace theory and framing effects in choice:
+Gist extraction, truncation, and conversion. J Behav Decis Mak 4(4):249–262
+Reyna VF, Brainerd CJ (2008) Numeracy, ratio bias, and denominator neglect in
+judgments of risk and probability. Learn Individ Differ 18(1):89–107
+Robinson AH (1967) Psychological aspects of color in cartography. International
+Yearbook of Cartography 7:50–59
+Robinson AH, Morrison JL, Muehrcke PC, Jon Kimerling A, Guptill SC (1995)
+Elements of Cartography, 6th edn. John Wiley & Sons, Inc, New York
+Scollo S, Folch A, Costa A (2008) A parametric and comparative study of different
+tephra fallout models. J Vol Geother Res 176:199–211
+Scott BJ, Potter SH (2014) Aspects of historical eruptive activity and volcanic
+unrest at Mt. Tongariro, New Zealand: 1846–2013. J Volcanol Geotherm Res
+286:263–276
+Severtson DJ, Myers JD (2013) The influence of uncertain map features on risk
+beliefs and perceived ambiguity for maps of modeled cancer risk from air
+pollution. Risk Anal 33(5):818–837
+Severtson DJ, Vatovec C (2012) The theory-based influence of map features on
+risk beliefs: Self-reports of what is seen and understood for maps depicting
+an environmental health hazard. J Health Commun 17:836–856
+Slocum TA (1999) Thematic Cartography and Visualization. Prentice Hall,
+Upper Saddle, NJ
+Spiegelhalter D, Pearson M, Short I (2011) Visualizing uncertainty about the
+future. Science 333(6048):1393–1400
+Stone ER, Yates JF, Parker AM (1994) Risk communication: absolute versus relative
+expressions of low-probability risks. Organ Behav Hum Decis Process
+60(3):387–408
+Thompson MA, Lindsay JM, Sandri L, Biass S, Bonadonna C, Jolly G, Marzocchi W.
+(under review) Exploring the influence of vent location and eruption style on
+tephra fall hazard from the Okataina Volcanic Centre, New Zealand.
+Tonini R, Sandri L, Thompson MA (in press) PyBetVH: a Python tool for
+probabilistic volcanic hazard assessment and for generation of Bayesian
+hazard curves and maps, Computers and Geosciences.
+Tufte ER (1997) Visual and statistical thinking: displays of evidence for making
+decisions. In: Visual Explanations: images and Quantities, Evidence and
+Narrative. Graphics Press, Chesire, Connecticut
+UNISDR (2009) UNISDR Terminology on Disaster Risk Reduction. United Nations
+International Strategy for Disaster Reduction (UNISDR), Geneva, Switzerland
+Page 24
+Thompson et al. Journal of Applied Volcanology (2015) 4:6
+Wachinger G, Renn O, Begg C, Kuhlicke C (2013) The risk perception paradox—
+Implications for governance and communication of natural hazards. Risk Anal
+33(6):1049–1065
+Walker GPL, Self S, Wilson L (1984) Tarawera 1886, New Zealand - A basaltic
+phinian fissure eruption. J Volcanol Geotherm Res 21:61–78
+Wolfe JM, Horowitz TS (2004) What attributes guide the deployment of visual
+attention and how do they do it? Nat Rev Neurosci 5:495–501
+Woo G (2008) Probabilistic criteria for volcano evacuation decisions. Nat Hazards
+45:87–97
+Woo G (2009) A New Era of Volcano Risk Management. Risk Management
+Solutions, Inc, Newark, CA 
+Page 24 of 24
+Submit your manuscript to a
+journal and beneﬁ t from:
+7 Convenient online submission
+7 Rigorous peer review
+7 Immediate publication on acceptance
+7 Open access: articles freely available online
+7 High visibility within the ﬁeld
+7 Retaining the copyright to your article
+Submit your next manuscript at 7 springeropen.com

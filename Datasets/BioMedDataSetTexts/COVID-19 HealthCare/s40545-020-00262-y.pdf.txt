@@ -1,0 +1,839 @@
+Keywords: Pharmacists,Physicians,Nurses,Healthcare providers,Burnout,COVID-19,Factors,Jordan,Hospital,Qualitative
+Creator: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+ModDate: 2020/09/24 09:12:23+02'00'
+CreationDate: 2020/09/24 03:54:29+08'00'
+Producer: Acrobat Distiller 10.0.0 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)
+Subject: Journal of Pharmaceutical Policy and Practice, 2020, doi:10.1186/s40545-020-00262-y
+Author: Abdullah Algunmeeyn
+Title: Understanding the factors influencing healthcare providers’ burnout during the outbreak of COVID-19 in Jordanian hospitals
+xmp:pdf:Keywords: Pharmacists,Physicians,Nurses,Healthcare providers,Burnout,COVID-19,Factors,Jordan,Hospital,Qualitative
+xmp:pdf:Producer: Acrobat Distiller 10.0.0 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)
+xmp:dc:format: application/pdf
+xmp:dc:identifier: 10.1186/s40545-020-00262-y
+xmp:dc:publisher: Journal of Pharmaceutical Policy and Practice
+xmp:dc:description: Journal of Pharmaceutical Policy and Practice, 2020, doi:10.1186/s40545-020-00262-y
+xmp:dc:subject: Pharmacists; Physicians; Nurses; Healthcare providers; Burnout; COVID-19; Factors; Jordan; Hospital; Qualitative
+xmp:dc:title: Understanding the factors influencing healthcare providers’ burnout during the outbreak of COVID-19 in Jordanian hospitals
+xmp:dc:creator: Abdullah Algunmeeyn; Faris El-Dahiyat; Mohammad Mitib Altakhineh; Mohammad Azab; Zaheer-Ud-Din Babar
+xmp:xmp:ModifyDate: 2020-09-24T09:12:23+02:00
+xmp:xmp:MetadataDate: 2020-09-24T09:12:23+02:00
+xmp:xmp:CreateDate: 2020-09-24T03:54:29+08:00
+xmp:xmp:CreatorTool: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+xmp:xmpMM:DocumentID: uuid:f7195bd4-8161-46c1-95df-04fc37cfed21
+xmp:xmpMM:InstanceID: uuid:50ce68c8-cf37-4c5f-a46b-0c32874ad599
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:f7195bd4-8161-46c1-95df-04fc37cfed21
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2020-09-24T06:17:04+08:00
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:author:name: Faris El-Dahiyat
+xmp:author:orcid: http://orcid.org/0000-0002-5264-8699
+xmp:pdfaSchema:schema: Springer Nature ORCID Schema
+xmp:pdfaSchema:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/
+xmp:pdfaSchema:prefix: sn
+xmp:pdfaProperty:name: authorInfo
+xmp:pdfaProperty:valueType: Bag AuthorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Author information: contains the name of each author and his/her ORCID (ORCiD: Open Researcher and Contributor ID). An ORCID is a persistent identifier (a non-proprietary alphanumeric code) to uniquely identify scientific and other academic authors.
+xmp:pdfaProperty:name: editorInfo
+xmp:pdfaProperty:valueType: Bag EditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Editor information: contains the name of each editor and his/her ORCID identifier.
+xmp:pdfaProperty:name: seriesEditorInfo
+xmp:pdfaProperty:valueType: Bag SeriesEditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Series editor information: contains the name of each series editor and his/her ORCID identifier.
+xmp:pdfaType:type: AuthorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/authorInfo/
+xmp:pdfaType:prefix: author
+xmp:pdfaType:description: Specifies the types of author information: name and ORCID of an author.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an author.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an author.
+xmp:pdfaType:type: EditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/editorInfo/
+xmp:pdfaType:prefix: editor
+xmp:pdfaType:description: Specifies the types of editor information: name and ORCID of an editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an editor.
+xmp:pdfaType:type: SeriesEditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/seriesEditorInfo/
+xmp:pdfaType:prefix: seriesEditor
+xmp:pdfaType:description: Specifies the types of series editor information: name and ORCID of a series editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of a series editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of a series editor.
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdf/1.3/
+xmp:pdfaSchema:prefix: pdf
+xmp:pdfaSchema:schema: Adobe PDF Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A name object indicating whether the document has been modified to include trapping information
+xmp:pdfaProperty:name: Trapped
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/mm/
+xmp:pdfaSchema:prefix: xmpMM
+xmp:pdfaSchema:schema: XMP Media Management Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: UUID based identifier for specific incarnation of a document
+xmp:pdfaProperty:name: InstanceID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: The common identifier for all versions and renditions of a document.
+xmp:pdfaProperty:name: OriginalDocumentID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A reference to the original document from which this one is derived. It is a minimal reference; missing components can be assumed to be unchanged. For example, a new version might only need to specify the instance ID and version number of the previous version, or a rendition might only need to specify the instance ID and rendition class of the original.
+xmp:pdfaProperty:name: DerivedFrom
+xmp:pdfaProperty:valueType: ResourceRef
+xmp:pdfaType:description: Identifies a portion of a document. This can be a position at which the document has been changed since the most recent event history (stEvt:changed). For a resource within an xmpMM:Ingredients list, the ResourceRef uses this type to identify both the portion of the containing document that refers to the resource, and the portion of the referenced resource that is referenced.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Part#
+xmp:pdfaType:prefix: stPart
+xmp:pdfaType:type: Part
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/t/pg/
+xmp:pdfaSchema:prefix: xmpTPg
+xmp:pdfaSchema:schema: XMP Paged-Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A structure containing the characteristics of a font used in a document
+xmp:pdfaProperty:name: Fonts
+xmp:pdfaProperty:valueType: Bag Font
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: XMP08 Spec: An ordered array of plate names that are needed to print the document (including any in contained documents).
+xmp:pdfaProperty:name: PlateNames
+xmp:pdfaProperty:valueType: Seq Text
+xmp:pdfaType:description: A structure containing the characteristics of a font used in a document.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Font#
+xmp:pdfaType:prefix: stFnt
+xmp:pdfaType:type: Font
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdfx/1.3/
+xmp:pdfaSchema:prefix: pdfx
+xmp:pdfaSchema:schema: PDF/X ID Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: ID of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXVersion
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Conformance level of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXConformance
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Company creating the PDF
+xmp:pdfaProperty:name: Company
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: DateBOOKMARKS:
+Outline placeholder
+  Abstract
+  Background
+  Aim
+  Method
+  Result
+  Conclusion
+Background
+Methods
+  Research design
+  The study sample
+  Data gathering
+  Data analysis
+Results
+  Characteristics of the interviewees
+  Themes related to the factors influencing healthcare providers’ burnout during an outbreak of coronavirus in Jordanian hospitals
+    Job stress among healthcare providers
+    Staff and resource adequacy
+    Fear of COVID-19 infection
+Discussion
+Conclusions and recommendations
+Acknowledgements
+Authors’ contributions
+Funding
+Availability of data and materials
+Competing interests
+Author details
+References
+Publisher’s Note
+Page 1
+Algunmeeyn et al. Journal of Pharmaceutical Policy and Practice
+https://doi.org/10.1186/s40545-020-00262-y 
+(2020) 13:53
+RESEARCH  Open Access
+Understanding the factors influencing
+healthcare providers’ burnout during the
+outbreak of COVID-19 in Jordanian
+hospitals
+Abdullah Algunmeeyn1, Faris El-Dahiyat2* [URL: "http://orcid.org/0000-0002-5264-8699"] , Mohammad Mitib Altakhineh3, Mohammad Azab4 and
+Zaheer-Ud-Din Babar5
+Abstract: Background: Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered
+coronavirus. The nature of healthcare providers’ occupation puts them at an increased risk of getting any
+contagious disease, including COVID-19. They are on the front line of the COVID-19 outbreak response and as such
+are at risk of contracting this virus. The infectious disease started from China in December 2019 and spread rapidly
+throughout countries, including Jordan. Especially, recent studies indicated that Jordanian healthcare providers’
+work conditions and demographic are significant factors for healthcare providers’ burnout. Additionally, burnout has
+been increased among healthcare providers in Jordanian hospital.
+Aim: The present investigation aims to better understand the factors affecting pharmacists’, physicians’, and nurses’
+burnout during the outbreak of COVID-19 to provide basic information for lowering and preventing the level of
+burnout in Jordanian hospitals.
+Method: This study is qualitative in nature, adopting face-to-face interviews as the key instrument of data
+collection in one hospital in Jordan. The sample interviewed consisted of 30 healthcare providers in total (10 nurses,
+10 physicians. and 10 pharmacists).
+Result: Three key factors to healthcare providers’ burnout were identified in the sampled hospitals: job stress, staff
+and resource adequacy, fear of COVID-19 infection, and interprofessional relationships in healthcare practice. The
+examination also offers recommendations for lowering and preventing healthcare providers' burnout in Jordanian
+hospitals.
+Conclusion: This study explored the main factors of healthcare providers’ burnout during the outbreak of COVID-19
+in Jordanian hospitals, thereby making an original contribution to existing knowledge, as it is the first empirical
+exploration of healthcare providers' burnout during the outbreak of COVID-19. As such, it has attempted to offer an
+in-depth understanding of the factors impacting this issue.
+Keywords: Pharmacists, Physicians, Nurses, Healthcare providers, Burnout, COVID-19, Factors, Jordan, Hospital,
+Qualitative
+Handling Editor: Rabia Hussain, Universiti Sains Malaysia, Malaysia.
+* Correspondence: [URL: "mailto:Faris.dahiyat@aau.ac.ae"] Faris.dahiyat@aau.ac.ae
+2College of Pharmacy, Al Ain University, Al Ain, UAE
+Full list of author information is available at the end of the article
+© The Author(s). 2020 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit [URL: "http://creativecommons.org/licenses/by/4.0/"] http://creativecommons.org/licenses/by/4.0/.
+The Creative Commons Public Domain Dedication waiver ([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://creativecommons.org/publicdomain/zero/1.0/) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.
+Page 2
+Algunmeeyn et al. Journal of Pharmaceutical Policy and Practice (2020) 13:53  Page 2 of 8
+Background
+The novel virus was first identified by Chinese author-
+ities in Wuhan City at the end of December 2019. The
+evidence presented shows that the virus is spread
+through birds and mammals, with people particularly at
+risk of infection and spread of the virus [1]. COVID-19
+is similar to the previous outbreaks of corona viruses
+such as SARS-CoV (severe acute respiratory syndrome-
+coronavirus) and MERS-CoV (Middle East respiratory
+syndrome-coronavirus) in 2003 and 2015 [2]. The infec-
+tion started to spread rapidly throughout countries, in-
+cluding Jordan. In December of 2019, the China Health
+Authority alerted the World Health Organization
+(WHO) to a serious case of pneumonia that was un-
+known to doctors and that was occurring in Wuhan,
+China [3, 4]. The infection started to spread rapidly to
+other countries including Jordan. It seems that the rap-
+idly spreading virus is more contagious than SARS-CoV
+and MERS-CoV9 [4].
+A suggested route of human-to-human transmission is
+through airborne droplets, contact or touching an in-
+fected person, or a contaminated surface [5]. The nature
+of healthcare providers’  occupation puts them at an in-
+creased risk of getting any contagious disease, including
+COVID-19. They are on the front line of the COVID-19
+outbreak response and as such are at risk of contracting
+this virus. Hand washing with soap and water, wearing
+face masks, and isolating confirmed and suspected cases
+are considered the best ways to avoid being exposed to
+COVID-19 [6, 7].  However, a nationwide outbreak of
+COVID-19 is an unexperienced virus for healthcare pro-
+viders (nurses, doctors, and pharmacists) in the world.
+Similarly, when severe acute respiratory syndrome such
+as SARS spread rapidly, most healthcare providers expe-
+rienced severe stress, and some nurses refused to care
+for patients [8, 9]. For example, the factors influencing
+nurses’  desire to leave their jobs during an outbreak of
+SARS were identified as the perceived risk of fatality
+from SARS, tenure, work stress, and social relationships.
+Burnout is a long-term consequence of prolonged ex-
+posure to certain job demands and a reaction that ap-
+pears when a person can no longer endure the stress
+they have been undergoing [10]. Additionally, burnout is
+a syndrome characterized by emotional exhaustion,
+depersonalization, and a diminished sense of personal
+achievement. Both quantity and quality of healthcare
+providers’ care could be negatively affected by stress and
+burnout. Evidence found that stressors in the workplace
+may result in a burnout syndrome and burnout results
+in low productivity [11]. Studies reported that healthcare
+providers are faced with hectic, unpredictable, and ever-
+changing situations [11, 12].  For the reason that they
+deal with various diseases, traumatic events, and urgent
+situations, they do not have enough time for recovery, 
+putting them under persistent stress. The COVID-19
+pandemic is causing global panic [13].  As a result,
+healthcare providers who were caring for COVID-19 pa-
+tients are reported to experience much higher stress,
+anxiety, and burnout than healthcare providers who do
+not in other hospital departments [11].  A nationwide
+outbreak of COVID-19 is an unfamiliar traumatic event
+for healthcare providers; therefore, there has been lim-
+ited studies into COVID-19 related burnout. Likewise,
+when severe acute respiratory syndrome such as SARS
+and MERS-CoV spread rapidly, most physicians, nurses,
+and pharmacists experienced severe anxiety, stress, and
+some physicians, and nurse declined to provide care for
+patients [8, 9].  Moreover, a study conducted by Tzeng
+and Yin [14] reported that when H5N1 avian flu spread
+rapidly, the healthcare providers' fear of infection from
+the disease was a significant factor influencing their pre-
+paredness to offer care for patients infected with the
+avian flu. Since an infectious disease such as COVID-19
+can occur anywhere in the world, policy-makers and
+managers need to pay attention to healthcare providers’
+burnout in association with their experiences of a na-
+tionwide COVID-19 outbreak. Especially, recent studies
+indicated that Jordanian healthcare providers’ work con-
+ditions and demographic are significant factors for
+healthcare providers’  burnout [15, 16].  Additionally, a
+study conducted by Alfuqaha and Alsharah [16] found
+that burnout has been increased among healthcare pro-
+viders in Jordanian hospital. However, as yet, there is no
+research regarding these matters in relation to COVID-
+19-related burnout. Thus, this study attempted to
+recognize the influencing factors on healthcare pro-
+viders’ burnout during an outbreak of COVID-19 in Jor-
+danian hospitals to provide basic information for
+lowering and preventing the level of burnout.
+Methods
+Research design
+The current project was qualitative in nature. It
+employed face-to-face interview (semi-structured inter-
+views) as a method to gather data within one govern-
+mental hospital in Jordan.
+The study sample
+The population for this qualitative study consisted of
+nurses, physicians, and pharmacists who were caring for
+patients’ suffering from COVID-19 admitted in one hos-
+pital located in a region Jordanian’s capital, Amman.
+The study participants were 10 nurses, 10 physicians,
+and 10 pharmacists who worked in the governmental
+hospital with the following job titles: pharmacists, regis-
+tered nurse, and physicians who worked in the emer-
+gency department and intensive care unit. The selection
+of participants for the interviews was based on
+Page 3
+Algunmeeyn et al. Journal of Pharmaceutical Policy and Practice (2020) 13:53  Page 3 of 8
+convenience and purposive sampling technique, result-
+ing in a total of 30 participants (see Table 1). The prime
+consideration with the sampling process in this case was
+to recruit and select informants who could provide a
+deep understanding of the issues under investigation and
+to recruit and select them in such a way as to give cred-
+ibility to the findings so that they can be potentially gen-
+eralized to another context or a larger population.
+Seven of the participants were females, and all the
+other participants were males, also working in different
+positions. Out of all those approached to be interviewed,
+no one declined to take part. Privacy and confidentiality
+were assured by the researcher to all the participants.
+For privacy and confidentiality reasons, the names of the
+interviewees cannot be mentioned. Participants were re-
+ferred to using a code, consisting of H and numbered 1–
+30 in abbreviated format; for example, “Interviewee H1”
+or “Interviewee H10.” The selection of hospital health-
+care providers for the interviews was based on conveni-
+ence and purposive sampling technique as mentioned
+previously, resulting in a total of 30 respondents. The
+prime consideration with the sampling process was to
+recruit and select informants who could offer a deep un-
+derstanding of the matters under examination and to re-
+cruit and select them in such a way as to give credibility
+to the results so that they can be potentially generalized
+to another context or a larger population.
+Data gathering
+Face-to-face interviews were conducted to gather data from
+the two hospitals in this investigation, which started after
+gaining the essential ethical approval. Any participants who
+were willing to be interviewed were then sent an email
+form, indicating that they had agreed to take part and giv-
+ing an opportunity for the investigator to arrange an ap-
+pointment for the interview. Consent forms and
+information sheets were then distributed to the prospective
+participants based on their interest in participating in this
+study. The participant information sheet contained details
+of the investigation study, and the approaches that would
+be utilized to gather and analyze the relevant data, as well
+as the purposes for which these data would be used. Like-
+wise, the participants were informed that they had the right
+to withdraw from the study at any time. In addition, the re-
+searcher asked the participants to sign a consent form on
+the day of the interview, emphasizing that their needs took
+priority over the study. Their permission was likewise
+Table 1 Numbers of interviewees in the case study
+Staff category  Number of interviewees in case study
+Pharmacists 10
+Nurses  10
+Physicians  10 
+obtained for the interview to be audio-recorded and for fu-
+ture use of the transcripts. Each interview was then digitally
+recorded, while notes were also taken during the interviews.
+The face-to-face interview process began with greetings
+and an introduction, after which the participant read
+through the information sheet and signed the informed
+consent form. The interviewee’s background data and
+demographic information were subsequently collected,
+followed by the scheduled interview questions and
+prompts.
+Data analysis
+The data from the 30 interviews were analyzed with the
+aid of the NVivo qualitative data analysis software pack-
+age. The audio-recorded interviews were transcribed ver-
+batim, and these transcripts were reviewed by the
+researchers before the data within them was analyzed.
+Later, the data were imported into the NVivo qualitative
+data analysis software package to assist with linking con-
+cepts contained in the data. In this study, thematic ana-
+lysis was selected as the data analysis method, since it was
+considered as the most appropriate method for the
+current study. This technique adopted in the present
+study was to place the mass of qualitative data collected
+into meaningful and related categories. This allowed the
+investigators to rearrange and analyze the data systematic-
+ally and rigorously. In addition, thematic analysis enables
+rich and deep insights to be gained of intricate phenom-
+ena. The data analysis procedures for this study were as
+follows: (1) the researcher familiarized himself with the
+content and information in the transcriptions; (2) the re-
+searcher continued to read each transcription line by line
+to find keywords, meanings, or concepts relating to the
+aims of the study; (3) the coding was refined by assem-
+bling similar codes and attempting to group codes to-
+gether; (4) in the practical retrieval process, the researcher
+collected in one place all the text that was coded with the
+same code, copying and pasting the text into separate la-
+beled files for each code, and using the Word program; (5)
+the researcher organized and gathered all coded data into
+themes; and (6) common themes were identified and in-
+ferences were made from them, with sample quotes being
+selected to illustrate the themes that emerged.
+Results
+Characteristics of the interviewees
+Only 7 of the participants were female. The majority of
+the interviewees were over 27 years of age, and most
+were graduates. They worked in different roles, but all
+had over 4-year work experience, while half had 12–18-
+year experience. A brief profile of each interviewee is
+presented in Table 1, 2, 3 and 4. Only 7 of the partici-
+pants were females, and these consisted of 10 nurses, 10
+doctors, and 10 pharmacists. All the other interviewees
+Page 4
+Algunmeeyn et al. Journal of Pharmaceutical Policy and Practice (2020) 13:53  Page 4 of 8
+Table 2 Participant profiles: nurses
+No.  Designation  Gender Age  Qualifications Years of experience
+1  ICU nurse  Male  30  Bachelor  8
+2  ICU nurse  Male  33  Bachelor  11
+3  ICU nurse  Male  29  Bachelor  8
+4  ICU nurse  Female  29  Diploma  8
+5  Emergency department nurse  Male  40  Bachelor  18
+6  Emergency department nurse  Female  38  Bachelor  16
+7  Emergency department nurse  Female  28  Bachelor  6
+8  Emergency department nurse  Female  42  Bachelor  20
+9  Emergency department nurse  Male  38  Diploma  18
+10  Emergency department nurse  Male  40  Diploma  18
+were males also working in different positions. The age
+of the participants ranged from 27 to 56, with the major-
+ity falling into the 33–42 age group (see Table 1, 2, 3
+and 4).  Their qualifications differ: 3 with diploma de-
+grees, 22 with bachelor’s degrees, 4 with Pharm D de-
+gree, and 1 with Master degree.
+Out of all those approached to be interviewed, no one
+declined, citing a lack of time or other commitments as
+a reason. The examiner decided to interview the staff
+who provided care for patients suffering from COVID-
+19 in the respective categories by concentrating on the
+nurses, doctors, and pharmacists in each category, as
+they would have had knowledge of the factors influen-
+cing healthcare providers’  burnout during the outbreak
+of COVID-19. The interview questions were designed to
+collect in-depth information on the following key areas
+that are factors influencing healthcare providers’ burnout
+during the outbreak COVID-19.
+Themes related to the factors influencing healthcare
+providers’ burnout during an outbreak of coronavirus in
+Jordanian hospitals
+The data analysis revealed the following key themes re-
+lating to the factors influencing healthcare providers’ 
+burnout during an outbreak of COVID-19 in hospitals
+in Jordan, as described by the participants during the
+interviews.
+Job stress among healthcare providers
+The data analysis revealed that most of the interviewees
+cited job stress as the key influencing factor of COVID-
+19. All of the participants (nursing, physicians, and phar-
+macists) mentioned fear and anxiety. Interviewees felt
+they did not have enough information when they were
+caring for patients, and they were afraid of infection
+spreading to their families. Thus, they became stressed
+and afraid. The following statements reflect the inter-
+viewees’ views in relation to this finding (theme):
+... I am expected to be there and stay there and pro-
+vide care for those patients suffering from COVID-
+19, but know that I am at risk and know that I have
+a family to go home to,. (Interviewee H15)
+but . I have a husband and two children. The youn-
+ger one is four years old and the little one is two
+years old. It is the time for them immunity wasn’t
+Table 3 Participant profiles: physicians
+No.  Designation  Gender Age  Qualifications Years of experience
+1  Ear, nose, and throat physician  Male  40  Bachelor  16
+2  Pathologist and laboratory physician Female 58  Bachelor  34
+3  Radiologist  Male  56  Bachelor  32
+4  Critical care practitioner physician Male  44  Bachelor  20
+5  Critical care practitioner physician Male  41  Bachelor  21
+6  Radiologist  Male  35  Bachelor  11
+7  Surgeon  Male  39  Bachelor  15
+8  Pathologist and laboratory physician Male  42  Bachelor  18
+9  Critical care practitioner physician Male  33  Master  9
+10  Surgeon  Male  55  Bachelor  31
+Page 5
+Algunmeeyn et al. Journal of Pharmaceutical Policy and Practice (2020) 13:53  Page 5 of 8
+Table 4 Participant profiles: pharmacist
+No.  Designation Gender  Age  Qualifications Years of experience
+1  Clinical pharmacist Male  40  Bachelor  17
+2  Clinical pharmacist Female  45  Bachelor  22
+3  Clinical pharmacist Male  33  Bachelor  10
+4  Clinical pharmacist Male  29  Pharm D  6
+5  Clinical pharmacist Male  27  Pharm D  4
+6  Clinical pharmacist Male  31  Bachelor  8
+7  Clinical pharmacist Female  39  Bachelor  16
+8  Clinical pharmacist Male  35  Bachelor  12
+9  Clinical pharmacist Male  27  Pharm D  4
+10  Clinical pharmacist Male  30  Pharm D  7
+too strong, so I have to consider it very seriously.
+But what do you think I could I do? I have to be in-
+volved as a nurse unless I loss my job. (Interviewee
+H1) 
+hospital, because nursing is the area of healthcare
+provision where there is highest engagement and
+commitment to Accreditations implementation in
+this hospital. (Interviewee H1)
+Some COVID -19 patients are in this hospital. Since
+of the responsibility of my job, the pressure is in-
+escapable for me (Interviewee H2)
+As a nurse, I have a task to care for patients but at
+the same time I also have a responsibility to myself,
+my kids', wife and my parents, everybody who has a
+stake in my wellbeing. (Interviewee H3) 
+The staff sufficiency in this hospital leads to de-
+crease workload for current staff and surely affects
+our performance and the quality of care provided to
+patients with COVID-19......  Management of our
+hospital is equipped with facilities sufficient for de-
+crease or preventing the staff from infected from
+COVID-19the spread of COVID-19, (Interviewee
+H16,H22)
+as you know we heard that the deaths of several
+pharmacists, nurses and doctors in around the
+world. Because we are work at the frontline to fight
+this virus so this cause fear and anxiety to get this
+virus or transit it to our families. (Interviewee H27)
+Staff and resource adequacy
+The data analysis found that most of the respondents
+emphasized staff and resource adequacy and turnover as
+a factor impacting nursing, physicians’, and pharmacists’
+practice during an outbreak of COVID-19 at Jordanian
+hospitals. These opinions were derived from the follow-
+ing quotes extracted from the interviews with staff:
+... I our hospital provide the all staff work with pa-
+tient have COVID-19 adequate PPE such N95s and
+full Hazmat. (Interviewee H18)
+...  Our hospital employs the best infection control
+guideline for preventing the spread of COVID-19…
+(Interviewee H26) 
+Our hospital employs the best infection control
+guideline for preventing the spread of COVID-19
+between the staff , (Interviewee 14)
+Fear of COVID-19 infection
+The study found that the respondents recognized fear of
+COVID-19 infection as a factor influencing nursing,
+physicians, and pharmacists’ practice during an outbreak
+of COVID-19 in Jordanian hospitals. For example, the
+interviewees stated
+In spite of we used good equipment to prevent our
+self during working with patient COVID-19 but
+honestly I am afraid of being infected with COVID-
+19. (Interviewee H3)
+……….always pharmacists and doctors are bringing
+home bacteria and viruses. (Interviewee H5)
+….I feel that my job puts me, wife and my son at
+great risk get the infection (interviewee H8)
+...and I also see the shortage of nurses as a major
+barrier to Accreditations implementation in this 
+I tried to protect myself as much as I can by the
+wearing Hazmat suit and follow the best infection
+control guideline for preventing myself to infected
+Page 6
+Algunmeeyn et al. Journal of Pharmaceutical Policy and Practice (2020) 13:53  Page 6 of 8
+by COVID-19. I have a husband and two children.
+The younger one is four years old and the little one
+is two years old. It is the time for them immunity
+wasn’t too strong, so I have to consider it very ser-
+iously. But what do you think I could I do? I have to
+be involved as a physician unless I lose my job.
+(Interviewee H30)
+Discussion
+This study aimed to explore the factors impacting
+healthcare providers’  burnout during an outbreak of
+COVID-19 in Jordanian hospitals in order to gain a bet-
+ter understanding of such influencing factors in hospitals
+in Jordan, specifically from the perspective and experi-
+ence of nursing, physicians, and pharmacist staff. The re-
+spondents, including nurses, cited job stress, staff and
+resource adequacy and fear of COVID-19 infection as
+factors impacting the burnout in healthcare providers
+who experienced COVID-19 in Jordanian hospitals.
+The findings show that job stress among healthcare
+providers was the main factor for burnout during the
+outbreak of COVID-19 in Jordanian hospitals. Most of
+the participants believe that during the outbreak of a
+new emerging contagious disease COVID-19 led to an
+increase of the number of affected patients with
+COVID-19 in their hospitals. This could increase the
+workload and expose them at work to COVID-19, the
+highly contagious nature of which could mean taking
+the infection home to their relatives. This result is simi-
+lar to that of other studies, conducted by Shanafelt et al.
+and Potter [5, 17],  where it was confirmed that the
+highly infectious nature of the disease increased health-
+care providers’  stress and anxiety, which in turn, in-
+creased their burnout.
+Additionally, according to the participants’  responses,
+the staff and resource adequacy was recognized as a factor
+in the current context. Most of the participants made the
+point that staff and resource adequacy in the hospitals was
+largely connected to the healthcare providers’ burnout, in-
+cluding reference to available and sufficient personal pro-
+tective equipment, quick access to occupational health
+with efficient assessment and testing if symptoms
+warranted it, and information and resources to prevent
+carrying the infection home to family members. A study
+mentioned that hospitals usually provide personal
+protection equipment for doctors, nurses, little attention
+is being paid towards the protection for pharmacists even
+though they are the front line of fighting COVID-19 crisis
+[18, 19]. The current study also found that where there
+was an adequate increase in pharmacist, nurse, and phys-
+ician staff in hospitals, this was associated with a decrease
+in healthcare providers’ burnout. Hospitals that invest in
+more staff may also invest in other activities that improve
+quality and avoid workload. These findings are consistent 
+with those of other studies by Kim et al. and Kane et al.
+[20, 21], who highlighted such factors as being associated
+with the healthcare providers’  burnout during the out-
+break of COVID-19. For example, they pointed out that
+MERS-CoV-related healthcare providers’ burnout are as-
+sociated with poor hospital resources for the prevention of
+their staff contracting the virus and treatment of MERS-
+CoV. Additionally, Kane et al. [22] and Klopper et al. [23]
+found that nurse-to-patient ratio is an effective nurse re-
+tention strategy leading to nurses’ satisfaction with the job
+and providing care and decreasing nurses’  burnout. Fur-
+thermore, a study indicated that management should en-
+sure presence of adequate human resource particularly
+pharmacists to decrease the workload. This can be
+attained through recruiting new staff and increasing effi-
+ciency [24].
+Finally, the findings of this project revealed that fear of
+COVID-19 infection is a factor related to healthcare pro-
+viders’ burnout in Jordanian hospitals. The interviewees
+believe that nursing, physician, and pharmacist jobs put
+the healthcare providers and their families at great risk
+of exposure to COVID-19 due to acquiring the infection
+at work and taking the infection home to their family.
+This finding is supported by those of other studies con-
+ducted worldwide [5, 9, 14, 25–27].
+The principles of COVID-19 infection prevention and
+control strategies associated with healthcare suggest the
+need for administrative controls and hospital resources
+[27]. In addition, if the government, with strong leader-
+ship, develops stronger and more resilient health systems
+in preparation against emerging contagious diseases such
+as COVID-19, healthcare provides’  burnout will
+decrease.
+Conclusions and recommendations
+The present study has explored the main factors affect-
+ing healthcare providers’  burnout, as faced by hospitals
+in Jordan during the outbreak of COVID-19, based on
+responses from a sample of hospital pharmacists, physi-
+cians and nurses’ staff members. In Jordanian hospitals,
+three main factors were identified from the reported ex-
+periences of these nurses: job stress among healthcare
+providers, staff and resource adequacy, and fear of
+COVID-19 infection. These factors should be addressed,
+because they could impact on healthcare providers’
+burnout in hospitals, negatively influencing the quality
+of healthcare services and thereby incurring serious
+problems.
+Nevertheless, a limitation of the current project is that
+it examined just one hospital. Moreover, the sample only
+included pharmacists, physicians, and nurses caring for
+patients of coronavirus in the emergency department
+and intensive care unit, which is likely to affect the
+generalizability of the findings. Further enquiry is
+Page 7
+Algunmeeyn et al. Journal of Pharmaceutical Policy and Practice (2020) 13:53  Page 7 of 8
+therefore necessary to explore the ways in which the fac-
+tors affect the healthcare providers’  burnout during an
+outbreak of COVID-19 in Jordan’s and government hos-
+pitals, thereby looking at how to decrease and prevent
+staff burnout to identify and overcome these factors,
+with the inclusion of views from managers and policy-
+makers.
+In order to lower the level of burnout, managers need
+to make efforts to reduce job stress, to reinforce hospital
+resources for the treatment of COVID-19, and to pro-
+mote support from top management. And also, sufficient
+funds are available to meet all of quality of care needs of
+the patient in the hospital. And being able to meet re-
+quirement or at least minimum requirement (adequate
+physicians, pharmacists, and nurse-patient ratio, enough
+equipment, and other requirement) and hopefully be-
+yond. It is essential that we develop effective and system-
+atic burnout management programs for monitoring and
+preventing burnout in preparation against possible fu-
+ture outbreaks of infectious diseases.
+The present researcher used a qualitative case study
+technique whereas a quantitative approach could con-
+firm and support these results and build on the current
+study through further work on health workers’ burnout
+during COVID-19 in Jordanian hospitals. One limitation
+of this study is that the scope of research was confined
+to the outbreak of COVID-19 in one country. As such, it
+is necessary to increase the number of study contribu-
+tors for comparison with cases in other countries. Be-
+sides, as most of the interviewees were male, future
+investigations need to include more female nurses, phy-
+sicians, and pharmacist so as to examine gender charac-
+teristics. In addition, factors such as personality, coping
+strategies, and job attitude could be surveyed as add-
+itional influencing factors of burnout. Finally, the re-
+searchers also recommend that a mixed-method study
+design combining cross-sectional surveys and in-depth
+interviews be used for an in-depth inquiry into COVID-
+19-related burnout
+Acknowledgements
+The authors would like to acknowledge the healthcare providers who
+participated in this study.
+Authors’ contributions
+AG conceptualized the project with FD and ZB. AG, MT, and MA contributed
+with data collection. AG and FD contributed to data analysis and
+interpretation. AG, FD, and ZB contributed with manuscript development.
+The final version was read and approved by all authors.
+Funding
+The authors received no specific funding for this work.
+Availability of data and materials
+The datasets for this manuscript are not publicly available. The datasets
+obtained as a part of this will be available on request. Requests to access the
+datasets should be directed to [URL: "mailto:faris.dahiyat@aau.ac.ae"] faris.dahiyat@aau.ac.ae. 
+Competing interests
+The authors declare that the research was conducted in the absence of any
+commercial or financial relationships that could be construed as a potential
+conflict of interest.
+Author details
+1School of Nursing, University of Isra, Amman, Jordan. 2College of Pharmacy,
+Al Ain University, Al Ain, UAE. 3Karak Comprehensive Medical Center,
+Jordanian Ministry of Health, Amman, Jordan. 4Faculty of Medicine, The
+Hashemite University, Zarqa, Jordan. 5Department of Pharmacy, University of
+Huddersfield, Huddersfield, UK.
+Received: 1 June 2020 Accepted: 18 August 2020
+References
+1.  Schoeman D, Fielding BC. Coronavirus envelope protein: current
+knowledge. Virology journal. 2019 Dec;16(1):69.
+2.  Mizumoto K, Kagaya K, Zarebski A, Chowell G. Estimating the asymptomatic
+proportion of coronavirus disease 2019 (COVID-19) cases on board the
+Diamond Princess cruise ship, Yokohama, Japan, 2020. Eurosurveillance.
+2020 Mar 12;25(10):2000180.
+3.  Chan JF, Yuan S, Kok KH, To KK, Chu H, Yang J, Xing F, Liu J, Yip CC, Poon
+RW, Tsoi HW. A familial cluster of pneumonia associated with the 2019
+novel coronavirus indicating person-to-person transmission: a study of a
+family cluster. The Lancet. 2020 Feb 15;395(10223):514–23.
+4.  Paules CI, Marston HD, Fauci AS. Coronavirus infections—more than just the
+common cold. Jama. 2020 Feb 25;323(8):707–8.
+5.  Shanafelt T, Ripp J, Trockel M. Understanding and addressing sources of
+anxiety among health care professionals during the COVID-19 pandemic.
+Jama. 2020 Apr;7.
+6.  Curtis N, Sparrow A, Ghebreyesus TA, Netea MG. Considering BCG
+vaccination to reduce the impact of COVID-19. The Lancet. 2020 Apr;30.
+7.  Ong SW, Tan YK, Chia PY, Lee TH, Ng OT, Wong MS, Marimuthu K. Air,
+surface environmental, and personal protective equipment contamination
+by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) from a
+symptomatic patient. Jama. 2020 Apr 28;323(16):1610–2.
+8.  Brug J, Aro AR, Oenema A, De Zwart O, Richardus JH, Bishop GD. SARS risk
+perception, knowledge, precautions, and information sources, the
+Netherlands. Emerging infectious diseases. 2004 Aug;10(8):1486.
+9.  Shiao JS, Koh D, Lo LH, Lim MK, Guo YL. Factors predicting nurses'
+consideration of leaving their job during the SARS outbreak. Nursing Ethics.
+2007 Jan;14(1):5–17.
+10. Demerouti E, Bakker AB, De Jonge J, Janssen PP, Schaufeli WB. Burnout and
+engagement at work as a function of demands and control. Scandinavian
+journal of work, environment & health. 2001 Aug;1:279–86.
+11. Chemali Z, Ezzeddine FL, Gelaye B, Dossett ML, Salameh J, Bizri M, Dubale B,
+Fricchione G. Burnout among healthcare providers in the complex
+environment of the Middle East: a systematic review. BMC public health.
+2019 Dec 1;19(1):1337.
+12. Gates DM, Gillespie GL, Succop P. Violence against nurses and its impact on
+stress and productivity. Nurs Econ. 2011 Mar 1;29(2):59–66.
+13. Bonyan R, Al-Karasneh AF, El-Dahiyat F, et al. Identification of the awareness
+level by the public of Arab countries toward COVID-19: cross-sectional study
+following an outbreak. J of Pharm Policy and Pract. 2020;13:43. [URL: "https://doi.org/10.1186/s40545-020-00247-x"] https://doi.
+ org/10.1186/s40545-020-00247-x.
+14. Tzeng HM, Yin CY. Nurses' fears and professional obligations concerning
+possible human-to-human avian flu. Nursing Ethics. 2006 Sep;13(5):455–70.
+15. Mudallal RH, Othman WA, Al Hassan NF. Nurses’ burnout: the influence of
+leader empowering behaviors, work conditions, and demographic traits.
+INQUIRY: The Journal of Health Care Organization, Provision, and Financing.
+2017 Aug 23;54:0046958017724944.
+16. Alfuqaha O, Alsharah H. Burnout among Nurses and Teachers in Jordan: a
+comparative study. Archives of Psychiatry and Psychotherapy. 2018 Jun 1;
+20(2):55–65.
+17. Potter C. To what extent do nurses and physicians working within the
+emergency department experience burnout: A review of the literature.
+Australasian Emergency Nursing Journal. 2006 Jun 1;9(2):57–64.
+18. Bukhari N, Rasheed H, Nayyer B, et al. Pharmacists at the frontline beating
+the COVID-19 pandemic. J of Pharm Policy and Pract. 2020;13:8. [URL: "https://doi.org/10.1186/s40545-020-00210-w"] https://doi.
+[URL: "https://doi.org/10.1186/s40545-020-00210-w"] org/10.1186/s40545-020-00210-w.
+Page 8
+Algunmeeyn et al. Journal of Pharmaceutical Policy and Practice (2020) 13:53
+19. Chan AH, Rutter V, Ashiru-Oredope D, Tuck C, Babar ZU. Together we unite:
+the role of the Commonwealth in achieving universal health coverage
+through pharmaceutical care amidst the COVID-19 pandemic. Journal of
+Pharmaceutical Policy and Practice. 2020 Dec;13:1–7.
+20. Kim JS, Choi JS. Factors influencing emergency nurses' burnout during an
+outbreak of Middle East Respiratory Syndrome Coronavirus in Korea. Asian
+nursing research. 2016 Dec 1;10(4):295–9.
+21. Kane RL, Shamliyan TA, Mueller C, Duval S, Wilt TJ. The association of
+registered nurse staffing levels and patient outcomes: systematic review
+and meta-analysis. Medical care. 2007 Dec;1:1195–204.
+22. Klopper HC, Coetzee SK, Pretorius R, Bester P. Practice environment, job
+satisfaction and burnout of critical care nurses in South Africa. Journal of
+Nursing Management. 2012 Jul;20(5):685–95.
+23. Ayele Y, Hawulte B, Feto T, Basker GV, Bacha YD. Job satisfaction among
+pharmacy professionals working in public hospitals and its associated
+factors, eastern Ethiopia. Journal of Pharmaceutical Policy and Practice. 2020
+Dec;13:1–9.
+24. Hall LM, Angus J, Peter E, O'Brien-Pallas L, Wynn F, Donner G. Media
+portrayal of nurses' perspectives and concerns in the SARS crisis in Toronto.
+Journal of Nursing Scholarship. 2003 Sep;35(3):211–6.
+25. Chen KY, Yang CM, Lien CH, Chiou HY, Lin MR, Chang HR, Chiu WT.
+Burnout, job satisfaction, and medical malpractice among physicians.
+International journal of medical sciences. 2013;10(11):1471.
+26. Al Knawy BA, Al-Kadri HM, Elbarbary M, Arabi Y, Balkhy HH, Clark A.
+Perceptions of post outbreak management by management and healthcare
+workers of a Middle East respiratory syndrome outbreak in a tertiary care
+hospital: a qualitative study. BMJ open. 2019 May 1;9(5):e017476.
+27. Hafner T, Banda M, Kohler J, Lumpkin M, Adeyeye MC, Nfor E, Aboagye-
+Nyame F, Guzman J. Integrating pharmaceutical systems strengthening in
+the current global health scenario: three ‘uncomfortable truths’. Journal of
+Pharmaceutical Policy and Practice. 2020 Dec;13(1):1–4.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations. 
+Page 8 of 8

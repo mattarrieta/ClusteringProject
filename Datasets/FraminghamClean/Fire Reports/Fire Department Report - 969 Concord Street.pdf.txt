@@ -1,0 +1,2278 @@
+A 
+I171~0
+FDID * 
+MM DD YYYY
+I  u ~3  1.1  2017
+State * Incident Date * 
+~~
+Station 
+117-0~~2171
+Incident Number * 
+I  ~~~
+Exposure * 
+~oe~ete
+Change
+~No Activity 
+SIRS -1
+B3SiC
+B Loeation* 
+Check. this bor. to Indicate that the address for this incident is provided on the Wildland Fi ce
+~Module In Section B "Alternative Location Specification". Use only £oc Wildland Eires. 
+CEn5ll5 TidCt 
+~~— ~J
+street address
+Intersection
+In Front of
+Rear o£ 
+Adjacent to 
+969 ~~ I CONCORD ST
+Number/Milepost Prefix Street or Highwa y
+~FRAMINGHAM
+Apt./Suite/Room City 
+~  ~~ ~~
+Street Type Suffix
+I  U~ 01701
+State ZiP Code 
+~-u
+Directions 
+Cross street or directions, as a  licable
+C Incident Type ~k  E1 Date & Times 
+Midnight is 0000  E2 Shift & Alarms
+111 (Building fire
+Incident Type
+D Aid Given or Received* 
+I
+1 QMutual aid received
+2 ~AlltOID3t1.0 31CL =2Cv. 
+3Mutual aid given
+4  Automatic aid given 
+17I  X14 ~u
+Their FDID Their
+State
+I  I 
+check boxes if
+dates are the
+same as Alarm 
+Month Day
+~M always required 
+Year Hr Min Sec
+Date. warm *  03
+U ~
+11 
+~~2Q1~] 01:19:09
+ARRIVAL required, unless canceled or did not arrive 
+Local option
+Ia ~  ~ I  I
+Shift or Alarms Disu
+Platoon
+Arrival *  03 11 I  2~17I 01:24:57 ~ 
+E3
+CONTROLLED Optional, Except for wildland fires  Special Studies
+Controlled ~~ ~~ ~~I  I  Local option
+5other aid given
+N  None 
+Their
+Incident Number 
+q 
+LAST UNTT CLEARED, required ercept for wildland fires
+Last Unit
+Cleared 
+~  (~~~  I  l l I  I  ')nl 71 Ill:Q1:'ZQ
+I  --I  I  -- I  ~'— 'I 
+I 
+~~ ~~
+Special
+Study ID# 
+Special
+Study Value
+F' Actions Taken *
+11 (Extinguishment by fire
+Primary Action Ta Y.en (1)
+81 (Incident command
+Additional Action Taken (2) 
+G1 Resources~k  G2 Estimated Dollar Losses & Values
+Check this box and skip this
+section if an Apparatus or
+Personnel form is used. 
+LOSSES: Required for all fires if mown. Optional
+for non fires.  NOI12
+I 
+Apparatus Personnel property $~~,  500 ~  000
+suppression 0013 0032 
+contents $~~ ~  250
+~  ~(j(~~~
+EMS ~J ~~ Pte—INCIDENT VALUE: optional 
+000
+u ~
+Additional Action Taken (3) 
+~  ~~er uuProperty ~`~~ ~  000 ,  000
+q Check box if resource counts
+include aid received resources. COIIt.2i1tS $~~ ~  ~~~ ~  ~~0
+Completed Modules H1*Casualties❑None Hg  Hazardous Materials Release I fixed Use Property
+Eire-2  Deaths Injuries N ~None 
+Nj~7  Not Mixed
+X Structure-3
+Civil Fire Cas.-4 
+Fire ~~ 1  Natural Gas: ~i,,, lank, na ~„a,,,t~oa o~ xz~e z~e~on~
+Service 
+2 ~Propane gas: <zi ~.s. c~k cz~ ~n how ssQ g~~ii~ 
+10
+2Q
+33 
+Assembly use
+Education use
+Medical use
+qFire Serv. Cas.-5
+EMS-6
+~HazMat-7 
+Civilianu ~~ 3 q Gasoline: „at,;~io f„~i e,,,x or Po~e,bi~ ~o~e,~n~~
+4 ~Kerosene: rvai b„~„~„g equipment,= Po=r~lo ,t,r,ge
+H2 Detector
+xequ~rea fog conf~aea Fires. 5 ❑Diesel Fuel/Fuel oil:,,~i,;~la f„~l c,,,x ,~ Po=t,bi~ 
+40
+51
+53
+58 
+Residential use
+Row of stores
+Enclosed mall
+Bus. &Residential
+Wildland Fire-8
+QApparatus-9
+Personnel-10
+Arson-11 
+1 ❑Detector alerted occupants 
+6 ~Household solvents: ho,,,~~o£f~~~,P~ii, ~i~a„uP ,niy
+'7  Motor oil: £mom engine or port,k,le ~,,,ts~n~~
+2~Detector did not alert them 8 qPaint: r:,mpaint cane totai'n ~ g c 55 g,iio„~
+[J~Unknown  O ~Other• sP~~~ni xa:tee a~t~on~ ~~~~~oa o~ ;P~i~ > ssgu. ,
+Plcaso c  lata tho HazM.t £ozm 
+59
+60
+65
+00 
+O££ice use
+Industrial use
+use
+F3T'IIltjlse
+Other mixed use
+J Property Use* Structures 341 Q Clinic clinic type infirmary rj39 ~ Household goods,sales,repairs
+3420Doctor/dentist office 579 ❑Motor vehicle/boat sales/repair
+131 ~Church, place of worship 
+361 q P=ison or jail, not juvenile 5'71 ~ Gas or service station
+161 ❑Restaurant or cafeteria 419 1-or 2-family dwelling 599 ~ susiness office
+162 ❑Bar/Tavern or nightclub 429 QMulti-Family dwelling 615 ~ Electric generating plant
+213 ~Elementary school or kindergarten 439Q Rooming/boarding house 629 ~ Laboratory/science lab
+215High school or junior high  449 ~Commercial hotel or motel 700 ~ Manufacturing plant
+241 ~College, adult education 459Q Residential, board and care 819Livestock/poultry storage(barn)
+311 ~Care facility £or the aged
+331 ~Hospital 
+464 QDormitory/barracks
+519 ~Food and beverage sales 
+882 ~Non-residential parking garage
+$gl ~ Warehouse
+Outside
+124Playground or park 
+936~vacant lot  981 ❑Construction site
+938Graded/care for plot of land 984 ~ Industrial plant yard
+655 ~Crops or orchard
+669Forest (timberland) 
+946 ~Lake, river, stream
+951Railroad t1g1'lt. Of Way 
+Lookup and enter a Property Use code only if
+you have NOT checked a Property Use box:
+807Outdoor storage area
+919 ~nump or sanitary landfill
+931 ~~Pen land or field 
+960Other street
+g(1  Highway/divided highway
+962Residential street/driveway 
+Property Use 500
+(Mercantile, business, Other
+NFIRS-1 Revision 03 11 99
+Framingham Fire Department  17100 03/11/2017 17-0002171
+Page 2
+K1 Person/Entity Involved
+Local Option  Business name (if applicable)
+q Check This Box if
+same address as
+incident location.
+Then skip the three
+duplicate address
+lines. 
+Mr.,Ms., Mrs. First Name
+Number  Prefix Street or Highway 
+MI  Last Name 
+u-u-~~
+Area Code Phone Number 
+u
+Suffix
+Street Type 
+u
+SUPfix
+Post Office Box
+u ~
+State Zip Code 
+~-u 
+~~
+Apt./Suite/Room City
+More people involved? Check this box and attach Supplemental Forms (NFIRS-1S) as necessary
+K2 Owner ~ Same
+Then 
+as person involved?
+check this box and skip
+The rest of this section.
+Local Option  Business name (i£ Applicable)
+q Check this box i£
+same address as
+incident location.
+Then skip the three
+duplicate address
+lines. 
+u ~
+Mr.,Ms., Mrs. First Name
+Number 
+U
+Prefix Street or Highway 
+iu~
+>,i  Last Name 
+Area Code 
+~._J I.~
+Phone Number 
+~  u
+Suffix
+Street Type 
+uSuffix
+Post Office Box
+u ~
+State Zip Code 
+Apt./Suite/Room
+~-~ 
+City
+j, Remarks
+Local Option
+[01:50:23 TD] EVERSOURCE ELEC. NOTIFIED; [03:57:35 TD] STATE FIRE MARSHAL ON SCENE; [07:04:14
+STD] EVERSOURCE ELEC. ON SCENE; [08:32:35 TD] FP4 CLEAR OF FIRE SCENE; [08:42:45 TD] BUILDING
+INSPECTOR ON SCENE. At approximately 0130 the box to 969 Concord was received. Conditions
+were cold weather with winds up to 35+ MPH. Engine 5, Enqine 2, Rescuel, Platform 1 and Car
+2 responded. On arrival to a one story wood frame building approximately 30 by 100
+(containing 10 occupancies) we had nothing showing. Engine 5 investigated the box at the C
+side (rear) of the building and found the water gong activated. A light smoke condition and
+an activated sprinkler head were reported by Engine 5 after they gained access to the salon.
+Rescue 1 joined Engine 5 with both units using thermal imagers. Heat signatures detected but
+no high heat or visible fire detected. Platform 1 was using their thermal imager in the A
+(front)of the building. Engine 2 laid a 4" line into Engine 5 and then assited checking
+adjacent units on either side of the salon for any fire, heat or smoke condition. None
+reported. All three fire companies pulled ceilings looking for extension of fire. None
+found. Engine 5 crew pulled a 2" mattydale to wet any hot spots detected. Platform 1 opened
+the front door for horizontal ventilation of the cold smoke created by the sprinkler head.
+Engine 5 and Rescue 1 exited the occupancy to change bottles and command had Engine 2 take
+over the handline from Engine 5 and continue the investigation. Engine 5 and Rescue 1
+re-entered the occupancy to join Engine 2. Command (A side) noticed fire venting out of the
+front of the roof. A second alarm was requested which consisted of Ladder 3, Engine 3, and
+Engine 7. Command changed position to the C (front ) of the building. Platform 1 had set up
+in front of the building upon arrival and had thrown the aerial to the roof. They cut a
+vent hole near the ridge. A larger volume of fire vented out of the hole and was visibly
+burning along the ridge. Engine 2 was at the C side (rear) entrance of the fire using a
+handline to attack the fire in the cockloft. Engine 5 crew used a second handline to assist
+with fire attack. Engine 1 was dispatched as RIT and set up in the rear B/C corner with the
+j, Authorization
+175117
+Officer in charge ID
+Check
+aoX ~t 
+~ 
+1140131
+same
+as Officer Member making report ID
+in charge. 
+DUTCHER, MICHAEL D
+Signature
+~GILDEA, PAUL A
+Signature 
+SAC
+Position or rank 
+~  ~
+Assignment
+DClo ~  ~
+Position or rank Assignment 
+~  03 23  2017
+Month Day Year
+~  u u Zo~~
+Month Day Year
+Framingham Fire Department  17100 03/11/2017 17-0002171
+Page 3
+17100 ~  u
+FDID  State 
+MM DD
+u 11
+Incident Date * 
+YYYY
+2017 ~5~ 
+Station 
+~  17-0002171 ~  QQQ
+Incident Number *  Exposure 
+Complete
+Na=LatiVe
+Narrative:
+[01:50:23 TD] EVERSOURCE ELEC. NOTIFIED; [03:57:35 TD] STATE FIRE MARSHAL ON SCENE; [07:04:14
+TD] EVERSOURCE ELEC. ON SCENE; [08:32:35 TD] FP4 CLEAR OF FIRE SCENE; [08:42:45 TD] BUILDING
+INSPECTOR ON SCENE. At approximately 0130 the box to 969 Concord was received. Conditions
+were cold weather with winds up to 35+ MPH. Engine 5, Engine 2, Rescuel, Platform 1 and Car 2
+responded. On arrival to a one story wood frame building approximately 30 by 100 (containing
+10 occupancies) we had nothing showing. Engine 5 investigated the box at the C side (rear) of
+the building and found the water gong activated. A light smoke condition and an activated
+sprinkler head were reported by Engine 5 after they gained access to the salon. Rescue 1
+joined Engine 5 with both units using thermal imagers. Heat signatures detected but no high
+heat or visible fire detected. Platform 1 was using their thermal imager in the A (front)of
+the building. Engine 2 laid a 4" line into Engine 5 and then assited checking adjacent units
+on either side of the salon for any fire, heat or smoke condition. None reported. All three
+fire companies pulled ceilings looking for extension of fire. None found. Engine 5 crew
+pulled a 2" mattydale to wet any hot spots detected. Platform 1 opened the front door for
+horizontal ventilation of the cold smoke created by the sprinkler head. Engine 5 and Rescue
+1 exited the occupancy to change bottles and command had Engine 2 take over the handline from
+Engine 5 and continue the investigation. Engine 5 and Rescue 1 re-entered the occupancy to
+join Engine 2. Command (A side) noticed fire venting out of the front of the roof. A second
+alarm was requested which consisted of Ladder 3, Engine 3, and Engine 7. Command changed
+position to the C (front ) of the building. Platform 1 had set up in front of the building
+upon arrival and had thrown the aerial to the roof. They cut a vent hole near the ridge. A
+larger volume of fire vented out of the hole and was visibly burning along the ridge. Engine
+2 was at the C side (rear) entrance of the fire using a  handline to attack the fire in the
+cockloft. Engine 5 crew used a second handline to assist with fire attack. Engine 1 was
+dispatched as RIT and set up in the rear B/C corner with the RIT basket. The roof in the
+front was now noticeably sagging and all crews were ordered out of the building, conditions
+deteriorated significantly, with potential roof collapse. All companies switched to a
+defensive mode. As the second alarm arrived Engine 3 ordered to RIT, Ladder 3 laid a supply
+line to Platforml as they were already set up. Ladder 3 then set up on the othe end of the
+building and Engine 7 established a supply line off of Old Connecticut Path to them. Both
+aerials were now using master streams to extinguish.
+Narrative by Deputy Chief Paul Gildea
+03/23/2017 11:13:49 Michael Dutcher
+Car 1 and Car 3 on scene. After a face to face discussion with I/C, C-3 assumed command and
+continued defensive operations. Heavy fire through the roof, the entire length of the
+structure. Weather conditions deteriorated quickly, high winds, approximately 50 MPH,.and a
+snow squall. A third alarm ordered. Defensive strategy continued until all fire
+extinguished.
+03/23/2017 09:36:30 Michael Dutcher
+Framingham Fire Department  17100 03/11/2017 17-0002171
+Page 4
+A 
+I171~~
+FDID 
+~  u
+State 
+MM DD
+~3  1.1
+Incident Date * 
+yyyy
+217 ~~
+Station 
+I17-~~~2171
+Incident Number * 
+❑De~ete
+~  ~~0  Change
+Exposure * ~No Activity 
+S=RS -2
+Fire
+$ Property Details
+$1 I  I  ~Not Residential
+Estimated Number of residential living units in
+building of origin whether or not all units
+became involved
+$2 I  OOl Buildings not involved
+Number of buildings involved
+$3 I
+Acres burned
+(outside fires) 
+None
+Less than one acre 
+C On-Site Materials
+OZ Products 
+None Complete if there were any significant
+amounts of commercial,industrial, energy or
+agricultural products or materials on the
+Property, whether or not they became involved
+Enter up to three codes. Check one
+or more boxes for each code entered. 
+1  Bulk storage or warehousing
+~~ None
+on-site material tit 
+12
+3
+4 
+Processing or manufacturing
+Packaged goods £or sale
+Repair or service
+~~ I
+on-site material (2) 
+1
+12
+3
+4 
+Bulk storage or warehousing
+Processing or manufacturing
+P3Ckaged gOOdS £Or Sale
+Repair or service
+L~ I
+on-site material (3) 
+1
+12
+3
+4 
+Bulk storage or warehousing
+Processing or manufacturing
+Packaged goods £or sale
+Repair or service
+D Ignition  E1 
+Cause of Ignition
+Check box i£ this is an exposure zePort.
+skip to section ~ 
+E3xuman Factors
+Contributing To 29711t10I1
+Check all applicable boxes
+D1 74Attic: vacant, crawl
+area of fire origin * 
+I  1 ❑Intentional
+2 ~Unintentional
+3 ~Failure of equipment or heat source
+D2 ~~ Undetermined
+xeat source * 
+4 ~Act of nature
+I 
+5 ~Cause under investigation
+jJ ~Cause undetermined after investigation
+D3 ~~ Undetermined ~
+Item first ignited * 1  Check Box if fire sprea
+❑was confined to object
+of origin
+D4~ ~
+Type of material
+first ignited 
+Required only if item first
+ignited code is 00 or <70 
+Factors Contributing To Ignition
+E2 
+I~ (Undetermined 
+~NOnE
+Factor Contributing To Ignition (1)
+Factor Contributing To Ignition (2) 
+1AsleepNone
+2 ~Possibly impaired by
+alcohol or drugs
+3 ~Unattended person
+4 ~Possibly mental disabled
+5 qPhysically Disabled
+6 
+❑Multiple persons involved
+']  Age was a factor
+Estimated age of I  I
+u
+person envolved
+1 ~M3]_e  2Female
+Equipment Involved In Ignition F2 Equipment Power
+E,1 
+G Fire Suppression Factors
+None If Equipment was not involved,Skip to
+Section G  ~~ I  I  Enter up to three 
+codes.None
+Equipment Power Source
+Equipment involved
+Brand I 
+F3
+Equipment Portability
+1 ~Portable 
+L~
+Fire suppression factor (1)
+Model I  2 ~Stationary uFire 
+suppression factor (2)
+Serial #I
+Year 
+Portable equipment normally can be
+moved by one person, is designed t
+be use in multiple locations, and
+requires no tools to install. 
+Fire suppression factor (3)
+j;l Mobile Property Involved H2 Mobile Property Type & Make
+None
+1 ~Not involved in ignition, but burned
+2 ~Involved in ignition, but did not burn
+3 ~Involved in ignition and burned 
+~~ I
+Mobile property type
+~~ I
+Mobile property make 
+I
+I 
+Local Use
+Pre-Fire Plan Available
+Some o£ the information presented in
+this report may be based upon reports
+From other Agencies
+~Arson report attached
+qPoliCO report attached
+~ Coroner report attached
+Other reports attached
+Moblie property model
+~
+License Plate Number 
+~u~
+State VIN Number 
+Year 
+~ 
+NFIRS-2 Revision 01/19/99
+Framingham Fire Department  17100 03/11/2017 17-0002171
+Page 5
+j1 Structure Type *  I2 Building Status *
+If Fire was In enclosed building or a
+portable/mobile structure complete
+the rest of this £orm
+1, ~Enclosed Buildiil(3
+2 ~Portable/mobile Structure
+3 ~Open structure
+4 ~ Air supported structure
+5 ~Tent
+6Open platform (e.g. piers)
+7 Under4round structure(wore: areas)
+$ Connective structure (e.g. fences)
+0 ~Other type o£ structure 
+1 ❑Under construction
+2~ occupied & operating
+3 q Id1e, not routinely used
+4 ~ Under major renovation
+5 ~ vacant and secured
+6 ❑Vacant and unsecured
+7 ❑Being demolished
+0~
+ether
+LT~ Undetermined 
+I3 Building * 14 min
+Height
+Count the ROOF as part
+of the highest story 
+Floor Size* 
+NFIRS-3
+StSllCtllTO
+Fire
+001
+xotsi nnw~= of ~tor~~~
+,t o~ ~o.,o gram 
+u ~  003 ~
+Total square feet
+O~ 
+000
+xotzl near of ~tor~~,
+bolow grado  ~ ~ ~BY ~ ~
+Lenght in feet Width in feet
+J1 Fire Origin
+ool  ❑Below Grade
+Story o£ £ire origin
+J2 Fire Spread~k
+1 ~Confined to object of origin
+2 ~Confined to room of origin
+3 ~Confined to floor of origin
+4 ~Confined to building of origin
+Jr  Beyond building of origin 
+J3  Number o£ Stories K Material Contributing Most
+Damaged By Flame
+Count the ROOF as part of the highest story
+Number of stories w/ minor damage
+(1 to 29$ flame damage) 
+To Flame Spread
+q 
+Chec}: if no flame spread
+OR same as material first ignited
+OR unable to determine 
+SkiP To
+SECt10I1 L
+Number of stories w/ significant damage ~l ~I
+Item contributing most to El azne spread
+(25 to 998 flame damage) 
+Number of stories w/ heavy damage
+(50 to 74$ £lame damage) 
+Number of stories w/ extreme damage
+(75 to 100 flame damage) 
+TT2
+S~ 
+Type of material contributing
+most of flame spread 
+Required only if item
+contributing
+code is 00 or<70
+Presence o£ Detectors
+(In area of the fire)
+NNone Present 
+Skip to
+section M
+1 ~Present
+U ~Undetermined
+Detector Type
+1 ~Smoke
+2 ~Heat
+3 ~Combination smoke - heat
+4 ~ Sprinkler, water £low detection
+5 ~More than 1 type present
+OOther
+UUndetermined 
+I,3 Detector Power Supplylj,5 
+Detector Effectiveness
+1 ~Battery only
+2 Q Hardwire only
+3 ~Plug in
+4 ~ Hardwire with battery
+5 ~Plug in with battery
+6Mechanical 
+Required if detector operated
+1Alerted Occupants, occupants responded
+2 ~Occupants Failed to respond
+3 ~There were no occupants
+4 ~Failed to alert occupants
+U ~Undetermined
+'7 ~Multple detectors &
+power supplies
+QOther 
+I,6  Detector Failure Reason
+Required i£ detector failed to operate
+U QUndetermined
+L4 Detector Operation
+1 ~Fire too small
+to activate
+2 ~Operated
+(Complete Section L5)
+3 ~Failed to Operate
+(Complete Section L6)
+U ~Undetermined 
+1 ~Power £allure, shutoff or disconnect
+2 ~Improper installation or placement
+3 ~Defective
+4 ~ Lack o£ maintenance, includes cleaning
+5 ~Battery missing or disconnected
+6 ~Battery discharged or dead
+0 ~Other
+jJ Undetermined
+M1 Presence of Automatic Extinguishment System * ~ Automatic Extinguishment ~ Automatic Extinguishment
+NNone Present 
+Complete rest 
+System Operation
+Required if fire was within designed range 
+System Failure Reason
+Required if system £ailed
+1 ~Present 
+o£ Section M
+Type o£ Automatic Extinguishment System 
+1 q ~Perated & e£Pective (Go to M4
+* 
+2
+3 
+~Operated & not effective ~M4~2
+1 ❑System shut of£
+❑Not enough agent discharged
+Required i£ fire was within designed range of AES
+1 Q Wet pipe sprinkler
+2~ D='Y PiPe sPrinkler 
+q Fire too Small to activate
+4 ~Failed to operate (~o to rt5) 3 
+❑Agent discharged but did
+0~ Other  q 
+not reach £ire
+4  Wrong type o£ system
+3 ~Other sprinkler system 
+U ~Undetermined 
+5 ~ Fire not in area protected
+4 ~ Dry chemical system
+5 ~Foam system
+6Halogen type system
+'] ~Carbon dioxide (CO 2) system 
+L1/t4 Number o£ Sprinkler
+Heads Operating
+Required if system operated 
+6 ~System components damaged
+7 qLack o£ maintenance
+gManual Intervention
+~ ~Other
+QOther special hazard system
+U  Undetermined 
+001  jJ ❑Undetermined
+Number of sprinkler heads operating 
+SIRS-3 Revision 01/19/99
+Framingham Fire Department  17100 03/11/2017 17-0002171
+Page 6
+A  MM DD YYYY
+17100 ~  u ~~ 11  2017
+FDID *  State * Incident Date * 
+~5~ 
+Station 
+~  17-0002171 ~  000
+Incident Number * Exposure * 
+❑Delete
+Change 
+rrFzxs - 9
+Apparatus or
+ROS011=CES
+B Apparatus or ~k
+Resource 
+Date and Times
+Check if same as alarm date
+Month Day Year Hour Min
+ID Al
+Type 76 
+Dispatch ~~~ 11
+Arrival ~~~ 11
+Clear ~~~ 11 
+2017 O1: 55
+2017 02:06
+2017 04:10 
+Sent
+X 
+Number Use
+~£ * Check ONE box for each
+apparatus to indicate
+People 
+its main use at the
+incident.
+Suppression
+X 
+~~ ~
+~s
+~other 
+Actions Taken
+~~
+ID i,,,,  i  Dispatch ~~~ 11
+~~ Arrival ~~~ 11
+Type 76 
+Clear ~~~ 11 
+2017 01:55Suppression
+2017 02:06  ~ ~~ ~~g
+2017 04:11other 
+L-1
+~~ ~~
+3  ID A3
+Type 76 
+Dispatch ~~~
+z~rrival ~~~
+Clear ~~~ 
+11
+11
+11 
+2017 02:37  Suppression
+2017 02:42 ~ L~0  ~~s
+2017 07:04other 
+~~ ~~
+L~ ~~
+ID C2
+type 92 
+Dispatch ~~31 11
+.arrival ~~~ 11
+clear ~~~ 11 
+2017
+2017
+2017 
+O1:19Suppression
+O1: 24  ~ ~~ ~EMS
+07:20  other 
+~~ ~~
+~—~ ~~
+zn C4
+type 92 
+Dispatch ~~~ 11
+Arrival ~~ 31 11
+clear ~~~ 11 
+2017 02:16
+2017 02:16
+2017 11: O1 
+~ ~~ 
+suppression
+~~g
+other 
+gl 55
+~~ L--~
+~6 
+ID 
+~~
+E1 
+Dispatch ~~~ 11
+~.rrival ~~~ 11
+Type 11 
+clear ~~~ 11
+ID ElA
+Type 11 
+Dispatch ~~~
+Arrival ~~~
+Clear ~~31 
+11
+11
+11 
+2017 O1: 38  Suppression
+2017 O1:46  ~ ~~ ~~g
+2017 04:24other
+2017 02:25
+2017 02:25
+2017 02:26 
+X 
+~~ 
+suppression
+other 
+~~ 
+L.~
+~~ ~~
+90 L~
+~1 ~~
+ID E1N
+Type 11
+ID E2
+Type 11 
+Dispatch ~~~ 11
+z~rrival ~~~ 11
+Clear ~~~ 11
+Dispatch ~~~ 11
+z~rrival ~~~ 11
+clear ~~~ 11 
+2017 02:26
+2017 02:26 
+Suppression
+~ ~~ ~~g
+2017 02:26other
+2017 O1:19Suppression
+2017 O1:28  ~ ~~ ~~g
+2017 05:58  ~ottier 
+90 L~
+~1 ~~
+11 73
+~~ ~l
+Framingham Fire Department  17100 03/11/2017 17-0002171
+Page 7
+A  MM DD YYYY
+17100 ~  I.... i  U 11  2017
+FDID *  State * Incident Date * 
+~5~ 
+Station 
+~  17-0002171 ~  000
+Incident Number *  Exposure * 
+❑Delete
+❑Change 
+rrF2xs - 9
+Apparatus or
+ROSOu=CES
+$ Apparatus or *
+Resource 
+Date and Times
+Check if same as alarm date
+MOI1t11 D3Y Year HOu= Min 
+Sent
+X 
+Number Use
+~£ * Check ONE box. for each
+apparatus to indicate
+its main use at the
+Pe0ple incident.
+zD E3
+Type 11 
+Dispatch ~~l 11
+Arrival ~~~ 11
+clear ~~~ 11 
+2017 03:36
+2017 03:36
+2017 06:00 
+~ ~~ 
+suppression
+~~s
+~other
+~~ Dispatch ~~~
+ID E5 
+Arrival ~~~
+Type 11 
+Clear ~~~ 
+11
+11
+11 
+2017 O1: 19  ~Suppression
+2017 O1: 25  ~ ~~ ~~t9
+2017 05:50Other 
+Actions Taken
+10 L~
+~~ ~~
+~~70 
+~~
+~-1  ~~
+3 
+ID E7
+Type 11 
+Dispatch ~~~ 11
+Arrival ~~31 11
+Clear ~~~ 11
+~~ Dispatch ~~~
+ID FPl 
+Arrival ~~~
+Type 00 
+clear ~~~ 
+11
+11
+11 
+2017 O1:55
+2017 02:06 ~ 
+Suppression
+~~ ~~ttg
+2017 04:47other
+2017 03:32
+2017 03:32
+2017 06:09 
+~Suppression
+x 
+~~ other 
+11 12
+51 73
+~~86 
+~1
+~~ ~~
+5❑  ~Dispatch ~~~ 11
+ID L3 
+Arrival ~~~ 11
+Type 12 
+Clear ~~~ 11 
+2017 O1:55
+2017 02:07
+2017 06:20 
+~ ~~ 
+~Suppression
+~~g
+~other 
+~~10 
+~~
+~~ ~-~
+ID pl
+Type 12
+ID Rl
+Type 71 
+Dispatch ~~~ 11
+.arrival ~~~ 11
+Clear ~~~ 11
+Dispatch ~~~ 11
+Arrival ~~31 11
+Clear ~~~ 11 
+2017 Ol:19  ~Suppcession
+2017 O1:27  ~ ~~ ~~g
+2017 10:12Other
+2017 O1: 19  ~Suppcession
+2017 O1: 25  ~ ~~ ~~g
+2017 06:56other 
+51 52
+11 ~~
+11 21
+52 56
+q8  ID SE1
+~e ~~ 
+Dispatch ~~~ 11
+~.rrival ~~~ 11
+Clear ~~~ 11
+g❑  ~~ Dispatch ~~31 11
+ID SUET 
+Arrival ~~~ 11
+Type 00 
+Clear ~~~ 11 
+2017 02:28
+2017 02:28
+2017 02:28
+2017 02:25
+2017 02:25
+2017 02:25 
+~
+X 
+~~0 
+Suppression
+~S
+~Other
+~Suppression
+~~ Other 
+90 ~~
+~~ ~~
+~~90 
+~~
+~~ L~
+Type of Apparatus or Resources
+Ground Fire Suppression
+11 Engine
+12 Truck or aerial
+13 Quint
+14 Tanker &pumper combination
+16 Brush truck
+17 ARE' (Aircraft Rescue and Firefighting) 
+10 Ground fire suppression, other
+Heavy Ground Equipment
+21 Dozer or plow
+22 Tractor
+24 Tanker or tender
+20 Heavy equipment, other
+Aircraft
+41 Aircraft: fixed wing tanker
+42 Helitanker
+43 Helicopter
+40 Aircraft, other 
+Marine Equipment
+51 Fire boat with tam
+P P
+52 Boat, no pump
+50 Marine apparatus, other
+Support Equipment
+61 Breathing apparatus support
+62 Light and air unit
+60 Support apparatus, other
+Medical & Rescue
+71 Rescue unit
+72 Urban Search & rescue unit
+73 High angle rescue unit
+75 BLS unit
+76 ALS unit
+70 Medical and rescue unit, other 
+More Apparatus?
+Use Additional
+Sheets
+Other
+91 Mobile command post
+92 Chief officer car
+93 HazMat unit
+94 Type 1 hand crew
+95 Type 2 hand crew
+99 Privately owned vehicle
+00 Other apparatus/resource
+NN None
+W Undetermined
+NFIRS-9 Revision 11/17/98
+Framingham Fire Department  17100 03/11/2017 17-0002171
+Page 8
+A  MM DD yyyy
+17100 I  u ~~ 11  2017
+FDID *  State * Incident Date * 
+~5~ 
+Station 
+~  17-0002171 ~  000
+Incident Number *  Exposure * 
+❑Delete
+Change 
+rrFxRs - to
+Personnel
+B Apparatus or *
+Resource
+Use codes listed below 
+Date and Times  Sent Number Use
+Check if same as alarm date
+MOntYl Day Year H011TS~I[LiRS 
+~ ~f *
+People 
+Check ONE box for each
+apparatus to indicate
+use at the
+incident
+ID Al
+Type 76 
+Dispatch ~~~ 11
+Arrival ~~~ 11
+Clear ~~~ 11 
+2017 01:55 Sent  Suppression
+2017 02:06  ~ ~1 ~EMS
+2017 04:09other 
+Actions Taken
+List up to 9 actions
+for each apparatus
+and each personnel.
+L~ ~1
+~ L~
+Personnel
+ID 
+Name  Rank or 
+Attend
+Grade ~ 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken
+q  ~
+=D i,,,,  i  Dispatch ~~~ 11
+~~ Arrival ~~~ 11
+Type 76 
+Clear ~~~ 11
+Personnel
+ID 
+Name 
+2017 01:55 Sent 
+Suppression
+2017 02:06 ~ ~~ EMS
+2017 04:09other 
+~ ~~
+~~ ~~
+Rank or 
+Attend
+Grade ~X 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken
+3 
+ID A3
+Type '76
+Personnel
+ID 
+Dispatch ~~~ 11
+z~rrival ~~~ 11
+clear ~~~ 11
+Name 
+2017 02:37 Sent 
+~Suppression
+2017 02:42 ~ ~~O  EMS
+2017 06:52other
+Rank or 
+Attend
+Grade ~X 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken
+Framingham Fire Department 
+NFIRS-10 Revision 11/17/98
+17100 03/11/2017 17-0002171
+Page 9
+A  MM DD Yyyy
+1~1~0 ~
+FDID * 
+~~ ~~ 11
+State * Incident Date * 
+201 ~5~ 
+Station 
+I  17—~~~2171. I  ~~~
+Incident Number *  Exposure * 
+❑Delete
+~Change 
+rr~2Rs - 10
+Personnel
+B Apparatus or *
+Resource
+Use codes listed bzlow 
+Date and Times  Sent Number Use
+Check if same as alarm date
+Month Day Year H011.'LS ~IRiI1S 
+~ Of * Check ONE box £or each
+apparatus to indicate
+People use at the
+incident
+ID C2
+Type 92 
+Dispatch ~~~ 11
+Arrival ~~31 11
+clear ~~~ 11 
+2017 Ol:19 SentSuppression
+2017 O1:24 ~ ~~ ~EA2s
+2017 07:13other 
+Actions Taken
+List up to 9 actions
+for each apparatus
+and each personnel.
+~1 ~~
+Personnel
+ID 
+Name  Rank or 
+Attend
+Grade ~ 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken
+In C4
+Type 92
+Personnel
+ID 
+Dispatch ~~~ 11
+I.rrival ~~~ 11
+Clear ~~~ 11
+Name 
+2017 02:16
+2017 02:16
+2017 11:O1 
+Sent
+~ ~~ 
+suppression
+~~g
+~other 
+L~ 55
+~~ ~~
+Rank or 
+Attend
+Grade ~ 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken
+181850 SCHULTZ, JOHN  DC4-T  X
+ID E1
+Type 11 
+Dispatch ~~~ 11
+arrival ~~~ 11
+Clear ~~~ 11
+Personnel
+ID 
+Name
+1499
+150972
+1676
+805 
+SEXTON, JOEL
+LATSON, DYNELL
+MARTINEZ, EDER
+GASSEL, REMY 
+2Q].7  Q1:3$
+2017 Ol: 46
+2017 03:56 
+Sent
+X
+q ~~ 
+Suppression
+~other 
+I  7(ll
+~
+~~ ~~
+Rank or 
+Attend
+Grade ~ 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken
+FF4
+LT6
+FF3
+FF4 
+X
+X
+X
+X
+Framingham Fire Department 
+NFIRS-10 Revision 11/17/98
+17100 03/11/2017 17-0002171
+Page 10
+A 
+I.  17100
+EDID * 
+u
+State * 
+MM DD
+~~ 11
+Incident Date * 
+YYYY
+2017 ~5~ 
+Station 
+I  17-0002171 I  000
+Incident Number *  Exposure * 
+Delete
+~Change 
+rrFzxs - to
+Personnel
+B Apparatus or *
+Resource
+Use codes listed below 
+Date and Times  Sent Number Use
+Check if same as alarm date
+Month Day Year H011rS~mlI1S 
+~ Of
+People 
+Chec}; ONE box for each
+apparatus to indicate
+its main use at the
+incident.
+ID ElA
+Type 11 
+Dispatch ~~~
+Arrival ~~~
+Clear ~~~ 
+11
+11
+11 
+2017 02:25 SentSuppression
+2~17 02:25  ~ ~ ~EMS
+2017 02:25other 
+Actions Taken
+List up to 9 actions
+for each apparatus
+and each personnel.
+~9~ ~1
+Personnel
+ID 
+Name  Rank or 
+Attend
+Grade ~ 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken
+ID E1N
+Type 11
+Personnel
+ID 
+Dispatch ~~~ 11
+Arrival ~~~ 11
+Clear ~~~ 11
+Name 
+2~1'] Q2:2(
+2017 02:26
+2017 02:26 
+Sent
+X
+q ~~ 
+Suppression
+~other 
+I  9(11
+~  --~
+~~ L--~
+Rank or 
+Attend
+Grade ❑X 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken
+q3  ID g2
+Type 11 
+Dispatch ~~~
+Arrival ~~~
+clear ~~~ 
+11
+11
+11
+Personnel
+ID 
+Name
+1355
+165496
+184236
+333 
+WHALEN, MATTHEW
+NARDINI, ANDREW
+SMITH, BRADFORD
+FERRI, NICHOLAS 
+2017 O1:19 Sent 
+Suppression
+2017 O1: 28  ~ ~~ ~~g
+2017 05:58other 
+~1~ 73
+L—~ ~~
+Rank or 
+Attend
+Grade ~ 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken
+FF4
+FF6
+CP4
+FF5 
+X
+X
+X
+X
+Framingham Fire Department 
+NFIRS-10 Revision 11/17/98
+17100 03/11/2017 17-0002171
+Page 11
+A  MM DD YYYY
+171~~ ~
+FDID * 
+~~ ~~ 11
+State * Incident Date * 
+217 ~~
+Station 
+~  1.7-~~~2171 I  ~~~
+Incident Number *  E:cposure * 
+rrFzxs - l0
+❑Delete 
+Personnel
+Change
+B Apparatus or *
+Resource
+Use codes listed below 
+Date and Times  Sent Number Use
+Chec}: if same as alarm date
+Month Day Year HOUTS~Inins 
+~ Of
+People 
+ChecY. ONE box for each
+apparatus to indicatz
+its main use at the
+incident.
+ID E3
+Type 11 
+Dispatch ~~~ 11
+Arrival ~~~ 11
+Clear ~~~ 11 
+2017 03:36 SentSuppression
+2017 03:36  ~ ~~ ~EMS
+2017 05:54other 
+Actions Taken
+List up to 9 actions
+for each apparatus
+and each personnel.
+L~ ~~
+~1 ~~
+Personnel
+ID 
+Name  Rank or 
+Attend
+Grade ~ 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken
+175062
+175616
+2323
+513 
+BENITICH, GREGORY
+SHEA, STEVEN
+CAMPION, MICHAEL
+PETRO, WILLIAM 
+LT3
+FF5
+FF1
+FF4 
+X
+X
+X
+X
+ID E5
+Type 11
+Personnel
+ID 
+Dispatch ~L~ 11
+Arrival ~~~ 11
+clear ~~~ 11
+Name 
+2017 ~l:19 
+Sent 
+Suppression
+2017 O1:25 ~ L~ ~~s
+2017 04:56other 
+~  '7Q~
+~~
+L~ ~~
+Rank or 
+Attend
+Grade ~ 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken
+1203
+1503
+175323
+2539 
+GRIGG, JARED
+BARROSO, GUILHERME
+PETERS, DAVID
+O'CONNOR, DANIEL 
+FF4
+FF4
+LT2-T
+PR 
+X
+X
+X
+X
+ID E'7
+Type 11 
+Dispatch ~~~ 11
+Arrival ~~~ 11
+clear ~~~ 11
+Personnel
+ID 
+Name
+148571
+1672
+175495
+175497 
+KING, JAMES
+WARREN, STEPHEN
+ASSENCOA, WAYNE
+HARDING, BRYAN 
+2017 O1:55
+2017 02:06
+2017 04:11 
+S2nt
+X 
+~~ 
+Suppression
+other 
+~  11~ 
+~~
+51 
+12
+73
+Rank or 
+Attend
+Grade ~ 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken
+LT9
+FF3
+FF5
+FF5 
+X
+X
+X
+X
+Framingham Fire Department 
+NFIRS-10 Revision 11/17/98
+17100 03/11/2017 17-0002171
+Page 12
+A  MM DD yyyy
+171~~
+FDID * 
+I  I—J  ~ 
+11
+State * Incident Date * 
+217 
+~5~ 
+Station 
+I  17— ~~~2171
+Incident Number * 
+I  ~~~
+Exposure * 
+Delete
+Change 
+rr~2Rs - l0
+Personnel
+B Apparatus or *
+Resource
+Use codes listed below 
+Date and Times  Sent Number Use
+Check if same as alarm date
+MOI1t11 Ddy Year H011SS~IlL1.i15 
+~ Of *
+People 
+ChecY. ONE box for each
+apparatus to indicate
+its main use at the
+incident.
+ID FP1
+Type 00 
+Dispatch ~~~ 11
+Arrival ~~~ 11
+clear ~~31 11 
+2017 03:32 SentSuppression
+2017 03:32 ~ ~~ ~EMs
+2017 06:09other 
+Actions Taken
+List up to 9 actions
+£or each apparatus
+and each personnel.
+~  $6~
+~~ ~~
+Personnel
+ID 
+Name  Rank or 
+Attend
+Grade ~ 
+Action
+Taken 
+Action
+Taken 
+ActionTaken 
+Action
+Taken
+155244 MAGRI, STEVEN  FM  X
+ID L3
+Type 12
+Personnel
+ID 
+Dispatch ~~~ 11
+z~rrival ~~~ 11
+clear ~~~ 11
+Name 
+217 O1:55
+2017 02:07
+2017 05:51 
+Sent
+~ ~~ 
+Suppression
+EMS
+~other 
+I  'I ~I
+I  -_~
+~ ~~
+Rank or 
+Attend
+Grade ~ 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken
+101396
+144661
+1506
+1881 
+AHEARN, JAMES
+HICKS, JOSEPH
+SEXTON, CHAD
+MATHIEU, PETER 
+CP2
+FC
+FF4
+FF2 
+X
+X
+X
+X
+q3  ID pl
+~
+T e 12 
+Dispatch ~ L  3j 11
+arrival ~~31 11
+Clear ~~~ 11
+Personnel
+ID 
+Name
+1502
+158679
+245 
+BROWN, MATTHEW
+MCDONALD, KEVIN
+QUITT, ADAM 
+2017
+2017
+2017 
+O1: 19 Sent 
+Suppression
+Ol:27  ~ ~~3  ~EMS
+10:12Other 
+L~ 52
+11 L~
+Rank or 
+Attend
+Grade ~X 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken
+FF4
+LT6
+FF5 
+X
+X
+X
+Framingham Fire Department 
+NFIRS-10 Revision 11/17/98
+17100 03/11/2017 17-0002171
+Page 13
+A  MM DD YYYY
+17100 I  u ~~ 11  2017
+FDID *  State * Incident Date * 
+~5~ 
+Station 
+I  17-0002171 I  000
+Incident Number *  E:cposure * 
+❑Delete
+Change 
+rrFzxs - to
+Personnel
+B Apparatus or *
+Resource 
+Date and Times
+Check if same as alarm date
+Use codzs listed below
+ID Rl
+Type 71 
+MOIlth D8I7 Year HOl1TS~miRS
+Dispatch ~~~ 11 2017 O1:19
+Arrival ~~~ 11 2017 O1:25
+Clear ~~~ 11 2017 06:53 
+Sent Number Use
+~ Of *
+People 
+Check ONE box for each
+apparatus to indicate
+its main use at the
+incident.
+SentSuppression
+X  ~~ ~Et2s
+~  other 
+Actions Taken
+List up to 9 actions
+for each apparatus
+and each personnel. 
+I
+~1~ 
+52 
+21
+56
+Personnel
+ID 
+Name  Rank or 
+Attend
+Grade ~X 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken
+177479
+280
+369 
+RINOLDO, THOMAS
+RODRIGUEZ, MARCELINO
+BECKWITH, JEFFREY 
+LT6
+FF5
+FF5 
+X
+X
+X
+ID SEl
+Type 00
+Personnel
+ID 
+Dispatch ~~~ 11
+~.rrival ~~~ 11
+Clear ~~~ 11
+Name 
+2017 02:28 
+Sent 
+Suppression
+2017 02:28  ~ L~ ~Frtg
+2017 02:28Other 
+~9~ ~~
+L--~ ~~
+Rank or 
+Attend
+Grade ~ 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken
+~~ Dispatch ~~1
+ID SUE 1 
+zjrrival ~~~
+Type 00 
+Clear ~~~ 
+11
+11
+11
+Personnel
+ID 
+Name
+140131 GILDEA, PAUL 
+2017 02:25
+2017 02:25 
+Sent
+~ ~~ 
+~
+Suppression
+~~g
+2017 02:25other 
+~~ ~~
+90
+~~ ~~
+Rank or 
+Attend
+Grade ~X 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken 
+Action
+Taken
+DC10 X
+Framingham Fire Department 
+NFIRS-10 Revision 11/17/98
+17100 03/11/2017 17-0002171
+Page 14
+MM DD YYYY
+17100 ~  u ~~ 11 2017
+FDID  State * Incident Date * 
+~5~ 
+Station
+Staff ID\Staff Name Unit Activity
+181850 SCHULTZ, JOHN X  C4
+1499 SEXTON, JOEL D  El
+150972 LATSON, DYNELL E1
+1676 MARTINEZ, EDER D  E1
+805 GASSEL, REMY Z  El
+1355 WHALEN, MATTHEW J  E2
+165496 NARDINI, ANDREW E2
+184236 SMITH, BRADFORD S  E2
+333 FERRI, NICHOLAS A  E2
+175062 BENITICH, GREGORY E3
+175616 SHEA, STEVEN G  E3
+2323 CAMPION, MICHAEL J  E3
+513 PETRO, WILLIAM R  E3
+1203 GRIGG, JARED J  E5
+1503 BARROSO, GUILHERME M E5
+175323 PETERS, DAVID R  E5
+2539 O'CONNOR, DANIEL T  E5
+148571 KING, JAMES E7
+1672 WARREN, STEPHEN T  E7
+175495 ASSENCOA, WAYNE I  E7
+175497 HARDING, BRYAN P  E7
+155244 MAGRI, STEVEN E  FP1
+101396 AHEARN, JAMES C  L3
+144661 HICKS, JOSEPH C  L3
+1506 SEXTON, CHAD I  L3
+1881 MATHIEU, PETER J  L3
+1502 BROWN, MATTHEW C  P1
+158679 MCDONALD, KEVIN P  P1
+245 QUITT, ADAM N  P1
+177479 RINOLDO, THOMAS J  Rl
+280 RODRIGUEZ, MARCELINO R1
+369 BECKWITH, JEFFREY R1
+140131 GILDEA, PAUL A  SUE1 
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident
+INC Incident 
+I  17-0002171 ~  000
+Incident Number *  Exposure
+Position Rank PayScl
+DC4-T
+FF4
+LT6
+FF3
+FF4
+FF4
+FF6
+CP4
+FF5
+LT3
+FF5
+FFl
+FF4
+FF4
+FF4
+LT2-T
+PR
+LT9
+FF3
+FF5
+FF5
+FM
+CP2
+FC
+FF4
+FF2
+FF4
+LT6
+FF5
+LT6
+FF5
+FF5
+DC10 
+Responding
+PETSOI1S721
+Hrs HrsPd Pts
+8.75 0.00 0.00
+2.76 0.00 0.00
+2.76 0.00 0,00
+2.76 0.00 0.00
+2.76 0.00 0.00
+4.65 0.00 0.00
+4.65 0.00 0.00
+4.65 0.00 0.00
+4.65 0.00 0,00
+2.41 0.00 0.00
+2.41 0.00 0.00
+2.41 0.00 0.00
+2.41 0.00 0.00
+4.51 0.00 0.00
+4.51 0,00 0.00
+4.51 0.00 0.00
+4.51 0.00 0.00
+2.87 0.00 0.00
+2.87 0.00 0.00
+2.87 0.00 0.00
+2.87 0.00 0.00
+2.63 0.00 0.00
+4.42 0.00 0.00
+4.65 0.00 0.00
+4.42 0.00 0.00
+4.42 0.00 0.00
+8.89 0.00 0.00
+8.89 0.00 0.00
+8.89 0.00 0.00
+5.61 0.00 0.00
+5.61 0.00 0.00
+5.61 0.00 0.00
+0.01 0.00 0.00
+Total Participants: 33  Total Personnel Hours: 141.60
+An 'X' next to the unit denotes driver.
+Framingham Fire Department  17100 03/11/2017 17-0002171
+Page 15
+MM DD YYYY
+A I  1710 I  I'..' I  I  _,I  11  217
+FDID *  State * Incident Date * 
+~5~ 
+Station 
+I  17—~0~2171
+Incident Number * 
+I  ~0~ 
+Erposure *
+$ Agency Referred To ~ 
+None 
+Street Address  Their Case Number 
+❑Delete
+Change 
+NFIR$ 11
+Arson
+Agency Name  City  Their ORI
+Agency Phone Number
+C Case Status
+1 ~Investigation open
+2 ~Investigation closed
+3 ~Investigation inactive 
+State Zip Code
+4 ~Closed with arrest
+rj ~Closed with exceptional
+clearance 
+Their Federal Identifier (FID) Their FDID
+j~ Availability of Material First Ignited
+1Transport to scene
+2 ~Available at scene
+U ~Unknown
+E' Suspected Motivation Factors Check up to three factors
+11 ~Extortion
+12 ~Labor unrest
+13 ~Insurance Fraud
+14 ~Intimidation
+15 ~Void contract/lease
+2], ~Personal 
+22 ~Hate crime
+23 ~Institutional
+2t~ ~Societal
+31 ~Protest
+32 ~Civil unrest
+41 ~Fireplay/curiosity 
+42 ~Vanity/recognition
+43 ~Thrills
+44 ~Attention/sympathy
+45 ~Sexual excitement
+51 ~xomicide
+52 ~Suicide
+53 ~Domestic violence 
+54 ~Burglary
+61 ~Homicide concealment
+62 ~Burglary concealment
+63 ~Auto theft consealment
+64 ~Destroy records/evidence
+00 ~Other motivation
+jJ[J ~Unknown motivation
+F' Apparent Group Involvement
+1 ~Terrorist group
+2 ~ Gang 
+Check up to
+three £actors
+3 ~~ti-government group
+Q ~Outlaw motorcycle organiation
+5 ~Organized crime
+6 ~Racial/ethnic hate group
+'7 
+q Religious hate group
+$ ~Sexual preference hate group
+0 ~Other group
+N ~No Group involvement, acted alone
+jJ ~Unknown
+Gl Entry Method 
+H Incendiary Devices select one from each category
+11 ~Bottle (Glass) 
+12 ~Bottle (Plastic) 
+13 ~ Jug 
+CONTAINER
+14 ~Pressurized Container
+15 ~Can
+16 ~Gasoline or fuel can 
+NN ~None
+17 ~Box
+00 ~Other Container
+jJjJ ~Unknown
+IGNITION/DELAY DEVICE
+11 ~Wick or Fuse  17 ~Road flare/£use 
+NN ~None
+12 ~Candle  18 ~Chemical Component
+13 ❑Cigarette ~ Matchbook
+14 ~Electronic Component 
+19 ~Trailer/Streamer
+20 ~Open flame source
+15 ~Mechanical Device
+16 ~Remote Control 
+00 ~Other delay device
+W ~Unknown
+00 (Other entry method
+Entry Method 
+I
+(12 Extent of Fire Involvement on Arrival
+~~ INo flame or smoke showing
+Extent of Fire Involvement 
+FUEL  NN ~None
+11 ~ordinary Combustibles
+12 ~Flammable gas
+14 ~Ignitable liquid
+15 ~Ignitable S011G1 
+16 ~Pyrotechnic material
+17 ~Explosive material
+pp ~other material
+W ~Unknown
+I other Investigative =ntormation J property Ownership K Initial Observations
+Check all that apply 
+Check all that apply
+1 ~Code violations
+2 ~Structure £or sale
+3 ~Structure vacant
+4 ~Other crimes involved
+5 ~Illicit drug activity
+6 ~Change in insurance
+7 ~Financial problem
+$ ~Criminal/Civil
+actions pending 
+1 ~Windows ajar 5 ~Fire department forced entry
+1 ~Private  2 ~Doors ajar
+2 ~City,town,village,lOC81 3 ~Doors locked 
+6 ~ Forced entry erior to FD arrival
+'] ~ Security system activated
+3 ~ County or parish
+4 ~State or province
+Jr ~Federal
+6 ~Forei~
+7 ~Military
+Q  Other
+~ 
+4 ~Doors unlocked $ ~ Security present, (didn't activate)
+~ L3borator~T Used Check all that apply
+1 ~Local
+2 q State 
+3 ~ATF
+4 q FBI 
+5 ~Other
+Federal 
+6 ~Private
+N ~None
+NFIRS-11 Revision 11/17/98
+Framingham Fire Department  17100 03/ll/2017 17-0002171
+Page 16
+~  Moo I
+FDID * 
+YYYY
+IMAI U 31 ii 2oi~ 
+State * Incident Date * 
+~5~ 
+Station 
+~  i~-0002in ~  I  o  I
+Incident Number *  Exposure 
+Son
+Narrative
+Arson Narrative:
+Responded to a report of building fire at 969 Concord St. Upon arrival checked in with
+command fire was breaking out through several places
+ion the roof
+Location: 969 Concord St One story wood frame strip mall with multiple businesses.
+Incident # 17-0002171 03/11/2017 01:19 HRS
+Weather Temps in the teens wind gusts 35 + MPH
+(Owner of building Mike Brossi Cell #
+(Tenants
+Wicked Chronic Rod and Beverly Barish Cell #
+Trinity Optical Scott Sullivan Cell #
+J+M Diner Karen Fiore  Insurance Travelers
+Do Dance Monica Deoliveira Cell #  Eric
+Bella sisters Salon Feranda Mendes Cell #  Insurance Atlantic Casualty
+Melle Norman Cosmetics Lisa Cavall Cell #
+Chiropractic Solutions Chris Hauck Cell #
+Style and Smiles Jacqueline St. Hilaire Cell #  Insurance EMC
+Predaxis Shawn Yates
+Holistic Solutions Cindy Crowninshield Cell #
+Witnesses none
+Investigation Upon arrival at scene fire was coming from several areas of the roof at the
+ridge line. Short time later 5-10 minutes roof
+fully involved from end to end and exterior firefighting only .
+Spoke with Lt. David peters first Engine company in
+box alarm at 969 Concord St. 
+He stated that they responded to master
+Upon arrival at back of building where master box is located he stated nothing showing but
+could smell smoke and water gong going off.
+Fire companies had to force doors due to keys not working
+salon fair amount of smoke visible but no heat 
+They forced door to Bella sisters
+Framingham Fire Department  17100 03/11/2017 17-0002171
+Page 17
+~  i~ioo I  IMAI
+FDID  State 
+MM llll
+U~ ii
+Incident Date 
+YYYY
+2oi~ ~5~ ~  i~-0002i~i ~  I  o  I
+Station Incident Number Exposure 
+meson
+Narrative
+and one sprinkler head going off They opened the business next door but no heat or smoke .
+Rescue 1 and engine 5 crew used thermal imager. to check heat in ceiling ,Platform 1 crew
+using thermal imager toward front
+of salon. They started to pull ceilings then had to exit salon to change air bottles ,that's
+when fire started to vent through roof.
+They started interior attack but fire to heavy above went to exterior attack.
+All doors locked and no windows broken heavy fire seemed to be located in center of building
+before spreading
+to rest of building. At first the only smoke was coming from Bella sisters salon which is in
+the center of plaza. There was no fire visible or
+(heat in the habitable space just a fair amount of smoke
+building at this time safety wont permit 
+Due to the roof falling into the
+an interior investigation unless the insurance company will bring in heavy equipment to
+excavate site .For now nothing we
+saw would lead us to belive this fire is nothing more than accidental in nature
+Origin and cause
+this time. 
+Attic area above Bella Sisters Salon & accidental undetermined cause at
+03/23/2017 07:53:03 rpz
+03/23/2017 09:36:56 Joseph Hicks (added origin description)
+Framingham Fire Department  17100 03/11/2017 17-0002171
+Page 18
+Framingham Fire Department
+Investigation Profile Report
+Investigation Profile - Basic Information
+Investigation:Incident Investigation - 17-0002171  Date: 03/11/2017
+Address:969 CONCORD ST /BROSSI BROTHERS LTD - BOX285/FRAMINGHAM, MA 01701
+FD ID: 17100  Alarm Date: 03/11/2017  Incident #:17-0002171
+Case Status:3 Investigation inactive
+Investigators:
+FP4 Fire Inspector
+FP1 Fire Marshal
+Initial Observations:
+5 Fire department forced entry 
+Laboratories Used:
+N None 
+Status Date:
+Other Investigative In£o:
+Fire/Arson:Extent of Fire Involvement on Arrival:l No flame or smoke showing
+Availability of Material First Ignited:2 Available at scene
+Entry Method: 00 Other entry method
+Incendiary Method/Devices:
+Container: NN No container
+Fuel: 11 Ordinary combustibles
+Delay Device: NN No device 
+-
+-
+-
+-
+--
+-
+----
+--
+--------------------------------------------
+Suspected Motivational Factors:
+UU Unknown
+-----------------------------------------
+Narrative: 
+Apparent Group Involvement:
+N No group involvement, acted alone
+Responded to a report of building fire at 969 Concord St. Upon arrival checked in with command
+fire was breaking out through several places
+on the roof
+Location: 969 Concord St One story wood frame strip mall with multiple businesses.
+Incident # 17-0002171 03/11/2017 01:19 HRS
+Weather Temps in the teens wind gusts 35 + MPH
+Owner of building Mike Brossi Cell #
+Tenants:
+Wicked Chronic Rod and Beverly Barish Cell #
+Trinity Optical Scott Sullivan Cell #
+J+M Diner Karen Fiore  Insurance Travelers
+Do Dance Monica Deoliveira Ce11 #  Eric
+Bella sisters Salon Feranda Mendes Cell #  Insurance Atlantic Casualty
+Melle Norman Cosmetics Lisa Cavall Cell #
+* Denotes primary Agency
+03/23/2017 11:32  

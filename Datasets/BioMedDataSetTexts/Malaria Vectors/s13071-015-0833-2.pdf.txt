@@ -1,0 +1,917 @@
+BOOKMARKS:
+Abstract
+  Background
+  Methods
+  Results
+  Conclusion
+Background
+Methods
+  Study design
+  Study areas
+    Adjohoun
+    Allada
+    Pobe
+    Ouidah
+    Dassa
+    Parakou
+    Kandi
+    Malanville
+  Mosquito collections
+  Insecticide susceptibility tests
+  Species identification and PCR detection of Knock-down resistance (Kdr) and insensitive acetylcholinesterase-1 (Ace-1R) mutations
+  Biochemical analysis
+  Data analysis
+Results
+  Effect of Deltamethrin on mosquitoes
+  Effect of Bendiocarb on mosquitoes
+  Effect of Pyrimiphos methyl on mosquitoes
+  Fenitrothion effect on mosquitoes
+  Multiple insecticide resistance mechanisms in Anopheles gambiae
+Discussion
+Conclusion
+Competing interests
+Authors’ contributions
+Acknowledgements
+Author details
+References
+Page 1
+Gnanguenon et al. Parasites & Vectors (2015) 8:223
+DOI 10.1186/s13071-015-0833-2
+RESEARCH  Open Access
+Malaria vectors resistance to insecticides in Benin:
+current trends and mechanisms involved
+Virgile Gnanguenon1,2*, Fiacre R Agossa1,2, Kefilath Badirou1,2, Renaud Govoetchan1,2, Rodrigue Anagonou1,2,
+Fredéric Oke-Agbo1, Roseric Azondekon1, Ramziath AgbanrinYoussouf1,2, Roseline Attolou1,2, Filemon T Tokponnon4,
+Rock Aïkpon1,2, Razaki Ossè1,3 and Martin C Akogbeto1,2
+Abstract
+Background: Insecticides are widely used to control malaria vectors and have significantly contributed to the
+reduction of malaria-caused mortality. In addition, the same classes of insecticides were widely introduced and used
+in agriculture in Benin since 1980s. These factors probably contributed to the selection of insecticide resistance in
+malaria vector populations reported in several localities in Benin. This insecticide resistance represents a threat to
+vector control tool and should be monitored. The present study reveals observed insecticide resistance trends in
+Benin to help for a better management of insecticide resistance.
+Methods: Mosquito larvae were collected in eight sites and reared in laboratory. Bioassays were conducted on the
+adult mosquitoes upon the four types of insecticide currently used in public health in Benin. Knock-down resistance,
+insensitive acetylcholinesterase-1 resistance, and metabolic resistance analysis were performed in the mosquito
+populations based on molecular and biochemical analysis. The data were mapped using Geographical Information
+Systems (GIS) with Arcgis software.
+Results: Mortalities observed with Deltamethrin (pyrethroid class) were less than 90% in 5 locations, between 90-97%
+in 2 locations, and over 98% in one location. Bendiocarb (carbamate class) showed mortalities ranged 90-97%
+in 2 locations and were over 98% in the others locations. A complete susceptibility to Pirimiphos methyl and
+Fenitrothion (organophosphate class) was observed in all locations with 98-100% mortalities. Knock-down resistance
+frequencies were high (0.78-0.96) and similar between Anopheles coluzzii, Anopheles gambiae, Anopheles arabiensis, and
+Anopheles melas. Insensitive acetylcholinesterase-1 was rare (0.002-0.1) and only detected in Anopheles gambiae in
+concomitance with Knock-down resistance mutation. The maps showed a large distribution of Deltamethrin resistance,
+Knock-down mutation and metabolic resistance throughout the country, a suspected resistance to Bendiocarb
+and detection of insensitive acetylcholinesterase-1 from northern Benin, and a wide distribution of susceptible
+vectors to Pirimiphos methyl and Fenitrothion.
+Conclusion: This study showed a widespread resistance of malaria vectors to pyrethroid previously located in
+southern Benin, an early emergence of carbamates resistance from northern Benin and a full susceptibility to
+organophosphates. Several resistance mechanisms were detected in vectors with a potential cross resistance to
+pyrethroids through Knock-down and metabolic resistance mechanisms.
+Keywords: Pyrethroids resistance, Bendiocarb resistance, Insensitive acetylcholinesterase-1, Knock-down resistance,
+Resistance map
+* Correspondence: [URL: "mailto:amerusangel@yahoo.fr"] amerusangel@yahoo.fr
+1Centre de Recherche Entomologique de Cotonou (CREC), Cotonou, Benin
+2Faculté des Sciences et Techniques de l’Université d’Abomey-Calavi,
+Abomey-Calavi, Benin
+Full list of author information is available at the end of the article
+© 2015 Gnanguenon et al.; licensee BioMed Central. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License ([URL: "http://creativecommons.org/licenses/by/4.0"] http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain
+Dedication waiver ([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article,
+unless otherwise stated.
+Page 2
+Gnanguenon et al. Parasites & Vectors (2015) 8:223  Page 2 of 14
+Background
+For malaria vector control intervention, Indoor Residual
+Spray and Insecticide Treated Net are so far the most ef-
+fective tools used [1-3].  These two interventions are
+based on the use of different classes of insecticide.
+Pyrethroid insecticides are considered most suitable for
+mosquito nets treatment due to their high insecticidal po-
+tency at low dosages and a relative safety for human contact
+and domestic handling [2]. They included: Lambdacyhalo-
+thrin, Permethrinn, Alpha-cypermethrin, Etofenprox, and
+Cylfluthrin [2]. They have a quick knock-down and lethal
+effect on Anopheles gambiae sensu lato (An. gambiae s.l)
+mosquitoes at low concentrations [3]. The majority of long-
+lasting insecticide-treated nets freely distributed in all local-
+ities in Benin through mass-distribution campaigns and
+routine distributions since 2007 were Deltamethrin and
+Permethrin based [4-6].
+Bendiocarb was previously used for indoor residual
+spray in Oueme province in Benin from 2008 to 2010
+(6 spray cycles) and showed a significant reduction in
+malaria transmission [7,8]. It is also used for indoor re-
+sidual spray in Atacora province each year with one
+spray cycle per year since 2011 [9].
+But the use of these vector control tools cannot be effi-
+cient if their use does not take into account the environ-
+mental factors associated with insecticide resistance before
+their implementation. Pyrethroids resistance was reported
+in several localities in southern Benin since 1999 [10-13]
+and represented also a threat for these interventions. In
+addition, the lack of baseline data before the implementa-
+tion of vectors control intervention in an area needs to be
+addressed. For example, the National Malaria Control
+Program (NMCP) needs data on the dynamics of in-
+secticide resistance in all the epidemiological patterns
+of the country, particularly a map on the entomological
+situation of Benin, to be used as a guide to the choice
+of vector control strategies. This study was developed
+in this framework. The study was conducted in eight
+randomly selected sites. The eight sites were selected in
+the main malaria eco-epidemiological areas of Benin
+where geography (climate, land, vegetation and agriculture
+practices) and malaria prevalence were different [14].
+At each site, the level of vector resistance (Pyrethroids,
+Carbamates, and Organophosphates) and the resistance
+mechanisms (Kdr-west, Ace-1R and metabolic resistance) in-
+volved were assessed. A mapping of the distribution of vec-
+tor resistance and vector resistance mechanisms was done.
+Data gathered in the different malaria eco-epidemiological
+areas will guide malaria vectors resistance strategies in Benin.
+Methods
+Study design
+The study was conducted in each rainy season (April-
+July; October-November) in 2012, 2013, and 2014 in 
+eight districts randomly selected from different geo-
+epidemiological regions in Benin [14]. The selected districts
+were:
+– Adjohoun, Allada, Pobe, and Ouidah in wet savanna
+and degraded forest regions, southern Benin [15-18];
+– Kandi and Malanville in dry savanna region,
+northern Benin [19,20];
+– Dassa in the central part, and Parakou in the north
+southern part, are located between the dry and wet
+savanna region (transition zone) [21,22].
+Atacora region, where indoor residual spray was on-
+going, was excluded due to the specific vector resistance
+monitoring system implemented in this area, that was
+well documented [9,23].
+Anopheles gambiae s.l larvae were collected based on
+dipping method in four villages randomly selected in
+each district, then bred to adult phase (They were
+pooled together to have sufficient adult of the same
+physiological age by district) and tested with different
+classes of insecticides (with around 150 mosquitoes
+tested/insecticide/location) using WHO susceptibility
+(tube/cylinder) tests guidelines [14].  Mosquitoes tested
+were subjected to specific polymerase chain reaction
+treatments for species identification, and determination
+of resistance mechanism (Kdr-west and Ace-1R).  Geo-
+graphic information system was then used to show the
+distribution of phenotypic and genotypic resistances
+with Arcgis 10.1 software.
+Study areas
+Adjohoun
+Adjohoun (6°43′12 .76 ″N and 2°29′19.68″E) is located
+in the center of Oueme County. It is under a subtrop-
+ical climate with two rainy seasons (a long rainy season
+from April to July and a short one from September to
+November) and two dry seasons (a long dry season
+from December to March and a short from September
+to August).  The annual average rainfall is 1122 mm
+[18] (Figure 1).
+Allada
+Allada (6°44′37.01″N and 2°8′13.32″E) is located in the
+north of Atlantique County. The climate is sub-
+equatorial with two rainy seasons and two dry seasons
+similar to those of Adjohoun. The annual average rain-
+fall is about 800–1100 mm [16] (Figure 1).
+Pobe
+Pobe (7°49′58.83″N and 2°13′37.60″E) located in
+southeastern Benin in Plateau County and have a
+boundary with Nigeria. The climate is sub-equatorial
+with the same two rainy seasons and two dry seasons
+Page 3
+Gnanguenon et al. Parasites & Vectors (2015) 8:223  Page 3 of 14
+Figure 1 Study sites.
+as above (characteristics of south Benin). The rainfall
+varies from 1100-1200 mm per year [17] (Figure 1).
+Ouidah
+Ouidah (6°19′14.48″N and 2°4′0.25″E) belongs to a
+geographic area called “wet zone”.  The climate is sub-
+equatorial, characterized by two rainy seasons and two
+dry seasons. The rainfall varies from 950-1150 mm per
+year [15] (Figure 1). 
+Dassa
+Dassa-Zoume (7°49′58.83″N and 2°13′37.60″E) is one of
+the six districts in Collines County. The climate is Guinean
+with two rainy seasons and two dry seasons. The highest
+rainfall is recorded between July and September. The aver-
+age rainfall is around 1100 mm [21] (Figure 1).
+Parakou
+Regional capital of northern Benin, Parakou (7°49′58.83″N
+and 2°13′37.60″E) is located in Borgou County. The
+Page 4
+Gnanguenon et al. Parasites & Vectors (2015) 8:223  Page 4 of 14
+climate is South Sudanian-characterized by a rainy season
+(May to October) and a dry season (November-April).
+The average annual rainfall is 1200 mm. The maximum
+occurs from July to September [22] (Figure 1).
+Kandi
+Kandi (11°4′58.91″N and 2°13′37.60″E) is located in the
+center of Alibori County. The climate is North Sudanian
+characterized by two distinct seasons: a rainy season from
+April to October and a dry season from November to
+March. The annual average rainfall varies considerably be-
+tween 700 and 1400 mm [19] (Figure 1).
+Malanville
+Malanville (11°48′49.06″N and 3°22′58.08″E) is located in
+the extreme north of Benin in Alibori County. The climate
+of Malanville is North Sudanian. The average rainfall turns
+around 750 mm [20] (Figure 1).
+Mosquito collections
+Anopheles gambiae sensu lato larvae and pupae were
+collected from natural breeding sites of each district.
+Mosquito larvae and pupae collected were kept in sepa-
+rated labeled bottles related to each district, transported
+to the insectaria and maintained at a relative humidity of
+72 ± 5% and a temperature of 28 ± 2°C. An. gambiae s.l
+larvae were identified and separated for rearing. Adults
+were provided with 10% sugar solution. Unfed An. gam-
+biae s.l adults, female aged from 2 to 5 days from each
+district were pooled together to have a sizable mosquito
+sample (n =150).
+Insecticide susceptibility tests
+Mosquitoes were assessed using World Health
+Organization discriminating dosages with four insecti-
+cides: 0.1% Deltamethrin, 0.1% Bendiocarb, 0.25%
+Pirimiphos méthyl, and 1% Fenitrothion. 20–25 unfed
+females were exposed to the diagnostic doses of in-
+secticide treated papers for 60 min at 27 ± 1°C and
+80% relative humidity. Exposed mosquitoes were intro-
+duced into each tube and inspected at different time inter-
+vals (10, 15, 20, 30, 45, 60 minutes), ‘Immediate mortality’
+(0.1% Bendiocarb, 0.25% Pirimiphos méthyl, and 1%
+Fenitrothion) and “knocked-down” (for 0.1% Deltamethrin)
+were recorded. After exposure, mosquitoes were kept
+in observation tubes and provided with a 10% honey
+solution. Mosquitoes exposed to untreated papers were
+used as control. Mortalities were recorded after
+24 hours and susceptibility status of mosquito popula-
+tions was graded according to the World Health
+Organization protocol [24].  Dead and surviving mos-
+quitoes from assessments were used for molecular
+analysis. 
+Species identification and PCR detection of Knock-down
+resistance (Kdr) and insensitive acetylcholinesterase-1
+(Ace-1R) mutations
+Around 48 mosquitoes by site were randomly selected
+from live and dead mosquitoes and subjected to Poly-
+merase Chain Reaction (PCR) for species identification
+[25]. DNA extracted from specimens of Anopheles gam-
+biae sensu stricto were subjected to PCR for identifica-
+tion of ‘Anopheles coluzzii’ and ‘Anopheles gambiae’ [26].
+The Polymerase Chain Reaction-Restriction Fragment
+Length Polymorphism diagnostic test was used to detect
+the presence of L1014F mutation (Kdr) according to the
+method described by Martinez-Torres et al. [27] and
+G119S mutation (Ace-1R) using the method describe by
+Weill et al. [28].
+Biochemical analysis
+Biochemical analysis was performed on 50 mosquitoes
+stored at 280 μC within 24 h from emergence from each
+district. These mosquito samples were not exposed to any
+insecticides prior to biochemical assays. Levels of activity of
+mixed function oxidases (MFO), non-specific esterases
+(α and β-esterases),  and glutathione S-transferases
+(GST) were compared in susceptible An. gambiae Kisumu
+and the field populations from each district.
+Oxydase activity was assessed using heme-peroxidase
+assay to identify the elevation in the amount of heme
+according to the method described by Brogdon et al.
+[29]. Non-specific esterase activity was measured using
+a-naphtol acetate and b-naphtol acetate and final concen-
+trations were determined at 550 nm [30]. Glutathione- S-
+transferase (GST) activity was measured in mosquitoes
+using 200 ml of GSH/CDNB working solution added to
+each replicate of mosquito homogenate. The kinetic reac-
+tion was read at 340 nm immediately for 5 minutes [30].
+Data analysis
+World Health Organization criteria [24] were used to
+determine resistance status of mosquito population as
+follows:
+Mortality rate is > 98%: susceptible mosquito
+population;
+Mortality rates ranged between 90 – 98%: suspected
+resistance in the mosquito population;
+Mortality rates < 90%: resistant mosquito population
+to the insecticide.
+Knock-down and Immediate mortality were very low at
+10 minutes and were then analyzed from 15 minutes.
+Mortality rates of An. gambiae populations were com-
+pared using Fisher’s exact test. Allelic frequencies of
+L1014F mutation and G119S mutation were analyzed
+to assess variability of mutation frequencies across
+Page 5
+Gnanguenon et al. Parasites & Vectors (2015) 8:223  Page 5 of 14
+populations. Only Deltamethrin, Knock-down and
+Ace-1R resistance data were analyzed for Ouidah due to
+several unsuccessful mosquito larvae collections at this site.
+All statistical analysis was performed using R 2.15
+software.
+Results
+Effect of Deltamethrin on mosquitoes
+The knock-down effect of Deltamethrin on mosquitoes
+tested was very low (Figure 2).  After 15 minutes, the
+proportion of mosquitoes knocked-down was between 0
+and 16% versus 86% for the negative control Kisumu.
+The effect of Deltamethrin on the different populations
+after 15 minutes of exposure was similar (p > 0.05). The
+knock-down effect after 30 minutes of exposure to
+Deltamethrin varied from 0 to 60% but with a signifi-
+cantly low effect on populations of mosquitoes Parakou,
+Kandi and Malanville compared to other sites (P < 0.05).
+At 60 minutes exposure, the knock-down effect of
+Deltamethrin on mosquito populations tested was less
+than 80% versus 100% for the susceptible strain Kisumu
+(control).  Parakou and Malanville showed the lowest
+Knock-down effects (12–19%) after an hour of exposure.
+Twenty-four hours post-exposure (Figure 3), the highest
+mortality rate (100%) was observed with mosquito popula-
+tion from Ouidah (versus 100% for Kisumu), suggesting a
+full susceptibility of this population to Deltamethrin
+(Figure 3). A suspected resistance to Deltamethrin of mos-
+quito populations from Pobe and Parakou was observed
+with respective mortalities of 91 and 97%. In Malanville,
+Kandi, Dassa, Adjohoun and Allada mortalities ranged be-
+tween 14 and 87%, showing that vectors from these sites
+were resistant to Deltamethrin. 
+between the immediate mortalities induced by Bendiocarb
+on mosquitoes from Pobè, Kandi and Malanville and those
+of Parakou, Allada, Dassa and Adjohoun (p < 0.05).  The
+proportion of dead mosquitoes after 30 minutes of expos-
+ure to Bendiocarb is from 3 to 93%. After 60 minutes of ex-
+posure, approximately 80% of tested mosquitoes are dead
+except Parakou, Dassa and Adjohoun where the observed
+mortality is significantly lower (33–77%) (Figure 4).
+Mortality rates observed after 24 hours in Pobè, Dassa,
+Allada, Malanville and Adjohoun exceeded 98% (Figure 5)
+versus 100% for Kisumu. At Kandi and Parakou the ob-
+served mortality rates were respectively 92.93% [86.12 to
+96.53] and 89.53% [81.88 to 94.24]. This shows a reduced
+susceptibility in mosquito of Kandi and resistance in mos-
+quito of Parakou (Figure 5).  These results suggest the
+emergence of resistance to Bendiocarb from the north of
+Benin (Figure 5).
+Effect of Pyrimiphos methyl on mosquitoes
+The immediate mortalities induced by Pirimiphosmethyl
+varied significantly between different mosquito popula-
+tions tested (p <0.05) (Figure 6). It is after thirteen minutes
+that the effect of Pirimiphos methyl was more perceptible
+on mosquitoes (Figure 6). The observed immediate mor-
+talities range from 24–95% in Allada, Parakou, Kandi and
+Malanville. But, in Pobè, Adjohoun and Allada, the major-
+ity of mosquitoes were still alive (Figure 6). After an hour
+of exposure, immediate mortality increased in all sites
+(43–100%) except Pobè and Adjohoun where mortality is
+almost zero (Figure 6).
+Mortalities noted after 24 hours of observation were
+100% suggesting a complete susceptibility of all mosquito
+populations tested to Pirimiphos methyl (Figure 7).
+Effect of Bendiocarb on mosquitoes
+After 15 min, the immediate mortalities induced by
+Bendiocarb on different population of mosquitoes varied
+between 0 and 27%. A significant difference was observed 
+Fenitrothion effect on mosquitoes
+The effect of Fenitrothion on mosquitoes tested was low
+and similar between mosquito populations during expos-
+ure (Table 1). After 15 and 30 minutes of exposure, the
+Figure 2 Knock-down rates of mosquitoes due to exposure to Deltamethrin.
+Page 6
+Gnanguenon et al. Parasites & Vectors (2015) 8:223  Page 6 of 14
+Figure 3 Observed mortalities with Deltamethrin.
+observed immediate mortalities were almost null (0 to
+2.40%).  After 45 minutes, the immediate effect of
+Fenitrothion was more evident on mosquito population
+from Malanville (25.61% [17.40 to 36.00]) and Allada (23%
+[32, 15 to 15.84]) versus 100% fro Kisumu. At 60 minutes
+of exposure, immediate mortalities increased to 75% in
+Malanville, Kandi, Parakou, and Dassa Allada. But, in Pobè
+and Adjohoun immediate mortalities remained zero.
+After 24 hours of observation, mortalities varied from
+98 to 100% suggesting that all vector populations tested
+were susceptible to Fenitrothion (Table 1).
+In summary, Deltamethrin resistance was widely dis-
+tributed throughout the country (Figure 8). A suspected
+resistance to Bendiocarb was observed from the northern
+part of the country while a full susceptibility was observed
+in the south (Figure 8).  A full susceptibility of vector 
+populations to Pirimiphos methyl and Fenitrothion was also
+from south to north (Figure 8).
+Multiple insecticide resistance mechanisms in Anopheles
+gambiae
+Data presented in Table 2 shows the distribution of
+Knock-down resistance among An. gambiae complex
+species (An. gambiae, An. arabiensis, An. coluzzi, and
+An. melas). An. gambiae, An. arabiensis, and An. coluzzi
+were identified at Allada, Dassa, Parakou, Malanville, and
+Kandi but at Ouidah, An. melas was found instead of An.
+arabiensis (Table 2).  Knock-down resistance frequencies
+were high (78–93%) in all species and at all sites. No sig-
+nificant difference was observed when comparing Kdr frea-
+quency between An. gambiae, An. Arabiensis, An. coluzzi,
+Figure 4 Immediate mortalities observed during mosquitoes exposure to Bendiocarb.
+Page 7
+Gnanguenon et al. Parasites & Vectors (2015) 8:223  Page 7 of 14
+Figure 5 Observed mortalities with Bendiocarb.
+and An. melas (p > 0.05). RR and RS genotypes of Kdr were
+found in both dead and survivors but no SS was found.
+Insensitive acetylcholinesterase-1 mutation (Ace-1R)
+was also identified at Kandi and Parakou at very low fre-
+quency (1%).  At the other localities this mutation was
+absent with a null frequency (Table 3).  It was not de-
+tected in An. coluzzii, An. arabiensis and An. melas spe-
+cies but only in heterozygous form in four surviving An.
+gambiae species (three from Parakou and one from
+Kandi) that were previously identified with Knock-down
+resistance mutation (Table 3).
+Biochemical assays showed significantly high enzym-
+atic activities (MFO, NSE and GST) in some populations
+of mosquitoes. Figure 9 shows the average level of oxi-
+dase activity (MFO) in the different populations tested.
+The activity of cytochrome P450 was significantly higher 
+in Allada Parakou compared to Kisumu (p < 0.05)
+(Figure 9).
+The activity of non-specific esterase (α and β esterase),
+was higher in mosquito populations from Kandi, Dassa
+Allada and Pobè compared to Kisumu (p < 0.05) (Figures 10
+and 11).
+High activities of the Glutathione-S-transferase were
+observed in the populations of Dassa Allada and Pobè
+compared to Kisumu (p < 0.05) (Figure 12).
+The observed molecular and biochemical resistance
+mechanisms were mapped to show the distribution of
+these resistances (Figure 13).
+Discussion
+The present study updated data on vectors resistance to the
+insecticides currently used in vectors control strategies in
+Figure 6 Immediate mortalities observed during mosquitoes exposure to Pyrimiphos methyl.
+Page 8
+Gnanguenon et al. Parasites & Vectors (2015) 8:223  Page 8 of 14
+Figure 7 Mortalities observed with Pyrimiphos methyl.
+Benin and shows their distribution. It showed a confirmed
+resistance to Deltamethrin (pirethrinoid) throughout the
+country except in Ouidah, an emerging resistance to
+Bendiorcarb (carbamates) in northern Benin, and a full
+susceptibility to Pirimiphos methyl and Fenitrothion
+(organophosphate) with a slow effect of Fenitrothion
+according to WHO thresholds. These thresholds have
+no epidemiological meaning because the field perform-
+ance of the insecticides tested remain high [31-33].
+However, they were more likely designed to be the trig-
+gers of preventive action by national malaria control
+program to define efficient strategies to manage insecti-
+cide resistance without waiting for indisputable proof
+of interventions failure [24].
+Resistance levels to Deltamethrin varied between local-
+ities reflecting variation in resistance selection pressures on
+different vector populations. Deltamethrin and Permethrin 
+are the most found insecticides on mass-distributed
+insecticide-treated nets in Benin (from national campaign
+and routine distributions) with similar coverage rates
+between regions (74-94%) [34,35]. This should select resist-
+ance in the wild mosquito populations [36] and might ex-
+plain the similar frequencies of Knock-down resistance
+(Kdr) between regions. In addition, there are also selection
+pressures generated by the use of the same class of insecti-
+cide in agriculture that represent the main activities of cer-
+tain districts [37-39] and could explain the observed
+variations. The observed resistance level to Deltamethrin
+observed in southern Benin was similar to the results previ-
+ously reported by Djègbè et al. [13] and Sovi et al. [40].
+The Knock-down resistance gene was the main resist-
+ance mechanism found in all assessed mosquito popula-
+tions. It was found at very high frequencies (0.80 in
+average) in An. gambiae, An. coluzzii, An. arabiensis and
+Table 1 Observed Knock-down rate and mortality with Fenitrothion
+Localities Number
+tested 
+Knock-down (%)
+0 min  15 min  30 min
+Parakou 86  0[0,00-4,28]  0[0,00-4,28]  0[0,00-4,28]
+Dassa 99  0[0,00-3,74]  0[0,00-3,74]  1,01[0,18-5,5]
+Allada 90  0[0,00-3,70]  1[0,18-5,45]  1[0,18-5,45]
+Malanville 82  0[0,00-4,48]  2[0,67-8,46]  2[0,67-8,46]
+Kandi 100  0[0,00-3,70]  0[0,00-3,70]  0[0,00-3,70]
+Adjohoun 95  0[0,00-3,89]  0[0,00-3,89]  0[0,00-3,89]
+Pobè  93  0[0,00-3,97]  0[0,00-3,97]  0[0,00-3,97]
+Kisumu 98  0[0,00-3,77]  82[72,83-88,05]  100[96,23-100]
+min = minutes. 
+45 min
+0[0,00-4,28]
+3[1,04-8,53]
+23[15,84-32,15]
+26[17,4-36]
+0[0,00-3,70]
+0[0,00-3,89]
+0[0,00-3,97]
+100[96,23-100] 
+60 min
+24[16,56-34,46]
+23[16,01-32,46]
+61[69,98-51,2]
+76[65,31-83,62]
+44[34,67-53,77]
+0[0,00-03,89]
+0[0,00-03,97]
+100[96,23-100] 
+Mortality (%)
+100
+100
+100
+100
+100
+100
+100
+100
+Page 9
+Gnanguenon et al. Parasites & Vectors (2015) 8:223  Page 9 of 14
+Figure 8 Distribution map of insecticides resistance in Benin.
+Page 10
+Gnanguenon et al. Parasites & Vectors (2015) 8:223  Page 10 of 14
+Table 2 Distribution of Knock-down resistance (Kdr) frequencies between malaria vectors and sites
+District Species Number RR  RS  SS  F (Kdr)  OR (95% CI)
+Allada  An. gambiae 14  11  3  0  0,89a  1.00
+An. arabiensis 7  5  2  0  0,86a  1.39 [0.20-9.44]
+An. coluzzi  20  13  7  0  0,83a  1.77 [0.41-7.53]
+Dassa  An. gambiae 21  17  4  0  0,90a  1.00
+An. arabiensis 8  5  3  0  0,81a  2.19 [0.43-11.12]
+An. coluzzi  18  15  3  0  0,92a  0.86 [0.18-4.14]
+Parakou An. gambiae 15  13  2  0  0,93a  1.00
+An. arabiensis 19  15  4  0  0,89a  1.65 [0.28-9.67]
+An. coluzzi  14  10  4  0  0,86a  2.33 [0.39-13.87]
+Kandi  An. gambiae 22  16  6  0  0,86a  1.00
+An. arabiensis 14  12  2  0  0,93a  0.49 [0.09-2.60]
+An. coluzzi  12  11  1  0  0,96a  0.27 [0.03-2.43]
+Malanville An. gambiae 18  14  4  0  0,89a  1.00
+An. arabiensis 3  2  1  0  0,83a  1.6 [0.15-17.38]
+An. coluzzi  27  19  7  1  0,83a  1.6 [0.45-5.65]
+Ouidah An. gambiae 9  5  4  0  0,78a  1.00
+An. melas  27  19  8  0  0,85a  0.61 [0.16-2.33]
+An. coluzzi  11  8  3  0  0,86a  0.55 [0.11-2.87]
+SS = homozygous susceptible; RS = hybrid resistant and susceptible; RR = homozygous resistant, F = Frequency. 
+p-value
+-
+1.000
+0.5072
+-
+0.381
+1.00
+-
+0.6870
+0.4154
+-
+0.4705
+0.4073
+-
+0.5568
+0.55141
+-
+0.47922
+0.67983
+Table 3 Distribution of Ace-1R frequency between species
+District Species Number RR RS SS Ace-1R p-value
+Allada An. gambiae 14  0  0  14 0  P > 0.999
+An. arabiensis 7  0  070
+An. coluzzi 20  0  0  20 0
+Dassa An. gambiae 21  0  0  21 0  P > 0.999
+An. arabiensis 8  0  080
+An. coluzzi 18  0  0  18 0
+Parakou An. gambiae 15  0  3  12 0.1  0,22
+An. arabiensis 19  0  0  19 0
+An. coluzzi 14  0  0  14 0
+Kandi An. gambiae 22  0  1  21 0.002 P > 0.999
+An. arabiensis 14  0  0  14 0
+An. coluzzi 12  0  0  12 0
+Malanville An. gambiae 18  0  0  18 0  P > 0.999
+An. arabiensis 3  0  030
+An. coluzzi 27  0  000
+Ouidah An. gambiae 9  0  090 P > 0.999
+An. melas 27  0  0  27 0
+An. coluzzi 11  0  0  11 0
+SS = homozygous susceptible; RS = hybrid resistant and susceptible;
+RR = homozygous resistant. 
+An. melas populations tested, and was widespread in the
+country. Their spread could be due to both vector bio-
+ecology and resistance selection pressure due to the inten-
+sive use of public health insecticides in agriculture [41].
+In addition to pyrethroid resistance, we observed the
+emergence of carbamates resistance. This resistance to
+carbamates was previously reported in Benin by Djogbenou
+et al. [42] and Aïkpon et al. [9]. It was associated with very
+low frequency of insensitive Ace-1 gene detected. This
+mutation was previously reported by Corbel et al. [11],
+Djogbénou et al. [43], Djenontin et al. [12], Yadouléton
+et al. [44] and by Aikpon et al. [9]. This early spread of
+Figure 9 Mono-oxygenase activities in Anopheles gambiae sensu
+lato collected.
+Page 11
+Gnanguenon et al. Parasites & Vectors (2015) 8:223  Page 11 of 14
+Figure 10 α-esterases activities in Anopheles gambiae sensu
+lato collected.
+Ace-1R mutation should be monitored closely. As the
+use of Bendiocarb in Indoor Residual Spray is part of a
+National Malaria Control Program strategy it could
+increase the frequency of the Ace-1R gene and lead to a
+widespread of this resistance mutation. It is urgent for
+this purpose to follow-up monitoring for a better man-
+agement of this resistance mechanism.
+However, even if Kdr and Ace-1R genes confer a sig-
+nificant effect on vector resistance, they do not fully ex-
+plain the observed vectors resistance level to insecticides
+because homozygous susceptible subjects (SS) survivedto pyrethroids and carbamates exposure suggesting an
+involvement of other alternative mechanisms such as
+metabolic resistance mechanisms [45].
+To assess the metabolic resistance mechanisms involved
+in the assessed vector populations, a biochemical approach
+was used. High activity of glutathione-s-transferase, cyto-
+chrome P450 and non-specific esterases were observed in
+some areas of southern and central Benin. These results
+were also previously reported in Atacora province [23] and
+in Cameroon [46]. These enzymes can confer resistance to
+Figure 11 β-esterases activities in Anopheles gambiae sensu
+lato collected. 
+Figure 12 Glutathion-S-transferase activities in Anopheles gambiae
+sensu lato collected.
+organophosphates, organochlorines and pyrethroids [47].
+They were found with Kdr mutation in the same vector
+populations and could confer a cross resistance to pyre-
+throids. The over expression of these enzymes could also
+explain the slow effect of some organophosphates like
+Fenitrothion on mosquito populations in absence of in-
+sensitive acetylcholinesterase-1.
+Ideally, when the resistance is detected for an insecti-
+cide, other insecticide categories must be used as part of
+a dynamic resistance management. However, very few
+insecticides are currently available for treatment of mos-
+quito nets and indoor residual spray [48,49]. The insecti-
+cide change can also lead to higher costs of intervention
+programs reducing resistance managing options. For ex-
+ample, the change from Bendiocarb (8 US$/house) to
+Fenitrothion (15.40 US$/house) in indoor residual spray
+intervention will be 2 times more expensive [50]. In gen-
+eral, the use of insecticides does not create resistance it-
+self, but selects a small proportion of subjects with a
+genetic mutation that allow them to resist and survive
+the effects of the insecticide. If this advantage is main-
+tained by a constant use of the same insecticide, the re-
+sistant insects will reproduce and the genetic changes
+that confer resistance are transferred from parents to
+offspring so that eventually resistant subjects become
+numerous within the population [51,52]. The spread of
+resistant subjects will take more time if the resistance
+gene is rare or present at low frequency. It is also com-
+plex and depends on several genetic, biological and op-
+erational factors [51].  Biological factors affect the life
+cycle of the insect (the reproduction rate, the number of
+generation or offspring, the rate of migration and isola-
+tion, etc.), while genetic factors include intrinsic charac-
+teristics of the resistance genes (mono function of
+polygenic resistance, domination, genetic cost and the
+interaction of genes) [53].  Operational factors concern
+the insecticide treatment itself, including the method
+Page 12
+Gnanguenon et al. Parasites & Vectors (2015) 8:223  Page 12 of 14
+Figure 13 Distribution of resistance mechanism in Benin.
+and frequency of application, dosage and the residual activ-
+ity of the insecticide and the level of insecticide coverage.
+In theory, the resistance management of insecticide
+resistance should be performed by alternating vector
+control methods based on the use of insecticides and
+non-insecticidal methods. In practice, most non-
+insecticidal methods work well in experimental trials
+but become difficult when programs intensify their
+long-term use (operational) [54].  Then, operationally, 
+the simplest way of resistance management should in-
+volve insecticides management. The implementation
+of management strategies that may delay selection and
+spread of resistance to insecticides is therefore the
+main gateway for vector control programs. Another al-
+ternative is to find other insecticide formulations that
+will enhance the choice possibilities of insecticides.
+This data will enable the National Malaria control
+programme to determine what insecticide to use and
+Page 13
+Gnanguenon et al. Parasites & Vectors (2015) 8:223  Page 13 of 14
+where. They should implement a rapid pro-active re-
+sponse to avoid vectors resistance to Pirimiphosmethyl
+and delay the spread of Bendiocarb resistance. Alternative
+non-insecticidal methods should be used, wherever pos-
+sible, to delay insecticide resistance.
+Conclusion
+This study shows the resistance profile of malaria vectors to
+different categories of insecticides used for vector control
+in Benin. A widespread malaria vector resistance to pyreth-
+roid and an early emergence of carbamates resistance in
+the northern region of the country were observed. How-
+ever, vectors were fully susceptible to organophosphates
+including Pirimiphos methyl and Fenitrothion but with a
+rapid susceptibility to the effect of Pirimiphos methyl.
+This useful information could help policy-makers to
+better plan insecticide resistance management. The most
+convenient option is based on the appropriate use of in-
+secticides. The moment of insecticide use, method of
+use (combined or single), the frequency and duration of
+use need to be planned accordingly to delay the spread
+of vectors resistance.
+Competing interests
+The authors declare that they have no competing interests.
+Authors’ contributions
+VG designed experiments, coordinated field activities, wrote and revised the
+paper; FRA, KB, RG, RA, RAZ, RAY, and RA participated in Laboratory activities,
+data collection and revised the paper; FO helped with statistical analysis and
+revised the paper; FTT, RA, RO helped in the study design and revised the
+paper; MA designed the study, supervised field activities and revised the
+manuscript. All authors have read and approved the content of the final
+version of the manuscript.
+Acknowledgements
+We thank the President’s Malaria Initiative via the Bureau for Global Health,
+US Agency for International Development, and Benin National Malaria
+Control Programme.
+Author details
+1Centre de Recherche Entomologique de Cotonou (CREC), Cotonou, Benin.
+2Faculté des Sciences et Techniques de l’Université d’Abomey-Calavi,
+Abomey-Calavi, Benin. 3Université d’Agriculture de Kétou, Kétou, Benin.
+4Programme National de Lutte contre le Paludisme, Cotonou, Benin.
+Received: 14 January 2015 Accepted: 29 March 2015
+References
+1.  Curtis CF, Mnzava AE, Misra S, Rowland M. Malaria control: bednets or
+spraying? Summary of the presentations and the discussion. Trans R Soc
+Trop Med Hyg. 1999;93:460.
+2.  Zaim M, Aitio A, Nakashima N. Safety of pyrethroid-treated mosquito nets.
+Med Vet Entomol. 2000;14:1–5.
+3.  Chavasse DC, Yap HH, World Health Organization, Division of Control of
+Tropical Diseases, WHO Pesticide Evaluation Scheme. Chemical methods for
+the control of vectors and pests of public health importance. Geneva: World
+Health Organization; 1997.
+4.  PNLP. Campagne de distribution gratuite des moustiquaires imprégnées à
+longue durée d’action aux ménages du Bénin. Cotonou: Ministère de la
+Santé; 2012. p. 11.
+5.  PNLP-AFRICARE BENIN-CRS BENIN. Evaluation Finale Du Projet D’appui À La
+Lutte Contre Le Paludisme. Cotonou: Ministère de la Santé; 2011. p. 42. 
+6.  Azondekon R, Gnanguenon V, Oke-Agbo F, Houevoessa S, Green M, Akogbeto
+M. A tracking tool for long-lasting insecticidal (mosquito) net intervention
+following a 2011 national distribution in Benin. Parasit Vectors. 2014;7:6.
+7.  Akogbeto M, Padonou GG, Bankole HS, Gazard DK, Gbedjissi GL. Dramatic
+decrease in Malaria transmission after large-scale indoor residual spraying
+with bendiocarb in Benin, an area of high resistance of anopheles gambiae
+to Pyrethroids. Am J Trop Med Hyg. 2011;85:586–93.
+8.  Padonou GG, Sezonlin M, Ossé R, Aizoun N, Oké-Agbo F, Oussou O, et al.
+Impact of three years of large scale Indoor Residual Spraying (IRS) and
+Insecticide Treated Nets (ITNs) interventions on insecticide resistance in
+Anopheles gambiae s.l. in Benin. Parasit Vectors. 2012;5:72.
+9.  Aïkpon R, Agossa F, Ossè R, Oussou O, Aïzoun N, Oké-Agbo F, et al.
+Bendiocarb resistance in Anopheles gambiae s.l. populations from Atacora
+department in Benin, West Africa: a threat for malaria vector control. Parasit
+Vectors. 2013;6:192.
+10. Akogbeto M, Yakoubou S. [Resistance of malaria vectors to pyrethrins used
+for impregnating mosquito nets in Benin, West Africa](in French). Bull Soc
+Pathol Exot. 1999;92:123–30.
+11. Corbel V, N’Guessan R, Brengues C, Chandre F, Djogbenou L, Martin T, et al.
+Multiple insecticide resistance mechanisms in Anopheles gambiae and
+Culex quinquefasciatus from Benin, West Africa. Acta Trop. 2007;101:207–16.
+12. Djènontin A, Bio-Bangana S, Moiroux N, Henry M-C, Bousari O, Chabi J, et al.
+Culicidae diversity, malaria transmission and insecticide resistance alleles in
+malaria vectors in Ouidah-Kpomasse-Tori district from Benin (West Africa): a
+pre-intervention study. Parasit Vectors. 2010;3:83.
+13. Djègbè I, Boussari O, Sidick A, Martin T, Ranson H, Chandre F, et al.
+Dynamics of insecticide resistance in malaria vectors in Benin: first evidence
+of the presence of L1014S kdr mutation in Anopheles gambiae from West
+Africa. Malar J. 2011;10:261.
+14. Gnanguenon V, Govoetchan R, Agossa FR, Ossè R, Oke-Agbo F, Azondekon
+R, et al. Transmission patterns of Plasmodium falciparum by Anopheles
+gambiae in Benin. Malar J. 2014;13:444.
+15. Capo-Chichi Y, Guidibi E. Monographie De La Commune De Ouidah.
+Cotonou: Cabinet Afrique Conseil; 2006. p. 1–44.
+16. Nangbe F, Guidibi E. Monographie De La Commune D’allada. Cotonou:
+Cabinet Afrique Conseil; 2006. p. 1–37.
+17. Gassi B, Guidibi E. Monographie De La Commune De Pobe. Cotonou:
+Cabinet Afrique Conseil; 2006. p. 1–46.
+18. TCHEGNON P, GUIDIBI E. Monographie De La Commune D’adjohoun.
+Cotonou: Cabinet Afrique Conseil; 2006. p. 1–60.
+19. Ahoyo Adjovi N, Guidibi E. Monographie De La Commune Kandi. Cotonou:
+Cabinet Afrique Conseil; 2006. p. 1–40.
+20. Ahoyo Adjovi NR, Guidibi E. Monographie De La Commune De Malanville.
+Cotonou: Cabinet Afrique Conseil; 2006. p. 1–48.
+21. CAPO-CHICHI Y, GUIDIBI E. Monographie De La Commune De Dassa.
+Cotonou: Cabinet Afrique Conseil; 2006. p. 1–44.
+22. KORA O, GUIDIBI E. Monographie De La Commune De Parakou. Cotonou:
+Cabinet Afrique Conseil; 2006. p. 1–44.
+23. Aïkpon R, Sèzonlin M, Ossè R, Akogbéto M. Evidence of multiple
+mechanisms providing carbamate and organophosphate resistance in field
+An. gambiae population from Atacora in Benin. Parasit Vectors. 2014;7:568.
+24. WHO. Test procedures for insecticide resistance monitoring in malaria
+vector mosquitoes. Geneva: World Health Organization; 2013.
+25. Scott JA, Brogdon WG, Collins FH. Identification of single specimens of the
+Anopheles gambiae complex by the polymerase chain reaction. Am J Trop
+Med Hyg. 1993;49:520.
+26. Favia G, Lanfrancotti A, Spanos L, Sidén-Kiamos I, Louis C. Molecular
+characterization of ribosomal DNA polymorphisms discriminating among
+chromosomal forms of Anopheles gambiae s.s. Insect Mol Biol. 2001;10:19–23.
+27. Martinez-Torres D, Chandre F, Williamson MS, Darriet F, Berge JB,
+Devonshire AL, et al. Molecular characterization of pyrethroid knockdown
+resistance (kdr) in the major malaria vector Anopheles gambiae s.s. Insect
+Mol Biol. 1998;7:179–84.
+28. Weill M, Malcolm C, Chandre F, Mogensen K, Berthomieu A, Marquine M,
+et al. The unique mutation in ace-1 giving high insecticide resistance is
+easily detectable in mosquito vectors. Insect Mol Biol. 2004;13:1–7.
+29. Brogdon WC, McAllister JC. Insecticide resistance and vector control. Emerg
+Infect Dis. 1998;4:605–13.
+30. WHO. Techniques to detect insecticide resistance mechanisms (field and
+laboratory manual) (archived) [[URL: "http://www.who.int/malaria/publications/atoz/who_cds_cpc_mal_98_6/en/"] http://www.who.int/malaria/publications/
+ atoz/who_cds_cpc_mal_98_6/en/]
+Page 14
+Gnanguenon et al. Parasites & Vectors (2015) 8:223  Page 14 of 14
+31. Aïkpon R, Sèzonlin M, Tokponon F, Okè M, Oussou O, Oké-Agbo F, et al.
+Good performances but short lasting efficacy of Actellic 50 EC Indoor
+Residual Spraying (IRS) on malaria transmission in Benin, West Africa. Parasit
+Vectors. 2014;7:256.
+32. Sovi A, Azondékon R, Aïkpon RY, Govoétchan R, Tokponnon F, Agossa F,
+et al. Impact of operational effectiveness of long-lasting insecticidal nets
+(LLINs) on malaria transmission in pyrethroid-resistant areas. Parasit Vectors.
+2013;6:319.
+33. Tokponnon FT, Ogouyémi AH, Sissinto Y, Sovi A, Gnanguenon V, Cornélie S,
+et al. Impact of long-lasting, insecticidal nets on anaemia and prevalence of
+Plasmodium falciparum among children under five years in areas with
+highly resistant malaria vectors. Malar J. 2014;13:76.
+34. Tokponnon FT, Aholoukpe B, Denon EY, Gnanguenon V, Bokossa A,
+N’guessan R, et al. Evaluation of the coverage and effective use rate of
+long-lasting insecticidal nets after nation-wide scale up of their distribution
+in Benin. Parasit Vectors. 2013;6:265.
+35. Akogbeto M, Nahum A. Impact des moustiquaires imprégnées de
+deltaméthrine sur la transmission du paludisme dans un milieu côtier
+lagunaire, Bénin. Bull Soc Pathol Exot. 1996;89:291–8.
+36. Aïzoun N, Aïkpon R, Akogbéto M. Evidence of increasing L1014F kdr
+mutation frequency in Anopheles gambiae s.l. pyrethroid resistant following
+a nationwide distribution of LLINs by the Beninese National Malaria Control
+Programme. Asian Pac J Trop Biomed. 2014;4:239–43.
+37. Chouaibou MS, Chabi J, Bingham GV, Knox TB, N’Dri L, Kesse NB, et al.
+Increase in susceptibility to insecticides with aging of wild Anopheles
+gambiae mosquitoes from Côte d’Ivoire. BMC Infect Dis. 2012;12:214.
+38. Diabate A, Baldet T, Chandre F, Akoobeto M, Guiguemde TR, Darriet F, et al.
+The role of agricultural use of insecticides in resistance to pyrethroids in
+Anopheles gambiae s.l. in Burkina Faso. Am J Trop Med Hyg. 2002;67:617–22.
+39. Ranson H, Abdallah H, Badolo A, Guelbeogo WM, Kerah-Hinzoumbé C,
+Yangalbé-Kalnoné E, et al. Insecticide resistance in Anopheles gambiae: data
+from the first year of a multi-country study highlight the extent of the problem.
+Malar J. 2009;8:299.
+40. Sovi A, Djègbè I, Soumanou L, Tokponnon F, Gnanguenon V, Azondékon R,
+et al. Microdistribution of the resistance of malaria vectors to Deltamethrin
+in the region of Plateau (southeastern Benin) in preparation for an
+assessment of the impact of resistance on the effectiveness of Long Lasting
+Insecticidal Nets (LLINs). BMC Infect Dis. 2014;14:103.
+41. Ndiath MO, Sougoufara S, Gaye A, Mazenot C, Konate L, Faye O, et al.
+Resistance to DDT and pyrethroids and increased kdr mutation frequency in
+an. Gambiae after the implementation of permethrin-treated nets in
+Senegal. PLoS One. 2012;7:e31943.
+42. Djogbénou L, Pasteur N, Akogbéto M, Weill M, Chandre F. Insecticide
+resistance in the Anopheles gambiae complex in Benin: a nationwide
+survey. Med Vet Entomol. 2011;25:256–67.
+43. Djogbénou L, Dabiré R, Diabaté A, Kengne P, Akogbéto M, Hougard JM,
+et al. Identification and geographic distribution of the ACE-1R mutation in
+the malaria vector Anopheles gambiae in south-western Burkina Faso, West
+Africa. Am J Trop Med Hyg. 2008;78:298.
+44. Yadouleton AW, Padonou G, Asidi A, Moiroux N, Bio-Banganna S, Corbel V,
+et al. Insecticide resistance status in Anopheles gambiae in southern Benin.
+Malar J. 2010;9:83.
+45. Tia E, Akogbeto M, Koffi A, Toure M, Adja AM, Moussa K, et al. Pyrethroid
+and DDT resistance of Anopheles gambiae s.s. (Diptera: Culicidae) in five
+agricultural ecosystems from Côte-d’Ivoire. Bull Soc Pathol Exot. 2006;99:278–82.
+46. Nwane P, Etang J, Chouaїbou M, Toto JC, Koffi A, Mimpfoundi R, et al.
+Multiple insecticide resistance mechanisms in Anopheles gambiae s.l.
+populations from Cameroon, Central Africa. Parasit Vectors. 2013;6:41.
+47. Vontas JG, Hejazi MJ, Hawkes NJ, Cosmidis N, Loukas M, Hemingway J.
+Resistance-associated point mutations of organophosphate insensitive
+acetylcholinesterase, in the olive fruit fly Bactrocera oleae. Insect Mol Biol.
+2002;11:329–36.
+48. WHOPES. WHO recommended insecticide products for treatment of
+mosquito nets for malaria vector control. Geneva: World Health
+Organization; 2014.
+49. WHOPES. WHO recommended insecticides for indoor residual spraying
+against malaria vectors. Geneva: World Health Organization; 2015.
+50. Walker K. Cost-comparison of DDT and alternative insecticides for malaria
+control. Med Vet Entomol. 2000;14:345–54.
+51. IRAC. Prevention and management of insecticide resistance in vectors of
+public health importance. London: IRAC; 2011. 
+52. Berticat C, Boquien G, Raymond M, Chevillon C. Insecticide resistance genes
+induce a mating competition cost in Culex pipiens mosquitoes. Genet Res.
+2002;79:41–7.
+53. Corbel V, NGuess R. Distribution, Mechanisms, Impact and Management of
+Insecticide Resistance in Malaria Vectors: A Pragmatic Review. In: Manguin S,
+editor. Anopheles mosquitoes - New insights into malaria vectors, InTech. 2013.
+54. WHO. Global strategic framework for integrated vector management [[URL: "http://www.who.int/malaria/publications/atoz/who_cds_cpe_pvc_2004_10/en/"] http://
+ www.who.int/malaria/publications/atoz/who_cds_cpe_pvc_2004_10/en/]
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color ﬁgure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at
+www.biomedcentral.com/submit

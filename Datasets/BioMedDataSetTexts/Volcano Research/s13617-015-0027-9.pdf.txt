@@ -1,0 +1,1034 @@
+BOOKMARKS:
+Abstract
+Background
+  Volcanic hazards in Auckland
+  A.E.L.P. methodology overview
+  Volcanic hazard analysis
+  Damage and mitigation assessment methodology
+  Damage assessment of nodes and networks due to uniform volcanic activity
+  Damage assessment of nodes due to local and distant scenario volcanic eruptions
+  Recovery profile (interdependencies)
+Results and discussion
+Conclusions
+Competing interests
+Authors’ contributions
+Authors’ information
+Acknowledgements
+References
+Page 1
+Daly and Johnston Journal of Applied Volcanology (2015) 4:7
+DOI 10.1186/s13617-015-0027-9
+RESEARCH  Open Access
+The genesis of volcanic risk assessment for the
+Auckland engineering lifelines project: 1996–2000
+Michele Daly* and David Johnston
+Abstract
+The Auckland Engineering Lifelines Project (A.E.L.P.) was initiated by the Auckland Regional Council, New Zealand,
+in 1996 to reduce the damage to and downtime of utilities such as water, wastewater, gas, power, etc., resulting
+from a variety of natural and technological hazards. A key initial project was a volcanic risk assessment. This paper
+describes the methodology that was developed to specifically assess the volcanic risk to lifelines from the Auckland
+Volcanic Field and distal volcanic centres in the central North Island, the application of the risk assessment and
+further developments beyond the initial project.
+Keywords: Volcanic risk assessment; Lifeline utilities; Auckland; Lifeline interdependencies
+Background
+The Auckland Engineering Lifelines Project (A.E.L.P.) was
+initiated by the Auckland Regional Council, New Zealand,
+in 1996 and involved some 40 organisations comprising
+local government, utility service providers, and other inter-
+est groups. The aim of the A.E.L.P. was to reduce the dam-
+age to and downtime of utilities such as water, wastewater,
+gas, power, etc.,  resulting from a variety of natural and
+technological hazards. The project assessed the vulnerabil-
+ity of utilities, identified interdependencies and developed
+practical strategies for reducing risk, and for response and
+reinstatement following a hazard event. The design of the
+project was initially based on and followed from two other
+successful Engineering Lifelines Projects in New Zealand;
+the Wellington Earthquake Lifelines Study (Hopkins et al.
+1993) and the Christchurch Engineering Lifelines Study
+(Centre for Advanced Engineering, 1997).
+The A.E.L.P. adopted an “all hazards approach” and in
+the hazard identification stage of the project discussion
+documents were prepared for a number of hazards includ-
+ing earthquake, tsunami, cyclone, drought, fire, hazardous
+substances spills, biohazards, vandalism, and volcanic erup-
+tions from the Auckland Volcanic Field as well as from the
+more distal volcanoes in the central North Island (Daly
+and Wilkie, 1997). For the final study, these hazards were
+reduced to earthquake, volcano, tsunami and cyclone. A
+key outcome of the project, and an important deliverable,
+* Correspondence: [URL: "mailto:m.daly@gns.cri.nz"] m.daly@gns.cri.nz
+GNS Science Ltd, PO Box 30368, Lower Hutt 5040, New Zealand 
+was to enable participating organisations to identify the
+extent of their interdependence on other lifeline services.
+The identification of interdependencies not only allows the
+individual organisations to better prepare themselves for
+disaster, but also enables them to influence and prioritise
+the response of other organisations to them immediately
+after a disaster event.
+At the time of the establishment of the A.E.L.P., there
+was only rudimentary information available about the
+Auckland Volcanic Field. The Ministry of Civil Defence
+had produced the Volcanic Hazard Information Series,
+translating available scientific knowledge into a publicly
+accessible form (Smith & Allen, 1993). The hazard ana-
+lyses produced for the A.E.L.P. (Daly and Wilkie, 1997)
+were based on this information, as well as a few specific-
+ally commissioned studies for earthquake hazards (lique-
+faction, ground shaking, landslides),  ex-tropical cyclone
+and tsunami. In the case of volcanic hazards, work was
+commissioned by the Auckland Regional Council to
+bring together the available information and extend this
+into hazard and risk commentaries that could then be
+adapted for use in the A.E.L.P. (Johnston et al. 1997a, b).
+This early work prompted local authorities to start to
+take the possibility of another eruption from the Auckland
+Volcanic Field more seriously and a long term commit-
+ment to expanding a monitoring network established
+by the University of Auckland was made. No systematic
+risk assessment had been undertaken up to this point.
+© 2015 Daly and Johnston; licensee Springer. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly credited.
+Page 2
+Daly and Johnston Journal of Applied Volcanology (2015) 4:7  Page 2 of 17
+This paper describes the methodology that was devel-
+oped to specifically assess the volcanic risk from the
+Auckland Volcanic Field and distal centres in the central
+North Island for use in the A.E.L.P. This methodology is
+important in a historical context because since 2000 a
+number of initiatives have been established to improve
+Auckland’s understanding and management of its volcanic
+risk e.g. the Auckland Lifelines Group (ALG), the Volcanic
+Impacts Study Group (VISG), the Auckland Volcanic Sci-
+ence Advisory Group (AVSAG),  the Auckland Volcanic
+Contingency Plan and the multi-organisational research
+programme DEVORA (Determining Volcanic Risk in
+Auckland). The early risk assessment methodology devel-
+oped for the A.E.L.P. set the groundwork for these subse-
+quent efforts. A similar methodology used to assess the
+earthquake risk for Auckland for use in the A.E.L.P project
+has been previously described in Wilkie and Daly, (1998).
+Volcanic hazards in Auckland
+The city of Auckland is built on a basaltic volcanic field
+(Figure 1) which may have been active as recent as 1400 A.
+D. (Sandri et al. 2012). The Auckland Volcanic Field covers
+360 km2 and contains 50 identified vents. Twenty eruptions
+have occurred over the past 20 000 years with Rangitoto the
+largest and youngest having formed about 600 years ago.
+Eruptive styles from the Auckland Volcanic Field range from
+episodes of Strombolian and/or Hawaiian fire fountaining
+commonly accompanied by phreatomagmatic episodes with
+a Volcanic Explosivity Index (VEI) between 0 and 2.
+Principle hazards include tephra falls, lava flows, ballistics,
+and pyroclastic density currents (Sandri et al. 2012).
+However, the Auckland Region faces an additional vol-
+canic threat from several large central North Island vol-
+canic centres (Figure 2) that are located 140–280 km to
+the south and south-east. In the central North Island there
+are two major volcano types: (i) andesitic cones and (ii)
+rhyolitic calderas (Wilson et al. 1995). Activity at cone vol-
+canoes (i.e. Mt Taranaki; and Tongariro, Ngauruhoe, and
+Ruapehu (the last three collectively comprising the Tonga-
+riro Volcanic Centre)) are typically characterised by a suc-
+cession of small to moderate sized eruptions occurring, on
+average, every 50 to 300 years from approximately the
+same vent area over a long period of time. Activity at cal-
+dera volcanoes, on the other hand (i.e. Taupo, Okataina
+and Mayor Island), is characterised by far less frequent
+(on average every 1000–2000 years),  moderate to ex-
+ceptionally large sized eruptions. These eruptions are
+capable of generating large volumes of material that
+can be distributed over exceptionally large areas many
+hundreds of kilometres downwind. The impact of a dis-
+tant eruption will be uniformly widespread across the
+entire Auckland Region (Johnston et al. 1997a) and
+contrasts with the relatively localised impact of hazards 
+generated from an eruption within the Auckland Vol-
+canic Field (Johnston et al. 1997b).
+A.E.L.P. methodology overview
+The general methodology used for the A.E.L.P. can be
+broken up into a number of tasks as shown in the flow
+chart in Figure 3. Definitions of terms used in Figure 3
+(and throughout the text) are shown in Table 1. The focus
+of the A.E.L.P. was on utility impact and utility response
+to make the project manageable. Second order impacts in-
+cluding those on the wider community were to be consid-
+ered as part of Stage 2 (Figure 3). At the time of writing
+(mid-2014), Stage 2 was almost complete.
+Task 3 in Figure 3 identified the vulnerabilities or
+sensitivities of each utility’s distribution networks and
+critical facilities (‘networks’  and ‘nodes’) to damage
+using the information from Tasks 1 and 2. Work under-
+taken in Task 2 produced an important advancement in
+the ability to move from hazard to damage through the
+translation of descriptive (qualitative) hazard impacts
+into a form that the utilities could use to assess impacts
+to specific infrastructural components (e.g. pipes, elec-
+tricity sub-stations, water pumping stations, roads etc.).
+Being able to assess impacts in this way provided a first
+step towards an assessment of risk which would be ex-
+panded upon in subsequent work (e.g. DEVORA, 2014).
+The Task 3 analysis was split into:
+i. A uniform hazard analysis, which analysed the
+vulnerability of each individual utility to the
+hazards based on known information, and
+ii. A scenario hazard event, which analysed the
+vulnerability of all utilities to a clearly defined
+hypothetical event exemplifying the most likely
+worst case for each hazard.
+The uniform hazard analysis examined information
+known about each hazard across the entire region in
+order to highlight to each utility specific areas where its
+networks and nodes might be vulnerable to the impacts
+of a hazard event wherever the event occurred.
+The focus of the scenario events was not to identify the
+vulnerability of specific strategic assets but rather to look
+at the response of the network system as a whole and
+show the interdependencies between individual utilities by
+using a particular eruption scenario as an example.
+Utilities were asked to step through a vulnerability as-
+sessment (Tasks 3 and 4 in Figure 3) for each of the uni-
+form and scenario hazards provided, with the assistance of
+flow charts and matrices describing damage probability
+and type (Figures 4, 5, 6 and Tables 2 and 3).
+Utilities were then asked to identify their likely re-
+sponse to the event (Task 9 in Figure 3) and their abil-
+ity to recover (repair identified network and node
+Page 3
+Daly and Johnston Journal of Applied Volcanology (2015) 4:7  Page 3 of 17
+Figure 1 Map of the Auckland Volcanic Field. (source: Lindsay et al. 2011).
+elements) and restore service. A ‘recovery profile’  for
+each utility was developed which when combined with
+other recovery profiles allowed for an analysis of the
+utility system impact (Task 6 in Figure 3).
+Finally, utilities were asked as part of Task 3 (Figure 3)
+to develop a prioritised mitigation list with help 
+from matrices specifically developed for this purpose
+(Table 4).
+The A.E.L.P. methodology used hazard and infrastruc-
+ture maps developed in ARC GIS (ARC Geographical
+Information Systems).  Damage probability and damage
+type matrices were developed by the project team, and
+Page 4
+Daly and Johnston Journal of Applied Volcanology (2015) 4:7  Page 4 of 17
+Figure 2 Map showing the North Island of New Zealand, the location of the Auckland region (blue), and the volcanic centres identified
+as posing a risk to the region. (source: Magill 2002).
+the vulnerability, recovery and interdependency analyses
+were conducted in workshop settings. While much of
+the analysis could have been automated, the educational
+value of the discussions was enormous and resulted in
+much higher levels of buy-in to the eventual mitigation
+work that was recommended in the concluding stages of
+the project and which formed the basis for subsequent
+work undertaken by the lifeline utilities as part of the
+Auckland Lifelines Group.
+Volcanic hazard analysis
+The volcanic hazard analysis looked at the effects of an
+eruption in the Auckland Volcanic Field (Figure 1) as well
+as an eruption elsewhere in the North Island (Figure 2), as
+distal eruptions have the potential to deposit ash in such
+volumes as to have a major disruptive impact on the re-
+gion’s utility services and wider community.
+For the Auckland Volcanic Field, the assessment is
+complicated by the fact that the next eruption could
+occur anywhere within a 360 km2 area. A zone of 
+uniform hazard was identified which comprised the
+known extent of the volcanic field. The focus of the
+uniform hazard was to identify the vulnerability of
+each utility’s service network and nodes to an event,
+which could occur anywhere within the Auckland
+Volcanic Field.
+Three scenarios events were used in the project. One
+local scenario from the Auckland Volcanic Field centred in
+the waterfront of the central business district (CBD) and
+two distant eruptions from Mt Taranaki and the Okataina
+Volcanic Centre (Figure 2) (based on scenarios developed
+by Johnston et al. 1997a and 1997b). The local scenario
+event has an average return period of 1:1,000 years, based
+on the last 20 such events occurring over a 20,000 year
+period. Return periods for Mt Taranaki and Okataina were
+taken as 1:300 and 1:2,000 years respectively (Johnston
+et al.1997a and 1997b).
+The CBD location was selected for the local event be-
+cause it encompassed both phreatomagmatic (explosive)
+and magmatic (effusive) eruption styles and because it
+Page 5
+Daly and Johnston Journal of Applied Volcanology (2015) 4:7  Page 5 of 17
+Figure 3 Flow chart of the A.E.L.P. methodology. (source: Daly and Wilkie 1999).
+affected the central business district, rail and port ser-
+vices as well as residential areas (Figure 7).
+The eruption style and magnitude of the eruption sce-
+nario was based on a Mt. Wellington (Figure 1) sized
+eruption in terms of the volume of material erupted. For 
+the purposes of the A.E.L.P, this size eruption was as-
+sumed to totally destroy above ground services within a
+3 km radius of the vent (blast zone). Below ground ser-
+vices were assumed to be affected within a 1 km radius
+of the vent. In order to ensure full service redundancy, a
+Table 1 Definition of terms used in the Auckland Engineering Lifelines Project 1996–1999 (modified after Daly and
+Wilkie 1999)
+Term  Definition
+Damage Physical harm impairing the operation of a system, network or node caused by an event.
+Event  The hypothetical occurrence of any of the natural disasters considered. An incident or situation which occurs in a particular
+place during a particular time interval (Australian/New Zealand Risk Management Standard 4360:1999).
+Hazard  The future occurrence or risk of occurrence of any of the natural disasters considered. The source of potential harm or a
+situation with a potential to cause loss.
+Impact  The time - related effect of damage, comprising:
+Node impact - the reduction in operational performance and function of a damaged node.
+Network impact - the time and spatial reduction in function of the utility network caused by the cumulative node impacts.
+System impact - the reduction in function of the combined network impact on the whole utility system.
+Regional impact - The cumulative effect of the system impact and other non-utility effects on the region.
+Regional system The integrated and interrelated social, commercial, cultural, political, legal and natural environment of the region.
+Scenario analysis Defining a particular scenario to enable the impact of a specific event on the entire utility system to be assessed.
+Uniform hazard
+analysis 
+Defining a given hazard enables mitigation measures for each utility to be rapidly identified.
+Utility network An interconnected set of utility components and links for providing a utility service.
+Utility node  A discrete constituent of the utility network.
+Utility system The combined utility networks, their interdependencies and the interrelations for providing infrastructure services.
+Vulnerability The extent to which a system, network or node is sensitive to damage from an event.
+Page 6
+Daly and Johnston Journal of Applied Volcanology (2015) 4:7  Page 6 of 17
+Figure 4 Flow chart for damage assessment of nodes and networks due to uniform volcanic hazard. (source: Daly and Wilkie 1999).
+6 km separation (or 2 km separation for services below
+ground) would be needed between the utility elements.
+The lifeline utilities examined their own vulnerabilities
+on this basis. However, because the main effects of the
+distant eruptions were from ash fall, most of the vulner-
+ability assessments focused on the effects of ash fall ra-
+ther than complete localised destruction of part of the
+utility network.
+The above ground damage zone of 3 km radius was
+subsequently adopted by the Auckland Regional Council 
+in their volcanic contingency plan. The Council added a
+further 2 km margin of safety to create a 5 km radius for
+evacuation purposes (Auckland Regional Council, 2002).
+At the time of writing, the renamed 3 km ‘extreme risk
+zone’ and the additional 2 km ‘high risk zone’ remain as
+the starting point for evacuation planning purposes
+(Auckland Council, 2013).
+The two distant eruption scenarios focussed on ash as
+the primary hazard. The first deposited 1 mm of vol-
+canic ash over the region from a 0.1 km3 andesitic
+Page 7
+Daly and Johnston Journal of Applied Volcanology (2015) 4:7  Page 7 of 17
+Figure 5 Flow chart for damage assessment of nodes and networks due to local volcanic hazard scenario. (source: Daly and Wilkie 1999).
+Note that references to Tables C, D and E in this flow chart are Tables 2, 3 and 4 in this paper respectively.
+eruption of Taranaki (Figure 2) and the second deposited
+100 mm of volcanic ash from a 4 km3 rhyolite eruption
+from the Okataina Volcanic Centre (Figure 2). 
+2014b) and fragility functions for different infrastructural
+components to volcanic ash (e.g. Wardman et al., 2012;
+Wilson et al., 2012; Wilson et al. 2014a).
+Damage and mitigation assessment methodology
+Two matrices were developed and provided a qualitative
+assessment of the type and likelihood of damage (Ta-
+bles 2 and 3) from ash fall to a range of infrastructure
+within the Auckland region. These matrices are based
+on observed impacts of past volcanic eruptions (e.g.
+Blong 1984, Johnston 1997a).  A third matrix provided
+options for mitigating the effects of ash fall (Table 4). As
+mentioned above, these matrices produced an important
+advancement in the ability to move from hazard to vol-
+canic risk through the translation of descriptive (qualita-
+tive) hazard impacts into a form that the utilities could
+use to assess impacts to specific infrastructural compo-
+nents (e.g. pipes, electricity sub-stations, water pumping
+stations, roads etc.).  This early work has led to and in-
+formed the subsequent development of semi-quantitative
+descriptions of damage (e.g. Wilson et al. 2009), posters
+for utilities on how to manage volcanic ash (Wilson et al. 
+Damage assessment of nodes and networks due to
+uniform volcanic activity
+A zone of uniform hazard was identified which comprised
+the known extent of the volcanic field (Figure 8). Within
+this zone, an eruption was assumed to cause 100% damage
+to over-ground services within a 3 km radius (blast zone)
+and to underground services within a radius of 1 km. Out-
+side these distances, the principal damage results from
+ash. The analysis damage to nodes and networks due to
+uniform volcanic activity was undertaken following the
+flow chart in Figure 4. The uniform hazard analysis is es-
+sentially a rapid once over of all critical network facilities
+which ranks them as having negligible, moderate, or high
+probability of damage based on their overall damage as-
+sessment. This enabled a prioritised list of mitigation mea-
+sures to be developed which was able to be incorporated
+directly into utilities’ own strategic asset management and
+maintenance programmes.
+Page 8
+Daly and Johnston Journal of Applied Volcanology (2015) 4:7  Page 8 of 17
+impacts of various services from the same event with
+performance post event.
+Recovery profile (interdependencies)
+The concept of a Recovery Profile was developed to de-
+scribe how a hazard event would affect a utility’s ability
+to function at different stages after a scenario event by
+asking:
+a) What percentage of service was available
+immediately after the event?
+b) What percentage of service was available one week
+after the event?
+c) How many days, weeks or months would be
+required to get back to full service, including any
+temporary fixes?
+Figure 6 Flow chart for damage assessment of nodes and
+networks due to distant volcanic hazard scenarios. (source: Daly
+and Wilkie 1999). Note that references to Tables C, D and E in this flow
+chart are Tables 2, 4 and 3 in this paper respectively. Worksheets 6C
+and 6D referred to have not been reproduced in this paper, but can be
+found in the original documentation (Daly and Wilkie 1999). An
+example of a worksheet for a related task can be found in Figure 9.
+Damage assessment of nodes due to local and distant
+scenario volcanic eruptions
+The analysis of damage to nodes and networks due to the
+local scenario eruption was undertaken following the flow-
+chart in Figure 5, on worksheets as shown in Figure 9.
+Similarly, the analysis of damage to nodes and networks
+due to the different ash thicknesses from the two distal
+eruption scenarios was undertaken following the flowchart
+in Figure 6, on worksheets similar to that shown in
+Figure 9.
+Through consideration of the likely damage from a par-
+ticular scenario a picture can be developed of the effects
+of an event on the entire system and forms a resource for
+use when developing strategies for response and recovery.
+Interdependence is addressed through reconciling the 
+Lifelines were asked to develop a recovery profile per
+significant network node or element (Figure 9) and ul-
+timately to form a view of the overall recovery profile of
+their network as a result.
+An iterative process was used, initially assuming unlim-
+ited resources and unrestricted access to sites for repairs.
+The recovery profiles of all lifelines were discussed in a
+workshop setting and reviewed. Individual utilities then
+reassessed their profiles on the basis of a more realistic as-
+sessment of access, competition for resources and inter-
+dependency of services. Subsequent discussions with other
+lifelines utilities typically, and as expected, had the effect
+of making recovery profiles longer.
+The methodology initially proposed to map the recov-
+ery profiles to show impacted zones, i.e. areas where ser-
+vice was unavailable one day and one week after the
+event, and where full recovery took a long time. In prac-
+tice this proved impractical within the timeframe due to
+the collation of large volume of data from the recovery
+profiles that this exercise required. As a result, the exer-
+cise was amended to focus on areas or elements of sig-
+nificant service loss in each utility and how that affected
+the rest of that network.
+A workshop was held at the conclusion of the vulner-
+ability assessment to allow each lifeline utility to:
+a) Outline its network’s capabilities for servicing the
+other utilities,
+b) Hold individual discussions with each of the other
+lifeline sectors to identify and understand each
+other’s interdependencies.
+A matrix for the scenario eruption (Figure 10) was devel-
+oped which demonstrated the interdependencies and the
+priority which each lifeline had on the others for operation
+and recovery. As network systems are often complex, no
+particular precision can be claimed in the numbers given,
+Page 9
+Daly and Johnston Journal of Applied Volcanology (2015) 4:7  Page 9 of 17
+Table 2 Volcanic ash-induced damage to structures matrix (modified after Daly and Wilkie, 1999)
+Structure  Ash thickness <1 mm Ash thickness 1-5 mm Ash thickness 5 - 100 mm Ash thickness >100 mm
+Pipework
+Open systems (ie stormwater) Low probability High probability High probability High probability
+Closed systems  Negligible Negligible Negligible  Negligible
+Building structures
+Flat-roof  Low probability Mod. probability High probability High probability
+Pitched-roofs (>20°)  Low probability Mod. probability High probability High probability
+Building services
+Air-conditioning Low probability Mod. probability High probability High probability
+Gutters  Low probability Mod. probability High probability High probability
+Electricity services
+Power lines  Negligible Low probability Mod. probability High probability
+Power line insulators:
+Low voltage  Negligible Mod. probability High probability High probability
+High voltage  Negligible Low probability Mod. probability High probability
+Substations  Negligible Mod. probability High probability High probability
+Civil structures
+Roads  Low probability High probability High probability High probability
+Rail  Negligible Mod. probability High probability High probability
+Wastewater
+Sewage pumps  Low probability High probability High probability High probability
+Sewage treatment plant  Low probability Mod. probability High probability High probability
+Water Supply Systems
+River/Stream  Low probability High probability High probability High probability
+Uncovered reservoir Low probability Mod. probability High probability High probability
+Cover reservoir/ground water Negligible Negligible Negligible  Negligible
+Roof-fed tank  Low probability High probability High probability High probability
+Telecommunications
+Lines  Negligible Low probability Mod. probability High probability
+Microwave towers  Low probability Mod. probability Mod. probability High probability
+Exchange equipment:
+External air-conditioning Low probability High probability High probability High probability
+Internal Air-conditioning Negligible Low probability Low probability Low probability
+Specific infrastructure
+Ports  Low probability High probability High probability High probability
+Airports: Air transport Mod. probability High probability High probability High probability
+but the table highlights the links between lifelines in the
+period following an eruption affecting Auckland. The
+process showed that road (access), cellular communication,
+and fuel, were lifelines on which others were hugely reliant.
+A close fourth was electricity. Note that water supply was
+ranked quite low in the analysis. This was because the pro-
+ject focussed on the physical recovery needs of the lifelines
+themselves rather than on the immediate needs of staff or
+the community. 
+Results and discussion
+Analysis of the worksheets, workshop discussion sum-
+maries, and Figure 10 confirms many of the conclusions
+reached in other studies (e.g. Johnston 1997a):
+a) Specific items of equipment identified as critical
+to a network’s operation and which are also highly
+vulnerable to volcanic ash, should be protected
+(if possible) against ash fall.
+Page 10
+Daly and Johnston Journal of Applied Volcanology (2015) 4:7  Page 10 of 17
+Table 3 Volcanic ash-induced damage type matrix (source: Daly and Wilkie, 1999)
+Structure Ash thickness <1 mm Ash thickness 1-5 mm Ash thickness 5 - 100 mm Ash thickness >100 mm
+Pipework
+Open systems
+(ie stormwater) 
+Blockage depending on  Blockage depending on  Blockage depending on  Blockage depending on water
+water (or sewage turbidity) water (or sewage turbidity) water (or sewage turbidity) (or sewage turbidity)
+Closed systems N/A  N/A  N/A  N/A
+Building structures
+Flat-roof  Corrosion damage on metal Corrosion damage on
+roofs, especially if freshly metal roofs, especially if
+painted  freshly painted 
+Corrosion damage on
+metal roofs, especially if
+freshly painted 
+Corrosion damage to metal roofs;
+loading damage potential for flat
+roofed structures, moderate if dry
+(high over 300 mm), high if wet.
+Pitched-roofs (>20°)  Corrosion damage on metal Corrosion damage on
+roofs, especially if freshly metal roofs, especially if
+painted  freshly painted 
+Corrosion damage on
+metal roofs, especially if
+freshly painted 
+Corrosion damage to metal roofs,
+low to moderate risk of load damage
+depending on roof pitch.
+Building services
+Air-conditioning Abrasion damage to moving Abrasion damage to
+parts.  moving parts. 
+Blockage, abrasion damage Blockage, abrasion damage to
+to moving parts.  moving parts.
+Gutters  Blockage from reworked ash. Blockage from reworked Blockage from reworked
+ash, load damage. ash, load damage. 
+Blockage from reworked ash, load
+damage.
+Electricity Services
+Power lines  N/A  Loading, tree breakages
+onto lines 
+Loading, tree breakages
+onto lines 
+Loading, tree breakages onto lines
+Power line insulators N/A  Short-circuiting (flashover),  Short-circuiting (flashover),  Short-circuiting (flashover), low
+low potential if ash is dry, low potential if ash is dry, potential if ash is dry, high if ash
+high if ash is wet.  high if ash is wet.  is wet.
+Substations N/A  Short-circuiting (flashover),  Short-circuiting (flashover),
+low potential if ash is dry, low potential if ash is dry,
+high if ash is wet. Abrasion high if ash is wet. Abrasion
+damage to moving parts. damage to moving parts. 
+Short-circuiting (flashover), low
+potential if ash is dry, high if ash is
+wet. Abrasion damage to moving
+parts.
+Civil Structures
+Roads  N/A  Blockage, reduced traction Blockage, reduced traction Blockage, reduced traction and
+and visibility  and visibility  visibility
+Rail  N/A  Reduced traction and
+visibility, short-circuiting of
+electric signals if ash is
+wet. 
+Reduced traction and
+visibility, short-circuiting of
+electric signals if ash is wet. 
+Blockage, reduced traction and
+visibility, short-circuiting of electric
+signals if ash is wet.
+Wastewater
+Sewage pumps Abrasion damage to moving Abrasion damage to  Abrasion damage to  Abrasion damage to moving parts
+parts (depends on turbidity moving parts (depends on moving parts (depends on (depends on turbidity of sewage)
+of sewage)  turbidity of sewage) turbidity of sewage)
+Sewage treatment
+plant 
+Abrasion damage to moving
+parts (depends on turbidity
+of sewage) 
+Abrasion damage to
+moving parts (depends on
+turbidity of sewage),
+damage to pond oxidation
+process. 
+Abrasion damage to
+moving parts (depends on
+turbidity of sewage),
+damage to pond oxidation
+process. 
+Abrasion damage to moving parts
+(depends on turbidity of sewage),
+damage to pond oxidation process.
+Water Supply Systems
+River/Stream pH and turbidity
+contamination 
+pH and turbidity
+contamination 
+pH and turbidity
+contamination 
+pH and turbidity contamination
+Uncovered reservoir Turbidity contamination pH and turbidity
+contamination 
+pH and turbidity
+contamination 
+pH and turbidity contamination
+Cover reservoir/
+ground water 
+N/A  N/A  N/A  N/A
+Roof-fed tank  Chemical, pH and turbidity Chemical, pH and turbidity Chemical, pH and turbidity Chemical, pH and turbidity
+contamination contamination contamination contamination
+Telecommunications
+Lines  N/A  Loading, tree breakage onto lines
+Page 11
+Daly and Johnston Journal of Applied Volcanology (2015) 4:7  Page 11 of 17
+Table 3 Volcanic ash-induced damage type matrix (source: Daly and Wilkie, 1999) (Continued)
+Microwave towers N/A
+Exchange
+equipment:
+External air-
+conditioning 
+Short-circuiting (flashover)
+of equipment, abrasion
+damage to moving parts
+Internal air-
+conditioning 
+N/A
+Specific infrastructure
+Ports  Potential corrosion and
+abrasion damage to port
+facilities 
+Loading, tree breakage
+onto lines
+Corrosion of metal
+surfaces. 
+Loading, tree breakage
+onto lines
+Corrosion of metal surfaces. Corrosion of metal surfaces,
+possible load damage.
+Short-circuiting (flashover)
+of equipment, abrasion
+damage to moving parts
+N/A 
+Short-circuiting (flashover)
+of equipment, abrasion
+damage to moving parts
+N/A 
+Short-circuiting (flashover) of
+equipment, abrasion damage
+to moving parts
+N/A
+Potential corrosion and
+abrasion damage to port
+facilities 
+Potential corrosion and
+abrasion damage to port
+facilities 
+Potential corrosion and abrasion
+damage to port facilities
+Airports - Air
+transport 
+Potential corrosion and
+abrasion damage to aircraft
+and airport
+(communications)
+installations 
+Potential corrosion and
+abrasion damage to
+aircraft and airport
+(communications)
+installations 
+Potential corrosion and
+abrasion damage to aircraft
+and airport
+(communications)
+installations 
+Potential corrosion and abrasion
+damage to aircraft and airport
+(communications) installations,
+loading damage potential for flat
+roofed structures, moderate if dry
+(high over 300 mm), high if wet.
+b) Roads are the most important transport sector in
+relation to other 'lifelines' and in terms of public
+use. Access to utilities to remove ash and/or protect
+them often requires the use of roads at the very
+time they are affected by ash falls. Despite their
+importance they have a low dependence on other
+'lifelines'.
+c) Fuel supplies are important for standby electricity
+generation, and road, rail and air transportation,
+but most utilities will have access to sufficient
+supplies after an ash fall. Supplies have a moderate
+to low dependence on other 'lifelines'.
+d) Electricity supplies are important for the operation of
+many 'lifelines' and are vulnerable during and after ash
+falls. Back-up electricity may not necessarily be avail-
+able after an ash fall. Electricity supplies have only
+a moderate dependence on other 'lifelines'.
+e) Cellular communications have a high priority during
+the initial recovery period.
+f) Telephone systems have a moderate importance to
+other 'lifelines' but are highly dependent on electricity
+supplies and air-conditioning.
+g) Air-conditioning units are important to a few
+lifelines, notably telephones, and are dependent
+on electricity and water.
+h) Water supplies are required by a few 'lifelines' but
+since supply systems are relatively robust in Auckland,
+short-term problems should be minimal. However,
+water supplies have a high dependence on other
+'lifelines', notably electricity supplies. Increased
+demand may strain the system. 
+i) Stormwater, sewerage, rail, gas supplies and air
+transport are not required by most 'lifelines' but
+are highly dependent on others.
+The interdependence table (Figure 10) is limited in that
+it does not indicate the consequence of the failure of cer-
+tain lifelines to society in general. Sewerage and storm
+water both have low priority factors but are highly vulner-
+able to ash falls and their failure will have major societal
+impacts. Buildings, whether they are residential, business,
+or critical facilities (hospitals, fire and police stations, civil
+defence facilities, schools etc.), are extremely vulnerable to
+disruptions of lifelines which provide the services that
+allow them to operate. Electricity is required for lighting,
+ventilation, boilers, water heating, refrigerators/freezers,
+kitchens, medical services, lifts and security. Water supply
+is required for the satisfactory operation of hot and cold
+water systems, fire hoses and sprinklers, kitchens and la-
+boratories. Communication facilities are critical for the
+operation of emergency management organisations, and
+usually require continued electricity supply.
+An assessment of the vulnerability of lifelines must
+therefore consider the physical vulnerability of the particu-
+lar lifeline, its dependence on other lifelines, the flow-on
+effects that its disruption may have and the societal de-
+mands placed on that lifeline after an event. Failure to
+consider all these aspects is illustrated by major water
+shortages in Anchorage, Alaska following a light ash fall
+from the 1992 Mount Spurr eruption. A vulnerability as-
+sessment of the water supply system and subsequent con-
+tingency planning had failed to anticipate increased water
+Page 12
+Daly and Johnston Journal of Applied Volcanology (2015) 4:7  Page 12 of 17
+Table 4 Volcanic ash-induced mitigation matrix (source: Daly and Wilkie, 1999)
+Structure Before the event  During ashfall event  After the event
+Pipework
+Open systems
+(ie stormwater) 
+Increase awareness of potential Monitor turbidity levels, where possible
+problems, develop contingency plans limit ash entering systems 
+Monitor turbidity levels, where possible limit
+ash entering systems, remove ash from pipes.
+Closed systems N/A  N/A  N/A
+Building structures Increase awareness of potential Close windows, doors and other openings
+problems, develop contingency plans 
+Initiate ash removal procedures immediately,
+prioritize efforts
+Building services
+Air-conditioning Increase awareness of potential Shut down and cover air-intakes, if still in
+problems, develop contingency plans use monitor filters and clean or replace
+when necessary 
+Initiate ash removal procedures immediately,
+prioritize efforts
+Gutters  Increase awareness of potential N/A
+problems, develop contingency plans 
+Remove ash to prevent loading damage
+Electricity services Increase awareness of potential
+problems, develop contingency plans
+Power lines  Cut back tree branches from above Monitor the situation carefully
+lines 
+Initiate ash removal procedures immediately,
+prioritize efforts
+Power line and
+substation insulators 
+Increase awareness of potential Monitor the situation carefully
+problems, develop contingency plans 
+Initiate ash removal procedures immediately,
+prioritize efforts
+Civil structures
+Roads and rail  Increase awareness of potential Monitor the situation carefully, limit
+problems, develop contingency plans vehicle use 
+Initiate ash removal procedures immediately,
+prioritize efforts, enhance vehicle
+maintenance.
+Wastewater Increase awareness of potential Warn public against disposing of ash
+problems, develop contingency plans in the stormwater system 
+Warn public of disposing of ash in the
+stormwater system.
+Sewage pumps Increase awareness of potential Monitor turbidity levels in the sewage and
+problems, develop contingency plans shut down if levels are high 
+Monitor turbidity levels in the sewage and
+shut down if levels are high.
+Sewage treatment plant Increase awareness of potential Monitor turbidity levels in the sewage and
+problems, develop contingency plans shut down if levels are high 
+Monitor turbidity levels in the sewage and
+shut down if levels are high.
+Water supply systems Increase awareness of potential Cover reservoir ventilators, disconnect roof
+problems, develop contingency plans fed supplies, monitor water quality 
+Initiate water supply management
+procedures, monitor water quality
+Telecommunications Increase awareness of potential
+problems, develop contingency plans
+Exchange equipment:
+External air-
+conditioning 
+Fit internal air-conditioning units Seal exchanges where possible, shut down if  Initiate ash removal procedures immediately,
+required, monitor the situation carefully prioritize efforts
+Microwave towers,
+other equipment 
+N/A  Monitor the situation carefully  Initiate ash removal procedures immediately,
+prioritize efforts
+Specific infrastructure
+Ports  Increase awareness of potential Shut down vulnerability equipment, monitor Initiate ash removal procedures immediately,
+problems, develop contingency plans the situation carefully  prioritize efforts
+Airports - Air transport Increase awareness of potential Close airspace, shut down airports
+problems, develop contingency plans 
+Initiate ash removal procedures immediately,
+prioritize efforts
+Page 13
+Daly and Johnston Journal of Applied Volcanology (2015) 4:7  Page 13 of 17
+Figure 7 Scenario hazard map for an event in Auckland’s central business district (source: Daly and Wilkie 1999).
+Page 14
+Daly and Johnston Journal of Applied Volcanology (2015) 4:7  Page 14 of 17
+Figure 8 Uniform hazard map of the Auckland Volcanic Field. (source: Daly and Wilkie 1999).
+Page 15
+Daly and Johnston Journal of Applied Volcanology (2015) 4:7  Page 15 of 17
+Figure 9 Example of a worksheet used to guide utilities through the damage, impact and recovery assessment process. Worksheets
+were filled in for node and network elements (separately) for each of the three scenario events (one local eruption and two distal eruptions – refer text
+for more information). (source: Daly and Wilkie 1999).
+usage following such an event and appropriate mea-
+sures were not taken once an ash fall warning was re-
+ceived (Johnston 1997b).
+Conclusions
+As well as identifying vulnerable elements and mitiga-
+tion measures for individual utilities, the A.E.L.P. meth-
+odology allowed the effect on the entire network system
+to be assessed by considering a specific eruption sce-
+nario (among other hazards).  The assessment focused
+on damage and the expected time taken to restore a cer-
+tain level of service. This information formed the foun-
+dation of a regional response by lifeline utilities to such
+an event, and can be further developed to include essen-
+tial non-utility services such as hospitals and emergency
+service centres. 
+The methodology used a mix of workshops and individ-
+ual lifeline analyses to collect the information required. It
+was time consuming and may have been able to have been
+automated. However, the increase understanding about
+the network as a system gained through a more interactive
+process cannot be understated. Similarly, the relationships
+built up between the lifeline utility organisations enabled
+more robust and coordinated response planning arrange-
+ments to be put in place.
+The A.E.L.P. methodology and supporting information
+was developed specifically for the lifeline utility sector, but
+in doing so provided the impetus for a refocused effort in
+understanding Auckland’s volcanic risk. The eruption sce-
+nario descriptions, lifeline utility network information,
+damage and mitigation tables have remained in current
+use up until relatively recently when new studies under-
+way are updating the information (e.g. AELP-2, 2014,
+Page 16
+Daly and Johnston Journal of Applied Volcanology (2015) 4:7  Page 16 of 17
+Dependence on for recovery
+Electricity  Gas  Fuel  Land 
+Comms 
+Cell 
+Comms 
+Broadcasting  Water  Sewage  Stormwater  Road  Rail  Ports  Airport 
+Base 
+Lifeline
+Electricity
+Gas
+Fuel
+Land Comms
+Cell Comms
+Broadcasting
+Water
+Sewage
+Stormwater
+Road
+Rail
+Ports
+Airport
+Total 
+354555
+1  54551
+5  1  4552
+415 304
+4054 2  1
+40543 2
+514355
+5133543
+2113554
+2154554
+4154553
+4154522
+4154555
+44  12  53  45  56  48  36 
+115222
+115222
+115222
+024014
+024014
+014014
+115211
+15111
+1  5111
+1  5  133
+155 2  1
+1452 1
+12512
+9  26  57  14  19  26
+High Priority lifelines for recovery
+Interdependence to be assessed against each lifeline item on a
+scale from 0- 5 (nil - high requirement for recovery)
+Figure 10 Interdependence recovery matrix for Auckland’s lifeline utilities after the scenario eruption. (source: Daly and Wilkie 1999).
+DEVORA, 2014).  The damage zones developed formed
+the basis of evacuation planning for the region (Auckland
+Regional Council 2002) and the damage tables became the
+foundation for more quantitative fragility function re-
+search (e.g. Wilson et al., 2009; Wardman et al., 2012;
+Wilson et al., 2012; Wilson et al. 2014a) and informa-
+tion for lifelines on how to manage ash before, during
+and after ash fall (Wilson et al. 2014b).
+The benefit to the many lifelines of participation in the A.
+E.L.P led to the establishment in 2000 of the Auckland
+Engineering Lifelines Group (A.E.L.G.) (renamed the
+Auckland Lifelines Group 2014) which is continuing
+work to reduce the vulnerability of Auckland’s lifeline
+utility network to various natural hazard events.
+The approach taken to develop the damage levels and
+time taken to restore levels of service after a large event
+may be useful for other cities around the world as in-
+creased emphasis is placed on reducing the vulnerability
+of their cities’ infrastructure.
+Competing interests
+Both authors declare that they have no competing interests.
+Authors’ contributions
+DJ developed the commissioned volcanic hazard analysis for the Auckland
+Volcanic Field for the A.E.L.P. and developed the damage, probability and
+mitigation tables in the paper. MD initiated and project managed the A.E.L.P. 
+project. MD also led the development of the overall methodology for the A.
+E.L.P. including the hazard assessments, flowcharts and the worksheet. MD
+facilitated the workshops referred to in the paper which generated the
+interdependency data. All authors read and approved the final manuscript.
+Authors’ information
+Michele Daly is a disaster risk management specialist at GNS Science in Lower
+Hutt, New Zealand. She currently leads a team of 20 social science, hazard,
+engineering and risk researchers at GNS Science who focus on practical
+strategies for reducing risk.
+Dr. (Professor) David Johnston is Director of the Joint Centre for Disaster
+Research, a joint Massey University and GNS Science initiative focussed on
+graduate teaching and disaster research. Professor Johnston is currently Chair of
+the International Science Advisory Board (IAB) of the Integrated Research on
+Disaster Risk Scientific Committee (IRDR) Programme and an Honorary Professor
+at University College London.
+Acknowledgements
+We wish to thank Bianca Jensen (Massey University) and Maureen Coomer
+(GNS Science) for assistance with the tables and figures in this paper. The A.
+E.L.P. project was supported by the Auckland Regional Council and the many
+lifeline utilities of the Auckland Region. We would like to acknowledge the
+effort and commitment of these organisations to reducing risk in Auckland.
+Received: 30 June 2014 Accepted: 3 February 2015
+References
+Auckland Council (2013) Auckland Volcanic Field Contingency Plan, April 2013. 54p.
+Auckland Lifelines Group (2014) Auckland Engineering Lifelines Project - Stage 2,
+v1.1., February 2014 [accessed 28 June 2014, www.aelg.org.nz)
+Auckland Regional Council (2002) Contingency Plan for the Auckland Volcanic
+Field. Technical Publication No. 165, January 2002. 74p
+Page 17
+Daly and Johnston Journal of Applied Volcanology (2015) 4:7  Page 17 of 17
+Blong RJ (1984) Volcanic Hazards: A sourcebook on the effects of eruptions.
+Academic Press, Australia, p 424
+Centre for Advanced Engineering (1997) Risks & Realities: Vulnerability of Lifelines
+to Natural Hazards. Centre for Advanced Engineering, Canterbury University,
+New Zealand, p 350
+Daly M, Wilkie D (1997) Auckland Engineering Lifelines Project Stage One Report:
+Part 1 (Hazard Information) and Part 2 (Network Utility Information).
+Auckland Regional Council, Technical Publication No.116, July. 1997, New
+Zealand, ISSN 1172 6415
+Daly M, Wilkie D (1999) Auckland Engineering Lifelines Project Stage One Final
+Report. Auckland Regional Council, Technical Publication No.112, Nov. 1999,
+New Zealand, ISSN 1172 6415
+DEVORA (2014) Determining Volcanic Risk in Auckland. [URL: "http://www.naturalhazards.org.nz/NHRP/Hazard-themes/Geological-Hazards/Volcano/DEVORA-Determining-Volcanic-Risk-in-Auckland"] http://www.naturalhazards.
+ org.nz/NHRP/Hazard-themes/Geological-Hazards/Volcano/DEVORA-
+ Determining-Volcanic-Risk-in-Auckland (as at June 2014)
+Hopkins DC, Lumsden JL, Norton JA (1993) Lifelines in earthquakes: a case study
+based on Wellington. Bulletin of the New Zealand National Society for
+Earthquake Engineering 26(2):208–221
+Johnston DM (1997a) The physical and social impacts of past and future volcanic
+eruptions in New Zealand. Unpublished Ph.D. thesis, Massey University,
+Palmerston North, New Zealand
+Johnston, DM (1997b) The impact of recent falls of volcanic ash on public
+utilities in two communities in the United States of America. Institute of
+Geological & Nuclear Sciences science report 97/5. 21 p
+Johnston DM, Alloway BV, Smith IEM (1997a) Auckland Volcanic Impact
+Assessment - Distant Eruption Scenarios. Auckland Engineering Lifelines
+Project - Stage One Report, p. 171–192
+Johnston DM, Nairn IA, Thordarson T, Daly M (1997b) Volcanic Impacts
+Assessment for the Auckland Volcanic Field. ARC Environment Division,
+Technical Publication Number 79
+Lindsay JM, Leonard GS, Smid ER, Hayward B (2011) Age of the Auckland
+Volcanic Field: A review of existing data. New Zealand Journal of Geology
+and Geophysics 54(4):379–401, doi: 10.1080/00288306.2011.595805
+Magill C (2002) Ashes to Ashes - Volcanic Risk in Auckland. Risk Frontiers Seminar
+Series 2(1):2, September 2002
+Sandri L, Jolly G, Lindsay J, Howe T, Marzocchi W (2012) Combining long- and
+short-term probabilistic volcanic hazard assessment with cost-benefit analysis
+to support decision making in a volcanic crisis from the Auckland Volcanic
+Field, New Zealand. Bulletin of Volcanology 74(3):705–723
+Smith IEM, Allen SR (1993) Volcanic hazards at the Auckland Volcanic Field, vol 5.
+Ministry of Civil Defence Volcanic Hazards Information, New Zealand, p 34
+Wardman JB, Wilson TM, Bodger PS, Cole JW, Johnston DM (2012) Investigating
+the electrical conductivity of volcanic ash and its effect on HV power
+systems. Physics and Chemistry of the Earth, Parts A/B/C 45–46:128–145
+Wilkie D, Daly MC (1998) Auckland Engineering Lifelines Project: assessing seismic
+risk. In: New Zealand National Society for Earthquake Engineering Technical
+Conference and AGM, Wairakei Resort, Taupo, Friday/Sunday 27–29 March
+1998. New Zealand National Society for Earthquake Engineering, Lower Hutt,
+pp 130–136
+Wilson CJN, Houghton BF, McWilliams MO, Lanphere MA, Weaver SD, Briggs RM
+(1995) Volcanic and structural evolution of Taupo Volcanic Zone, New
+Zealand: a review. Journal of Volcanology and Geothermal Research 68:1–28
+Wilson TM, Daly M, Johnston D (2009) Review of Impacts of Volcanic Ash on
+Electricity Distribution Systems, Broadcasting and Communication Networks.
+Auckland Regional Council Technical Report No. 51, April 2009
+Wilson TM, Stewart C, Sword-Daniels V, Leonard GS, Johnston DM, Cole JW,
+Wardman J, Wilson G, Barnard ST (2012) Volcanic ash impacts on critical
+infrastructure. Physics and Chemistry of the Earth, Parts A/B/C 45–46:5–23
+Wilson G, Wilson TM, Deligne NI, Cole JC (2014a) Volcanic hazard impacts to
+critical infrastructure: A review. Journal of Volcanology and Geothermal
+Research 286:148–182
+Wilson TM, Stewart C, Wardman JB, Wilson G, Johnston DM, Hill D, Hampton SJ,
+Villemure M, McBride S, Leonard GS, Daly MC, Delinge NI, and Roberts L (2014b)
+Volcanic ashfall preparedness poster series: a collaborative process for reducing
+the vulnerability of critical infrastructure. J Appl Volcanology 3(1): 1-25 
+Submit your manuscript to a
+journal and beneﬁ t from:
+7 Convenient online submission
+7 Rigorous peer review
+7 Immediate publication on acceptance
+7 Open access: articles freely available online
+7 High visibility within the ﬁeld
+7 Retaining the copyright to your article
+Submit your next manuscript at 7 springeropen.com

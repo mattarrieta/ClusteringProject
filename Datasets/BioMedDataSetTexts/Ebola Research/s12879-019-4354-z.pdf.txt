@@ -1,0 +1,1385 @@
+Creator: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+Producer: Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+Title: Use of a mobile application for Ebola contact tracing and monitoring in northern Sierra Leone: a proof-of-concept study
+Keywords: Ebola,Contact tracing,Sierra Leone,mHealth
+ModDate: 2019/09/18 11:04:46+02'00'
+Subject: BMC Infectious Diseases, 2019, doi:10.1186/s12879-019-4354-z
+Author: Lisa O. Danquah
+CreationDate: 2019/09/10 15:50:34+08'00'
+xmp:pdf:Keywords: Ebola,Contact tracing,Sierra Leone,mHealth
+xmp:pdf:Producer: Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+xmp:dc:format: application/pdf
+xmp:dc:identifier: 10.1186/s12879-019-4354-z
+xmp:dc:publisher: BMC Infectious Diseases
+xmp:dc:description: BMC Infectious Diseases, 2019, doi:10.1186/s12879-019-4354-z
+xmp:dc:subject: Ebola; Contact tracing; Sierra Leone; mHealth
+xmp:dc:title: Use of a mobile application for Ebola contact tracing and monitoring in northern Sierra Leone: a proof-of-concept study
+xmp:dc:creator: Lisa O. Danquah; Nadia Hasham; Matthew MacFarlane; Fatu E. Conteh; Fatoma Momoh; Andrew A. Tedesco; Amara Jambai; David A. Ross; Helen A. Weiss
+xmp:xmp:MetadataDate: 2019-09-18T11:04:46+02:00
+xmp:xmp:CreateDate: 2019-09-10T15:50:34+08:00
+xmp:xmp:CreatorTool: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+xmp:xmp:ModifyDate: 2019-09-18T11:04:46+02:00
+xmp:xmpMM:DocumentID: uuid:c82f24b5-6a45-4163-aaaf-9b8cfaa3a43b
+xmp:xmpMM:InstanceID: uuid:b4d87345-9e18-420f-98ab-3f133f4f77e7
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:65570165-231d-4bb0-9c01-ebf2e957235e
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2019-09-10T15:55:59+08:00
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:author:name: Lisa O. Danquah
+xmp:author:orcid: http://orcid.org/0000-0002-3204-6615
+xmp:pdfaSchema:schema: Springer Nature ORCID Schema
+xmp:pdfaSchema:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/
+xmp:pdfaSchema:prefix: sn
+xmp:pdfaProperty:name: authorInfo
+xmp:pdfaProperty:valueType: Bag AuthorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Author information: contains the name of each author and his/her ORCID (ORCiD: Open Researcher and Contributor ID). An ORCID is a persistent identifier (a non-proprietary alphanumeric code) to uniquely identify scientific and other academic authors.
+xmp:pdfaProperty:name: editorInfo
+xmp:pdfaProperty:valueType: Bag EditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Editor information: contains the name of each editor and his/her ORCID identifier.
+xmp:pdfaProperty:name: seriesEditorInfo
+xmp:pdfaProperty:valueType: Bag SeriesEditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Series editor information: contains the name of each series editor and his/her ORCID identifier.
+xmp:pdfaType:type: AuthorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/authorInfo/
+xmp:pdfaType:prefix: author
+xmp:pdfaType:description: Specifies the types of author information: name and ORCID of an author.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an author.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an author.
+xmp:pdfaType:type: EditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/editorInfo/
+xmp:pdfaType:prefix: editor
+xmp:pdfaType:description: Specifies the types of editor information: name and ORCID of an editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an editor.
+xmp:pdfaType:type: SeriesEditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/seriesEditorInfo/
+xmp:pdfaType:prefix: seriesEditor
+xmp:pdfaType:description: Specifies the types of series editor information: name and ORCID of a series editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of a series editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of a series editor.
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdf/1.3/
+xmp:pdfaSchema:prefix: pdf
+xmp:pdfaSchema:schema: Adobe PDF Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A name object indicating whether the document has been modified to include trapping information
+xmp:pdfaProperty:name: Trapped
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/mm/
+xmp:pdfaSchema:prefix: xmpMM
+xmp:pdfaSchema:schema: XMP Media Management Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: UUID based identifier for specific incarnation of a document
+xmp:pdfaProperty:name: InstanceID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: The common identifier for all versions and renditions of a document.
+xmp:pdfaProperty:name: OriginalDocumentID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A reference to the original document from which this one is derived. It is a minimal reference; missing components can be assumed to be unchanged. For example, a new version might only need to specify the instance ID and version number of the previous version, or a rendition might only need to specify the instance ID and rendition class of the original.
+xmp:pdfaProperty:name: DerivedFrom
+xmp:pdfaProperty:valueType: ResourceRef
+xmp:pdfaType:description: Identifies a portion of a document. This can be a position at which the document has been changed since the most recent event history (stEvt:changed). For a resource within an xmpMM:Ingredients list, the ResourceRef uses this type to identify both the portion of the containing document that refers to the resource, and the portion of the referenced resource that is referenced.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Part#
+xmp:pdfaType:prefix: stPart
+xmp:pdfaType:type: Part
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/t/pg/
+xmp:pdfaSchema:prefix: xmpTPg
+xmp:pdfaSchema:schema: XMP Paged-Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A structure containing the characteristics of a font used in a document
+xmp:pdfaProperty:name: Fonts
+xmp:pdfaProperty:valueType: Bag Font
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: XMP08 Spec: An ordered array of plate names that are needed to print the document (including any in contained documents).
+xmp:pdfaProperty:name: PlateNames
+xmp:pdfaProperty:valueType: Seq Text
+xmp:pdfaType:description: A structure containing the characteristics of a font used in a document.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Font#
+xmp:pdfaType:prefix: stFnt
+xmp:pdfaType:type: Font
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdfx/1.3/
+xmp:pdfaSchema:prefix: pdfx
+xmp:pdfaSchema:schema: PDF/X ID Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: ID of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXVersion
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Conformance level of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXConformance
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Company creating the PDF
+xmp:pdfaProperty:name: Company
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Date when document was last modified
+xmp:pdfaProperty:name: SourceModified
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://www.aiim.org/pdfa/ns/id/
+xmp:pdfaSchema:prefix: pdfaid
+xmp:pdfaSchema:schema: PDF/A ID Schema
+xmp:pdfaProperty:category: iBOOKMARKS:
+Abstract
+  Background
+  Methods
+  Results
+  Conclusion
+Background
+  mHealth approaches for epidemic investigations
+  Evaluating mHealth interventions
+    Objective
+Methods
+  Setting and participants
+  Recruitment and informed consent
+  Study definition - Ebola contact
+  Original study design
+  Modified study design
+  Qualitative methods
+  Development and testing of the Ebola contact tracing (ECT) app
+  Phased introduction of the ECT app
+  Study training
+  Data analysis
+  Ethics
+Results
+  Ebola cases
+  Contacts of Ebola cases
+  Standard paper-based system for contact tracing
+  Influence of training on paper-based contact tracing
+  App-based reporting for contact tracing
+  Qualitative results
+Discussion
+  Strengths and limitations of the ECT app-based system
+  Strengths and limitations of the paper-based system
+  Recommendations to improve contact tracing
+Conclusion
+Additional files
+Abbreviations
+Acknowledgments
+Authors’ contributions
+Funding
+Availability of data and materials
+Ethics approval and consent to participate
+Consent for publication
+Competing interests
+Author details
+References
+Publisher’s Note
+Page 1
+Danquah et al. BMC Infectious Diseases (2019) 19:810
+https://doi.org/10.1186/s12879-019-4354-z
+RESEARCH ARTICLE  Open Access
+Use of a mobile application for Ebola
+contact tracing and monitoring in northern
+Sierra Leone: a proof-of-concept study
+Lisa O. Danquah1,2* [URL: "http://orcid.org/0000-0002-3204-6615"] , Nadia Hasham2,3, Matthew MacFarlane3, Fatu E. Conteh3, Fatoma Momoh3,
+Andrew A. Tedesco3, Amara Jambai4, David A. Ross2† and Helen A. Weiss2†
+Abstract
+Background: The 2014–2016 Ebola epidemic in West Africa was the largest Ebola epidemic to date. Contact
+tracing was a core surveillance activity. Challenges with paper-based contact tracing systems include incomplete
+identification of contacts, delays in communication and response, loss of contact lists, inadequate data collection
+and transcription errors.
+The aim of this study was to design and evaluate an electronic system for tracing contacts of Ebola cases in Port
+Loko District, Sierra Leone, and to compare this with the existing paper-based system. The electronic system
+featured data capture using a smartphone application, linked to an alert system to notify the District Ebola
+Response Centre of symptomatic contacts.
+Methods: The intervention was a customised three-tier smartphone application developed using Dimagi’s
+CommCare platform known as the Ebola Contact Tracing application (ECT app). Eligible study participants were all
+26 Contact Tracing Coordinators (CTCs) and 86 Contact Tracers (CTs) working in the 11 Chiefdoms of Port Loko
+District during the study period (April–August 2015). Case detection was from 13th April to 17th July 2015. The
+CTCs and their CTs were provided with smartphones installed with the ECT app which was used to conduct
+contact tracing activities. Completeness and timeliness of contact tracing using the app were compared with data
+from April 13th-June 7th 2015, when the standard paper-based system was used.
+Results: For 25 laboratory-confirmed cases for whom paper-based contact tracing was conducted, data for only 39%
+of 408 contacts were returned to the District, and data were often incomplete. For 16 cases for whom app-based
+contact tracing was conducted, 63% of 556 contacts were recorded as having been visited on the app, and the
+median recorded duration from case confirmation to first contact visit was 70 h.
+Conclusion: There were considerable challenges to conducting high-quality contact tracing in this setting using either
+the paper-based or the app-based system. However, the study demonstrated that it was possible to implement mobile
+health (mHealth) in this emergency setting. The app had the benefits of improved data completeness, storage and
+accuracy, but the challenges of using an app in this setting and epidemic context were substantial.
+Keywords: Ebola, Contact tracing, Sierra Leone, mHealth
+* Correspondence: [URL: "mailto:l.danquah@imperial.ac.uk"] l.danquah@imperial.ac.uk; [URL: "mailto:lodanquah@gmail.com"] lodanquah@gmail.com
+†David A. Ross and Helen A. Weiss were co-principal investigators and are
+joint senior authors.
+1School of Public Health, Faculty of Medicine, Imperial College London,
+London, UK
+2MRC Tropical Epidemiology Group, Faculty of Epidemiology and Population
+Health, London School of Hygiene & Tropical Medicine, London, UK
+Full list of author information is available at the end of the article
+© The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License ([URL: "http://creativecommons.org/licenses/by/4.0/"] http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Page 2
+Danquah et al. BMC Infectious Diseases (2019) 19:810  Page 2 of 12
+Background
+The 2014–2016 Ebola virus disease (EVD) (Ebola) epi-
+demic in Liberia, Guinea and Sierra Leone resulted in
+over 28,000 reported cases and over 11,000 deaths [1].
+Sierra Leone was the most severely affected country,
+with 8706 laboratory confirmed cases and 3956 deaths
+[1].  During the epidemic, surveillance goals were to
+detect Ebola cases promptly to provide an effective re-
+sponse including rapid diagnosis, case isolation and
+management, contact tracing, safe burials, and identifi-
+cation of transmission chains [2, 3]. Contact tracing for
+Ebola is defined as the identification and follow-up over
+21 days of individuals who have been in contact with a
+person confirmed to have been infected with Ebola [2].
+Previous epidemics have been controlled through
+contact tracing and isolation, which limits onward
+transmission [4].
+Contact tracing was a core surveillance activity in the
+2014–2016 epidemic [5, 6].  Ebola contact tracing opera-
+tions used paper-based systems supplemented by phone
+calls and Short Message Service (SMS). Challenges identi-
+fied in previous epidemics include incomplete identification
+of contacts and inefficiencies in paper-based reporting
+systems, including missing contact lists, inadequate data
+collection and training, transcription errors and delays in
+steps from identification of contacts to isolation of sus-
+pected cases among those contacts [2, 5, 7–10].
+The national system for contact tracing in Sierra
+Leone during the 2014–2016 Ebola epidemic was that,
+after the initial alert of a suspected or probable case, a
+case investigation team (CIT) investigated to deter-
+mine whether the person was a suspected or probable
+Ebola case. If the case definition was met, the CIT
+conducted an initial line listing of contacts of the case.
+The case (suspected or probable) was then escorted to
+an Ebola Treatment Centre (ETC) or holding centre.
+If laboratory-confirmed as EVD, contact tracing was
+initiated, using a paper Daily Reporting Form (DRF).
+Challenges specific to contact tracing during the
+2014–2016 Ebola epidemic included insufficient
+trained staff, community resistance to report Ebola
+cases and contacts and mistrust of contact tracers,
+limited telephone and internet connection, difficulties
+in reaching remote areas and the high number of
+Ebola cases that occurred within a short period [5, 9].
+Due to these challenges, we established a study to as-
+sess the ability of an mHealth app to improve contact
+tracing through using mobile phones.
+mHealth approaches for epidemic investigations
+Use of mobile devices to support medical and public
+health practice (mHealth) can improve health outcomes
+in low-income settings [11–14], due to the low cost of
+roll-out, mobility of devices, ease of use and flexible 
+deployment compared with other methods e.g. com-
+puters. mHealth applications have the potential to reach
+rural populations with low levels of income and literacy,
+and to reduce time to collect data, distance travelled to
+collect and return information and the cost of informa-
+tion delivery [11, 12, 15, 16]. mHealth applications have
+been used for epidemic tracking of tuberculosis (TB)
+and Japanese encephalitis, but few mHealth applications
+have been designed and evaluated for contact tracing.
+One app designed for contact tracing for TB in
+Botswana reduced the median time required to complete
+the TB contact tracing form and improved data quality
+compared to paper-based contact tracing [17]. However,
+the full potential of mHealth in addressing disease epi-
+demics is largely unexplored.
+During the 2014–2016 Ebola epidemic, several mHealth
+interventions were developed to improve patient care,
+health worker safety, public awareness, surveillance and
+vaccine monitoring [18–26]. Studies have reported on the
+use of mobile phones for community event-based surveil-
+lance through reporting of sick community members with
+symptoms suggestive of Ebola to community and district
+monitors through audio phone calls and SMS messages to
+support surveillance initiatives [20, 27].  One of the few
+apps for Ebola contact tracing was developed by the Earth
+Institute at Columbia University. This consisted of a
+smartphone application developed using the CommCare
+application for collecting and analysing contact tracing
+data in Guinea [10]. The system demonstrated the poten-
+tial to improve data access and improve the quality of
+surveillance data.
+Evaluating mHealth interventions
+Most studies of mHealth applications are small-scale or
+pilot implementation studies, with few rigorously de-
+signed evaluation studies [28–30].  This is likely due to
+inherent challenges in introducing technologies in com-
+plex emergencies, including the feasibility of implement-
+ing technology during an ongoing epidemic [10] .
+Objective
+Our hypothesis was that the mHealth system would be
+more effective for contact tracing than the standard
+paper-based system. The original aims were to i)
+evaluate the feasibility of introducing a smartphone-
+based electronic data-capture and management system,
+through the development of a smartphone app for
+Ebola contact tracing and monitoring in Port Loko
+District, Sierra Leone, and ii) compare the effectiveness
+of the app with the standard paper-based system of
+contact tracing through a cluster randomised trial. The
+objectives were to i) assess the time between a new
+Ebola case being laboratory-confirmed and their house-
+hold contacts first being visited by a contact tracer, and
+Page 3
+Danquah et al. BMC Infectious Diseases (2019) 19:810  Page 3 of 12
+ii) evaluate the operational requirements needed to
+introduce effective mobile-based contact tracing and
+monitoring in Sierra Leone.
+Due to the decline in Ebola cases in Port Loko District
+during the first 6 months of 2015, the study design was
+changed on the June 8, 2015 to a proof-of-concept
+(demonstration) project. The study aim was revised to
+describe the feasibility and effectiveness of an electronic
+data capture and management system to improve moni-
+toring of contacts of confirmed Ebola cases, and to pro-
+vide guidance on how best to implement the system.
+The objectives remained unchanged.
+The objective of this manuscript is to describe the re-
+sults of this proof-of-concept study to assess the feasibil-
+ity and effectiveness of implementing the electronic data
+capature and management system for contact tracing
+through comparison with the standard paper-based sys-
+tem for contact tracing.
+Methods
+Setting and participants
+The study was conducted in Port Loko District, northern
+Sierra Leone, and was a collaboration between the London
+School of Hygiene & Tropical Medicine (LSHTM),
+Innovations for Poverty Action (IPA) and International
+Medical Corps (IMC), working closely with the District and
+National Ebola Response Teams. In Port Loko District, the
+overall technical supervision of surveillance and contact
+tracing activities was managed by the World Health
+Organization (WHO). The lead agency for the management
+and supervision of surveillance activities including contact
+tracing activities was Marie Stopes International until the
+end of March 2015, and was taken over by GOAL Global
+on April 1st 2015. UNFPA were responsible for the man-
+agement and supervision of contact tracers.
+Eligible study participants were all 26 Contact Tracing
+Coordinators (CTCs) and 86 Contact Tracers (CTs) op-
+erating in the District during the study period (April 13
+to August 31, 2015). The list of eligible CTCs and CTs
+was obtained from partners responsible for contact tra-
+cing activities in the District. 
+physical contact with an Ebola case (alive or dead) or the
+body fluids of an Ebola case within the last three weeks.
+Physical contact included sharing the same room/bed,
+caring for a patient, touching body fluids, or closely partici-
+pating in a burial [31]. An Ebola contact was defined as a
+listed1 contact of a laboratory-confirmed Ebola case in Port
+Loko District diagnosed during the study period.
+The line listing of Ebola contacts was undertaken
+using the Ministry of Health and Sanitation, Ebola
+Virus Disease Contact Line Listing form. This was done
+by the CIT and involved asking household members of
+the Ebola case to report on the individuals that the
+Ebola case had come into contact with that met the
+definition used by the Sierra Leone National Emergency
+Response Centre. Data on each person who had contact
+with the Ebola case (Ebola contacts) was collected,
+including their name, demographic and location infor-
+mation, date of last contact with the Ebola case, type of
+contact, head of household and contact details. The ini-
+tial line list was then updated once the suspected or
+probable Ebola case was confirmed by the laboratory.
+Once the Ebola case was confirmed, contact tracing of
+the line listed contacts started.
+Original study design
+The original design was a two-arm cluster-randomised trial
+to be conducted in all 11 Chiefdoms of Port Loko District.
+The Chiefdoms were randomised in a 5:6 allocation ratio to
+receive one of the following: i) Control arm: standard
+paper-based contact tracing system, involving CTCs operat-
+ing at Chiefdom level within the District, together with a
+team of CTs based in villages throughout the Chiefdom
+using a paper-based system supplemented by ad-hoc phone
+calls and SMS messaging for contact tracing of contacts of
+confirmed Ebola cases ii) Intervention arm: the CTCs and
+their CTs were provided with smartphones installed with
+the Ebola Contact Tracing (ECT) app (Fig. 1). CTCs and
+CTs were trained and supported to use this system. The
+trial started on April 13, 2015, with the intervention intro-
+duced in 6 randomly selected Chiefdoms and ongoing
+paper-based data collection in the remaining 5 Chiefdoms.
+Recruitment and informed consent
+Written informed consent was obtained from eligible
+CTCs and CTs who consented to take part in the study.
+Consent was not required from individual Ebola contacts
+as the smartphone app mirrored the existing paper-
+based system. The only additional information collected
+was to record the time of the first contact tracing visit.
+Study definition - Ebola contact
+The study definition of an Ebola contact was that used by
+the Sierra Leone National Emergency Response Centre, i.e.
+a person without any disease signs and symptoms who had 
+Modified study design
+Due to the small number of Ebola cases, the design was
+changed on June 8, 2015 to a proof-of-concept study in
+order to introduce the app to all 11 Chiefdoms in the
+District. This decision was taken to maximise the data
+collected using the app given the small number of new
+Ebola cases and that these had occurred within a short
+period of time. Following the recommendation of local
+WHO staff, the paper-based system for contact tracing
+1A listed contact is a contact who was line listed by the case
+investigation team
+Page 4
+Danquah et al. BMC Infectious Diseases (2019) 19:810  Page 4 of 12
+Fig. 1 Design of the Ebola Contact Tracing smartphone app study. Key. * The surveillance team goes back to the house of the suspected case to
+obtain an updated list of contacts following laboratory confirmation. ** District Health Management Team. # Viral Hemorrhagic Fever. † Contact
+Tracing Coordinators visit the DHMT six days a week (Monday to Saturday). $ Ebola Contact Tracing
+continued to be used alongside the ECT app as it was
+the standard national system and was considered essen-
+tial for surveillance. The date and time of the Ebola
+confirmation for all cases was from the Public Health
+England (PHE) laboratory in Port Loko District.
+Qualitative methods
+Qualitative methods formed part of a process evalu-
+ation to evaluate the intervention. This included semi-
+structured interviews and focus group discussions
+(FGDs) with district-level data entry and management
+staff, CTCs and CTs on their use of mobile technology
+prior to the study, use of the smartphone app for
+contact tracing, training and ideas for improvements
+to the app. Semi-structured interview schedules and a
+topic guide were developed that addressed key areas in
+relation to the study objectives, study operation, im-
+plementation and delivery. The semi-structured 
+interviews and focus group discussions were con-
+ducted in either English or Krio and were audio
+recorded.
+Development and testing of the Ebola contact tracing
+(ECT) app
+The intervention (“ECT app”) was a customised three-
+tier smartphone application developed using Dimagi’s
+CommCare platform [32],  an open-source mobile
+platform for electronic data capture and case manage-
+ment. It was developed from February–April 2015 by a
+developer in the USA (SQ) working with the study
+team. The primary reasons for using CommCare were
+i) its case management feature, which enables informa-
+tion for an index Ebola case to be linked to multiple
+contacts per case; and ii) the ability to share data on
+the Ebola cases and their contacts between multiple
+users (e.g. CTCs, CTs and the study team).  The app
+Page 5
+Danquah et al. BMC Infectious Diseases (2019) 19:810  Page 5 of 12
+was pre- and pilot tested, and refined iteratively before
+deployment in mid-April 2015. Due to the timeline,
+app structure and feasibility of making technical
+changes, not all required changes could be made to the
+app, however, mitigating action was taken to overcome
+these issues (Additional file 1: Table S1).  The
+smartphones were second-hand Android phones (4G
+HTC MyTouch) donated by the UN Mission for Ebola
+Emergency Response (UNMEER).
+The app was developed following an assessment of the
+structure of the contact tracing system in the District, and
+discussions with national and local stakeholders including
+the National Emergency Response Centre Surveillance
+Pillar, the WHO Country Office, the Port Loko District
+Health Management Team (DHMT),  stakeholders from
+the DERC, District Council, US Centers for Disease
+Control, WHO (Port Loko),  Marie Stopes International,
+UNFPA and GOAL Global (Additional file 2). 
+the duration from laboratory confirmation of an Ebola
+case to time of first visit to any one of their contacts
+monitored using the app or paper, and the median dur-
+ation of each step of the chain (confirmation of Ebola
+case to Ebola case registration, to Ebola contact assign-
+ment by CTCs using the app, to first visit by the CT;
+Table 1).  Results were summarised by case, and also
+over all the contacts to give equal weight to each con-
+tact, as the number of contacts per case varied
+substantially.
+Qualitative data were translated and transcribed into
+English. All data were anonymised and any identifying
+information was removed prior to the analysis. The data
+was then analysed using thematic analysis to identify,
+analyse and report patterns (themes) from the data using
+NVivo software [33].  A six-step approach was under-
+taken for the thematic analysis as described by Braun
+and Clarke (2006) [33].
+Phased introduction of the ECT app
+A phased introduction of the intervention (the ECT app)
+was formally approved by the Sierra Leone Ministry of
+Health and Sanitation and the WHO (Freetown national
+office) on February 9, 2015. This involved pilot testing
+the intervention in one ‘low risk’  Chiefdom (with no
+confirmed Ebola cases within the previous 21 days) from
+March 5–10, comprising a 2-day training workshop and
+a 4-day simulation exercise. Following feedback and revi-
+sions to the app, a second pilot test was conducted from
+March 16–18. The results were presented to stake-
+holders, and authorisation was granted to phase in the
+intervention.
+Study training
+The main study training was on April 14–24, 2015 for
+all 26 CTCs from the 11 Chiefdoms. This included an
+initial half-day of training on the study design and use of
+the paper DRF for contact tracing. Those in the inter-
+vention arm Chiefdoms had a further 2.5 days training
+after the initial training on use of the smartphone and
+ECT app. This training was prior to the modified design
+of a proof-of-concept study. Training for CTCs from the
+control arm Chiefdoms subsequently included in the
+proof-of-concept study took place from June 9–20. Prior
+to this training, the paper-based system was the sole
+contact tracing system in the control Chiefdoms. 
+Ethics
+Ethics approval was received from The London School of
+Hygiene & Tropical Medicine Observational/Interventions
+Research Ethics Committee (reference 8749–01) and the
+Sierra Leone Ethics and Scientific Review Committee
+(SLESRC). The study received clearance and support from
+the Republic of Sierra Leone Ministry of Health and Sani-
+tation, and the National Ebola Response Centre Surveil-
+lance Pillar (responsible for Ebola contact tracing and
+monitoring activities nationally).
+Results
+Ebola cases
+Of the 43 EVD cases identified during the study period, the
+contacts of 25 were monitored only using the standard
+paper-based system for contact tracing (“paper-based
+cases”).  Contacts of the remaining 18 cases were also
+monitored on the ECT app (“app-based cases”). The cases
+were confirmed between the 13th April and 17th July 2015.
+The median age of paper-based and app-based cases was
+26 years (interquartile range (IQR) 20–44) and 29 years
+(IQR 18–40), respectively (Table 2). Approximately half the
+cases were female (60% for the paper-based cases and 50%
+for the app-based cases; p = 0.52). All but one of the paper-
+based cases were from one Chiefdom. The 18 app-based
+cases were distributed across 5 Chiefdoms (Table 2).
+Data analysis
+The data collected via the app was stored on a central
+server on CommCareHQ and exported into Excel and
+checked before being transferred to Stata version 14 for
+data management. Data from the paper-based DRFs
+were entered into Excel, and exported to Stata for data
+management. Descriptive analyses were used to estimate 
+Contacts of Ebola cases
+A total of 408 contacts were identified for the 25 paper-
+based cases (“paper-based contacts”) (average 16 per
+case),  and 646 contacts for the 18 app-based cases
+(“app-based contacts”) (average 36 per case).  The age
+and sex distribution of contacts were similar by type of
+case (Table 2).
+Page 6
+Danquah et al. BMC Infectious Diseases (2019) 19:810  Page 6 of 12
+Table 1 Features and functionality of the Ebola Contact Tracing (ECT) App
+ECT Module  Purpose  System features and advantages over paper-based system
+Registration by Data Co-
+ordinator at District level 
+Registration of data for confirmed Ebola case and all
+listed contacts 
+• Built-in validation features (improves data accuracy e.g.
+unique ID, number of digits for phone numbers and
+mandatory fields e.g. age, sex)
+• Skip logic and mandatory data entry ensures only relevant
+questions are answered
+• Automatic repeat information features (e.g. same address
+details of case and contacts) reduces time
+• Additional contacts feature (ease of adding additional
+contacts to app saves time
+• Password-secured (ensures confidentiality of Ebola cases and
+contacts)
+• District level monitoring (improve monitoring at district
+level)
+Contact assignment by
+Contact Tracing Co-ordinator
+at Chiefdom level 
+Assignment of listed contacts by CTC to a particular
+Contact Tracer (CT) in a Chiefdom
+(CTC is geographically mobile and can assign from
+anywhere where there is an active data connection) 
+• Real-time data transmission to CT (reduces interval before
+contact monitoring)
+• Limited contact information view (View only contacts for a
+specific Chiefdom improves confidentiality and accuracy
+• Named CT assignment feature (reduces chances of
+assignment error)
+• Reassignment feature (enables contacts to be easily re-
+assigned if misassigned)
+• Pre-loaded contact information (minimises errors as no
+further data entry required)
+• Swipe system for contact assignment (minimises reliance on
+typing/ reduce data entry error)
+• Multiple contact assignment feature (enables contacts to be
+assigned to one or more CTs)
+Visitation by Contact Tracer
+(CT) at community level 
+To enable the CT to monitor the listed contacts
+assigned to them for a 21 day period or until the
+contact becomes symptomatic 
+• Real-time information transmission (reduces time-lag for the
+start of contact monitoring)
+• Pre-loaded information on assigned contacts received
+(eliminates data re-entry/reduces data entry errors)
+• Automatic GPS location tracker (enables monitoring of
+where data entry on the app took place)
+• Automatic date and time capture (enables monitoring of CT
+performance and reduces data misreporting)
+• Offline data entry (mobile platform permits offline data entry
+– contact monitoring can be entered offline/reduces
+reliance on good network coverage)
+• Repeat visits information can be entered (repeat contact visit
+information can be entered and automatically uploaded
+with immediate data storage once synced)
+• Password secured data (ensures confidentiality and data
+security)
+• Additional data feature (e.g. on food availability) can be sent
+to the district for improved care and coordination.
+Telerivet Alert Line  To alert the district Ebola Response Centre of  • Real-time district alert of symptomatic contacts (enables
+symptomatic contacts identified by the CT during the quick dispatch of surveillance team and potentially reducing
+contact visitation step  the time to isolation
+• Password secured data (ensures confidentiality)
+• Reduced reliance on phone calls or SMS messages (ensures
+all symptomatic contacts are accurately logged)
+Key: CTC Contact Tracing Coordinator; CT Contact Tracer; GPS Global Positioning System; SD Secure Digital; SIM Subscriber Identity Card; SL Sierra Leone; SMS
+Short Message Service
+Standard paper-based system for contact tracing
+The paper DRF was returned for the contacts of only
+9 of the 25 paper-based cases (36.0%) and for 157 of
+the 408 contacts of these cases (38.5%) at the end of
+the study period. The data collected were of poor
+quality, including errors on the forms (including miss-
+ing or obviously incorrect time of first visit, Ebola
+case IDs and dates of first and last visit).  A common
+error was that the time of contact visit reported by 
+the CT on the DRF was reported as prior to the la-
+boratory confirmation of the index case for 63 (40%)
+of the paper-based contacts. Among the remaining 94
+contacts with completed forms, the median duration
+from laboratory confirmation of the Ebola case to
+first reported contact visit by the CT was 16.9 h (IQR
+15.9–61.8 h).  Fewer than half of the contacts (n = 43,
+44%) were reported to have been monitored for the
+full 21 days.
+Page 7
+Danquah et al. BMC Infectious Diseases (2019) 19:810  Page 7 of 12
+Table 2 Characteristics of cases and contacts (13th April –
+August 31st 2015)
+Paper Daily Reporting Form ECT Smartphone App
+Cases Contacts Cases Contacts
+Characteristic
+Total 
+N (%)
+25a 
+N (%)
+408 
+N (%)
+18b 
+N (%)
+646
+Age
+< 5 yrs  4 (16%)  51 (13%)  2 (13%)  123 (19%)
+5–14 yrs  2 (8%)  119 (29%)  2 (13%)  141 (22%)
+15 – 44 yrs 13 (52%)  188 (47%)  9 (56%)  272 (42%)
+≥ 45 yrs  6 (24%)  46 (11%)  3 (19%)  110 (17%)
+Median (IQR) 26 (20–44) 18 (7–30)  28.5 (18–40) 20 (6–35)
+Sex
+Male  10 (40%)  205 (50%)  9 (50%)  317 (49%)
+Female 15 (60%)  203 (50%)  9 (50%)  329 (51%)
+Mortality status
+Alive  21 (84%)  407c (100%)  11 (61%)  646 (100%)
+Dead 4 (16%)  –  7 (39%)  –
+Chiefdom
+1  –  –  5 (28%)  72 (11%)
+2  24 (96%)  376 (92%)  4 (22%)  70 (11%)
+3  –  –  –  10d (2%)
+4  –  –  1 (6%)  65 (10%)
+5  –  –  5 (28%)  159 (25%)
+6  –  –  3 (17%)  270 (42%)
+7  1 (4%)  32 (8%)  –  –
+aFour cases followed using the paper Daily Reporting Form had no contacts
+b Data on age and sex were available for only 16 cases (not for two
+‘secret burials’)
+c Data on 407 contacts was available. All contacts were alive
+dThe 10 contacts in this Chiefdom came from a case that occurred in
+Chiefdom 2
+Influence of training on paper-based contact tracing
+One Ebola case was confirmed the day before training
+started, and served as an example case during training.
+The quality of paper-based contact tracing data for this
+case was higher than for subsequent paper-based cases.
+For example, all forms for the 32 contacts of the case
+were returned, and 31 of these had time-of-first-visit
+data in line with the standard protocol of CTCs collect-
+ing the list of contacts from the DHMT between 8 and
+9 am each morning and contact visits being made
+around midday. In contrast, for the 6 subsequent cases
+from another Chiefdom, 65 contacts were all recorded
+as having time-of-first-visit at 8.30 am (mainly on the
+same day as each other) which according to the standard
+protocol was not possible.
+App-based reporting for contact tracing
+Of the 18 app-based cases, 2 were ‘secret burials’2 and
+were not laboratory-confirmed. For the 16 confirmed 
+app-based cases entered on the ECT app for contact
+monitoring, 556 contacts were registered (Table 3).  Of
+these, 524 contacts were assigned by CTCs (94.2%) for
+contact tracing, and 384 (62.5%) were visited. The 172
+contacts who were not assigned or visited were from 5
+different cases each from a different Chiefdom. The me-
+dian time from laboratory confirmation to case registra-
+tion on the ECT app was 18.0 h (IQR 12.1–30.0), from
+case registration to contact assignment by CTCs was a
+median of 23.4 h (IQR 3.5–46.1) and from median time
+of contact assignment to median time of first visit by a
+CT was 22.8 h (IQR 11.7–108.7; Table 3).  Overall, the
+median time from laboratory confirmation to first re-
+corded visit by the CT was 70.2 h (IQR 61.9–124.5)
+(equal weight per case). Key factors associated with the
+delays are described in Table 3.
+Table 4 summarises results at contact level. The me-
+dian duration from contact registration on the ECT app
+to assignment by CTCs was 4.33 h (IQR 1.4–47.5 h) but
+the median duration from contact assignment to first re-
+corded visit by CTs was 24.9 h (IQR 18.1–122.7 h). The
+total median duration from the start of case registration
+on the ECT app at the district to the first recorded visit
+by the CT was 73.2 h (IQR 26.2–216.8 h) (equal weight
+per contact). The median number of days monitored for
+the 384 contacts was 10 days (IQR 5.5–16). This varied
+by Chiefdom with one Chiefdom having a median re-
+corded follow-up of just 3 days (IQR 1–4).
+Qualitative results
+Results from the process evaluation indicated that few
+(< 5%) CTCs and CTs had previously used a smart-
+phone but both CTCs and CTs preferred the ECT
+app for contact tracing, reporting that it was faster
+and more accurate to use than the paper-based sys-
+tem. Reported advantages of the ECT app over the
+paper-based system included the elimination of the
+CTC’s travel time to receive the daily lists of contacts
+from the District, the ability to monitor accurately
+large numbers of contacts, and the relative ease of
+transporting a phone compared with carrying paper
+forms. Suggested improvements related to using the
+app included the need for better network coverage
+(outside the control of the study or even the Ministry
+of Health and Sanitation);  improved battery life and
+quality of phones; the need for further training on
+synchronising the data (“syncing”) between the phone
+and the server; the need for increased compensation
+2Secret burials are burials that were conducted without the knowledge
+of the health authorities and those involved in the safe management of
+dead bodies and burials of patients who died from suspected or
+confirmed Ebola virus disease. Deceased individuals buried through
+secret burials were often buried by family/friends and community
+members and were therefore not tested for Ebola virus disease.
+Page 8
+Danquah et al. BMC Infectious Diseases (2019) 19:810  Page 8 of 12
+Table 3 Time from laboratory confirmation to first visit for the 16 confirmed cases, plus two secret burials
+Case Chiefdom Contacts Contacts Date/time Case  Case  Contact Case  Case-specific delaying
+registered visited of case confirmation registration to assignment confirmation factors and comments
+(N)  (N)  confirmation to  contact to first visit to first visit
+registration assignment (median (median
+(hours) (median hours) hours) hours)
+Total  556  384  18.0  23.4  22.8  70.2
+1  1  19  19  06/06/2015 19.99  29.73
+19:23
+2  1  9  9  06/06/2015 43.89  3.16
+22:18
+3  1  9  9  07/06/2015 9.25
+06:27 
+3.58 
+22.77
+23.12
+49.07 
+72.56
+70.16
+61.89 
+● Remote location of
+contacts
+● Limited network coverage
+● Network coverage and
+syncing problems
+● Battery charging issues
+4  1  11  11  09/06/2015 16.52  1.68
+23:10 
+21.77  39.94
+5  2
+6  2
+7  2/3
+8  2 
+24
+14
+36
+6 
+24  13/06/2015 27.13
+15:20
+14  17/06/2015 2.61
+15:13
+34  18/06/2015 42.75
+15:58
+6  24/06/2015 3.55
+17:10 
+46.17
+13.14
+4.53
+11.36 
+26.69
+108.75
+22.47
+3.83 
+99.74
+124.47
+67.05
+18.73 
+● Remote Chiefdom
+● Several cases occurring in
+close proximity and time to
+each other
+● Technical difficulties
+assigning contactsa
+● Far from place where
+phones could be charged
+9  4
+10  4 
+24  15  29/06/2015 16.05
+21:06
+120  98  16/06/2015 11.43
+22:54 
+70.28
+81.05 
+1.39
+128.26 
+87.72
+251.97 
+● Technical difficulties
+assigning contactsa
+● Transport difficulties for
+CTs led to CTC monitoring
+with paper formb
+11  5  52  52  12/07/2015 19.57  2.88
+14:26
+12  5  23  23  14/07/2015 21.96  29.25
+11:10
+13  5  5  5  17/07/2015 30.95  23.43
+15:01 
+5.35
+18.13
+11.7 
+27.81
+69.31
+66.08 
+● Long contact lists
+● Contacts added after
+initial entry and assignment
+● Long CT travel distances
+● Management error in CT
+assignmentc
+● WHO intervention
+including CTCs and CTs
+having to monitor additional
+non-quarantined households
+d
+● Monitoring issues for CTs
+e
+● Syncing and network
+connectivity difficulties
+● Technical problemsf
+● Misplaced phones
+Battery charging issues
+14  6
+15  6 
+112  51  25/06/2015 14.28
+21:11
+92  14  02/07/2015 16.08
+17:21 
+26.83
+76.95 
+122.75
+275 
+163.56
+296.54 
+● CTC user error in
+assignment requiring
+retraining and support
+● System errors with
+monitoring features.
+(Rectified for later cases)
+16  5  0  0  18/06/2015 59.51
+21:26 
+● No contacts registered
+Secret 1  24  24
+burial
+1 
+3.21  89.37  ● Syncing delays or network
+problems
+● Late reassignment of
+contacts
+Secret 6  66  0
+burial
+2 
+59.32  ● Inaccessible due to
+flooding
+Footnotes
+Page 9
+Danquah et al. BMC Infectious Diseases (2019) 19:810  Page 9 of 12
+a This included difficulties in basic app functions including switching on mobile data to use the app, syncing difficulties to receive and send contacts
+b CTs experienced difficulties traveling to monitor contacts so the CTC monitored the contacts, but as the app on the CTC phone was for assignment and not
+monitoring, the CTC used the paper form for monitoring
+c CTCs often incorrectly assigned to a named Chiefdom level feature which showed on the page of named CTs to assign to. This was a technical feature of the
+app that could not be hidden which meant that the contact was not monitored by the correct CT
+d Extra responsibilities were placed on CTs in this Chiefdom to also conduct monitoring of non-quarantined homes due to a spike in cases in this Chiefdom. This
+was on the advice of WHO
+e This included transportation issues of CTs to monitor contacts, syncing issues, network connectivity difficulties and technical problems, misplaced phones,
+battery charging issues that were specific to this Chiefdom when there were cases
+f Technical problems related to the study phones included syncing issues to receive and send information to the CommCare server, software error messages, and
+corrupt SD card problems that caused the app to not work
+to offset phone charging fees (due to decreased bat-
+tery life of the donated second–hand phone batteries
+due to some CTCs and CTs charging their phones
+using alternative methods of removing and charging
+the phone battery only using ‘charging pegs’  at tele-
+centres (charging booths) instead of taking the entire
+phone for charging);  better strategies for overcoming
+distances to charging booths; and more refresher
+training for contact tracing and monitoring using the
+study phones.
+Discussion
+To our knowledge, this is the first study to attempt to esti-
+mate the time to first contact visit from confirmation of an
+Ebola case for contact tracing using an app- compared with
+paper-based system. Our findings demonstrate proof-of-
+concept that an electronic system for data capture and
+management can improve data completeness and accuracy
+of Ebola contact tracing and monitoring through improved
+data completeness and monitoring. However, the study also
+illustrated the challenges of conducting high-quality contact
+tracing in an emergency setting [2, 5, 9, 34].
+Previous studies comparing paper-based methods of
+data collection with electronic methods have tended to
+show the electronic method was superior [17, 35]. Our
+study showed that advantages of the app over the
+paper-based system included a more accurate, timely,
+and permanent record of information, and improved
+data completeness, quality and security. The challenges
+in collecting high-quality data using a paper-based sys-
+tem was shown by the poor quality of this data. 
+Operational requirements needed to introduce effect-
+ive mobile-based contact tracing/monitoring during an
+Ebola epidemic include effective coordination with
+technical partners, understanding the structure of the
+evolving contact tracing and monitoring process in
+real-time, accessing study hardware and software, and
+the technical expertise to design, develop, pilot and
+deploy the app during the epidemic. The results are
+applicable to other low-income settings that face simi-
+lar geographical and infrastructural conditions.
+One key finding was the long interval between Ebola
+case and contact registration and first visit by the CT
+when using the ECT app. This was, on average, longer
+than the interval for the paper-based cases that pre-
+dated the introduction of the app, though the data are
+not fully comparable and may be partly due to the
+highly-clustered nature of Ebola cases and their
+contacts, in space and time, with the addition of new
+contacts several days after the initial laboratory con-
+firmation of the case increasing the duration between
+registration and first visit. The need to adhere to
+national protocols meant that a parallel approach of
+using both paper and the app was in place, which may
+have affected the efficiency and accuracy of the app-
+based method. The duration could have potentially
+been shortened through technical improvements in the
+system (e.g. batch assignment of contacts rather than
+single assignment of each contact by a CTC to one or
+more CTs),  but these were impractical due to the
+underlying technical structure of the app. Other causes
+reflect structural limitations of mHealth approaches in
+certain settings (including poor network coverage).
+Table 4 Duration of each step from case registration to first visit of each contact, using the ECT app
+Step  N  Median Min  25%  75%  Max
+Time from case registration to contact assignment
+Time from contact registration to contact assignment
+Time from contact assignment to first recorded visit 
+556  25.6 h  0.1  0.5  30.6  147.2
+524a  4.33 h  0.2  1.4  47.5  292.5
+384b  24.9 h  0.4  18.1  122.7  304.3c
+Total time from start of case registration to first recorded visit  384  73.2 h  4.6  26.2  216.8  384.9
+Footnotes:
+a For 32 contacts, there was no record of assignment
+b For 140 contacts, there was no record of a visit at home
+c The 127 contacts with a duration of over 100 h were contacts of 4 cases. For one case, the long duration was due to syncing and network problems experienced
+by the CT. The SIM card had to be changed to a different network. For another, the CTC was not able to assign the contacts correctly as they found it difficult to
+assign the unusually large number of contacts and required assistance from the field team on the process. This led to contacts having to be reassigned. Specific
+field team training on monitoring assigned contacts in the CommCare HQ was not provided until July – after the major assignment problems had occurred
+Page 10
+Danquah et al. BMC Infectious Diseases (2019) 19:810  Page 10 of 12
+Strengths and limitations of the ECT app-based system
+A key challenge was the complexity of designing and
+implementing an app-based system in an emergency
+context. Few studies have attempted to design and
+evaluate a mHealth intervention during an epidemic. It
+was necessary to minimise any risk to the existing
+paper-based system, and steps taken to mitigate this risk
+included the phased introduction of the ECT app and
+continued use of the paper-based DRF alongside the app
+as recommended by technical partners.
+The major strength of the app-based system was the cre-
+ation of a more accurate, timely, and permanent record of
+information stored in a centralised data management and
+data storage system in the main CommCare HQ. The sys-
+tem allowed for the real-time transfer of information to
+CTCs and CTs once the Ebola case and contacts were reg-
+istered at the District level. The app-based system had in-
+built validation and mandatory data entry fields to improve
+data entry and data accuracy. Other strengths of the app-
+based system were the reduction in data entry work, im-
+proved data security, data sharing, and monitoring of CTC
+and CT activity with the production of key performance
+data. For example, the paper-based system meant CTs had
+to carry large volumes of paper to monitor contacts. Fur-
+ther, additional contacts could be easily added to the app-
+based system and assigned for contact tracing. This reduced
+the need for travel by CTCs to the DHMT offices to collect
+the Ebola contact line list, which was the daily process for
+the standard paper-based system. Findings from the quali-
+tative results found that CTCs and CTs preferred to use
+the app over the paper-based system for contact tracing.
+We were unable to test our original trial hypothesis
+that the app reduced the time from confirmation-to-visit
+by the CT as the data quality for the paper-based system
+was inadequate for this estimation. However, the dur-
+ation for some app-based steps were longer than antici-
+pated, reflected the multiple challenges (Table 3).  For
+example, the time from confirmation-to-registration on
+the ECT app (median 18 h) reflected the standard proto-
+col whereby the surveillance teams had to revisit the
+home of the Ebola case to review and, where necessary,
+revise the contact list after case confirmation and subse-
+quent delays in receiving the new updated list of con-
+tacts back to the district level. This was also meant to
+occur for the paper-based system; however, this protocol
+was not always followed.
+One challenge in using the app was assignment of long
+lists of Ebola contacts. This was due to a technical fea-
+ture related to the app that resulted in errors in assign-
+ment that potentially contributed to a time delay.
+Further issues included the time-consuming assignment
+of long lists of Ebola contacts to multiple CTs, some of
+whom did not have their ECT app-installed smartphones
+switched on, or who may having forgotten how to use 
+the app if there was a long delay between assignments.
+Steps to mitigate this included giving CTs pocket-sized
+instructions on key steps on the use of the app, field
+support from a study monitor and refresher training.
+The average number of Ebola contacts for the paper-
+based system was lower than that for the app-based
+system (16 contacts per case compared with 36 contacts
+per case).  The paper-based contact line listing was
+undertaken before contact tracing started, so the differ-
+ence in the average number of Ebola contacts per case
+is unlikely to be due to the method used, but may re-
+flect the varying number of contacts of Ebola cases over
+time and the high degree of clustering in time and
+space. Further, surveillance activities were enhanced in
+the district in June, which may have increased the num-
+ber of contacts identified per case. The increased num-
+ber of contacts per case during the app-system period
+may also reflect the increased duration from registra-
+tion-to-first-visit by the CTs for the app-based versus
+paper-based system. The majority of cases with longer
+confirmation-to-visit times were from Chiefdoms with
+multiple contacts per case and this may have affected
+the process e.g. through manual errors in assigning
+contacts and system errors with monitoring features.
+Other challenges included poor network coverage and
+technical challenges (e.g. corrupted memory cards and
+software errors),  short battery life and charging issues
+and the time lag between the training and emergence of
+real Ebola cases and contacts for monitoring. Mitigating
+action included testing the phones before deployment
+and providing CTCs and CTs with spare phones/batter-
+ies, power banks for charging and changing the network
+provider (Additional file 1: Table S1).
+Developing an app during an epidemic had additional
+challenges, including the speed with which the app needed
+to be developed, limited time for pre- and pilot testing due
+to the pressure to respond quickly to the emergency and
+difficulties in updating app design and technical features
+after deployment. The complex design structure of the
+contact tracing system had to be reflected in the technical
+design of the app platform. Mitigating action to overcome
+these issues included simulated testing of Ebola cases and
+contacts to test the system, further refresher training and
+training and the development of strategies to reduce issues
+related to the difficulties with the app design (some of
+which are listed in Additional file 1: Table S1).
+Strengths and limitations of the paper-based system
+The main strength of the paper-based system was the use
+of a simple method of data collection. However, our study
+was motivated by recognised challenges in this system, in-
+cluding in-built delays such as the physical collection of
+forms from the DHMT each morning (a round trip of
+approximately 5–6 h depending on the Chiefdom).  The
+Page 11
+Danquah et al. BMC Infectious Diseases (2019) 19:810  Page 11 of 12
+geographical challenges particular to Port Loko District
+and the challenges for surveillance activities have been re-
+ported by others involved in surveillance activities in the
+District [36].
+Our study identified major problems with i) data ar-
+chiving of the standard paper-based system, with the
+majority of contact tracing forms not being returned to
+the DHMT at the end of the monitoring period; and ii)
+data quality, with missing and inaccurate information.
+However, contact tracing may have sometimes been
+conducted more efficiently than the recorded data im-
+plied - for example, direct reports by phone circumvent-
+ing the paper-based system. This may have improved
+the time-to-first-visit using the paper-based system but
+not improved the app-based system as the timings for
+the app-based system were automatically generated.
+Recommendations to improve contact tracing
+i) Addressing human resource issues is key especially the
+dissatisfaction with the level of financial reimbursement
+for the role, travel to often remote locations and hostility
+from local communities. These personnel challenges
+have been reported in other studies on Ebola contact
+tracing [2, 5, 7–10, 36].
+ii) Improved monitoring and evaluation including
+stronger technical oversight of contact tracing activities
+and improved monitoring of CTs in particular to moni-
+tor their contact tracing activities and improved strat-
+egies to obtain DRFs, for example, setting specific days
+that DRFs should be returned to the District, and incen-
+tives/rewards for timely and complete data submission.
+iii) For the paper-based system, we recommend that
+future improvements should address operational delivery
+issues of the paper-based system including, improved fil-
+ing, data archiving and data entry systems, and greater
+co-ordination between organisations involved.
+iv) For the app-based system, a two-tier system
+from registration at the District to visitation by the
+CT, rather than our three-tier structure would have
+been preferable, as the long delays were often
+between contact assignment to first visit. Our moni-
+toring showed that the assignment stage presented
+major problems, even though CTCs were trained and
+received refresher training on this stage. One of the
+considerable constraints of the app-based system was
+trying to match to a paper-based system. A complex
+system created with paper and voice communication
+in mind can be difficult to replicate using the consist-
+ent logic required by software.
+Other recommendations would include use of an in-
+country app design team where possible, further support
+on the technical aspects of the design, and high-quality
+(not second-hand) phones. 
+Conclusion
+This study illustrates the complexities, challenges and op-
+portunities of implementing an app-based system for epi-
+demic contact tracing and monitoring. Despite these
+challenges, this proof-of-concept study shows that imple-
+menting mHealth applications even in a low-connectivity
+and low-resource environment like rural Sierra Leone is
+possible, even in an emergency. Having more time to de-
+velop and test the app and conduct training workshops in a
+non-emergency setting should result in a more comprehen-
+sive and successful app that could be further integrated
+with the national health system.
+Additional files
+ Additional file 1: Table S1. Key monitoring issues/challenges identified
+with the ECT app. (DOCX 26 kb)
+ Additional file 2: The Ebola Contact Tracing (ECT) app. (PDF 644 kb)
+Abbreviations
+App: Application; CDC: Centers for Disease Control; CIT: Case Investigation
+Team; CT: Contact Tracer; CTCs: Contact Tracing Coordinators; CTs: Contact
+Tracers; DERC: District Ebola Response Centre; DHMT: District Health
+Management Team; DRF: Daily Reporting Form; ECT app: Ebola Contact
+Tracing application; ECT: Ebola Contact Tracing; FGDs: Focus Group
+Discussions; GIZ: Deutsche Gesellschaft für Internationale Zusammenarbeit
+GmbH; GPS: Global Positioning System; IDs: Identifications; IMC: International
+Medical Corps; IPA: Innovations for Poverty Action; IQR: Interquartile Range;
+LSHTM: London School of Hygiene & Tropical Medicine; mHealth: Mobile
+Health; PHE: Public Health England; RSLAF: Republic of Sierra Leone Armed
+Forces; SD: Secure Digital; SIM: Subscriber Identity Card; SL: Sierra Leone;
+SLESRC: Sierra Leone Ethics and Scientific Review Committee; SMS: Short
+Message Service; SQ: Saira Qureshi; TB: Tuberculosis; UNFPA: United Nations
+Population Fund; UNMEER: United Nations Mission for Ebola Emergency
+Response; US: United States; WHO: World Health Organization
+Acknowledgments
+The study received the support and would like to extend thanks to the
+Ministry of Health and Sanitation, the District Health Management Team
+(Port Loko), the Ebola Response Centre Teams at national and local levels in
+Sierra Leone, the WHO Freetown Office, WHO Port Loko Field Coordinators
+and Epidemiology support leads, the Surveillance Pillar, GOAL, Marie Stopes,
+UNFPA (Sierra Leone), CDC, the Republic of Sierra Leone Armed Forces
+(RSLAF) and Public Health England (PHE). We would also like to thank
+UNMEER for the donation of the study phones, IPA Sierra Leone staff, IMC
+staff and all the contact tracing coordinators and contact tracers that
+participated in this study and Rachel Miles from LSHTM for providing
+administrative support.
+Authors’ contributions
+LOD drafted the manuscript and finalised it with HAW NH MM FEC FM AT AJ
+DAR provided feedback on the manuscript. LOD NH MM FEC FM AT AJ DAR
+HAW designed the study. LOD oversaw data collection and worked with FEC
+and FM in country to collect the data. LOD, NH, MM, FEC, FM, AT, DAR and
+HAW contributed to the development of the mobile application. HAW led
+the statistical analysis with contributions from LOD and NH. LOD analysed
+the qualitative data. All authors have read and approved the final
+manuscript.
+Funding
+This study was funded by Deutsche Gesellschaft für Internationale
+Zusammenarbeit (GIZ) GmbH. The funder was not involved in the design,
+collection, analysis and interpretation of the data and writing of this
+manuscript. HAW received support in part from a grant from the Medical
+Page 12
+Danquah et al. BMC Infectious Diseases (2019) 19:810  Page 12 of 12
+Research Council (MRC) and the Department for International Development
+(DFID UK) under the MRC/DFID Concordat (K012126/1).
+Availability of data and materials
+The datasets analysed during the current study are available in the LSHTM
+data repository [URL: "https://datacompass.lshtm.ac.uk/1069/"] https://datacompass.lshtm.ac.uk/1069/
+Ethics approval and consent to participate
+The London School of Hygiene & Tropical Medicine Observational/
+Interventions Research Ethics Committee (reference 8749–01) and the Sierra
+Leone Ethics and Scientific Review Committee (SLESRC) approved this study.
+Written informed consent was obtained from eligible CTCs and CTs who
+consented to take part in the study. Consent was not required from
+individual Ebola contacts as the smartphone app mirrored the existing
+paper-based system that was in use for contact tracing throughout the
+country.
+Consent for publication
+Not applicable
+Competing interests
+The authors declare that they have no competing interests.
+Author details
+1School of Public Health, Faculty of Medicine, Imperial College London,
+London, UK. 2MRC Tropical Epidemiology Group, Faculty of Epidemiology
+and Population Health, London School of Hygiene & Tropical Medicine,
+London, UK. 3Innovations for Poverty Action, Freetown, Sierra Leone.
+4Ministry of Health and Sanitation, Freetown, Sierra Leone.
+Received: 29 November 2017 Accepted: 5 August 2019
+References
+1.  2014 Ebola Outbreak in West Africa - Case Counts [[URL: "http://www.cdc.gov/vhf/ebola/outbreaks/2014-west-africa/case-counts.html"] http://www.cdc.gov/vhf/
+ ebola/outbreaks/2014-west-africa/case-counts.html. Accessed 5 May 2016].
+2.  World Health Organization. Contact tracing during an outbreak of Ebola
+virus disease. Geneva: WHO; 2014.
+3.  World Health Organization. Surveillance strategy during Phase 3 of the
+Ebola response. Geneva: WHO; 2015.
+4.  Faye O, Boëlle P-Y, Heleze E, Faye O, Loucoubar C, Magassouba NF,
+Soropogui B, Keita S, Gakou T, Bah EHI, et al. Chains of transmission and
+control of Ebola virus disease in Conakry, Guinea, in 2014: an observational
+study. Lancet Infect Dis. 2015;15(3):320–6.
+5.  McNamara LA, Schafer IJ, Nolen LD, Gorina Y, Redd JT, Lo T, Ervin E, Henao
+O, Dahl BA, Morgan O, et al. Ebola Surveillance -Guinea, Liberia and Sierra
+Leone. MMWR Suppl. 2016;65(Suppl-3):35–43.
+6.  Lokuge K, Caleo G, Greig J, Duncombe J, McWilliam N, Squire J, Lamin M,
+Veltus E, Wolz A, Kobinger G, et al. Successful control of Ebola virus disease:
+analysis of service based data from rural Sierra Leone. PLoS Negl Trop Dis.
+2016;10(3):e0004498.
+7.  Ilesanmi OS. Learning from the challenges of Ebola virus disease contact
+tracers in Sierra Leone, February, 2015. The Pan African Medical Journal.
+2015;22(Suppl 1):21.
+8.  Greiner AL, Angelo KM, McCollum AM, Mirkovic K, Arthur R, Angulo FJ.
+Addressing contact tracing challenges—critical to halting Ebola virus
+disease transmission. Int J Infect Dis. 2015;41:53–5.
+9.  Olu OO, Lamunu M, Nanyunja M, Dafae F, Samba T, Sempiira N, Kuti-George
+F, Abebe FZ, Sensasi B, Chimbaru A, et al. Contact tracing during an
+outbreak of Ebola virus disease in the Western area districts of Sierra Leone:
+lessons for future Ebola outbreak response. Front Public Health. 2016;4:130.
+10. Sacks JA, Zehe E, Redick C, Bah A, Cowger K, Camara M, Diallo A, Gigo ANI,
+Dhillon RS, Liu A. Introduction of Mobile health tools to support Ebola
+surveillance and contact tracing in Guinea. Global Health: Science and
+Practice. 2015;3(4):646–59.
+11. Vital Wave Consulting. mHealth for development: the opportunity of mobile
+technology for healthcare in the developing world. Washington D.C. and
+Berkshire: UN Foundation - Vodaphone Foundation Partnership; 2009.
+12. The World Bank. Information and Communications for Development 2012:
+Maximizing Mobile. Washington DC: World Bank; 2012. 
+13. Mendoza, G, Levine, R, Kibuka, T, Okoko, L. mHealth Compendium, Volume
+Four. Arlington: African Strategies for Health, Management Sciences for
+Health; 2014
+14. World Health Organization. mHealth: new horizons for health through
+mobile technologies: second global survey on eHealth. Geneva: WHO; 2011.
+15. Bastawrous A, Armstrong MJ. Mobile health use in low- and high-income
+countries: an overview of the peer-reviewed literature. J R Soc Med. 2013;
+106(4):130–42.
+16. Aranda-Jan CB, Mohutsiwa-Dibe N, Loukanova S. Systematic review on what
+works, what does not work and why of implementation of mobile health
+(mHealth) projects in Africa. BMC Public Health. 2014;14:188.
+17. Ha YP, Tesfalul MA, Littman-Quinn R, Antwi C, Green RS, Mapila TO, Bellamy
+SL, Ncube RT, Mugisha K, Ho-Foster AR, et al. Evaluation of a Mobile health
+approach to tuberculosis contact tracing in Botswana. J Health Commun.
+2016;21(10):1115–21.
+18. Steinhubl SR, Marriott MP, Wegerich SW. Remote sensing of vital signs: a
+wearable, wireless “band-aid” sensor with personalized analytics for
+improved Ebola patient care and worker safety. Global Health: Science and
+Practice. 2015;3(3):516–9.
+19. Mobile phones to help Ebola vaccine trials [[URL: "http://www.scidev.net/global/medicine/news/mobile-phones-ebola-vaccine-trials.html"] http://www.scidev.net/global/
+ medicine/news/mobile-phones-ebola-vaccine-trials.html. Accessed 19 Mar 2017].
+20. Jia K, Mohamed K. Evaluating the use of cell phone messaging for
+community Ebola syndromic surveillance in high risked settings in southern
+sierra Leone. Afr Health Sci. 2015;15(3):797–802.
+21. IBM tech to fight Ebola in Africa [[URL: "http://www.healthcareitnews.com/news/ibm-tech-fight-ebola-africa"] http://www.healthcareitnews.com/news/
+ ibm-tech-fight-ebola-africa. Accessed 19 Mar 2017].
+22. Otu A, Ebenso B, Okuzu O, Osifo-Dawodu E. Using a mHealth tutorial
+application to change knowledge and attitude of frontline health workers
+to Ebola virus disease in Nigeria: a before-and-after study. Hum Resour
+Health. 2016;14:5.
+23. African Strategies for Health. Technical Brief: Use of technology in the Ebola
+response in West Africa: Arlington, VA; 2014.
+24. Q&A: How technology is transforming Ebola response efforts [[URL: "https://blog.usaid.gov/2015/06/qa-how-technology-is-transforming-ebola-response-efforts/"] https://blog.
+ usaid.gov/2015/06/qa-how-technology-is-transforming-ebola-response-
+ efforts/. Accessed 19 Mar 2017].
+25. USAID Learning Lab. The mHero Story: Adapting mobile technology to
+support health systems strengthening amid the Ebola Outbreak; 2015.
+26. Using mobile technology to improve maternal health and fight Ebola
+[[URL: "https://www.brookings.edu/wp-content/uploads/2016/06/CTINigeria.pdf"] https://www.brookings.edu/wp-content/uploads/2016/06/CTINigeria.pdf.
+Accessed 19 Mar 2017].
+27. Ratnayake R, Crowe SJ, Jasperse J, Privette G, Stone E, Miller L, Hertz D, Fu C,
+Maenner MJ, Jambai A, et al. Assessment of community event-based
+surveillance for Ebola virus disease, Sierra Leone, 2015. Emerg Infect Dis.
+2016;22(8):1431–7.
+28. Steinhubl SR, Muse ED, Topol EJ. The emerging field of mobile health. Sci
+Transl Med. 2015;7(283):283rv283.
+29. Hall CS, Fottrell E, Wilkinson S, Byass P. Assessing the impact of mHealth
+interventions in low- and middle-income countries – what has been shown
+to work? Glob Health Action. 2014;7.
+30. Tomlinson M, Rotheram-Borus MJ, Swartz L, Tsai AC. Scaling up mHealth:
+where is the evidence? PLoS Med. 2013;10(2):e1001382.
+31. Ministry of Health and Sanitation Sierra Leone: Sierra Leone emergency
+management programme standard operating procedure for contact tracing
+version#1. 2014.
+32. CommCare [[URL: "http://www.dimagi.com/products/"] http://www.dimagi.com/products/. Accessed 24 Feb 2016].
+33. Braun V, Clarke V. Using thematic analysis in psychology. Qual Res Psychol.
+2006;3(2):77–101.
+34. Centers for Disease Control and Prevention, World Health Organization:
+Emergency guideline for the implementation and management of contact
+tracing for Ebola virus disease. 2015.
+35. Labrique AB, Vasudevan L, Kochi E, Fabricant R, Mehl G. mHealth innovations
+as health system strengthening tools: 12 common applications and a visual
+framework. Global Health: Science and Practice. 2013;1(2):160–71.
+36. T Boland S, Polich E, Connolly A, Hoar A, Sesay T, Tran A-MA. Overcoming
+operational challenges to Ebola case investigation in Sierra Leone. Global
+Health: Science and Practice. 2017;5(3):456–67.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.

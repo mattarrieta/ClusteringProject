@@ -1,0 +1,1090 @@
+Creator: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+Producer: Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+Title: The monetary value of human lives lost through Ebola virus disease in the Democratic Republic of Congo in 2019
+Keywords: Ebola virus disease (EVD) deaths,Human capital,Monetary value of life,Years of life lost,Gross domestic product,Democratic Republic of Congo (DRC)
+ModDate: 2019/09/03 15:42:05+02'00'
+Subject: BMC Public Health, 2019, doi:10.1186/s12889-019-7542-2
+Author: Joses M. Kirigia
+CreationDate: 2019/09/02 13:47:19+08'00'
+xmp:pdf:Keywords: Ebola virus disease (EVD) deaths,Human capital,Monetary value of life,Years of life lost,Gross domestic product,Democratic Republic of Congo (DRC)
+xmp:pdf:Producer: Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+xmp:dc:format: application/pdf
+xmp:dc:identifier: 10.1186/s12889-019-7542-2
+xmp:dc:publisher: BMC Public Health
+xmp:dc:description: BMC Public Health, 2019, doi:10.1186/s12889-019-7542-2
+xmp:dc:subject: Ebola virus disease (EVD) deaths; Human capital; Monetary value of life; Years of life lost; Gross domestic product; Democratic Republic of Congo (DRC)
+xmp:dc:title: The monetary value of human lives lost through Ebola virus disease in the Democratic Republic of Congo in 2019
+xmp:dc:creator: Joses M. Kirigia; Rose Nabi Deborah Karimi Muthuri; Newton Gitonga Muthuri
+xmp:xmp:MetadataDate: 2019-09-03T15:42:05+02:00
+xmp:xmp:CreateDate: 2019-09-02T13:47:19+08:00
+xmp:xmp:CreatorTool: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+xmp:xmp:ModifyDate: 2019-09-03T15:42:05+02:00
+xmp:xmpMM:DocumentID: uuid:4314d0b2-dc5e-4e12-a3fc-e84e09ff3bd8
+xmp:xmpMM:InstanceID: uuid:5672c813-9190-4c4f-a50a-82d4c28c7d06
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:8ed579c6-699e-4758-b744-a02fe2f324ba
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2019-09-02T14:25:11+08:00
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:author:name: Joses M. Kirigia
+xmp:author:orcid: http://orcid.org/0000-0002-2317-4666
+xmp:pdfaSchema:schema: Springer Nature ORCID Schema
+xmp:pdfaSchema:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/
+xmp:pdfaSchema:prefix: sn
+xmp:pdfaProperty:name: authorInfo
+xmp:pdfaProperty:valueType: Bag AuthorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Author information: contains the name of each author and his/her ORCID (ORCiD: Open Researcher and Contributor ID). An ORCID is a persistent identifier (a non-proprietary alphanumeric code) to uniquely identify scientific and other academic authors.
+xmp:pdfaProperty:name: editorInfo
+xmp:pdfaProperty:valueType: Bag EditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Editor information: contains the name of each editor and his/her ORCID identifier.
+xmp:pdfaProperty:name: seriesEditorInfo
+xmp:pdfaProperty:valueType: Bag SeriesEditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Series editor information: contains the name of each series editor and his/her ORCID identifier.
+xmp:pdfaType:type: AuthorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/authorInfo/
+xmp:pdfaType:prefix: author
+xmp:pdfaType:description: Specifies the types of author information: name and ORCID of an author.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an author.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an author.
+xmp:pdfaType:type: EditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/editorInfo/
+xmp:pdfaType:prefix: editor
+xmp:pdfaType:description: Specifies the types of editor information: name and ORCID of an editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an editor.
+xmp:pdfaType:type: SeriesEditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/seriesEditorInfo/
+xmp:pdfaType:prefix: seriesEditor
+xmp:pdfaType:description: Specifies the types of series editor information: name and ORCID of a series editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of a series editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of a series editor.
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdf/1.3/
+xmp:pdfaSchema:prefix: pdf
+xmp:pdfaSchema:schema: Adobe PDF Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A name object indicating whether the document has been modified to include trapping information
+xmp:pdfaProperty:name: Trapped
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/mm/
+xmp:pdfaSchema:prefix: xmpMM
+xmp:pdfaSchema:schema: XMP Media Management Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: UUID based identifier for specific incarnation of a document
+xmp:pdfaProperty:name: InstanceID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: The common identifier for all versions and renditions of a document.
+xmp:pdfaProperty:name: OriginalDocumentID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A reference to the original document from which this one is derived. It is a minimal reference; missing components can be assumed to be unchanged. For example, a new version might only need to specify the instance ID and version number of the previous version, or a rendition might only need to specify the instance ID and rendition class of the original.
+xmp:pdfaProperty:name: DerivedFrom
+xmp:pdfaProperty:valueType: ResourceRef
+xmp:pdfaType:description: Identifies a portion of a document. This can be a position at which the document has been changed since the most recent event history (stEvt:changed). For a resource within an xmpMM:Ingredients list, the ResourceRef uses this type to identify both the portion of the containing document that refers to the resource, and the portion of the referenced resource that is referenced.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Part#
+xmp:pdfaType:prefix: stPart
+xmp:pdfaType:type: Part
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/t/pg/
+xmp:pdfaSchema:prefix: xmpTPg
+xmp:pdfaSchema:schema: XMP Paged-Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A structure containing the characteristics of a font used in a document
+xmp:pdfaProperty:name: Fonts
+xmp:pdfaProperty:valueType: Bag Font
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: XMP08 Spec: An ordered array of plate names that are needed to print the document (including any in contained documents).
+xmp:pdfaProperty:name: PlateNames
+xmp:pdfaProperty:valueType: Seq Text
+xmp:pdfaType:description: A structure containing the characteristics of a font used in a document.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Font#
+xmp:pdfaType:prefix: stFnt
+xmp:pdfaType:type: Font
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdfx/1.3/
+xmp:pdfaSchema:prefix: pdfx
+xmp:pdfaSchema:schema: PDF/X ID Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: ID of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXVersion
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Conformance level of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXConformance
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Company creating the PDF
+xmp:pdfaProperty:name: Company
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Date when document was last modified
+xmp:pdfaProperty:nBOOKMARKS:
+Abstract
+  Background
+  Methods
+  Results
+  Conclusion
+Background
+Methods
+  Human capital approach framework
+  Sensitivity analysis
+  Data sources
+  Data analysis
+Results
+Discussion
+  Limitations of the study
+Conclusion
+Additional files
+Abbreviations
+Acknowledgements
+Authors’ contributions
+Funding
+Availability of data and materials
+Ethics approval and consent to participate
+Consent for publication
+Competing interests
+Author details
+References
+Publisher’s Note
+Page 1
+Kirigia et al. BMC Public Health (2019) 19:1218
+https://doi.org/10.1186/s12889-019-7542-2
+RESEARCH ARTICLE
+The monetary value of human lives lost
+through Ebola virus disease in the
+Democratic Republic of Congo in 2019
+Joses M. Kirigia1* [URL: "http://orcid.org/0000-0002-2317-4666"] , Rose Nabi Deborah Karimi Muthuri2 and Newton Gitonga Muthuri3 
+Open Access
+Abstract
+Background: Between 8 May 2018 and 27 May 2019, cumulatively there were 1286 deaths from Ebola Virus Disease
+(EVD) in the Democratic Republic of Congo (DRC). The objective of this study was to estimate the monetary value of
+human lives lost through EVD in DRC.
+Methods: Human capital approach was applied to monetarily value years of life lost due to premature deaths from EVD.
+The future losses were discounted to their present values at 3% discount rate. The model was reanalysed using 5 and
+10% discount rates. The analysis was done alternately using the average life expectancies for DRC, the world, and the
+Japanese females to assess the effect on the monetary value of years of life lost (MVYLL).
+Results: The 1286 deaths resulted in a total MVYLL of Int$17,761,539 assuming 3% discount rate and DRC life expectancy
+of 60.5 years. The average monetary value per EVD death was of Int$13,801. About 44.7 and 48.6% of the total MVYLL was
+borne by children aged below 9 years and adults aged between 15 years and 59 years, respectively.
+Re-estimation of the algorithm with average life expectancies of the world (both sexes) and Japanese females,
+holding discount rate constant at 3%, increased the MVYLL by Int$ 3,667,085 (20.6%) and Int$ 7,508,498 (42.3%), respectively.
+The application of discount rates of 5 and 10%, holding life expectancy constant at 60.5 years, reduced the MVYLL by Int$ 4,
+252,785 (− 23.9%) and Int$ 9,658,195 (− 54.4%) respectively.
+Conclusion: The EVD outbreak in DRC led to a considerable MVYLL. There is an urgent need for DRC government
+and development partners to disburse adequate resources to strengthen the national health system and other systems
+that address social determinants of health to end recurrence of EVD outbreaks.
+Keywords: Ebola virus disease (EVD) deaths, Human capital, Monetary value of life, Years of life lost, Gross domestic
+product, Democratic Republic of Congo (DRC)
+Background
+The Democratic Republic of the Congo (DRC) is situated
+in Central Africa [1]. It is divided into 26 administrative
+provinces and has a population of 97.879 million persons.
+The country had a total gross domestic product (GDP) of
+US$ 48.458 billion and a per capita GDP of US$ 495.1
+(equivalent to Int$ 791.19) in 2019 [2].
+In 2017 DRC had a low human development index
+(HDI) of 0.457 and inequality-adjusted HDI of 0.319; life
+expectancy of 60.5 years; and 6.8 mean years of schooling
+* Correspondence: [URL: "mailto:muthurijoses68@gmail.com"] muthurijoses68@gmail.com
+1African Sustainable Development Research Consortium (ASDRC), P.O. Box
+6994 00100 GPO, Nairobi, Kenya
+Full list of author information is available at the end of the article 
+[3]. It had an overall multidimensional poverty index of
+0.378. The low standard of living contributes 56.2%, health
+25% and education 18.9% to overall multidimensional
+poverty. Approximately, 57 million of the population live
+in multidimensional poverty.
+The Ministry of Health in DRC notified World Health
+Organization (WHO) of confirmed cases of ongoing
+Ebola Virus Disease (EVD) outbreak in the provinces of
+North Kivu and Ituri on 8 May 2018 [4]. As of 27 May
+2019, the cumulative number of EVD cases was 1926.
+There were 1286 EVD-related deaths between 8 May
+2018 and 27 May 2019; of which 91.8 and 8.2% occurred
+in North-Kivu and Ituri provinces, respectively [5] (See
+Additional file 1).
+© The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License ([URL: "http://creativecommons.org/licenses/by/4.0/"] http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Page 2
+Kirigia et al. BMC Public Health (2019) 19:1218  Page 2 of 9
+The recurrent EVD epidemics could be attributed par-
+tially to underinvestment in the national health system
+and other systems that address social determinants of
+health [6]. For instance, the current health expenditure
+(CHE) per capita was US$21 in 2016; which was below
+the US$74 to US$ 198 total cost per person needed to
+reach health system targets for the attainment of SDG3
+[7].  It was made up of domestic general government
+health expenditure (GGHE-D) per capita of US$3; do-
+mestic private health expenditure (PVT-D) per capita of
+US$9; and external health expenditure (EXT) per capita
+of US$9. The DRC out-of-pocket expenditure (OOPS)
+per capita of US$8 was 88.9% of PVT-D and 38.1% of
+CHE [8]. According to the WHO World Health Report
+2010 [9],  when OOPs are above 15–20% of CHE, the
+incidence of financial catastrophe and impoverishment
+increases substantially.
+The DRC universal health coverage (UHC) service
+index was 40% in 2015 [6];  implying essential health
+services coverage gap of 60%.  The tracer indicators of
+the essential health services include reproduction, mater-
+nal, newborn and child health (family planning, pregnancy
+and delivery care, child immunization and treatment);
+infectious diseases (TB treatment, HIV treatment, malaria
+prevention, water and sanitation); noncommunicable dis-
+eases (treatment of cardiovascular diseases, management
+of diabetes, cervical cancer screening, tobacco control);
+and services capacity and access (hospital access, health
+worker density, essential medicines and health security)
+[6]. There is a need for sustained evidence-based advocacy
+for the DRC government, private sector, and external
+partners to increase their investments in the building of
+resilient national health system to attain universal cover-
+age of essential health services.
+Some of the evidence needed for advocacy is the mon-
+etary value of lives lost from a disease such as EVD. A
+few studies have estimated the economic burden of
+EVD. For example, Bartsch, Gorham and Lee estimated
+the cost of an EVD case in Guinea, Liberia and Sierra
+Leone [10]. Kirigia et al estimated the future productiv-
+ity losses associated with EVD deaths in Guinea, Liberia,
+Mali, Nigeria and Sierra Leone [11]. Kastelic et al esti-
+mated the socio-economic impacts of Ebola in Sierra
+Leone [12]. Bowles et al estimated the extent to which
+economic activity declined and jobs disappeared in
+Liberia during the outbreak [13].  Thomas, Smith and
+Ferreira provided an update of the macro-economic
+impact of Ebola on sub-Saharan Africa in 2015 [14].
+There is a dearth of similar economic evidence on the
+EVD epidemic in DRC.
+Thus, the aim of this study is to contribute towards
+bridging that knowledge gap. The specific objective was
+to estimate the monetary value of human lives lost from
+EVD in DRC. 
+Methods
+Human capital approach framework
+This study employed human capital approach (HCA) to
+monetarily value potential years of life lost (PYLL) due
+to premature mortality caused by the EVD in the DRC
+between 8 May 2018 and 27 May 2019. Culyer [15]
+defines human capital as the stock of human skills (de-
+termined by basic ability, educational attainment and
+health status) embodied in an individual; which is mea-
+sured as the present value of expected earnings over a
+period of time [15].
+Death extinguishes expected flow of productive capabil-
+ity in future years. Assuming per capita GDP is a proxy of
+individual person’s rate of remuneration, the productivity
+forgone by society because of premature mortality from
+EVD is the sum of the discounted stream of potential earn-
+ings that could have accrued over the potential years of life
+lost (PYLL) [16]. According to Gardner and Sanborn [17].
+PYLL is a measure of the average time a person would
+have lived had (s)he not died prematurely, i.e. DRC life ex-
+pectancy at death minus age group’s average age at death.
+Thus, potential economic losses to society were estimated
+using PYLL, a cut-off point at the DRC life expectancy at
+birth of 60.5 years, 3% discount rate, number of EVD deaths
+at various age groups, and non-health per capita GDP (per
+capita GDP minus total current health expenditure). Only
+the PYLL above the DRC minimum working age for admis-
+sion to work of 15 years was monetarily valued for age
+groups 1–4 years, 5–9 years and 10–14 years [18].
+The analytical framework formulated below was adapted
+from the frameworks applied in estimating the indirect
+costs of maternal deaths in 2010 [19], maternal deaths in
+2013 [20], child mortality [21], neglected tropical diseases
+deaths [22],  tuberculosis [23] and non-communicable
+disease deaths [24] in the WHO African Region, and
+Ebola Virus Disease in West Africa [11]. As recommended
+first by Weisbrod [25], and subsequently, by WHO [26]
+we deducted current health expenditure from gross prod-
+uctivity to obtain net productivity.
+The monetary value of potential PYLL lost (MVYLL) due
+to EVD deaths in DRC is the sum of the potential non-
+health GDP lost among those aged 1–4 (MVYLL1 − 4
+),
+those aged 5–9 (MVYLL5 − 9
+), those aged 10–14 (MVYLL10
+− 14
+), those aged 15–19 (MVYLL15 − 19
+), those aged 20–24
+(MVYLL20 − 24
+),  those aged 25–29 (MVYLL25 − 29
+),  those
+aged 30–34 (MVYLL30 − 34
+), those aged 35–39 (MVYLL35 −
+39
+),  those aged 40–44 (MVYLL40 − 44
+),  those aged 45–49
+(MVYLL45 − 49
+),  those aged 50–54 (MVYLL50 − 54
+),  those
+aged 55–59 (MVYLL55 − 59
+), those aged 60–64 (MVYLL60 −
+64
+),  those aged 65–69 (MVYLL65 − 69
+),  those aged 70–74
+(MVYLL70 − 74
+),  those aged 75–79 (MVYLL75 − 79
+),  those
+aged 80–84 (MVYLL80 − 84
+), those aged 85–89 (MVYLL85 −
+89
+), those aged 90–94 (MVYLL90 − 94
+), and those aged 95
+years and above (MVYLL≥95
+).
+Page 3
+Kirigia et al. BMC Public Health (2019) 19:1218  Page 3 of 9
+The MVYLL among persons of a specific age group is
+the product of the total discounted years of life lost, per
+capita non-health GDP in purchasing power parity
+(NHGPCInt$
+)  and the total number of EVD deaths
+(EVDD) for age group [11, 19–24].  The DRC’s dis-
+counted total non-health GDP loss attributable to EVD
+deaths (MVYLLDRC
+) was estimated using the eqs. (1)
+and (2) below [11] (see Additional file 2 for details).
+MVYLLDRC 
+¼ ðMVYLL1−4 
+þ MVYLL5−9 
+þ MVYLL10−14
+þMVYLL15−19 
+þ MVYLL20−24 
+þ MVYLL25−29
+þ… þ MVYLL≥95 
+Þ 
+ð1Þ
+MVYLLi 
+¼ 
+Xn nÂ
+1=ð1 þ rÞt
+Ã 
+Â ½NHGPC
+Int
+t¼1
+Â½  g EVDDi 
+¼ 
+nÂ
+1=ð1 þ rÞ1
+Ã 
+Â ½NHGPC
+Int
+Â½  g EVDDi 
+þ 
+&
+Â
+1=ð1 þ rÞ2
+Ã 
+Â ½NHGPC
+Int
+Â½  g þ EVDDi 
+… þ f½   Â ½ 1=ð  Þ 1 þ r n  NHGPC
+Int
+Â½  g EVDDi 
+ð2Þ
+Where: 1/(1 + r)t is the discount factor that converts
+future GDP losses into today’s dollars; r is an interest
+rate that
+i.e. 3% in
+measures the opportunity cost of lost earnings,
+this study; 
+Pnt
+¼1 
+is the summation from year t
+to n; t is the first year of life lost, and n is the final year
+of the total number of years of life lost per EVD death
+within an age group, which is obtained by subtracting
+the age groups average age at death (GAAD) for EVD-
+related causes from the DRC average life expectancy at
+birth; NHGPCInt$ 
+is per capita non-health GDP in pur-
+chasing power parity (PPP),  which is obtained by sub-
+tracting per capita current health expenditure (PCCHE)
+from GDP per capita (GDPPCInt$ 
+); EVDDi 
+is the num-
+ber of EVD deaths occurring in age group i, where i = 1
+correspond to the age group 1–4 years, i = 2 to the age
+group 5–9 years, i = 3 to the age group 10–14 years, i = 4
+to the age group 15–19 years, i = 5 to the age group 20–
+24 years, i = 6 to the age group 25–29 years, i = 7 to the
+age group 30–34 years, i = 8 to the age group 35–39
+years, i = 9 to the age group 40–44 years, i = 10 to the
+age group 45–49 years, i = 11 to the age group 54–54
+years, i = 12 to the age group of 55–59 years, i = 13 to
+the age group 60–64 years, i = 13 to the age group 65–
+69 years, i = 14 to the age group 70–74 years, i = 15 to
+the age group 70–74 years, i = 16 to the age group 75–
+79 years, i = 17 to the age group 80–84 years, i = 18 to
+the age group 85–89 years, i = 19 to the age group 90– 
+94 years, and i = 20 to the age group 95 years and above
+in DRC. The base year to which GDP losses occurring in
+future years were discounted is 2019. The average mon-
+etary value per EVD death was obtained by dividing
+MVYLLDRC 
+by the total number of EVD deaths.
+Sensitivity analysis
+Sensitivity analysis is a procedure of assessing the robust-
+ness of monetary valuation of years of life lost by consider-
+ing the effects of uncertainty [15, 27]. In this study, there
+was uncertainty about the life expectancy at birth and
+discount rate used. Thus, the algorithm was estimated
+assuming DRC life expectancy of 60.5 years, the global
+average life expectancy of 72 years, and Japan female life
+expectancy of 87 years (the longest in the world) [6]. The
+algorithm was also re-estimated assuming discount rates
+of 3, 5 and 10%. The results can be deemed robust if the
+conclusions remain unchanged [28, 29].
+Data sources
+The 1286 EVD-related deaths that occurred between 8
+May 2018 and 27 May 2019 were obtained from the DRC
+Ministry of Health [5]. The distribution of EVD deaths by
+each of the 20 age groups was estimated using data from
+the Institute for Health Metrics and Evaluation (IHME)
+global burden of disease study 2017 database [30].  The
+DRC life expectancy at birth, Japan female life expectancy,
+and global average life expectancy were obtained from
+World Health Statistics 2019 [6].  The current health
+expenditure per capita of 34 International Dollars (Int$)
+or Purchasing Power Parity was obtained from the WHO
+Global Health Expenditure Database [8].  The GDP of
+Int$791.19 per capita for DRC in 2019 was gotten from
+IMF World Outlook database [2].  The equations were
+estimated using Excel Software, Microsoft Corporation,
+New York.
+Data analysis
+The economic model was estimated in 8 steps using
+Excel Software (Microsoft Corporation, New York):
+Step 1: Development of analysis algorithm on Excel
+software
+The equations developed in the HCA analytical frame-
+work above were built into a spreadsheet.
+Step 2: Extraction of EVD mortality data
+The data on the total number of EVD deaths between
+8 May 2018 and 27 May 2019 was extracted from the
+DRC Ministry of Health website [5].
+Page 4
+Kirigia et al. BMC Public Health (2019) 19:1218  Page 4 of 9
+Step 3: Distribution of EVD deaths from step 2 across
+the 20 age groups
+The number of EVD deaths by each of the 20 age groups
+was obtained by multiplying total number of EVD deaths
+[5] and relevant proportion [30] (See Additional file 3). For
+example, the since the total number of EVD deaths was
+1286 and the proportion for age group 1–4 years was
+0.22857, the number of deaths in age group 1–4 years
+equals 1286 multiplied by 0.22857, i.e. 294.
+Step 4: Estimation of undiscounted potential productive
+years of life lost
+The DRC life expectancy at birth of 60.5 years, global
+average life expectancy of 72 years, and Japan female life
+expectancy of 87.1 years (i.e. the highest in the world)
+were obtained from Annex 1 (part 1) of the World
+Health Statistics 2019 report [6].  Assuming DRC life
+expectancy of 60.5 years [6],  the ith age group undis-
+counted potential years of life lost (PYLL) from EVD
+equals average life expectancy at birth for DRC minus
+the average age at death for ith age group, where i = 1,2,
+3,…,20. For example, the PYLL for a death in age group
+15–19 equals 43.5 years, i.e. [60.5 – ((15 + 19)/2)].  The
+undiscounted PYLL for the 20 age groups are contained
+in Additional file 4.
+The undiscounted PYLLs in Additional file 5 were
+calculated, in a similar manner, assuming the world and
+the Japan female life expectancies. The PYLL cannot be
+negative. Thus, for age groups with average age at death
+greater than DRC life average life expectancy of 60.5
+years, their PYLL are assumed to be equal to zero [31]. 
+from EVD, for all the 20 age groups, assuming DRC life
+expectancy and 3% discount rate. The discounted poten-
+tially productive YLLs in Additional file 7 were calculated,
+in a similar way, assuming the world and the Japan female
+life expectancies and a 3% discount rate.
+Step 6: Estimation of non-health GDP per capita
+(NHGPCInt$
+)
+The data on GDP per capita of Int$791.19 was obtained
+from the IMF World Outlook Database [2]; and current
+health expenditure per capita of Int$34 from WHO Glo-
+bal Health Expenditure Database [8]. The NHGPCInt$ 
+was
+the difference between GDP per capita and current health
+expenditure per capita for DRC, i.e. Int$791.19 – Int$34 =
+Int$757.19 per person.
+Step 7: Calculation of MVYLL per age group
+The algorithm developed in Step 1 was estimated assum-
+ing the DRC life expectancy at birth and 3% discount rate.
+The information on number of deaths by age group in
+Additional file 3; discounted potential years of life lost from
+EVD assuming DRC life expectancy in Additional file 6;
+and non-health GDP per capita for DRC were used in
+calculation of MVYLL for each age group.
+For example, MVYLL for 1–4 years’ age group was the
+product of non-health GDP per capita (Int$757.19),  dis-
+counted years of life lost per death in the age group
+(25.02470783) and number of EVD deaths in the age group
+(294).  Therefore, MVYLL1–4 
+= 757.19 × 25.02470783 ×
+294 = Int$ 5,570,847. The MVYLL for the other age groups
+was calculated in a similar manner.
+Step 5: Discounting of potentially productive YLL
+The potentially productive YLLs estimated in Step 4
+were discounted at a rate (r) of 3% using the following
+formula: 1/(1 + r)t,  i.e. the discount factor formula. For
+example, the first year of life lost would be discounted as
+follows: [1 × 1/(1 + 0.03)1 = 0.97087. The discounted (or
+present value) for the second YLL would be [1 x [1/
+(1 + 0.03)2] = 0.942596; for third YLL would be [1 x
+[1/(1 + 0.03)3] = 0.915142; and for the nth YLL (e.g. for
+a premature death in age group 15–19) would be [1 x
+[1/(1 + 0.03)43.5] = 0.276427. Thus, present value of the
+total years of life lost (PVYLLi
+) from one death in a
+given ith age group equals the sum of the discount
+factors multiplied by each undiscounted YLL, i.e.
+Xt¼n
+PVYLLi 
+¼  YLLi 
+Â
+t¼1 
+!
+1
+ð  Þ 1 þ r n 
+:
+The meanings of t, n and r are as defined earlier under
+eq. (2).  Additional file 6 contains the discounted PYLL 
+Step 8: Conduct of sensitivity analysis
+Step 8.1: Sensitivity to discount rate
+Equations (1) to (20) were re-estimated with 5% (see
+Additional file 8) and 10% (see Additional file 9) discount
+rates to measure the sensitivity of the monetary value of
+years of life lost. For example, at the DRC life expect-
+ancy and 5% discount rate, the MVYLL1–4 
+= 757.19 ×
+17.98101571 × 294 = Int$4,002,823. At the world life
+expectancy and 5% discount rate, the MVYLL1–4 
+=
+757.19 × 18.8195417 × 294 = Int$4,189,491. At the Japanese
+Female life expectancy and 5% discount rate, the MVYLL1–
+4 
+= 757.19 × 19.43217937 × 294 = Int$ 4,325,872.
+At the DRC life expectancy and 10% discount rate, the
+MVYLL1–4 
+= 757.19 × 9.886618082 × 294 = Int$ 2,200,
+898. At the world life expectancy and 10% discount rate,
+the MVYLL1–4 
+= 757.19 × 9.96026033 × 294 = Int$2,217,
+292. At the Japanese Female life expectancy and 10% dis-
+count rate, the MVYLL1–4 
+= 757.19 × 9.990486639 ×
+294 = Int$2,224,021. The sensitivity analysis of MVYLL
+Page 5
+Kirigia et al. BMC Public Health (2019) 19:1218  Page 5 of 9
+to changes in discount rates for the other age groups
+was calculated in the same way.
+Step 8.2: Sensitivity to life expectancy
+In order to determine the impact of life expectancy on
+MVYLL estimates, the equations were re-estimated al-
+ternately assuming the world life expectancy of 72 years
+(Additional file 7) and the Japanese female life expect-
+ancy of 87 years (which is the highest in the world)
+(Additional file 7).  At the world life expectancy of 72
+years and 3% discount rate, the MVYLL1–4 
+= 757.19 ×
+27.33100549 × 294 = Int$ 6,084,261. At the Japanese Fe-
+male life expectancy of 87 years and 3% discount rate,
+the MVYLL1–4 
+= 757.19 × 29.4806675 × 294 = Int$ 6,562,
+805. The sensitivity analysis of MVYLL to changes in life
+expectancy for the other age groups was estimated in
+the same manner.
+Results
+Table 1 provides a breakdown of the monetary value of
+potential years of life lost from Ebola Virus Disease in
+DRC discounted at a 3% rate. The 1286 deaths resulted
+in total MVYLL of Int$17,761,539; Int$21,428,624; and 
+Int$25,270,037 assuming DRC life expectancy of 60.5
+years, the average global life expectancy of 72 years and
+Japan female life expectancy of 87 years, respectively.
+The average MVYLL assuming DRC, global and Japan
+female life expectancies was Int$13,801, Int$16,650 and
+Int$19,635 per death, respectively.
+Out of the Int$17,761,539, about 31.4% occurred among
+1–4-year-old; 13.3% among 5–9-year-old; 6.7% among
+10–14-year-old; 4.7% among 15–19-year-old; 3.7% among
+20–24-year-old; 3.2% among 25–29-year-old; 2.9% among
+30–34-year-old; 27.9% among 35–39-year-old; 2.3%
+among 40–44-year-old; 1.9% among 45–49-year-old; 1.4%
+among 50–54-year-old; and 0.6% among 55–59-year-old.
+Thus, 48.6% of the MVYLL occurred among adults aged
+between 15 years and 59 years; which is the most product-
+ive age bracket.
+Use of the Japanese female life expectancy at birth of
+87 years, holding discount rate constant at 3%, increased
+the MVYLL by Int$ 7,508,498 (42.3%). Utilization of the
+average global life expectancy at birth of 72 years, hold-
+ing discount rate constant at 3%, increased the MVYLL
+by Int$ 3,667,085 (20.6%).
+Table 2 presents an age-group break-down of MVYLL
+from EVD discounted at a 5% rate. The application of
+Table 1 Monetary value of years of life lost from Ebola Virus Disease in DRC discounted at 3% (2019 Int$ or PPP)
+Age MVYLL assuming DRC average life
+Group expectancy & 3% discount rate1 
+MVYLL assuming global average life
+expectancy of 72 years & 3% discount rate2 
+MVYLL assuming Japan female life
+expectancy of 87 years & 3% discount rate3
+1–4  5,570,847  6,084,261  6,562,805
+5–9  2,368,557  2,586,846  2,790,308
+10–14 1,193,753  1,303,770  1,406,315
+15–19 826,429  912,300  992,338
+20–24 656,266  740,328  818,681
+25–29 560,029  649,786  733,448
+30–34 508,526  612,580  709,567
+35–39 4,962,665  6,296,454  7,539,658
+40–44 412,142  563,968  705,482
+45–49 342,131  527,402  700,091
+50–54 247,614  473,133  683,336
+55–59 112,582  361,571  593,650
+60–64 0  226,064  461,477
+65–69 0  90,160  292,892
+70–74 0  0  171,746
+75–79 0  0  83,967
+80–84 0  0  24,274
+85–89 0  0  0
+90–94 0  0  0
+95+ 0  0  0
+TOTAL 17,761,539  21,428,624  25,270,037
+1DRC life expectancy and 3% discount rate; 2Global average life expectancy of 87 years and 3% discount rate; 3Japan female life expectancy of 87 years and 3%
+discount rate
+Page 6
+Kirigia et al. BMC Public Health (2019) 19:1218  Page 6 of 9
+Table 2 Monetary value of years of life lost from Ebola Virus Disease in DRC discounted at 5% (2019 Int$ or PPP)
+Age MVYLL assuming DRC life expectancy 60.5
+Group years & 5% discount rate1 
+MVYLL assuming global average life
+expectancy of 72 years & 5% discount rate2 
+MVYLL assuming japan female life
+expectancy of 87 years & 5% discount rate3
+1–4  4,002,823  4,189,491  4,325,872
+5–9  1,701,881  1,781,246  1,839,231
+10–14 857,748  897,748  926,973
+15–19 601,833  634,909  659,074
+20–24 489,635  525,282  551,326
+25–29 429,139  471,042  501,657
+30–34 401,263  454,744  493,818
+35–39 4,043,451  4,798,172  5,349,580
+40–44 347,734  442,315  511,417
+45–49 299,806  426,872  519,708
+50–54 226,043  396,323  520,732
+55–59 107,398  314,375  465,595
+60–64 0  204,639  373,513
+65–69 0  85,234  245,343
+70–74 0  0  149,328
+75–79 0  0  76,009
+80–84 0  0  22,948
+85–89 0  0  0
+90–94 0  0  0
+95+ 0  0  0
+TOTAL 13,508,754  15,622,391  17,532,122
+1DRC life expectancy 60.5 years and 5% discount rate; 2Global average life expectancy of 72 years and 5% discount rate; 3Japan female life expectancy of 87 years
+and 5% discount rate; minimum working age in DRC is 15 years, and thus, PYLL below 14 years were value at zero
+5% discount rate holding life expectancy constant at
+60.5 years, 72 years and 87 years reduced the MVYLL by
+Int$ 4,252,785 (− 23.94%), Int$ 5,806,233 (− 27.1%), and
+7,737,915 (− 30.6%) respectively.
+Table 3 presents an age-group break-down of MVYLL
+from EVD discounted at a 10% rate. The application of
+10% discount rate holding life expectancies constant at
+60.5 years, 72 years and 87 years reduced the MVYLL by
+Int$ 9,658,195 (−54.4%),  Int$ 12,537,911 (−58.5%),  and
+Int$ 15,792,925 (−62.5%) respectively.
+Discussion
+This study has estimated the monetary value of human
+lives lost due to EVD outbreak between 8 May 2018 and
+27 May 2019 in DRC. The 1286 EVD-related deaths re-
+sulted in total MVYLL of Int$17,761,539; which trans-
+lates to Int$13,801 per death. The main drivers of
+MVYLL estimates were the life expectancy and discount
+rate used.
+How does this MVYLL per EVD-related death in DRC
+compare to similar studies conducted in the past in
+other African countries? Kirigia et al [11] estimated
+productivity loss per EVD death to be Int$ 17,473 for
+Guinea, Int$ 11,283 for Liberia, Int$ 25,126 for Mali, 
+Int$ 47,364 for Nigeria and Int$ 14,633 for Sierra Leone.
+Thus, MVYLL per EVD death in DRC is lower than that
+of Guinea, Mali, Nigeria and Sierra Leone due to lower
+per capita GDP.
+How does this MVYLL per EVD-related death com-
+pare to that of other diseases? Kirigia et al [19] estimated
+the African Region average grand total non-health GDP
+loss to be Int$ 30,203 per maternal death; and Int$ 16,
+397 per maternal death in 2010 for low-income coun-
+tries. Another study estimated the African Region low-
+income countries discounted value of future non-health
+GDP loss due to maternal deaths in 2013 at Int$19,822
+per maternal death [20].  Kirigia and Muthuri [23] ap-
+praised the African Region average grand total non-
+health GDP loss to be Int$66,872 per tuberculosis death;
+and Int$21,513 per tuberculosis death in 2014 for low-
+income countries. The expected future productivity loss
+per child death in the WHO African Region in 2013 was
+estimated to be Int$50,494; and Int$ 25,508 per child
+death for low-income countries [21]. In 2015 the mean
+value of human life lost per NTD death in the African
+Continent was Int$ 37,489; and Int$ 37,489 per human
+life in low-income countries [22]. In 2012 the WHO Af-
+rican Region average grand total non-health GDP loss
+Page 7
+Kirigia et al. BMC Public Health (2019) 19:1218  Page 7 of 9
+Table 3 Monetary value of years of life lost from Ebola Virus Disease in DRC discounted at 10% (2019 Int$ or PPP)
+Age MVYLL assuming DRC life expectancy MVYLL assuming global average life expectancy MVYLL assuming Japan female life expectancy
+Group & 10% discount rate1  of 72 years & 10% discount rate3  of 87 years & 10% discount rate2
+1–4  2,200,898  2,217,292  2,224,021
+5–9  935,756  942,726  945,587
+10–14 471,621  475,134  476,576
+15–19 335,593  338,933  340,304
+20–24 280,739  285,281  287,145
+25–29 254,643  261,381  264,146
+30–34 248,310  259,161  263,615
+35–39 2,632,822  2,826,052  2,905,363
+40–44 240,686  271,243  283,785
+45–49 223,119  274,922  296,184
+50–54 183,148  270,748  306,703
+55–59 96,008  230,370  285,519
+60–64 0  162,841  240,557
+65–69 0  74,629  167,606
+70–74 0  –  109,426
+75–79 0  –  60,484
+80–84 0  –  20,092
+85–89 0  –  0
+90–94 0  –  0
+95+ 0  –  0
+TOTAL 8,103,344  8,890,713  9,477,112
+1DRC life expectancy 60.5 years and 10% discount rate; 2Japan female life expectancy of 87 years & 10% discount rate; 3Global average life expectancy of 72 years
+& 10% discount rate; minimum working age in DRC is 15 years, and thus, PYLL below 14 years were value at zero
+was Int$ 21,985 per NCD death; and Int$ 9096 per NCD
+death for low-income countries [24]. Therefore, the esti-
+mate of MVYLL per EVD death in DRC is lower than
+the indirect cost per maternal death, tuberculosis death,
+child death and NTD death in Africa. However, MVYLL
+per EVD death in DRC was larger than the indirect cost
+per NCD death in low-income countries in Africa. Given
+the virulent nature of EVD and its multi-sectoral nega-
+tive consequences, concerted national, continental and
+global effort should be made to eradicate EVD in the
+DRC.
+Limitations of the study
+The study reported in this paper has four main limitations.
+First, it omits the cost of productivity time lost among
+those diagnosed with EVD but do not die; health system
+costs, including vaccination, tracing cases, diagnostic tests,
+transport of health workers and patients (suspected and ac-
+tual),  plus building and operating treatment centres (in-
+cluding health workforce, medicines, medical devices); and
+intangible costs of pain, grief, mental anguish and social
+stigma to patients and family members [32]. In addition,
+this study does not include the negative impact of fear and
+stigmatisation of EVD on various socioeconomic activities, 
+e.g. aviation, education (schooling), mining, tourism (hospi-
+tality), etc. [33–35].
+Second, strictly applied the HCA would attach a zero
+monetary value on the years of life lost among the
+children below minimum working age of 15 years; un-
+employed adults; full-time homemakers; and retired
+people [16, 36]. Even though their contribution does not
+feature in GDP calculations, the last three categories of
+people make an important non-monetized contribution
+to the society, and thus, we valued their YLL at the net
+non-health GDP per capita for DRC. With regard to
+deaths among children, only the YLL above the mini-
+mum working age of 15 years were valued.
+Third, HCA is “..implicitly based upon the maximization
+of society’s present and future production” (p. 556) [36].
+Maximization of economic production is not the only rea-
+son for combatting EVD. There are other reasons such as
+restoring patients to health so that they can flourish, enjoy
+leisure, and realize their inalienable right to health [37]. In
+addition, society desires to combat EVD to reduce (or alle-
+viate) fear and anxiety in the population, and pave way for
+unimpeded international flow of goods and people.
+Fourth, the HCA does not weigh the costs and benefits
+of alternative interventions into EVD [38, 39]. Thus, its
+Page 8
+Kirigia et al. BMC Public Health (2019) 19:1218  Page 8 of 9
+results should not be used as a basis for priority setting,
+but primarily for advocacy for increased investments into
+the national health system (including disease surveillance
+system) and other systems that address the social determi-
+nants of health.
+Conclusion
+The ongoing EVD outbreak in the DRC has led to the sub-
+stantive monetary value of years of life lost. Therefore, there
+is urgent need for DRC government and development part-
+ners to disburse adequate resources to strengthen national
+health system (including disease surveillance system) and
+other systems that address social determinants of health
+(education, water, sanitation, hygiene, cultural practices,
+physical security) to end recurrence of EVD outbreaks [40].
+In addition, there is a necessity for conducting eco-
+nomic evaluations that identify, assess and compare the
+costs and consequences associated with alternative pre-
+ventive and treatment interventions for EVD. Unlike, the
+evidence presented in this paper which is primarily for
+use in advocacy, economic evaluation evidence would
+guide priority-setting, decision-making and planning of
+prevention and control actions for combatting EVD.
+Additional files
+ Additional file 1: Epidemiological situation of Ebola Virus Disease in
+DRC as at 27 May 2019. (DOCX 12 kb)
+ Additional file 2: Equations used to estimate the DRC’s discounted total
+non-health GDP loss attributable to EVD deaths (MVYLLDRC
+). (DOCX 91 kb)
+ Additional file 3: Age distribution of EVD deaths in DRC. (DOCX 12 kb)
+ Additional file 4 Undiscounted potential years of life lost from EVD
+assuming DRC life expectancy. (DOCX 12 kb)
+ Additional file 5: Undiscounted potential years of life lost from EVD
+assuming world’s and Japanese Female life expectancies. (DOCX 13 kb)
+ Additional file 6: Discounted potential years of life lost from EVD
+assuming DRC life expectancy and 3% discount rate. (DOCX 12 kb)
+ Additional file 7: Discounted potential years of life lost from EVD
+assuming world’s and Japan Female life expectancies and a 3% discount
+rate. (DOCX 13 kb)
+ Additional file 8: Discounted potential years of life lost from EVD
+assuming the DRC, the world and Japanese female life expectancies and
+a 5% discount rate. (DOCX 13 kb)
+ Additional file 9: Discounted potential years of life lost from EVD
+assuming the DRC, the World and the Japan female life expectancies and
+a 10% discount rate. (DOCX 13 kb) 
+lost among those aged 15–19; MVYLL20–24
+: Monetary value of potential years
+of life lost among those aged 20–24; MVYLL25–29
+: Monetary value of
+potential years of life lost among those aged 25–29; MVYLL30–34
+: Monetary
+value of potential years of life lost among those aged 30–34; MVYLL35–
+39
+: Monetary value of potential years of life lost among those aged 35–39;
+MVYLL40–44
+: Monetary value of potential years of life lost among those aged
+40–44; MVYLL45–49
+: Monetary value of potential years of life lost among
+those aged 45–49; MVYLL50–54
+: Monetary value of potential years of life lost
+among those aged 50–54; MVYLL55–59
+: Monetary value of potential years of
+life lost among those aged 55–59; MVYLL5–9
+: Monetary value of potential
+years of life lost among those aged 5–9; MVYLL60–64
+: Monetary value of
+potential years of life lost among those aged 60–64; MVYLL65–69
+: Monetary
+value of potential years of life lost among those aged 65–69; MVYLL70–
+74
+: Monetary value of potential years of life lost among those aged 70–74;
+MVYLL75–79
+: Monetary value of potential years of life lost among those aged
+75–79; MVYLL80–84
+: Monetary value of potential years of life lost among
+those aged 80–84; MVYLL85–89
+: Monetary value of potential years of life lost
+among those aged 85–89; MVYLL90–94
+: Monetary value of potential years of
+life lost among those aged 90–94; NCD: Non-communicable disease;
+NHGPCInt$
+: Per capita non-health GDP in purchasing power parity;
+NTD: Neglected tropical disease; OOPS: Out-of-pocket expenditure; PVT-
+D: Domestic private health expenditure; PYLL: Potential Years of Life Lost;
+r: Interest rate that measures the opportunity cost of lost earnings;
+SDG3: United Nations Sustainable Development Goal; UHC: Universal health
+coverage; US$: United States Dollar; WHO: World Health Organization
+Acknowledgements
+We owe profound gratitude to Jehovah Jireh for meeting all our needs
+during the entire process of the study reported in this paper. We are grateful
+to Lenity Hones ty Kainyu Nkanata for immense moral support. The views
+expressed in this paper are solely those of the authors and should not be
+attributed to institutions they are affiliated to.
+Authors’ contributions
+JMK and RDKM designed the study; downloaded the data on number of
+deaths from DRC Ministry of Health website, per capita GDP from IMF
+database, and current health expenditure per capita from WHO database;
+designed the economic model/algorithm on Excel software; and drafted the
+manuscript. NGM did the literature review and contributed in the drafting of
+discussion and conclusion sections. All the authors approved the final
+version of the paper.
+Funding
+None.
+Availability of data and materials
+All data generated or analysed during this study are included in this
+published article and its supplementary information files.
+Ethics approval and consent to participate
+Not applicable. No ethical clearance was required because the study relied
+completely on analysis of secondary data publicly available in the DRC
+Ministry of Health Website, WHO Global Health Expenditure database and
+IMF database.
+Abbreviations
+CHE: Current health expenditure; DRC: Democratic Republic of the Congo;
+EVD: Ebola Virus Disease; EVDDi
+: Number of Ebola Virus Disease deaths per ith
+age group; EXT: External health expenditure; GDP: Gross domestic product;
+GGHE-D: Domestic general government health expenditure; HCA: Human
+capital approach; IHME: Institute of Health Metrics and Evaluation;
+IMF: International Monetary Fund; Int$: International Dollars or Purchasing
+Power Parity (PPP); MVYLL: Monetary value of years of life lost; MVYLL= >
+95
+: Monetary value of potential years of life lost among those aged 95 years
+and above; MVYLL10–14
+: Monetary value of potential years of life lost among
+those aged 10–14; MVYLL1–4
+: Monetary value of potential years of life lost
+among those aged 1–4; MVYLL15–19
+: Monetary value of potential years of life 
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Author details
+1African Sustainable Development Research Consortium (ASDRC), P.O. Box
+6994 00100 GPO, Nairobi, Kenya. 2Faculty of Health Sciences, University of
+Pretoria, Pretoria, South Africa. 3School of Business, United States
+International University, Nairobi, Kenya.
+Page 9
+Kirigia et al. BMC Public Health (2019) 19:1218  Page 9 of 9
+Received: 8 July 2019 Accepted: 25 August 2019
+References
+1.  CEMAC. Les Etats membres de la CEMAC. Accessed 18 May 2019. URL
+ https://www.cemac.int/.
+2.  International Pecuniary Fund (IMF). World Economic Outlook Database.
+Washington D.C: IMF; 2019. Accessed 18 May 2019. URL: [URL: "https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/index.aspx"] https://www.imf.
+ org/external/pubs/ft/weo/2019/01/weodata/index.aspx]
+3.  United Nations Development Programme (UNDP). Human development
+indices and indicators. 2018 statistical update. New York: UNDP; 2018.
+4.  The Ebola Outbreak Epidemiology Team. Outbreak of Ebola virus disease in
+the Democratic Republic of the Congo, April–May, 2018: an epidemiological
+study. Lancet. 2018;392:213–21.
+5.  Democratic Republic of Congo. Epidemiological Situation. Evolution of the
+Ebola Epidemic in the Provinces of North Kivu and Ituri. Kinshasa: Ministry of
+Health; 2019. URL: [URL: "https://www.minisanterdc.cd/"] https://www.minisanterdc.cd/. Wednesday, May 27, 2019
+6.  World health statistics overview 2019. Monitoring health for the SDGs,
+sustainable development goals. Geneva: World Health Organization; 2019.
+7.  Stenberg K, Hanssen O, Edejer TT, Bertram M, Brindley C, Meshreky A, Rosen JE,
+Stover J, Verboom P, Sanders R, Soucat A. Financing transformative health
+systems towards achievement of the health sustainable development goals: a
+model for projected resource needs in 67 low-income and middle-income
+countries. Lancet Glob Health. 2017;5(9):e875–87.
+8.  WHO. Global Health Expenditure Database. Geneva: WHO; 2019. Accessed
+18 May 2019. URL: [URL: "http://apps.who.int/nha/database/ViewData/Indicators/en"] http://apps.who.int/nha/database/ViewData/Indicators/en
+9.  WHO. The world health report: health systems financing: the path to
+universal coverage. Geneva: WHO; 2010.
+10. Bartsch SM, Gorham K, Lee BY. The cost of an Ebola case. Pathog Glob
+Health. 2015;109(1):4–9.
+11. Kirigia JM, Masiye F, Kirigia DW, Akweongo P. Indirect costs associated with
+deaths from the Ebola virus disease in West Africa. Infect Dis Poverty. 2015;
+4:45. [URL: "https://doi.org/10.1186/s40249-015-0079-4"] https://doi.org/10.1186/s40249-015-0079-4.
+12. Kastelic KH, Testaverde M, Turay A, Turay S. The socio-economic impacts of
+Ebola in Sierra Leone: results from a high frequency cell phone survey
+(round three) (English), vol. 2015. Washington, D.C.: World Bank; 2015.
+13. Bowles J, Hjort J, Melvin T, Werker E. Ebola, jobs and economic activity in
+Liberia. J Epidemiol Community Health. 2016;70:271–7.
+14. Thomas MR, Smith G, Ferreira FHG. The economic impact of Ebola on sub-
+Saharan Africa: updated estimates for 2015. Washington DC: World Bank
+Group, 2015.World Bank. 2014–2015 West Africa Ebola crisis: impact update.
+Washington DC: World Bank Group; 2016.
+15. Culyer AJ. The dictionary of health economics. Cheltenham: Edward Elgar
+Publishing Limited; 2005.
+16. Robinson R. Economic evaluation and health care: cost-benefit analysis. BMJ.
+1993;307(6909):924–6.
+17. Gardner JW, Sanborn JS. Years of potential life lost (YPLL)--what does it
+measure? Epidemiology. 1990;1(4):322–9.
+18. International Trade Union Confederation (ITUC). Internationally recognised
+Core labour standards in the Democratic Republic of Congo. Report for the
+WTO general council review of the trade policies of the Democratic
+Republic of Congo. Geneva: ITUC; 2010.
+19. Kirigia JM, Mwabu GM, Orem JN, Muthuri RDK. Indirect cost of maternal
+deaths in the WHO African region in 2010. BMC Pregnancy Childbirth. 2014;
+14:299 URL: [URL: "http://www.biomedcentral.com/1471-2393/14/299"] http://www.biomedcentral.com/1471-2393/14/299.
+20. Kirigia JM, Mwabu GM, Orem JN, Muthuri RDK. Indirect cost of maternal
+deaths in the WHO African region, 2013. Int J Soc Econ. 2016;43(5):532–48.
+21. Kirigia JM, Muthuri RDK, Nabyonga-Orem J, Kirigia DW. Counting the cost of
+child mortality in the World Health Organization African region. BMC Public
+Health. 2015;15:1103 URL: http://www.biomedcentral.com/content/pdf/
+s12889-015-2465-z.pdf.
+22. Kirigia JM, Mburugu GN. The monetary value of human lives lost due to
+neglected tropical diseases in Africa. Infect Dis Poverty. 2017;6:165. [URL: "https://doi.org/10.1186/s40249-017-0379-y"] https://
+ doi.org/10.1186/s40249-017-0379-y.
+23. Kirigia JM, Muthuri RNDK. Productivity losses associated with tuberculosis
+deaths in the World Health Organization African region. Infect Dis Poverty.
+2016;5:43. [URL: "https://doi.org/10.1186/s40249-016-0138-5"] https://doi.org/10.1186/s40249-016-0138-5.
+24. Kirigia JM, Mwabu GM, M’Imunya JM, Muthuri RDKM, Nkanata LHK, Gitonga
+EB. Indirect cost of non-communicable diseases deaths in the World Health
+Organization African region. Int Arch Med. 2017;10(34). [URL: "https://doi.org/10.3823/2304"] https://doi.org/10.3
+ 823/2304. 
+25. Weisbrod BA. The valuation of human capital. J Political Econ. 1961;69(5):
+425–36.
+26. WHO. WHO guide to identifying the economic consequences of disease
+and injury. Geneva: WHO; 2009.
+27. Shiell A, Donaldson C, Mitton C, Currie G. Glossary: Health economic
+evaluation. J Epidemiol Community Health. 2002;56:85–8.
+28. Briggs A, Sculpher M. Sensitivity analysis in economic evaluation: a review of
+published studies. Health Econ. 1995;4(5):355–71.
+29. Andronis L, Barton P, Bryan S. Sensitivity analysis in economic evaluation: an
+audit of NICE current practice and a review of its use and value in decision-
+making. Health Technol Asses. 2009;13(29):1–61.
+30. Global Burden of Disease Collaborative Network. Global Burden of Disease
+Study 2017 (GBD 2017) Results. Seattle: Institute for Health Metrics and
+Evaluation (IHME; 2018. Accessed 5 June 2019. URL: [URL: "http://ghdx.healthdata.org/gbd-results-tool"] http://ghdx.healthdata.
+ org/gbd-results-tool
+31. Šemerl JS, Šešok J. Years of potential life lost and valued years of potential
+life lost in assessing premature mortality in Slovenia. Croat Med J. 2002;
+43(4):439–45.
+32. Finkelstein C, Corso P. Cost-of-illness analyses for policy making: a
+cautionary tale of use and misuse. Expert Rev Pharmacoecon Outcomes Res.
+2003;3(4):367–9.
+33. O’Leary A, Jalloh MF, Neria Y. Fear and culture: contextualising mental
+health impact of the 2014–2016 Ebola epidemic in West Africa. BMJ Glob
+Health. 2018;3:e000924. [URL: "https://doi.org/10.1136/bmjgh-2018-000924"] https://doi.org/10.1136/bmjgh-2018-000924.
+34. Bali S, Stewart KA, Pate MA. Long shadow of fear in an epidemic:
+fearonomic effects of Ebola on the private sector in Nigeria. BMJ Glob
+Health. 2016;1:e000111. [URL: "https://doi.org/10.1136/bmjgh-2016000111"] https://doi.org/10.1136/bmjgh-2016000111.
+35. Yamanis T, Nolan E, Shepler S. Fears and misperceptions of the Ebola response
+system during the 2014-2015 outbreak in Sierra Leone. PLoS Negl Trop Dis.
+2016;10(10):e0005077. [URL: "https://doi.org/10.1371/journal.pntd.0005077"] https://doi.org/10.1371/journal.pntd.0005077.
+36. Landefeld JS, Seskin EP. The economic value of life: linking theory to
+practice. Am J Public Health. 1982;72:555–66.
+37. United Nations. Universal declaration of human rights. New York: United
+Nations; 1948.
+38. Byford S, Torgerson DJ, Raftery J. Economic note: cost of illness studies. BMJ.
+2000;320(7245):1335.
+39. Shiell A, Gerard K, Donaldson C. Cost of illness studies: an aid to decision-
+making? Health Policy. 1987;8:317–23.
+40. Elmahdawy M, Elsisi GH, Carapinha J, Lamorde M, Habib A, Agyie-Baffour P,
+Soualmi R, Ragab S, Udezi AW, Usifoh C, Usifoh S. Ebola virus epidemic in
+West Africa: Global Health economic challenges, lessons learned, and policy
+recommendations. Value Health Reg Issues. 2017;13C:67–70.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.

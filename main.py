@@ -41,21 +41,15 @@ class ClusterDataFast:
 
         #Read in text information into respective variabels and preprocess if needed
         self.data, self.labels, self.filenames = getText(data_folder_path, knowLabels = know_labels, preprocessData = True, RemoveNums = True, lem=True, extendStopWords= True)
+        
         #Vectorize data
-        #self.vectorized = AdjustedVectorization(self.data, labels=self.labels).tfidf(min_df=.005, max_df=.8,ngrams=(1,2))
-        self.vectorized = AdjustedVectorization(self.data, labels=self.labels).tfidf_weighted(min_df=.005, max_df=.8)
-        #myVectorize = fastVectorize(self.data, self.labels)
-        print(len(self.vectorized.columns))
-        #print(self.vectorized)
-        #print(len(myVectorize.columns))
-        #print(myVectorize)
+        self.vectorized = AdjustedVectorization(self.data, labels=self.labels).tfidf(min_df = .005, max_df = .8, ngrams = (1,2))
 
         #Reduce the vectorized data
         self.reducedDF = reduceVector(self.vectorized, reduction_method = reduction_method)
 
         #Cluster data
         self.cluster = clusterData(self.reducedDF, setting = setting)
-
 
         #Get predicted groups of each file
         self.pred_labels = getPredicitonLabels(self.cluster)
@@ -67,6 +61,7 @@ class ClusterDataFast:
         #Get the keywords for each data file
         self.keywords, self.pred_labels_dict = assign_keywords(self.pred_labels, self.data)
 
+        #Print results of how each file was categorized if wanted
         if(printResults):
             predDF = pd.DataFrame(self.pred_labels_dict, index = self.labels)
             print(predDF.to_string())
@@ -80,9 +75,9 @@ class ClusterDataFast:
 
 
 def main(file_path):  # TODO: Check labels!!!
-    clus = ClusterDataFast(file_path, save=0, setting = 0, printResults=False, reduction_method="umap", plotType=None)
-    print(clus.homogenity)
-    print(clus.completenss)
+    clus = ClusterDataFast(file_path, save=0, setting = 0, printResults=False, reduction_method="svd", plotType=None)
+    print("Homogenity:", clus.homogenity)
+    print("Completeness: ", clus.completenss)
 
 
 if __name__ == '__main__':

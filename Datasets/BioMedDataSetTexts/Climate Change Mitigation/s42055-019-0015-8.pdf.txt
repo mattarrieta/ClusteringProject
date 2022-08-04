@@ -1,0 +1,1336 @@
+Creator: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+Producer: Acrobat Distiller 10.0.0 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)
+Title: The practice of climate change policy evaluations in the European Union and its member states: results from a meta-analysis
+Keywords: Climate policy,Policy evaluation,Meta-analysis,European Union,EU member states
+ModDate: 2019/12/12 19:26:38+01'00'
+Subject: Sustain Earth, doi:10.1186/s42055-019-0015-8
+Author: Noriko Fujiwara
+CreationDate: 2019/12/10 11:32:39+08'00'
+xmp:pdf:Keywords: Climate policy,Policy evaluation,Meta-analysis,European Union,EU member states
+xmp:pdf:Producer: Acrobat Distiller 10.0.0 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)
+xmp:dc:format: application/pdf
+xmp:dc:identifier: 10.1186/s42055-019-0015-8
+xmp:dc:publisher: Sustainable Earth
+xmp:dc:description: Sustain Earth, doi:10.1186/s42055-019-0015-8
+xmp:dc:subject: Climate policy; Policy evaluation; Meta-analysis; European Union; EU member states
+xmp:dc:title: The practice of climate change policy evaluations in the European Union and its member states: results from a meta-analysis
+xmp:dc:creator: Noriko Fujiwara; Harro van Asselt; Stefan Böβner; Sebastian Voigt; Niki-Artemis Spyridaki; Alexandros Flamos; Emilie Alberola; Keith Williges; Andreas Türk; Michael ten Donkelaar
+xmp:xmp:ModifyDate: 2019-12-12T19:26:38+01:00
+xmp:xmp:MetadataDate: 2019-12-12T19:26:38+01:00
+xmp:xmp:CreateDate: 2019-12-10T11:32:39+08:00
+xmp:xmp:CreatorTool: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+xmp:xmpMM:DocumentID: uuid:60e624a6-f56c-4db9-b089-b944799d7a58
+xmp:xmpMM:InstanceID: uuid:9e331fcc-7855-41e8-9210-85ede20e3f48
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:60e624a6-f56c-4db9-b089-b944799d7a58
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2019-12-10T11:36:22+08:00
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:pdfaSchema:schema: Springer Nature ORCID Schema
+xmp:pdfaSchema:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/
+xmp:pdfaSchema:prefix: sn
+xmp:pdfaProperty:name: authorInfo
+xmp:pdfaProperty:valueType: Bag AuthorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Author information: contains the name of each author and his/her ORCID (ORCiD: Open Researcher and Contributor ID). An ORCID is a persistent identifier (a non-proprietary alphanumeric code) to uniquely identify scientific and other academic authors.
+xmp:pdfaProperty:name: editorInfo
+xmp:pdfaProperty:valueType: Bag EditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Editor information: contains the name of each editor and his/her ORCID identifier.
+xmp:pdfaProperty:name: seriesEditorInfo
+xmp:pdfaProperty:valueType: Bag SeriesEditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Series editor information: contains the name of each series editor and his/her ORCID identifier.
+xmp:pdfaType:type: AuthorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/authorInfo/
+xmp:pdfaType:prefix: author
+xmp:pdfaType:description: Specifies the types of author information: name and ORCID of an author.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an author.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an author.
+xmp:pdfaType:type: EditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/editorInfo/
+xmp:pdfaType:prefix: editor
+xmp:pdfaType:description: Specifies the types of editor information: name and ORCID of an editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an editor.
+xmp:pdfaType:type: SeriesEditorInfoBOOKMARKS:
+Abstract
+  Background
+  Results
+  Conclusions
+Background
+Methods
+Results
+  General information
+  Timing of publications
+  Affiliation of the authors
+  Commissioning bodies
+  Sectors
+  Reflexivity
+  Evaluation methods
+  Evaluation criteria
+  Presence of political recommendations
+Discussion
+Conclusions
+show [App1]
+Abbreviations
+Acknowledgements
+Authors’ contributions
+Funding
+Availability of data and materials
+Ethics approval and consent to participate
+Consent for publication
+Competing interests
+Author details
+References
+Publisher’s Note
+Page 1
+Fujiwara et al. Sustainable Earth (2019) 2:9
+https://doi.org/10.1186/s42055-019-0015-8 
+Sustainable Earth
+RESEARCH  Open Access
+The practice of climate change policy
+evaluations in the European Union and
+its member states: results from a meta-
+analysis
+Noriko Fujiwara1*, Harro van Asselt2, Stefan Böβner3, Sebastian Voigt4, Niki-Artemis Spyridaki5, Alexandros Flamos5,
+Emilie Alberola6, Keith Williges7, Andreas Türk7 and Michael ten Donkelaar8
+Abstract
+Background: This article presents the main findings from a meta-analysis of how climate change mitigation policy
+evaluations have been undertaken in the European Union (EU) and six of its Member States: Austria, Czech
+Republic, France, Germany, Greece and the United Kingdom. It aims to provide insights into how policy evaluations
+are carried out and how those practices might be improved. As a first step, this article reviews the literature on the
+theory and practice of policy evaluations to guide our methodology and further analysis.
+Results: Our sample of 236 policy evaluations in the EU and six Member States covers the period 2010–2016. Compared
+with the results of a similar meta-analysis carried out covering the period 1998–2007, formal evaluations commissioned
+by government bodies have been on the rise in 2010–2016. Most evaluations focus on effectiveness and goal
+achievement and usually forgo a deeper level of reflexivity and/or public participation in the evaluation process. The
+analysis also reveals the dominance of the energy sector in the sampled evaluations. The article finds that the low
+number of any policy evaluations in the agriculture, waste or land-use sectors is an area for further investigation.
+Conclusions: The exercise of identifying, coding and categorising these evaluations for 7 years helps to provide insights
+into the potential use of ex-post evaluations in support of future EU legislative proposals and accompanying impact
+assessments. Having a good understanding on how a certain policy performed particularly according to evaluation
+criteria might form the basis for more ambitious climate change mitigation policies in the future. Our analysis further
+shows that it is crucial and urgent to allocate sufficient resources to the coverage of relatively under-represented sectors,
+such as land use, land-use change and forestry, and waste.
+Keywords: Climate policy, Policy evaluation, Meta-analysis, European Union, EU member states
+Background
+The evaluation of climate change mitigation policy is
+crucial for understanding how well policies and mea-
+sures work. Policy evaluation offers analysts insights
+in the functioning of policies and provides policy-
+makers with much-needed information on how to
+improve them. In addition, policy evaluation can en-
+hance the transparency of policy implementation,
+* Correspondence: [URL: "mailto:noriko.fujiwara@ceps.eu"] noriko.fujiwara@ceps.eu
+1Centre for European Policy Studies (CEPS), Place du Congrès 1, 1000
+Brussels, Belgium
+Full list of author information is available at the end of the article 
+which is essential to gain citizens’  support for those
+policies [1] and useful for private companies and in-
+vestors to get a better understanding of the progress
+of those policies to support their decisions in favour
+of low-carbon investments.
+The importance and necessity of climate policy evalu-
+ation were underscored by the Paris Agreement adopted
+in December 2015. The Paris Agreement puts in place a
+process in which countries pledge, in five-year cycles, non-
+legally-binding Nationally Determined Contributions
+(NDCs).  The main accountability mechanism to ensure
+countries live up to their promises consists of various
+© The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License ([URL: "http://creativecommons.org/licenses/by/4.0/"] http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Page 2
+Fujiwara et al. Sustainable Earth (2019) 2:9  Page 2 of 16
+review processes, notably a review of implementation by
+individual parties (i.e. through the “enhanced transparency
+framework” of Article 131), and a review of global efforts
+towards long-term goals of the Agreement (i.e. the “global
+stocktake” of Article 14).
+Since the early 1990s, and in line with the requirements
+under the United Nations Framework Convention on
+Climate Change (UNFCCC), the European Union (EU) has
+gained significant experience in monitoring and reporting
+greenhouse gas emissions, as well as the policies put in
+place to reduce emissions. Over time, the Union has
+strengthened its internal transparency mechanisms by
+requesting Member States to report on the impacts of
+these policies, adding an element of policy evaluation to
+the regulatory framework. Member States now have to re-
+port their progress on climate change policies under the
+EU’s Monitoring Mechanism Regulation [2],  while other
+policy areas such as renewable energy and energy efficiency
+also require Member States to submit national action plans
+and reports [1–3]. These requirements are streamlined into
+Integrated National Energy and Climate Plans under the
+new Energy Union Governance Regulation [4].
+Although they are distinct practices, monitoring
+and reporting are closely intertwined with the evalu-
+ation of climate policies. Such climate policy evalua-
+tions can offer insights into a variety of aspects,
+including the amount of greenhouse gas emission re-
+ductions, the cost-effectiveness of policies, their so-
+cial acceptance, or the coherence with other policies [5].
+Climate policy measures – and thus also their evaluations
+– commonly address renewable energy deployment,
+switching to low-carbon fuels or electric vehicles and en-
+ergy efficiency in buildings [34]. Systematic analysis of the
+information made available by these evaluations only re-
+cently began to draw attention and is usually fragmented
+across policy themes. A case in point is energy efficiency,
+where there has been a long tradition on evidence-based
+policy evaluations, with for instance the recent EU-funded
+EPATEE (Evaluation into Practice to Achieve Targets for
+Energy Efficiency) project providing a large repository of
+those across EU countries [35].  Nevertheless meta-
+analyses of evaluations targeting measures across policy
+themes are still largely lacking. A notable exception is
+Huitema et al. [6],  which reports on a meta-analysis of
+259 evaluations, covering the period from 1998 to 2007
+for the EU and several EU Member States.2 This article
+offers a more recent application of this type of analysis,
+1Parties to the Paris Agreement are to report on their emissions trends
+(through annual greenhouse gas inventories) and through biennial
+reports that need to indicate how much progress has been made in
+implementing and achieving their nationally determined contributions
+under the Agreement (see [31]).
+2The Member States examined by Huitema et al. [6] are United
+Kingdom, Germany, Italy, Finland, Portugal, and Poland. 
+focusing on ex-post climate policy evaluations, to reflect
+more recent developments and gain updated insights into
+climate policy evaluation in the EU.
+Through a systematic analysis of policy evaluations, the
+article aims to enhance the understanding of existing climate
+policy evaluation practices in the EU and Member States,
+juxtaposing the latter with broader policy developments at
+the EU and international level. The article first offers some
+background on the theory of policy evaluation and insights
+into EU evaluation practices. It then explains the method-
+ology of our analysis. It summarises and discusses the results
+of the meta-analysis, and concludes with recommendations
+for EU policymakers and climate policy evaluators.
+Policy evaluation can serve various functions. Aside from
+its key function of determining whether a policy can be
+considered effective [7], policy evaluation can help policy-
+makers learn from their experiences and, where needed,
+correct and amend existing policies. Policy evaluation can
+further strengthen public accountability by demonstrating
+whether policies live up to policymakers’  promises [8, 9].
+Furthermore, policy evaluation can be used as a
+management tool to review the performance of
+government departments [8].
+Common to all those functions is some sort of value
+judgement based on certain criteria [10].  These value
+judgements add a layer of complexity, as they raise the
+question which criteria should be used to evaluate policies.
+Should an evaluation focus on goal attainment or should
+criteria such as “fairness” or “cost-effectiveness” be taken
+into consideration as well? And who decides against which
+of those values a policy is to be judged? There are no de-
+finitive answers to these questions, as they are highly
+context-specific: in a jurisdiction facing significant budget-
+ary constraints, it may be appropriate to focus on the
+criterion of cost-effectiveness, while for another jurisdic-
+tion it may be more pertinent to focus on criteria such as
+the fairness and distributional impacts of a policy. While
+the criteria to be applied in policy evaluations are thus up
+for discussion, the policy evaluation literature gives some
+suggestions regarding good practices in policy evaluation.
+Policy evaluation should have a highly systematic approach
+that uses clear evaluation criteria [9].  Moreover, policy
+evaluation should go beyond simply assessing goal attain-
+ment and also ask whether specific policies have been ad-
+equate to their socio-cultural context [12, 13] to achieve
+their goal (e.g. whether policies are in line with existing
+norms and values; see [11]).  In the same vein, Huitema
+et al. [6] argue that policy evaluations should also contain a
+certain degree of reflexivity (e.g. by questioning the objec-
+tives underpinning policies), that they should cater to the
+complexity of “wicked” problems such as climate change
+(e.g. allowing for more than one recommendation) and be
+participatory in nature (e.g. providing the opportunity for
+several stakeholder groups to voice their opinions on a
+Page 3
+Fujiwara et al. Sustainable Earth (2019) 2:9  Page 3 of 16
+given policy).  In addition, Schoenefeld and Jordan [14]
+argue that, depending on whether policy evaluations are
+carried out or otherwise driven by government agents
+themselves or more by civil society stakeholders such as
+universities, NGOs and consultancies, results and outcome
+of the evaluation might vary, thus pointing to the import-
+ance of taking the evaluating entity into consideration [14].
+Policy evaluation has become gradually more important
+in the EU. Since 2002, the European Commission has been
+committed to the EU agenda of “Better Regulation”, which
+highlights, among others, the ex-ante impact assessments
+of policy initiatives, the monitoring and ex-post evaluation
+of existing policies as well as the importance of stakeholder
+consultation in these processes.3 More recently, in 2012,
+the European Parliament introduced ex-ante impact assess-
+ments by establishing a dedicated service within its admin-
+istration. Since 2013, ex-post evaluations have been added
+to complete an entire legislative cycle from agenda setting
+to scrutiny of legislative proposals [15]. The growing rec-
+ognition within the EU of the value of the evaluation
+process has resulted in an increasing demand for the
+evaluation of environmental policies and programmes [9],
+including evaluations in the area of climate policy.
+As is the case for policy evaluation in general [16], it is
+challenging to evaluate climate policies, because it can be
+hard to identify clear policy outcomes, and policies often
+interact with each other [9, 17, 18]. This has also recently
+been recognised with respect to specific climate policy
+themes (e.g. energy efficiency), where a lack of quantitative
+data was highlighted as an impediment to evidence-based
+analysis required to distinguish effective from ineffective
+policy practices [36]. Within the EU, these barriers to an
+effective evaluation process are compounded by the
+complexity of the governance system [9].  Moreover,
+there are important political barriers for further
+strengthening evaluation and monitoring practices in
+EU Member States. For instance, they require financial
+resources that governments may be unwilling to allo-
+cate, and Member States may be unwilling to cede
+more powers to EU institutions for this function [19].
+One of the most relevant pieces of EU legislation for
+climate change mitigation policy evaluations is the Moni-
+toring Mechanism Regulation (MMR) [2].4 The MMR re-
+quires Member States to report “quantitative estimates of
+the effect of policies and measures on emissions by sources
+3[URL: "https://ec.europa.eu/info/law/law-making-process/better-regulation-why-and-how_en"] https://ec.europa.eu/info/law/law-making-process/better-regulation-
+ why-and-how_en last accessed on 28 March 2019; see also [21, 32]: 31.
+4Regulation 525/2013/EU [2] is an update of the EU’s Monitoring
+Mechanism Decision (Decision 280/2004/EC [33];). The MMR is not
+the only EU legislation that calls for the evaluation of the effects of
+policies and measures. As Hildén et al. [19] note, other Directives –
+e.g. Article 22.1 of the Renewable Energy Directive (2009/28/EC) and
+Article 24.1 of the Energy Efficiency Directive (2012/27/EU) – likewise
+call for Member States to report on progress made in the
+implementation. 
+and removals by sinks of greenhouse gases” (Article
+3.2(a)(v), [2]) and to report the following elements in their
+information on policies and measures (Article 13.1(c) (iii)-
+(vii),  [2]):  the status of implementation of the policy or
+measure or group of measures; indicators to monitor and
+evaluate progress over time; quantitative estimates (both
+ex-post and ex-ante assessments) of the effects of policies
+and measures on emissions by sources and removals by
+sinks of greenhouse gases; estimates of the projected costs
+and benefits of policies and measures, as well as estimates
+of the realised costs and benefits of policies and measures;
+and all references to the assessments and the underpinning
+technical reports. These provisions are encouraging in that
+they call on Member States to provide both ex-ante and ex-
+post information on the effects of mitigation policies, and
+also encourage Member States to offer estimates of ex-ante
+and ex-post costs and benefits. Nevertheless, they also leave
+much discretion to the Member States, as indicated by the
+various mentions of the words “where appropriate” and
+“where available” (Article 13.1(c) (v)-(vii), [2]), as well as by
+the fact that Member States can opt to assess the effects of
+a group of measures. Initial reviews of reporting practices
+suggest that Member States thus far have hardly included
+ex-post assessments of the effects of policies and measures
+in their reports [1, 19].
+Indeed, the necessary capacity to carry out ex-post
+evaluations is not equally developed throughout the EU.
+A 2009 study carried out in preparation for the MMR
+found that the EU15 Member States tended to have
+more experience in ex-post evaluations and more often
+have formalised monitoring and evaluation systems in
+place than the newer Member States ([20]:  14).  These
+factors might have an impact on the capacity of newer
+Member States’ to carry out ex-post evaluations.
+All this is not to say that ex-post evaluations are not
+available for the EU and its Member States. Indeed, the
+European Environment Agency (EEA) seeks to go be-
+yond formal evaluation procedures such as those carried
+out by or on behalf of the European Commission in the
+context of the Better Regulation agenda, adding value by
+evaluating policies within a more environment-specific
+context as well as those policies influencing environmen-
+tal policies5 according to its autonomous mandate. It has
+also developed a conceptual framework for policy
+evaluation that builds on key policy evaluation cri-
+teria, with the aspiration to strengthen the tradition
+of carrying out policy evaluations within the EU and
+5The EEA seeks to hold a dialogue about policies on changes in
+ecosystems, the production and consumption system, or the food,
+energy and mobility systems and engage in such a dialogue with the
+EEA member countries and the European Environment and
+Information Network (Eionet), European institutions, the environment
+evaluators community and interested evaluation professionals ([21]: 4).
+Page 4
+Fujiwara et al. Sustainable Earth (2019) 2:9  Page 4 of 16
+facilitate the dialogue between professional evaluators
+and evaluation users [21].
+Methods
+As a starting point, we made several important choices
+concerning the scope of our meta-analysis of climate
+policy evaluations.
+The first choice was which geographical jurisdictions
+to include. Examining 28 Member States would have
+been challenging, considering time and resource con-
+straints as well as language barriers. Drawing on the
+local expertise whilst securing diversity in the coun-
+tries studied, we decided to include the three largest
+EU Member States (Germany, France, and the UK) as
+well as smaller Member States from Central and
+South-Eastern Europe (Austria, Czech Republic, and
+Greece),  with varying emissions profiles.6 In addition,
+since important climate policy evaluations had been
+carried out at the EU level in [6],  the EU was
+included as a separate jurisdiction.
+The second scope-related choice concerned the time
+period of the analysis. The analysis by Huitema et al. [6]
+covered evaluations from January 1998 to March 2007.
+Reflecting climate policy developments in the period after
+the UNFCCC climate conference in Copenhagen and after
+the enactment of the EU’s 2020 climate and energy pack-
+age, both of which took place in 2009, we decided to cover
+the period from January 2010 to December 2016.
+The third choice concerned the eligibility of evalua-
+tions for the analysis.  The number of climate policy
+evaluations is potentially large, and we sought to limit
+the number of evaluations by:
+– Only examining ex-post evaluations, including
+studies that have both ex-ante and ex-post elements,
+and excluding purely ex-ante evaluations.
+– Focusing only on climate change mitigation, not
+adaptation policies.
+– Only examining evaluations of policies reported as
+climate policies by cross-checking with reports
+submitted to the UNFCCC (e.g. the latest National
+Communications submitted by Parties to the
+UNFCCC). Evaluations of policies were considered
+eligible when they included a specific reference to
+climate change mitigation, even if the latter was not
+primary or specific objective of the policy.
+– Excluding purely academic articles.
+– Excluding non-systematic analyses such as position pa-
+pers by NGOs, industry groups, and trade associations
+6The Member State shares of total greenhouse gas emissions in the
+EU28 in 1990–2016 were the following: Germany 21.1%, UK 11.6%,
+France 10.7%, Czech Republic 3.0%, Greece 2.1%, and Austria 1.8%;
+ http://ec.europa.eu/eurostat/statistics-explained/index.php/
+ Greenhouse_gas_emission_statistics last accessed on 28 March 2019. 
+whose primary purpose is not considered to be evalu-
+ation as such but advocacy for policy change.
+– Focusing on the EU-level and national policies,
+excluding purely sub-national policies.
+– Looking only at documents that were made available
+to the public.
+Of course, these choices can influence the results of
+collecting and aggregating evaluations. For instance, ex-
+cluding academic articles avoids double counting be-
+tween different versions of the same paper at different
+stages (e.g. first published as a working paper or report,
+followed by an academic article with essentially the same
+contents). It also allowed us to focus on the content of
+Member States’  reports and official policy evaluations
+and whether and to what extent these represented rigor-
+ous evaluation practices. At the same time, this decision
+risks lowering the total number of evaluations covered
+and may also influence the number of evaluations we
+classified as “independent”.
+In the next step, following the eligibility criteria
+outlined above, we gathered relevant evaluations by
+researching relevant sources such as national govern-
+ments websites, university websites, well-established
+national consultancies and research institutes and
+repositories including EU and UNFCCC databases.
+In the third step, we coded key information from the
+evaluations with a view to creating a comprehensive set
+of information (see Appendix 1 in [22]).  For this pur-
+pose, a common template was developed drawing on the
+template used by Huitema et al. [6].
+The information collected for each of the evaluations
+was aggregated, focusing on the following features and
+design choices (following [6]): (1) the year of publication;
+(2) the affiliation of authors; (3) commissioning bodies
+of evaluations; (4) sectoral coverage; (5) the nature of
+the evaluation (reflexivity); (6) evaluation methods used;
+(7) evaluation criteria used; and (8) whether political re-
+commendations were made (see Appendix). The aggre-
+gation process also helped to verify the information
+collected, spot gaps and inconsistencies, and, in some
+cases, led to the exclusion of evaluations that, on closer
+inspection, did not meet the eligibility criteria.
+While focusing on these features and design choices
+allowed a systematic analysis of climate policy evaluation
+practices in the EU and some of its Member States, several
+caveats are in place. First, the number of evaluations
+found is likely to be non-exhaustive, for instance because
+evaluations are not always publicly available. Second, the
+act of coding evaluations means that a degree of subjectiv-
+ity is inevitable. For example, evaluations do not always
+clearly spell out which criteria or methods are used, and
+judging whether an evaluation is reflexive in nature is not
+always straightforward. We sought to address this concern
+Page 5
+Fujiwara et al. Sustainable Earth (2019) 2:9  Page 5 of 16
+by offering detailed guidance to the coders working in a
+decentralised manner (see Appendix 1 in [22]). Some dis-
+cretion was left to the individual coders on practical
+choices (see also [6]). Nevertheless, systematically applying
+the coding template allowed us to draw some conclusions
+concerning EU policy evaluation practices. The following
+section reports and analyses results of coded evaluations
+in a way comparable to Huitema et al. [6].
+Results
+General information
+In total, our sample consisted of 236 evaluations,
+distributed amongst Member States as displayed in
+Table 1. The variation in the number of evaluations
+implies a discrepancy in evaluation practices across
+Member States for reasons other than limited capacity
+as discussed earlier. Lists of sampled evaluations can be
+found in Appendix 2 of [22].
+In comparison, the sample size of evaluations covered
+by Huitema et al. [6] – which also included adaptation
+policies and academic articles – was 259, ranging from the
+EU (105 evaluations) and the UK (78 evaluations) to
+Portugal (10 evaluations) and Poland (6 evaluations). The
+diversity of the new sample for 2010–2016 is similar to
+those of the old sample for 1998–2007, although the aver-
+age number of evaluations (compared to the number of
+years covered) is comparatively higher (33.7 evaluations
+per year compared to 25.9 evaluations per year),  even
+though the sample in Huitema et al. [6] included studies
+covering adaptation, and also included journal articles.
+Timing of publications
+The number of evaluations continued to increase towards
+2015, except for 2013, and then declined by more than half
+(Fig. 1). It is unclear whether the year 2016 is exceptional
+or signals a changing trend. It is possible that a number of
+evaluations were completed in 2016 but not yet published.
+The number of evaluations could be linked to specific
+policy developments and requirements at international,
+EU and national levels. Nearly half (47%) of the total eval-
+uations were published in the years 2014 and 2015. These
+years can be regarded as important milestones to evaluate
+existing policies in preparation for two major policy
+events. One is the submission of intended nationally de-
+termined contributions (INDCs) to the UNFCCC, which
+were due in the first quarter of 2015. The other is the
+launch of the Energy Union in Europe in 2015. The evalu-
+ations in the third highest year, 2012, include the first
+Table 1 Evaluations per jurisdiction
+Countries EU Germany United Greece Austria France Czech
+Kingdom  Republic
+Total 70
+number of
+evaluations 
+59  64  20  8  10  5  236 
+carbon market report at the end of the second phase of
+the EU ETS, and sectoral analyses of non-ETS sectors.
+The new sample for 2010–2016 remained mostly in the
+range of around 30–60 evaluations per year. This falls be-
+tween the low level of evaluation activities (0–30 evalua-
+tions per year) in 1998–2004 and the high level of activities
+(80–90 evaluations per year) in 2005–2006 (Figure 1 in [6]).
+Affiliation of the authors
+Figure 2 shows the affiliation of authors, highlighting
+that universities or research institutes, followed by govern-
+ment bodies,  were responsible for the clear majority of
+evaluations.7 Government bodies rather than universities
+or research institutes only contributed most to evaluations
+as authors in the EU and the Czech Republic.
+The previous study by Huitema et al. [6] also ranked
+universities or research institutes (about 135 evaluations)
+on top, but followed by commercial consultancies
+(50–60 evaluations) and international organisations
+(20–30 evaluations) (Figure 2 in [6]). A fewer number
+of government bodies authored policy evaluations.
+Commissioning bodies
+Figure 3 shows that most evaluations were commissioned
+by government bodies.8 The second highest number of
+evaluations does not fall under any of the specified cat-
+egories, i.e. others. This category may include any evalua-
+tions for which the commissioning bodies could not be
+identified. It is possible that NGOs were underrepresented
+in the sample due to the eligibility criteria. For example,
+certain ex-post evaluations carried out for their internal
+purposes may well have been excluded from the sample.
+Huitema et al. [6] do not provide details about the
+breakdown of commissioning bodies but differentiate
+whether the relevant evaluation was commissioned or not.
+Thus, the new sample for 2010–2016 cannot be adequately
+compared with the study with respect to this question.
+Sectors
+Information collected with regard to the sectoral cover-
+age of evaluations was classified under the following
+sector categories, based on categories established by the
+Intergovernmental Panel on Climate Change (IPCC):
+energy (including buildings), industry/industrial processes,
+waste, land use, land-use change and forestry (LULUCF),
+agriculture, transport and cross-sectoral.
+Figure 4 reveals that evaluations in the energy sector
+are dominant in our sample,9 with 171 evaluation
+7Evaluations may be counted under more than one category.
+8Evaluations may be counted under more than one category.
+9Evaluations could be – and have been – counted under more than
+one category, which is the reason for the divergence of the total
+number of evaluations in our sample (236) and the total number of
+evaluations in Figure 4 (367).
+Page 6
+Fujiwara et al. Sustainable Earth (2019) 2:9  Page 6 of 16
+Fig. 1 Evaluations per year
+entries covering the sector where multiple answers
+were possible. While this large share might be due
+to the fact that we included the buildings sector in
+the energy sector (as does the UNFCCC),  this find-
+ing is in line with a study done by the EEA, which
+also showed that most energy and climate policies of
+Member States focused on the energy sector [23].
+This was followed by cross-sectoral evaluations (61 en-
+tries),  industry/industrial processes (51) and transport
+(48).  This pattern is common to most of the jurisdic-
+tions covered, except the EU, which had a relatively
+higher share of cross-sectoral approaches than
+Member States. Moreover, some sectors, such as the
+agricultural, waste and LULUCF sectors, are clearly 
+under-represented. LULUCF evaluations have been
+particularly scarce, possibly because the sector was
+not accounted for in the EU-wide emission reduction
+target up to 2020.
+Looking at specific jurisdictions, the share of the energy
+sector is particularly high in the UK and Germany
+(Fig. 5).10 it is noteworthy that in our sample, evaluations
+carried out on the EU level seem to roughly reflect the
+cross-sectoral distribution of actual emissions,11 while the
+Greek evaluations focus primarily on the energy sector.
+The sectoral spread in the sampled evaluations can be
+compared with the sectoral shares of actual greenhouse gas
+emissions in the EU28 in 2015, i.e. energy (55%), transport
+(23%), industry (8%), agriculture (10%), and waste (3%) [37].
+Fig. 2 Affiliation of the authors
+Page 7
+Fujiwara et al. Sustainable Earth (2019) 2:9  Page 7 of 16
+Fig. 3 Commissioning bodies
+The aggregated data suggests that both the energy and in-
+dustry sectors are represented to a higher extent than their
+actual shares of emissions, despite the challenges of delin-
+eating specific sectors,12 and the multiple counting. By con-
+trast, transport, agriculture and the LULUCF sectors are
+under-represented given their actual shares of emissions.
+The strong focus on the energy sector in climate change
+mitigation policies corresponds to observations made by
+Bößner et al. [24] regarding the information available in
+international climate change mitigation policy databases. Of
+all the international databases analysed, the large majority
+contained information about energy policies, but only a
+fraction conveyed any information on mitigation policies in
+the agricultural or waste sector.
+Huitema et al. [6] do not provide for a sectoral breakdown
+per country, meaning that a direct comparison is not possible.
+Reflexivity
+Policy evaluations can be conducted in a reflexive or
+non-reflexive manner. While the latter entails answering
+the question whether objectives of a given policy were
+reached according to certain criteria, a reflexive policy
+evaluation questions the objective and the chosen means
+to reach this objective critically and tries to address
+questions like whether the policy itself was/is justified.
+10Evaluations may be counted under more than one category. Also,
+UK waste and agricultural policies have been addressed by a few cross-
+sectoral studies and were classified as such.
+11Evaluations in France and Austria also seem quite evenly distributed,
+but the sample size was quite small.
+12However, grouping emissions into different sectors is not
+standardised; the European Commission places all “combustion from
+fuels” under the energy category including “combustion from
+construction and manufacturing” which might be placed under the
+“industrial processes” category by other institutions. 
+In the sample, the majority of the evaluations (204 evalu-
+ations, 86%) are found to be non-reflexive.
+The high share of non-reflexive evaluations is compar-
+able to the share (82%) in the 1998–2007 sample [6].
+However, a closer look at each country shows mixed
+results across jurisdictions. On the one hand, the EU,
+Germany, the UK and Austria have the highest shares of
+non-reflexive evaluations (70 evaluations for EU and 59
+evaluations for Germany), 83% (53 out of 64 evaluations
+for UK) and 75% (6 out of 8 evaluations for Austria). On
+the other hand, Greece has an even split (10 evaluations
+each) while France and the Czech Republic have reflexive
+evaluations at 60% (6 out of 10 evaluations for France; 3
+out of 5 evaluations for the Czech Republic).
+Evaluation methods
+A closer look at the methods used to evaluate policies
+shows that most of evaluations used “documentary ana-
+lysis” (153 entries). In a decreasing order, other methods
+used were “modelling, regression analysis or time series
+analysis” (88), “public opinion polls, user surveys, stake-
+holder analysis, feasibility assessments or expert inter-
+views” (85) and “cost benefit analysis, cost-effectiveness,
+multi-criteria analysis, feasibility analysis or risk analysis”
+(44) (Fig. 6).13 In terms of stakeholder involvement, it can
+be assumed that most of the methods applied are neither
+participatory nor interactive, except for the category of
+“public opinion polls, user surveys, stakeholder analysis,
+feasibility assessments or expert interviews”.
+The above three types of methods also scored high in
+[6], which placed 181 evaluations out of the total 259 in
+13Evaluations may be counted under more than one category.
+Page 8
+Fujiwara et al. Sustainable Earth (2019) 2:9  Page 8 of 16
+Fig. 4 Sectors covered, all jurisdictions
+the category “documentary analysis”, and 93 evaluations
+in the “modelling” category.
+Looking at the largest jurisdictions in terms of popula-
+tion, it is interesting to note that Germany relies mostly on
+“modelling, regression or time-series analysis” (59%), while
+the UK uses proportionally more “public opinion polls,
+user surveys, stakeholder analysis, feasibility assessments or
+expert interviews” (52%) than other countries (Fig. 7).
+Evaluation criteria
+Following Huitema et al. [6], we identified the evaluation
+criteria for each study. Table 2 illustrates some examples of 
+questions associated with each of the evaluation criteria we
+distinguished.
+The overwhelming majority of evaluations assessed
+policies against their “effectiveness and goal attainment”
+(194),  followed by “cost-effectiveness” (74),  “efficiency”
+(50),  “legality or legal acceptability” (47),  “coordination
+with other policies” (40), “fairness” (33) and “legitimacy”
+(23).  This shows that evaluations opt for assessing
+policies in a technical and/or economic manner, while
+more qualitative criteria such as fairness or legitimacy
+were addressed in a limited number of jurisdictions only.
+As above, this question allowed for multiple answers
+(Fig. 8).14
+Fig. 5 Sectors covered by jurisdiction
+Page 9
+Fujiwara et al. Sustainable Earth (2019) 2:9  Page 9 of 16
+The above results are not that different from the
+sample in [6], which also found that the majority of the
+evaluations focused on evaluating the effectiveness and
+goal attainment of policies.
+Broken down for each jurisdiction, it is noteworthy that all
+the French evaluations and almost all of the EU evaluations
+(68 entries) address “effectiveness and goal attainment”. The
+EU-level evaluations show a higher-than-average share of
+“cost-effectiveness” (35) and “legality or legal acceptability”
+(30). Moreover, while most of the UK evaluations focus
+on “effectiveness”,  “cost-effectiveness” and “efficiency”,
+the country also has a higher-than-average share of
+evaluations addressing “policy coordination”,  “fairness”
+and “legitimacy” (14, 17 and 10 respectively) (Fig. 9).
+Presence of political recommendations
+Finally, close to half (44%) of the evaluations made political
+recommendations. A closer look, however, shows mixed
+results across jurisdictions. Generally, a high share of
+evaluations in the Member States made political recommen-
+dations, whereas the share of political recommendations in
+the EU was rather low (5 out of 70 evaluations, i.e. 7%).
+Discussion
+Several inferences can be drawn on the basis of the meta-
+analysis results presented in the previous section. First, the
+number of evaluations fluctuates year-by-year, but seems to
+be linked to specific climate policy developments and events
+at the national, European, and international levels. For ex-
+ample, evaluations increased significantly before countries
+first published their INDCs, and when the European Com-
+mission launched its Energy Union initiative. This implies
+that international climate policy events – including not only
+the regular and review reporting already part of the
+UNFCCC regime, but also the new global stocktake due to
+start in 2023 and its predecessor, the Talanoa Dialogue
+which was launched in 2018 – may influence climate policy
+evaluation activities by setting milestones. Moreover, the
+five-yearly preparation of NDCs by all parties to the Paris
+Agreement is likely to spur climate policy evaluations, as
+evaluations can help the EU as a whole and Member States
+determine what level of ambition is adequate for their future
+policies.
+Second, the largest group carrying out the sampled eval-
+uations were universities and research institutions. How-
+ever, a relatively large number of evaluations were carried
+out by government bodies, showing a significant increase
+from the sample of Huitema et al. [6]. These findings are
+interesting in light of the distinction in policy evaluation
+theory made between “formal” and “informal” evaluations
+14Evaluations may be counted under more than one category, thus
+allowing the sum of each category to exceed the number of 236
+evaluations. 
+[14]. The key distinction here is that formal evaluations
+are carried out or driven (e.g. commissioned) by govern-
+ments, or those responsible for the policy, whereas infor-
+mal evaluations are driven by other societal actors. Our
+analysis also found that government bodies are respon-
+sible for commissioning the large majority of evaluations
+in the sample. This suggests that while a large part of
+evaluations continues to be of an informal nature, formal
+evaluations may be on the rise.
+Third, the dominance of the energy sector could be
+explained by the fact that the sector is responsible for
+the largest share of emissions in Europe, and has the lar-
+gest mitigation potential.15 Moreover, emissions from
+the sector can be measured, monitored, quantified and
+verified more easily than other sectors.16 Another pos-
+sible reason is that delivering emission reductions in the
+energy sector is considered more cost-effective than in
+other sectors, such as transport (e.g. “to promote
+reductions of greenhouse gas emissions in a cost-effective
+and economically efficient manner”, [25]; see also [26]).
+Lastly, the energy sector has additional mitigation poten-
+tial through energy savings by end-users ([27, 28]) in
+addition to those by producers and distributors.
+As far as the over-representation of the industry sector in
+the evaluations in relation to their actual shares of emis-
+sions is concerned, one explanation might be the sensitivity
+of the sector for the overall economy, particularly in Mem-
+ber States such as Germany in which industry is an import-
+ant economic sector and where many jobs depend on the
+performance of and policies directed at this sector. More-
+over, there are remaining concerns about the possible
+impact of EU climate policies and instruments such as the
+EU ETS on competitiveness and carbon leakage [29].
+However, the low number of any policy evaluations in
+the agriculture, waste or LULUCF sectors is an area that re-
+quires further investigation. Emissions from these sectors
+are still covered less by EU mitigation policies because until
+recently the EU emission reduction targets did not take into
+consideration the LULUCF sector, which means the sector
+was outside the scope of the major policy initiatives for the
+period until 2020 [38]. Or the nature of the sectors may
+mean that mitigation policies and policy evaluations are
+subsumed under larger policy initiatives (e.g. on sustainable
+agriculture or sustainable forest management) where cli-
+mate change mitigation is but one of several policy goals. In
+any case, in the EU where, for example, the agricultural sec-
+tor represents about 10% of greenhouse gas emissions [39],
+it is important to understand how well policies covering dif-
+ferent aspects of these emissions have worked individually
+15The energy sector accounted for 55% of the total greenhouse gas
+emissions in EU28 in 2015.
+16The energy sector has been covered by the EU emissions trading
+system (ETS) since 2005. See [25, 26].
+Page 10
+Fujiwara et al. Sustainable Earth (2019) 2:9  Page 10 of 16
+Fig. 6 Evaluation methods, all jurisdictions
+and how different policies have influenced each other,
+e.g. how agriculture, rural development, energy, and
+climate policies affect each other on bioenergy or biofuel
+production.
+Fourth, the sample revealed that the vast majority (more
+than two-thirds) of the evaluations are not reflexive or par-
+ticipatory, confirming the findings in [6]. Besides the small
+number of reflexive evaluations (i.e. those evaluations which
+examine the policy and its objectives more critically), most
+evaluations assessed policies against the criteria such as “ef-
+fectiveness and goal attainment” and/or “cost-effectiveness”.
+Moreover, with the exception of the UK and Greece, evalu-
+ations hardly addressed questions related to the fairness or
+legitimacy of policies. Yet knowing how a certain policy
+actually performed against these criteria – particularly legit-
+imacy –will be important for understanding the state (ac-
+ceptance and distribution) of public support for existing
+policies. While methods such as public opinion polls and
+stakeholder analyses have been well integrated in the EU
+evaluation practices and carried out relatively often, simple 
+documentary analysis as well as modelling efforts still re-
+main the methodology of choice for most (45%) evaluations
+assessed. This suggests that a large part of evaluations is
+not participatory in nature.
+However, using evaluation criteria other than effective-
+ness/goal attainment or cost- effectiveness and evaluation
+methods involving stakeholder participation are fraught
+with difficulties. For instance, assessing the fairness re-
+quires, first of all, the establishment of a benchmark of
+what can be considered “fair”, how one can measure it,
+and – if the evaluation is to allow for comparisons – such
+benchmarks would need to be consistently applied. By
+contrast, the benchmarks for evaluations of effectiveness
+(e.g. tonnes of CO2 
+emissions reduced) or cost-
+effectiveness (e.g. costs/tonne of CO2 
+emissions reduced)
+can – though need not17 – be relatively straightforward.
+In other words, the application of some criteria may in-
+volve important (subjective) choices on the part of the
+evaluator,18 which may make it more difficult to allow for
+comparative analyses. The use of participatory methods
+Page 11
+Fujiwara et al. Sustainable Earth (2019) 2:9  Page 11 of 16
+Fig. 7 Evaluation methods per jurisdiction
+Table 2 List of criteria distinguished
+Criterion  Examples of associated questions
+Goal attainment/
+Effectiveness 
+Have specified goals been attained?
+Can this be attributed to the policy?
+E.g. Has the policy reduced absolute
+greenhouse gas emissions by the targeted level?
+Cost-effectiveness How much of a given benefit is delivered
+per unit of expenditure?
+E.g. How many tonnes of carbon dioxide (CO2
+)
+emissions have been reduced
+for each Euro?
+Efficiency  Have the optimal goals been formulated?
+E.g. Is the price of carbon right?
+Fairness  How are the costs and benefits of a policy
+distributed among certain sectors of society?
+E.g. Does the EU emissions trading system (ETS)
+lead to windfall profits for power producers?
+Legitimacy Does the public accept the policies? Does the
+policy meet criteria of democratic
+accountability, such as transparency?
+E.g. How much public support is there for
+policies to promote wind power?
+Coordination Is the policy well-coordinated with other policies?
+E.g. How does the use of renewable energy
+certificates interact with the EU ETS?
+Legal admissibility Is the policy compatible with legal rules and
+principles?
+E.g. Is the Member State’s energy efficiency policy in
+line with the Energy Efficiency
+Directive or the Treaty on the Functioning of the
+European Union?
+Source: based on Fischer [11] and Huitema et al. [6] 
+also faces particular challenges, including the costs of
+stakeholder engagement, and the needs for avoiding bias
+and ensuring representativeness (i.e. who participates).
+Lastly, close to half of the evaluations presented political
+recommendations. There is a significant variance in the
+share of such recommendations between Member States
+on the one hand, and the EU on the other. The presence
+of political recommendations may depend on the role of
+evaluations envisaged in the relevant jurisdiction, specific-
+ally how far policy evaluations should go beyond the tech-
+nical level, and how such evaluations should contribute to
+the legislative processes (e.g. providing evidence to policy-
+makers in a closed process or directly submitting them to
+an open legislative process).
+These findings have to be interpreted with care, due to
+limitations related to the eligibility criteria, such as the ex-
+clusion of academic publications, documents that are not
+publicly available and subnational policy evaluations.
+However, this new meta-analysis, combined with the pre-
+vious one [6], enables researchers to track the long-term
+17Although policy goals may seem undisputed, the policy goal as
+formulated may mask underlying contestations between different
+societal actors about what a specific policy should achieve.
+18While this finding may apply to all criteria to some extent, it applies
+more strongly to those criteria where metrics for evaluations (e.g.
+amount of CO2 
+emissions reduced; costs per unit of CO2 
+emission
+reduction) are absent.
+Page 12
+Fujiwara et al. Sustainable Earth (2019) 2:9
+Fig. 8 Evaluation criteria, all jurisdictions 
+Page 12 of 16
+Fig. 9 Evaluation criteria by jurisdiction
+Page 13
+Fujiwara et al. Sustainable Earth (2019) 2:9  Page 13 of 16
+trend in almost 20 years and understand the diversity of
+policy development across jurisdictions and sectors.
+This study shows that while evaluation of mitigation
+policies is quite advanced in some jurisdictions, there
+is still some room for improvement, not only in
+terms of the quantity of the evaluations but also in
+terms of their quality.
+Conclusions
+What insights does this meta-analysis provide for policy-
+makers and the broader climate policy evaluation commu-
+nity? First, the meta-analyses discussed in this article and
+in [6] show that that there is no dearth of climate policy
+evaluations in Europe. The large and increasing number
+of evaluations might harbour some redundancies and
+overlaps, but it seems important to use this wealth of ex-
+post evaluations to support future EU legislative proposals
+and accompanying impact assessments.
+To this end, existing and future policy evaluations could
+be saved in an EU-wide single, central and publicly access-
+ible repository, which could be established and built on
+the existing infrastructure with support of the European
+Commission, including the Joint Research Centre, and the
+EEA. Such a repository would help render EU climate pol-
+icies more robust in two ways. On the one hand, it could
+help researchers in carrying out similar assessments, avoid
+duplication of efforts, and allow for the sharing of lessons
+learnt in a more efficient manner. On the other hand, it
+could offer interested stakeholders – including policy-
+makers, but also the general public – an initial indication
+of the performance of climate policy in the EU and its
+Member States, foster the exchange of evaluation prac-
+tices, and suggest where further capacity building for
+climate policy evaluation may be needed.
+Furthermore, the repository could offer a solid basis for
+studying – and improving – the quality of climate policy
+evaluations, and for examining whether evaluations are in
+line or at odds with each other. For instance, while evalua-
+tions may employ similar criteria (e.g. “goal attainment” or
+“cost-effectiveness”), they may be inconsistent in how those
+criteria are applied. A repository could thus help the climate
+policy evaluation community to assess existing evaluation
+practices, and where possible and appropriate, align them.
+Although the sample of evaluations covered in both meta-
+analyses could offer a starting point for such a repository, add-
+itional efforts and resources would be needed to collect evalu-
+ations in other Member States, and to do so on an ongoing
+basis. The inclusion of ex-ante evaluations in such a repository
+could further be considered, so as to allow for a comparison
+of whether and to what extent the expectations set out in
+ex-ante evaluations (including impact assessments by the
+EU) are consistent with the findings of ex-post evaluations.
+Second, addressing evaluation criteria such as fairness and
+legitimacy as well as reflexivity in more jurisdictions would 
+enhance policymakers’  understanding of climate change
+mitigation policies across the EU. In our findings, fairness
+and legitimacy account for a smaller proportion of total eval-
+uations than other criteria. Looking at specific jurisdictions,
+only the UK and Greece widely applies both criteria in ex-
+post evaluations. Their near absence in evaluations in other
+jurisdictions except fairness applied in Germany might be
+related to the lack of reflexivity in the sampled policy eva-
+luations. If an evaluation does not critically question the
+policy objective or specific measures themselves or examine
+the grounds of their justification, criteria such as fairness
+and legitimacy will arguably be of less relevance.
+However, to increase climate policy ambition, it will be
+important for policy evaluations to reflect on the adequacy
+of goals set in climate policies and on whether support of
+the policy (because it is seen as legitimate) is shared by a
+wide spectrum of stakeholders. In this respect, the new EU
+Governance Regulation [4] provides a framework for Mem-
+ber States to improve transparency and potentially address
+fairness or legitimacy in long-term policymaking and plan-
+ning processes. A review of stakeholder positions on the
+European Commission’s proposal for the Governance
+Regulation showed strong acceptance of the process [30].
+At the same time, broadening the field of evaluators, as well
+as more inclusive and participatory approaches to policy
+evaluations could enhance their usefulness by giving space
+to a variety of actors (civil society organisations, businesses,
+citizens, etc.) to voice their views and share their experi-
+ences when analysing policies. Moreover, broadening the
+types of organisations carrying out or involved in climate
+policy evaluation could help policymakers reflect on their
+initial assessments, crystallise the points of contention or
+disagreements over policy designs, and correct any error or
+mistake made in previous decisions. The Governance Regu-
+lation [4] expects Member States to provide the public with
+early and effective opportunities to participate in and be
+consulted on the preparation of the national plans and to
+involve social partners in the preparation. Finally, it would
+be of interest to explore the debate on evaluation models
+and methods used in climate policy evaluations in relation
+to evaluators, political actors and relevant authorities.
+Doing so would acknowledge how evaluations would reflect
+political and social norms adhered to by different actors,
+which may affect the choice of models and methods.
+Third, the EU, Member State governments and other ac-
+tors commissioning evaluations should allocate sufficient
+resources to the coverage of relatively under-represented
+sectors, notably LULUCF and waste. Likewise, where pos-
+sible, climate policy evaluators should pay more attention
+to including these sectors in their evaluations. This article
+affirms that there is an incongruence in the sectors targeted
+by the policy evaluations and the emissions shares which
+these sectors are responsible for. With the Paris Agree-
+ment’s goal of net decarbonisation underscoring the role of
+Page 14
+Fujiwara et al. Sustainable Earth (2019) 2:9  Page 14 of 16
+negative emissions in achieving global temperature goals,
+mitigation in the land-use sector will likely only become
+more important. Thus, there is an urgent need for dedi-
+cating more resources to ex-post policy evaluations in the
+LULUCF, agriculture and waste sectors. Commissioning
+studies on the performance of policies in these areas – both
+at the EU-wide level, and for some Member States where
+these sectors are responsible for a relatively large share of
+emissions – can help address this gap. Such studies could
+help inform the EU as it explores the options to raise the
+level of ambition for the period beyond 2020 up to
+2030 in its NDC to the Paris Agreement. Moreover,
+they may improve the evidence of what climate change
+mitigation policies have achieved in the EU and its
+Member States.
+Despite some limitations and outstanding questions in
+need of further clarity, this meta-analysis has highlighted
+trends, patterns and focal areas of European evaluation
+practices in the area of climate change mitigation po-
+licies. Based on these outcomes, the article has pointed
+out where the evaluation practices could be further
+improved and contribute to wider discussions on policy
+evaluations and data analysis at the European and inter-
+national levels.
+Appendix
+Table 3 Sustainable Earth Paper
+EU total GER AUT UK GRE FRA CZ
+General Statistics
+Total No. of reports  70  59 8  64 20 10 5
+Origin
+Year of publication
+2010  4  3  0  1  1  0  0
+2011  4  7  0  8  0  0  0
+2012  10  15 0  11 1  0  1
+2013  8  4  1  9  4  4  1
+2014  14  17 4  9  7  1  1
+2015  21  12 1  17 4  2  1
+2016  9  1  2  9  3  3  1
+Affiliation of authors
+Government body  47  14 3  14 5  2  2
+Official, but independent 0  7  0  11 0  3  1
+advisory/scrutiny body
+Parliamentary Committee 1  0  0  8  0  0  0
+Commercial Consultancy 17  2  2  13 0  4  1
+University/research institute 31  37 4  24 15 0  1
+NGO  0  3  1  1  0  1  0
+International organisation 0  0  2  1  0  1  1
+Industry group/trade
+association 
+0  0  1  00 0  0
+Other  1  0  0  00 0  0 
+Table 3 Sustainable Earth Paper (Continued)
+EU total GER AUT UK GRE FRA CZ
+Commissioned by
+Government body  66  26 5  29 7  7  4
+Official, but independent 3  6  0  1  0  1  0
+scrutiny/advisory body
+Parliamentary Committee 0  0  0  11 0  0  0
+vInternational organisation 1  0  2  0  6  2  1
+Industry groups/trade
+association 
+0  0  0  20 0  0
+NGO  0  2  0  0  0  1  0
+Other  1  26 1  22 0  0  0
+Sectors
+Sectors
+Cross-sectoral  30  8  5  10 0  5  3
+Energy  29  53 6  49 20 9  5
+Industry/Industrial Processes 20  14 6  0  1  6  4
+Transport  16  12 6  5  2  6  1
+Agriculture  1  2  5  01 5  1
+LULUCF/Forestry  0  0  5  00 4  0
+Waste  1  0  4  01 5  1
+Methods
+Type of Evaluation
+Reflexive  0  0  2  11 10 6  3
+Non-reflexive  70  59 6  53 10 4  2
+Evaluation method
+Cost-benefit analysis, cost-
+effectiveness analysis,
+extended cost-benefit
+analysis, multi-criteria analysis,
+(financial) feasibility analysis,
+risk analysis 
+7  11 1  17 5  0  3
+Modelling, regression analysis, 41  35 0  3  7  2  0
+time series analysis
+Public opinion polls, user  17  17 0  33 9  7  2
+surveys, stakeholder analysis,
+(political feasibility assessment,
+expert interviews
+Social experimentation 0  0  0  10 0  0
+Documentary analysis 55  9  7  50 19 9  4
+Not specified/unclear  2  4  0  00 0  0
+Evaluation criteria
+Effectiveness and goal attainment 68  38 8  51 14 10 5
+Efficiency  20  7  0  20 3  0  0
+Cost-effectiveness 35  13 0  16 8  0  2
+Legality/legal acceptability 30  0  2  6  8  0  2
+Co-ordination with other
+policies 
+10  7  5  14 3  0  1
+Legitimacy  1  1  2  10 8  0  1
+Fairness  1  9  0  17 6  0  0
+Other  9  14 0  9  1  0  0
+Political Recommendations made?
+Yes  5  34 5  36 14 7  3
+No  65  25 3  28 6  3  2
+Page 15
+Fujiwara et al. Sustainable Earth (2019) 2:9  Page 15 of 16
+Abbreviations
+CO2
+: Carbon dioxide; EEA: European Environment Agency; ETS: Emissions
+trading system; EU: European Union; INDCs: Intended Nationally Determined
+Contributions; LULUCF: Land Use, Land Use Change and Forestry;
+MMR: Monitoring Mechanism Regulation; NDC: Nationally Determined
+Contribution; UNFCCC: United Nations Framework Convention on Climate
+Change
+Acknowledgements
+The authors thank Douglas Fraser for supporting the UK data collection and
+for helping prepare the coding template.
+Authors’ contributions
+NF, HvA, and SB designed the research with inputs from SV, NAS, AF, EA, KW,
+AT, and MtD. All authors performed the research. NF, HvA, and SB wrote the
+paper with inputs from SV, NAS, AF, EA, KW, AT, and MtD. All authors read
+and approved the final manuscript. SB visualised the data. The first three
+authors drafted at least one section or more. SV, NAS and AF largely
+accepted the draft, adding inputs. EA, KW, AT and MtD approved with
+comments or questions. NF, HvA, SB, and NAS revised the manuscript
+following peer review.
+Funding
+The article is based on the research undertaken under the CARISMA
+(Coordination and Assessment of Research and Innovation in Support of
+climate Mitigation Actions) project which received funding from the
+European Horizon 2020 Programme of the EU under the Grant Agreement
+No. 642242. At the time of project implementation, Böβner and van Asselt
+were affiliated with the Stockholm Environment Institute (SEI), Alberola with
+the Institute for Climate Economics (i4CE), and ten Donkelaar with ENVIROS.
+Availability of data and materials
+Supplementary data associated with this article are submitted as attachment.
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Author details
+1Centre for European Policy Studies (CEPS), Place du Congrès 1, 1000
+Brussels, Belgium. 2University of Eastern Finland Law School, Yliopistokatu 2,
+FI-80101 Joensuu, Finland. 3Stockholm Environment Institute, Linnégatan
+87D, 10451 Stockholm, Sweden. 4Centre for European Economic Research
+(ZEW), L 7, 1, 68161 Mannheim, Germany. 5University of Piraeus Research
+Centre (UPRC), 80, M. Karaoli & A. Dimitriou St, 18534 Piraeus, Greece.
+6ECOACT FRANCE, 35 rue de Miromesnil, 75008 Paris, France. 7University of
+Graz, Universitätsplatz 3, 8010 Graz, Austria. 8RICARDO, Prague Technical
+Centre, Palác Karlín, Thámova 11–13186 00, Praha 8, Czech Republic.
+Received: 25 July 2018 Accepted: 15 October 2019
+References
+1.  Schoenefeld JJ, Hildén M, Jordan AJ. The challenges of monitoring national
+climate policy: learning lessons from the EU. Clim Pol. 2018;18(1):118–28.
+2.  European Union (2013). Regulation (EU) No 525/2013 of the European
+Parliament and of The Council of 21 May 2013 on a mechanism for
+monitoring and reporting greenhouse gas emissions and for reporting
+other information at national and Union level relevant to climate change
+and repealing Decision No 280/2004/EC. [2013] OJ L165/13.
+3.  Umpfenbach K. Streamlining planning and reporting requirements in the
+EU energy union framework. Report for the European Climate Foundation.
+Berlin: Ecologic Institute; 2015.
+4.  European Commission (2016). Proposal for a regulation of the European
+Parliament and of the Council on the Governance of the Energy Union,
+amending Directive 94/22/EC, Directive 98/70/EC, Directive 2009/31/EC, 
+Regulation (EC) No 663/2009, Regulation (EC) No 715/2009, Directive 2009/
+73/EC, Council Directive 2009/119/EC, Directive 2010/31/EU, Directive 2012/
+27/EU, Directive 2013/30/EU and Council Directive (EU) 2015/652 and
+repealing Regulation (EU) No 525/2013. 23.2.2017 COM (2016) 759 final/2.
+5.  Spyridaki N-A, Ioannou A, Flamos A, Oikonomou V. An ex-post assessment of
+the regulation on the energy performance of buildings in Greece & the
+Netherlands - a cross country comparison. Energy Efficiency. 2015;9(2):261–79.
+6.  Huitema D, Jordan A, Massey E, Rayner T, van Asselt H, Haug C, Hildingsson
+R, Monni S, Stripple J. The evaluation of climate policy: theory and
+emerging practice in Europe. Policy Sci. 2011;44:179–98.
+7.  Rossi P, Lipsey MW, Freeman HE. Evaluation: A systematic approach. 7th ed.
+Thousand Oaks: Sage; 2004.
+8.  Crabbe A, Leroy P. The handbook of environmental policy evaluation.
+London: Earthscan; 2008.
+9.  Mickwitz P. Policy evaluation. In: Jordan A, Adelle C, editors. Environmental
+Policy in the EU: Actors, Institutions and Processes. London; New York:
+Routledge; 2013. p. 267–86.
+10. Fournier DM. Evaluation. In: Mathison S, editor. Encyclopaedia of evaluation.
+Thousand Oaks: Sage; 2005. p. 39–40.
+11. Fischer F. Evaluating public policy. Chicago: Nelson-Hall Publishers; 1995.
+12. Spyridaki NA, Flamos A. A paper trail of evaluation approaches to energy
+and climate policy interactions. Renew Sust Energ Rev. 2014;40:1090–107.
+13. Spyridaki N-A, Banaka S, Flamos A. Evaluating public policy instruments in
+the Greek building sector. Energy Policy. 2016;88:528–43.
+14. Schoenefeld J, Jordan A. Governing policy evaluation? Towards a new
+typology. Evaluation. 2017;23(3):274–93.
+15. Anglmayer I. Evaluation and ex-post impact assessment at EU level. Briefing,
+European Parliamentary Research Service, September; 2016.
+16. Nilsson M, Jordan A, Turnpenny J, Hertin J, Nykvist B, Russel D. The use and
+non-use of policy appraisal tools in public policy making: an analysis of three
+European countries and the European Union. Policy Sci. 2008;41:335–55.
+17. Mickwitz P, Birnbaum M. Key insights for the design of environmental
+evaluations. In: Binbaum M, Mickwitz P, editors. Environmental program and
+policy evaluation. New Directions for Evaluation; 2009. p. 105–12.
+18. Haug C, Rayner T, Jordan A, Hildingsson R, Stripple J, Monni S, Huitema D, Massey
+E, van Asselt H, Berkhout F. Navigating the dilemmas of climate policy in Europe:
+evidence from policy evaluation studies. Clim Chang. 2010;101(3–4):427–45.
+19. Hildén M, Jordan A, Rayner T. Climate policy innovation: developing an
+evaluation perspective. Environ Politics. 2014;23(5):884–905.
+20. AEA, ECOFYS, Fraunhofer and ICCS. Quantification of the Effects on
+Greenhouse Gas Emissions of Policies and Measures: Final Report. ENV.C.1/
+SER/2007/0019. Brussels: European Commission; 2009.
+21. EEA (European Environment Agency). Environment and climate policy
+evaluation. Copenhagen: EEA; 2016.
+22. Fujiwara, N., Bößner, S., van Asselt, H., Fraser, D., Voigt, S., Spyridaki, N.-A., ten
+Donkelaar, M., Alberola, E., Türk, A., and K. Williges (2017). D5.2: Meta-analysis of
+climate change policy evaluations in the EU and Member States. CARISMA
+Deliverable. [URL: "http://www.carisma-project.eu/Portals/0/D5.2%20Meta_analysis%20of%20climate%20change%20policy%20evaluations%20in%20the%20EU%20and%20Member%20States.pdf"] http://www.carisma-project.eu/Portals/0/D5.2%20Meta_analysis%2
+ 0of%20climate%20change%20policy%20evaluations%20in%20the%20EU%2
+ 0and%20Member%20States.pdf last Assessed on 13 July 2018.
+23. Dejean F. Reporting on National Climate Action in the EU. Presentation at
+COP23 in Bonn, 08.11. 2017; 2017.
+24. Bößner, S., van Asselt, H., Clochard, G.-J., Alberola, E., Türk, A., Spyridaki, N.-A.,
+Fujiwara, N., van der Gaast, W. (2017). D5.1: report on climate change
+mitigation policy mapping and interaction. CARISMA deliverable. [URL: "http://www.carisma-project.eu/Portals/0/Documents/5.1%20Report%20on%20climate%20change%20mitigation_%20policy%20mapping%20and%20interaction.pdf"] http://
+ www.carisma-project.eu/Portals/0/Documents/5.1%20Report%20on%2
+ 0climate%20change%20mitigation_%20policy%20mapping%20and%2
+ 0interaction.pdf last Accessed on 13 July 2018.
+25. European Union (2003). Directive 2003/87 of the European Parliament and
+of the Council of 13 October 2003 establishing a scheme for greenhouse
+gas emission allowance trading within the Community and amending
+Council Directive 96/61/EC, [2003] OJ L275/32.
+26. European Union (2009a). Directive 2009/29/EC of the European Parliament
+and of the Council of 23 April 2009 amending Directive 2003/87/EC so as
+to improve and extend the greenhouse gas emission allowance trading
+scheme of the Community, [2009] OJ L140/63.
+27. European Union (2009b). Decision No. 406/2009 adopted jointly by the
+European Parliament and of the Council on the effort of Member States to
+reduce their greenhouse gas emissions to meet the Community’s
+greenhouse gas emission reduction commitments up to 2020, [2009] OJ
+L140/136.
+Page 16
+Fujiwara et al. Sustainable Earth (2019) 2:9
+28. European Union (2012). Directive 2012/27/EU of the European Parliament
+and of the Council of 25 October 2012 on energy efficiency, amending
+Directives 2009/125/EC and 2010/30/EU and repealing Directives 2004/8/EC
+and 2006/32/EC, [2012] OJ L315/1.
+29. Martin R, Muuls M, de Preux LB, Wagner UJ. On the empirical content of
+carbon leakage criteria in the EU emissions trading scheme. Ecol Econ.
+2014;105:78–88.
+30. Ringel M, Knodt M. The governance of the European energy union:
+efficiency, effectiveness and acceptance of the winter package 2016. Energy
+Policy. 2018;112:209–20.
+31. Van Asselt H, Weikmans R, Roberts JT. Pocket Guide to Transparency under
+the UNFCCC. Oxford: European capacity-building initiative; 2017. [URL: "http://www.eurocapacity.org/downloads/Pocket_Guide_to_Transparency_UNFCCC.pdf"] http://
+ www.eurocapacity.org/downloads/Pocket_Guide_to_Transparency_
+ UNFCCC.pdf last accessed on 13 July 2018
+32. Ashford N, Renda A. Aligning policies for low-carbon systemic innovation in
+Europe. Brussels: CEPS and i24c; 2016.
+33. European Union (2004). Decision No 280/2004/EC of the European
+Parliament and of the Council of 11 February 2004 concerning a
+mechanism for monitoring Community greenhouse gas emissions and for
+implementing the Kyoto Protocol, [2004] OJ L49/1.
+34. EEA. National policies and measures on climate change mitigation in
+Europe in 2017, EEA report no 9/2018. Copenhagen: European
+Environment Agency; 2018.
+35. Breitschopf, B., Schlomann, B., Voswinkel, F., and Broc, J-S. (2018). Identifying
+current knowledge, suggestions and conclusions from existing literature.
+H2020 EPATEE project report. Availabele at: [URL: "https://epatee.eu/reports"] https://epatee.eu/reports
+36. Broc, J-S., Oikonomou, V., and Dragovic, M. (2018). Evaluation into practice:
+lessons learnt from 23 evaluations of energy efficiency policies. Volume I:
+Main findings. H2020 EPATEE project. Available at: [URL: "https://epatee.eu/reports"] https://epatee.eu/reports
+37. [URL: "http://ec.europa.eu/eurostat/statistics-explained/index.php?title=Greenhouse_gas_emission_statistics_-_emission_inventories#Trends_in_greenhouse_gas_emissions"] http://ec.europa.eu/eurostat/statistics-explained/index.php?title=
+ Greenhouse_gas_emission_statistics_-_emission_inventories#Trends_in_
+ greenhouse_gas_emissions last Accessed on 13 July 2018.
+38. [URL: "https://ec.europa.eu/clima/policies/forests_en"] https://ec.europa.eu/clima/policies/forests_en last Accessed on 13 July 2018.
+39. [URL: "http://ec.europa.eu/eurostat/statistics-explained/index.php?title=Agri-environmental_indicator_-_greenhouse_gas_emissions"] http://ec.europa.eu/eurostat/statistics-explained/index.php?title=Agri-
+ environmental_indicator_-_greenhouse_gas_emissions last Accessed on 13
+July 2018.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations. 
+Page 16 of 16

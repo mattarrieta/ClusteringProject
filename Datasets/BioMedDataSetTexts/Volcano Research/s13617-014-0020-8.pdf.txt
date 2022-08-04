@@ -1,0 +1,2602 @@
+BOOKMARKS:
+Abstract
+1 Introduction
+2 The development of volcanic science advisory groups in NZ
+3 Factors that influence response effectiveness
+  3.1 Decision making
+  3.2 Situational awareness
+  3.3 Shared mental models
+  3.4 Trust
+4 Activities to improve future response capability
+  4.1 Cross training
+  4.2 Scenario planning
+5 Exploring exercises in detail
+  5.1 Writing and evaluating exercises: practice guidelines
+  5.2 Exercise Ruaumoko: the importance of exercises and evaluation
+6 Discussion: a new exercise structure for volcanology
+7 Concluding remarks
+Endnotes
+Abbreviations
+Competing interests
+Authors’ contributions
+Acknowledgments
+Author details
+References
+Page 1
+Doyle et al. Journal of Applied Volcanology (2015) 4:1
+DOI 10.1186/s13617-014-0020-8
+RESEARCH  Open Access
+Enhancing scientific response in a crisis:
+evidence-based approaches from emergency
+management in New Zealand
+Emma E H Doyle1*, Douglas Paton2 and David M Johnston1,3
+Abstract
+Contemporary approaches to multi-organisational response planning for the management of complex volcanic
+crises assume that identifying the types of expertise needed provides the foundation for effective response. We
+discuss why this is only one aspect, and present the social, psychological and organizational issues that need to be
+accommodated to realize the full benefits of multi-agency collaboration. We discuss the need to consider how
+organizational culture, inter-agency trust, mental models, information management and communication and
+decision making competencies and processes, need to be understood and accommodated in crisis management
+planning and delivery. This paper discusses how these issues can be reconciled within superordinate (overarching)
+management structures designed to accommodate multi-agency response that incorporates decision-making inputs
+from both the response management team and the science advisors. We review the science advisory processes
+within New Zealand (NZ), and discuss lessons learnt from research into the inter-organisational response to historical
+eruptions and exercises in NZ. We argue that team development training is essential and review the different types of
+training and exercising techniques (including cross training, positional rotation, scenario planning, collaborative
+exercises, and simulations) which can be used to develop a coordinated capability in multiagency teams. We argue that
+to truly enhance the science response, science agencies must learn from the emergency management sector and
+embark on exercise and simulation programs within their own organisations, rather than solely participating as external
+players in emergency management exercises. We thus propose a science-led tiered exercise program, with example
+exercise scenarios, which can be used to enhance both the internal science response and the interagency response to
+a national or international event, and provide direction for the effective writing and conduct of these exercises.
+Keywords: Exercises; Simulations; Science advisory groups; Emergency management; Mental models; Training;
+Communication
+1 Introduction
+During a volcanic crisis, whether an isolated period of
+unrest or a full scale eruption and recovery, many agen-
+cies and organisations are involved in its response and
+management. These range from expert and technical advi-
+sors (e.g.,  geologists, geophysicists, engineers, and social
+scientists),  through to emergency management agencies
+(civil defence, fire service, police, army, national and local
+government) and lifeline organisations (lines companies,
+transport, water). For example, during the 1980 eruptions
+* Correspondence: [URL: "mailto:e.e.hudson-doyle@massey.ac.nz"] e.e.hudson-doyle@massey.ac.nz
+1Joint Centre for Disaster Research, Massey University, PO Box 756,
+Wellington 6140, New Zealand
+Full list of author information is available at the end of the article 
+of Mt St Helens, over 130 officials and organisations
+responded (Saarinen and Sell 1985); during the eruptive
+episodes of 1995 to 1996 in Ruapehu, NZ, over 42 organisa-
+tions were involved (Paton et al. 1998a), and in the 2012 Te
+Maari eruptions of NZ, some 30 organisations responded.
+The number of responding agencies increases as the
+unrest or eruptive period continues, and they need to
+collaborate and share knowledge to effectively respond
+in a crisis that creates multiple, diverse consequences.
+However, these organizations bring to the crisis manage-
+ment context diverse operational roles, different organiza-
+tional objectives and political or economic pressures, and
+varied ways of interpreting, prioritizing and responding to
+issues that reflect organizational policies, practices and
+© 2015 Doyle et al.; licensee Springer. This is an Open Access article distributed under the terms of the Creative Commons
+Attribution License ([URL: "http://creativecommons.org/licenses/by/4.0"] http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction
+in any medium, provided the original work is properly credited.
+Page 2
+Doyle et al. Journal of Applied Volcanology (2015) 4:1  Page 2 of 26
+cultures that range from emergency services’  command
+and control practices to the more organic approach typical
+of scientific/research organizations. Ensuring that agency
+representatives can integrate their knowledge and ex-
+pertise for response planning and implementation, and en-
+suring that they can continue to do so in a response
+environment that present complex, dynamic demands that
+need to be understood and managed over time, is a chal-
+lenging task. We present here a literature review of the
+factors influencing response effectiveness, and discuss sev-
+eral approaches that have been developed to achieve an ef-
+fective coordinated outcome, as well as how they could be
+integrated into the volcanology community to enhance and
+inform the response of volcanologists in the unique man-
+agement environment created by volcanic crises. In the
+context of this literature, we also review and evaluate exam-
+ples of NZ volcanic science advice and response practices.
+First we discuss the development of science advisory
+groups in New Zealand since one of the earliest vol-
+canic exercises run in 1992 (Section 2). We then discuss
+psychological, social and organizational influences and
+practices that affect response effectiveness (Section 3) and
+argue for the need for regular training activities to im-
+prove these competencies (Section 4).  In doing so, we
+summarize the benefits accruing from science agencies
+learning from the methods that emergency management
+agencies routinely use, and embarking on exercise and
+simulation programs that mirror the complexities of the
+response environment in which they will make important,
+but non-routine, contributions within their own organisa-
+tions. The paper argues that such in-house training (e.g.,
+involving cross training, positional rotation, scenario plan-
+ning, collaborative exercises, simulations, training and
+shared exercise writing tasks see Sections 4 and 5) is piv-
+otal to developing the future response capability of science
+advisory groups and their ability to effectively complement
+the emergency management functions they will inevitably
+interact with. We also review national and international
+Civil Defence and Emergency Management (CDEM) exer-
+cises (Section 5) to highlight the benefits that can arise if
+scientists develop their own activities rather than solely
+participating as external players in emergency manage-
+ment exercises. Following a review of NZ’s 2008 “All of
+nation” volcanic Exercise Ruaumoko (Section 5.2) to illus-
+trate how effective evaluation informs the development of
+Volcanic Science Advisory Group (VSAG) processes with-
+in NZ, the paper concludes with our proposing, in
+Section 6, a new exercise structure for volcanology.
+This will facilitate the integration of volcanological expert-
+ise into CDEM processes and how scientists and scientific
+agencies can proactively contribute to and capitalise on op-
+portunities to enhance shared understanding between di-
+verse responding agencies. Throughout this paper, we
+consider science and science advice providers to represent 
+the expert source of information on hazard processes (e.g.
+geology, geophysics, geochemistry, geodesy, atmospheric
+science) and the expert source of information on social
+and economic impacts, including communication and be-
+haviours (as provided by the ‘Social Consequences’  sub-
+advisory group of Exercise Ruaumoko; Smith 2009).
+Incorporating a wide range of expertise into an advis-
+ory group process is closely related to the concept of
+‘post-normal’ science (Funtowicz & Ravetz 1991; Krauss
+et al. 2012) which is a ‘new conception of the manage-
+ment of complex science-related issues’  (Funtowicz &
+Ravetz 2003, p. 1) where ‘facts are uncertain, values are
+in dispute, the stakes are high and decisions urgent’
+(Funtowicz & Ravetz 1991, p. 137),  particularly when
+these uncertainties are of an epistemological or ethical
+kind. Post-normal science considers these elements of
+uncertainty, value loading, and a plurality of legitimate
+perspectives to be integral to science, and that by adopt-
+ing this ‘post-normal’  approach there is a recognition
+that risks are interpreted and managed subjectively (de-
+pending on local values and norms as well as disciplinary
+frameworks).  This approach presents a new problem-
+solving framework and acknowledges that a plurality of
+perspectives should be structured into the informed deci-
+sion making processes during uncertain high risk environ-
+ments (see WSS Fellows on RIA 2014).
+2 The development of volcanic science advisory
+groups in NZ
+One of the earliest exercises conducted to explore the
+response to a volcanic eruption in New Zealand was Ex-
+ercise Nga Puia in 1992 (Martin 1992).  This exercise,
+based on a simulated eruption at the Okataina Volcanic
+Centre (Nairn 2010),  informed the response plans for
+the region, in particular the subsequent volcanic alert
+level processes. A few years later, these lessons were
+tested during the unrest and eruptions of Ruapehu volcano
+in 1995–1996, when over 42 organisations responded, with
+the Institute of Geological and Nuclear Science (now GNS
+Science) acting as the major science provider (Johnston
+et al. 2000) (Figure 1).
+Analysis of the organizational response to these erup-
+tions (Paton et al. 1998a) identified the prominent role
+the limited formalised inter-organisational networking
+played in creating a coordinated response, particularly
+with regard to issues arising from ad-hoc interaction be-
+tween science and response agencies. Response agencies
+became inappropriately over reliant on science agencies
+for management information. Paton et al. (1998a; 1999)
+found that response agencies expected the geophysicists
+and volcanologists analysing volcanic activity to provide
+them with direct answers to all response management is-
+sues. For example, one co-author (DJ) reported how re-
+sponse agencies expected volcanologists to be able to
+Page 3
+Doyle et al. Journal of Applied Volcanology (2015) 4:1  Page 3 of 26
+Figure 1 The information flow during the response to the 1995
+Ruapehu Eruption showing information flow between key
+agencies (Paton et al. 1999).
+answer questions about the effect of volcanic ash on sheep.
+Response agencies were unprepared for the need to be able
+to liaise with different expert sources (e.g. volcanologists,
+agricultural scientists, and veterinarians) to integrate input
+for multiple sources to make response management deci-
+sions. Similar problems emerged with regard to public
+health, environmental health, and utility issues. In addition
+to expecting certainty about volcanic hazard characteristics
+and future activity, response problems emanated from lack
+of attention in the response planning context given to un-
+derstanding what sources of expertise would need to be
+consulted and how response management would need to
+integrate and interpret information while collaborating
+with diverse others. At the same time, the lack of network-
+ing meant that many agencies were unable to fully utilize
+scientific data as agencies found it was inconsistent with
+(unexpected) situational awareness and decision demands,
+discussed further in Section 3.
+As a result, science advisory processes were redeveloped
+through the formation of a number of VSAGs (Smith 2009;
+Jolly and Smith 2012). During many natural hazard events,
+such science advisory bodies have been called upon to pro-
+vide information and advice. The ability to source science
+advice through “one trusted source”, such as the VSAG,
+has proved beneficial (Ministry of Civil Defence and Emer-
+gency Management, MCDEM 2008) (Figure 2a). This ap-
+proach also facilitates an integration of a wide range of
+expert opinions required to manage uncertainty during 
+decision making (Lipshitz et al. 2001) and can help com-
+bat issues arising from conflict between scientists (Barclay
+et al. 2008).
+These VSAGs represent advisory bodies that are on
+standby, and have plans to respond to a crisis or unrest
+period. The advice provided by VSAGs is vital for effect-
+ive emergency management planning, intelligence gath-
+ering, and decision making and for the protection of life,
+infrastructure and welfare, and depending on local pro-
+cedures, the VSAG may exclusively include scientists
+(volcanologists, meteorologists, etc.) or also include local
+and regional emergency managers and officials. In NZ,
+the earliest formalised VSAG was the Egmont Volcanic
+Advisory Group formed in the early 1990s alongside the
+deployment of the Taranaki Volcano Seismic Network
+(for a full history see Bayley 2004), which meets once a
+year to review the monitoring data and other scientific
+research. By 2004, this group comprised representatives
+from Massey University, University of Auckland, GNS
+Science (NZ Crown Research Institute for “Earth, geoscience
+and isotope research and consultancy services”,  GNS
+Science Website 2014), Department of Conservation and
+Taranaki Regional Council; and sat at the advisory group
+level of the Taranaki Civil Defence Emergency Management
+Coordinating Executive Group.
+This group advised Taranaki Regional Council in the
+development of its first Volcanic Contingency Plan in
+2000, which addressed the framework of Scientific Alert
+Levels, the principal emergency management activities for
+response, the expected hazards and the monitoring net-
+work. Nowadays the Egmont Volcanic Advisory Group has
+evolved into the Taranaki Seismic and Volcanic Advisory
+Group (TSVAG), encompassing additional representatives
+from Victoria University of Wellington, MCDEM, the Earth-
+quake Commission, and local CDEM groups (TRC 2013).
+The experiences of the TSVAG have helped inform the
+process and formation of a number of other VSAGs
+throughout NZ, many of which have overlapping member-
+ship in terms of volcanologists and national level CDEM
+and response organisations, most of these contain represen-
+tatives from local CDEM, response and lifeline organisa-
+tions and scientists from across the NZ Universities, and
+Crown Research Institutes (CRIs) including GNS Science:
+ The Auckland Volcanic Scientific Advisory Group
+(AVSAG) was established by the Auckland Civil
+Defence and Emergency Management Group in
+2007 as part of its Volcanic Contingency Plan and in
+preparation for the MCDEM led volcanic Exercise
+Ruaumoko, to provide advice to officials about the
+volcanic field residing under Auckland City
+(MCDEM 2008; McDowell 2008; Smith 2009). This
+built on the pre-existing VSAG mechanisms
+established in the 2002 Contingency Plan (Beca
+Page 4
+Doyle et al. Journal of Applied Volcanology (2015) 4:1  Page 4 of 26
+Figure 2 Information flow processes during a NZ Volcanic crisis. (a) The information flow during Exercise Ruaumoko in 2008, outlining the
+operating structure of the Auckland Volcanic Scientific Advisory Group and its relationship to GeoNet and CDEM (Smith 2009). (b) The proposed
+model for a national hazard science advisory group, to enable integration of nationwide science capability, as proposed by Smith (2009) after Exercise
+Ruaumoko. Smith (2009) states that “this advisory group would be made up of appropriate subject experts from across universities, crown research
+institutes and other science organisations including consultancies, [and] … could play both an operational role (during events) and a strategic role for
+planning science activities” (p. 76). The current advisory structure of the CPVAG, TVSAG, and CAG reflect a similar advisory process (Jolly and Smith 2012).
+Carter Hollings & Ferner 2002) which included
+volcanologists (from GNS Science, Auckland
+Regional Council, and University of Auckland),
+meteorologists, and specialist medical advisors. In
+2007, AVSAG was the first NZ VSAG to establish
+formal terms of reference that were signed by
+member organisations (Cronin 2008), and this
+updated VSAG incorporated a wider range of
+representatives from Auckland, Waikato and Massey
+Universities, GNS Science, MetService, the Kestrel
+Group, as well as local and national CDEM
+representatives (Smith 2009).
+ The Central Plateau Volcanic Advisory Group
+(CPVAG) was established in 2008 to “provide a
+forum for the collective planning and readiness 
+activities for volcanic hazards in the Central Plateau”
+which includes the volcanoes Mt. Ruapehu, Mt.
+Ngauruhoe, and Mt. Tongariro (CPVAG 2009, p. 5).
+This group formed directly in response to the dam
+break lahar that occurred from the Ruapehu Crater
+Lake in 2007, and the recognition by key
+stakeholders that a combined expanded advisory
+group was needed for effective planning,
+preparedness, relationship building, and inter-agency
+coordination (ibid). CPVAG encompasses a Science
+Focus Group, a Planning Focus Group and a
+Communications Focus Group, all guided by a
+framework strategy and Contingency Plan, and who
+meet every six months to report back on work
+programmes, outcomes, and future plans. The
+Page 5
+Doyle et al. Journal of Applied Volcanology (2015) 4:1  Page 5 of 26
+processes set up by CPVAG were recently tested in
+2012 during the Te Maari eruption and unrest
+period, and the evaluation of that response is
+currently ongoing as the eruption represents a critical
+opportunity to review effectiveness, and identify areas
+for improvement and capacity building.
+ The fourth VSAG in NZ is the Caldera Advisory
+Group (CAG, Waikato Regional Council 2014;
+Potter et al. 2012), which was formed in late 2010,
+with a focus on the eight caldera volcanoes in the
+Taupo Volcanic Zone. This group formed in
+response to the recognition of a gap in the advice
+provision available for the particular effects of
+caldera volcanoes, and an acknowledgment that
+these effects could last for significant time periods
+(years to decades) with a “profound impact on the
+social and economic environments” (Waikato
+Regional Council 2014).
+Similar science advisory group processes also exist for
+other hazards in NZ including the Tsunami Expert
+Panel, which activates in response to a local, regional, or
+distant source earthquake and tsunami warning. This
+advises officials of coastal regions at risk, expected tsu-
+nami arrival times and durations, and the expected max-
+imum wave amplitudes at the coast, providing advice
+directly to the Ministry of Civil Defence Emergency
+Management response team (MCDEM 2010).
+More recently, during the 2010–2012 earthquake and
+aftershock sequence in the Canterbury region, the Natural
+Hazards Research Platform assumed the role of national
+coordinator of science advice when the government de-
+clared a State of National Emergency after the fatal M6.3
+event in February 2011 (Canterbury Earthquakes Royal
+Commission – Te Komihana Rūwhenua o Waitaha 2012).
+This government funded multi-party research manage-
+ment platform was established in 2009 to provide secure,
+long-term funding for natural hazard research, to encour-
+age stakeholder involvement in research, and to promote
+collaborative research (Natural Hazards Research Platform
+2009). In future natural hazards events, and based upon
+the Canterbury experiences, the various scientific advisory
+group sections of the wider volcanic advisory groups de-
+scribed above would likely fall under the coordination of
+the Natural Hazards Platform, or a future equivalent, as
+they fulfil their science advisory role; pending reviews of
+recent volcanic eruptions and earthquake events of the last
+4 years, and changes currently under consideration for
+new national funding procedures.
+AVSAG was the first VSAG to be comprehensively
+tested in a simulation. This was done through Exercise
+Ruaumoko, which was a MCDEM led exercise to test an
+all of nation response to a volcanic eruption in the
+Auckland volcanic field (MCDEM 2008) and was the 
+first test of AVSAG. For this, AVSAG was co-ordinated
+through a tri-partite sub-group system (Volcanology,
+Volcano Monitoring, Social Consequences),  which re-
+ported upwards to a smaller core VSAG that liaised dir-
+ectly with MCDEM and Auckland CDEM via on-site
+liaison officers in the Emergency Operation Centres
+(EOCs) at each location (see reviews in: Smith 2009; Doyle
+& Johnston 2011).
+Reviews of this exercise (MCDEM 2008; McDowell
+2008; Cronin 2008) identified that the AVSAG process
+facilitated the provision of valuable advice in a clear,
+timely manner. As advocated for by the International
+Association for Volcanology and Chemistry of the Earth’s
+Interior (1999), the AVSAG provided a facility for the sci-
+entists (from all contributing disciplines) to “use a single
+voice”, share information to reduce confusion, and to en-
+courage efficient teamwork amongst scientists and public
+officials, while also encouraging integration of diverse sci-
+entific expertise and minimising communication delays.
+However, during the most active periods of the response
+towards the end of the exercise, the existence of two dis-
+tinctly separate scientific sub-groups composed of the pre-
+dominately university-based ‘volcanology’ group and the
+‘monitoring’  group of GNS Science based scientists be-
+came unrealistic, and as stated by McDowell (2008), p. 22,
+the priority instead should be to have “the rapid assess-
+ment and decision-making in relation to technical data”
+rather than maintaining and communicating between
+these two separate groups. While the main advantage of
+this AVSAG approach was the wide range of scientific ex-
+perts and competency, during the most active period the
+due process needed to maintain this inclusivity actually
+slowed down advice provision (MCDEM 2008).
+A clear advantage during the exercise was the presence
+of a science advisor in both the National Crisis Management
+Centre (NCMC) and the Auckland CDEM Group EOC,
+providing a vital link between the VSAG assessment and
+the emergency management decision-making. However,
+during the rapid escalation of unrest and the critical mo-
+ments of the crisis, there was a potential for disconnect to
+occur between this local and national advice provision to
+the AGEOC and the NCMC respectively, and this resulted
+in a divergence of the science advice (which was informing
+evacuation planning) at Local and National levels (Cronin
+2008, discussed further in Section 5.2).
+A potential disconnect could also occur not only be-
+tween the science advice at the local and national CDEM
+level, but also between the local and national science
+research response, capability, and processes in future
+events. Smith (2009) suggests that to address these limi-
+tations and coordinate the scientific advice beyond the
+limited knowledge pool and resources in a locally im-
+pacted area, a nationwide Volcanic Science Advisory
+Panel (NZVAP) should have (see Figure 2b):
+Page 6
+Doyle et al. Journal of Applied Volcanology (2015) 4:1  Page 6 of 26
+ “at its core national hazard monitoring capability
+and processes (e.g. GeoNet), with involvement of
+additional capability from universities and other
+science organisations based on thresholds of
+response. The intent is that GeoNet (both the
+technology and the science expertise of GNS Science)
+be the hub of any science response for earthquake,
+volcano, tsunami or landslide events” (p. 77).
+GeoNet is a collaboration between the Earthquake
+Commission (EQC - NZ’s insurance provider for natural
+disasters; EQC Website 2014) and GNS Science and is
+the “official source of geological hazard information for
+New Zealand”.  Established in 2001 it monitors geoha-
+zards (in particular earthquakes, tsunami, volcanoes and
+landslides) via an extensive monitoring system and arch-
+ival data centre, and provides public and official infor-
+mation including earthquake reports and Volcanic Alert
+Bulletins (GeoNet website 2014). The NZVAP approach
+outlined by Smith (2009),  encompassing GeoNet at its
+core, still supports the existence of regions having exist-
+ing scientific or planning advisory groups with a volcanic
+and/or earthquake focus, but it also addresses the need
+for mobilisation of NZ-wide science capability, while
+remaining responsive to local CDEM needs (see also
+Section 5.2; Jolly and Smith 2012).
+Developing VSAGs prior to an event can prospectively
+enhance the crisis response capability of scientists and the
+full multi-agency response alike, through the development
+of terms and protocols for response, information sharing
+and inter-agency management, and situational awareness.
+A prospective approach facilitates future collaboration
+(e.g., enhanced mental models, shared situational awareness,
+enhanced multi-team performance) and more effective com-
+munications between scientists and responding agencies.
+3 Factors that influence response effectiveness
+Even with a pre-existing VSAG, the development of effect-
+ive multi-agency response needs to accommodate issues
+arising from, for example, differences in organisational
+culture, jurisdictional expectations, and differences in the
+economic and political pressures on participating agencies.
+These represent demands on the goal of prioritising
+tasks and information needs over and above those em-
+anating from the complex, evolving volcanic hazard.
+The corresponding threats to trust, leadership or team
+ability, conflicts over responsibility or priorities, reputation
+management, and need to function under high psycho-
+logical and environmental stressors (fatigue, tunnel vision,
+family commitments and over work) conspire to impair
+performance of the individual and team (Boin and’t Hart
+2001; Handmer 2008; Quarantelli 1997; Sinclair et al.
+2012b; Paton 1996).  In addition, conflict may arise as 
+individuals swap hierarchal/seniority position as they
+move from their day-to-day role to their response role.
+To manage these issues, it is essential to build future
+response capability via the development of good team
+and inter team mental models. This facilitates situational
+awareness and enhanced decision making capability for
+personnel within the VSAG and key responding agen-
+cies. This should be supported by training (Sections 4
+and 5) and resource planning (e.g., accommodating the
+need to coordinate multiple shifts throughout a re-
+sponse, manage fatigue, allow individuals to attend to
+personal and family demands) that ensures that staff can
+return to their role with a fresh perspective. Limiting
+time on shift has pragmatic benefits in reducing re-
+sponse risks from personnel adapting to small incre-
+mental change and losing situational awareness (e.g.
+Tickell 1990).  In contrast, a fresh responder/scientist
+would recognise a significant change demanding an ac-
+tion. This tendency, colloquially referred to as the ‘boiling
+frog syndrome’a, was particularly noticed in the volcanolo-
+gist’s experience when managing the 1991 eruption at
+Mt. Pinatubo (Whittlesey and Buckner 1993), and high-
+lights the need for regular shift rotation of scientists and
+other responders in crisis response.
+It is also important to consider rotating the role of the
+lead science individual (or agency) within a VSAG dur-
+ing a response, particularly for long duration crises. In a
+NZ context for example, many of the responding scien-
+tists will be balancing their ‘response role’  (to provide
+advice to responding agencies and understand the phe-
+nomena occurring) with their ‘day-to-day role’ (including
+funded research, consultancy contracts and lecturing).
+The ‘day-to-day role’ may need to take priority at times,
+and thus by rotating the role of ‘lead’  individual (or
+agency), this will allow time and space to respond to these
+other competing demands, while also managing issues
+around fatigue and tunnel vision as the various agencies
+and individuals ‘share the load’. Further, by rotating these
+roles, individuals can develop a greater understanding of
+each other’s responsibilities, roles, pressures, and demands,
+helping to build a better shared mental model of the team
+response (see Sections 3.3 and 4.1). For any role swap or
+shift change to work effectively an effective change-over pro-
+cedure (e.g., role shadowing for a specific time period) is
+needed to transfer situational awareness and overall re-
+sponse performance. This is essential to maintain deci-
+sion making effectiveness in evolving crises.
+3.1 Decision making
+Pivotal to effective volcanic crisis management are the
+decision making, situational awareness, mental models
+(which is an individual’s representation or visualisation of
+a real system, including concepts, relationships, and their
+role within that system) and trust processes that underpin
+Page 7
+Doyle et al. Journal of Applied Volcanology (2015) 4:1  Page 7 of 26
+effective response. We commence discussion with an
+overview of the individual and group decision making pro-
+cesses occurring in volcanic management and response.
+Analytical decision-making is defined by working
+through a process: identifying a problem; generating op-
+tions to solve the problem; evaluating these; and imple-
+menting the preferred option (Flin 1996; Saaty 2008).
+This form of decision making requires time to allow this
+process to occur. It is the default approach adopted by
+scientists (and managers) due to their training. However,
+in emergency response a range of other decision making
+styles: analytical; naturalistic; procedural based; creative;
+and distributive (e.g. Crichton & Flin 2002); are required
+and need to be matched to the situation and conditions
+encountered by decision-makers.
+The slower, more considerate, analytical decision mak-
+ing processes lie at one end of a continuum of decisions
+styles. At the “faster” end of the decision making con-
+tinuum lies naturalistic decision making (NDM; Martin
+et al. 1997). This relies on experience garnered through
+real world crises as well as simulations and exercises
+(Crichton and Flin 2002; Klein 2008).  It is commonly
+adopted in high risk and low time contexts and natural-
+istic settings which involve: ill-structured problems; un-
+certain, dynamic environments; shifting, ill-defined, or
+competing goals; action/feedback loops; time stress; high
+stakes; multiple players; and the effects or pressures of
+organizational goals and norms (Orasanu & Connolly
+1993, as cited in Zsambok 1997, p. 5). For critical incident
+management, research has identified four key NDM pro-
+cesses (Crego and Spinks 1997; Crichton and Flin 2002;
+Pascual and Henderson 1997): 1) recognition-primed and
+intuition led action; 2) a course of action based upon writ-
+ten or memorised procedures; 3) analytical comparison of
+different options for courses of action; and 4) creative de-
+signing of a novel course of action; ordered by increasing
+resource commitment.
+In a crisis, uncertainty, environmental change, risk and
+time pressures are amplified, making decision making
+(whether by scientists or responders) in this dynamic con-
+text one that is dependent on ‘task conditions’ (Martin et al.
+1997), and thus throughout one incident different processes
+may be adopted. For example, during Exercise Ruaumoko
+(Sections 2.1 and 5.2), the on-site GeoNet duty officers in-
+side both the Auckland Group EOC and the NCMC were
+often asked to provide answers to questions from key de-
+cision makers who required an immediate response due to
+response management demands. This “task condition”
+(short time) would have favoured the more naturalistic
+decision making, where the scientists would have relied
+upon their experience to assess the situation (both the
+question and the available science) to make an intuitive or
+recognition-primed decision (Paton et al. 1999, Klein
+1998). However, earlier in the exercise, during the warning 
+period preceding the volcanic ‘crisis’  the science advice
+could be carefully evaluated and compared, and relatively
+lower time pressures afforded scientists and decision
+makers the opportunity to adopt an analytical decision
+making approach. However, as the situation moved from
+this early warning phase into the crisis of impending
+eruption, or for a situation where scientists are responding
+rapidly after an eruption (e.g. the “Blue Sky” eruption of
+Ruapehu in September 2007), the more intuitive naturalis-
+tic style would again be adopted. As stated by Paton et al.
+1999, “attention must [thus] be directed to understanding
+[this] naturalistic decision-making of experts, and how it
+can be modelled in simulations to develop this contingent
+management capability” (p. 44).
+3.2 Situational awareness
+Pivotal to effective decision-making process is a capacity
+to: 1) evaluate and define a problem and task character-
+istic via situation assessment (Endsley 1997; Martin et al.
+1997); and 2) select a decision-making strategy from the
+four options described above (Crichton and Flin 2002).
+The former process is intrinsically dependent upon the
+situational awareness (SA) of the individual and the team
+(Cannon-Bowers and Bell 1997; Crichton and Flin 2002).
+Situational Awareness comprises three levels (Endsley
+1997, p. 270–271):  1) Perception – understanding the
+importance of information and cues in the environment;
+2) Comprehension – combine, interpret, store, and retain
+information and be able to use it; and 3) Projection –
+prediction of future situations from existing and previous
+situations. Initial and ongoing SA is critical to decision
+making (Sarna 2002). Thus a decision-maker may make
+the correct decision based upon their perception of the
+situation, but if their situation assessment is incorrect then
+this may negatively influence their decision (Crichton and
+Flin 2002). When responding to a volcanic eruption, de-
+veloping and maintaining this SA is important for both
+volcanologists (in their assessment of available data and
+future projections, information from other agencies, de-
+mands upon their advice) and emergency managers and
+decision makers (in their assessment and understanding
+of information - including science advice, resources, de-
+mands and future requirements and needs).
+In reviews of the inter-organisational response of the
+1995–1996 Ruapehu eruptions in NZ (Paton et al.
+1998a, 1998b, 1999),  several issues affected the SA of
+both scientists and emergency managers. In particular,
+“inter-organisational networking” was weak, with none
+of the responding agencies (e.g. fire, police, civil defence,
+social services, media, etc.) having an established or for-
+malised inter-organisation network in place with GNS
+Science before the event, even though GNS Science
+acted as an information provider for 63% of the respond-
+ing agencies. This resulted in organisations interacting
+Page 8
+Doyle et al. Journal of Applied Volcanology (2015) 4:1  Page 8 of 26
+on an “ad hoc” basis (Paton et al. 1998a, p. 7) contribut-
+ing to co-ordination and communication problems and
+preventing their using crucial information to build and
+maintain SA, and thus impacting both emergency man-
+agement and volcanological decision-making processes
+and outcomes. This was compounded by issues such as
+the “lack of clear responsibility for co-ordination” across
+responding agencies (reported by 45% of participating
+agencies), “inadequate communication with other agen-
+cies” (37%), and “inadequate co-ordination of response”
+(32%). These are all indicators of “team breakdown”, in-
+adequately defined and co-ordinated roles, and poor
+communication (Paton et al. 1998a, 1999). The develop-
+ment of effective inter-organisational crisis communica-
+tion requires (Paton et al. 1998a) “information needs
+[that] are anticipated and defined, that networks with in-
+formation providers and recipients are organised, and
+[that] crisis communication systems capable of provid-
+ing, accessing, collating, interpreting and disseminating
+information are established. … [and] shared terminology
+and systems” (p. 8).
+The development of VSAGs and the associated Terms
+of Reference within NZ over the last two decades will
+have helped to build shared mental models of the re-
+sponse environment across organisations. VSAG devel-
+opment has included the identification of protocols for
+communication and networking with emergency man-
+agement and key response organisations, and specifying
+relationship building activities to be undertaken within
+these groups. These activities have improved communica-
+tion and information flow during a volcanic crisis and thus
+the shared situational awareness in that crisis. Comparison
+of Figures 1 and 2 illustrates the change and improvement
+in information flow processes between Ruapehu in 95–96
+(Figure 1) and Ruaumoko in 2008 (Figure 2).
+The rarity of large scale eruptions makes it important
+to capitalize on the learning opportunities events, exer-
+cises, and reviews provide for developing situational
+awareness and for facilitating the ability of scientific ad-
+visors to develop shared mental models of their and
+others role in response management. This feeds into
+training needs analysis and the development of the situ-
+ational awareness competencies and decision support
+systems required to sustain effective situational aware-
+ness in complex, rapidly evolving and dynamic volcanic
+crises. It can also inform the development of the shared
+situational awareness required if all team members make
+their respective contributions to a shared task or goal.
+That is, to develop shared mental models of presenting
+problems and response options, particularly when deci-
+sion inputs come from different professions and/or from
+participants who are spread over a large geographical
+area. Facilitating the latter introduces a need for distrib-
+uted decision making, discussed next. 
+3.3 Shared mental models
+The scale and complexity of volcanic crisis response re-
+sults in decision-making involving people who differ in
+their profession, expertise, functions, roles and geo-
+graphical location. This more integrative decision style is
+called distributed decision making (Rogalski & Samurcay
+1993, as cited in Paton & Jackson 2002). As discussed in
+Section 3.1, an individual’s mental model impacts indi-
+vidual decision making, as it is their representation of
+the wider system and processes, including inter-agency
+relationships, needs and demands, and an individual’s
+role within a crisis. Thus, for effective distributed deci-
+sion making,  individuals require a good shared mental
+model of the response environment in time and space,
+which incorporates how their expertise contributes to
+different parts of the same plan, and their understanding
+of each other’s knowledge, skills, roles, anticipated be-
+haviour or needs (Flin 1996; Marks et al. 2002; Paton
+and Jackson 2002; Schaafstal et al. 2001). By building a
+shared mental model, team members can develop an ac-
+curate expectation of the performance of their team
+members and themselves, leading to effective coordin-
+ation without overt strategizing (Blickensderfer et al.
+1998; Cannon-Bowers et al. 1998; Lipshitz et al. 2001;
+Salas et al. 1994).
+The collection of GNS Science information by re-
+sponse agencies in an ad-hoc basis (Paton et al. 1998a &
+Paton et al. 1999) during the 1995–1996 Ruapehu erup-
+tions describes a process where information was being
+provided by explicit requests only. In such cases, the in-
+formation provided often also needed to be adapted and
+translated to meet decision needs. However, research in
+the decision making community has identified that ef-
+fective teams move from the sharing of information by
+explicit request towards an approach that adopts implicit
+supply, where members provide not only good informa-
+tion, but unprompted information that is tailored in
+terms of content and format due to their understanding
+of the needs of the recipient (Lipshitz et al. 2001;
+Kowalski-Trakofler et al. 2003; Paton and Flin 1999).
+Implicit communication also facilitates the mainten-
+ance of situational awareness during periods of dynamic
+information, as it allows decision makers to focus on task
+management. For this kind of team functioning to be suc-
+cessful in complex, time pressured situations, (Wilson
+et al. 2007, as cited in Owen et al. 2013, p. 5) identified
+that it required the following characteristics:
+ Effective communication consisting of accurate and
+timely information exchange, correct phraseology
+and closed-loop communication techniques;
+ Coordinated behaviour based on shared knowledge,
+performance monitoring, back-up and adaptability;
+and
+Page 9
+Doyle et al. Journal of Applied Volcanology (2015) 4:1  Page 9 of 26
+ A co-operative team orientation, efficacy, trust and
+cohesion.
+However, as highlighted by Owen et al. (2013), p. 6 for the
+multi-team, multi-organisational, coordination characteristic
+of large-scale complex emergency management events,
+the challenge is not just to build an effective team, but “to
+understand how a team coordinates within teams” and
+how understanding may be “shared between teams”. When
+we consider a multi-agency VSAG, the responding scien-
+tists can be considered as but one team within the com-
+plex multi-team response. Owen et al. (2013) identify four
+distinct stages for effective and adaptive team functio-
+ning for an inter-team inter-organisational response,
+including: 1) situation assessment, 2) plan formulation,
+3) plan execution, and 4) team learning. These, and the
+indicators typically used to identify whether these acti-
+vities are occurring, are depicted in Table 1.
+A significant challenge here derives from a need to co-
+ordinate the inputs of different agencies and experts to
+assist the holistic management of complex hazard conse-
+quences. For example, public health specialists possess
+expertise concerning the specific effects of ash and gas
+on health. However, to mount an effective response,
+their input, as members of an ‘emergent’ team, must be
+integrated with input from, for example, volcanologists,
+emergency managers, social welfare, and transport agen-
+cies, to facilitate understanding of the ‘whole’  problem, 
+prioritise issues, and to identify where is safe for people
+to be evacuated to, etc. This example illustrates how, for
+example, public health specialists and volcanologists
+need to bring their professional team mental model to
+bear on identifying their specific contribution, but also
+develop a superordinate (overarching) mental model that
+integrates all areas of expertise. A significant challenge
+arises because scientists, and indeed all stakeholders,
+need to switch between a) being autonomous actors, and
+b) being multi-disciplinary team members, depending on
+the task being undertaken (Janssen et al. 2010).
+Fundamentally, in a volcanic crisis response setting,
+the science advisors’ and VSAGs’ role is to provide infor-
+mation to facilitate the response agencies understanding
+of the hazard issues, priorities, the wider context, im-
+pacts, and potential future outcomes, and thus build
+their situational awareness to aid their decision-making
+process. However, as stated by Doyle & Johnston (2011),
+it is not just a case of providing the emergency managers
+with all available science information, but about under-
+standing their needs to meet their information require-
+ments. Simply providing as much advice as possible may
+actually hinder the decision process, due to cognitive
+overload and an overuse of these available resources
+(Crichton and Flin 2002; Omodei et al. 2005; Quarantelli
+1997). To contribute in this way, scientific advisors need
+to develop a shared mental model with their emergency
+manager counterparts both prior to an event (to develop
+Table 1 Framework for inter-team inter-organisational coordination (Owen et al. 2013)
+Phase  Within teams  Between teams  Anchor points
+Situation assessment Information gathering, individuals
+scan the environment to identify cues 
+Boundary spanning Within teams: incident briefings; handovers
+Individual and Team Situation Awareness Distributed Situation
+Awareness Social networks 
+Between teams: Emergency Management
+Team (EMT) briefings; situation reports;
+emergency services liaison officers
+Sense-making  Organisational culture Information flows through texting, emails,
+data retrieval
+Plan formulation Meaning making  Shared beliefs  Regional and state level team membership
+Setting goals, clarifying roles,
+prioritising tasks 
+Centralised-decentralised
+decision making authority 
+Decision-structures analysis
+Psychological safety  Distributed cognition Command and Control (C2) teleconferences;
+EMT meetings
+Team trust and cohesion  Social networks  Regional and state level team membership
+Plan execution Communication Relational coordination Observations of teamwork
+Explicit and implicit coordination Cultural-historical activity theory Temporal and cultural-structural boundary points
+Cross-checking/monitoring/backup
+behaviour
+Leadership  Boundary spanning C2 teleconferences; EMT meetings
+Team learning Psychological safety  Analysis of organisational
+tensions and contradictions 
+Within teams: immediate debriefs
+Opportunities for reflection
+and perspective-taking 
+Organisational learning
+(post response) 
+Between teams: multi-agency after action
+reviews; development of knowledge networks.
+Page 10
+Doyle et al. Journal of Applied Volcanology (2015) 4:1  Page 10 of 26
+effective plans) and during the crisis itself. This shared
+mental model encompasses the overlapping elements of
+each team member’s SA and represents the inter-team
+co-ordination (Endsley 1994),  allowing an effective co-
+ordination amongst team members without the need for
+extensive overt strategizing (Salas et al. 1994; see review
+in Doyle & Johnston 2011).
+For science response it is thus vital that scientists de-
+velop this shared mental model within the VSAG, and in
+the wider multi-agency response, to facilitate their ability
+to implicitly provide the science information required by
+the main decision makers at critical periods (see also
+Doyle & Johnston 2011).  However, when dealing with
+the uncertainty implicit in volcanic crises the effectiveness
+of this information sharing relationship is influenced by
+the degree of trust that exists, or that needs to be devel-
+oped in situ, between key players. This is particularly im-
+portant given the rarity of opportunities for functional
+organizational interaction before a crisis occurs.
+3.4 Trust
+Trust plays a pivotal role in developing sustainable,
+functional relationships when members of diverse orga-
+nizations need to collaborate to access, share and use in-
+formation for decision making in response environments
+characterized by uncertainty (Siegrist and Cvetkovich
+2000). Without trust, teams focus on task demands, not
+teamwork, reducing their effectiveness in tackling emer-
+gent crisis response needs (Pollock et al. 2003).
+Inter-agency trust develops through collaboration. Since
+volcanologists and emergency managers rarely work together
+under normal circumstances, trust among agencies may
+be lacking (Dirks and Ferrin 2001). Since representatives
+of scientific and EM agencies typically meet and interact
+for the first time during a crisis, agency representatives are
+denied the luxury of building trusting relationships over
+time. Trust must be developed via other mechanisms.
+One approach capitalizes on the concept of swift trust
+(e.g. Meyerson et al. 1996).
+Swift trust can be developed in temporary (EOC) orga-
+nizations if certain conditions are met. Meyerson et al.
+(1996) argue that, firstly, swift trust is less about the inter-
+personal relationship factors that underpin traditional
+forms of trust (built up over a prolonged period of time),
+and more about encouraging a focus on goal achievement
+by facilitating the ability of participants to understand
+their respective contributions to a superordinate (over-
+arching) team managing complex evolving eruption con-
+sequences. Secondly, swift trust is more likely to arise
+when drawing upon a small pool of representatives who
+have an increased chance of future interaction, with this
+condition creating a social setting that can foster quicker
+trust building between parties. Finally, swift trust avoids
+personal disclosure in favour of a reliance and focus on 
+key tasks that relate to the features of the setting (i.e., the
+need to integrate diverse organizational and professional
+perspectives to tackle specific response issues as a mem-
+ber of a superordinate team). If all members of the super-
+ordinate EOC organization, incorporating the VSAG,
+adopt these roles they are more likely to be able to develop
+trusting relationships that facilitate effective information ex-
+change and utilization in high risk, evolving crisis events.
+Evidence of swift trust first emerged from Goodman
+and Goodman’s (1976) observation that some temporary
+groups did not have a history of trust, but developed
+“swift trust” through task related interaction. Evidence
+for the effective role that swift trust can play in multi-
+agency and distributed management systems comes from
+research into global virtual teams that exemplify tempor-
+ary organizations; and the requirement for collaborative
+team management further supports its utility (Coppola
+et al. 2004; Crisp & Jarvenpaa 2013; Robert et al. 2009;
+White et al. 2008). The concept of swift trust has only re-
+cently been tested in multi-agency natural hazard crisis re-
+sponse contexts (Curnin et al. 2015).  This, as well as
+evidence for its effectiveness in military contexts which in-
+volve the collaborative response to emergent, low-time/
+high-risk demands over time (Ben-Shalom et al. 2005;
+Hyllengren et al. 2011; Lester & Vogelgesang 2012) sug-
+gests it should be included in future volcanic crisis re-
+sponse protocols. Swift trust research in military contexts
+also highlighted the importance of selecting team mem-
+bers with sufficient status to be ‘heard’ in a multi-agency
+team context (Curnin et al. 2015).
+4 Activities to improve future response capability
+In the above discussion, we outlined that effective indi-
+vidual and team response to a crisis, such as a volcanic
+eruption or unrest period, is characterised by good situ-
+ational awareness, strong inter-organisational networks,
+effective shared mental models, and high trust between
+responding organisations and individuals. To achieve
+this, and develop a common understanding of each other’s
+roles, dependencies, and information needs, and the
+over-all response environment, it is important to under-
+take multi-organisational and multi-disciplinary planning
+activities, and collaborative exercises and simulations
+with all team members and advisors, to help in the devel-
+opment of similar mental models of the task (see review
+in Paton & Jackson 2002; Doyle & Johnston 2011). Such
+a comprehensive suite of training and relationship build-
+ing activities prior to an event, and detailed analysis of
+event and exercise response, can facilitate future re-
+sponse capability and identify areas for improvement.
+This is particularly important given the rarity of volcanic
+and other hazard events, and thus a lack of opportunity
+for real world experience.
+Page 11
+Doyle et al. Journal of Applied Volcanology (2015) 4:1  Page 11 of 26
+According to Kozlowski (1998),  p. 120–122, team
+training should be considered as a sequence or series of
+developmental experiences that are carried out across a
+series of different environments, to build “knowledge
+and skills in an appropriate sequence across skill levels,
+content and target levels”. Ideally this training and exer-
+cising needs to develop both individual and team situ-
+ational awareness (SA) and explore how and when each
+is appropriate for response, within evolving, dynamic re-
+sponse environments. Team SA can be developed in
+post-event and post-exercise reviews that include identi-
+fying inter-agency relationship issues as opportunities
+for development (and not as problems).  Through the
+analysis of past events, lessons for successful communica-
+tion, advice provisions and distributed decision-making
+can also be learnt. However, these training activities need
+not necessarily develop shared mental models and the
+capacity for true levels of collaborative management etc.
+Agencies can also use them to update, write, and prepare
+plans, identify potential or existing issues with the re-
+sponse, logistical, and communication plans; while also
+testing such processes, systems, and communications.
+Adopting a suite of training activities increases opportun-
+ities for developing an understanding of the technical is-
+sues involved and the multi-agency context in which they
+occur (Borodzicz & van Haperen 2002).
+Several training methods have been identified that can
+enhance naturalistic decision-making (e.g. Cannon-Bowers
+& Bell 1997),  enhance decision skills (e.g. Pliske et al.
+2001), train effective teams (e.g., Salas et al. 1997b), and
+develop effective critical incident and team based simula-
+tions (e.g. Crego & Spinks 1997; see review in Flin 1996,
+chap. 6), all of which are relevant for volcanologists and
+VSAGs. These include cross training, positional rotation,
+scenario planning, collaborative exercises and simulations,
+shared exercise writing tasks, and ‘train the trainer’  type
+tasks; in addition to workshops, seminars, and specific
+knowledge sharing activities.
+We briefly discuss below two methods in particular:
+cross-training and scenario planning, as we feel that they
+are particularly suitable for volcanic response environ-
+ments. Exercises, and the application of them to science
+response, are discussed in detail in Section 5, including an
+evaluation of the lessons learnt from Exercise Ruaumoko
+in the context of the key competencies discussed in
+Section 3. It is important to highlight that for all
+these, it is not just knowledge and skill development that
+is addressed through these activities; they also address
+“how the disaster context influences performance and
+well-being” (Paton et al. 2000, p. 176). In addition, each of
+the training activities can be carried out at the many levels
+of a response, for teams within an agency, for the entire
+organisation, across multiple organisations, and for the full
+multi-organisation response. 
+4.1 Cross training
+Cross training enhances the awareness and knowledge
+that each team member has of their fellow team mem-
+bers’ tasks, duties and responsibilities and facilitates the
+holistic (shared mental model) understanding of team
+functioning and the respective, interdependent role of a
+given agency within the team (Marks et al. 2002; Schaafstal
+et al. 2001; Volpe et al. 1996). This is termed their interpo-
+sitional knowledge (IPK). Volpe et al. (1996) reason that
+IPK allows team members to “anticipate the task needs
+of fellow team members”, leading to more effective team
+performance and enhanced coordination with a minimal
+communication requirement, important when task loads
+are high and individuals are too busy attending to these to
+be able to make explicit information requests. In the ab-
+sence of IPK, there exists interpositional uncertainty which
+can hamper team performance (Blickensderfer et al. 1998).
+Cross training is “an important determinant of effective
+teamwork process, communication, and performance”
+(Volpe et al. 1996, p. 12). Teammates who develop inter-
+positional knowledge through cross-training: 1) interacted
+more effectively with each other, 2) used more efficient
+communication strategies, and 3) volunteered information
+more often (Blickensderfer et al. 1998). It facilitated these
+outcomes by “encouraging members to understand the
+activities of those around them” (Blickensderfer et al.
+1998), to better anticipate their needs and assist those in
+need of help (see Table 2 and Schaafstal et al. 2001;
+Marks et al. 2002). Furthermore, cross-training can foster
+a sense of a shared “common bond” (Greenbaum 1979,
+as cited in Blickensderfer et al. 1998) amongst team
+members and support the establishment of morale, cohe-
+sion and confidence.
+Cross-training encompasses three methods that be-
+come progressively more detailed and involved, and thus
+more effective for improving shared mental models, un-
+derstanding of complementary roles, and enhancing col-
+laboration (Blickensderfer et al. 1998; Marks et al. 2002).
+These are: 1) positional clarification, a form of awareness
+training (e.g., by discussion, lecture, demonstration or dis-
+semination of information) where specific information is
+provided about other roles and responsibilities in the team
+(e.g., working together in an EOC, or in a science response
+team, for example); 2) positional modelling, a training pro-
+cedure in which the duties of each team member are dis-
+cussed and observed via behaviour observation (e.g.,
+offering potential EOC participants some actual practice
+in the other positions: a volcanologist could be given the
+opportunity to play the role of, for example an intelligence
+or logistics officer in an EOC context); and 3) positional
+rotation, which involves training within the exercise con-
+text where all team members spend significant periods of
+time performing other team members’ jobs and roles, pro-
+viding a working knowledge of each member’s specific
+Page 12
+Doyle et al. Journal of Applied Volcanology (2015) 4:1  Page 12 of 26
+Table 2 Lessons learned from studies on cross-training teams (Blickensderfer et al. 1998)
+1  Cross-trained teams are better able to anticipate each other’s needs (Volpe et al. 1996)
+2  Cross- training fosters inter-positional knowledge (Cannon-Bowers et al. 1998)
+3  Cross-training should be used in combination with team process training to provide maximum benefit
+4  Length of cross-training intervention is not necessarily related to value of the intervention
+5  Cross-training interventions should be designed on the basis of the interdependency requirements of the task, i.e. teams with high interdependencies
+be given positional rotation, whereas teams with few interdependency requirements may need only basic knowledge of team structure, through
+positional clarification
+6  A number of guidelines regarding the training objectives and content can be based on the cross-training research. From these, cross-training
+should do the following (adapted from Salas et al. 1997a, Blickensderfer et al. 1998):
+i. Provide team members with an understanding of how other team members operate, why they operate as they do, and the manner in which
+they are dependent on teammates for information and input;
+ii. Provide team members with exposure to the roles, responsibilities, tasks, information needs, and contingencies of their teammates’ tasks;
+iii. Provide team members with practice on the roles and tasks of teammates, highlighting the interdependencies of the positions as
+requested; and
+iv. Provide feedback during cross-training exercises that allows teams members to formulate accurate explanations for their teammates’
+behaviour and reasonable expectations for their teammates’ resource needs.
+v. To determine the specific content of cross-training, a team task analysis should be conducted. This will help to identify interdependencies
+in the task and to identify what inter-positional knowledge is necessary to help teammates coordinate
+tasks and how those tasks interact and to gain different
+perspectives of the overall situation. The chosen cross
+training method amongst these three approaches should
+correspond to the realistic level of interdependence of the
+team (Ford and Schmidt 2000).
+4.2 Scenario planning
+Scenario planning is a technique that creates multiple
+scenarios of “different futures” in ways that accommo-
+date the perspectives of multiple agencies (i.e.,  to de-
+velop response scenarios that more accurately reconcile
+the needs, goal and expectations of diverse agencies;
+Bloom and Menefee 2014; Moats et al. 2008; Paton
+2014). At a fundamental level, scenario planning allows
+an “organisation to examine several options or risks that
+might have been overlooked in a plan that was con-
+structed around a single environment. The process
+forces managers to think about the unthinkable and to
+even plan for it” (Bloom and Menefee 2014). Through
+this process, the goal is to outline possible futures that
+are “credible and yet uncertain” (Keough and Shanahan
+2008). Various alternative steps to the scenario planning
+process are outlined in Table 3.
+Scenario planning enables the integration and aware-
+ness of the various social, political, economic, cultural,
+and other environmental forces that underpin the histor-
+ies and expectations different agencies bring to the re-
+sponse management environment. It also provides an
+opportunity to ‘rehearse the future’, promoting adaption
+versus reaction, and providing a safe space through
+which various points of view and new or unique ideas
+from within the team can be shared without the fear of
+being prejudged or automatically dismissed (Bloom and 
+Menefee 2014). Through this process, the volcanic crisis
+management team can also enhance their understanding
+of the wider response process, the key issue and decision
+thresholds, and trigger points; thus facilitating their col-
+lective ability to integrate their various perspectives and
+develop a bigger picture of the response than would
+arise if this was based on an individual role or stake-
+holder working separately. This can enhance shared situ-
+ational awareness of the issues and process amongst the
+participating team. Scenario planning can be conducted
+at the sub-agency level (e.g. a monitoring team at a vol-
+cano observatory planning the response and deployment
+of personnel and instrumentation to facilitate effective
+monitoring during outcomes of an unrest scenario),  at
+the agency level (e.g. a government science agency and
+university identifying how they could share resources and
+support each other during a response) and the multi-
+agency level (e.g. the VSAG considering potential eruption
+and response scenarios with the local CDEM group). In
+particular, for scientists, it provides an opportunity to
+work alongside emergency managers to identify science
+information needs and impacts of that information on
+decision outcomes, thresholds and trigger points.
+5 Exploring exercises in detail
+In the field of emergency management, exercises to test
+response and procedures, and to train personnel com-
+monly fall into one of the five categories listed in Table 4,
+from the small scale in-house orientation exercise to a
+full-scale multi-agency exercise conducted at the local,
+national and international level. These different types of
+exercises may then each be conducted at the different
+Page 13
+Doyle et al. Journal of Applied Volcanology (2015) 4:1  Page 13 of 26
+Table 3 The generic scenario planning model of Keough and Shanahan (2008), and an example of a scenario building
+model for step 3 given by Schwartz’ 8-step approach (Schwartz 1996; as cited in Keough and Shanahan 2008)
+Generic scenario planning model  Schwartz’ 8-step scenario building model
+1  Engage in scenario planning 1  Identify focal issue or decision
+2  Compose the team  2  Identify key factors in the local environment which influence the decision
+3  Scenario Building  3  Identify driving forces that influence key factors in the local environment
+4  Decision process  4  Rank by importance and uncertainty
+5  Increased performance 5  Select scenario logics
+6  Flesh out scenarios
+7  Consider implications
+8  Selection of leading indicators and signposts
+Alternatives to this scenario building model, with additional steps: a) research, b) identifying major stakeholders, and c) communication, can also be found in
+Wilson and Ralston (2006) and Moats et al. (2008). The 18 step approach of Wilson & Ralston provides a clear road map through four phases of scenario planning,
+including a) getting started, b) laying the environmental analysis foundation, c) creating the scenarios, and d) moving from scenarios to a decision. Through these
+various approaches, the current mental models of participants and their assumptions can be identified and improved upon.
+levels of the CDEM structure, for example in NZ they
+are (MCDEM 2009a):
+ Tier 1: Local exercise (individual organisation)
+ Tier 2: Group exercise (within CDEM group)
+ Tier 3: Inter-Group exercise (across CDEM Groups,
+may include MCDEM)
+ Tier 4: National exercise (New Zealand or part
+thereof, including central government).
+In NZ, MCDEM runs a voluntary participation Na-
+tional CDEM Exercise Programme which exercises at all
+levels of the CDEM structure listed above, where each
+tier exercise is informed by a “consistent regime of plan-
+ning, observation, evaluation, feedback and continuous
+improvement” (MCDEM 2009a, p. 11).  These are run
+within a 10 year schedule of exercise programming, with
+Tier 3 exercises every second year and Tier 4 exercises
+in the intervening years (MCDEM 2009b). Individual or-
+ganisations can participate in each of these exercises to
+the scale and scope they desire (e.g.,  ranging from a
+small scale in-house orientation exercise through to a
+multi-agency full scale response, Table 4).
+Examples of recent Tier 4 exercises in NZ include the
+CDEM Exercise Tangaroa conducted in NZ to test the
+national response to a national tsunami warning in 2010
+(MCDEM website 2014a; Coetzee & Gale 2010), and Ex-
+ercise Ruaumoko which tested an all of nation response
+to a volcanic eruption in the Auckland Volcanic Field
+(discused earlier, MCDEM 2008). An example of Tier 3
+is the planned exercise Te Matau-a-Maui functional
+earthquake exercise to be run by the Hawke’s Bay
+CDEM group to exercise the multi-organisational cross
+CDEM response to a MMVII scale earthquake in the re-
+gion. An example of a Tier 2 is the (regional) Bay of
+Plenty CDEM group exercise of a severe weather event 
+involving a storm surge leading to flooding and signifi-
+cant infrastructure damage in the region with a goal to
+exercise lifeline utility business continuity plans.
+A full list of previous and planned exercises within the
+NZ CDEM sector can be found on the MCDEM website
+(2014b). These Tier 2, 3 and 4 exercises involve a wide
+range of co-ordination, collaboration, and considerable
+inter-organisational planning depending on the Tier
+level. In comparison, Tier 1 exercises involve just the in-
+dividual organisation, such as a university exercising its
+response to a critical incident on campus (such as an
+earthquake or armed intruder).  Similar tier structures
+are used by other organisations both nationally and
+internationally (e.g. FEMA’s National Exercise Program,
+FEMA 2007; FEMA website 2014). For example, in NZ,
+Maritime New Zealand - Nō te rere moana Aotearoa
+(the Crown entity for Maritime safety, regulation, and
+emergency response) prepared contingency plans and
+runs exercises following three tiers depending on the
+level of responsibility: Tier 1 - industry (ships and on-
+shore/offshore oil transfer sites), Tier 2 – regional coun-
+cils, and Tier 3 – Maritime New Zealand.
+Further to these national government led exercise sched-
+ules, there are a number of international collaboration
+programs to exercise response across nations. For ex-
+ample, Exercise Pacific Wave is run by the International
+Tsunami Information Center every two years to practice
+the sharing of information, warnings, advice, and re-
+sources while practicing government led decision making
+for a tsunami in the Pacific (UNESCO website 2014a).
+Similar exercise schedules exist for the Indian Ocean and
+Caribbean Sea, as well as the Mediterranean (UNESCO
+website 2014b). These provide useful examples of multi-
+agency international exercises, with a wide variety of orga-
+nisations participating to various degrees (e.g. as watchers,
+partial participants, or full exercise participants). For ex-
+ample, 34 Pacific countries directly participated in
+Page 14
+Doyle et al. Journal of Applied Volcanology (2015) 4:1  Page 14 of 26
+Table 4 The five types of emergency management exercises, as described by MCDEM (2009a)
+What  Details  Example
+Orientation exercise A ‘walk through’. It puts people in a place where they would
+work during an event, or uses them as participants in a
+demonstration of an activity. This type of exercise is used to
+familiarise the players with the activity 
+Setting up a mock welfare centre, and walking staff
+through how it is organised.
+Drill exercise Players physically handle specific equipment or perform a
+specific procedure. The exercise usually has a time frame
+element and is used to test the procedures. 
+Activating an emergency operations centre or using
+alternative communications (such as radios).
+Tabletop or
+Discussion exercise 
+Participants are presented with a problem that they are
+required to discuss and formulate the appropriate response
+or solution. Can be:
+• Facilitated: where the exercise controller actually facilitates
+the discussion through a series of questions in a stress free,
+relaxed environment, designed to identify gaps or problems
+in procedures or resources 
+Participants discuss their response to a tsunami threat
+to a particular area, where the only injects are Tsunami
+Bulletins, Watches or Warnings from the Pacific Tsunami
+Warning Centre in Hawaii, describing the nature of
+the threat.
+• Inject driven: where the personnel are provided a scenario
+and prewritten exercise injects, to practice problem solving
+and co-ordination of services – with or without time pressures
+In both of these, there is no actual deployment or use
+of equipment or resources.
+Functional exercise Can also be called an operational or tactical exercise, it takes
+place in an operational environment and requires participants
+to actually perform the functions of their roles. A normally
+complex response activity is simulated, which lacks only the
+people “on the ground” to create a full-scale exercise.
+• Participants interact within a simulated environment through
+an exercise control group who provide prewritten injects and
+respond to questions and tasks developing out of the exercise. 
+A multi-agency response to extensive flooding, where
+evacuation of a settlement is required. Messages and
+injects are provided by exercise control and are
+handled by the participants in the way described in
+appropriate plans and procedures. Outcomes are
+generated that would be expected in a real situation.
+• Functional exercises normally involve multi-agency
+participation (real or simulated) and it can focus on one or
+many geographical areas.
+• This type of exercise is used to practice multiple emergency
+functions e.g. direction and control, resource management
+and communications.
+Full-scale exercise Sometimes also called a ‘practical’ or ‘field’ exercise. These
+include the movement or deployment of people and
+resources to include physical response ‘on the ground’
+to a simulated situation. 
+Deployment of a small team to a simulated car crash
+or industrial rescue by a single agency, using real
+rescue equipment.
+• They can be ‘ground’ focused only or may include the
+higher level response structures, and they can be simple
+(single agency) or complex (multi agency). 
+Or, coordinated multi-agency response to a tsunami
+warning involving actual evacuations and actors
+portraying the public.
+• These exercises are typically used to test all aspects of a
+component of emergency management.
+• Can be simple single agency, or complex multi-agency.
+Similar definitions are provided by the US Department of Homeland Security, with further types including Seminars, Games and Drills (HSEEP 2007a; HSEEP 2007b).
+Exercise Pacific Wave in 2008, and 10 additional countries
+‘watched’  the exercise (i.e. received warning messages),
+which simulated the response to a tsunami induced by a
+M9.2 earthquake off northwest Japan (UNESCO website
+2014c). The purpose of this exercise was to evaluate and
+improve warning systems, and to improve the effective-
+ness of ‘Member States’ in responding to a destructive tsu-
+nami, including exercising of their operational lines of
+communications, warning systems, emergency response
+procedures and decision making, as well as to promote
+emergency preparedness. Exercises such as these could in-
+form future multi-national global exercises in the 
+volcanological community to enhance and inform best
+practice and protocols for international collaboration and
+response to an event that crosses country borders. This
+could be led by an international organisation like the
+International Association of Volcanology and Chemistry
+of the Earth’s Interior (IAVCEI), to simulate and integrate
+the full scale global volcanological response to a Black
+Swanb  volcanic event: such as a VEI 7 caldera eruption
+and the associated ash cloud, or managing the impacts of
+a fissure event like the 1783 Laki eruption.
+The involvement of science advisors in these exercises
+is vital for the development of shared understanding and
+Page 15
+Doyle et al. Journal of Applied Volcanology (2015) 4:1  Page 15 of 26
+shared mental models between scientists and critical
+decision makers, as discussed above. For example, the
+Ruaumoko exercise in NZ (MCDEM 2008; Smith 2009;
+Lindsay et al. 2010) involved science organisations (such
+as GNS Science) from exercise inception and scenario
+design, through to activation and response, and were
+used as opportunities to practice response, explore sci-
+ence advice, and try decision making tools relating to
+evacuation. However, it is vital that the scientists fulfill-
+ing the response role are rotated through the exercise, to
+represent realistic shift rotation in a prolonged event,
+and across exercises to ensure that as many potentially
+responding scientists as possible have the opportunity to
+practice these roles and build relationships with critical
+decision makers. Further, as discussed in Section 3, this
+rotation will enable performance management tech-
+niques to be practiced and refined, such as role swap-
+ping, shift rotation, rotation of the lead science agency
+or individual, and the balance of time and resources ded-
+icated to the ‘response role’ and the ‘day-to-day research
+role’.  These become increasingly important during long
+duration responses providing resilience to the response
+(against untoward events, as well as contingent demands),
+while enabling a sharing of the load, management of com-
+peting or conflicting demands (both professional and per-
+sonal) and maintenance of a fresh perspective via fatigue
+management.
+Further, it is important that scientists, science agen-
+cies, and science advisory groups also lead and develop
+their own in-house and cross-science agency exercises to
+develop competencies around the science response itself. 
+Thus we now review existing best practice guidelines for
+writing and evaluating such exercises.
+5.1 Writing and evaluating exercises: practice guidelines
+There are many guidelines existing in the emergency
+management and government literature that provide dis-
+tinct steps to effectively write exercises (see Table 5).
+These all recommend the adoption of an exercise cycle,
+an example of which goes through the steps: 1) analysing
+the needs and outcomes desired for the exercise, which
+may be in line with process or performance improve-
+ment plans (this step may include a ‘foundation’  step
+assessing the status quo); 2) design and development of
+the exercise; 3) conducting the exercise; and 4) evaluat-
+ing the exercise (see Figure 3).
+It is important that exercises do not just consider an
+event building up to a crescendo (e.g. the unrest period
+leading up to an eruption), but also consider non-events
+(the stalled eruption), response and recovery periods after
+an eruption (e.g. the period after a ‘blue sky’ eruption), or
+the issues of having a second volcanic crisis occurring
+alongside the focus volcano (e.g. in 2012 during the Te
+Maari unrest period in NZ, White Island also increased in
+activity requiring alert level changes). The volcanic events
+in NZ in 2012 provide a useful exercise scenario to exam-
+ine the distribution of resources and personnel across two
+concurrent crises, and to identify more overt strategies for
+stress and fatigue management.
+Exercises and simulations afford opportunities for
+agency representatives to develop, practice and review
+technical, management and team skills under realistic
+Table 5 A sample of best practice guidelines available online for the design, writing and implementation of exercises
+(all websites last accessed on 23 April 2014)
+Who  What & where
+New Zealand Ministry of Civil Defence
+and Emergency Management 
+CDEM Exercises, Director’s Guidelines for Civil Defence Emergency Management Groups [DGL 010/09]
+ http://www.civildefence.govt.nz/assets/Uploads/publications/dgl-10-09-cdem-exercises.pdf
+US Department of Homeland Security Homeland Security Exercise and Evaluation Program has a range of documents available outlining
+effective exercise writing at: [URL: "https://www.llis.dhs.gov/HSEEP"] https://www.llis.dhs.gov/HSEEP
+US Department of Homeland Security,
+Federal Emergency Management Institute 
+FEMA’s National preparedness directorate on National Training and Education runs a series of online
+courses across the range of Emergency Management at [URL: "http://www.training.fema.gov/"] http://www.training.fema.gov/, which
+includes the unit IS-139 on ‘Exercise Design’ which contains a range of useful resources.
+ http://training.fema.gov/emiweb/is/is139lst.asp
+See also the Ready.gov resources at: [URL: "http://www.ready.gov/business/testing/exercises"] http://www.ready.gov/business/testing/exercises
+UK Cabinet Office & National Security
+and Intelligence 
+Emergency planning and Preparedness: exercises and training
+ https://www.gov.uk/emergency-planning-and-preparedness-exercises-and-training
+including ‘The exercise planners guide’: [URL: "https://www.gov.uk/government/publications/the-exercise-planners-guide"] https://www.gov.uk/government/publications/the-exercise-
+[URL: "https://www.gov.uk/government/publications/the-exercise-planners-guide"] planners-guide
+National Directorate for Fire and
+Emergency Management, Ireland 
+A framework for major emergency management, Guidance Document 4: ‘A guide to planning
+and staging exercises’, May 2011. [URL: "http://www.mem.ie/guidancedocuments/a%20guide%20to%20planning%20and%20staging%20exercises.pdf"] http://www.mem.ie/guidancedocuments/a%20guide%20to%20
+ planning%20and%20staging%20exercises.pdf
+Australian Emergency Management
+Institute 
+Managing Exercises, Handbook 3: [URL: "http://www.em.gov.au/Publications/Australianemergencymanualseries/Documents/ManagingExercisesHandbook.PDF"] http://www.em.gov.au/Publications/Australianemergencymanualseries/
+ Documents/ManagingExercisesHandbook.PDF
+Page 16
+Doyle et al. Journal of Applied Volcanology (2015) 4:1  Page 16 of 26
+Figure 3 The cycle of continuous improvement and the
+exercise management model, after the Australian Emergency
+Management Institute (AEMI 2012) and the Ministry of Civil
+Defence and Emergency Management (MCDEM 2009a). Variants
+of this cycle are provided by each of the guidelines described
+in Table 5.
+circumstances and to construct realistic performance ex-
+pectations, and provide opportunities for developing cre-
+ative problem solving competencies (within and between
+teams). They also provide opportunities to practice deal-
+ing with high pressure situations in a safe and supportive
+environment, increase awareness of stress reactions, and
+to rehearse strategies to minimize negative reactions
+(Flin 1996). However, many exercises fail to mirror the
+complexity of disaster response environments (Paton
+and Auld 2006).
+There is a tendency sometimes to write these exercises
+like a ‘play’, providing too much structure and tailored
+or specific information. However, a truly challenging ex-
+ercise, that provides the greatest opportunities for learn-
+ing, should provide incomplete information, conflicting
+aspects, gaps in the situation description, ambiguous in-
+formation, and unknowns; all creating an environment
+where participants are asking questions, not just finding
+solutions (Paton and Auld 2006). For example, a monitor-
+ing team exercise could provide a situation in-exercise
+where one or many data feeds abruptly end. This provides
+participants a situation to address whether a machine or
+data relay has broken, or whether a significant event has
+occurred, allowing them to exercise the situation of uncer-
+tainty and potential decision and action strategies. Exer-
+cises should be designed in ways that allow individuals
+and teams to progressively push their boundaries and de-
+velop progressively more sophisticated competencies and
+relationships (Paton and Jackson 2002). Only through ex-
+posure to exercises that challenge assumptions and allow 
+personnel to confront novel events can preparation en-
+hance response effectiveness for eruption events whose
+complexity will exceed even the most extreme simulation
+(Paton and Auld 2006).
+Thus these exercises should aim to reproduce reality as
+closely as possible, so decision makers and experts can ex-
+perience the needs and realities of the advisory process in
+turbulent conditions (Borodzicz and van Haperen 2002;
+Rosenthal and’t Hart 1989). However, this alleged realism
+can also be a danger as personnel may believe at the end of
+an exercise that they know what will happen in a real crisis
+(Borodzicz and van Haperen 2002). Evaluation of exercises
+and events must be carefully conducted to minimise the
+risk of creating an optimistic bias that overestimates future
+response preparedness and capability, particularly if a real
+event has not constituted a major test of the response sys-
+tem (Paton et al. 1998a).  The development of an inter-
+agency exercise database would greatly assist this process.
+Guidelines for evaluation and debriefings can be found
+in the emergency management literature (see Table 5
+and Sinclair et al. 2012a; Sinclair et al. 2012b). However,
+these tend to focus on Key Performance Indicators
+(KPIs) and specific tasks, response plans, and communi-
+cation process or outcomes and content evaluation. To
+ensure these exercise experiences truly enhance team re-
+sponse and development of a common understanding
+across the team, it is important to also consider team
+and group learning (Owen et al. 2013), as well as the as-
+sessment of individual learning processes such as the
+progression from unconscious incompetence (‘I don’t
+know what I don’t know’) through to unconscious com-
+petence (‘my skill has become second nature’) (Conger
+and Mullen 1981; Morell et al. 2002; Thomson et al.
+2006).  That is, an effective exercise is one that throws
+up several unanticipated issues (e.g., regarding informa-
+tion management, decision making, team functioning
+etc.) that can inform future training needs analyses and
+training and exercise design. Thus, exercising and
+scenario-based training should be regarded as an itera-
+tive process, where the debrief and evaluation is a vital
+part of that process to enhance the knowledge and skills
+of the participants, and to help them change their world
+view and individual paradigms, whilst also minimizing
+weaknesses caused by problems with exercise fidelity,
+such as a poor scenario or lack of reality (see review in
+Moats et al. 2008).
+5.2 Exercise Ruaumoko: the importance of exercises and
+evaluation
+Evidence for the benefits of exercises can be gleaned from
+Exercise Ruaumoko; benefits identified included oppor-
+tunities to test the Auckland Volcanic Scientific Advisory
+Group (AVSAG, McDowell 2008). It was a valuable learn-
+ing experience for all concerned, illustrating the criticality
+Page 17
+Doyle et al. Journal of Applied Volcanology (2015) 4:1  Page 17 of 26
+of Auckland to the New Zealand economy and the vulner-
+ability of key infrastructure elements (MCDEM 2008, p.
+7).  Further, the process of preparing for the Exercise
+motivated the formalisation of the AVSAG structure
+(McDowell 2008) and helped to improve the understand-
+ing and performance of “individual elements” within a
+major CDEM operation (MCDEM 2008). However, one of
+the greatest benefits of the exercise was that it highlighted
+the need for considerable work “to co-ordinate the various
+elements” of the inter-agency response into a “cohesive
+[future] response” (MCDEM 2008).  This exercise thus
+allowed responding agencies to identify response, network
+and communication issues that need to be modified for ef-
+fective response and the importance of testing assump-
+tions under realistic crisis conditions, such as high stress,
+short time, and low resource conditions with competing
+demands, to demonstrate faults or potential faults in the
+system. We thus now further discuss Exercise Ruaumoko
+in detail to provide an example of an exercise structure
+and to illustrate the benefits of effective evaluation.
+Exercise Ruaumoko was a MCDEM led exercise, with
+over 1,500 participants from approximately 125 partici-
+pating organisations (MCDEM 2008, p. 8).  It was the
+second in a series of ongoing “All of Nation” exercises
+led by MCDEM (MCDEM website 2014c).  Exercise
+Ruaumoko also provided a focus to develop and formal-
+ise the AVSAG structure (which was co-ordinated and
+arranged by Auckland CDEM), while also implementing
+Terms of Reference, and arranging formal contract
+agreements for the participating scientists (Cronin
+2008); and to test such processes within a scenario. The
+three core objectives of the exercise were to: 1) under-
+stand, develop, and practice the respective roles and re-
+sponsibilities of local, regional, and national agencies in
+response to the exercise scenario (McDowell 2008, p. 7;
+MCDEM 2008, p. 5);  2) embed the planning arrange-
+ments in standard processes for all participating agen-
+cies; and 3) confirm the connections between local,
+regional, national and international agencies. In addition,
+it enabled staff at the key levels to “practice and develop
+planning and the management of response activities
+using the connections and procedures that are in place”,
+and also practice the roles, responsibilities and procedures
+that are included in the National CDEM plan (MCDEM
+2008, p. 55). The key sub-objectives of the exercise most
+relevant to science advice included the examination and
+testing of the coordination of science aspects and the
+management of public information and education. While
+Exercise Ruaumoko was primarily written and co-ordinated
+by MCDEM with Civil Defence objectives, it still provides a
+useful example for volcanologists of a large scale volcan-
+ology exercise, and the monitoring information and science
+response parts could be “re-exercised” or used as inspir-
+ation for a smaller scale science led exercise. 
+One of the unique aspects of Exercise Ruaumoko was
+its timeline, which involved periods of “unfelt earth-
+quakes” in November 2007 and then again between 3rd
+to 7th March 2008. This was followed by a week of in-
+creased activity and full exercise play from Monday 10th
+to Friday 14th March, 2008 (MCDEM 2008, p. 11; see
+Table 6). Throughout this scenario, GNS Science and its
+duty volcanology team received raw geophysical data
+such that they could directly exercise their analysis and
+interpretation processes, participate within the AVSAG
+response, practice their own decision making, and pro-
+duce Science Alert Bulletins, which in turn formed in-
+jects for the rest of the exercise participants (CDEM and
+other response and welfare agencies).  The scenario fo-
+cused on the lead-in to a volcanic eruption, stopping
+shortly after the eruption started (MCDEM 2008, p. 8),
+thus the concept of the exercise was to provide for pre-
+emergency planning rather than operating in the trad-
+itional post-event response only mode often typified of
+exercises (MCDEM 2008, p. 9). Detailed information re-
+garding the exercise management and planning process,
+which started in 2006, can be found in MCDEM (2008).
+Great lengths were undertaken to ensure this exercise
+was realistic, with a scientist “acting the volcano” and
+providing monitoring data injects, and the eventual out-
+come (including vent location in this monogenetic field)
+being kept secret from all participants. The wide number
+of participating organisations added realism in terms
+of inter-organisational communication and networks
+(Section 3). However, realism in this exercise was reduced
+by AVSAG and the GeoNet “actors” not being expected to
+participate in the exercise outside normal business hours.
+On the night of Thursday 13th, this became a particular
+issue as the emergency managers and decision makers
+continued to conduct exercise “play” throughout the night
+in the absence of the science advisors.
+Cognisant of this issue, there are still many lessons
+that were identified from exercise reviews that have dir-
+ect implications for the improvement of future response.
+Exercise evaluations we consider here include: the in-
+house GNS Science review of the AVSAG and GeoNet
+process, a NZ volcanologist who acted as an observer to
+the exercise including all AVSAG meetings and confer-
+ence calls (Cronin 2008), MCDEM’s all of exercise evalu-
+ation (MCDEM 2008, and Table 7),  and Auckland’s’
+Civil Defence Emergency Management Group evaluation
+report (McDowell 2008).  Several key issues were ob-
+served and lessons identified which we now discuss in
+reference to our understanding from Section 3 of situ-
+ational awareness, mental models, trust and decision
+making for effective response, as follows:
+ The AVSAG was constructed of a tri-partite
+sub-group system (Volcano Monitoring, Volcanology
+Page 18
+Doyle et al. Journal of Applied Volcanology (2015) 4:1  Page 18 of 26
+Table 6 The scenario timeline of Exercise Ruaumoko (MCDEM 2008)
+November 2007 • Initial phase of the exercise: initial earthquakes characterised as ‘deep long period earthquakes’ and suspected by
+seismologists participating in the exercise to be of volcanic origin. Due to the rarity of such earthquakes in the
+Auckland region, the GNS Science/GeoNet exercise participants raised the Scientific Alert Level for the Auckland
+Volcanic Field to 1 (“Initial signs of volcanic unrest”)*.
+• Fourty eight hours later this seismic activity appeared to stop, with no observable shallowing of earthquake depths.
+The exercise scientists determined after a week of quiescence that “if there had been an intrusion of magma, it had
+likely stopped or ‘failed’ at a depth of 40–50 km” (MCDEM, p. 11).
+• Scientific Alert level reduced to 0 (“Usual dormant or quiescent state”) on 16th November
+March 2008  • Second phase of the exercise: seismicity resumed and became sustained causing concern for the ‘exercising’
+authorities and Auckland communities, as the seismic source progressively shallowed, indicating that a volcanic
+eruption may occur. However, the geographic distribution of earthquake epicentres indicated a few possible locations
+for such an eruption in the monogenetic field.
+3rd March  • Scientific Alert Level raised to Level 1 (“Initial signs of volcanic unrest”)
+8th March  • Scientific Alert Level raised to Level 2 (“Confirmation of volcano unrest”)
+9th -12th March • Earthquakes started to be ‘felt’ across the Auckland region as the seismic source reached 20–25 km depth, and by 20 km
+more than 50 were being recorded a day.
+12th March  • At 10–15 km depth the events exceeded 100 per day, and by 12th March the earthquakes started to cluster in one region
+(Mt Roskill-Hillsborough to Mangere), such that ACDEM started to draw up evacuation maps.
+12th March  • Scientific Alert Level raised to Level 3 (“Real possibility of Hazardous eruptions”)
+13th March  • Clustering of earthquakes refined further (Mangere Inlet) with 300 events ‘recorded’ in a 24 hour period with depths
+of 5 km and many being of Mercalli 4.5 and ‘felt’ by residents.
+14th March  • By the morning of Friday 14th March, earthquake merged into tremor, increasing in strength throughout the morning
+with ground cracking and slumping observed around the Kiwi Esplanade and Mangere Bridge, and by 1.50 pm a small
+phreatomagmatic eruption had begun.
+14th March  • Scientific Alert Level raised to Level 4 (“Hazardous local eruption in progress”)
+• End Of Exercise
+*Note the NZ volcanic alert level system and associated descriptions was changed in June 2014 (see GeoNet, [URL: "http://info.geonet.org.nz/display/volc/Volcanic+Alert+Levels"] http://info.geonet.org.nz/display/volc/Volcanic+Alert+Levels).
+& Social Consequence, see Section 2.1), which by its
+nature had GeoNet (the monitoring arm of GNS
+Science, legislated to provide official advice) sitting as
+a separate sub-group to the volcanology sub-group
+which encompassed university and other Crown
+Research Institutes, Science agencies (e.g. MetService)
+and GNS Science; with meetings between these
+groups conducted via regular teleconferences. An
+extremely positive aspect of the AVSAG structure was
+its inclusiveness (McDowell 2008), however it was
+seen as being too “cumbersome during the escalation
+of events in the scenario” (Cronin 2008, p. 6). In the
+early stages of the exercises, information flow between
+these two sub-groups was adequate. However, as the
+crisis progressed, information transfer reduced
+considerably and there was poor communication
+(Cronin 2008; McDowell 2008). This represents a
+significant issue for effective individual and group
+situational awareness and would have impacted upon
+shared mental models of the situation, resources
+required, and decisions to be made (Section 3).
+ AVSAG tasks were driven by questions provided by
+the Auckland EOC and the National Crisis
+Management Centre. As stated by Cronin (2008),
+very little additional advice was provided, even
+though some questions were not relevant. At times 
+Table 7 Recommendation 14 “Understanding Volcanic
+Hazard and Communicating Science Advice”, from the 17
+recommendations suggested by MCDEM after Exercise
+Ruaumoko (MCDEM 2008, p. 50–51)
+• … there is a need for further analysis and/or translation of primary
+science information to limit misinterpretation and to ensure it meets the
+needs of all organisations.
+• … there is a need to review local and national requirements for science
+advice (in planning and response periods), and look at processes for
+achieving better co‐ordination and synchronisation, while also meeting
+individual agency requirements.
+Recommendation 14: MCDEM should lead work with CDEM Groups
+and science agencies to:
+14.1 Consider options for integrating local
+and national science capabilities
+and processes
+14.2 Facilitate collaborative planning by science
+agencies, including universities, for
+post‐event science investigations
+CDEM and science agencies should:
+14.3 Champion collaborative public‐good research
+to enhance the scientific understanding of
+the Auckland volcanic system, in particular
+its precursor and eruptive behaviours
+14.4 Support on‐going volcanic hazard education
+about the extent, size and nature of hazards
+and impacts.
+Page 19
+Doyle et al. Journal of Applied Volcanology (2015) 4:1  Page 19 of 26
+the questions were superseded by events, and by
+concentrating on these questions participants felt
+they “had excluded additional important comments”
+(Cronin 2008, p. 5). The exception to this was the
+social sub-group, who did pre-empt questions.
+When we consider this in light of our discussions in
+Section 3, we can see that this information sharing
+is typical of explicit information requests and repre-
+sents a weak shared mental model of the issues and
+information needs, much like the ad-hoc
+communication characterised in the response to
+Ruapehu 1995–1996 (Section 3.3, & Paton et al.
+1998a). This demonstrates a need to conduct further
+activities to develop shared mental models further,
+and strengthen inter-organisation networks and
+communication.
+ Due process outlined in AVSAG was followed in
+situations when novel approaches would have been
+more appropriate (Sections 3.1 and 3.3). For
+example, as the exercise reached crisis, AVSAG
+followed process by only responding to explicit
+requests from the decision makers (Cronin 2008), to
+the point that events actually superseded their
+responses. Failure to recognise the implications of
+future status on the changing need for information
+represents a failure of situational awareness (in
+terms of future status), and weak shared mental
+models (understanding other demands on the
+recipient; Section 3). The in-house GNS Science Re-
+view also cautioned that very structured meetings
+could constrain science discussion, which would
+thereby limit full debate and exploration of novel
+considerations and more creative decision making
+processes. This highlights how decision making
+undertaken within normal scientific research (long
+time for decisions, considerable debate, more analyt-
+ical decision processes) differs from that in emer-
+gency management environments (rapid
+decisions for public safety in high risk/low time
+contexts which call for more recognition primed
+and intuitive decision processes). It was thus felt
+that the AVSAG process was good for ‘peace-time’
+but unwieldy “when rapid response is required”.
+ At the crisis point of the exercise, as evacuation
+planning occurred, AVSAG was “side-stepped”
+despite there “being new scientific information to
+hand about the eruption location and possible
+eruption styles” (Cronin 2008, p. 4). This was a
+direct reflection of the tri-partite structure of
+AVSAG failing at the heat of the crisis, and GeoNet
+carrying out two roles: 1) as the monitoring arm
+within AVSAG, and 2) being mandated to be the
+main information provider to government, the latter
+of which took priority. The escalation of the crisis 
+resulted in a perception that time was too short for
+wider deliberation (Cronin 2008; p. 5), and resulted
+in a focus on the rapid assessment and decision
+making in relation to technical data alone
+(McDowell 2008). This however resulted in a lack of
+integration across the wider volcanological
+community represented in the volcanology
+sub-group of AVSAG, and thereby a breakdown of
+shared situational awareness (Section 3.2) and an
+artificial division between these scientists (McDowell
+2008).
+ The role of liaison officers (GeoNet duty officers) at
+the Auckland Group EOC and NCMC was vital for
+communication, and information sharing, (see
+Sections 3 and 4). Auckland Civil Defence and
+Emergency Management Group (ACDEM)
+(McDowell 2008) identified that it was highly
+beneficial to have a scientist in the GEOC as they
+provided instant integration of science advice into
+their decision making. The presence of the liaison
+officers would have enhanced the situational
+awareness of the emergency managers, and
+communication within the GEOC most likely moved
+towards an implicit supply of information by the
+liaison officer as they recognised a need for their
+advice. However, as discussed in Section 2.1, as the
+crisis progressed the information delivered by the
+two liaison officers diverged, an artefact of the
+breakdown of shared situational awareness between
+their two dispersed geographical locations as the
+time and risk pressures increased. As stated by
+Cronin (2008), p. 7, with this approach “there is no
+guarantee that the two EOC’s will receive the same
+advice”, and in the exercise this resulted in actions
+by the NCMC that were a surprise to the Group
+EOC. This demonstrates the importance of
+consistent science advice due to the impact any
+divergence may have upon cohesive integrated
+emergency management decision making and
+response. From this, the reviews identified a need for
+policy to be developed for periods of extreme urgency
+to ensure “only one representative communicates the
+same message to National and Group controllers”.
+ Reviews also identified a need for clarity around
+probabilities and uncertainty, and that there had
+been a use of geological terminology and
+phraseology that was not understood by emergency
+management, resulting in the recommendation to
+identify what the emergency managers need and
+how they use this information (see also Doyle et al.
+2014a, b). As stated by MCDEM (2008), p. 50, “there
+is a need for further analysis and/or translation of
+primary science information to limit misinterpretation
+and to ensure it meets the needs of all organisations”.
+Page 20
+Doyle et al. Journal of Applied Volcanology (2015) 4:1  Page 20 of 26
+ Communication infrastructure issues were also
+noticed, and a need for clarity around
+communication and reporting channels, as well as
+ensuring documentation was readily available for
+participants not able to attend meetings. This is vital
+for maintaining good shared situational awareness of
+the evolving crisis.
+ Work load was identified as an issue for responding
+scientists due to their dual roles (both response
+and day-to-day roles) as well as the multitasking
+demands placed upon them within the EOC. This
+indicates a need to consider the use of multiple liaison
+officers within an EOC, to share these demands, while
+both assisting with the maintenance of situational
+awareness within the EOC regarding developments of
+the science and data inputs. However, messages must
+be consistent when there are multiple liaison officers
+within an EOC, to prevent the potential divergence of
+advice discussed above.
+From these observations, and this comprehensive test-
+ing of AVSAG, specific recommendations for improving
+the science advice provision and response included
+(MCDEM 2008; McDowell 2008; Cronin 2008; Table 7):
+ The need to investigate the options for a merged
+volcanology-subgroup encompassing the GNS
+Science/GeoNet monitoring arm in such a way that
+the overall group is not too cumbersome, but such
+that all expertise can be involved in the response.
+ Recognising and ensuring that both the volcanology
+and monitoring sub-groups of AVSAG have access
+to the same data resources (which we also note
+would help improve shared situational awareness).
+ That MCDEM must work with CDEM and Science
+agencies to 1) consider options for integrating local
+and national science capabilities and processes, 2)
+facilitate collaborative planning by science agencies,
+including universities, for post-event science
+investigations (Smith 2009, p. 76) while also meeting
+individual agency requirements (MCDEM 2008, p. 50).
+ Adopting a structure where GeoNet (which has an
+always active on-call duty team) has the main
+advisory role, whilst “co-opting external AVSAG
+scientists and the GeoNet team into a volcanology/
+monitoring SAG” as needed (Cronin 2008, p. 9).
+This aims to ensure the wider NZ expertise can
+contribute to the understanding of the situation and
+incorporates locally based scientists into the
+response process.
+These observations clearly illustrate the benefits of exer-
+cises that truly test scientific response, VSAG structures,
+and inter-organisation communication and decision- 
+making responses. The ‘split’ observed between the moni-
+toring and wider volcanology subgroup of AVSAG is
+interesting to consider in the context of the influence of
+group identity (Hogg 1992) and the ‘stereotyping of in-
+and out- groups’ that can affect collaboration in a response
+(Paton et al. 1998a) and reduce the capacity to develop
+swift trust.
+As briefly introduced in Section 2, in response to these
+exercise evaluations, Smith (2009) (on behalf of MCDEM),
+outlined a potential alternative model provided by a NZ
+Volcanic Advisory Panel (NZVAP), to avoid such a break-
+down in communication, as well as to integrate local and
+national science research response (Figure 2b). This model
+was developed through a MCDEM facilitated dialogue be-
+tween volcanologists to identify how the skills of scientists
+in the range of different organisations (including univer-
+sities, Crown Research Institutes, consultancies and coun-
+cils) can be integrated “in support of a national science
+agency such as GNS Science that has responsibilities
+under the National CDEM Plan for providing warnings
+and advice” (Smith 2009, p. 76).  This national advisory
+model aims to mobilise science capability while remaining
+responsive to local CDEM needs (ibid, p. 77),  and the
+intention of such a national mechanism is not to override
+any existing scientific or planning advisory groups at the
+local level, but rather that it would be complementary and
+“provide for a level of consistency for how New Zealand-
+wide science capability is mobilised when a large-scale sci-
+ence response is needed”. Other benefits of such a group
+include: a) facilitating coordinated post-event investiga-
+tions and data sharing arrangements, b) providing stra-
+tegic advice on research direction and priorities, c)
+fostering connectivity across the physical and social sci-
+ences, and d) supporting alignment between researchers
+and research users (see also Jolly and Smith 2012).
+This proposed model was still under consideration and
+discussion when the Canterbury earthquake sequence
+started in September 2010. This sequence required an ex-
+tensive response of many of the same scientists and agen-
+cies, and thus the development and implementation of
+such a NZVAP model has been put on hold until exten-
+sive reviews of the inter-agency response to those earth-
+quakes were conducted (including both a  Royal
+Commission of Inquiry and a Coronial Inquiry) and until
+the science advisory process during those earthquakes,
+and the more recent volcanic eruptions of Te Maari in
+2012, have been fully evaluated by agencies and through
+various research projects in process (see also Section 2).
+However, until those real event reviews are available, Ex-
+ercise Ruaumoko represents a clear case study of how ex-
+ercises can be used to test a new VSAG structure,
+identify issues in that structure and pave the way for the
+development of a new structure. As stated by MCDEM
+(2008),  p. 55 “there were major achievements in the
+Page 21
+Doyle et al. Journal of Applied Volcanology (2015) 4:1  Page 21 of 26
+preparatory phase [of Exercise Ruaumoko] that simply
+wouldn’t have occurred without the context of the exer-
+cise”. After formalisation of any new NZVAP structure,
+the next step should be test this through another exercise
+(of a different scenario) to complete the exercise cycle
+(Figure 3) and implement any lessons from that as part of
+a regular evaluation of science advisory mechanisms.
+6 Discussion: a new exercise structure for
+volcanology
+It is important that science agencies both participate in
+and lead exercises of all scales and types (Table 4) due to
+the many benefits discussed above. In particular, benefits
+can arise from smaller exercises that may be more suit-
+able for restricted budgets. For example a full-scale exer-
+cise the scale of Ruaumoko would require significant
+exercise resources in terms of both personnel and costs.
+For that exercise, GNS Science contributed both exercise
+writing and preparation time of approximately 2 weeks for
+2 people, and in the exercise itself approximately 18 hours
+of meeting time (plus associated data analysis time) for
+10 people. Thus, in total, approximately 300 hours of
+professional time were contributed towards exercise de-
+velopment, exercise play, and evaluations and debriefs (de-
+tailed costs were not available, thus these are estimates
+only). This equates to approximately 70,000-100,000 NZD
+for a science agency to participate in a full scale CDEM
+led national exercise like Ruaumoko with realistic time-
+lines (including a full week of exercise play). Equivalent
+costs for MCDEM (as exercise writing management team,
+as well as in response) would be in the range of 1–1.75 full
+time equivalent (FTE) staff members for 12 months of
+exercise preparation, escalating to 3FTE for the last 3
+to 4 months and then full team engagement in the
+exercise play itself. These FTE staffing costs would be in
+addition to operational expenses (in excess of approxi-
+mately 200,000 NZD) for workshops, briefings, travel, re-
+port writing, and public education material. Meanwhile
+for regional/local CDEM, typical costs for participating in
+such an exercise would depend on their exercise involve-
+ment, ranging from 500,000 NZD for full scale participa-
+tion in a Tier 4 exercise (Auckland CDEM during Exercise
+Ruaumoko) through to 5000–10,000 NZD for smaller
+Tier 1 and Tier 2 exercises (e.g. Wellington Regional
+Emergency Management Office, based on regular Exercise
+Phoenix series). Thus it is important that agencies con-
+sider conducting a cost-benefit analysis when deciding the
+scale of an exercise, being aware that benefits from con-
+ducting exercises include the considerable reduction of
+personnel and financial costs during a real response due
+to the increased capability developed in the exercise.
+It is clear from the above that full scale participation
+in CDEM led national exercises, while extremely benefi-
+cial for the future response capability of scientists and 
+volcanologists, can be very expensive in terms of re-
+sources and professional time. It is thus important that
+scientists do not just participate in CDEM led exercises,
+practicing in liaison roles and on expert panels, but also
+exercise their own agency and inter-agency response as
+well. By exercising within their own agencies, scientists
+can enhance intra- and inter-agency collaborations. By
+developing, writing and leading an exercise, scientific
+agencies can design exercises to meet their core goals in
+terms of capability building and competency testing; to
+tailor them to meet their needs for skills and process de-
+velopment; to meet their available budget by providing
+opportunities to develop smaller, less costly exercises to
+test processes within just a small team (e.g. a monitoring
+team could practice their response, analysis and decision
+making responses).  These smaller exercises are still
+greatly beneficial to response capability and to improved
+shared mental models of the response environment
+within that team. However they currently occur in an ad
+hoc manner, with no co-ordinated Tier structure like
+that of the CDEM sector (Section 5). We thus suggest
+there is a need to formalise such a structure for volcan-
+ology to help promote a regular exercise cycle, and to
+help integrate such processes into CDEM frameworks,
+as well as to encourage documentation of such exercises
+for future shared use, and propose an equivalent scale as
+follows:
+ Level 1 – In-house: within-team or within-group
+exercise.
+ E.g. exercise the response of a specific team, such as
+an agency monitoring team or a university research
+group, to an event such as a lahar breakout and the
+associated opportunity for the rapid collection and
+dissemination of data. This could involve story
+boarding the response and requirements through a
+facilitated table top exercise, through to a functional
+exercise or practice run involving mobilisation, data
+collection procedures and radio communication tests.
+ Level 2 – In-house: within-agency exercise.
+ E.g. exercise the agency response to an eruptive
+episode, including the various responding monitoring
+teams within this organisation, such as: geochemistry,
+geophysics, geodesy, and social sciences, as well as
+those responsible for issuing monitoring statements,
+developing forecasts, and providing impact and
+warning advice to the public and key decision
+makers. Through this, an organisation can develop
+an understanding of the dependencies that each of
+these teams or groups have upon each other and
+their shared requirements to perform their role, as
+Page 22
+Doyle et al. Journal of Applied Volcanology (2015) 4:1  Page 22 of 26
+well as developing relationships across these roles. In
+addition, abilities to continue the agency’s day-to-day
+duties alongside this response can be explored and
+issues identified. Examples of such an exercise range
+from a small facilitated table top exercise to practice
+a monitoring meeting and the resultant change of an
+alert level, through to an inject led functional exercise
+utilising monitoring injects throughout a prolonged
+period of time.
+ Level 3 – Regional or National: across-agency
+exercise.
+ E.g. exercise members of a national volcanic science
+advisory group, for a long duration volcanic unrest
+period. This advisory group would bring together
+individuals from across universities, agencies and
+technical organisations, as well as any nationwide
+monitoring agency, and thus it provides an
+opportunity to exercise both their roles and others
+within their agencies and organisations who may
+support them in their role. For example, exercising a
+volcanic ash fall event provides an opportunity to
+practice interaction across agencies from the
+volcanological, meteorological, public health,
+veterinary and farming sectors, and beyond. 
+expert panel (Level 3). The key difference for our pro-
+posed exercise structure is that the exercise planning
+and writing is led by the scientific agencies, and not a
+local, regional or national civil defence agency, and thus
+is directed by the core goals and competencies that the
+scientific agency wishes to develop.
+Further to these four levels, we also suggest that volca-
+nologists exercise with a different hazard. For example, a
+team of volcanologists could run 1) a table top flood ex-
+ercise themselves (with the scenario provided by the ap-
+propriate agency) ‘acting’ as flood scientists; or 2) watch
+or participate in a full scale flood exercise, again playing
+the role of flood scientists. By exercising an ‘unfamiliar
+hazard’  (e.g. the rapid, high frequency, sudden onset
+flood),  volcanologists cannot make their usual assump-
+tions, and so the process can help to identify issues and
+unrealistic expectations of response capability. It also
+gives these volcanologists an opportunity to learn tech-
+niques, procedures and ‘tips’ from these other scientific
+communities that may be more experienced in emer-
+gency response roles. For example, some flood and wea-
+ther agencies contain scientists who are very practiced at
+regularly switching from their ‘research’  role to a ‘re-
+sponse’ role, forming rapid response teams, and working
+alongside CDEM and local governments on a regular
+basis.
+ Level 4 – International: across-agency exercise.
+ E.g. exercise the response to large scale ash cloud
+hazard event. In a manner similar to Pacific Wave,
+this could involve members ranging from the local
+weather monitoring and forecast organisation,
+through to local and international volcanologists,
+meteorologists, and aviation authorities. Through
+this the international sharing of information
+necessary for local, regional and national ash cloud
+monitoring and forecast can be exercised, as well as
+collaboration in the preparation and delivery of any
+aviation warnings.
+Each of these exercise levels could involve only the sci-
+entific agency, or other civil defence and responding or-
+ganisations, and may range from orientation to full scale
+exercises (see Table 4), as appropriate. We use the term
+‘Level’  to avoid confusion with the term ‘Tier’  used in
+the emergency management led exercises. These exercise
+levels may feed in to any of the CDEM Tier 1 to 4
+scales, as desired by the co-ordinating scientific agency.
+For example, a scientific agency may choose to only ex-
+ercise their landslide assessment team (Level 1) as part
+of a Tier 3 CDEM earthquake exercise, or they could
+choose to exercise all their responding teams to this sce-
+nario, including, for example, a full inter-agency tsunami 
+7 Concluding remarks
+Through a review of the literature on emergency manage-
+ment team response, decision making, mental models,
+situational awareness and exercising, particularly in the
+NZ context, we argue that to truly enhance the science re-
+sponse during a disaster, science agencies, and science ad-
+visory groups, must learn from emergency management
+agencies and embark on a suite of training activities in-
+cluding exercise and simulation programs within their
+own organisations, rather than solely participating as ex-
+ternal players in emergency management activities.
+Through this in-house training, the future response cap-
+ability of science advisory groups and agencies can be en-
+hanced, while also developing their true understanding of
+the needs of the emergency managers and other key deci-
+sion makers. This enhanced understanding may lead to a
+modification of existing scientific programmes and pro-
+jects, with a view to enhance outputs to meet decision
+makers’ needs in advance of a crisis rather than during the
+crisis itself. Further, by participating in these activities we
+can enhance the response capability by developing shared
+mental models across the team about the response issues,
+demands, tasks and interpositional knowledge for mem-
+bers within and across teams.
+These exercises not only provide opportunities to
+practice communications and plans and enhance these
+team mental models, but also for scientific agencies to
+Page 23
+Doyle et al. Journal of Applied Volcanology (2015) 4:1  Page 23 of 26
+rehearse strategies to convey uncertainty and how it
+could be included (Doyle and Johnston 2011; Doyle
+et al. 2014a & Doyle et al. 2014b), and for other agencies
+to be able to develop associated contingent planning. In
+addition, exercise and scenario planning can also help to
+answer if we are doing the right science for the response
+as well as for the advancement of science. There is thus
+a necessity for organisations to provide structure, re-
+sources and time to help facilitate and promote such
+training activities, as well as to encourage performance
+management techniques within a response, such as role
+swapping, while also acknowledging our responsibility as
+scientists to fulfil this response role effectively.
+Beyond exercises for response it is also important to
+acknowledge that such exercises can advance our scien-
+tific knowledge and strategies for response performance,
+learning, and decision competencies. Volcanic scenarios
+provide an important case study for these research exer-
+cises into human behaviour, learning and communica-
+tion, due to their highly uncertain nature in terms of
+expected scale, scope, timing and impacts (e.g. Doyle
+et al. 2011; Dohaney 2013).
+There is also a need, through such research exercises,
+to identify ways to develop ‘swift trust’ in an event. Trust
+is intrinsic to shared mental models, distributed decision
+making, and information sharing in a response, particu-
+larly during situations of high uncertainty. Identifying
+strategies to create swift trust goes beyond volcanic re-
+sponse management, and has implications for develop-
+ing effective multi-agency collaboration when agency
+representatives find themselves managing any hazard
+crises without prior contact. For information sharing it
+also has implications as it moves people from an indi-
+vidualistic perspective (‘my information is best’) to an
+acknowledgement of the collective perspective and role
+(‘my information is one piece in the big picture of re-
+sponse’).
+Endnotes
+a“The “boiled frog” scenario is referred to often in dis-
+aster and business communities to describe “creeping”
+disasters and crises, it describes a frog that when placed
+in a pot of cold water which is being gradually heated,
+will fail to recognize the increasing danger and thus get
+boiled alive. However, if this proverbial frog is put dir-
+ectly into hot water, it will recognize the dangerous situ-
+ation and jump straight out of the pot. This metaphor
+thus describes a number of problems that can arise with
+creeping disasters: failing to recognize the accumulation
+of many small changes which can amount to a major cri-
+sis; normalization bias; and personnel fatigue and per-
+formance issues for long duration events”. (Doyle et al.
+2014b, p. 86). 
+bA Black Swan event (Taleb 2007) describes those
+events that 1) exceed our expectations (an outlier),  2)
+have extreme impacts, and 3) are often ‘rationalised by
+hindsight’.  They are hard-to-predict, surprising rare
+events beyond “the realm of normal expectations”, often
+characterised by high uncertainty. The probabilities of
+such events are often hard to compute due to the nature
+of the small probabilities involved. A recent natural haz-
+ard event which could be considered as a Black Swan
+event is the 2011 Tōhoku earthquake and tsunami and
+subsequent Fukushima nuclear power plant crisis; al-
+though some state this may not satisfy the first criteria
+(surprise) of a Black Swan (Lewis 2012). The impact to
+aviation, travel, and trade during the 2010 Eyjafjallajökull
+eruption is another example of a Black Swan event.
+Abbreviations
+ACDEM: Auckland civil defence emergency management group;
+AGEOC: Auckland group emergency operation centre; AVSAG: Auckland
+volcanic scientific advisory group; CAG: Caldera advisory group; CDEM: Civil
+defence and emergency management; CPVAG: Central plateau volcanic
+advisory group; CRI: Crown Research Institute (NZ); C2: Command and
+control; EMT: Emergency management team; EOC: Emergency operation
+centre; GNS Science: NZ Crown Institute of Geological and Nuclear Sciences;
+IAVCEI: International Association of Volcanology and Chemistry of the Earth’s
+Interior; IPK: Interpositional knowledge; KPI: Key performance indicator;
+MCDEM: Ministry of Civil Defence and Emergency Management;
+MVO: Montserrat Volcano Observatory; NCMC: National Crisis Management
+Centre; NZVAP: New Zealand volcanic science advisory panel;
+RPD: Recognition primed decision making; SA: Situational awareness;
+SAG: Science advisory group; SBT: Scenario based training; TEP: Tsunami
+expert panel; TSVAG: Taranaki seismic and volcanic advisory group;
+VSAG: Volcanic Science advisory group; VEI: Volcanic explosivity index.
+Competing interests
+EEHD and DP declare they have no competing interests. DJ is an employee
+of GNS Science and thus was involved in the response to both the Ruapehu
+1995-1996 eruptions and the Ruaumoko exercise evaluated in this paper.
+Authors’ contributions
+EEHD conceived the design of the manuscript and the literature review, and
+lead the draft of the manuscript. DP contributed to the design and helped
+draft the manuscript. DMJ helped draft the manuscript. All authors read and
+approved the final manuscript.
+Acknowledgments
+EEHD was supported by a Foundation for Research Science & Technology
+NZ S&T Postdoctoral Fellowship MAUX0910; and thanks Sally Potter and
+Sarah Beaven for many discussions that have helped form thinking around
+exercising in volcanology; Vince Neall and Bob Stewart for sharing
+information about the early days of the Egmont Volcanic Advisory Group
+(now Taranaki Seismic and Volcanic Science Advisory Group); Brad Scott,
+Harry Keys and Gill Jolly for sharing information about the other Volcanic
+Advisory Groups in NZ; Richard Smith and MCDEM for the use of Figure 2a
+and b; and also various agencies for providing approximate costs of exercise
+participation. We also thank three anonymous reviewers and the Guest
+Editor, Jan Lindsay, for comments and suggestions that have greatly
+enhanced this manuscript.
+Author details
+1Joint Centre for Disaster Research, Massey University, PO Box 756,
+Wellington 6140, New Zealand. 2School of Psychology, University of
+Tasmania, Newnham Campus, Locked Bag 1342, Launceston, TAS 7250,
+Australia. 3GNS Science, PO Box 30 368, Lower Hutt 5010, New Zealand.
+Received: 23 April 2014 Accepted: 16 December 2014
+Page 24
+Doyle et al. Journal of Applied Volcanology (2015) 4:1  Page 24 of 26
+References
+AEMI (2012) Managing Exercises, Australian Emergency Management Handbook
+Series, Handbook 3, Second. 128
+Barclay J, Haynes K, Mitchell T, Solana C, Teeuw R, Darnell A, Crosweller HS, Cole
+P, Pyle DM, Lowe C, Fearnley C, Kelman I (2008) Framing volcanic risk
+communication within disaster risk reduction: finding ways for the social and
+physical sciences to work together. Geol Soc London, Spec Publ
+305:163–177, doi:10.1144/SP305.14
+Bayley S (2004) Living with Volcanoes: The Taranaki Story. Tephra. Ministry of Civil
+Defence & Emergency Management, Wellington, NZ, pp 18–23
+Beca Carter Hollings & Ferner (2002) Contingency Plan for the Auckland Volcanic
+Field., Prepared for Auckland Regional Council, January 2002
+Ben-Shalom U, Lehrer Z, Ben-Ari E (2005) Cohesion during military operations: a
+field study on combat units in the al-Aqsa intifada. Armed Forces Soc
+32(1):63–79
+Blickensderfer E, Cannon-Bowers JA, Salas E (1998) Cross-training and team
+performance. In: Cannon-Bowers JA, Salas E (eds) Making Decisions Under
+Stress: Implications for Individual and Tream Training. American Psychological
+Association, Washington, D.C., USA, pp 299–311
+Bloom M, Menefee MK (2014) Scenario planning contingency planning. Public
+Product Manag Rev 17:223–230
+Boin A, ’t Hart P (2001) Public leadership in times of crisis: mission impossible?
+Public Adm Rev 63:544–553
+Borodzicz E, van Haperen K (2002) Individual and group learning in crisis
+simulations. J Contingencies Cris Manag 10:139–147, doi:10.1111/1468-
+5973.00190
+Cannon-Bowers JA, Bell HE (1997) Training decision makers for complex
+environments: implications of the naturalistic decision making perspective.
+In: Zsambok CE, Klein G (eds) Naturalistic Decision Making. Lawrence
+Erlbaum Associates, Mahwah, NJ, pp 99–110
+Cannon-Bowers J, Salas E, Blickensderfer E, Bowers C (1998) The impact of cross-
+training and workload on team functioning: a replication and extension of
+initial findings. Hum Factors J Hum Factors Ergon Soc 40:92–101,
+doi:10.1518/001872098779480550
+Canterbury Earthquakes Royal Commission – Te Komihana Rūwhenua o Waitaha
+(2012) [[URL: "http://canterbury.royalcommission.govt.nz/"] http://canterbury.royalcommission.govt.nz/], accessed 23 April 2014
+Coetzee D, Gale N (2010) New Zealand Exercise “Exercise Tangaroa” [[URL: "http://www.ioc-tsunami.org/index.php?option=com_content&view=article&id=59:new-zealand-tsunami-exercise-exercise-tangaroa"] http://www.
+ ioc-tsunami.org/index.php?option=com_content&view=article&id=59:new-
+ zealand-tsunami-exercise-exercise-tangaroa], accessed 9th December 2014
+Conger DS, Mullen D (1981) Life skills. Int Jounral Adv Couns 319:305–319
+Coppola NW, Hiltz SR, Rotter NG (2004) Building trust in virtual teams. IEEE Trans
+Prof Comm 47(2):95–104
+CPVAG (2009) Central Plateau Volcanic Advisory Group Strategy, October 2009.
+Report No 2010/EXT/1117. Morris B (eds) Horizons Regional Council,
+Palmerston North, NZ. [URL: "https://www.horizons.govt.nz/assets/publications/keeping-people-safe-publications/Central-Plateau-Volcanic-Advisory-Group-Volcanic-Strategy.pdf"] https://www.horizons.govt.nz/assets/publications/
+ keeping-people-safe-publications/Central-Plateau-Volcanic-Advisory-Group-
+ Volcanic-Strategy.pdf. Accessed 9 December 2014
+Crego J, Spinks T (1997) Critical Incident management simulation. In: Flin R, Salas
+E, Strub M, Martin L (eds) Decision Making Under Stress Emerging Themes
+and Applications. Ashgate Publishing Limited, Aldershot, England, pp 85–94
+Crichton M, Flin R (2002) Command decision making. In: Flin R, Arbuthnot K (eds)
+Incident Command: Tales from the Hot Seat. Ashgate Publishing Limited,
+Aldershot, England, pp 201–238
+Crisp CB, Jarvenpaa SL (2013) Swift trust in global virtual teams. J Personnel
+Psychol 12(1):45–56
+Cronin SJ (2008) The Auckland Volcano Scientific Advisory Group during Exercise
+Ruaumoko: observations and recommendations Civ. Def. Emerg. Manag.
+Exerc: Ruaumoko. Auckland Regional Council, Auckland
+Curnin S, Owen C, Brooks B, Paton D (2015) A theoretical framework for
+negotiating the path of emergency management multi-agency coordination.
+Appl Ergon 47:300–307
+Dirks K, Ferrin D (2001) The role of trust in organizational settings. Organ Sci
+12:450–467
+Dohaney JAM (2013) Educational Theory & Practice For Skill Development In The
+Geosciences. PhD Dissertation, University of Canterbury, Geological Sciences, NZ
+Doyle EE, Johnston DM (2011) Science advice for critical decision-making. In:
+Paton D, Violanti J (eds) Working in High Risk Environments: Developing
+Sustained Resilience. Charles C Thomas, Springfield, Illinois, USA, pp 69–92
+Doyle EEH, Johnston D, Paton D (2011) Investigating science advice, emergency
+management and decision making in the laboratory. XXV IUGG Gen. Assem.
+International Union of Geodesy and Geophysics, Melbourne, VIC, Aust, p 116 
+Doyle EEH, McClure J, Johnston DM, Paton D (2014a) Communicating likelihoods
+and probabilities in forecasts of volcanic eruptions. J Volcanol Geotherm Res
+272:1–15, doi:10.1016/j.jvolgeores.2013.12.006
+Doyle EEH, McClure J, Paton D, Johnston DM (2014b) Uncertainty and decision
+making: volcanic crisis scenarios. Int J Disaster Risk Reduct 10:75–101
+Endsley MR (1994) Situation awareness in dynamic human decision making:
+theory. In: Gilson RD, Garland DJ, Koonce JM (eds) Situational Awreness in
+Complex Systems: Proceedings of a Cahfa Conference. Embry-Riddle
+Aeronautical University Press, Daytona Beach, FL, pp 27–58
+Endsley MR (1997) The role of situation awareness in naturalistic decision making.
+In: Zsambok CE, Klein G (eds) Naturalistic Decision Making. Lawrence
+Erlbaum Associates, Mahwah, NJ, pp 269–284
+EQC Website (2014) The Earthquake Commission [URL: "http://www.eqc.govt.nz/about-eqc"] [http://www.eqc.govt.nz/about-eqc],
+accessed 17th September 2014
+FEMA (2007) National Exercise Program (NEP) US Department of Homeland
+Security, March 8 2007, WJTSC 07–1.
+FEMA website (2014) National Exercise Program (NEP), FEMA, US Department of
+Homeland Security [[URL: "http://www.fema.gov/national-exercise-program"] http://www.fema.gov/national-exercise-program],
+accessed 23 April 2014
+Flin R (1996) Sitting in the hot seat: Leaders and Teams for Critical Incident
+Management. John Wiley & Sons, Ltd, Chichester, England
+Ford JK, Schmidt AM (2000) Emergency response training: strategies for
+enhancing real-world performance. J Hazard Mater 75:195–215
+Funtowicz SO, Ravetz JR (1991) A new scientific methodology for global
+environmental issues. In: Costanza R (ed) Ecological Economics: The Science
+and Management of Sustainability. Columbia University Press, New York,
+pp 137–152
+Funtowicz SO, Ravetz JR (2003) Post-normal Science. In: International Society for
+Ecological Economics (ed) Online Encyclopedia of Ecological Economics. Last
+accessed 8th Dec 2014 from [URL: "http://isecoeco.org/pdf/pstnormsc.pdf"] http://isecoeco.org/pdf/pstnormsc.pdf
+GeoNet website (2014) GeoNet: About us. [[URL: "http://info.geonet.org.nz/display/geonet/About+GeoNet"] http://info.geonet.org.nz/display/
+ geonet/About+GeoNet], accessed 17th September 2014
+GNS Science website (2014) GNS Science: About us. [[URL: "http://www.gns.cri.nz/Home/About-Us"] http://www.gns.cri.nz/
+ Home/About-Us], accessed 17th September 2014
+Goodman R, Goodman L (1976) Some management issues in temporary systems:
+a study of professional development and manpower-the theater case.
+Administrative Sci Q 21(3):494–501
+Greenbaum CW (1979) The small group under the gun: Uses of small groups in
+battle conditions. J Appl Behav Sci 15:392–405
+Handmer (2008) Emergency management thrives on uncertainty. In: Bammer G,
+Smithson M (eds) Uncertainty and Risk Multidisciplinary Perspectives.
+Earthscan, London, UK, pp 231–243
+Hogg MA (1992) The Social Psychology of Group Cohesiveness: From Attraction
+to Social Identity. New York University Press, New York, NY
+HSEEP (2007a) Homeland Security Exercise and Evaluation Program (HSEEP). In:
+HSEEP Overview and Exercise Program Management, vol 1. US Department
+of Homeland Security, Washington, DC, p 82
+HSEEP (2007b) Homeland Security Exercise and Evaluation Program (HSEEP). In:
+Volume II: Exercise Planning and Conduct. US Department of Homeland
+Security, Washington, DC, p 57
+Hyllengren P, Larsson G, Fors M, Sjöberg M, Eid J, Olsen OK (2011) Swift
+trust in leaders in temporary military groups. Team Perform Manage
+17(7/8):354–368
+International Association for Volcanology and Chemistry of the Earth’s Interior
+(1999) IAVCEI subcomittee for crisis protocols. Professional conduct of
+scientists during volcanic crises. Bull Volcanol 60:323–334
+Janssen M, Lee J, Bharosa N, Cresswell A (2010) Advances in multi-agency disaster
+management: Key elements in disaster research. Inf Syst Front 12:1–7,
+doi:10.1007/s10796-009-9176-x
+Johnston DM, Houghton BF, Neall VE, Ronan KR, Paton D (2000) Impacts of the
+1945 and 1995–1996 Ruaupehu eruptions, New Zealand: an example of
+increasing societal vulnerability. Geol Soc Am Bull 112:720–726, doi:10.1130/
+0016-7606(2000)112<720
+Jolly G, Smith R (2012) Volcanic Science Advisory Groups in New Zealand: an
+example from the recent eruption of Tongariro. In: Proceedings of Cities
+on Volcanoes, 19–23 November 2012, Colima, Mexico [[URL: "http://www.citiesonvolcanoes7.com/vistaprevia2.php?idab=481"] http://www.
+ citiesonvolcanoes7.com/vistaprevia2.php?idab=481], accessed
+9th December 2014
+Keough SM, Shanahan KJ (2008) Scenario planning: toward a more complete
+model for practice. Adv Dev Hum Resour 10:166–178, doi:10.1177/
+1523422307313311
+Page 25
+Doyle et al. Journal of Applied Volcanology (2015) 4:1  Page 25 of 26
+Klein (1998) Sources of Power: How people make decisions, 2nd printi. The MIT
+Press, Cambridge, Massachusetts; London, UK
+Klein G (2008) Naturalistic decision making. Hum Factors J Hum Factors Ergon
+Soc 50:456–460, doi:10.1518/001872008X288385
+Kowalski-Trakofler KM, Vaught C, Scharf T (2003) Judgment and decision making
+under stress: an overview for emergency managers. Int J Emerg Manag
+1:278–289, doi:10.1504/IJEM.2003.003297
+Kozlowski SWJ (1998) Training and Developing Adaptive Teams. In: Cannon-
+Bowers JA, Salas E (eds) Making decisions under stress: Implications for
+individual and team training. American Psychological Association,
+Washington, D.C., USA, pp 115–153
+Krauss W, Schafer MS, von Staunch H (2012) Introduction: post-normal climate
+science. Nat Cult 7(2):121–132
+Lester P, Vogelgesang G (2012) Swift trust in Ad Hoc military organizations. In:
+Laurence J, Michael M (eds) The Oxford Handbook of Military Psychology.
+Oxford University Press, New York, pp 176–186
+Lewis S (2012) Black Swan or Blind Spot? The Duality of Extreme Events. RISKworld:
+the newsletter of risktec solutions limited. 21:2. Accessed from [URL: "http://www.risktec.co.uk/media/170409/riskworld%2021%20hr.pdf"] http://www.
+[URL: "http://www.risktec.co.uk/media/170409/riskworld%2021%20hr.pdf"] risktec.co.uk/media/170409/riskworld%2021%20hr.pdf, 8th December 2014
+Lindsay J, Marzocchi W, Jolly G, Constantinescu R, Selva J, Sandri L (2010)
+Towards real-time eruption forecasting in the Auckland Volcanic Field:
+application of BET_EF during the New Zealand National Disaster Exercise
+“Ruaumoko”. Bull Volcanol 72:185–204, doi:10.1007/s00445-009-0311-9
+Lipshitz R, Klein G, Orasanu J, Salas E (2001) Focus Article: Taking stock of
+naturalistic decision making. J Behav Decis Mak 14:331–352, doi:10.1002/
+bdm.381
+Marks MA, Sabella MJ, Burke CS, Zaccaro SJ (2002) The impact of cross-training
+on team effectiveness. J Appl Psychol 87:3–13, doi:10.1037//0021-9010.87.1.3
+Martin R (1992) Exercise Nga Puia Post-Exercise Report. Bay of Plenty Regional
+Council, Tauranga, NZ, p 8
+Martin L, Flin R, Skriver J (1997) Emergency decision making - A wider decision
+framework? In: Flin R, Salas E, Strub M, Martin L (eds) Decision making under
+stress emerging themes and applications. Ashgate Publishing Limited,
+Aldershot, England, pp 280–290
+MCDEM (2008) Exercise Ruaumoko ‘08 Final Exercise Report. Ministry of Civil
+Defence and Emergency Management, Wellington, NZ, p 79
+MCDEM (2009a) CDEM Exercises Director’s Guideline for Civil Defence Emergency.
+Ministry of Civil Defence and Emergency Management, Wellington, NZ, p 73
+MCDEM (2009b) The Guide to the National Civil Defence Emergency
+Management Plan, 2006; revised June 2009. Ministry of Civil Defence and
+Emergency Management, Wellington, NZ, p 266
+MCDEM (2010) Tsunami Advisory and Warning Plan. Management. Ministry of
+Civil Defence and Emergency Management, Wellington, NZ, p 58
+MCDEM website (2014a) National CDEM exercise programme 2010 [[URL: "http://www.civildefence.govt.nz/cdem-sector/exercises/cdem-exercise-calendar/national-cdem-exercise-programme-2010/"] http://www.
+ civildefence.govt.nz/cdem-sector/exercises/cdem-exercise-calendar/national-
+ cdem-exercise-programme-2010/], accessed 6 October 2014
+MCDEM website (2014b) National CDEM Exercise Programme [[URL: "http://www.civildefence.govt.nz/cdem-sector/exercises/national-cdem-exercise-programme/"] http://www.
+ civildefence.govt.nz/cdem-sector/exercises/national-cdem-exercise-
+ programme/], accessed 6 October 2014
+MCDEM website (2014c) National CDEM Exercise Calendar [[URL: "http://www.civildefence.govt.nz/cdem-sector/exercises/cdem-exercise-calendar"] http://www.civildefence.
+ govt.nz/cdem-sector/exercises/cdem-exercise-calendar], accessed 6 October 2014
+McDowell S (2008) Exercise Ruaumoko: Evaluation Report. Auckland Civil Defence
+Emergency Management Group, Auckland, NZ, p 24
+Meyerson D, Weick KE, Kramer RM (1996) Swift trust and temporary groups. In:
+Kramer RE, Tyler TR (eds) Trust in organisations: frontiers of theory and
+research. Sage Publications, Inc, Thousand Oaks, CA, US, pp 166–195
+Moats JB, Chermack TJ, Dooley LM (2008) Using Scenarios to Develop Crisis
+Managers: Applications of Scenario Planning and Scenario-Based Training.
+Adv Dev Hum Resour 10:397–424, doi:10.1177/1523422308316456
+Morell VW, Sharp PC, Crandall SJ (2002) Creating student awareness to improve
+cultural competence: creating the critical incident. Med Teach 24:532–534,
+doi:10.1080/0142159021000012577
+Nairn IA (2010) Okataina Volcanic Centre Geology. [[URL: "http://www.gns.cri.nz/Home/Learning/Science-Topics/Volcanoes/New-Zealand-Volcanoes/Volcano-Geology-and-Hazards/Okataina-Volcanic-Centre-Geology"] http://www.gns.cri.nz/Home/
+[URL: "http://www.gns.cri.nz/Home/Learning/Science-Topics/Volcanoes/New-Zealand-Volcanoes/Volcano-Geology-and-Hazards/Okataina-Volcanic-Centre-Geology"] Learning/Science-Topics/Volcanoes/New-Zealand-Volcanoes/Volcano-Geology-
+ and-Hazards/Okataina-Volcanic-Centre-Geology], accessed 23 April 2014
+Natural Hazards Research Platform (2009) [[URL: "http://www.naturalhazards.org.nz/"] http://www.naturalhazards.org.nz/],
+accessed 23 April 2014
+Omodei MM, McLennan J, Elliott GC, Wearing AJ, Clancy JM (2005) “More is
+better?”: A bias toward overuse of resources in Naturalistic decision making
+settings. In: Montgomery H, Lipshitz R, Brehmer B (eds) How professionals
+make decisions. Lawrence Erlbaum Associates, Mahwah, NJ, pp 29–41 
+Orasanu J, Connolly T (1993) The reinvention of decision making. In: Klein GA,
+Orasanu J, Calderwood R, Zsambok CE (eds) Decision making in action:
+models and methods. Ablex, Norwood, NJ, pp 3–20
+Owen C, Campus SB, Brooks B, Chapman J, Paton D, Hossain L (2013) Developing
+a research framework for complex multi-team coordination in emergency
+management. Int J Emerg Manag 9:1–17
+Pascual R, Henderson S (1997) Evidence of Naturalistic Decision Making in
+Military Command and Control. In: Zsambok CE, Klein G (eds) Naturalistic
+decision making. Lawrence Erlbaum Associates, Mahwah, NJ, pp 217–226
+Paton D (1996) Training disaster workers: promoting wellbeing and operational
+effectiveness. Disaster Prev Manag 5(5):11–18
+Paton D (2014) Disaster Management for Community Workers. Ministry of Health
+and Welfare, Taipei, Taiwan
+Paton D, Auld T (2006) Resilience in Emergency Management: Managing the flood.
+In: Paton D, Johnston D (eds) Disaster Resilience: An integrated approach.
+Charles C Thomas Publisher, Ltd, Springfield, Illinois, USA, pp 267–287, Chap. 16
+Paton D, Flin R (1999) Disaster stress: an emergency management perspective.
+Disaster Prev Manag 8:261–267, doi:10.1108/09653569910283897
+Paton D, Jackson D (2002) Developing disaster management capability: an
+assessment centre approach. Disaster Prev Manag 11:115–122, doi:10.1108/
+09653560210426795
+Paton D, Johnston DM, Houghton BF (1998a) Organisational response to a
+volcanic eruption. Disaster Prev Manag 7:5–13, doi:10.1108/096535698
+10206226
+Paton D, Johnston DM, Houghton BF, Smith LM (1998b) Managing the effects of
+a volcanic eruption. Psychological perspectives of Integrated Emergency
+Management. J. Am Soc Prof Emerg Plan 5:59–69
+Paton D, Johnston DM, Houghton BF, Flin R, Ronan K, Scott B (1999) Managing
+natural hazard consequences: planning for informaiton management and
+decision making. J. Am Soc Prof Emerg Plan 6:37–47
+Paton D, Smith L, Violanti J (2000) Disaster response: risk, vulnerability and
+resilience. Disaster Prev Manag 9:173–180, doi:10.1108/09653560010335068
+Pliske RM, McCloskey MJ, Klein G (2001) Decision skills training: facilitating learning
+from experience. In: Salas E, Klein G (eds) Linking expertise and naturalistic
+decision making. Lawrence Erlbaum Associates, Mahwah, NJ, pp 37–53
+Pollock C, Paton D, Smith D, Violanti J (2003) Team Resilience. In: Paton D,
+Violanti J, Smith L (eds) Promoting capabilities to manage posttraumatic
+stress: perspectives on resilience. Charles C. Thomas, Springfield, Ill, pp 74–88
+Potter SH, Scott BJ, Jolly GE (2012) Caldera Unrest Management Sourcebook, GNS
+Science Report 2012/12. GNS Science, Lower Hutt, NZ, p 73
+Quarantelli EL (1997) Ten criteria for evaluating the management of community
+disasters. Disasters 21:39–56
+Robert LP, Denis AR, Hung YTC (2009) Individual Swift Trust and Knowledge-
+Based Trust in Face-to-Face and Virtual Team Members. J Manage Inf Syst
+26(2):241–279
+Rogalski J, Samurcay R (1993) Analysing communication in complex distributed
+decision making. Ergonomics 36:1329–1342
+Rosenthal U, ’t Hart P (1989) Managing Terrorism: The south Moluccan Hostage
+Takings. In: Rosenthal U, Charles MT, ’t Hart P (eds) Coping with Crises: the
+management of disasters, riots and terrorism. Charles C Thomas, Springfield,
+Illinois, USA, pp 340–366
+Saarinen TF, Sell J (1985) Warning and Response to the Mt St Helens Eruption.
+State University of New York Press, Albany, NY
+Saaty TL (2008) Decision making with the analytic hierarchy process. Int J Serv Sci
+1:83–98
+Salas E, Stout RJ, Cannon-Bowers JA (1994) The role of shared mental models in
+developing shared situational awareness. In: Gilson RD, Garland DJ, Koonce
+JM (eds) Situational awreness in complex systems: proceedings of a Cahfa
+Conference. Embry-Riddle Aeronautical University Press, Daytona Beach, FL,
+pp 298–304
+Salas E, Cannon-Bowers JA, Blickensderfer E (1997a) Enhancing reciprocity
+between training theory and practice: Principles, guidelines, and
+specifications. In: Ford J, Associates (ed) Improving training effectiveness in
+work organisations. Erlbaum, Hillsdale, NJ, pp 291–322
+Salas E, Cannon-Bowers JA, Johnston JH (1997b) How can you turn a team of
+experts into an expert team? Emerging training strategies. In: Zsambok CE,
+Klein G (eds) Naturalistic decision making. Lawrence Erlbaum Associates,
+Mahwah, NJ, pp 359–370
+Sarna P (2002) Managing the spike: The command perspective in critical
+incidents. In: Flin R, Arbuthnot K (eds) Incident command tales from the hot
+seat. Ashgate Publishing Limited, Aldershot, England, pp 32–57
+Page 26
+Doyle et al. Journal of Applied Volcanology (2015) 4:1  Page 26 of 26
+Schaafstal AM, Johnston JH, Oser RL (2001) Training teams for emergency
+management. Comput Human Behav 17:615–626, doi:10.1016/S0747-5632
+(01)00026-7
+Schwartz P (1996) The art of the long view: Planning for the future in an
+uncertain world. Currency Doubleday. Reprint Ed, New York, NY
+Siegrist M, Cvetkovich G (2000) Perception of hazards: The role of social trust and
+knowledge. Risk Anal 20:713–719
+Sinclair H, Doyle EE, Johnston DM, Paton D (2012a) Assessing emergency
+management training and exercises. Disaster Prev Manag 21:507–521,
+doi:10.1108/09653561211256198
+Sinclair H, Doyle EEH, Johnston DM, Paton D (2012b) Decision-making training in
+local government emergency management. Int J Emerg Serv 1:159–174,
+doi:10.1108/20470891211275939
+Smith R (2009) Research, Science and Emergency Management: Partnering for
+Resilience. Tephra, Community Resilience: Research, Planning and Civil
+Defence Emergency Management. Ministry of Civil Defence & Emergency
+Management, Wellington, New Zealand, pp 71–78
+Taleb NN (2007) The Black Swan: The Impact of the Highly Improbably. Random
+House Publishing Group, New York, p 394
+Thomson K, von Solms R, Louw L (2006) Cultivating an organizational
+information security culture. Comput Fraud Secur 2006:7–11, doi:10.1016/
+S1361-3723(06)70430-4
+Tickell C (1990) Human effects of climate change: Excerpts from a lecture given
+to the Society on 26 March 1990. Geogr J 156:325–329
+TRC (2013) Taranaki Civil Defence Emergency Management Group [Joint
+Committee], Meeting Notes 26 November 2013. Taranaki Regional Council,
+Stratford, NZ, p 131
+UNESCO website (2014a) Exercise Pacific Wave 13, International Tsunami Information
+Centre [[URL: "http://itic.ioc-unesco.org/index.php?option=com_content&view=category&id=2106&Itemid=2422"] http://itic.ioc-unesco.org/index.php?option=com_content&view=
+ category&id=2106&Itemid=2422], accessed 23 April 2014
+UNESCO website (2014b) International Exercises, International Tsunami
+Information Centre [[URL: "http://itic.ioc-unesco.org/index.php?option=com_content&view=category&layout=blog&id=1439&Itemid=1439"] http://itic.ioc-unesco.org/index.php?option=com_
+ content&view=category&layout=blog&id=1439&Itemid=1439], accessed
+23 April 2014
+UNESCO website (2014c) Exercise Pacific Wave 08, International Tsunami
+Information Centre [[URL: "http://itic.ioc-unesco.org/index.php?option=com_content&view=category&layout=blog&id=1395&Itemid=1395"] http://itic.ioc-unesco.org/index.php?option=com_
+[URL: "http://itic.ioc-unesco.org/index.php?option=com_content&view=category&layout=blog&id=1395&Itemid=1395"] content&view=category&layout=blog&id=1395&Itemid=1395], accessed
+6 October 2014
+Volpe CE, Cannon-Bowers J, Salas E, Spector PE (1996) The Impact of Cross-
+Training on Team Functioning: An Empirical Investigation. Hum Factors J
+Hum Factors Ergon Soc 38:87–100, doi:10.1518/001872096778940741
+Waikato Regional Council (2014) The Caldera Advisory Group [[URL: "http://www.waikatoregion.govt.nz/Services/Regional-services/Regional-hazards-and-emergency-management/Caldera-Advisory-Group-CAG/"] http://www.
+ waikatoregion.govt.nz/Services/Regional-services/Regional-hazards-and-emergency-
+ management/Caldera-Advisory-Group-CAG/], accessed 23 April 2014
+White C, Plotnick L, Addams-Moring R, Turoff M, Hiltz SR (2008) Leveraging A Wiki
+To Enhance Virtual Collaboration. In: The Emergency Domain. In Proceedings
+of the 41st Annual Hawaii International Conference on System Sciences
+(HICSS 2008)., pp 1–10
+Whittlesey R, Buckner N (1993) NOVA In the Path of a Killer Volcano. NOVA, PBS, USA
+Wilson I, Ralston W (2006) The scenario planning handbook: Developing
+strategies in uncertain times. South-Western Educational, Belmont, CA, p 272
+Wilson KA, Salas E, Priest HA, Andrews D (2007) Errors in the heat of battle: taking
+a closer look at shared cognition breakdowns through teamwork. Hum
+Factors 49:243–256
+WSS Fellows on RIA (2014) Reporting on the Seminar – Risk Interpretation and
+Action (RIA): Decision Making Under Conditions of Uncertainty. Austr J
+Disaster Trauma Stud 18(1):27–38
+Zsambok C (1997) Naturalistic Decision Making: Where are we now? In: Zsambok
+CE, Klein G (eds) Naturalistic decision making. Lawrence Erlbaum Associates,
+Mahwah, NJ, pp 3–16 
+Submit your manuscript to a
+journal and beneﬁ t from:
+7 Convenient online submission
+7 Rigorous peer review
+7 Immediate publication on acceptance
+7 Open access: articles freely available online
+7 High visibility within the ﬁeld
+7 Retaining the copyright to your article
+Submit your next manuscript at 7 springeropen.com

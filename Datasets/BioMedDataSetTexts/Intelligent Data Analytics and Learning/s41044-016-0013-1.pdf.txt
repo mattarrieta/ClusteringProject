@@ -1,0 +1,1324 @@
+Producer: Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+CrossmarkMajorVersionDate: 2016-11-03
+Keywords: Neuromorphic engineering,Neuromorphic hardware,Neuromorphic algorithms,Neuromorphic applications,Neuromorphic circuits,Neuromorphic systems,Neuromorphic devices
+CrossMarkDomains[1]: springer.com
+ModDate: 2016/11/04 13:42:18+01'00'
+Subject: Big Data Anal, doi:10.1186/s41044-016-0013-1
+Creator: LaTeX with hyperref package
+Title: Recent trends in neuromorphic engineering
+CrossMarkDomains[2]: springerlink.com
+doi: 10.1186/s41044-016-0013-1
+CrossmarkDomainExclusive: true
+Author: Sumit Soman
+CreationDate: 2016/11/03 00:46:30+08'00'
+xmp:crossmark:DOI: 10.1186/s41044-016-0013-1
+xmp:crossmark:MajorVersionDate: 2016-11-03
+xmp:crossmark:CrossmarkDomainExclusive: true
+xmp:crossmark:CrossMarkDomains: springer.com; springerlink.com
+xmp:jav:journal_article_version: VoR
+xmp:pdf:Keywords: Neuromorphic engineering,Neuromorphic hardware,Neuromorphic algorithms,Neuromorphic applications,Neuromorphic circuits,Neuromorphic systems,Neuromorphic devices
+xmp:pdf:Producer: Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+xmp:pdfx:CrossmarkMajorVersionDate: 2016-11-03
+xmp:pdfx:CrossmarkDomainExclusive: true
+xmp:pdfx:doi: 10.1186/s41044-016-0013-1
+xmp:pdfx:CrossMarkDomains: springer.com; springerlink.com
+xmp:prism:url: http://dx.doi.org/10.1186/s41044-016-0013-1
+xmp:prism:doi: 10.1186/s41044-016-0013-1
+xmp:prism:issn: 2058-6345
+xmp:prism:aggregationType: journal
+xmp:prism:publicationName: Big Data Analytics
+xmp:prism:copyright: The Author(s)
+xmp:dc:format: application/pdf
+xmp:dc:identifier: 10.1186/s41044-016-0013-1
+xmp:dc:publisher: Big Data Analytics
+xmp:dc:description: Big Data Anal, doi:10.1186/s41044-016-0013-1
+xmp:dc:subject: Neuromorphic engineering; Neuromorphic hardware; Neuromorphic algorithms; Neuromorphic applications; Neuromorphic circuits; Neuromorphic systems; Neuromorphic devices
+xmp:dc:title: Recent trends in neuromorphic engineering
+xmp:dc:creator: Sumit Soman; Jayadeva ■; Manan Suri
+xmp:xmp:MetadataDate: 2016-11-04T13:42:18+01:00
+xmp:xmp:CreateDate: 2016-11-03T00:46:30+08:00
+xmp:xmp:CreatorTool: LaTeX with hyperref package
+xmp:xmp:ModifyDate: 2016-11-04T13:42:18+01:00
+xmp:xmpMM:DocumentID: uuid:016675f9-a7f1-4e4c-a3ce-b998e2b0ba8e
+xmp:xmpMM:InstanceID: uuid:ae737e1a-278a-4530-9ab0-011cafe41622
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:43b173c9-96b3-4d36-aceb-693a13a926f9
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2016-11-03T18:24:48+08:00
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:pdfaSchema:schema: Springer Nature ORCID Schema
+xmp:pdfaSchema:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/
+xmp:pdfaSchema:prefix: sn
+xmp:pdfaProperty:name: authorInfo
+xmp:pdfaProperty:valueType: Bag AuthorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Author information: contains the name of each author and his/her ORCID (ORCiD: Open Researcher and Contributor ID). An ORCID is a persistent identifier (a non-proprietary alphanumeric code) to uniquely identify scientific and other academic authors.
+xmp:pdfaProperty:name: editorInfo
+xmp:pdfaProperty:valueType: Bag EditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Editor information: contains the name of each editor and his/her ORCID identifier.
+xmp:pdfaProperty:name: seriesEditorInfo
+xmp:pdfaProperty:valueType: Bag SeriesEditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Series editor information: contains the name of each series editor and his/her ORCID identifier.
+xmp:pdfaType:type: AuthorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/authorInfo/
+xmp:pdfaType:prefix: author
+xmp:pdfaType:description: Specifies the types of author information: name and ORCID of an author.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an author.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an author.
+xmp:pdfaType:type: EditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/editorInfo/
+xmp:pdfaType:prefix: editor
+xmp:pdfaType:description: Specifies the types of editor information: name and ORCID of an editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an editor.
+xmp:pdfaType:type: SeriesEditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/seriesEditorInfo/
+xmp:pdfaType:prefix: seriesEditor
+xmp:pdfaType:description: Specifies the types of series editor information: name and ORCID of a series editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of a series editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of a series editor.
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdf/1.3/
+xmp:pdfaSchema:prefix: pdf
+xmp:pdfaSchema:schema: Adobe PDF Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A name object indicating whether the document has been modified to include trapping information
+xmp:pdfaProperty:name: Trapped
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdfx/1.3/
+xmp:pdfaSchema:prefix: pdfx
+xmp:pdfaSchema:schema: pdfx
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: ID of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXVersion
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Conformance level of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXConformance
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Company creating the PDF
+xmp:pdfaProperty:name: Company
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Date when document was last modified
+xmp:pdfaProperty:name: SourceModified
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Mirrors crossmark:CrosMarkDomains
+xmp:pdfaProperty:name: CrossMarkDomains
+xmp:pdfaProperty:valueType: Seq Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Mirrors crossmark:CrossmarkDomainExclusive
+xmp:pdfaProperty:name: CrossmarkDomainExclusive
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Mirrors crossmark:MajorVersionDate
+xmp:pdfaProperty:name: CrossmarkMajorVersionDate
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Mirrors crossmark:DOI
+xmp:pdfaProperty:name: doi
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/mm/
+xmp:pdfaSchema:prefix: xmpMM
+xmp:pdfaSchema:schema: XMP Media Management Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: UUID based identifier for specific incarnation of a document
+xmp:pdfaProperty:name: InstanceID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: The common identifier for all versions and renditions of a document.
+xmp:pdfaProperty:name: OriginalDocumentID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaSchema:namespaceURI: http://www.aiim.org/pdfa/ns/id/
+xmp:pdfaSchema:prefix: pdfaid
+xmp:pdfaSchema:schema: PDF/A ID Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Part of PDF/A standard
+xmp:pdfaProperty:name: part
+xmp:pdfaProperty:valueType: Integer
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Amendment of PDF/A standard
+xmp:pdfaProperty:name: amd
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Conformance level of PDF/A standard
+xmp:pdfaProperty:name: conformance
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://crossref.org/crossmark/1.0/
+xmp:pdfaSchema:prefix: crossmark
+xmp:pdfaSchema:schema: crossmark
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: CrossMarkDomains
+xmp:pdfaProperty:name: CrossMarkDomains
+xmp:pdfaProperty:valueType: Seq Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: CrossmarkDomainExclusive
+xmp:pdfaProperty:name: CrossmarkDomainExclusive
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Usual same as prism:doi
+xmp:pdfaProperty:name: DOI
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: The date when a publication was published.
+xmp:pdfaProperty:name: MajorVersionDate
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://prismstandard.org/namespaces/basic/2.0/
+xmp:pdfaSchema:prefix: prism
+xmp:pdfaSchema:schema: Prism
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: The aggregation type specifies the unit of aggregation for a content collection. 
+Comment 
+PRISM recommends that the PRISM Aggregation Type Controlled Vocabulary be used to provide values for this element. 
+Note: PRISM recommends against the use of the #other value currently allowed in this controlled vocabulary. In lieu of using #other please reach out to the PRISM group at info@prismstandard.org to request addition of your term to the Aggregation Type Controlled Vocabulary.
+xmp:pdfaProperty:name: aggregationType
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Copyright
+xmp:pdfaProperty:name: copyright
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: The Digital Object Identifier for the article.
+The DOI may also be used as the dc:identifier. If used as a dc:identifier, the URI form should be captured, and the bare identifier should also be captured using prism:doi. If an alternate unique identifier is used as the required dc:identifier, then the DOI should be specified as a bare identifier within prism:doi only. 
+If the URL associated with a DOI is to be specified, then prism:url may be used in conjunction with prism:doi in order to provide the service endpoint (i.e. the URL).
+xmp:pdfaProperty:name: doi
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: ISSN for an electronic version of the issue in which the resource occurs. 
+Permits publishers to include a second ISSN, identifying an electronic version of the issue in which the resource occurs (therefore e(lectronic)Issn. If used, prism:eIssn MUST contain the ISSN of the electronic version. See prism:issn.
+xmp:pdfaProperty:name: issn
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Title of the magazine, or other publication, in which a resource was/will be published. 
+Typically this will be used to provide the name of the magazine an article appeared in as metadata for the article, along with information such as the article title, the publisher, volume, number, and cover date. 
+Note: Publication name can be used to differentiate between a print magazine and the online version if the names are different such as “magazine” and “magazine.com.”
+xmp:pdfaProperty:name: publicationName
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: This element provides the url for an article or unit of content. 
+The attribute platform is optionally allowed for situations in which multiple URLs must be specified. PRISM recommends that a subset of the PCV platform values, namely “mobile” and “web”, be used in conjunction with this element. 
+NOTE: PRISM recommends against the use of the #other value allowed in the PRISM Platform controlled vocabulary. In lieu of using #other please reach out to the PRISM group at prism-wg@yahoogroups.com to request addition of your term to the Platform Controlled Vocabulary.
+xmp:pdfaPrBOOKMARKS:
+Abstract
+  Keywords
+Background
+Algorithms
+  Datasets
+Hardware
+  Digital CMOS solutions
+    Accelerators
+    GPUs and DSPs
+    FPGA
+  Non-CMOS and hybrid solutions
+  Analog implementations
+Recent applications
+  Applications in vision and robot control
+  Applications in biomedical and biosignal engineering
+  Applications in perception engineering
+  Other applications
+Conclusions and future outlook
+Additional file
+  Additional file 1
+Acknowledgements
+Authors' information
+Competing interests
+References
+Page 1
+Soman et al. Big Data Analytics (2016) 1:15
+DOI 10.1186/s41044-016-0013-1 
+Big Data Analytics
+REVIEW
+Recent trends in neuromorphic
+engineering
+Sumit Soman, Jayadeva* and Manan Suri 
+Open Access
+*Correspondence:
+ jayadeva@ee.iitd.ac.in
+Department of Electrical
+Engineering, Indian Institute of
+Technology, Delhi, India 
+Abstract
+Neuromorphic Engineering has emerged as an exciting research area, primarily owing
+to the paradigm shift from conventional computing architectures to data-driven,
+cognitive computing. There is a diversity of work in the literature pertaining to
+neuromorphic systems, devices and circuits. This review looks at recent trends in
+neuromorphic engineering and its sub-domains, with an attempt to identify key
+research directions that would assume significance in the future. We hope that this
+review would serve as a handy reference to both beginners and experts, and provide a
+glimpse into the broad spectrum of applications of neuromorphic hardware and
+algorithms. Our survey indicates that neuromorphic engineering holds a promising
+future, particularly with growing data volumes, and the imminent need for intelligent,
+versatile computing.
+Keywords: Neuromorphic engineering, Neuromorphic hardware, Neuromorphic
+algorithms, Neuromorphic applications, Neuromorphic circuits, Neuromorphic systems,
+Neuromorphic devices
+Background
+Of late, increasing data volumes have posed a challenge to computing systems in terms of
+their scalability, particularly those that rely on intensive computation. The key challenge
+has been to handle the data volumes in such systems, owing to their complex, asyn-
+chronous and power-drawing nature [1]. Neuromorphic engineering presents itself as a
+possible, potential and promising solution to problems of this nature [2, 3]. The broad
+spectrum of algorithms, devices, circuits and systems that are inspired by the working of
+mammalian neural systems constitutes of neuromorphic engineering.
+To motivate the context of this article, Fig. 1 presents a graph showing the number of
+research publications and patents in the domain of neuromorphic engineering over the
+last ten years. These are clearly indicative of a growing trend in favor of research and
+developments in neuromorphic hardware, which form the impetus for reviewing research
+in this domain.
+In this review, we look at recent work in the neuromorphic engineering domain in
+order to obtain a holistic view on research directions being pursued, while also being
+able to infer possible outcomes and future directions. Neuromorphic engineering has
+evolved significantly since it was first conceived by Mead [4]. In this review, we largely
+refer to very recent works with an aim to discern recent trends in the domain. A summary
+© The Author(s). 2016 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License [URL: "http://creativecommons.org/licenses/by/4.0/"] (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the
+Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver [URL: "http://creativecommons.org/publicdomain/zero/1.0/"] (http://
+ creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Page 2
+Soman et al. Big Data Analytics (2016) 1:15  Page 2 of 19
+Fig. 1 Publications and patents in neuromorphic engineering: Based on data collected over the last ten years
+generated from Scopus using the search term “neuromorphic”
+of research directions in neuromorphic engineering along the dimensions representing
+neuromorphic circuits, devices and systems, respectively, is illustrated in Fig. 2, along
+with references pertaining to the specific works that have been cited in our review. All
+discussions henceforth are restricted primarily to the aforementioned time period.
+There have been several recent review articles in the literature on neuromorphic
+engineering. A review of methods, issues and challenges in neuromorphic engineer-
+ing was presented by Ahmed et al. [5], that provides a primer to the domain. It also
+highlights challenges and open research areas. A comprehensive tutorial by Rajendran
+et al. [6] details algorithms, devices and systems, while emerging memory techniques
+have been discussed in [7]. DeSalvo et al. [8] present large-scale energy efficient neu-
+romorphic systems based on resistive memory technologies, as well as for low-power
+embedded devices [9]. Research directions in applications pertaining to vision, auditory
+and olfactory applications have been discussed by Vanarse et al. [10].
+The rest of the review is organized as follows. Section “Algorithms” discusses
+recent algorithms developed in the neuromorphic engineering domain. This is followed
+by a discussion of hardware implementations in Section “Hardware”, which includes
+neuromorphic devices and circuits. We then discuss recent applications in Section
+“Recent applications”. Finally, conclusions and future outlook are presented in Section
+“Conclusions and future outlook”.
+Algorithms
+Several machine learning algorithms dealing with big data have evolved till date that har-
+ness the compute power of server class machines for optimization [11]. Though offline
+storage space is often abundant, it is the complexity of the approaches employed in such
+systems, both in storage and time, that has become crucial to their viability. Newer tech-
+niques, for example those that use stochastic approximations to learning algorithms allow
+us to deal with big data. These have allowed us to simulate approaches in tractable time,
+given the luxury of heavy computational resources. The important challenge that still
+needs to be addressed is the feasibility in hardware implementation of these algorithms
+Page 3
+Soman et al. Big Data Analytics (2016) 1:15  Page 3 of 19
+Fig. 2 Directions in neuromorphic engineering: This figure categorizes research papers published in 2015
+into algorithms, circuits, devices and systems, based on the nature of the primary contribution. The reader
+can view this figure in the supplementary material (Additional file 1) provided with the manuscript to click on
+the hyperlinks and navigate to the corresponding reference in the bibliography section [141–147]
+and approaches, that is eventually critical for realizing practical applications, such as on
+embedded platforms. The storage and computational capacity available on such platforms
+is limited, hence the algorithms need to have a low computational complexity, that trans-
+lates to low-power requirements in hardware. This is where research in neuromorphic
+engineering seeks to provide new directions.
+The quest for modelling algorithms that mimic, and eventually better the decision-
+making ability of the human brain has been a significant research thrust since recent
+times. This has been challenging not only because of the complex architecture of the
+brain, but also because this requires a diverse inter-disciplinary approach combining
+biomedical and engineering sciences. Progress in areas of research such as artificial intel-
+ligence and machine learning have been able to achieve this to some extent. For instance,
+of late the evolution of deep learning approaches has led to development of vision sys-
+tems which can scale to large datasets. However, the computational requirements of these
+architectures is a luxury not available on hardware platforms. Conventional architectures
+based on the Von Neumann model were based on the principle that data moved between
+storage and memory for processing. However, the growing size of datasets has made this
+Page 4
+Soman et al. Big Data Analytics (2016) 1:15  Page 4 of 19
+model infeasible and maximizing memory-processor co-localization is needed. A possible
+solution lies in working towards computationally efficient learning architectures which
+can have sparse representations, hence being efficiently implementable for practical appli-
+cations. This fuels the development of newer algorithms for neuromorphic computing. A
+few significant developments in neuromorphic engineering are summarized in Fig. 3.
+Datasets
+A challenge for the works in this domain has also been the availability of datasets. To this
+end, Orchard et al. [12] have worked towards converting conventional static datasets to
+neuromorphic datasets, that not only maintains their compatibility with existing vision
+systems for benchmarking performance, but also involves “creation of information” which
+is required for realizing the true benefit of neuromorphic systems. Tan et al. [13] have
+detailed broader perspectives, motivation and guidelines in this direction. The challenge
+in availability of datasets for closed-loop neuromorphic systems has been addressed by
+Stewart et al. [14] in their work on developing benchmarks for such systems using a min-
+imal solution in a physical embodiment. A visual navigation dataset for neuromorphic
+systems has been developed by Barranco et al. [15]. An effort for benchmarking bio-
+inspired solutions via neuromorphic architectures on parallel computing platforms has
+been made by Diamond et al. [16]. Newer research directions in neuromorphic engi-
+neering are majorly directed to address these issues, and we review recent trends in
+neuromorphic engineering for hardware implementations in the following section.
+Hardware
+Neuromorphic hardware encompasses a broad spectrum, including CMOS, memristive
+or special devices in combination with CMOS, DSPs, GPUs, FPGAs, accelerators and
+others, as summarized in Fig. 4. We look at recent developments in these domains,
+attempting to lay greater emphasis on works that look at addressing challenges presented
+by the large data sizes in particular.
+Digital CMOS solutions
+A 65 nm CMOS neuromorphic processor has been designed for unsupervised online
+learning by Seo and Seok [17] with 1.2 k digital neurons and 4.7 k latch-based synapses.
+A CMOS motion sensor for biologically motivated expansion/contraction has been
+Developments 
+Memristors (1960)
+LTP - Long Term
+Potentiation (1973)
+Spiking Neural
+Networks (1952) 
+STDP - Spike Timing
+Dependent Plasticity (1973) 
+Neurogrid (2009)
+VLSI
+Dendritic
+Systems (1999) 
+SyNAPSE (2008) 
+TensorFlow (2015)
+BlueGene (2006) 
+AlphaGo (2015)
+Digital VLSI (2006)
+Silicon
+Neurons (1991) 
+BlueBrain (2005) 
+TrueNorth (2014)
+Vision Sensors (2003)
+Integrate-Fire 
+SpiNNaker (2013)
+Neuron Ckts. (2003) NuPIC (2013)
+CoDi - Collect
+Distribute (1998) 
+DistBelief (2011)
+Mixed Signal VLSI (2010)
+DeepBlue (1996)
+1950  1960  1970  1980  1990
+Year 
+2000  2010
+Fig. 3 Timeline of developments in neuromorphic engineering
+Page 5
+Soman et al. Big Data Analytics (2016) 1:15  Page 5 of 19
+Analog Implementations Hybrid Devices
+CMOS 
+Neuromorphic Hardware
+DSP 
+Accelerators
+Fig. 4 Summary of neuromorphic hardware 
+Memristive
+Solutions
+FPGAs
+developed by Chiang et al. [18] which has been found to be suitable for applications
+such as robotic movement. Knag et al. [19] developed an ASIC with a computer-vision
+accelerator for a sparse-coding neural net to learn and extract features from images and
+video.
+Accelerators
+Several neuromorphic accelerators have also been designed; a comparison of them with
+machine learning approaches has been presented by Du et al. [20]. Chen et al. [21] present
+a low area (3.02mm2) and power (485mW) neuromorphic accelerator for implementation
+of deep and convolutional neural networks. Darwin [22], by Shen et al., is a neuromor-
+phic hardware co-processor for spiking neural networks on 180nm CMOS technology.
+NS23 by Shahsavari [23] is a scalable spiking neural network simulator with memris-
+tors for computer vision tasks. Conti et. al. [24] develop a low-power parallel accelerator
+called the PULP (Parallel processing Ultra-Low Power platform) for kernel based image
+processing and vision tasks. Mahajan et al. [25] develop TABLA, a framework to gener-
+ate accelerators for machine learning algorithms via stochastic approximations for their
+FPGA realization. A reconfigurable computing accelerator for various neural network
+topologies has been developed by Liu et al. [26].
+PuDianNao [27] by Liu et al. is a neuromorphic accelerator which can run seven
+machine learning algorithms, viz. k-means, k-nearest neighbors, naive bayes, support vec-
+tor machines, linear regression, classification trees and deep neural networks. Bojnordi
+et al. [28] develop a memristive Boltzmann machine for large scale combinatorial opti-
+mization and deep learning. They demonstrate their accelerator on the graph partitioning
+and boolean satisfiability problems, and obtain 57× higher performance and 25× lower
+energy. Neuromorphic accelerators for mobile platforms were presented by Kim et. al.
+[29] with speedups ranging from 23–126 % and power reduction of upto 22 % by using
+inter and intra neuron parallelism.
+GPUs and DSPs
+The growth in volumes of data has also propelled investigation into neuromorphic archi-
+tectures for Graphics Processor Units (GPUs). Though tractable processing speedup has
+been achieved [30, 31], large memory requirements present a challenge [32]. In this
+context. Garcia et al. [33] developed a low-memory requiring system using an evo-
+lutionary algorithm for configuration selection and validated their system on optical
+flow benchmarks. Carlson et al. [34] presented a simulation environment for large-
+Page 6
+Soman et al. Big Data Analytics (2016) 1:15  Page 6 of 19
+scale spiking neural nets with evolutionary parameter tuning which harnessed the
+processing power of GPUs. More recently, Cheung et al. [35] developed “NeuroFlow”,
+a scalable platform for spiking neural nets on FPGA. Their system could simulate
+upto 400,000 neurons in real-time with a speedup of 2.83 times than that of GPUs.
+Liu et al. [36] present a optical flow sensor inspired by biological approaches which com-
+bines a silicon retina vision sensor with a DSP microcontroller.With recent trends in
+large-scale machine learning moving towards algorithms requiring heavy computational
+power, one can expect further developments in this direction gaining significance in the
+future.
+FPGA
+Yi et al. [37] presented a FPGA based encoder and reservoir design for neuromorphic
+processors. INsight by Chung et. al. [38] is an energy-efficient architecture for large-scale
+neural networks, which obtains an accuracy of 97.64 % on a handwritten image recog-
+nition dataset. FPGAs have been used for implementation of a convolutional spiking
+network for classifying musical notes by Escudero [39] as well as for biomimetic pattern
+generation [40]. Feedforward neural nets have been presented by Wang et al. [41] while
+spiking neural nets on FPGA have been evaluated by Rodrigues et al. [42] and Wu et al.
+[43]. Neuron-astrocyte signalling has been implemented by Nazari et al. [44], image de-
+warping by Molin et al. [45], event-driven vision processing by Yousefzadeh et al. [46] and
+Bayesian arithmetic stochastic synthesis by Duarte et al. [47].
+Non-CMOS and hybrid solutions
+Principles of design for network-based neuromorphic systems have been presented by
+Partzsch et al. [48]. A reconfigurable memristive dynamical system has been presented
+by Bavandpour et al. [49], which can be applied to learning and dynamical systems.
+Memristive crossbar circuits have also been demonstrated to be suitable for efficient neu-
+ral network training by Irina et al. [50], where they show low error rates using batch
+and stochastic training approaches for a handwritten digit recognition dataset. Neuro-
+inspired devices have been developed for unsupervised learning by Chabi et al. [51, 52],
+as well as for an inference engine by Querlioz et al. [53]. A general model for voltage-
+controlled memristors has been developed by Kvatinsky et al. [54]. Further, Prezioso et al.
+[55] present transistor-free metal-oxide memristor crossbars for binary image classifi-
+cation using a single layer perceptron. Memristor-based self healing circuits have been
+presented by Gu et al. [56]. Sampath et al. [57] present a CMOS-memristor based FPGA
+architecture for memory cells.
+Deep neural networks have been presented by Bichler et al. [58], with the specific focus
+for development of non-volatile memories, while deep spiking nets have been discussed
+by Neil et al. [59]. Goal-driven deep learning has been explored by Yamins et al. [60]. Fast
+and energy-efficient neurmorphic computing by Convolutional Neural Networks [61] and
+backpropagation [62] has been presented by Esser et al.
+Models for large-scale spiking neural networks have been explored by Krichmar et al.
+[63], Wu et. al. [64] and Wang et al. [65]; while aspects related to plasticity of such net-
+works in memristive devices has been studied by Saïghi et al. [66]. Garbin et al. [67]
+present phase-change memory (PCM) devices as binary probabilistic synapses in a neuro-
+morphic system for visual pattern recognition. Suri et al. [68] analyze the resistance-drift
+Page 7
+Soman et al. Big Data Analytics (2016) 1:15  Page 7 of 19
+effect in PCMs, which have also been used to develop a large scale neural network
+by Burr et al. [69] and Boybat et al. [70]. Online gradient descent training has been
+implemented using memristor-based neural networks by Soudry et al. [71]. In the context
+of network-based algorithms for machine learning, neuromorphic architectures for deep
+neural networks have been presented by Indiveri. [72].
+Stochastic memristive synapses based on spintronics have been presented by Vincent
+et al. [73, 74]. Zhang et al. [75] present a stochastic switching multi-level cell spin transfer
+torque MRAM. Zhao et al. [76] develop logic fabrics using spintronics, while energy-
+efficient architectures have been presented by Locatelli et al. [77]. Spintronics for low-
+power computing has been discussed in detail in the tutorial by Zhang et al. [78].
+Analog implementations
+There have also been several hardware implementations based on memristors inde-
+pendently for memories as well as in conjunction with other devices. Challenges
+in designing neuromorphic analog non-volatile memories have been discussed by
+Eryilmaz et al. [79], while Taha et al. [80] present the design of auto-associative memory
+using a multi-valued memristive memory cell. Reliability issues faced in using non-
+volatile memories as hardware synapses have been presented by Shelby et al. [81],
+while large crossbar arrays have been demonstrated by Virwani et al. [82]. Analog com-
+puting via multi-gate programmable resistive graphene devices has been presented by
+Calayir et al. [83], while a chaos-based CMOS analog neuron has been developed by
+Zhao et al. [84].
+Moon et al. [85] present a PCMO (Pr0.7Ca0.3MnO3) based resistive switching analog
+memory device. Mott memories have been discussed by Zhou et al. [86] The importance
+of enforcing criticality as a set-point for the purpose of developing adaptive neuromorphic
+hardware has been discussed by Srinivasa et al. [87]. A neuromorphic crossbar circuit
+based on analog memristors has been developed by Xu et al. [88], which demonstrates
+that recognition rates of upto 82.5 % on an average can be achieved. Ghaderi et al. [89]
+investigate cognitive signal processing on programmable analog hardware.
+Synaptic devices for visual systems using Resistive RAMs have been presented by Kang
+et al. [90], while multistate registers have been developed by Patel et al. [91]. Vertical
+RRAMs have been explored for cochlea and convolutional neural nets by Piccolboni [92],
+while OxRAM synapses for CNNs have been presented by Garbin et al. [93]. ReRAM
+devices for neuromorphic computing have been explored by Jang et al. [94], while an
+artificial synapse using a memristive switch has been modelled by Wang et al. [95].
+Zhang et al. [96] present an approach for energy-efficient neuromorphic computing
+for stochastic learning using multiple perpendicular in-plane magnetic tunnel junctions.
+Binary Conductive-Bridge RAM (CBRAM) synapses for bio-inspired computing has been
+presented by Suri et al. [97, 98], while Querlioz et al. [99] discuss stochastic resonance in
+an analog current-mode circuit.
+Recent applications
+The realm of applications for neuromorphic engineering continue to grow at an incred-
+ible rate. Newer applications keep emerging, and their comprehensive review could well
+be non-exhaustive. For the sake of brevity, we restrict our review to recently developed
+applications.
+Page 8
+Soman et al. Big Data Analytics (2016) 1:15  Page 8 of 19
+Applications in vision and robot control
+There have been several challenges in the computer vision domain which have benefited
+by the use of biologically inspired computing approaches, and hardware implementation
+is imminent for their practical application. These involve tasks ranging from relatively
+simpler image classification to complex tasks such as robot movement planning, object
+recognition/detection, among others. Most of these involve processing of large datasets,
+as image or video sequences are fairly large in size, resulting in high area and power
+consumption.
+A system for object detection to enhance the safety of drivers has been described by Han
+et. al. [100], and achieves upto 99 % detection rate. An on-chip implementation has been
+presented by Kim et al. [101], while a memristive threshold logic circuit for detecting fast
+moving objects was presented by Maan et al. [102]. Event-based 3D pose estimation using
+neuromorphic systems has been discussed by Valeiras et al. [103]. Event-based compu-
+tation of motion flow has been presented in the work by Giulioni [104], specifically the
+extraction of optical flow from a visual scene.
+Neuromorphic sensors for robotic vision have been benchmarked in terms of power
+consumption by Censi et al. [105] against conventional CMOS sensors, while sensors for
+high speed signal estimation have been developed by Mueller et al. [106]. A visual pattern
+recognition system has been developed using memristor array and CMOS neuron by Chu
+et al. [107], which has been successfully demonstrated for the task of digit recognition.
+Another such system by Lorenzi et al. [108] has been developed for recognition of binary
+images.
+Applications in biomedical and biosignal engineering
+Applications for biochemical systems for DNA strain displacement have been presented
+in the work by Chiang et al. [109]. Biological real-time neuromorphic system has been
+found in [110]. Population coding of neural activity has been done using a Trainable
+Analogue Block approach by Thakur et al. [111].
+Neuromorphic hardware design has also been inspired by the motivation to model
+the behavior of the human brain [112–115]. One aspect in doing this involves inves-
+tigating brain signals that may be acquired by various modalities (invasive or non-
+invasive) and developing systems to infer how these vary with the presented stim-
+ulus, which is analogous to development of brain-computer interfaces. This involves
+several challenges: the noise and non-stationarity inherent in these data acqusi-
+tion modalities, the size of the datasets and the restrictions imposed by the acqui-
+sition modality. These are often common to all biomedical signals acquired; and
+multi-modal setups are often beneficial, but more challenging to implement on a
+common hardware platform. Works in this domain include an event-based neu-
+romorphic Electroencephalogram (EEG) recording system by Corradi et al. [116].
+Park et al. [117] memristive synapse neural network to recognize human thoughts
+corresponding to imagined speech of three vowels of the English alphabet. Scott
+et al. [118] develop a framework for spatio-temporal modelling of brain data called as
+NeuCube.
+Recording of EEG from the ear has been facilitated by the characterization of recordings
+done using this modality by Mikkelsen et al. [119]. A neuromorphic system mimick-
+ing schizophrenia has been developed by Barzegarjalali [120]. The broader context of
+Page 9
+Soman et al. Big Data Analytics (2016) 1:15  Page 9 of 19
+biosignal processing has been explored by Kudithipudi [121], where they design and
+analyze a neuromemristive reservoir computing architecture for this purpose.
+Applications in perception engineering
+Applications based on integration with sensory modalities of humans have been widely
+explored. These include applications based on tactile sensor arrays by Lee et al. [122]
+and Ros et al. [123]. Corradi et al. [124] discuss directions for development of a neu-
+romorphic vestibular system, while an autonomous neuromorphic cognition system has
+been proposed by Chicca et al. [125]. Applications such as texture categorization using
+neuromorphic inspired touch have been explored by Rongala et al. [126], while emotion
+recognition has been presented by Diehl et al. [127]. This area continues to be an exciting
+yet complex domain to explore, and one can envisage future research directions guided
+towards these.
+Other applications
+A neuromorphic framework for elastic wave dynamics has been presented by Katayama
+et al. [128]. Nanomorphic memristors have been used in designing neuromorphic fabric
+by Manem et al. [129] that can evaluate boolean functions as well as train a perceptron
+neural net for images.
+A system that can classify musical notes has been presented by Cerezuela-Escudero
+et al. [39] on FPGA using a convolutional spiking neural network which gave high accu-
+racies even in the presence of noise. A neuromorphic approach to the cocktail party
+problem implemented on FPGA has been presented by Thakur et al. [130]. Medical assis-
+tive applications such as retinal implants and sensory substitution have been explored by
+Gaspar et al. [131]. A neurmorphic character recognition system has been simulated by
+Sheri et al. [132] using PCMO memristors.
+High speed serial interfaces have been presented in the work by Jablonski et al. [133] for
+bit-serial SATA AER inter-FPGA communication. A neuromorphic system for Electronic
+Design Automation (EDA) called the AutoNCS has been presented by Wen et al. [134]. A
+mixed-signal design for a neuromorphic analog-to-digital converter has been presented
+by Xu et al. [135].
+A VLSI circuit for random sampling has been presented by Chien et al. [136] for uni-
+form, exponential and bimodal distributions. A neuromorphic microphone has been
+incubated by Smith [137]. An authentication system accelerated by a neuromorphic hard-
+ware has been presented by Suri et al. [138] using the CM1K chip. It achieves recognition
+accuracy of 91 % with power requirement ranging from 487-668 μJ for training and
+testing on a benchmark dataset.
+Conclusions and future outlook
+A consolidated summary of developments in neuromorphic devices and circuits is pre-
+sented in Table 1. From among the publications considered in this review, we have
+chosen those which have provided quantifiable results in terms of design area, power con-
+sumption/energy dissipation and performance and have summarized the results in the
+table.
+Page 10
+Table 1 Summary of trends in Neuromorphic Engineering
+S. No. Type  Area
+1  Multi-GPU, Garcia et al. [33]
+2  Memristive Dynamical System, 4n memristors and no
+Bavandpour et al. [49]  switch for implementing
+an n-cell system
+3  Spiking Deep Neural Nets, Indiveri cxQuad (43.79 mm2),
+et al. [72]  ROLLS (51.4 mm2)
+4  Memristive Boltzmann Machine,
+Bojnordi et al. [28]
+5  Processor (PuLP), Conti et al. [24] Overall cluster area is 1.2
+mm2.
+6  Processor (Mobile), Kim et al. [29] Area overhead of 9 %
+7  Memristor Based Crossbar, Liu et  0.943 mm2 (M-net) and
+al. [26]  1.793 mm2 (D-net)
+8  Accelerator for machine learning, 3.51 mm2
+Liu et al. [27] 
+Power/Energy 
+GPU
+Non CMOS
+cxQuad(945uW @1.8 V),  ROLLS (4
+mW @1. 8V) 
+Accelerators
+25 × lower energy compared
+to multicore system, fully utilized
+accelerator chip consumes 1.3W
+Peak theoretical energy efficiency
+of211 GOPS/W, achievedupto192
+GOPS/W
+energy-savings of 22 %
+184.2× (25.23 ×) energy saving
+over MLP(AAM)
+596 mW 
+Performance
+3.71× speedup
+Similar to Cellular Memristive Dynamical
+System (CMDS)
+Upto 100 % accuracy on toy problems
+57× higher performance compared to
+multicore system
+Scaled over a 1× to 354× range,
+Average speedups of 126 % and 23 %
+over CPU and a state-of- the-art MLP
+accelerator
+178.4 × (27.06 ×) performance speedup
+over MLP(AAM)
+1.20 × faster than NVIDIA K20M GPU 
+Remarks
+Motion Estimation System
+FitzHugh-Nagumo (FHN),  Adaptive
+Exponential (AdEx) integrate and fire,
+and Izhikevich neuron models
+Event-based convolutional stage for
+feature extraction connected to a
+spike-based learning stage for feature
+classification.
+Hardware Accelerator for Combinatorial
+Optimization and Deep Learning
+Parallel Ultra Low-power Processor
+for ConvNet-based detector for smart
+surveillance, 4 Open-RISC cores, 64
+kB of L2 memory and 24 kB of TCDM
+fabricated in 28nm STMicroelectronics
+FD-SOI technology
+Neural Network Accelerator for Mobile
+Application Processors, applied for edge
+detection
+RENO: Reconfigurable Neuromorphic
+Computing Accelerator benchmarked
+with Multi-layer perceptron and
+Auto-associative memory
+PuDianNao: A Polyvalent Machine
+Learning Accelerator 
+Page 
+10 
+of 
+19
+Soman 
+et 
+al. 
+Big 
+Data 
+Analytics 
+(
+2016) 
+1:
+15
+Page 11
+Table 1 Summary of trends in Neuromorphic Engineering (Continuation)
+S. No. Type  Area  Power/Energy
+9  Hardware Co-processor, Shen et al. 5 × 5 mm2
+[22] 
+0.84 mW/MHz with 1.8 V power
+supply
+10  Accelerator for large scale neural 3.02 mm2
+networks, Chung et al. [38] 
+485mW 
+FPGA
+Digital CMOS
+11  CMOS Motion Sensor, Chiang et al. 4 × 4 mm2, 86.2 % fill fac- 13.2 mW
+[18]  tor
+12  ASIC Neural Network, Knag et al. 3.06 mm × 65 nm CMOS 6.67 mW for a 140 Mpixel/s
+[19]  ASIC test chip  throughput at 35 MHz.
+Analog
+13  Vertical Resistive RAM, Piccolboni Area gain of 3-10
+et al. [92] 
+Applications
+14  CMOS Analog VLSI Circuit, Chien et  330 μ m × 210 μ m
+al. [136]
+15  Memristor Array+CMOS Neuron,
+Chu et al. [107]
+16  Neuromorphic Bio-amplifier, Cor- 0.178 mm2
+radi et al. [116] 
+90 μ W
+17  Arithmetic Units, Kim et al. [148] 121 μm2
+18  Processor + on-chip learning, Kim 1.8 mm2
+et al. [101] 
+0.111 mW
+5.7pJ/pixel
+19  Tactile Sensors for Touch ,Lee et al. 37 × 43.5 cm2 active sen-
+[122]  sor area 
+Performance
+92.7 % classification accuracy
+117.87 × faster, and it can reduce the
+total energy by 21.08 ×
+6.8 % for ± X motion, 3.5 % for ± Y
+motion, and 6 % for ± Z motion
+Memory bit error rate of 0.01
+98 % recognition rate
+Theoretically linear relationship between
+output ISI distribution and input current
+55–100 % recogntion rate based on
+noise level
+96 % classification accuracy
+0.098 % error rate
+classification accuracy to 90 %
+4096 element tactile sensor array that
+can be sampled at over 5 kHz 
+Remarks
+Darwin Neuromorphic co-processor unit
+for spiking and artificial neural nets
+For convolutional and deep neural
+networks
+Motion sensor for Z-motion
+direction/velocity detection
+ASIC for image and video feature
+extraction
+For Cochlea and CNN applications
+Spike-based random sampling
+Digit recognition task
+EEG bio-amplifier has a programmable
+gain of 45–54 dB, with a Root Mean
+Squared (RMS) input-referred noise level
+of 2.1 μ V
+Approximate adders and comparators
+256 neurons, 83K synapses for Spiking
+LCA with classification for object
+detection
+Kilohertz Kilotaxel Tactile Sensor Array for
+Investigating Spatiotemporal Features 
+Page 
+11 
+of 
+19
+Soman 
+et 
+al. 
+Big 
+Data 
+Analytics 
+(
+2016) 
+1:
+15
+Page 12
+Table 1 Summary of trends in Neuromorphic Engineering (Continuation)
+S. No.
+20
+21 
+Type
+RRAM Multistate Register, Lorenzi
+et al. [108]
+CM1K chip, Suri et al. [138] 
+Area
+2.8–5.2 μm2 
+Power/Energy
+6.5 % energy reduction
+668 μJ for learning and 487 μJ for
+recognition, while operating at 25
+MHz
+22  Switched Capacitor Circuit, Mayr 600 μm × 600 μm
+et al. [110] 
+1.9 mW 
+Performance
+40% improvementoverswitch-on-event
+processor
+91 % recognition accuracy
+Short and Long term plasticity, 8k
+synapses 
+Remarks
+Multistate register for continuous flow
+multithreading
+Multi-modal authentication (person
+identification) system based on
+simultaneous recognition of face and
+speech data
+Closed loop interface to in-vitro cortical
+neuron cultures. 
+Page 
+12 
+of 
+19
+Soman 
+et 
+al. 
+Big 
+Data 
+Analytics 
+(
+2016) 
+1:
+15
+Page 13
+Soman et al. Big Data Analytics (2016) 1:15  Page 13 of 19
+Indiveri et al. [139] opine that future neuromorphic systems would be an integration
+of research in several domains, viz. VLSI circuits, emerging VLSI technologies, con-
+trol of robotic platforms, neural computation and biological, cognitive architectures. The
+recent publications in this domain reviewed in this paper clearly augment this claim. With
+developing systems increasing focus on handling big datasets, the use of bio-inspired algo-
+rithms and architectures has become imperative, and shall certainly pave the way forward
+for future research directions in neuromorphic engineering. We present an illustration of
+future directions in Fig. 5.
+It is clear that advances in technology are allowing for faster devices that are smaller.
+The diversifying nature of progress in the neuromorphic engineering domain mandates
+the urgent and strong need of standardization, benchmarking and road-mapping, pri-
+marily among various design elements such as neuron blocks, weight blocks, algorithms,
+communication protocols and test datasets. A look at how integration has progressed in
+VLSI indicates that power consumption and interconnection complexity have become the
+most critical hurdles in building larger systems on chip.
+We believe that this observation holds pointers for the evolution of neuromorphic sys-
+tems. In a system with N interacting modules, the data flows and interconnections tend
+to grow as αN × N, or αN2. Communication, therefore, consumes more power than the
+dissipation within individual modules. This is also true for the area of modules on VLSI
+E
+F
+F
+I
+C
+I
+E
+N
+C
+Y 
+Present  Time 
+Future
+Fig. 5 Future directions in Neuromorphic Engineering. (adapted from IBM research colloquia-2012, Madrid,
+M. Ritter et. al.)
+Page 14
+Soman et al. Big Data Analytics (2016) 1:15  Page 14 of 19
+systems - interconnect occupies more space than logic, and increasingly so. Devices that
+consume less power are therefore more attractive; technologies that can allow intercon-
+nects to scale will tend to dominate. One might expect optical interconnects to become
+more pervasive. On the algorithms front, sparse representations that lead to reductions in
+power and area are likely to be more favoured. Coding techniques that make communica-
+tions more efficient would also be preferred [140]. The last two have a firm mathematical
+basis, and one might expect to see significant developments along these lines.
+Additional file
+ Additional file 1: Supplementary material. (PDF 104 kb)
+Acknowledgements
+The corresponding author would like to acknowledge the support of the Microsoft Chair Professor project grant
+(MI01158, IIT Delhi). Manan Suri wishes to acknowledge DST project grant RP03051. Sumit Soman would like to
+acknowledge Aashish Rajiv for his help in collating data for Fig. 1 and preparing Fig. 2.
+Authors’ information
+Sumit Soman is a PhD candidate at the Department of Electrical Engineering, Indian Institute of Technology (llT), Delhi,
+India. He is also a Technical Officer with the Health Informatics Design and Development group at the Centre for
+Development of Advanced Computing (CDAC). His research interests include brain computer interfacing and machine
+learning. Email: sumitsoman@gmail.com
+Jayadeva is a Professor in the Department of Electrical Engineering at IIT Delhi. He currently holds the Microsoft Chair at
+IIT Delhi. He is an Associate Editor of the IEEE Transactions on Neural Networks, the IEEE Transactions on Cybernetics, and
+is an Editor of the IETE Journal of Research. He has served on the Steering and Program Committees of several
+international conferences. His group was amongst the first to fabricate a SVM based application VLSI ASIC, that contained
+an A/D converter using a bank of analog SVM classifiers. It also demonstrated a new way of achieving self-calibration in
+analog circuits. Notable recent work includes the Twin SVM, that is insensitive to class imbalance. It has around 450
+citations and is the subject of review articles in AI Review, the Egyptian Informatics Journal, and Neural Computing and
+Applications (Springer). Work in Ant Colony Optimization includes EigenAnt - the only ACO algorithm with mathematical
+proofs of convergence and stability from arbitrary initial conditions and for arbitrary parameter choices. An EigenAnt
+based routing chip has been fabricated in 180 nm CMOS and tested, and is possibly one of the first ACO applications on
+silicon. Email: jayadeva@ee.iitd.ac.in, Web: [URL: "http://web.iitd.ac.in/~jayadeva/"] http://web.iitd.ac.in/~jayadeva/
+Manan Suri received his PhD in Nanoelectronics and Nanotechnology from Institut Polytechnique de Grenoble (INPG),
+France in 2013. He obtained his M.Eng. (2010) and B.S. (2009) degrees in Electrical and Computer Engineering from
+Cornell University, USA. Prior to joining IIT Delhi as an Assistant Professor in 2014, he worked as a Senior Scientist with
+NXP Semiconductors, Central R & D, Leuven, Belgium. His research interests include semiconductor devices, non-volatile
+memory technology and unconventional ubiquitous computing. He holds several US & European patents. He has
+authored book chapters and more than 20 papers in reputed international conferences and journals. He serves as
+committee member and reviewer for IEEE journals/conferences. He has received several prestigious international honors
+and awards in his field. Email: manansuri@ee.iitd.ac.in, Web: [URL: "http://web.iitd.ac.in/~manansuri/"] http://web.iitd.ac.in/~manansuri/.
+Competing interests
+The authors declare that they have no competing interests.
+Received: 21 April 2016 Accepted: 14 September 2016
+References
+1.  Markram H. Seven challenges for neuroscience. Funct Neurol. 2013;28(3):145–151.
+2.  Monroe D. Neuromorphic computing gets ready for the (really) big time. Commun ACM. 2014;57(6):13–15.
+3.  Lichtman JW, Pfister H, Shavit N. The big data challenges of connectomics. Nature neurosci. 2014;17(11):
+1448–1454.
+4.  Mead C. Neuromorphic electronic systems. Proc IEEE. 1990;78(10):1629–1636.
+5.  Ahmed MR, Sujatha B. A review on methods, issues and challenges in neuromorphic engineering. In:
+Communications and Signal Processing (ICCSP), 2015 International Conference on. Melmaruvathur: IEEE; 2015. p.
+0899–0903. doi:[URL: "http://dx.doi.org/10.1109/ICCSP.2015.7322626"] 10.1109/ICCSP.2015.7322626.
+6.  Rajendran B, Ganguly U, Suri M. Tutorial T1: Neuromorphic computing - algorithms, devices and systems. In: 2015
+28th International Conference on VLSI Design. Bangalore: IEEE; 2015. p. 1–2. doi:[URL: "http://dx.doi.org/10.1109/VLSID.2015.109"] 10.1109/VLSID.2015.109.
+7.  Rajendran B, Alibart F. Neuromorphic computing based on emerging memory technologies. In: IEEE Journal on
+Emerging and Selected Topics in Circuits and Systems. p. 198–211. doi:[URL: "http://dx.doi.org/10.1109/JETCAS.2016.2533298"] 10.1109/JETCAS.2016.2533298.
+8.  DeSalvo B, Vianello E, Garbin D, Bichler O, Perniola L. From memory in our brain to emerging resistive memories
+in neuromorphic systems. In: 2015 IEEE International Memory Workshop (IMW). Monterey: IEEE; 2015. p. 1–4.
+doi:[URL: "http://dx.doi.org/10.1109/IMW.2015.7150286"] 10.1109/IMW.2015.7150286.
+Page 15
+Soman et al. Big Data Analytics (2016) 1:15  Page 15 of 19
+9.  DeSalvo B, et al. Emerging resistive memories for low power embedded applications and neuromorphic systems.
+In: 2015 IEEE International Symposium on Circuits and Systems (ISCAS). Lisbon: IEEE; 2015. p. 3088–3091.
+doi:[URL: "http://dx.doi.org/10.1109/ISCAS.2015.7169340"] 10.1109/ISCAS.2015.7169340.
+10. Vanarse A, Osseiran A, Rassau A. A review of current neuromorphic approaches for vision, auditory and olfactory
+sensors. Front Neurosci. 2016;10(115):. doi:[URL: "http://dx.doi.org/10.3389/fnins.2016.00115"] 10.3389/fnins.2016.00115.
+11. Condie T, Mineiro P, Polyzotis N, Weimer M. Machine learning for big data. In: Proceedings of the 2013 ACM
+SIGMOD International Conference on Management of Data. New York: ACM; 2013. p. 939–942.
+doi:[URL: "http://dx.doi.org/10.1145/2463676.2465338"] 10.1145/2463676.2465338.
+12. Orchard G, Jayawant A, Cohen GK, Thakor N. Converting static image datasets to spiking neuromorphic datasets
+using saccades. Front Neurosci. 2015;9:437–48. [URL: "http://dx.doi.org/10.3389/fnins.2015.00437"] http://dx.doi.org/10.3389/fnins.2015.00437.
+13. Tan C, Lallee S, Orchard G. Benchmarking neuromorphic vision: lessons learnt from computer vision. Front
+Neurosci. 2015;9:374–80. [URL: "http://dx.doi.org/10.3389/fnins.2015.00374"] http://dx.doi.org/10.3389/fnins.2015.00374.
+14. Stewart TC, DeWolf T, Kleinhans A, Eliasmith C. Closed-loop neuromorphic benchmarks. Front Neurosci. 2015;9:
+464–78. doi:[URL: "http://dx.doi.org/10.3389/fnins.2015.00464"] 10.3389/fnins.2015.00464.
+15. Barranco F, Fermuller C, Aloimonos Y, Delbruck T. A dataset for visual navigation with neuromorphic methods.
+Front Neurosci. 2016;10:49. [URL: "http://dx.doi.org/10.3389/fnins.2016.00049"] http://dx.doi.org/10.3389/fnins.2016.00049.
+16. Diamond A, Nowotny T, Schmuker M. Comparing neuromorphic solutions in action: implementing a bio-inspired
+solution to a benchmark classification task on three parallel-computing platforms. Front Neurosci. 2015;9:491–505.
+ http://dx.doi.org/10.3389/fnins.2015.00491.
+17. Seo J-s, Seok M. Digital cmos neuromorphic processor design featuring unsupervised online learning. In: 2015
+IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC). Daejeon: IEEE; 2015. p. 49–51.
+doi:[URL: "http://dx.doi.org/10.1109/VLSI-SoC.2015.7314390"] 10.1109/VLSI-SoC.2015.7314390.
+18. Chiang CT, Setiarini A. A cmos biologically expansion/contraction motion sensor and its implementation on
+z-motion direction/velocity detection. Sensors J. IEEE. 2015;15(4):2166–2176.
+19. Knag P, Kim JK, Chen T, Zhang Z. A sparse coding neural network ASIC with on-chip learning for feature
+extraction and encoding. Solid-State Circuits IEEE J. 2015;50(4):1070–1079.
+20. Du Z, Ben-Dayan Rubin DD, Chen Y, He L, Chen T, Zhang L, Wu C, Temam O. Neuromorphic accelerators: a
+comparison between neuroscience and machine-learning approaches. In: Proceedings of the 48th International
+Symposium on Microarchitecture. New York: ACM; 2015. p. 494–507. doi:[URL: "http://dx.doi.org/10.1145/2830772.2830789"] 10.1145/2830772.2830789.
+21. Chen T, Zhang S, Liu S, Du Z, Luo T, Gao Y, Liu J, Wang D, Wu C, Sun N, et al. A small-footprint accelerator for
+large-scale neural networks. ACM Trans Comput Syst (TOCS). 2015;33(2):6.
+22. Shen J, Ma D, Gu Z, Zhang M, Zhu X, Xu X, Xu Q, Shen Y, Pan G. Darwin: a neuromorphic hardware co-processor
+based on spiking neural networks. Sci China Inf Sci. 2016;59:1–5. doi:[URL: "http://dx.doi.org/10.1007/s11432-015-5511-7"] 10.1007/s11432-015-5511-7.
+23. Shahsavari M, Devienne P, Boulet P. N2s3, a simulator for the architecture exploration of neuromorphic
+accelerators. In: NeuComp 2015; 2015.
+24. Conti F, Rossi D, Pullini A, Loi I, Benini L. ulp: A ultra-low power parallel accelerator for energy-efficient and flexible
+embedded vision. J Sign Proc Systems. 20151–16.
+25. Mahajan D, Park J, Amaro E, Sharma H, Yazdanbakhsh A, Kim J, Esmaeilzadeh H. Tabla: A unified template-based
+framework for accelerating statistical machine learning. 2015.
+26. Liu X, et al. Reno: a high-efficient reconfigurable neuromorphic computing accelerator design. In: 2015 52nd
+ACM/EDAC/IEEE Design Automation Conference (DAC). San Francisco: IEEE; 2015. p. 1–6.
+doi:[URL: "http://dx.doi.org/10.1145/2744769.2744900"] 10.1145/2744769.2744900.
+27. Liu D, Chen T, Liu S, Zhou J, Zhou S, Teman O, Feng X, Zhou X, Chen Y. Pudiannao: A polyvalent machine
+learning accelerator. In: Proceedings of the Twentieth International Conference on Architectural Support for
+Programming Languages and Operating Systems. ACM; 2015. p. 369–381.
+28. Bojnordi MN, Ipek E. Memristive boltzmann machine: A hardware accelerator for combinatorial optimization and
+deep learning. In: 2016 IEEE International Symposium on High Performance Computer Architecture (HPCA).
+Barcelona: IEEE; 2016. p. 1–13. doi:[URL: "http://dx.doi.org/10.1109/HPCA.2016.7446049"] 10.1109/HPCA.2016.7446049.
+29. Kim DY, Kim JM, Jang H, Jeong J, Lee JW. A neural network accelerator for mobile application processors.
+Consum Electron IEEE Trans. 2015;61(4):555–563.
+30. Zhou Y, Garland M. Interactive point-based rendering of higher-order tetrahedral data. Vis Comput Graph IEEE
+Trans. 2006;12(5):1229–1236.
+31. Ayuso F, Botella G, García C, Prieto M, Tirado F. Gpu-based acceleration of bio-inspired motion estimation model.
+Concurr Comput Pract Experience. 2013;25(8):1037–1056.
+32. Mattes L, Kofuji S. Overcoming the gpu memory limitation on fdtd through the use of overlapping subgrids. In:
+Microwave and Millimeter Wave Technology (ICMMT), 2010 International Conference on. Chengdu: IEEE; 2010. p.
+1536–1539. doi:[URL: "http://dx.doi.org/10.1109/ICMMT.2010.5524901"] 10.1109/ICMMT.2010.5524901.
+33. Garcia C, Botella G, Ayuso F, Prieto M, Tirado F. Multi-gpu based on multicriteria optimization for motion
+estimation system. EURASIP J Adv Signal Process. 2013;2013(1):1–12.
+34. Carlson KD, Beyeler M, Dutt N, Krichmar JL. Gpgpu accelerated simulation and parameter tuning for
+neuromorphic applications. In: Design Automation Conference (ASP-DAC), 2014 19th Asia and South Pacific. IEEE;
+2014. p. 570–577.
+35. Cheung K, Schultz SR, Luk W. Neuroflow: A general purpose spiking neural network simulation platform using
+customizable processors. Front Neurosci. 2015;9:516.
+36. Liu SC, Yang M, Steiner A, Moeckel R, Delbruck T. 1 khz 2d visual motion sensor using 20 20 silicon retina optical
+sensor and dsp microcontroller. Biomed Circ Syst IEEE Trans. 2015;9(2):207–216.
+37. Yi Y, Liao Y, Wang B, Fu X, Shen F, Hou H, Liu L. Fpga based spike-time dependent encoder and reservoir design
+in neuromorphic computing processors. Microprocess Microsyst. 2016. [URL: "http://dx.doi.org/10.1016/j.micpro.2016.03.009"] http://dx.doi.org/10.1016/j.micpro.2016.03.
+ 009, [URL: "http://www.sciencedirect.com/science/article/pii/S0141933116300060"] http://www.sciencedirect.com/science/article/pii/S0141933116300060. Accessed 27 Sept 2016.
+38. Chung J, Shin T, Kang Y. Insight: A neuromorphic computing system for evaluation of large neural networks. 2015.
+Preprint on ArXiv. [URL: "http://arxiv.org/abs/1508.01008"] http://arxiv.org/abs/1508.01008. Accessed 27 Sept 2016.
+Page 16
+Soman et al. Big Data Analytics (2016) 1:15  Page 16 of 19
+39. Cerezuela-Escudero E, Jimenez-Fernandez A, Paz-Vicente R, Dominguez-Morales M, Linares-Barranco A,
+Jimenez-Moreno G. Musical notes classification with neuromorphic auditory system using fpga and a
+convolutional spiking network. In: 2015 International Joint Conference on Neural Networks (IJCNN). Killarney: IEEE;
+2015. p. 1–7. doi:[URL: "http://dx.doi.org/10.1109/IJCNN.2015.7280619"] 10.1109/IJCNN.2015.7280619.
+40. Ambroise M, Levi T, Joucla S, Yvert B, Saïghi S. Real-time biomimetic central pattern generators in an fpga for
+hybrid experiments. Neuromorphic Eng Syst Appl. 2015;134(7). [URL: "http://dx.doi.org/10.3389/fnins.2013.00215"] http://dx.doi.org/10.3389/fnins.2013.00215.
+41. Wang J, Yang S, Deng B, Wei X, Yu H. Multi-fpga implementation of feedforward network and its performance
+analysis. In: Control Conference (CCC), 2015 34th Chinese. Hangzhou: IEEE; 2015. p. 3457–3461.
+doi:[URL: "http://dx.doi.org/10.1109/ChiCC.2015.7260172"] 10.1109/ChiCC.2015.7260172.
+42. Rodrigues de Oliveira Neto J, Cerquinho Cajueiro JP, Ranhel J. Neural encoding and spike generation for spiking
+neural networks implemented in FPGA. In: Electronics, Communications and Computers (CONIELECOMP), 2015
+International Conference On. Cholula: IEEE; 2015. p. 55–61. doi:[URL: "http://dx.doi.org/10.1109/CONIELECOMP.2015.7086925"] 10.1109/CONIELECOMP.2015.7086925.
+43. Wu Q, Liao X, Huang X, Cai R, Cai J, Liu J. Development of fpga toolbox for implementation of spiking neural
+networks. In: Communication Systems and Network Technologies (CSNT), 2015 Fifth International Conference On.
+Gwalior: IEEE; 2015. p. 806–810. doi:[URL: "http://dx.doi.org/10.1109/CSNT.2015.216"] 10.1109/CSNT.2015.216.
+44. Nazari S, Amiri M, Faez K, Amiri M. Multiplier-less digital implementation of neuron–astrocyte signalling on fpga.
+Neurocomputing. 2015;164:281–292.
+45. Molin JL, Figliolia T, Sanni K, Doxas I, Andreou A, Etienne-Cummings R. Fpga emulation of a spike-based,
+stochastic system for real-time image dewarping. In: 2015 IEEE 58th International Midwest Symposium on Circuits
+and Systems (MWSCAS). Fort Collins: IEEE; 2015. p. 1–4. doi:[URL: "http://dx.doi.org/10.1109/MWSCAS.2015.7282104"] 10.1109/MWSCAS.2015.7282104.
+46. Yousefzadeh A, Serrano-Gotarredona T, Linares-Barranco B. Fast pipeline 128× 128 pixel spiking convolution core
+for event-driven vision processing in FPGAs. In: Event-based Control, Communication, and Signal Processing
+(EBCCSP), 2015 International Conference On. Krakow: IEEE; 2015. p. 1–8. doi:[URL: "http://dx.doi.org/10.1109/EBCCSP.2015.7300698"] 10.1109/EBCCSP.2015.7300698.
+47. Duarte R, Lobo J, Ferreira JF, Dias J. Synthesis of bayesian machines on fpgas using stochastic arithmetic. In: 2nd
+International Workshop on Neuromorphic and Brain-Based Computing Systems (NeuComp 2015), Design
+Automation Test Europe (DATE2015); 2015. [URL: "https://www.researchgate.net/profile/Joao_Filipe_Ferreira/publication/277015715_Synthesis_of_Bayesian_Machines_On_FPGAs_Using_Stochastic_Arithmetic/links/555eefaa08ae9963a1143742.pdf"] https://www.researchgate.net/profile/Joao_Filipe_Ferreira/
+ publication/277015715_Synthesis_of_Bayesian_Machines_On_FPGAs_Using_Stochastic_Arithmetic/links/
+ 555eefaa08ae9963a1143742.pdf. Accessed 27 Sept 2016.
+48. Partzsch J, Schüffny R. Network-driven design principles for neuromorphic systems. Front Neurosci. 2015;9:
+386–400. doi:[URL: "http://dx.doi.org/10.3389/fnins.2015.00386"] 10.3389/fnins.2015.00386.
+49. Bavandpour M, Soleimani H, Linares-Barranco B, Abbott D, Chua LO. Generalized reconfigurable memristive
+dynamical system (mds) for neuromorphic applications. Front Neurosci. 2015;9:409–28.
+doi:[URL: "http://dx.doi.org/10.3389/fnins.2015.00409"] 10.3389/fnins.2015.00409.
+50. Kataeva I, Merrikh-Bayat F, Zamanidoost E, Strukov D. Efficient training algorithms for neural networks based on
+memristive crossbar circuits, 2015 International Joint Conference on Neural Networks (IJCNN). Killarney:
+International Neural Network Society; 2015. p. 1–8. doi:[URL: "http://dx.doi.org/10.1109/IJCNN.2015.7280785"] 10.1109/IJCNN.2015.7280785.
+51. Chabi D, Zhao W, Querlioz D, Klein JO. On-chip universal supervised learning methods for neuro-inspired block of
+memristive nanodevices. ACM J Emerg Technol Comput Syst. (JETC). 2015;11(4):34.
+52. Chabi D, Querlioz D, Zhao W, Klein JO. Robust learning approach for neuro-inspired nanoscale crossbar
+architecture. ACM J Emerg Technol Comput Syst (JETC). 2014;10(1):5.
+53. Querlioz D, Bichler O, Vincent AF, Gamrat C. Bioinspired programming of memory devices for implementing an
+inference engine. Proc IEEE. 2015;103(8):1398–1416.
+54. Kvatinsky S, Ramadan M, Friedman EG, Kolodny A. VTEAM: A general model for voltage-controlled memristors.
+Circuits and Systems II: Express Briefs, IEEE Transac. 2015;62(8):786–790.
+55. Prezioso M, Merrikh-Bayat F, Hoskins B, Adam G, Likharev KK, Strukov DB. Training and operation of an integrated
+neuromorphic network based on metal-oxide memristors. Nature. 2015;521(7550):61–64.
+56. Gu J, Li J. Exploration of self-healing circuits for timing resilient design using emerging memristor devices. In: 2015
+IEEE International Symposium on Circuits and Systems (ISCAS). Lisbon: IEEE; 2015. p. 1458–1461.
+doi:[URL: "http://dx.doi.org/10.1109/ISCAS.2015.7168919"] 10.1109/ISCAS.2015.7168919.
+57. Sampath M, Mane PS, Ramesha CK. Hybrid cmos-memristor based fpga architecture. In: VLSI Systems,
+Architecture, Technology and Applications (VLSI-SATA), 2015 International Conference on. Bangalore: IEEE; 2015. p.
+1–6. doi:[URL: "http://dx.doi.org/10.1109/VLSI-SATA.2015.7050461"] 10.1109/VLSI-SATA.2015.7050461.
+58. Bichler O. Implementing deep neural networks with non volatile memories. 2015. Available: [URL: "http://www.gdr-isis.fr/neurostic/wp-content/uploads/2015/07/NeuroSTIC2015_O.Bichlet.pdf"] http://www.gdr-isis.fr/
+ neurostic/wp-content/uploads/2015/07/NeuroSTIC2015_O.Bichlet.pdf. Accessed 25 Sept 2016.
+59. Neil D, Pfeiffer M, Liu S-C. Learning to be efficient: Algorithms for training low-latency, low-compute deep spiking
+neural networks. In: Proceedings of the 31st Annual ACM Symposium on Applied Computing. New York: ACM;
+2016. p. 293–298. doi:[URL: "http://dx.doi.org/10.1145/2851613.2851724"] 10.1145/2851613.2851724.
+60. Yamins DL, DiCarlo JJ. Using goal-driven deep learning models to understand sensory cortex. Nature
+neuroscience. 2016;19(3):356–365.
+61. Esser SK, Merolla PA, Arthur JV, Cassidy AS, Appuswamy R, Andreopoulos A, Berg DJ, McKinstry JL, Melano T,
+Barch DR, et al. Convolutional networks for fast, energy-efficient neuromorphic computing. 2016. Preprint on ArXiv.
+ http://arxiv.org/abs/1603.08270. Accessed 27 Sept 2016.
+62. Esser SK, Appuswamy R, Merolla P, Arthur JV, Modha DS. Backpropagation for energy-efficient neuromorphic
+computing. In: Advances in Neural Information Processing Systems; 2015. p. 1117–1125. [URL: "http://papers.nips.cc/paper/5862-backpropagation-for-energy-efficient-neuromorphic-computing"] http://papers.nips.cc/
+ paper/5862-backpropagation-for-energy-efficient-neuromorphic-computing. Accessed 27 Sept 2016.
+63. Krichmar JL, Coussy P, Dutt N. Large-scale spiking neural networks using neuromorphic hardware compatible
+models. ACM J Emerg Technol Computi Syst (JETC). 2015;11(4):36.
+64. Wu X, Saxena V, Zhu K. Homogeneous spiking neuromorphic system for real-world pattern recognition. Emerg Sel
+Topics Circ Syst IEEE J. 2015;5(2):254–266.
+65. Wang RM, Hamilton TJ, Tapson JC, van Schaik A. A neuromorphic implementation of multiple spike-timing
+synaptic plasticity rules for large-scale neural networks. Front Neurosci. 2015;9:180–97. [URL: "http://dx.doi.org/10.3389/fnins.2015.00180"] http://dx.doi.org/10.3389/
+ fnins.2015.00180.
+Page 17
+Soman et al. Big Data Analytics (2016) 1:15  Page 17 of 19
+66. Saïghi S, Mayr CG, Serrano-Gotarredona T, Schmidt H, Lecerf G, Tomas J, Grollier J, Boyn S, Vincent AF, Querlioz
+D, et al. Plasticity in memristive devices for spiking neural networks. Front Neurosci. 2015;9:51–67. [URL: "http://dx.doi.org/10.3389/fnins.2015.00051"] http://dx.doi.org/
+ 10.3389/fnins.2015.00051.
+67. Garbin D, Suri M, Bichler O, Querlioz D, Gamrat C, DeSalvo B. Probabilistic neuromorphic system using binary
+phase-change memory (pcm) synapses: Detailed power consumption analysis. In: Nanotechnology (IEEE-NANO),
+2013 13th IEEE Conference on. Beijing: IEEE; 2013. p. 91–4. doi:[URL: "http://dx.doi.org/10.1109/NANO.2013.6721057"] 10.1109/NANO.2013.6721057.
+68. Suri M, Garbin D, Bichler O, Querlioz D, Vuillaume D, Gamrat C, DeSalvo B. Impact of pcm resistance-drift in
+neuromorphic systems and drift-mitigation strategy. In: Proceedings of the 2013 IEEE/ACM International
+Symposium on Nanoscale Architectures. Piscataway: IEEE Press; 2013. p. 140–145. doi:[URL: "http://dx.doi.org/10.1109/ISCAS.2015.7168919"] 10.1109/
+ ISCAS.2015.7168919.
+69. Burr GW, Shelby RM, Sidler S.,  Di Nolfo C, Jang J, Boybat I, Shenoy RS, Narayanan P, Virwani K, Giacometti EU, et
+al. Experimental demonstration and tolerancing of a large-scale neural network (165 000 synapses) using
+phase-change memory as the synaptic weight element. Electron Devices IEEE Trans. 2015;62(11):3498–507.
+70. Boybat I, Sidler S, Di Nolfo C, Shelby RM, Narayanan P, Leblebici Y, Burr GW. Pcm for neuromorphic applications:
+Impact of device characteristics on neural network performance. In: Proceedings of the European Symposium on
+Phase Change and Ovonic Science 2015. EPFL: Infoscience; 2015. [URL: "https://infoscience.epfl.ch/record/211159"] https://infoscience.epfl.ch/record/211159.
+Accessed 27 Sept 2016.
+71. Soudry D, Di Castro D, Gal A, Kolodny A, Kvatinsky S. Memristor-based multilayer neural networks with online
+gradient descent training. Neural Netw Learn Syst IEEE Trans. 2015;26(10):2408–2421.
+72. Indiveri G, Corradi F, Qiao N. Neuromorphic architectures for spiking deep neural networks. In: 2015 IEEE
+International Electron Devices Meeting (IEDM). Washington. p. 4.2.1–4.2.4. doi:[URL: "http://dx.doi.org/10.1109/IEDM.2015.7409623"] 10.1109/IEDM.2015.7409623.
+73. Vincent AF, Larroque J, Locatelli N, Ben Romdhane N, Bichler O, Gamrat C, Zhao WS, Klein J-O, Galdin-Retailleau
+S, Querlioz D. Spin-transfer torque magnetic memory as a stochastic memristive synapse for neuromorphic
+systems. Biomed Circ Syst IEEE Trans. 2015;9(2):166–174.
+74. Vincent AF, Larroque J, Zhao WS, Ben Romdhane N, Bichler O, Gamrat C, Klein JO, Galdin-Retailleau S, Querlioz
+D. Spin-transfer torque magnetic memory as a stochastic memristive synapse. In: Circuits and Systems (ISCAS),
+2014 IEEE International Symposium On. IEEE; 2014. p. 1074–1077. doi:[URL: "http://dx.doi.org/10.1109/TBCAS.2015.2414423"] 10.1109/TBCAS.2015.2414423.
+75. Zhang Y, et al. Multi-level cell spin transfer torque mram based on stochastic switching. In: Nanotechnology
+(IEEE-NANO), 2013 13th IEEE Conference on. Beijing: IEEE; 2013. p. 233–236. doi:[URL: "http://10.1109/NANO.2013.6720849"] 10.1109/NANO.2013.6720849.
+76. Zhao W, et al. Spin-electronics based logic fabrics. In: 2013 IFIP/IEEE 21st International Conference on Very Large
+Scale Integration (VLSI-SoC). Istanbul : IEEE; 2013. p. 174–179. doi:[URL: "http://dx.doi.org/10.1109/VLSI-SoC.2013.6673271"] 10.1109/VLSI-SoC.2013.6673271.
+77. Locatelli N, et al. Spintronic devices as key elements for energy-efficient neuroinspired architectures. In:
+Proceedings of the 2015 Design, Automation & Test in Europe Conference & Exhibition. Grenoble: EDA
+Consortium; 2015. p. 994–999. doi:[URL: "http://dx.doi.org/10.7873/DATE.2015.1117"] 10.7873/DATE.2015.1117.
+78. Zhang Y, et al. Spintronics for low-power computing. In: 2014 Design, Automation & Test in Europe Conference &
+Exhibition (DATE). Dresden: IEEE; 2014. p. 1–6. doi:[URL: "http://dx.doi.org/10.7873/DATE.2014.316"] 10.7873/DATE.2014.316.
+79. Eryilmaz SB, Kuzum D, Yu S, Wong H-SP. Device and system level design considerations for
+analog-non-volatile-memory based neuromorphic architectures. In: 2015 IEEE International Electron Devices
+Meeting (IEDM). Washington; 2015. p. 4.1.1–4.1.4. doi:[URL: "http://dx.doi.org/10.1109/IEDM.2015.7409622"] 10.1109/IEDM.2015.7409622.
+80. Taha MMA, Melis WJC. Analogue auto-associative memory using a multi-valued memristive memory cell. In:
+Nanoscale Architectures (NANOARCH), 2015 IEEE/ACM International Symposium On. Boston: IEEE; 2015. p. 94–99.
+doi:[URL: "http://dx.doi.org/10.1109/NANOARCH.2015.7180593"] 10.1109/NANOARCH.2015.7180593.
+81. Shelby RM, Burr GW, Boybat I, di Nolfo C. Non-volatile memory as hardware synapse in neuromorphic computing:
+A first look at reliability issues. In: Reliability Physics Symposium (IRPS), 2015 IEEE International. IEEE; 2015. p. 6–1.
+82. Virwani K, Burr GW, Shelby RM, Narayanan P. (invited) large crossbar arrays for storage class memory and non-von
+neumann computing. In: Meeting Abstracts. The Electrochemical Society; 2015. p. 771–771. [URL: "http://ma.ecsdl.org/content/MA2015-02/16/771.short"] http://ma.ecsdl.org/
+ content/MA2015-02/16/771.short. Accessed 27 Sept 2016.
+83. Calayir V, Darwish M, Weldon J, Pileggi L. Analog neuromorphic computing enabled by multi-gate
+programmable resistive devices. In: 2015 Design, Automation & Test in Europe Conference & Exhibition (DATE).
+Grenoble: EDA Consortium; 2015. p. 928–931. doi:[URL: "http://dx.doi.org/10.7873/DATE.2015.0483"] 10.7873/DATE.2015.0483.
+84. Zhao C, Danesh W, Wysocki BT, Yi Y. Neuromorphic encoding system design with chaos based cmos analog
+neuron. In: 2015 IEEE Symposium on Computational Intelligence for Security and Defense Applications (CISDA).
+Verona: IEEE; 2015. p. 1–6. doi:[URL: "http://dx.doi.org/10.1109/CISDA.2015.7208631"] 10.1109/CISDA.2015.7208631.
+85. Moon K, et al. Resistive-switching analogue memory device for neuromorphic application. In: Silicon
+Nanoelectronics Workshop (SNW), 2014 IEEE. Honolulu: IEEE; 2014. p. 1–2. doi:[URL: "http://dx.doi.org/10.1109/SNW.2014.7348602"] 10.1109/SNW.2014.7348602.
+86. Zhou Y, Ramanathan S. Mott memory and neuromorphic devices. Proc IEEE. 2015;103(8):1289–1310.
+87. Srinivasa N, Stepp ND, Cruz-Albrecht J. Criticality as a set-point for adaptive behavior in neuromorphic hardware.
+2015;9:449–56. [URL: "http://dx.doi.org/10.3389/fnins.2015.00449"] http://dx.doi.org/10.3389/fnins.2015.00449.
+88. Xu L, Li C, Chen L. Analog memristor based neuromorphic crossbar circuit for image recognition. In: Intelligent
+Control and Information Processing (ICICIP), 2015 Sixth International Conference On. Wuhan: IEEE; 2015.
+p. 155–160. doi:[URL: "http://dx.doi.org/10.1109/ICICIP.2015.7388161"] 10.1109/ICICIP.2015.7388161.
+89. Ghaderi VS, Song D, Choma J, Berger TW. Nonlinear cognitive signal processing in ultralow-power programmable
+analog hardware. Circ Syst II: Express Briefs, IEEE Trans. 2015;62(2):124–128.
+90. Kang J, et al. Rram based synaptic devices for neuromorphic visual systems. In: 2015 IEEE International Conference
+on Digital Signal Processing (DSP). Singapore: IEEE; 2015. p. 1219–1222. doi:[URL: "http://dx.doi.org/10.1109/ICDSP.2015.7252074"] 10.1109/ICDSP.2015.7252074.
+91. Patel R, Kvatinsky S, Friedman EG, Kolodny A. Multistate register based on resistive RAM. Very Large Scale Integr
+(VLSI) Syst. IEEE Trans. 2015;23(9):1750–1759.
+92. Piccolboni G, Molas G, Portal JM, Coquand R, Bocquet M, Garbin D, Vianello E, Carabasse C, Delaye V,
+Pellissier C, Magis T, Cagli C, Gely M, Cueto O, Deleruyelle D, Ghibaudo G, Salvo BD, Perniola L. Investigation of
+the potentialities of vertical resistive ram (vrram) for neuromorphic applications. In: 2015 IEEE International Electron
+Devices Meeting (IEDM); 2015. p. 17–211724. doi:[URL: "http://dx.doi.org/10.1109/IEDM.2015.7409717"] 10.1109/IEDM.2015.7409717.
+Page 18
+Soman et al. Big Data Analytics (2016) 1:15  Page 18 of 19
+93. Garbin D, Vianello E, Bichler O, Rafhay Q, Gamrat C, Ghibaudo G, DeSalvo B, Perniola L. Electron Devices, IEEE
+Trans. 2015;62(8):2494–501.
+94. Jang JW, Park S, Jeong Y-H, Hwang H. Reram-based synaptic device for neuromorphic computing. In: 2014 IEEE
+International Symposium on Circuits and Systems (ISCAS). Melbourne VIC: IEEE; 2014. p. 1054–1057.
+doi:[URL: "http://dx.doi.org/10.1109/ISCAS.2014.6865320"] 10.1109/ISCAS.2014.6865320.
+95. Wang Z, Ambrogio S, Balatti S, Ielmini D. A 2-transistor/1-resistor artificial synapse capable of communication and
+stochastic learning in neuromorphic systems. Front Neurosci. 2014;8. doi:[URL: "http://dx.doi.org/10.3389/fnins.2014.00438"] 10.3389/fnins.2014.00438. [URL: "http://journal.frontiersin.org/article/10.3389/fnins.2014.00438/full"] http://journal.
+ frontiersin.org/article/10.3389/fnins.2014.00438/full. Accessed 27 Sept 2016.
+96. Zhang D, et al. Energy-efficient neuromorphic computation based on compound spin synapse with stochastic
+learning. In: 2015 IEEE International Symposium on Circuits and Systems (ISCAS). Lisbon: IEEE; 2015. p. 1538–1541.
+doi:[URL: "http://dx.doi.org/10.1109/ISCAS.2015.7168939"] 10.1109/ISCAS.2015.7168939.
+97. Suri M, Querlioz D, Bichler O, Palma G, Vianello E, Vuillaume D, Gamrat C, DeSalvo B. Bio-inspired stochastic
+computing using binary cbram synapses. Electron Devices IEEE Trans. 2013;60(7):2402–2409.
+98. Palma G, Suri M, Querlioz D, Vianello E, De Salvo B. Stochastic neuron design using conductive bridge RAM. In:
+2013 IEEE/ACM International Symposium on Nanoscale Architectures (NANOARCH). Brooklyn: IEEE Press; 2013. p.
+95–100. doi:[URL: "http://dx.doi.org/10.1109/NanoArch.2013.6623051"] 10.1109/NanoArch.2013.6623051.
+99. Querlioz D, Trauchessec V. Stochastic resonance in an analog current-mode neuromorphic circuit. In: 2013 IEEE
+International Symposium on Circuits and Systems (ISCAS2013). Beijing: IEEE; 2013. p. 1596–1599.
+doi:[URL: "http://dx.doi.org/10.1109/ISCAS.2013.6572166"] 10.1109/ISCAS.2013.6572166.
+100. Han W, Han I. Neuromorphic visual object detection for enhanced driving safety. In: Science and Information
+Conference (SAI), 2015. London: IEEE; 2015. p. 721–726. doi:[URL: "http://dx.doi.org/10.1109/SAI.2015.7237222"] 10.1109/SAI.2015.7237222.
+101. Kim JK, Knag P, Chen T, Zhang Z. A 640m pixel/s 3.65 mw sparse event-driven neuromorphic object recognition
+processor with on-chip learning. In: VLSI Circuits (VLSI Circuits), 2015 Symposium On. IEEE; 2015. p. 50–51.
+102. Maan AK, Kumar DS, Sugathan S, James AP. Memristive threshold logic circuit design of fast moving object
+detection. Very Large Scale Integr (VLSI) Syst IEEE Trans. 2015;23(10):2337–2341.
+103. Reverter Valeiras D, Orchard G, Ieng SH, Benosman RB. Neuromorphic event-based 3d pose estimation. Front
+Neuroscience. 2015;9:522.
+104. Giulioni M, Lagorce X, Galluppi F, Benosman RB. Event-based computation of motion flow on a neuromorphic
+analog neural platform. Front Neurosci. 2016;10:35–48. [URL: "http://dx.doi.org/10.3389/fnins.2016.00035"] http://dx.doi.org/10.3389/fnins.2016.00035.
+105. Censi A, Mueller E, Frazzoli E, Soatto S. A power-performance approach to comparing sensor families, with
+application to comparing neuromorphic to traditional vision sensors. In: 2015 IEEE International Conference on
+Robotics and Automation (ICRA). Seattle: IEEE; 2015. p. 3319–3326. doi:[URL: "http://dx.doi.org/10.1109/ICRA.2015.7139657"] 10.1109/ICRA.2015.7139657.
+106. Mueller E, Censi A, Frazzoli E. Efficient high speed signal estimation with neuromorphic vision sensors. In:
+Event-based Control, Communication, and Signal Processing (EBCCSP), 2015 International Conference on. Krakow:
+IEEE; 2015. p. 1–8. doi:[URL: "http://dx.doi.org/10.1109/EBCCSP.2015.7300672"] 10.1109/EBCCSP.2015.7300672.
+107. Chu M, Kim B, Park S, Hwang H, Jeon M, Lee BH, Lee BG. Neuromorphic hardware system for visual pattern
+recognition with memristor array and CMOS neuron. Ind Electron IEEE Trans. 2015;62(4):2410–419.
+108. Lorenzi P, Sucre V, Romano G, Rao R, Irrera F. Memristor based neuromorphic circuit for visual pattern
+recognition. In: Memristive Systems (MEMRISYS) 2015 International Conference On. Paphos: IEEE; 2015. p. 1–2.
+doi:[URL: "http://dx.doi.org/10.1109/MEMRISYS.2015.7378387"] 10.1109/MEMRISYS.2015.7378387.
+109. Chiang H-JK, Jiang J-HR, Fages F. Reconfigurable neuromorphic computation in biochemical systems. In: 2015
+37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). Milan: IEEE;
+2015. p. 937–940. doi:[URL: "http://dx.doi.org/10.1109/EMBC.2015.7318517"] 10.1109/EMBC.2015.7318517.
+110. Mayr C, Partzsch J, Noack M, Hanzsche S, Scholze S, Hoppner S, Ellguth G, Schuffny R. A biological-realtime
+neuromorphic system in 28 nm cmos using low-leakage switched capacitor circuits. In: IEEE Transactions on
+Biomedical Circuits and Systems; 2014. p. 243–254. doi:[URL: "http://dx.doi.org/10.1109/TBCAS.2014.2379294"] 10.1109/TBCAS.2014.2379294. [URL: "http://ieeexplore.ieee.org/document/7038235"] http://ieeexplore.ieee.org/
+ document/7038235. Accessed 27 Sept 2016.
+111. Thakur CS, Hamilton TJ, Wang R, Tapson J, van Schaik A. A neuromorphic hardware framework based on
+population coding. In: Neural Networks (IJCNN), 2015 International Joint Conference On. Milan: IEEE; 2015. p. 1–8.
+doi:[URL: "http://dx.doi.org/10.1109/IJCNN.2015.7280591"] 10.1109/IJCNN.2015.7280591.
+112. Indiveri G, Douglas R. Neuromorphic cognition. Encycl Comput Neurosci. 1. [URL: "http://www.springerreference.com/index/chapterdbid/348178"] http://www.springerreference.com/
+ index/chapterdbid/348178. Accessed 27 Sept 2016.
+113. Neftci E, Binas J, Rutishauser U, Chicca E, Indiveri G, Douglas RJ. Synthesizing cognition in neuromorphic
+electronic systems. Proc Natl Acad Sci. 2013;110(37):3468–3476.
+114. Clermidy F, et al. Advanced technologies for brain-inspired computing. In: 2014 19th Asia and South Pacific Design
+Automation Conference (ASP-DAC). Singapore: IEEE; 2014. p. 563–569.
+115. Azghadi MR, Indiveri G, Abbott D. Neuromorphic engineering: Neuromimetic computation for understanding the
+brain. Newsletter. 2015;2015. [URL: "http://lifesciences.ieee.org/publications/newsletter/june-2014/568-neuromorphic-engineering-neuromimetic-computation-for-understanding-the-brain"] http://lifesciences.ieee.org/publications/newsletter/june-2014/568-neuromorphic-
+ engineering-neuromimetic-computation-for-understanding-the-brain. Accessed 27 Sept 2016.
+116. Corradi F, Indiveri G. A neuromorphic event-based neural recording system for smart brain-machine-interfaces.
+Biomed Circ Syst IEEE Trans. 2015;9(5):699–709.
+117. Park S, Chu M, Kim J, Noh J, Jeon M, Lee BH, Hwang H, Lee B, Lee B-g. Electronic system with memristive
+synapses for pattern recognition. Scientific reports. 2015;5:10123–32. doi:[URL: "http://dx.doi.org/10.1038/srep10123"] 10.1038/srep10123.
+118. Scott N, Kasabov N, Indiveri G. Neucube neuromorphic framework for spatio-temporal brain data and its python
+implementation. In: Neural Information Processing. Berlin Heidelberg: Springer-Verlag; 2013. p. 78–84.
+doi:[URL: "http://dx.doi.org/10.1007/978-3-642-42051-1"] 10.1007/978-3-642-42051-1.
+119. Mikkelsen KB, Kappel SL, Mandic DP, Kidmose P. Eeg recorded from the ear: Characterizing the ear-eeg method.
+Front Neurosci. 2015;9:438–46. [URL: "http://dx.doi.org/10.3389/fnins.2015.00438"] http://dx.doi.org/10.3389/fnins.2015.00438.
+120. Barzegarjalali S, Parker AC. A hybrid neuromorphic circuit demonstrating schizophrenic symptoms. In: Biomedical
+Circuits and Systems Conference (BioCAS), 2015 IEEE. Atlanta: IEEE; 2015. p. 1–4. doi:[URL: "http://dx.doi.org/10.1109/BioCAS.2015.7348410"] 10.1109/BioCAS.2015.7348410.
+121. Kudithipudi D, Saleh Q, Merkel C, Thesing J, Wysocki B. Design and analysis of a neuromemristive reservoir
+computing architecture for biosignal processing. Front Neurosci. 2015;9:502. [URL: "http://lifesciences.ieee.org/publications/newsletter/june-2014/568-neuromorphic-engineering-neuromimetic-computation-for-understanding-the-brain"] http://lifesciences.ieee.org/
+Page 19
+Soman et al. Big Data Analytics (2016) 1:15  Page 19 of 19
+ publications/newsletter/june-2014/568-neuromorphic-engineering-neuromimetic-computation-for-
+ understanding-the-brain. Accessed 27 Sept 2016.
+122. Lee WW, Kukreja SL, Thakor NV. A kilohertz kilotaxel tactile sensor array for investigating spatiotemporal features in
+neuromorphic touch. In: Biomedical Circuits and Systems Conference (BioCAS), 2015 IEEE. Atlanta: IEEE; 2015. p.
+1–4. doi:[URL: "http://dx.doi.org/10.1109/BioCAS.2015.7348412"] 10.1109/BioCAS.2015.7348412.
+123. Ros PM, Crepaldi M, Demarchi D. A hybrid quasi-digital/neuromorphic architecture for tactile sensing in
+humanoid robots. In: Advances in Sensors and Interfaces (IWASI), 2015 6th IEEE International Workshop on.
+Gallipoli: IEEE; 2015. p. 126–130. doi:[URL: "http://dx.doi.org/10.1109/IWASI.2015.7184930"] 10.1109/IWASI.2015.7184930.
+124. Corradi F, Zambrano D, Raglianti M, Passetti G, Laschi C, Indiveri G. Towards a neuromorphic vestibular system.
+Biomed Circ Syst IEEE Trans. 2014;8(5):669–680.
+125. Chicca E, Stefanini F, Bartolozzi C, Indiveri G. Neuromorphic electronic circuits for building autonomous cognitive
+systems. Proc IEEE. 2014;102(9):1367–1388.
+126. Rongala UB, Mazzoni A, Oddo CM. Neuromorphic artificial touch for categorization of naturalistic textures. In: IEEE
+Transactions on Neural Networks and Learning Systems , vol.PP, no.99; 2015. p. 1–1.
+doi:[URL: "http://dx.doi.org/10.1109/TNNLS.2015.2472477"] 10.1109/TNNLS.2015.2472477.
+127. Diehl PU, Pedroni BU, Cassidy A, Merolla P, Neftci E, Zarrella G. Truehappiness: Neuromorphic emotion
+recognition on truenorth. 2016. Preprint on ArXiv. [URL: "http://arxiv.org/abs/1601.04183"] http://arxiv.org/abs/1601.04183. Accessed 27 Sept 2016.
+128. Katayama Y, Yamane T, Nakano D, Nakane R, Tanaka G. Wave-based neuromorphic computing framework for
+brain-like energy efficiency and integration. In: IEEE Transactions on Nanotechnology. IEEE; 2015. p. 762–769.
+doi:[URL: "http://dx.doi.org/10.1109/TNANO.2016.2545690"] 10.1109/TNANO.2016.2545690.
+129. Manem H, Beckmann K, Xu M, Carroll R, Geer R, Cady NC. An extendable multi-purpose 3d neuromorphic fabric
+using nanoscale memristors. In: 2015 IEEE Symposium on Computational Intelligence for Security and Defense
+Applications (CISDA). Verona: IEEE; 2015. p. 1–8. doi:[URL: "http://dx.doi.org/10.1109/CISDA.2015.7208625"] 10.1109/CISDA.2015.7208625.
+130. Thakur CS, Wang RM, Afshar S, Hamilton TJ, Tapson JC, Shamma SA, van Schaik A. Sound stream segregation: a
+neuromorphic approach to solve the “cocktail party problem” in real-time. Front Neurosci. 2015;9:309–19. [URL: "http://dx.doi.org/10.3389/fnins.2015.00309"] http://
+ dx.doi.org/10.3389/fnins.2015.00309.
+131. Gaspar N, Sondhi A, Evans B, Nikolic K. Live demonstration: A low-power neuromorphic system for retinal
+implants and sensory substitution. In: Biomedical Circuits and Systems Conference (BioCAS), 2015 IEEE. Atlanta:
+IEEE; 2015. p. 1–1. doi:[URL: "http://dx.doi.org/10.1109/BioCAS.2015.7348325"] 10.1109/BioCAS.2015.7348325.
+132. Sheri AM, Hwang H, Jeon M, Lee BG. Neuromorphic character recognition system with two PCMO memristors as
+a synapse. In: IEEE Transactions on Industrial Electronics, vol. 61, no. 6; 2014. p. 2933–941.
+doi:[URL: "http://dx.doi.org/10.1109/TIE.2013.2275966"] 10.1109/TIE.2013.2275966.
+133. Jablonski M, Serrano-Gotarredona T, Linares-Barranco B. High-speed serial interfaces for event-driven
+neuromorphic systems. In: Event-based Control, Communication, and Signal Processing (EBCCSP), 2015
+International Conference on. Krakow: IEEE; 2015. p. 1–4. doi:[URL: "http://dx.doi.org/10.1109/EBCCSP.2015.7300697"] 10.1109/EBCCSP.2015.7300697.
+134. Wen W, et al. An eda framework for large scale hybrid neuromorphic computing systems. In: 2015 52nd
+ACM/EDAC/IEEE Design Automation Conference (DAC). San Francisco: ACM; 2015. p. 1–6.
+doi:[URL: "http://dx.doi.org/10.1145/2744769.2744795"] 10.1145/2744769.2744795.
+135. Xu Y, Thakur CS, Hamilton TJ, Tapson J, Wang R, van Schaik A. A reconfigurable mixed-signal implementation of
+a neuromorphic ADC. In: Biomedical Circuits and Systems Conference (BioCAS), 2015 IEEE. Atlanta: IEEE; 2015. p.
+1–4. doi:[URL: "http://dx.doi.org/10.1109/BioCAS.2015.7348415"] 10.1109/BioCAS.2015.7348415.
+136. Chien CH, Liu SC, Steimer A. A Neuromorphic VLSI Circuit for Spike-Based Random Sampling. In: IEEE Transactions
+on Emerging Topics in Computing. p. 1–1. doi:[URL: "http://dx.doi.org/10.1109/TETC.2015.2424593"] 10.1109/TETC.2015.2424593.
+137. Smith LS. Toward a neuromorphic microphone. Front Neurosci. 2015;9:398–408. doi:[URL: "http://dx.doi.org/10.3389/fnins.2015.00398"] 10.3389/fnins.2015.00398.
+138. Suri M, Parmar V, Singla A, Malviya R, Nair S. Neuromorphic hardware accelerated adaptive authentication
+system. In: Computational Intelligence, 2015 IEEE Symposium Series On. Cape Town: IEEE; 2015. p. 1206–1213.
+doi:[URL: "http://dx.doi.org/10.1109/SSCI.2015.173"] 10.1109/SSCI.2015.173.
+139. Indiveri G, Horiuchi TK. Frontiers in neuromorphic engineering. Front Neurosci. 2011;5:118.
+140. Fairhall AL, Lewen GD, Bialek W, van Steveninck RRdR. Efficiency and ambiguity in an adaptive neural code.
+Nature. 2001;412(6849):787–792.
+141. Thakur CS, Afshar S, Wang RM, Hamilton TJ, Tapson J, van Schaik A. Bayesian estimation and inference using
+stochastic hardware. Front Neurosci. 2016;10:104.
+142. He Y, Geng Z, Zhu Q. Positive and negative correlation input attributes oriented subnets based double parallel
+extreme learning machine (pniaos-dpelm) and its application to monitoring chemical processes in steady state.
+Neurocomputing. 2015;165:171–181.
+143. Thakur CS, Wang R, Afshar S, Hamilton TJ, Tapson J, van Schaik A. An online learning algorithm for neuromorphic
+hardware implementation. 2015. [URL: "https://arxiv.org/abs/1505.02495"] https://arxiv.org/abs/1505.02495. Accessed 27 Sept 2016.
+144. Dora S, Suresh S, Sundararajan N. A sequential learning algorithm for a spiking neural classifier. Applied Soft
+Comput. 2015;36:255–268.
+145. Richter O, Reinhart RF, Nease S, Steil J, Chicca E. Device mismatch in a neuromorphic system implements random
+features for regression. In: Biomedical Circuits and Systems Conference (BioCAS), 2015 IEEE. Atlanta: IEEE; 2015. p.
+1–4. doi:[URL: "http://dx.doi.org/10.1109/BioCAS.2015.7348416"] 10.1109/BioCAS.2015.7348416.
+146. Suri M, Parmar V, Sassine G, Alibart F. Oxram based elm architecture for multi-class classification applications. In:
+Neural Networks (IJCNN), 2015 International Joint Conference On. IEEE; 2015. p. 1–8.
+doi:[URL: "http://dx.doi.org/10.1109/IJCNN.2015.7280603"] 10.1109/IJCNN.2015.7280603.
+147. Kadiyala SP, Sen A, Mahajan S, Wang Q, Lingamneni A, German JS, Hong X, Banerjee A, Palem KV, Basu A.
+Perceptually guided inexact dsp design for power, area efficient hearing aid. In: Biomedical Circuits and Systems
+Conference (BioCAS), 2015 IEEE. IEEE; 2015. p. 1–4. doi:[URL: "http://dx.doi.org/10.1109/BioCAS.2015.7348319"] 10.1109/BioCAS.2015.7348319.
+148. Kim Y, Zhang Y, Li P. Energy efficient approximate arithmetic for error resilient neuromorphic computing. Very
+Large Scale Integr (VLSI) Syst IEEE Trans. 2015;23(11):2733–2737.

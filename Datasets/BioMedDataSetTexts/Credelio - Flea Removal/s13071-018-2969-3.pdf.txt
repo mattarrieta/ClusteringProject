@@ -1,0 +1,889 @@
+Creator: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+Producer: Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+Title: Safety of lotilaner flavoured chewable tablets (CredelioTM) after oral administration in cats
+Keywords: Lotilaner,Credelio™,Safety,Cat,Oral
+ModDate: 2018/07/12 14:35:09+02'00'
+Subject: Parasites & Vectors, 2018, doi:10.1186/s13071-018-2969-3
+Author: Emmanuelle A. Kuntz
+CreationDate: 2018/07/03 03:01:50+08'00'
+xmp:pdf:Keywords: Lotilaner,Credelio™,Safety,Cat,Oral
+xmp:pdf:Producer: Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+xmp:dc:format: application/pdf
+xmp:dc:identifier: 10.1186/s13071-018-2969-3
+xmp:dc:publisher: Parasites & Vectors
+xmp:dc:description: Parasites & Vectors, 2018, doi:10.1186/s13071-018-2969-3
+xmp:dc:subject: Lotilaner; Credelio™; Safety; Cat; Oral
+xmp:dc:title: Safety of lotilaner flavoured chewable tablets (CredelioTM) after oral administration in cats
+xmp:dc:creator: Emmanuelle A. Kuntz; Srinivas Kammanadiminti
+xmp:xmp:MetadataDate: 2018-07-12T14:35:09+02:00
+xmp:xmp:CreateDate: 2018-07-03T03:01:50+08:00
+xmp:xmp:CreatorTool: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+xmp:xmp:ModifyDate: 2018-07-12T14:35:09+02:00
+xmp:xmpMM:DocumentID: uuid:5a246b14-d5da-4c93-8aab-29cc1fdbb604
+xmp:xmpMM:InstanceID: uuid:eb4cf43b-e5e3-441a-af5f-b5057cde8eaa
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:fb515810-1d51-4a99-8302-18d4d0ed0272
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2018-07-07T23:33:18+08:00
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:pdfaSchema:schema: Springer Nature ORCID Schema
+xmp:pdfaSchema:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/
+xmp:pdfaSchema:prefix: sn
+xmp:pdfaProperty:name: authorInfo
+xmp:pdfaProperty:valueType: Bag AuthorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Author information: contains the name of each author and his/her ORCID (ORCiD: Open Researcher and Contributor ID). An ORCID is a persistent identifier (a non-proprietary alphanumeric code) to uniquely identify scientific and other academic authors.
+xmp:pdfaProperty:name: editorInfo
+xmp:pdfaProperty:valueType: Bag EditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Editor information: contains the name of each editor and his/her ORCID identifier.
+xmp:pdfaProperty:name: seriesEditorInfo
+xmp:pdfaProperty:valueType: Bag SeriesEditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Series editor information: contains the name of each series editor and his/her ORCID identifier.
+xmp:pdfaType:type: AuthorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/authorInfo/
+xmp:pdfaType:prefix: author
+xmp:pdfaType:description: Specifies the types of author information: name and ORCID of an author.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an author.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an author.
+xmp:pdfaType:type: EditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/editorInfo/
+xmp:pdfaType:prefix: editor
+xmp:pdfaType:description: Specifies the types of editor information: name and ORCID of an editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an editor.
+xmp:pdfaType:type: SeriesEditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/seriesEditorInfo/
+xmp:pdfaType:prefix: seriesEditor
+xmp:pdfaType:description: Specifies the types of series editor information: name and ORCID of a series editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of a series editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of a series editor.
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdf/1.3/
+xmp:pdfaSchema:prefix: pdf
+xmp:pdfaSchema:schema: Adobe PDF Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A name object indicating whether the document has been modified to include trapping information
+xmp:pdfaProperty:name: Trapped
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/mm/
+xmp:pdfaSchema:prefix: xmpMM
+xmp:pdfaSchema:schema: XMP Media Management Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: UUID based identifier for specific incarnation of a document
+xmp:pdfaProperty:name: InstanceID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: The common identifier for all versions and renditions of a document.
+xmp:pdfaProperty:name: OriginalDocumentID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A reference to the original document from which this one is derived. It is a minimal reference; missing components can be assumed to be unchanged. For example, a new version might only need to specify the instance ID and version number of the previous version, or a rendition might only need to specify the instance ID and rendition class of the original.
+xmp:pdfaProperty:name: DerivedFrom
+xmp:pdfaProperty:valueType: ResourceRef
+xmp:pdfaType:description: Identifies a portion of a document. This can be a position at which the document has been changed since the most recent event history (stEvt:changed). For a resource within an xmpMM:Ingredients list, the ResourceRef uses this type to identify both the portion of the containing document that refers to the resource, and the portion of the referenced resource that is referenced.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Part#
+xmp:pdfaType:prefix: stPart
+xmp:pdfaType:type: Part
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/t/pg/
+xmp:pdfaSchema:prefix: xmpTPg
+xmp:pdfaSchema:schema: XMP Paged-Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A structure containing the characteristics of a font used in a document
+xmp:pdfaProperty:name: Fonts
+xmp:pdfaProperty:valueType: Bag Font
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: XMP08 Spec: An ordered array of plate names that are needed to print the document (including any in contained documents).
+xmp:pdfaProperty:name: PlateNames
+xmp:pdfaProperty:valueType: Seq Text
+xmp:pdfaType:description: A structure containing the characteristics of a font used in a document.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Font#
+xmp:pdfaType:prefix: stFnt
+xmp:pdfaType:type: Font
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdfx/1.3/
+xmp:pdfaSchema:prefix: pdfx
+xmp:pdfaSchema:schema: PDF/X ID Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: ID of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXVersion
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Conformance level of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXConformance
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Company creating the PDF
+xmp:pdfaProperty:name: Company
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Date when document was last modified
+xmp:pdfaProperty:name: SourceModified
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://www.aiim.org/pdfa/ns/id/
+xmp:pdfaSchema:prefix: pdfaid
+xmp:pdfaSchema:schema: PDF/A ID Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Part of PDF/A standard
+xmp:pdfaProperty:name: part
+xmp:pdfaProperty:valueType: Integer
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Amendment of PDF/A standard
+xmp:pdfaProperty:name: amd
+xmp:pdfaProperty:valuBOOKMARKS:
+Abstract
+  Background
+  Methods
+  Results
+  Conclusions
+Background
+Methods
+  Regulatory compliance
+  Animal management
+  Randomisation, blinding and treatment
+  Test article administration
+  General health observations
+  Detailed clinical observations, electrocardiographic and ophthalmoscopic examinations
+  Body weights and food consumption
+  Physical/neurological examinations
+  Clinical pathology and urinalysis
+  Whole blood and pharmacokinetic analysis
+  Gross and microscopic evaluations
+  Statistical methods
+Results and discussion
+  Dose administration
+  General health, detailed clinical observations and ophthalmoscopic evaluations
+  Body weights and food consumption
+  Physical/neurological examinations
+  Electrocardiographic evaluations
+  Clinical pathology
+  Organ weights and gross and microscopic examinations
+  Pharmacokinetic analysis
+Conclusions
+Additional file
+Abbreviations
+Acknowledgements
+Funding
+Availability of data and materials
+Authors’ contributions
+Ethics approval and consent to participate
+Consent for publication
+Competing interests
+Publisher’s Note
+Author details
+References
+Page 1
+Kuntz and Kammanadiminti Parasites & Vectors (2018) 11:409
+https://doi.org/10.1186/s13071-018-2969-3
+RESEARCH  Open Access
+Safety of lotilaner flavoured chewable
+tablets (CredelioTM) after oral
+administration in cats
+Emmanuelle A. Kuntz1* and Srinivas Kammanadiminti2
+French version: Please see Additional file 1 ([URL: "https://doi.org/10.1186/s13071-018-2969-3"] https://doi.org/10.1186/s13071-018-2969-3) for the French translation of the Abstract.
+Abstract
+Background: Lotilaner is a new member of the isoxazoline class for treatment of flea and tick infestations in cats.
+This laboratory study with lotilaner vanilla-yeast flavoured chewable tablets (CredelioTM, Elanco) investigated the
+safety in healthy kittens starting at 8 weeks of age in a randomized, blinded, parallel-group design. Lotilaner tablets
+were given orally once a month over eight months at one, three and five times the upper level of the maximum
+recommended dose range (26 mg/kg).
+Methods: The safety of lotilaner flavoured chewable tablets was assessed in healthy kittens when administered
+orally every 4 weeks for 8 months at the highest recommended dose rates, i.e. 1× (26 mg/kg) and at elevated dose
+rates, i.e. 3× (78 mg/kg) and 5× (130 mg/kg). Sixteen male and 16 female healthy 8-week-old kittens, with a mean
+body weight of 0.79 kg and 0.75 kg, respectively, were randomized to an untreated control group or lotilaner
+groups at dose rates of 26 mg/kg (1×), 78 mg/kg (3×), or 130 mg/kg (5×) every four weeks over eight months. The
+control group was sham-dosed. All animals were fed within 30 minutes prior to treatment. Safety assessment
+included general health observations, detailed clinical observations, complete physical/neurological examinations,
+including ophthalmological examinations, electrocardiographic (ECG) and clinical pathology evaluations
+(haematology, clinical chemistry and urinalysis), food and water consumption, body weight, pharmacokinetic blood
+collections, organ macroscopic and microscopic examinations.
+Results: Systemic exposure to lotilaner was confirmed during the course of the study in all treated animals with
+the exception of the control group. No treatment-related effects were seen on daily clinical observations, food
+consumption (wet), ophthalmoscopic, physical/neurological and microscopic examinations. Statistically significant
+differences were recorded in some of the clinical pathology parameters, body weights, food consumption (dry),
+electrocardiograms, and organ weights, but none of the recorded observations was considered to be of clinical
+relevance.
+Conclusions: Lotilaner, when administered once monthly over eight months at the highest recommended dose
+and overdoses of three- and five-fold, to 8-week-old healthy kittens, is well tolerated.
+Keywords: Lotilaner, Credelio™, Safety, Cat, Oral
+* Correspondence: [URL: "mailto:emmanuelle.kuntz@elanco.com"] emmanuelle.kuntz@elanco.com
+1Elanco Animal Health, Mattenstrasse 24a, CH-4058 Basel, Switzerland
+Full list of author information is available at the end of the article
+© The Author(s). 2018 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License ([URL: "http://creativecommons.org/licenses/by/4.0/"] http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Page 2
+Kuntz and Kammanadiminti Parasites & Vectors (2018) 11:409  Page 2 of 8
+Background
+Infestation by ticks and fleas is a significant health prob-
+lem in cats and dogs as these ectoparasites act as vectors
+for several feline or canine zoonotic diseases. Hence,
+controlling ticks and fleas is an important part of health
+management of pets [1, 2].  While several products are
+available for flea control, options for tick control are lim-
+ited in cats. In this context, having one product that
+treats both ticks and fleas is desirable.
+Isoxazolines are a new chemical class of synthetic par-
+asiticides demonstrated to be effective against ticks and
+fleas [3]. Isoxazolines are safe for mammals due to their
+non-competitive antagonism to GABA (gamma-amino-
+butyric acid) receptor, with higher selectivity for GABA
+receptors in insects or ticks, than for those in mammals,
+including humans. They bind to chloride channels in
+nerve and muscle cells, which blocks the transmission of
+neuronal signals [4–6].
+Lotilaner is a novel isoxazoline recently approved as
+Credelio™ in dogs. Laboratory and field studies have
+established lotilaner as a valuable drug in the manage-
+ment of tick and flea infestations in dogs [7–14].  The
+drug has a half-life of approximately four weeks in cats
+thereby assuring adequate blood levels for at least one
+month [15]. Efficacy evaluation of lotilaner was also con-
+ducted in cats for the same indication [16–18]. Prior to
+approval of the product, its safety must be established in
+the target species.
+The objective of this study was to evaluate the safety
+of lotilaner flavoured chewable tablets, formulated and
+developed specifically for cats, after repeated oral admin-
+istration at the maximum recommended dose and mul-
+tiple overdoses in eight-week-old kittens. The treated
+groups received lotilaner once a month over 8 months.
+The recommended (minimum) monthly dose rate of
+lotilaner is 6 mg/kg with a weight band of four resulting
+in a maximum recommended dose rate of 26 mg/kg.
+Methods
+Regulatory compliance
+This randomized, controlled, blinded study was con-
+ducted with reference to the guidelines for evaluating
+the target animal safety of new pharmaceuticals (VICH
+Guideline 43), and to recognized quality assurance stan-
+dards (United States Food and Drug Administration
+(FDA) Good Laboratory Practice (GLP) Regulations, 21
+Code of Federal Regulations (CFR) Part 58 and the
+Organization for Economic Cooperation and Develop-
+ment (OECD) Series on Principles of Good Laboratory
+Practice and Compliance Monitoring, Number 13)] [19–
+21].  This manuscript was prepared in compliance with
+the ARRIVE Guidelines Checklist for animal in vivo ex-
+periments [22]. 
+Animal management
+A total of 20 male and 20 female experimentally naïve
+domestic short hair kittens approximately 6 weeks of age
+at receipt were acclimatized to the controlled environ-
+ment for two weeks prior to treatment start to facilitate
+baseline data collection. Sixteen male and 16 female ani-
+mals (weighing 0.62–0.98 kg and 0.66–0.91 kg, respect-
+ively, at randomization) were selected and assigned to
+the control or treatment groups on study day -1. Upon
+arrival, the cats were group-housed (four/cage, same
+sex); on study day -1 and for the whole study period, the
+cats were individually housed in stainless steel mobile
+cages with plastic-coated mesh flooring containing ani-
+mal enrichment. At arrival and through 10 weeks of age,
+the animals were offered daily 60 to 80 g of canned food
+(Purina Dietetic Management (DM), St-Louis, USA) and
+dry food (Lab Diet® Certified Feline Diet #5003, PMI Nu-
+trition International, Inc., St-Louis, USA) while after 10
+weeks, only dry food was offered ad libitum to all ani-
+mals with the exception of limited periods prior to treat-
+ment administration. Tap water was available ad libitum
+to all animals. On administration days, the cats were
+fasted for 6 hours prior to the first dosing which in-
+creased by an hour for each subsequent monthly dosing
+until 12 h of fasting was reached by the 6th dose. Fasting
+duration of a maximum of 12 h was continued subse-
+quently. On treatment days, all animals were offered 60
+to 80 g (1st through 5th doses) or 120 to 160 g (6th
+through 8th dose) of canned food (Purina DM) along
+with the daily ration of dry Lab Diet® 30 min prior to
+dosing to improve bioavailability [15].
+Randomisation, blinding and treatment
+Sixteen male and 16 female animals were randomly allo-
+cated on study day -1 to the control group or to the
+treatment groups based on homogenous distribution of
+body weight and sex (4 males and 4 females per group)
+(Table 1).  The four groups were: Group 1: untreated
+control (sham-dosed with 3 ml of tap water); Group 2:
+lotilaner flavoured chewable tablets at a target dose level
+of 26 mg/kg (1×); Group 3: lotilaner flavoured chewable
+tablets at a target dose level of 78 mg/kg (3×); Group 4:
+lotilaner flavoured chewable tablets at a target dose level
+of 130 mg/kg (5×).
+All personnel were unaware of the treatment group al-
+locations except those involved in administration of
+treatments. Histopathological evaluation was conducted
+unblinded.
+Test article administration
+The target dose levels were selected based on the mini-
+mum therapeutic dose (6 mg/kg), when applying a dose
+banding for the available tablet strengths of four times the
+target dose rate leading to approximately the maximum
+Page 3
+Kuntz and Kammanadiminti Parasites & Vectors (2018) 11:409  Page 3 of 8
+Table 1 Range of lotilaner dose rates administered to each of the study groups
+Day of dosing
+1  29  57  85  113
+26 mg/kg (1×)
+Male 27.0–33.8  26.1–31.0  23.5–25.9  25.4–27.8  24.6–27.8
+Female 27.9–32.0  25.0–25.5  24.7–26.1  24.8–27.0  24.3–27.8
+78 mg/kg (3×)
+Male 71.6–87.0  78.8–84.5  80.0–81.2  77.4–80.9  78.5–81.5
+Female 76.9–84.5  76.8–84.5  77.6–79.6  76.7–80.3  77.9–81.1
+130 mg/kg (5×)
+Male 123.5–135.5  130.1–137.4  130.8–134.0  127.9–130.3  131.8–132.6
+Female 121.7–135.2  132.3–136.4  133.3–135.7  127.4–132.1  128.9–132.9 
+141
+25.0–27.3
+25.8–28.1
+77.3–79.7
+76.5–79.2
+129.2–131.7
+128.9–132.5 
+169
+25.1–27.4
+25.6–28.0
+78.8–80.8
+78.2–80.0
+128.8–134.0
+131.4–133.3 
+197
+25.1–26.2
+24.7–27.9
+77.1–78.3
+76.8–79.7
+128.8–129.8
+129.5–131.9
+therapeutic dose of 26 mg/kg and the requirement to test
+multiples of the maximum therapeutic dose, i.e. 3× and
+5× doses. Doses for each individual animal were based on
+each body weight measured the day prior to each day of
+dosing. Tablets (commercial tablets size, not scored) were
+provided, with lotilaner amounts of 12 or 48 mg. An ap-
+propriate combination of the smallest, i.e. 12 mg or the
+largest, i.e. 48 mg tablets was administered to achieve as
+close as possible to the individual target dose. As lotilaner
+absorption has been shown to be increased by food, cats
+were fed within 30 min prior to each dosing [15].
+Tablets were administered per os once every four
+weeks for eight months (on study days 1, 29, 57, 85, 113,
+141, 169 and 197).  Three milliliters of water was then
+given after each administration and the mouth checked
+to ensure the tablets had been swallowed. The control
+animals were sham-treated with 3 ml of tap water.
+General health observations
+All animals were observed twice daily approximately 6 h
+apart for morbidity, mortality and injury.
+Detailed clinical observations, electrocardiographic and
+ophthalmoscopic examinations
+A detailed clinical examination of each cat was per-
+formed on study days -13, -2 and -1 and then on each
+dosing day 8 h (± 1 h) post-dose, once weekly thereafter,
+and on the day of study completion (study day 225). Ob-
+servations included, but were not limited to, evaluation
+of skin, fur, eyes, ears, nose, oral cavity, thorax, abdo-
+men, external genitalia, limbs and feet, respiratory and
+circulatory signs, autonomic effects such as salivation,
+and nervous system effects including tremors, convul-
+sions, reactivity to handling, and unusual behavior.
+Electrocardiographic (ECG) recordings were per-
+formed while the cats were under sedation with keta-
+mine and acepromazine [0.1 ml/kg body weight of
+ketamine (100 mg/ml) and 0.1 ml of acepromazine (10
+mg/ml)] during the acclimation phase on study days -6, 
+and 59, 143, 199 and 224. The ECG tracings from each
+animal were examined by a certified veterinary cardiolo-
+gist for the following variables: heart rate, RR interval,
+PR interval, QT intervals and QRS duration.
+Ophthalmoscopic examinations were conducted by a
+board certified ophthalmologist on all animals on study
+days -4, 99 and 211.
+Body weights and food consumption
+Body weights for all animals were recorded during the
+acclimation phase (study days -12, -9, -7, -5, -2 and -1)
+and at least once weekly during the study. Food con-
+sumption (dry and wet food) was measured and re-
+corded daily.
+Physical/neurological examinations
+Complete physical and neurological examinations were
+conducted on study days -6, 7, 35, 63, 91, 119, 147, 175,
+203 and 224. Assessments of toxicity and health in-
+cluded general condition and behavior; general ocular
+without ophthalmoscope; integument; musculoskeletal;
+gastrointestinal; body temperature; cardiovascular and
+respiratory including assessment by auscultation; repro-
+ductive system; lymphatic, urinary and nervous systems.
+The neurological assessment included observation for
+nystagmus, pupillary response, extensor thrust (muscle
+tone), righting reflex, startle reflex, proprioception, and
+locomotor activity.
+Clinical pathology and urinalysis
+Blood samples were collected from each animal from
+the jugular vein for the evaluation of hematology, clin-
+ical chemistry and coagulation variables at pre-test
+(study day -8 for hematology and clinical chemistry;
+study day -5 for urinalysis and study day -1 for coagula-
+tion),  and on study days 8, 28, 36, 56, 64, 84, 92, 112,
+120, 140, 148, 168, 176, 196, 204 and 223. Urine samples
+were collected (prior to study day -4, 7 days after the
+first dose; then prior to and 7 days after each subsequent
+Page 4
+Kuntz and Kammanadiminti Parasites & Vectors (2018) 11:409  Page 4 of 8
+dose, and prior to termination) by replacing the litter in
+the litter box with NoSorb® for at least 16 h. The
+hematology profile included the following parameters:
+leukocyte count (total and absolute differential), erythro-
+cyte count, hemoglobin, hematocrit, mean corpuscular
+hemoglobin, mean corpuscular volume, mean corpuscu-
+lar hemoglobin concentration (calculated),  reticulocytes
+(aggregate and punctuate) and platelet count. The co-
+agulation parameters included prothrombin time, acti-
+vated partial thromboplastin time (APTT),  and
+fibrinogen. The clinical chemistry profile included alka-
+line phosphatase, total bilirubin (with direct bilirubin if
+total bilirubin exceeded 1 mg/dl), aspartate aminotrans-
+ferase, alanine aminotransferase, gamma glutamyl trans-
+ferase, urea nitrogen, creatinine, total protein, albumin,
+globulin and albumin/globulin ratio (calculated), glucose,
+total cholesterol, triglycerides, electrolytes (sodium, po-
+tassium, chloride),  calcium and phosphorus. Urinalysis
+included the determination of volume, color and appear-
+ance, specific gravity, pH, protein, glucose, bilirubin, ke-
+tones, blood, leukocytes, urobilinogen and microscopy of
+centrifuged sediment.
+Whole blood and pharmacokinetic analysis
+For pharmacokinetic determination, blood samples were
+collected from all animals via the jugular vein for the
+determination of whole blood concentrations of lotilaner
+at predose (study day -1, 29, 57, 85, 113, 141, 169 and
+197);  4 h post-dose on study day 1; predose and 4 h
+post-dose on study day 113; 24 h post-dose on study
+days 2, 30, 58, 86, 114, 142, 170 and 198; and on study
+days 4, 8, 15, 22, 116, 120, 127, 134, 200, 204, 211, 218
+and 225. The samples were analyzed for determination
+of lotilaner concentrations using a validated method by
+HPLC-MS/MS [15].  The pharmacokinetic parameters
+were calculated from the individual concentration vs
+time profiles via non-compartmental analysis. The phar-
+macokinetic parameters included peak values (Cmax
+), ter-
+minal half-life (T1/2
+),  area under the curve (AUC),  and
+accumulation ratio.
+Gross and microscopic evaluations
+At study termination (study day 225), the cats were hu-
+manely euthanized by an intravenous injection of so-
+dium pentobarbital solution followed by exsanguination.
+Gross examinations of tissues were carried out on all an-
+imals according to VICH GL 43 under the supervision
+of a veterinary pathologist [19].  Microscopic examina-
+tions were done by a  board certified veterinary
+pathologist.
+Statistical methods
+All statistical analyses were performed using software
+package SAS/STAT® (Version 14.1, Version 9.4 of the 
+SAS System for Windows, Copyright© 2002-2012 by
+SAS Institute Inc., Cary, NC, USA).
+Endpoints measured once post-treatment (organ
+weights and pharmacokinetic parameters) that did not
+include a pre-treatment measurement were analyzed
+using analysis of variance (ANOVA) with ‘treatment’,
+‘sex’,  and ‘treatment by sex’  as fixed effects [23].  End-
+points measured multiple times post-treatment that in-
+cluded a pre-treatment measurement (body weights,
+ECG parameters, clinical chemistry, hematology, urinaly-
+sis, coagulation, dry food consumption, and wet food
+consumption) were analyzed using repeated measures
+analysis of covariance (RMANCOVA) with ‘treatment’,
+‘time’,  and ‘sex’;  the two-way interactions ‘treatment by
+time’, ‘treatment by sex’, and ‘sex by time’; the three-way
+interaction ‘treatment by time by sex’ and a covariate all
+as fixed effects [24]. The pre-treatment value closest to
+dosing was used as the covariate.
+If the interaction terms were significant (P ≤ 0.10 level
+for two-way interactions and P ≤ 0.05 for the three-way
+interaction), treated groups were compared to the con-
+trol either within each sex (treatment by sex significant),
+within each time point (treatment by time significant) or
+main effect only (neither treatment by sex nor treatment
+by time significant).
+French translation of the Abstract is available in Add-
+itional file 1.
+Results and discussion
+Dose administration
+During the dosing period of the study, the mean doses
+of lotilaner administered for 1×, 3× and 5×, were 26.61,
+79.26 and 131.24 mg/kg, respectively, for males, and
+26.67, 79.28 and 131.30 mg/kg, respectively, for females.
+Thus, the target dose rate planned in the dosage group
+was achieved for all test article treated animals.
+General health, detailed clinical observations and
+ophthalmoscopic evaluations
+No mortality was observed during the course of the
+study with the exception of one death of one female kit-
+ten (3× group: 78 mg/kg),  which was found dead on
+study day 143. The animal had been anesthetized prior
+to electrocardiogram measurement; however, during
+monitoring at the time of removal for the procedure she
+was found dead in the cage. There were no macroscopic
+observations in this animal and microscopic findings
+were limited to mild unilateral tubular regeneration in
+the kidneys. Due to the focal unilateral distribution, low
+severity, and the presence of similar findings in multiple
+animals at the terminal necropsy including controls, this
+kidney finding was not considered to be related to test
+article administration and was considered not to be the
+primarily cause for this animal’s death during anesthesia.
+Page 5
+Kuntz and Kammanadiminti Parasites & Vectors (2018) 11:409  Page 5 of 8
+Table 2 Comparisons (statistically significant) between control and treated groups for QRS duration
+Parameter Sex  Time  Control group Treatment group
+QRS Duration Pooled Day 199  0 mg/kg  1× (26 mg/kg)
+Terminal 0 mg/kg  1× (26 mg/kg)
+Day 59  0 mg/kg  5× (130 mg/kg) 
+t-value
+t(69) 
+= 1.72
+t(69) 
+= 2.22
+t(70) 
+= 1.81 
+P-value
+0.0892
+0.0299
+0.0748
+The animal’s death was considered most likely an aber-
+rant response to anesthesia. Thus, there were no
+treatment-related adverse findings in general health ob-
+servations. No clinical signs associated with lotilaner ad-
+ministration at the tested doses were noted during the
+study. Occasional findings observed, such as abdominal
+distension, soft/watery feces, mild prolapsed rectum,
+swollen muzzle, and scabbed areas at random sites, were
+considered incidental since they commonly occurred in
+animals of this strain and age, were present at a low inci-
+dence, were observed in control animals as well, and/or
+were not dose-dependent.
+No treatment-related effects were observed during
+ophthalmoscopic examinations. One female at 78 mg/kg
+(3× group) had chorioretinitis in the right eye at the in-
+terim (study day 99) and terminal (study day 211) exam-
+inations. The finding was considered incidental since it
+was seen in only one mid-dose animal and was present
+in only one eye.
+Body weights and food consumption
+Body weights of the males at 78 mg/kg (3×) were signifi-
+cantly lower (t(27) 
+= 2.69, P = 0.0122) than those of the
+control males, averaged over all time points. Since no ef-
+fects were observed in males at the higher dose of 130
+mg/kg (5×), dose-dependency to treatment could not be
+established. This correlates with the reduction in food 
+consumption in this group of males. No effects on body
+weight were observed in females at any dose level. Food
+consumption was reduced in treated males (3×) com-
+pared to controls, but not in females. The changes were
+minor and considered non adverse. The reduction in
+food consumption only correlated to decreased body
+weight in males at 78 mg/kg (3×). Wet food consump-
+tion was reduced in males at 26 mg/kg (1×) level com-
+pared to controls. This was considered most likely
+incidental to treatment since it was not seen at the
+higher doses in males or in females at any dose level.
+Therefore, it was concluded that the test article had no
+significant effect on body weights or food consumption.
+Physical/neurological examinations
+No clinically relevant abnormalities attributable to the
+treatment were observed during scheduled physical/
+neurological examinations.
+Electrocardiographic evaluations
+No changes were recorded after auscultation in all treated
+groups. All electrocardiograms were qualitatively and
+quantitatively within normal limits with the exception of
+one animal treated at 130 mg/kg (5×) where an electrical
+alternans on the terminal ECG was recorded. Intraventric-
+ular conduction disturbances are not uncommon in cats
+[25].  Intraventricular conduction disturbances were not
+Table 3 Comparisons (statistically significant) between control and treated groups for clinical pathology
+Parameter Sex  Time  Control group Treatment group t-value (highest)
+Neutrophils Male  Day 8-Day 223  0 mg/kg  1× (26 mg/kg)  t(25) 
+= 2.62
+3× (78 mg/kg)  t(25) 
+= 2.85
+5× (130 mg/kg)  t(25) 
+= 3.60
+Female Day 8-Day 223  0 mg/kg  1× (26 mg/kg)  t(26) 
+= 2.74
+3× (78 mg/kg)  t(24) 
+= 4.22
+5× (130 mg/kg)  t(26) 
+= 3.67
+APTT  Female Overall  0 mg/kg  1× (26 mg/kg)  t(15) 
+= 2.02
+3× (78 mg/kg)  t(15) 
+= 1.84
+Prothrombin time Pooled Day 36-Day 223 0 mg/kg  1× (26 mg/kg)  t(34) 
+= 2.08
+3× (78 mg/kg)  t(37) 
+= 2.04
+5× (130 mg/kg)  t(34) 
+= 1.70
+Globulin Pooled Day 56  0 mg/kg  3× (78 mg/kg)  t(26) 
+= 1.88
+Cholesterol Pooled Day 36-Day 223  3× (78 mg/kg)  t(14) 
+= 3.42
+5× (130 mg/kg)  t(17) 
+= 4.11 
+P-value (lowest)
+0.0147 (on day 223)
+0.0087 (on day 120)
+0.0014 (on day 223)
+0.0110 (on day 196)
+0.0003 (on day 8)
+0.0011 (on day 196)
+0.0606
+0.0855
+0.0457 (on day 92)
+0.0490 (on day 223)
+0.0982 (on day 36)
+0.0709
+0.0041 (on day 223)
+0.0008 (on day 120)
+Page 6
+Kuntz and Kammanadiminti Parasites & Vectors (2018) 11:409  Page 6 of 8
+Fig. 1 Mean lotilaner whole blood concentration-time profiles following eight consecutive monthly oral administrations of 26 (1×), 78 (3×), and
+130 (5×) mg/kg
+associated with clinical signs and hence the conduction
+disturbance is not considered adverse.
+When absolute group mean values were evaluated sta-
+tistically and compared to interval matched vehicle con-
+trol values, the only significant differences involved the
+QRS duration (at days 199 (t(69) 
+= 1.72, P = 0.0892) and
+224 (t(69) 
+= 2.22, P = 0.0299) at 1× and at day 59 at 5×
+(t(70) 
+= 1.81, P = 0.0748). The QRS duration was shorter
+in the 1× group at study day 199 and terminal intervals
+and longer in the 5× group at study day 59 interval
+(Table 2). As the magnitude of the differences was mild,
+the changes were in opposite directions and only oc-
+curred at one of the high dose intervals with no repro-
+ducibility, the differences are likely due to normal
+biological variability and not a test article effect.
+Clinical pathology
+Statistically significant decreases in neutrophils were ob-
+served in males and females at multiple time points
+(study day 8 through 223; for males: up to t(25) 
+= 3.60, P
+= 0.0014; for females: up to t(24) 
+= 4.22, P = 0.0003) at
+all dose levels in comparison with control animals (Table
+3). This finding was considered test article-related, based
+on its consistency over time and in both sexes, but con-
+sidered not to have clinical relevance due to the absence
+of other correlating abnormalities in other parameters.
+There were statistically significant decreases in APTT in
+females overall (all time points combined) at 1× (t(15) 
+=
+2.02, P = 0.0606) and 3× (t(15) 
+= 1.84, P = 0.0855), rela-
+tive to controls. There were also significant decreases
+(up to t(34) 
+= 2.08, P = 0.0457) in prothrombin times at
+multiple time points (study day 36 through 223) at 1×,
+3× and 5×. There were statistically significant increases
+in globulin in pooled (both sexes) on study day 56 at 3×
+(t(26) 
+= 1.88, P = 0.0709),  and cholesterol in pooled 
+samples at multiple time points (study day 36 through
+223) at 3× and 5× (up to t(17) 
+= 4.11, P = 0.0008). These
+effects were minor, did not follow a consistent dose re-
+sponse, lacked correlation to pathology or other study
+endpoints and generally remained within expected his-
+torical ranges and hence considered not clinically rele-
+vant. There were no treatment-related changes in
+urinalysis parameters.
+Organ weights and gross and microscopic examinations
+There were no lotilaner-related macroscopic findings at
+terminal necropsy. Statistically significant absolute organ
+weight changes in the spleen, relative organ weight
+changes in adrenal and kidney, and both absolute and
+relative organ weight changes in brain and thyroids/
+parathyroids (relative) were considered incidental since
+there were no microscopic correlates or relevant clinical
+pathology changes. No definitive test article-related
+changes were observed microscopically.
+Pharmacokinetic analysis
+Regarding pharmacokinetics, lotilaner was not quantifiable
+(below LLOQ) in any untreated animals (control group).
+The variability of lotilaner Cmax 
+and AUC0-672h 
+was similar
+between animals and months throughout the study. This
+demonstrates consistent and adequate exposure of all
+treated cats. Mean systemic exposure (AUC0-672h
+) and Cmax
+values of lotilaner increased with increasing dose in a less
+than dose proportional manner, especially in the 5× group,
+which was approximately 3-fold instead of 5-fold (Fig. 1). A
+moderate degree of accumulation (from single treatment to
+steady state (approximately 5 months) with an accumula-
+tion ratio of approximately 2) was observed for lotilaner.
+This was expected as a normal consequence of the rela-
+tively long half-life (approximately 4 weeks) of the product.
+Page 7
+Kuntz and Kammanadiminti Parasites & Vectors (2018) 11:409  Page 7 of 8
+Conclusions
+Lotilaner, when administered once monthly over eight
+months at the highest recommended dose and overdoses
+of three and five-fold, to 8-week-old healthy kittens, is
+well tolerated. The results show that lotilaner flavoured
+chewable tablets have a wide safety margin when admin-
+istered at monthly intervals to kittens and cats, male or
+female, at the highest dose band rate of 26 mg/kg.
+Additional file
+ Additional file 1: French translation of the Abstract. (PDF 41 kb)
+Abbreviations
+ANOVA: Analysis of variance; APPT: Activated partial thromboplastin time;
+ARRIVE: Animal Research Reporting in vitro Experiments; FDA: Mean systemic
+exposure from 0 to 672 h; CFR: Code of Federal Regulations; Cmax: Peak
+blood concentration; ECG: Electrocardiograms; FDA: United States Food and
+Drug Administration; GLP: Good laboratory practice; OECD: Organization for
+Economic Cooperation and Development; RMANCOVA: Repeated measures
+analysis of covariance; VICH: Veterinary International Conference on
+Harmonization
+Acknowledgements
+We thank the staff of MPI Research, Inc, North Main Street, Mattawan,
+Michigan, US for conducting the study.
+Funding
+All studies were funded by Elanco Animal Health.
+Availability of data and materials
+The data supporting the conclusions of this article are included within the
+article.
+Authors’ contributions
+EAK drafted the manuscript and SK reviewed and edited. Both authors
+participated in the study design, result interpretation and study report
+finalization. All authors read and approved the final manuscript.
+Ethics approval and consent to participate
+The study was based on the guidelines for evaluating the target animal
+safety of new pharmaceuticals (VICH Guideline 43), and to recognized quality
+assurance standards (United States Food and Drug Administration (FDA)
+Good Laboratory Practice (GLP) Regulations, 21 Code of Federal Regulations
+(CFR) Part 58 and the Organization for Economic Cooperation and
+Development (OECD) Series on Principles of Good Laboratory Practice and
+Compliance Monitoring, Number 13) [19–21]. The study protocol was
+reviewed and approved by the study site Ethics Committee (MPI Research,
+Institutional Animal Care & Use Committee, No 382-218, 02 January 2015)
+and the sponsor company’s Institutional Animal Care and Use Committee.
+This manuscript was prepared in compliance with the ARRIVE Guidelines
+Checklist for animal in vivo experiments [22].
+Consent for publication
+Not applicable.
+Competing interests
+EAK and SK are employees of Elanco Animal Health.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Author details
+1Elanco Animal Health, Mattenstrasse 24a, CH-4058 Basel, Switzerland.
+2Elanco Animal Health, 2500 Innovation Way, Greenfield, IN 46140, USA. 
+Received: 8 March 2018 Accepted: 20 June 2018
+References
+1.  Pfister K. In: Schnieder T, editor. Veterinärmedizinische Parasitologie. Parey:
+Stuttgart: Arthropodenbefall bei Hund und Katze; 2006. p. 521–59.
+2.  Chomel B. Tick-borne infections in dogs - an emerging infectious threat. Vet
+Parasitol. 2011;179:294–301.
+3.  Little SE. Lotilaner - a novel systemic tick and flea control product for dogs.
+Parasit Vectors. 2017;10:539.
+4.  Garcia-Reynaga P, Zhao C, Sarpong R, Casida JE. New GABA/glutamate
+receptor target for [(3)H]isoxazoline insecticide. Chem Res Toxicol. 2013;26:
+514–6.
+5.  Gassel M, Wolf C, Noack S, Williams H, Ilg T. The novel isoxazoline
+ectoparasiticide fluralaner: selective inhibition of arthropod γ-aminobutyric
+acid- and L-glutamate-gated chloride channels and insecticidal/acaricidal
+activity. Insect Biochem Mol Biol. 2014;45:111–24.
+6.  Ozoe Y, Asahi M, Ozoe F, Nakahira K, Mita T. The antiparasitic isoxazoline
+A1443 is a potent blocker of insect ligand-gated chloride channels.
+Biochem Biophys Res Commun. 2010;391:744–9.
+7.  Cavalleri D, Murphy M, Gorbea RL, Seewald W, Drake J, Nanchen S.
+Laboratory evaluations of the immediate and sustained effectiveness of
+lotilaner (Credelio™) against three common species of ticks affecting dogs
+in Europe. Parasit Vectors. 2017;10:527.
+8.  Cavalleri D, Murphy M, Seewald W, Drake J, Nanchen S. Assessment of the
+onset of lotilaner (Credelio™) speed of kill of fleas on dogs. Parasit Vectors.
+2017;10:521.
+9.  Cavalleri D, Murphy M, Seewald W, Drake J, Nanchen S. A randomised,
+blinded, controlled field study to assess the efficacy and safety of lotilaner
+tablets (Credelio™) in controlling fleas in client-owned dogs in European
+countries. Parasit Vectors. 2017;10:526.
+10. Cavalleri D, Murphy M, Seewald W, Drake J, Nanchen S. A randomized,
+controlled study to assess the efficacy and safety of lotilaner (Credelio™) in
+controlling ticks in client-owned dogs in Europe. Parasit Vectors. 2017;10:531.
+11. Cavalleri D, Murphy M, Seewald W, Drake J, Nanchen S. Assessment of the
+speed of flea kill of lotilaner (Credelio™) throughout the month following
+oral administration to dogs. Parasit Vectors. 2017;10:529.
+12. Karadzovska D, Chappell K, Coble S, Murphy M, Cavalleri D, Wiseman S, et al.
+A randomized, controlled field study to assess the efficacy and safety of
+lotilaner flavored chewable tablets (Credelio™) in eliminating fleas in client-
+owned dogs in the USA. Parasit Vectors. 2017;10:528.
+13. Murphy M, Cavalleri D, Seewald W, Drake J, Nanchen S. Laboratory
+evaluation of the speed of kill of lotilaner (Credelio™) against Ixodes ricinus
+ticks on dogs. Parasit Vectors. 2017;10:541.
+14. Murphy M, Garcia R, Karadzovska D, Cavalleri D, Snyder D, Seewald W, et al.
+Laboratory evaluations of the immediate and sustained efficacy of lotilaner
+(Credelio™) against four common species of ticks affecting dogs in North
+America. Parasit Vectors. 2017;10:523.
+15. Toutain CE, Seewald W, Jung M. Pharmacokinetics of lotilaner following a
+single oral or intravenous administration in cats. Parasit Vectors. 2018 (In
+press).
+16. Cavalleri D, Murphy M, Seewald W, Drake J, Nanchen S. A randomized,
+controlled field study to assess the efficacy and safety of lotilaner
+(Credelio™) in controlling fleas in client-owned cats in Europe. Parasit
+Vectors. 2018 (In press).
+17. Cavalleri D, Murphy M, Seewald W, Drake J, Nanchen S. Laboratory
+evaluation of the efficacy and speed of kill of lotilaner (Credelio™) against
+Ixodes ricinus ticks on cats. Parasit Vectors. 2018 (In press).
+18. Cavalleri D, Murphy M, Seewald W, Nanchen S. A randomized, controlled field
+study to assess the efficacy and safety of lotilaner (Credelio™) in controlling
+ticks in client-owned cats in Europe. Parasit Vectors. 2018 (In press).
+19. VICH GL 43: Guideline on target animal safety for veterinary pharmaceutical
+products. Belgium;2008.[URL: "http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2009/10/WC500004361.pdf"] http://www.ema.europa.eu/docs/en_GB/document_
+ library/Scientific_guideline/2009/10/WC500004361.pdf. Accessed 12 Feb 2017.
+20. United States Food and Drug Administration. Good laboratory practices
+(GLP) for non-clinical laboratory studies 21 CFR Part 58. 2016. [URL: "https://www.gpo.gov/fdsys/pkg/CFR-2011-title21-vol1/pdf/CFR-2011-title21-vol1-part58.pdf"] https://www.
+ gpo.gov/fdsys/pkg/CFR-2011-title21-vol1/pdf/CFR-2011-title21-vol1-part58.
+ pdf. Accessed 12 Feb 2017.
+21. OECD series on principles of good laboratory practice (GLP) and compliance
+monitoring. 1998. [URL: "http://www.oecd.org/chemicalsafety/testing/oecdseriesonprinciplesofgoodlaboratorypracticeglpandcompliancemonitoring.htm"] http://www.oecd.org/chemicalsafety/testing/oecdseries
+Page 8
+Kuntz and Kammanadiminti Parasites & Vectors (2018) 11:409
+ onprinciplesofgoodlaboratorypracticeglpandcompliancemonitoring.htm.
+Accessed 12 Feb 2017.
+22. Kilkenny C, Browne WJ, Cuthill IC, Emerson M, Altman DG. Improving
+bioscience research reporting: The ARRIVE guidelines for reporting animal
+research. J Pharmacol Pharmacother. 2010;1:94–9.
+23. Snedecor GW, Cochran WG. Statistical Methods. 8th ed. Ames (IA): Iowa
+State Press; 1989.
+24. Milliken GA, Johnson DE. Analysis of Messy Data Volume III: Analysis of
+Covariance. London: Chapman and Hall; 2002.
+25. Tilley L, Smith F, Oyama M, Sleeper M. Manual of Canine and Feline
+Cardiology. 4th ed. Philadephia, USA: Saunders; 2008. p. 62–3. 
+Page 8 of 8

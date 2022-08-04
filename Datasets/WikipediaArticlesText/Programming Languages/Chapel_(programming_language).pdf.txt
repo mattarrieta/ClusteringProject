@@ -1,0 +1,126 @@
+Page 1
+Chapel (programming language)
+ Chapel, the Cascade High Productivity Language, is a parallel
+programming language developed by Cray.[3] It is being
+developed as part of the Cray Cascade project, a participant in
+ DARPA's  [URL: "https://en.wikipedia.org/wiki/High_Productivity_Computing_Systems"] High Productivity Computing Systems (HPCS)
+program, which had the goal of increasing [URL: "https://en.wikipedia.org/wiki/Supercomputer"] supercomputer
+productivity by 2010. It is being developed as an [URL: "https://en.wikipedia.org/wiki/Open-source_software"] open source
+project, under version 2 of the [URL: "https://en.wikipedia.org/wiki/Apache_license"] Apache license.[4] 
+Chapel
+Contents
+Goals
+Features
+See also
+Notes
+References
+Further reading
+External links
+Goals
+Chapel aims to improve the programmability of [URL: "https://en.wikipedia.org/wiki/Parallel_computer"] parallel computers
+in general and the Cascade system in particular, by providing a
+higher level of expression than current programming languages do
+and by improving the separation between algorithmic expression
+and [URL: "https://en.wikipedia.org/wiki/Data_structure"] data structure implementation details.
+The language designers aspire for Chapel to bridge the gap
+between current [URL: "https://en.wikipedia.org/wiki/High_performance_computing"] HPC programming practitioners, who they
+describe as Fortran, C or C++ users writing [URL: "https://en.wikipedia.org/wiki/Procedural_code"] procedural code using
+technologies like [URL: "https://en.wikipedia.org/wiki/OpenMP"] OpenMP and [URL: "https://en.wikipedia.org/wiki/Message_passing_interface"] MPI on one side, and newly
+graduating computer programmers who tend to prefer Java, Python
+or Matlab with only some of them having experience with C++ or
+C. Chapel should offer the productivity advances offered by the
+latter suite of languages while not alienating the users of the first.[2]
+Features
+Chapel supports a [URL: "https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)"] multithreaded parallel programming model at a
+ high level by supporting abstractions for data parallelism, task
+parallelism, and [URL: "https://en.wikipedia.org/w/index.php?title=Nested_parallelism&action=edit&redlink=1"] nested parallelism. It enables optimizations for the
+ locality of data and computation in the program via abstractions for 
+ Paradigm [URL: "https://en.wikipedia.org/wiki/Object-oriented_programming"] Object-oriented
+ Partitioned global
+address space
+ Parallel
+programming
+ Designed by David Callahan,
+Hans Zima, Brad
+Chamberlain,
+John Plevyak
+ Developer [URL: "https://en.wikipedia.org/wiki/Cray"] Cray Inc.
+First appeared 2009
+ Stable release 1.25.1 /
+December 9, 2021
+ Typing
+discipline 
+ static
+ inferred
+ Platform multiplatform
+ OS  [URL: "https://en.wikipedia.org/wiki/Mac_OS"] Mac OS, Linux,
+POSIX, [URL: "https://en.wikipedia.org/wiki/Windows"] Windows
+(with Cygwin)
+[URL: "https://en.wikipedia.org/wiki/Software_license"] License [URL: "https://en.wikipedia.org/wiki/Apache_License_2.0"] Apache License
+2.0
+ Filename
+extensions 
+.chpl
+Website [URL: "https://chapel-lang.org/"] chapel-lang.org (h
+ttps://chapel-lang.
+org/)
+Influenced by
+Ada, [URL: "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"] C#,[1] C, Fortran, [URL: "https://en.wikipedia.org/wiki/C%2B%2B"] C++, Java,
+HPF, ZPL, [URL: "https://en.wikipedia.org/wiki/Cray_MTA"] Cray MTA / [URL: "https://en.wikipedia.org/wiki/Cray_XMT"] XMT
+extensions to C and Fortran.[2]
+Page 2
+data distribution and [URL: "https://en.wikipedia.org/wiki/Data-driven_programming"] data-driven placement of subcomputations. It allows for [URL: "https://en.wikipedia.org/wiki/Code_reuse"] code reuse and generality
+through [URL: "https://en.wikipedia.org/wiki/Object-oriented"] object-oriented concepts and [URL: "https://en.wikipedia.org/wiki/Generic_programming"] generic programming features. For instance, Chapel allows for the
+declaration of locales.[5]
+While Chapel borrows concepts from many preceding languages, its parallel concepts are most closely
+based on ideas from [URL: "https://en.wikipedia.org/wiki/High_Performance_Fortran"] High Performance Fortran (HPF), ZPL, and the [URL: "https://en.wikipedia.org/wiki/Cray_MTA-2"] Cray MTA's extensions to [URL: "https://en.wikipedia.org/wiki/Fortran"] Fortran and
+C.
+See also
+ Coarray Fortran
+ Fortress
+ Unified Parallel C
+ X10
+ RaftLib
+Notes
+1. [URL: "http://chapel.cray.com/spec/spec-0.98.pdf"] "Chapel spec (Acknowledgments)" (http://chapel.cray.com/spec/spec-0.98.pdf) (PDF). Cray
+Inc. 2015-10-01. Retrieved 2016-01-14.
+2. [URL: "http://chapel.cray.com/papers/BriefOverviewChapel.pdf"] Chamberlain, Bradford L. "A Brief Overview of Chapel" (http://chapel.cray.com/papers/BriefO
+verviewChapel.pdf) (PDF). Cray Inc. Retrieved 22 April 2015.
+3. [URL: "https://archive.org/details/modularprogrammi00ligh"] Lightfoot, David E. (2006). Modular programming languages: 7th Joint Modular Languages
+ Conference (https://archive.org/details/modularprogrammi00ligh). p. 20 (https://archive.org/d
+etails/modularprogrammi00ligh/page/n27). ISBN 978-[URL: "https://en.wikipedia.org/wiki/Special:BookSources/978-3-540-40927-4"] 3-540-40927-4.
+4. [URL: "http://chapel.cray.com/license.html"] "Chapel license" (http://chapel.cray.com/license.html). Chapel.Cray.com. Retrieved
+November 15, 2015.
+5. Bongen Gu; Wikuan Yu; Yoonsik Kwak (June 28–30, 2011). "Communication and
+Computation Overlap through Task Synchronization in Multi-locale Chapel Environment". In
+James J. Park, Laurence T. Yang and Changhoon Lee (ed.). Future Information Technology,
+Part I: 6th International Conference. Loutraki, Greece: Springer-Verlag. pp. 285–292.
+doi:[URL: "https://doi.org/10.1007%2F978-3-642-22333-4_37"] 10.1007/978-3-642-22333-4_37 (https://doi.org/10.1007%2F978-3-642-22333-4_37).
+ISBN 978-[URL: "https://en.wikipedia.org/wiki/Special:BookSources/978-3-642-22332-7"] 3-642-22332-7.
+References
+Chamberlain, Bradford L. (2011). "Chapel (Cray Inc. HPCS Language)". In Padua, David
+(ed.). Encyclopedia of Parallel Computing, Volume 4. Springer. ISBN 9780387097657.
+Further reading
+ Brueckner, Rich (August 6, 2014). "Why Chapel for Parallel Programming?" (http://insidehp
+c.com/2014/08/chapel-parallel-programming/). InsideHPC. Retrieved 2015-03-23.
+Dun, Nan; Taura, K. (2012). "An Empirical Performance Study of Chapel Programming
+Language". Parallel and Distributed Processing Symposium Workshops & PHD Forum
+ (IPDPSW), 2012 IEEE 26th International. IEEE: 497–506. doi:10.1109/IPDPSW.2012.64 (htt
+ps://doi.org/10.1109%2FIPDPSW.2012.64). ISBN 978-[URL: "https://en.wikipedia.org/wiki/Special:BookSources/978-1-4673-0974-5"] 1-4673-0974-5.
+Padua, David, ed. (2011). Encyclopedia of Parallel Computing. Vol. 4. Springer Science &
+Business Media. pp. 249–256. ISBN 9780387097657.
+Page 3
+ Panagiotopoulou, K.; Loidl, H. W. (2016). "Transparently Resilient Task Parallelism for
+Chapel" (https://ieeexplore.ieee.org/document/7530055/) Parallel and Distributed
+Processing Symposium Workshops (IPDPSW), 2016 IEEE International Symposium,
+ Chicago, IL. doi: 10.1109/IPDPSW.2016.102 (https://doi.org/10.1109%2FIPDPSW.2016.10
+2) ISBN 978-[URL: "https://en.wikipedia.org/wiki/Special:BookSources/978-1-5090-3682-0"] 1-5090-3682-0
+External links
+ Official website (http://chapel.cray.com/)
+ chapel (https://github.com/chapel-lang/chapel) on [URL: "https://en.wikipedia.org/wiki/GitHub"] GitHub
+ 99 bottles of beer in Chapel (http://99-bottles-of-beer.net/language-chapel-1215.html)
+Retrieved from "[URL: "https://en.wikipedia.org/w/index.php?title=Chapel_(programming_language)&oldid=1080427176"] https://en.wikipedia.org/w/index.php?title=Chapel_(programming_language)&oldid=1080427176"
+This page was last edited on 1 April 2022, at 06:19 (UTC).
+Text is available under the [URL: "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"] Creative Commons Attribution-ShareAlike License 3.0;additional terms may apply. By
+using this site, you agree to the [URL: "https://foundation.wikimedia.org/wiki/Terms_of_Use"] Terms of Use and [URL: "https://foundation.wikimedia.org/wiki/Privacy_policy"] Privacy Policy. Wikipedia® is a registered trademark of the
+ Wikimedia Foundation, Inc., a non-profit organization.

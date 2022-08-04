@@ -1,0 +1,1358 @@
+Creator: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+Producer: Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+Title: Anti-Ebola therapy for patients with Ebola virus disease: a systematic review
+Keywords: Ebola,Drug therapy,Systematic review
+ModDate: 2019/05/02 17:18:45+02'00'
+Subject: BMC Infectious Diseases, 2019, doi:10.1186/s12879-019-3980-9
+Author: James S. Lee
+CreationDate: 2019/05/01 16:33:22+08'00'
+xmp:pdf:Keywords: Ebola,Drug therapy,Systematic review
+xmp:pdf:Producer: Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+xmp:dc:format: application/pdf
+xmp:dc:identifier: 10.1186/s12879-019-3980-9
+xmp:dc:publisher: BMC Infectious Diseases
+xmp:dc:description: BMC Infectious Diseases, 2019, doi:10.1186/s12879-019-3980-9
+xmp:dc:subject: Ebola; Drug therapy; Systematic review
+xmp:dc:title: Anti-Ebola therapy for patients with Ebola virus disease: a systematic review
+xmp:dc:creator: James S. Lee; Neill K. J. Adhikari; Henry Y. Kwon; Koren Teo; Reed Siemieniuk; François Lamontagne; Adrienne Chan; Sharmistha Mishra; Srinivas Murthy; Peter Kiiza; Jan Hajek; Elhadj I. Bah; Marie-Claire Lamah; Raymond Kao; Robert A. Fowler
+xmp:xmp:MetadataDate: 2019-05-02T17:18:45+02:00
+xmp:xmp:CreateDate: 2019-05-01T16:33:22+08:00
+xmp:xmp:CreatorTool: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+xmp:xmp:ModifyDate: 2019-05-02T17:18:45+02:00
+xmp:xmpMM:DocumentID: uuid:59824cc5-a64c-4091-b846-dcab5a758ffa
+xmp:xmpMM:InstanceID: uuid:2cb87026-df33-46ea-9963-1cd5757f1ec9
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:21adcdbc-35d2-4264-a812-8596d6242d33
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2019-05-01T16:41:34+08:00
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:author:name: Neill K. J. Adhikari
+xmp:author:orcid: http://orcid.org/0000-0003-4038-5382
+xmp:pdfaSchema:schema: Springer Nature ORCID Schema
+xmp:pdfaSchema:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/
+xmp:pdfaSchema:prefix: sn
+xmp:pdfaProperty:name: authorInfo
+xmp:pdfaProperty:valueType: Bag AuthorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Author information: contains the name of each author and his/her ORCID (ORCiD: Open Researcher and Contributor ID). An ORCID is a persistent identifier (a non-proprietary alphanumeric code) to uniquely identify scientific and other academic authors.
+xmp:pdfaProperty:name: editorInfo
+xmp:pdfaProperty:valueType: Bag EditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Editor information: contains the name of each editor and his/her ORCID identifier.
+xmp:pdfaProperty:name: seriesEditorInfo
+xmp:pdfaProperty:valueType: Bag SeriesEditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Series editor information: contains the name of each series editor and his/her ORCID identifier.
+xmp:pdfaType:type: AuthorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/authorInfo/
+xmp:pdfaType:prefix: author
+xmp:pdfaType:description: Specifies the types of author information: name and ORCID of an author.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an author.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an author.
+xmp:pdfaType:type: EditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/editorInfo/
+xmp:pdfaType:prefix: editor
+xmp:pdfaType:description: Specifies the types of editor information: name and ORCID of an editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an editor.
+xmp:pdfaType:type: SeriesEditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/seriesEditorInfo/
+xmp:pdfaType:prefix: seriesEditor
+xmp:pdfaType:description: Specifies the types of series editor information: name and ORCID of a series editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of a series editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of a series editor.
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdf/1.3/
+xmp:pdfaSchema:prefix: pdf
+xmp:pdfaSchema:schema: Adobe PDF Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A name object indicating whether the document has been modified to include trapping information
+xmp:pdfaProperty:name: Trapped
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/mm/
+xmp:pdfaSchema:prefix: xmpMM
+xmp:pdfaSchema:schema: XMP Media Management Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: UUID based identifier for specific incarnation of a document
+xmp:pdfaProperty:name: InstanceID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: The common identifier for all versions and renditions of a document.
+xmp:pdfaProperty:name: OriginalDocumentID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A reference to the original document from which this one is derived. It is a minimal reference; missing components can be assumed to be unchanged. For example, a new version might only need to specify the instance ID and version number of the previous version, or a rendition might only need to specify the instance ID and rendition class of the original.
+xmp:pdfaProperty:name: DerivedFrom
+xmp:pdfaProperty:valueType: ResourceRef
+xmp:pdfaType:description: Identifies a portion of a document. This can be a position at which the document has been changed since the most recent event history (stEvt:changed). For a resource within an xmpMM:Ingredients list, the ResourceRef uses this type to identify both the portion of the containing document that refers to the resource, and the portion of the referenced resource that is referenced.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Part#
+xmp:pdfaType:prefix: stPart
+xmp:pdfaType:type: Part
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/t/pg/
+xmp:pdfaSchema:prefix: xmpTPg
+xmp:pdfaSchema:schema: XMP Paged-Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A structure containing the characteristics of a font used in a document
+xmp:pdfaProperty:name: Fonts
+xmp:pdfaProperty:valueType: Bag Font
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: XMP08 Spec: An ordered array of plate names that are needed to print the document (including any in contained documents).
+xmp:pdfaProperty:name: PlateNames
+xmp:pdfaProperty:valueType: Seq Text
+xmp:pdfaType:description: A structure containing the characteristics of a font used in a document.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Font#
+xmp:pdfaType:prefix: stFnt
+xmp:pdfaType:type: Font
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdfx/1.3/
+xmp:pdfaSchema:prefix: pdfx
+xmp:pdfaSchema:schema: PDF/X ID Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: ID of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXVersion
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Conformance level of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXConformance
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Company creating the PDF
+xmp:pdfaProperty:name: Company
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Date when document was last modified
+xmp:pdfaProperty:name: SourceModified
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://www.aiim.org/pdfa/ns/id/
+xmp:pdfaSchema:prefix: pdfaid
+xmp:pdfaSchema:schema: PDF/A ID Schema
+xmp:pdfaProperty:category: internBOOKMARKS:
+Abstract
+  Background
+  Methods
+  Results
+  Conclusions
+Background
+Methods
+  Literature search
+  Selection criteria
+  Data extraction and quality appraisal
+  Statistical analysis
+Results
+  Study selection
+  RCT and non-randomized studies
+  Case series and reports
+Discussion
+Conclusions
+Additional file
+Abbreviations
+Acknowledgements
+Funding
+Availability of data and materials
+Authors’ contributions
+Ethics approval and consent to participate
+Consent for publication
+Competing interests
+Publisher’s Note
+Author details
+References
+Page 1
+Lee et al. BMC Infectious Diseases (2019) 19:376
+https://doi.org/10.1186/s12879-019-3980-9
+RESEARCH ARTICLE  Open Access
+Anti-Ebola therapy for patients with Ebola
+virus disease: a systematic review
+James S. Lee1, Neill K. J. Adhikari2* [URL: "http://orcid.org/0000-0003-4038-5382"] , Henry Y. Kwon3, Koren Teo4, Reed Siemieniuk5, François Lamontagne6,
+Adrienne Chan7, Sharmistha Mishra8, Srinivas Murthy9, Peter Kiiza10, Jan Hajek11, Elhadj I. Bah12,
+Marie-Claire Lamah13, Raymond Kao14 and Robert A. Fowler2
+Abstract
+Background: Management of Ebola virus disease (EVD) has historically focused on infection prevention, case
+detection and supportive care. Several specific anti-Ebola therapies have been investigated, including during the
+2014–2016 West African outbreak. Our objective was to conduct a systematic review of the effect of anti-Ebola virus
+therapies on clinical outcomes to guide their potential use and future evaluation.
+Methods: We searched PubMed, EMBASE, Global Health, Cochrane Library, African Index Medicus, WHOLIS
+(inception-9 April 2018), and trial registries for observational studies or clinical trials, in any language, that
+enrolled patients with confirmed EVD who received therapy targeting Ebola virus and reported on mortality,
+symptom duration, or adverse effects.
+Results: From 11,257 citations and registered trials, we reviewed 55 full-text citations, of which 35 met eligibility
+criteria (1 randomized clinical trial (RCT), 8 non-randomized comparative studies, 9 case series and 17 case reports)
+and collectively examined 21 anti-Ebola virus agents. The 31 studies performed during the West African outbreak
+reported on 4.8% (1377/28616) of all patients with Ebola. The only RCT enrolled 72 patients (0.25% of all patients
+with Ebola) and compared the monoclonal antibody ZMapp vs. standard care (mortality, 22% vs. 37%; 95%
+confidence interval for risk difference, − 36 to 7%). Studies of convalescent plasma, interferon-β-1a, favipiravir,
+brincidofovir, artesunate-amodiaquine and TKM-130803 were associated with at least moderate risk of bias.
+Conclusions: Research evaluating anti-Ebola virus agents has reached very few patients with EVD, and inferences
+are limited by non-randomized study designs. ZMapp has the most promising treatment signal.
+Keywords: Ebola, Drug therapy, Systematic review
+Background
+The West African Ebola virus disease (EVD) epidemic of
+2014 to 2016 resulted in at least 28,616 cases and at least
+11,310 deaths [1]. Case management in prior Ebola virus
+outbreaks has generally focused on isolating patients
+with EVD, infection prevention and control procedures,
+and various degrees of basic supportive care [2]. During
+the West African outbreak, management of EVD in-
+volved progressively more advanced supportive care for
+patients [3–5].  At the onset of the outbreak, mortality
+* Correspondence: [URL: "mailto:neill.adhikari@utoronto.ca"] neill.adhikari@utoronto.ca
+2Department of Critical Care Medicine, Sunnybrook Health Sciences Centre
+and Interdepartmental Division of Critical Care Medicine and Institute forHealth Policy, Management, and Evaluation, University of Toronto, Toronto,
+ON, Canada
+Full list of author information is available at the end of the article 
+was approximately 74% [6],  but eventually fell to 31–
+37% [7, 8], perhaps due to improved early case finding
+and supportive care. Specific anti-Ebola virus treatment
+was only rarely available in West Africa. In contrast,
+among patients evacuated to European and American
+hospitals who received intensive care and anti-Ebola
+virus treatments, mortality was 18.5% [3, 9–13].
+In prior outbreaks, there was little support to conduct
+trials, which meant there was limited evidence to guide
+clinical care during the recent West Africa outbreak.
+Several anti-Ebola virus treatments had been offered and
+administered to patients in West Africa, the United
+States and Europe. Most of these treatments had only
+recently been developed, not administered as part of a
+methodologically rigorous study or trial design, and
+© The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License ([URL: "http://creativecommons.org/licenses/by/4.0/"] http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Page 2
+Lee et al. BMC Infectious Diseases (2019) 19:376  Page 2 of 11
+therefore their net effects are unknown. To assess their
+potential benefit, we systematically reviewed the litera-
+ture for all clinical studies that included specific
+anti-Ebola virus treatments administered to patients with
+EVD and reported on mortality, symptom duration, or
+adverse effects.
+Methods
+There is no published protocol for this review.
+Literature search
+With the assistance of a medical librarian, we searched
+MEDLINE, EMBASE, Global Health, Cochrane Library,
+African Index Medicus, and World Health Organization
+Global Index Medicus (WHOLIS) from inception to 9
+April 2018. In MEDLINE and EMBASE, controlled vo-
+cabulary terms were combined with keywords for EVD
+and a broad range of study design terms, including but
+not limited to a sensitive search filter for randomized
+clinical trials (RCTs) of therapy [14, 15]. Full details of
+the searches are available in Additional file 1. We also
+searched Google, Google Scholar, and trial registries’
+websites [16–19].  The reference lists of all relevant re-
+trieved manuscripts were screened and hand-searched,
+and Ebola clinical care experts were consulted to identify
+any additional studies.
+Selection criteria
+We included studies with at least one patient with con-
+firmed EVD of any age who received a therapy specifically
+targeting Ebola virus itself or its clinical consequences (in-
+cluding blood component-based strategies) and reporting
+on at least one outcome of interest (mortality, symptom
+duration after anti-Ebola treatment initiation, and adverse
+effects of the treatment). Eligible study designs included
+RCTs, non-randomized single-arm intervention studies
+(with or without a control group), prospective and retro-
+spective cohort studies, and case reports and case series,
+without regard to publication language or date. We ex-
+cluded studies of supportive care therapies that did not
+specifically target the Ebola virus (e.g. intravenous fluids,
+electrolyte and metabolic support, and organ-supportive
+care such as mechanical ventilation and renal replace-
+ment),  vaccines for EVD primary prevention or post-
+exposure prophylaxis, and pre-clinical studies
+(e.g. involving animals or cell lines or computer models)
+of anti-Ebola treatments.
+Two review authors (JSL and HYK),  independently
+and in duplicate, screened titles and abstracts of re-
+trieved citations and independently assessed full-text
+manuscripts of citations considered potentially eligible
+by either reviewer. Disagreements were resolved by con-
+sensus through discussion with two additional authors
+(NKJA and RAF). 
+Data extraction and quality appraisal
+Two review authors (JSL and HYK) independently and in
+duplicate extracted data, including patient baseline char-
+acteristics (age, sex), study methods (design, eligibility cri-
+teria, and for RCTs, method of randomization, allocation
+concealment and blinding),  study interventions and
+co-interventions, and clinical outcomes of interest (mor-
+tality at the latest time point available, adverse effects).
+Three review authors (JSL, KT, RAF) assessed the risk
+of bias in the included studies using the Cochrane Col-
+laboration’s Risk of Bias 2.0 tool for RCTs [20] and the
+ROBINS-I tool for non-randomized intervention and
+cohort studies [21]; a fourth author (NKJA) verified se-
+lected methodological details of these studies.
+Statistical analysis
+Where meta-analyses were not possible, we report the
+results as stated in the included studies. For each
+anti-Ebola virus treatment, we calculated the number
+and proportion of patients who died. If warranted on the
+basis of a sufficient number of trials (greater than or
+equal to 3) and sufficient clinical and methodological
+homogeneity, we planned meta-analyses of studies of the
+same intervention, using risk ratios and 95% confidence
+intervals (CI) to summarize dichotomous outcomes and
+weighted or standardized mean differences for continu-
+ous outcomes. We planned to assess between-study stat-
+istical heterogeneity using the I2 measure [22] and to use
+inverse-variance weighted random-effects models [23]
+for all meta-analyses to incorporate both between- and
+within-study variation. We considered P ≤ 0.05 (two
+sided) as statistically significant.
+Results
+Study selection
+From 11,257 citations and studies listed in trial regis-
+tries, 55 studies were selected for full-text review, of
+which 35 met eligibility criteria (Fig. 1):  1 RCT [24], 8
+non-randomized intervention and cohort studies [25–
+32], 9 case series [11, 33–40], and 17 case reports pub-
+lished in 16 citations [10, 13, 41–54]. These 35 studies
+collectively examined 21 anti-Ebola agents, including 9
+antivirals, 6 blood- or blood component-based therapies,
+3 monoclonal antibody treatments, 2 vascular leak syn-
+drome treatments (previously described for other indica-
+tions [55, 56]),  and 1 antimalarial drug, which we
+included because of the possibility of anti-Ebola virus
+effects [57]. Thirty-one eligible studies, published in 30
+citations, were conducted during the 2014–2016 West
+African outbreak [10, 11, 13, 24–32, 36–40, 42–54] and
+reported on 4.8% (1377/28616) of all patients with a
+diagnosis of EVD.
+Page 3
+Lee et al. BMC Infectious Diseases (2019) 19:376  Page 3 of 11
+Fig. 1 Flow of studies through the systematic review
+RCT and non-randomized studies
+Details of the setting, the intervention and control
+groups from one RCT and 8 non-randomized interven-
+tion studies of anti-Ebola therapies are reported in
+Table 1. The 8 non-randomized intervention studies in-
+clude 3 single-arm intervention studies with concurrent
+controls, 3 single-arm intervention studies with histor-
+ical controls, 1 single-arm uncontrolled intervention
+study, and 1 retrospective cohort study. The only RCT
+[24],  which examined an anti-Ebola virus monoclonal
+antibody (ZMapp), enrolled 72 patients (0.25% of all pa-
+tients with Ebola from the West African outbreak). Al-
+though the trial’s risk of bias is low (Table 2),  the
+number of patients enrolled is small and the results are
+accordingly imprecise (Table 3).  Mortality was 22% (8/
+36) in the ZMapp group and 37% (13/35) in the stand-
+ard care group. Using Bayesian analysis, the posterior
+probability that ZMapp was superior to usual care was
+91.2%,  failing to meet the pre-specified threshold of
+97.5%.  Frequentist analysis showed a statistically non- 
+significant risk difference of 15% favouring ZMapp (95%
+confidence interval [CI], − 36% [favouring ZMapp] to 7%
+[favouring usual care]).
+Risk of bias in all non-randomized single-arm intervention
+studies of convalescent plasma [28], whole blood [26], favi-
+piravir [29],  interferon-β-1a [27],  artesunate-amodiaquine
+[32], TKM-130803 [25], and brincidofovir [31] was at least
+moderate (Table 2). Comparisons of mortality and adverse
+events between intervention and control arms were limited
+by non-randomized study designs (Table 3).
+In the study of convalescent plasma, the intervention
+was associated with mortality of 31% (26/84) compared
+to 38% (158/418) in the historical control group, with an
+adjusted odds ratio of death of 0.88 (95% CI, 0.51 to
+1.51) [28].  Limitations of this study include unknown
+level of neutralizing antibodies in plasma, small sample
+size in the intervention group, lack of data on the deliv-
+ery of co-interventions and supportive care, and inclu-
+sion of historical controls. Among patients treated with
+convalescent whole blood [26],  mortality was 28% (12/
+Page 4
+Lee et al. BMC Infectious Diseases (2019) 19:376  Page 4 of 11
+Table 1 Randomized trial and non-randomized studies of anti-Ebola therapies
+Agent
+Citation 
+Setting (n centres) Intervention group (n included in analysis) Control group (n included in analysis)
+Randomized clinical trial
+ZMapp
+PREVAIL II Writing
+group, 2016 [24] 
+Liberia, Sierra Leone,
+Guinea, USA (11 centres) 
+ZMapp 50 mg/kg IV
+every 3 days (n = 36) 
+Standard carea (n = 35)
+Non-randomized single-arm intervention study with concurrent controls
+TKM-130803
+Dunning et al., 2016 [25] 
+Port Loko, Sierra Leone
+(1 centre) 
+TKM-130803 infusion
+0.3 mg/kg IV daily for
+up to 7 days (n = 12)
+Convalescent whole blood
+Sahr et al., 2017 [26] 
+Wilberforce and Hastings,
+Freetown, Sierra
+Leone (2 centres) 
+Convalescent whole
+blood 450 ml (n = 43)
+Interferon β-1a
+Konde et al., 2017 [27]b 
+Coyah, Guinea
+(1 centre for intervention
+and the majority
+of control patients) 
+Interferon-β-1a 30 μg
+subcutaneously (n = 9) 
+Standard carea (n = 3)
+Standard carea (n = 25)
+Standard carea (n = 38)
+Non-randomized single-arm intervention study with historical controls
+Convalescent plasma
+van Griensven
+et al., 2016 [28] 
+Conakry, Guinea (1 centre) Convalescent plasma
+200–250 ml (or 10
+ml/kg if < 45 kg);
+two consecutive transfusions
+with each unit obtained
+from a separate
+convalescent donor (n = 84)
+Favipiravir
+Sissoko et al., 2016 [29] 
+Guinea (Conakry,
+Gueokedou, Macenta,
+Nzerekore) (4 centres
+for intervention
+patients; control
+patients from Guinea) 
+Favipiravir (oral) 6000 mg
+on day 0, then 2400
+mg daily on
+days 1 to 9 (n = 111)
+Favipiravir
+Bai et al., 2016 [30] 
+Jui Town, Sierra Leone
+(1 centre) 
+Favipiravir T-705 (oral)
+800 mg twice on day
+0 and two doses of
+600 mg on subsequent
+days, ranging from 3
+to 11 days, until
+discharge, transfer,
+or death (n = 39) 
+Standard carea (n = 418)
+Standard carea (n = 540) c
+Standard care (IV fluids limited)a (n = 85)
+Non-randomized single-arm intervention study without controls
+Brincidofovir
+Dunning et al., 2016 [31] 
+Monrovia, Liberia (1 centre) Brincidofovir (oral) on
+day 0, 3, 7, 10, and
+14 + standard carea (n = 4) 
+None
+Retrospective cohort study
+Artesunate-amodiaquine
+Gignoux et al., 2016 [32] 
+Foya, Lofa County,
+Liberia (1 centre) 
+Artesunate-amodiaquine (n = 71)  Artemether-lumefantrine
+(n = 194); no anti-malarial
+drugs (n = 63)
+Abbreviations: USA United States of America
+aStandard care and supportive care include any of intravenous fluids, antimicrobial and anti-malarial treatment, electrolyte replacement, medications for
+symptomatic management, nutritional support, laboratory tests, and hemodynamic monitoring. Medications, laboratory tests, and frequency of hemodynamic
+monitoring varied among each respective treatment centre
+bThis study uses the term ‘historical controls’, but reports that 21 of the 38 controls were recruited at the same time and in the same centre as patients in the
+intervention arm [27]. The remaining 17 controls were treated in other centres in Guinea. We therefore classified the study as using concurrent controls
+cThis study presents data on mortality in historical controls in an appendix and used these data to calculate the sample size
+43) compared to 44% (11/25) in a concurrent standard
+care group. However, the intervention was not randomly
+assigned, leading to overall moderate risk of bias from
+confounding due to baseline and treatment-related 
+differences, in addition to uncertainty in original patient
+selection criteria.
+Favipiravir was investigated in a non-randomized
+single-arm study (n = 126) [29].  Among 99 adult and
+Page 5
+Lee et al. BMC Infectious Diseases (2019) 19:376  Page 5 of 11
+Table 2 Risk of bias in a randomized trial and non-randomized studies of anti-Ebola therapies
+Agent
+Citation 
+Bias arising
+from the
+randomization
+process 
+Bias due to Bias in  Bias in  Bias due to
+confounding selection classification deviations from
+of  of  intended
+participants interventions interventions 
+Bias due to
+missing
+outcome
+data 
+Bias in  Bias in
+outcomes selection of
+measurement results
+reported 
+Overall
+risk of
+bias
+Randomized clinical trial
+ZMapp
+PREVAIL II
+Writing
+Group, 2016
+[24] 
+Low  N/A  N/A  N/A  Some concerns Low  Low  Low  Low
+Non-randomized single-arm intervention study with concurrent controls
+TKM-130803 N/A
+Dunning et
+al., 2016 [25] 
+Moderate Moderate Low  Low  Low  Low  Low  Moderate
+Convalescent
+whole blood
+Sahr et al.,
+2017 [26] 
+N/A  Moderate Low to  Moderate
+moderate 
+Moderate Low  Low  Low  Moderate
+Interferon β-
+1a
+Konde et al.,
+2017 [27] 
+N/A  Moderate to Low
+serious 
+Moderate to Low
+low 
+Low  Low  Low  Moderate
+Non-randomized, single-arm, intervention study with historical control
+Convalescent
+plasma
+van
+Griensven et
+al., 2016 [28] 
+N/A  Serious Moderate Low  Low  Low  Low  Low  Moderate
+Favipiravir N/A
+Sissoko et al.,
+2016 [29] 
+Serious to  Low
+critical 
+Low  Moderate Low  Low  Low  Moderate
+Favipiravir
+Bai et al.,
+2016 [30] 
+N/A  Serious Moderate Moderate Moderate Moderate Moderate Low  Moderate
+Non-randomized single-arm intervention study without controls
+Brincidofovir N/A
+Dunning et
+al., 2016 [31] 
+Critical Low to  Low
+moderate 
+Moderate Low  Low  Low  Moderate
+Retrospective cohort study
+Artesunate-
+amodiaquine
+Gignoux et
+al., 2016 [32] 
+N/A  Moderate to Moderate Moderate
+serious 
+Low  Low  Low  Low  Moderate
+Abbreviations: N/A not applicable
+adolescent patients evaluated, favipiravir was generally
+well tolerated. However, the lack of a concurrent con-
+trol group and uncertainty in patient selection criteria
+leads to moderate risk of bias. In another non-
+randomized single-arm study, mortality was 44%
+(17/39) in the favipiravir group and 65% (55/85) in
+the historical control group; however, the non-
+random assignment of the intervention, lack of a
+concurrent control group, and the potential for differ-
+ential between-group treatments lead again to moder-
+ate risk of bias [30]. 
+Interferon β-1a was examined in a non-randomized
+single-arm study and compared to controls, finding 21-day
+mortality of 33% (3/9) in the interferon β-1a group and
+84% (32/38) in the expanded control group [27].  The
+non-random assignment of the intervention, lack of a
+priori sample size calculation, and potential for differential
+between-group treatments lead to moderate risk of bias.
+In a retrospective cohort study of patients with EVD
+during a period when artemether-lumefantrine was used
+in an Ebola treatment unit for empiric anti-malarial
+treatment, mortality was 64% (125/194),  compared to
+Page 6
+Lee et al. BMC Infectious Diseases (2019) 19:376  Page 6 of 11
+Table 3 Design and outcomes in a randomized trial and non-randomized studies of anti-Ebola therapies
+Agent
+Citation 
+Primary outcome
+Selected details of design 
+Dates of study  Mortality
+Reason for termination 
+Adverse events
+Randomized clinical trial
+ZMapp
+PREVAIL II
+Writing
+group, 2016
+[24] 
+28-day mortality  March–November 2015
+• Adaptive design: plan to update Trial closed in January
+standard-of-care treatment with the 2016 after affected
+investigational drug, if efficacious in countries declared
+interim analysis  nearly Ebola free
+• All patients recruited in Guinea
+received favipiravir as standard of
+care
+• 6 randomization strata: baseline
+PCR CT value (≤22 vs. > 22) and
+location (Liberia/Sierra Leone vs.
+Guinea vs. USA); in analysis, location
+strata changed to Liberia/Sierra
+Leone/USA vs. Guinea
+• Planned maximum sample size,
+n = 200 (100 per group) 
+• 28-day mortality:
+22% (8/36), intervention
+37% (13/35), control
+• Bayesian RD − 14% [95% CrI,
+−34% to 6%]
+• Bayesian RR 0.62 [95% CrI, 0.29
+to 1.24]
+• Posterior probability that
+intervention was superior to
+control, 91.2% (below pre-
+specified probability threshold
+of 97.5%) 
+• Serious adverse events:
+31% (11/36), intervention
+37% (13/35), control; p = 0.62
+• One serious adverse event
+(hypertension) judged to be
+related to the ZMapp infusion
+Non-randomized single-arm intervention study with concurrent controls
+TKM-130803
+Dunning et
+al., 2016 [25] 
+14-day survival, excluding deaths March–June 2015
+within 48 h of ETC admission Study closed after
+• Concurrent observational cohort for futility boundary
+patients who did not meet  reached
+additional criteria for drug infusion
+• Plan for randomization of eligible
+patients to intervention vs. control
+arm if number of eligible patients
+exceeded available treatment beds;
+this scenario did not happen
+• Planned maximum sample size,
+n = 100 
+• 14-day mortality (intervention):
+75% (9/12)
+79% (11/14), if the additional 2
+patients who died within 48 h
+are included
+• Probability of 14-day survival,
+given 48-h survival, 0.27 [95%
+CI, 0.06 to 0.58]
+• 2 of 3 patients in the
+observational cohort died 
+One patient had worsening
+tachypnea within 48 h of the
+second TKM-130803 infusion;
+event felt to be compatible with
+progression of EVD
+Convalescent
+whole blood
+Sahr et al.
+2017 [26] 
+Not stated; mortality and other
+outcomes reported
+• Patients who did not consent to
+intervention were recruited into
+control arm
+• No sample size calculation 
+December 2014–April
+2015
+Reason for stopping
+not stated 
+• Mortality:
+28% (12/43), intervention
+44% (11/25), control
+• One patient who received
+intervention dropped out and
+is excluded from the
+denominator
+• ORsurvival 
+with intervention, 2.3
+(95% CI, 0.8 to 6.5) 
+None
+Interferon β-
+1a
+Konde et al.
+2017 [27] 
+Clearance and/or reduction in viral
+RNA from day 1 to day 10, as
+determined by PCR and/or
+quantitative real time PCR
+• 21 control patients admitted to the
+same ETC during the same time
+period as the treated patients
+• 17 more control patients selected;
+they matched treated patients on
+specified criteria and received care
+in a Guinean ETC; time period of
+treatment of these additional
+controls not stated
+• ‘sample size of 30–50 chosen to
+assess feasibility’ 
+March–June 2015
+Reason for stopping
+not stated 
+• 21-day mortality: Not reported
+33% (3/9), intervention
+84% (32/38), all controls
+81% (17/21), controls from same
+ETC
+log-rank p = 0.026 comparing
+intervention to 21 controls
+• Multiple regression models
+reported
+ORmortality 
+with intervention,
+adjusted for CT, 0.13 (p = 0.022;
+CI not reported)
+Non-randomized, single-arm, intervention study with historical control
+Convalescent
+plasma
+van
+Griensven et
+al., 2016 [28] 
+14-day mortality (including deaths
+from days 3 to 16 after PCR
+confirmation of EVD)
+• Control patients treated in the
+same ETC before the start of the
+study
+• Planned sample size, n = 260 (130
+per group) 
+February–August 2015
+Study closed in July
+2015 due to low
+caseload 
+• Mortality 3–16 days after
+diagnosis:
+31% (26/84), intervention
+38% (158/418), control
+34% (30/88), intervention, if 15
+patients who also received it
+are included, of whom 4 died
+before day 3 
+• No serious adverse events
+• 8 patients had adverse reactions
+during or early after the infusion
+5 increase in temperature
+4 itching or skin rash
+1 nausea
+2 reactions requiring reduction in
+infusion rate
+Page 7
+Lee et al. BMC Infectious Diseases (2019) 19:376  Page 7 of 11
+Table 3 Design and outcomes in a randomized trial and non-randomized studies of anti-Ebola therapies (Continued)
+Agent
+Citation 
+Primary outcome
+Selected details of design 
+Dates of study  Mortality
+Reason for termination 
+Adverse events
+• ORmortality 
+with intervention,
+adjusted for age and CT, 0.88
+(95% CI, 0.51 to 1.51)
+Favipiravir
+Sissoko et al.,
+2016 [29] 
+14-day mortality (changed to ‘on-trial December 2014–April
+mortality’ to include 1 patient who 2015
+died at day 17)  Study closed due to
+• Control patients (n = 540) from low caseload
+database of MSF ETCs in forested
+Guinea
+• Initial sample size, n = 180 (60 per
+group defined by age and time of
+treatment after symptom onset;
+definition of strata changed to
+include age and CT) 
+Mortality:
+54% (60/111), intervention
+58% (315/540), control
+51% (64/126), intervention, if 15
+patients who also received it
+are included, of whom 4 died
+Adjusted analysis not reported 
+• Vomiting within 30 min of pill
+intake occurred in 30 instances
+(2%) in 21 patients.
+• No severe adverse events
+Favipiravir
+Bai et al.,
+2016 [30] 
+Mortality (time not specified)
+• Intervention patients treated 1–10
+November 2014
+• Control patients treated in the
+same ETC, 10–30 October
+• Intravenous fluids limited in the
+study ETC 
+10 October-10 Novem-
+ber 2014
+Study closed when
+research team rotated
+out of ETC 
+Mortality:
+44% (17/39), intervention
+65% (55/85), control
+[unadjusted p = 0.027]
+Adjusted analysis not reported 
+Not reported
+Non-randomized single-arm intervention study without controls
+Brincidofovir
+Dunning et
+al. 2016 [31] 
+14-day mortality
+• No control group
+• Planned maximum sample size,
+n = 140 
+January 2015
+Study closed because
+manufacturer stopped
+participation in all
+studies of brincidofovir
+for EVD 
+14-day mortality:
+100% (4/4) 
+• No serious adverse reactions
+• No serious unexpected serious
+adverse reactions
+• Concern that intervention might
+have contributed to persistent
+diarrhea in 1 patient
+Retrospective cohort study
+Artesunate- Mortality (time not specified)
+amodiaquine Cohort study based on natural
+Gignoux et al. experiment: 71 patients prescribed
+2016 [32]  artesunate–amodiaquine because of
+shortage artemether–lumefantrine
+(given to 194 patients) 
+June–October 2014
+Study closure: not
+applicable 
+• Mortality: 50.7% (36/71),  Not described
+artesunate-amodiaquine;
+64.4% (125/194), artemether-
+lumefantrine; 65.1% (41/63), no
+anti-malaria drugs
+• Adjusteda RRmortality 
+0.69
+[95% CI 0.54 to 0.89]
+Data are as reported in the primary studies. Abbreviations: CI confidence interval, CrI credible interval, CT cycle time, ETC Ebola Treatment Center, EVD Ebola virus
+disease, IV intravenous, MSF Médecins Sans Frontières, N/A Not Applicable, OR odds ratio, PCR polymerase chain reaction, RD risk difference, RNA ribonucleic
+acid, RR risk ratio
+aAdjusted for age, sex, CT value, time from symptom onset to admission, malaria test result, receipt or no receipt of IV fluids, and number of inpatients at the ETC
+on the day of patient admission
+50% (36/71) during a period of drug shortage when
+artesunate-amodiaquine was used instead [32]. However,
+there is moderate risk of bias due to the potential for
+unmeasured residual confounding; in addition, the bio-
+logical plausibility of artesunate-amodiaquine as an
+anti-Ebola virus agent is uncertain.
+In two non-randomized single-arm studies, TKM-
+130803 was associated with a 14-day mortality of 75%
+(9/12) compared 67% (2/3) mortality in the control
+group [25], and brincidofovir-associated 14-day mortality
+was 100% (4/4) [31]. The study designs lead to moderate
+risk of bias.
+Given the small number of studies (often only one) of
+any single intervention and substantial heterogeneity in
+study design, we did not conduct any meta-analyses. 
+Case series and reports
+Study details for 26 case series and case reports (re-
+ported in 25 publications) are presented in Additional
+file 1: Table S1, including the number of patients, coun-
+try of infection, location of clinical care, anti-Ebola virus
+treatment given, critical care interventions, and clinical
+outcomes. Duplicate patient descriptions were noted
+among 13 manuscripts. One case series described pa-
+tients (some previously reported in other studies) who
+received care in Europe or the USA [39],  and another
+case series described patients (some previously reported
+in other studies) who received care in Sierra Leone [40].
+Excluding these two cases series, a total of 32 patients
+receiving anti-Ebola virus therapies were described in
+case series and case reports, with a mortality of 22% (7/
+Page 8
+Lee et al. BMC Infectious Diseases (2019) 19:376  Page 8 of 11
+32).  Some patients received > 1 anti-Ebola virus agent,
+including blood-based therapies (n = 25),  monoclonal
+antibodies (n = 10), antivirals (n = 19), and therapies for
+vascular leak syndrome (n = 3).
+Among these 26 case series and case reports, 3 case
+series described 11 patients who received anti-Ebola
+virus therapies (convalescent whole blood, Virustat
+[acyclovir],  gamma globulin, Marburg convalescent
+plasma) in Africa prior to the West African EVD out-
+break of 2014–2016. An additional report described a
+patient who received anti-Ebola virus therapies (conva-
+lescent plasma, human interferon) in the United King-
+dom prior to the West African EVD outbreak. Four
+reports described 4 patients who received anti-Ebola
+virus treatment in West Africa (convalescent whole
+blood, ZMapp, convalescent leukocytes, GS-5743, favi-
+piravir) during the 2014–2016 outbreak. Three case
+series and 1 case report described 4 patients who initially
+received anti-Ebola virus therapies in West Africa (con-
+valescent whole blood, ZMapp, TKM-100802) before
+transfer to the USA. Finally, 3 case series and 1 case re-
+port described 5 patients who received anti-Ebola virus
+therapies solely in the USA, and 8 case reports described
+7 patients who received anti-Ebola virus therapies solely
+in Europe.
+Additional file 1: Table S2 presents the number of pa-
+tients and mortality rates of 18 patients who were
+treated with an anti-Ebola virus therapy in addition to
+receiving intensive care. Mortality was 29% (2/7) in pa-
+tients who received positive pressure ventilation, 25% (6/
+24) in those who received central venous access or
+hemodynamic support, 40% (2/5) in those who received
+renal replacement therapy, 15% (2/13) in those who re-
+ceived non-convalescent blood product transfusions, and
+14% (1/7) in those who received parental nutrition. No
+information about critical care interventions was de-
+scribed in the remaining 14 patients
+Additional file 1: Table S3 characterizes the setting,
+anti-Ebola virus therapy, primary outcome, and status of
+9 registered trials of anti-Ebola treatments that have not
+yet been completed or published as of the search date of
+April 2018. Crude mortality is described in 9 case series
+and 17 case reports of anti-Ebola virus treatments
+(Additional file 1: Table S4)
+Discussion
+In this systematic review, we identified 1 RCT, 8 non-
+randomized single-arm intervention studies and cohort
+studies, 9 case series and 17 case reports evaluating 21
+anti-Ebola virus therapies. The single RCT evaluated the
+monoclonal antibody ZMapp, had a low risk of bias, and
+found a statistically non-significant decrease in mortal-
+ity. All interventions evaluated in non-randomized
+studies, including convalescent whole blood or 
+plasma, interferon β-1a, favipiravir and the antimalar-
+ial artesunate-amodiaquine, were associated with an
+overall moderate risk of bias, and in some cases ser-
+ious or critical risk of bias due to confounding, se-
+verely limiting inferences regarding treatment effects.
+The non-randomized evaluations of brincidofovir and
+TKM-130803 do not provide evidence to support fu-
+ture evaluation.
+The strengths of this study include a comprehensive
+search of published and available non-published clinical
+literature, triplicate and independent assessment of risk
+of bias according to the Cochrane framework, and dupli-
+cate independent data abstraction. Our review is the first
+to summarize all such literature in humans with EVD. A
+previous systematic review included drug screening and
+pre-clinical studies and fewer clinical studies (n = 9) than
+we included, and focused on identifying existing drugs
+with potential therapeutic effect [58]. Other reviews pro-
+vide further information on selected clinical studies of
+anti-Ebola virus therapies [59, 60], in addition to details
+of in vitro and animal studies [59].
+However, there are many limitations of such a review.
+We are limited in inferences due to the moderate to ser-
+ious risk of bias of the majority of studies and the small
+number of enrolled patients, leading to one RCT and
+many non-randomized studies all under-powered to de-
+tect differences in mortality. The small number of stud-
+ies (often only one) of any single intervention and
+important heterogeneity in study design precluded
+meta-analyses. Several agents with promising pre-clinical
+findings or case report-based evaluations cannot yet be
+evaluated for effectiveness based on existing data and
+study designs. These include the nucleotide analogue
+prodrug remdesivir (GS-5734), the monoclonal antibody
+cocktail REGN3470–3471-3479, and the monoclonal
+antibody MAb114 [61], which in addition to ZMapp and
+favipiravir, have been evaluated by a World Health
+Organization-convened independent scientific commit-
+tee for monitored emergency use of unregistered and in-
+vestigational interventions, while awaiting additional
+evidence [62].  Finally, peer review and evaluations of
+additional therapies may be forthcoming; however, we
+believe that we are unlikely to have missed any publica-
+tions of evaluable treatment effects.
+Evaluating the effect of treatments on clinical out-
+comes of patients with EVD is challenging because of its
+uncommon, periodic, and lethal nature. There have been
+few pre-existing therapies with strong evidence of poten-
+tial treatment effect, making prioritization difficult for
+clinicians, researchers, regulators and funders. Out-
+breaks have occurred in resource-challenged health sys-
+tems in West Africa and most recently in DR Congo,
+Central Africa [63], often in remote areas with delayed
+recognition of the outbreak’s onset [64, 65].  Small
+Page 9
+Lee et al. BMC Infectious Diseases (2019) 19:376  Page 9 of 11
+outbreaks may end before any clinical or research re-
+sponse. A historically high mortality rate, including
+among healthcare workers, leads to diminished clinical
+capacity for care and research, but also a reluctance to
+consider using the methodologically strongest RCT de-
+sign because of the implication that some patients will
+not receive a potentially beneficial investigational agent.
+The variable standard of supportive care contributes to a
+baseline high mortality rate but also makes estimation of
+treatment effects difficult, possibly leading to selection
+of patients who are poorly responsive to investigational
+anti-Ebola virus agents and an inability to compare ther-
+apies across studies [6, 66].  Uniform adoption of
+evidence-based supportive care guidelines [67] in future
+outbreaks may facilitate the evaluation of anti-Ebola
+virus therapies.
+West African nations most affected in 2014–2016 had
+not previously experienced an Ebola outbreak, and there
+was limited pre-existing Ebola-specific clinical and re-
+search capacity. With overwhelmed national healthcare
+systems and a slow international response, there was lit-
+tle opportunity to evolve interventional research pro-
+grams in parallel with outbreak care. Eventually, early
+diagnostic and descriptive studies gave rise to an appre-
+ciation of the potential impact of supportive and specific
+EVD therapy [39, 66]. However, among 28,616 infected
+patients, fewer than 5% had any therapies described or
+evaluated and only 0.25% participated in a RCT.
+This review is a comprehensive summary of data col-
+lected on the effects of specific anti-Ebola therapies.
+Given Ebola’s high mortality rate, sparse treatment op-
+tions, and high capacity for spread, it is imperative that
+an adequate research capacity in Ebola outbreak-prone
+regions be developed and well-supported by the inter-
+national community. Rigorous prior knowledge synthesis
+is critical to plan relevant future research. At this stage,
+the small number of patients exposed to each interven-
+tion and design-related limitations preclude strong infer-
+ences on clinical effectiveness. However, a  better
+understanding of the paucity of supportive evidence is
+valuable for various stakeholders. Decision-makers con-
+fronted with EVD outbreaks in the future may use these
+results to prioritize or avoid system-wide delivery of cer-
+tain experimental interventions. Guideline developers
+might use the evidence summary to make graded recom-
+mendations regarding specific anti-Ebola virus therapies.
+Lastly, highlighting the insufficiencies of the existing
+body of evidence could help researchers to design future
+studies for implementation during an outbreak and to
+prioritize experimental therapies for future evaluation.
+Conclusions
+In this systematic review, we found only one RCT of
+anti-Ebola virus therapy that was associated with a low 
+risk of bias and a signal of a treatment effect, suggesting
+that the monoclonal antibody ZMapp should be priori-
+tized for further evaluation in another EVD outbreak.
+Moderate to serious risk of bias and small sample sizes
+preclude strong inferences regarding the clinical effects
+of convalescent whole blood or plasma, favipiravir, inter-
+feron β-1a, and the antimalarial artesunate-amodiaquine.
+Additional file
+ Additional file 1: Appendix. Search strategy and supplementary tables.
+(PDF 575 kb)
+Abbreviations
+CI: Confidence Interval; EVD: Ebola virus disease; RCT: Randomized clinical
+trial
+Acknowledgements
+Not applicable.
+Funding
+This study was supported by a grant from the Canadian Institutes of Health
+Research, which had no role in the design of the study; collection, analysis,
+and interpretation of data; or in writing the manuscript.
+Availability of data and materials
+All data generated or analysed during this study are included in this
+published article (and its supplementary information files).
+Authors’ contributions
+JSL, NKJA, and RAF conceived and designed the study, acquired data,
+analyzed and interpreted data, drafted the manuscript, and revised the
+manuscript. HYK and KT acquired data, analyzed and interpreted data, and
+revised the manuscript. RS, FL, AC, SM1, SM2, PK, JH, EIB, MCL, and RK
+analyzed and interpreted data and revised the manuscript. NKJA and RAF
+contributed equally to the manuscript. All authors read and approved the
+final manuscript.
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+Sharmistha Mishra is a member of the editorial board of BMC Infectious
+Diseases but was not involved in editorial decisions related to this
+manuscript. The remaining authors declare that they have no competing
+interests.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Author details
+1Interdepartmental Division of Critical Care Medicine, University of Toronto,
+Toronto, ON, Canada. 2Department of Critical Care Medicine, Sunnybrook
+Health Sciences Centre and Interdepartmental Division of Critical Care
+Medicine and Institute for Health Policy, Management, and Evaluation,
+University of Toronto, Toronto, ON, Canada. 3Duke University Medical Center,
+Durham, NC, USA. 4Canadian Forces Health Services Group (CFHS), Toronto,
+ON, Canada. 5Department of Health Research Methods, Evidence, and
+Impact, McMaster University, Hamilton, ON, Canada. 6Centre de recherche du
+CHUS de Sherbrooke and Department of Medicine, Division of Critical Care
+Medicine, Université de Sherbrooke, Sherbrooke, QC, Canada. 7Division of
+Infectious Diseases, Sunnybrook Health Sciences Centre and University of
+Toronto, Toronto, ON, Canada. 8Li Ka Shing Knowledge Institute and Division
+Page 10
+Lee et al. BMC Infectious Diseases (2019) 19:376  Page 10 of 11
+of Infectious Diseases, St. Michael’s Hospital and University of Toronto,
+Toronto, ON, Canada. 9Department of Paediatrics, University of British
+Columbia, Vancouver, BC, Canada. 10Department of Critical Care Medicine,
+Sunnybrook Health Sciences Centre, University of Toronto, Toronto, ON,
+Canada. 11Division of Infectious Diseases, University of British Columbia,
+Vancouver, BC, Canada. 12Ministère de la santé, Conakry, Guinea. 13Service de
+la pédiatrie, l’Hôpital Régional de Kindia, Kindia, Guinea. 14Division of Critical
+Care Medicine, Western University, London, ON, Canada.
+Received: 15 August 2018 Accepted: 11 April 2019
+References
+1.  World Health Organization: Situation Report. Ebola Virus Disease. 10 June
+2016. 2017.
+2.  Feldmann H, Geisbert TW. Ebola haemorrhagic fever. Lancet. 2011;377(9768):
+849–62.
+3.  Leligdowicz A, Fischer WA 2nd, Uyeki TM, Fletcher TE, Adhikari NK, Portella
+G, Lamontagne F, Clement C, Jacob ST, Rubinson L, et al. Ebola virus disease
+and critical illness. Crit Care. 2016;20(1):217.
+4.  Langer M, Checcarelli E, Gottardello D, Giovanella E, Monti G, Rossi N,
+Scaccabarozzi G, Sisillo E, Turella M, Tagliabue P, et al. Con EMERGENCY
+contro Ebola in Sierra Leone [Italian]. Ricerca e Pratica. 2015;31(2):61–9.
+5.  Hunt L, Lee JS. Empiric intravenous fluid and electrolyte therapy in patients
+with Ebola virus disease. Trop Dr. 2016;46(3):148–50.
+6.  Schieffelin JS, Shaffer JG, Goba A, Gbakie M, Gire SK, Colubri A, Sealfon RS,
+Kanneh L, Moigboi A, Momoh M, et al. Clinical illness and outcomes in
+patients with Ebola in Sierra Leone. N Engl J Med. 2014;371(22):2092–100.
+7.  Ansumana R, Jacobsen KH, Sahr F, Idris M, Bangura H, Boie-Jalloh M, Lamin
+JM, Sesay S. Ebola in Freetown area, Sierra Leone--a case study of 581
+patients. N Engl J Med. 2015;372(6):587–8.
+8.  Hunt L, Gupta-Wright A, Simms V, Tamba F, Knott V, Tamba K, Heisenberg-
+Mansaray S, Tamba E, Sheriff A, Conteh S, et al. Clinical presentation,
+biochemical, and haematological parameters and their association with
+outcome in patients with Ebola virus disease: an observational cohort study.
+Lancet Infect Dis. 2015;15(11):1292–9.
+9.  Kreuels B, Wichmann D, Emmerich P, Schmidt-Chanasit J, de Heer G, Kluge
+S, Sow A, Renne T, Gunther S, Lohse AW, et al. A case of severe Ebola virus
+infection complicated by gram-negative septicemia. N Engl J Med. 2014;
+371(25):2394–401.
+10. Wolf T, Kann G, Becker S, Stephan C, Brodt HR, de Leuw P, Grunewald T,
+Vogl T, Kempf VA, Keppler OT, et al. Severe Ebola virus disease with vascular
+leakage and multiorgan failure: treatment of a patient in intensive care.
+Lancet. 2015;385(9976):1428–35.
+11. Sueblinvong V, Johnson DW, Weinstein GL, Connor MJ Jr, Crozier I, Liddell
+AM, Franch HA, Wall BR, Kalil AC, Feldman M, et al. Critical Care for Multiple
+Organ Failure Secondary to Ebola virus disease in the United States. Crit
+Care Med. 2015;43(10):2066–75.
+12. Johnson DW, Sullivan JN, Piquette CA, Hewlett AL, Bailey KL, Smith PW, Kalil
+AC, Lisco SJ. Lessons learned: critical care management of patients with
+Ebola in the United States. Crit Care Med. 2015;43(6):1157–64.
+13. Connor MJ Jr, Kraft C, Mehta AK, Varkey JB, Lyon GM, Crozier I, Stroher U,
+Ribner BS, Franch HA. Successful delivery of RRT in Ebola virus disease. J Am
+Soc Nephrol. 2015;26(1):31–7.
+14. Haynes RB, McKibbon KA, Wilczynski NL, Walter SD, Werre SR, Hedges T.
+Optimal search strategies for retrieving scientifically strong studies of
+treatment from Medline: analytical survey. BMJ. 2005;330(7501):1179.
+15. Wong SS, Wilczynski NL, Haynes RB. Developing optimal search strategies
+for detecting clinically sound treatment studies in EMBASE. J Med Libr
+Assoc. 2006;94(1):41–7.
+16. ClinicalTrials.gov [[URL: "https://clinicaltrials.gov/ct2/home"] https://clinicaltrials.gov/ct2/home]. In. Bethesda, MD:
+National Library of Medicine.
+17. ISRCTN Registry [[URL: "https://www.isrctn.com/"] https://www.isrctn.com/]. In. London, UK: BioMed Central.
+18. Pan African Clinical Trials Registry. In. Tygerberg, South Africa: South African
+Cochrane Centre. [[URL: "https://pactr.samrc.ac.za/"] https://pactr.samrc.ac.za/].
+19. International Clinical Trials Registry Platform (ICTRP). In. Geneva, Switzerland:
+World Health Organization. [[URL: "https://www.who.int/ictrp/en/"] https://www.who.int/ictrp/en/].
+20. Higgins JP, Altman DG, Gotzsche PC, Juni P, Moher D, Oxman AD, Savovic J,
+Schulz KF, Weeks L, Sterne JA, et al. The Cochrane Collaboration’s tool for
+assessing risk of bias in randomised trials. BMJ. 2011;343:d5928. 
+21. Sterne JA, Hernan MA, Reeves BC, Savovic J, Berkman ND, Viswanathan M,
+Henry D, Altman DG, Ansari MT, Boutron I, et al. ROBINS-I: a tool for assessing
+risk of bias in non-randomised studies of interventions. BMJ. 2016;355:i4919.
+22. Higgins JP, Thompson SG, Deeks JJ, Altman DG. Measuring inconsistency in
+meta-analyses. BMJ. 2003;327(7414):557–60.
+23. DerSimonian R, Laird N. Meta-analysis in clinical trials. Control Clin Trials.
+1986;7(3):177–88.
+24. PREVAIL II Writing Group, for the Multi-National PREVAIL II Study Team,
+Davey RT Jr, Dodd L, Proschan MA, Neaton J, Neuhaus Nordwall J,
+Koopmeiners JS, Beigel J, Tierney J, Lane HC, et al. A Randomized,
+controlled trial of ZMapp for Ebola virus infection. N Engl J Med. 2016;
+375(15):1448–56.
+25. Dunning J, Sahr F, Rojek A, Gannon F, Carson G, Idriss B, Massaquoi T, Gandi R,
+Joseph S, Osman HK, et al. Experimental treatment of Ebola virus disease with
+TKM-130803: a single-arm phase 2 clinical trial. PLoS Med. 2016;13(4):e1001997.
+26. Sahr F, Ansumana R, Massaquoi TA, Idriss BR, Sesay FR, Lamin JM, Baker S,
+Nicol S, Conton B, Johnson W, et al. Evaluation of convalescent whole
+blood for treating Ebola virus disease in Freetown, Sierra Leone. J Infect.
+2017;74(3):302–9.
+27. Konde MK, Baker DP, Traore FA, Sow MS, Camara A, Barry AA, Mara D, Barry
+A, Cone M, Kaba I, et al. Interferon beta-1a for the treatment of Ebola virus
+disease: a historically controlled, single-arm proof-of-concept trial. PLoS One.
+2017;12(2):e0169255.
+28. van Griensven J, Edwards T, de Lamballerie X, Semple MG, Gallian P, Baize S,
+Horby PW, Raoul H, Magassouba N, Antierens A, et al. Evaluation of convalescent
+plasma for Ebola virus disease in Guinea. N Engl J Med. 2016;374(1):33–42.
+29. Sissoko D, Laouenan C, Folkesson E, M'Lebing AB, Beavogui AH, Baize S,
+Camara AM, Maes P, Shepherd S, Danel C, et al. Experimental treatment
+with Favipiravir for Ebola virus disease (the JIKI trial): a historically controlled,
+single-arm proof-of-concept trial in Guinea. PLoS Med. 2016;13(3):e1001967.
+30. Bai CQ, Mu JS, Kargbo D, Song YB, Niu WK, Nie WM, Kanu A, Liu WW, Wang
+YP, Dafae F, et al. Clinical and Virological characteristics of Ebola virus
+disease patients treated with Favipiravir (T-705)-Sierra Leone, 2014. Clin
+Infect Dis. 2016;63(10):1288–94.
+31. Dunning J, Kennedy SB, Antierens A, Whitehead J, Ciglenecki I, Carson G,
+Kanapathipillai R, Castle L, Howell-Jones R, Pardinaz-Solis R, et al. Experimental
+treatment of Ebola virus disease with Brincidofovir. PLoS One. 2016;11(9):e0162199.
+32. Gignoux E, Azman AS, de Smet M, Azuma P, Massaquoi M, Job D, Tiffany A,
+Petrucci R, Sterk E, Potet J, et al. Effect of Artesunate-Amodiaquine on
+mortality related to Ebola virus disease. N Engl J Med. 2016;374(1):23–32.
+33. Isaacson M, Sureau P, Courteille G, Pattyn SR. Clinical aspects of Ebola virus
+disease at the Ngaliema hospital, Kinshasa, Zaire, 1976. In: Pattyn SR, editor.
+Proceedings of an International Colloquium on Ebola Virus Infection and
+Other Haemorrhagic Fevers held in Antwerp, Belgium, 6–8 December, 1977.
+Amsterdam: Elsevier / North-Holland Biomedical Press; 1978. p. 22–6.
+34. Guimard Y, Bwaka MA, Colebunders R, Calain P, Massamba M, De Roo A,
+Mupapa KD, Kibadi K, Kuvula KJ, Ndaberey DE, et al. Organization of patient
+care during the Ebola hemorrhagic fever epidemic in Kikwit, Democratic
+Republic of the Congo, 1995. J Infect Dis. 1999;179(Suppl 1):S268–73.
+35. Mupapa K, Massamba M, Kibadi K, Kuvula K, Bwaka A, Kipasa M,
+Colebunders R, Muyembe-Tamfum JJ. Treatment of Ebola hemorrhagic
+fever with blood transfusions from convalescent patients.
+International Scientific and Technical Committee. J Infect Dis. 1999;
+179(Suppl 1):S18–23.
+36. Lyon GM, Mehta AK, Varkey JB, Brantly K, Plyler L, McElroy AK, Kraft CS,
+Towner JS, Spiropoulou C, Stroher U, et al. Clinical care of two patients with
+Ebola virus disease in the United States. N Engl J Med. 2014;371(25):2402–9.
+37. Kraft CS, Hewlett AL, Koepsell S, Winkler AM, Kratochvil CJ, Larson L, Varkey
+JB, Mehta AK, Lyon GM 3rd, Friedman-Moraco RJ, et al. The use of TKM-
+100802 and convalescent plasma in 2 patients with Ebola virus disease in
+the United States. Clin Infect Dis. 2015;61(4):496–502.
+38. Liddell AM, Davey RT Jr, Mehta AK, Varkey JB, Kraft CS, Tseggay GK, Badidi
+O, Faust AC, Brown KV, Suffredini AF, et al. Characteristics and clinical
+Management of a Cluster of 3 patients with Ebola virus disease, including
+the first domestically acquired cases in the United States. Ann Intern Med.
+2015;163(2):81–90.
+39. Uyeki TM, Mehta AK, Davey RT Jr, Liddell AM, Wolf T, Vetter P, Schmiedel S,
+Grunewald T, Jacobs M, Arribas JR, et al. Clinical Management of Ebola Virus
+Disease in the United States and Europe. N Engl J Med. 2016;374(7):636–46.
+40. Dickson SJ, Clay KA, Adam M, Ardley C, Bailey MS, Burns DS, Cox AT, Craig
+DG, Espina M, Ewington I, et al. Enhanced case management can be
+Page 11
+Lee et al. BMC Infectious Diseases (2019) 19:376  Page 11 of 11
+delivered for patients with EVD in Africa: experience from a UK military
+Ebola treatment Centre in Sierra Leone. J Inf Secur. 2018;76(4):383–92.
+41. Emond RT, Evans B, Bowen ET, Lloyd G. A case of Ebola virus infection. Br
+Med J. 1977;2(6086):541–4.
+42. Dornemann J, Burzio C, Ronsse A, Sprecher A, De Clerck H, Van Herp M, Kolie MC,
+Yosifiva V, Caluwaerts S, McElroy AK, et al. First newborn baby to receive
+experimental therapies survives Ebola virus disease. J Infect Dis. 2017;215(2):171–4.
+43. Jacobs M, Rodger A, Bell DJ, Bhagani S, Cropley I, Filipe A, Gifford RJ,
+Hopkins S, Hughes J, Jabeen F, et al. Late Ebola virus relapse causing
+meningoencephalitis: a case report. Lancet. 2016;388(10043):498–503.
+44. Palich R, Gala JL, Petitjean F, Shepherd S, Peyrouset O, Abdoul BM, Kinda M,
+Danel C, Augier A, Anglaret X, et al. A 6-year-old child with severe Ebola
+virus disease: laboratory-guided clinical Care in an Ebola Treatment Center
+in Guinea. PLoS Negl Trop Dis. 2016;10(3):e0004393.
+45. Petrosillo N, Nicastri E, Lanini S, Capobianchi MR, Di Caro A, Antonini M, Puro V,
+Lauria FN, Shindo N, Magrini N, et al. Ebola virus disease complicated with viral
+interstitial pneumonia: a case report. BMC Infect Dis. 2015;15:432.
+46. Geisen C, Kann G, Strecker T, Wolf T, Schuttfort G, van Kraaij M, MacLennan
+S, Rummler S, Weinigel C, Eickmann M, et al. Pathogen-reduced Ebola virus
+convalescent plasma: first steps towards standardization of manufacturing
+and quality control including assessment of Ebola-specific neutralizing
+antibodies. Vox Sang. 2016;110(4):329–35.
+47. Schibler M, Vetter P, Cherpillod P, Petty TJ, Cordey S, Vieille G, Yerly S,
+Siegrist CA, Samii K, Dayer JA, et al. Clinical features and viral kinetics in a
+rapidly cured patient with Ebola virus disease: a case report. Lancet Infect
+Dis. 2015;15(9):1034–40.
+48. Nicholson-Roberts T, Fletcher T, Rees P, Dickson S, Hinsley D, Bailey M, Lamb
+L, Ardley C. Ebola virus disease managed with blood product replacement
+and point of care tests in Sierra Leone. QJM. 2015;108(7):571–2.
+49. Florescu DF, Kalil AC, Hewlett AL, Schuh AJ, Stroher U, Uyeki TM, Smith PW.
+Administration of Brincidofovir and Convalescent Plasma in a patient with
+Ebola virus disease. Clin Infect Dis. 2015;61(6):969–73.
+50. Buttner S, Koch B, Dolnik O, Eickmann M, Freiwald T, Rudolf S, Engel J,
+Becker S, Ronco C, Geiger H. Extracorporeal virus elimination for the
+treatment of severe Ebola virus disease--first experience with lectin affinity
+plasmapheresis. Blood Purif. 2014;38(3–4):286–91.
+51. Mora-Rillo M, Arsuaga M, Ramirez-Olivencia G, de la Calle F, Borobia AM,
+Sanchez-Seco P, Lago M, Figueira JC, Fernandez-Puntero B, Viejo A, et al.
+Acute respiratory distress syndrome after convalescent plasma use:
+treatment of a patient with Ebola virus disease contracted in Madrid, Spain.
+Lancet Respir Med. 2015;3(7):554–62.
+52. Chinello P, Petrosillo N, Pittalis S, Biava G, Ippolito G, Nicastri E, INMI Ebola
+Team. QTc interval prolongation during favipiravir therapy in an ebolavirus-
+infected patient. PLoS Negl Trop Dis. 2017;11(12):e0006034.
+53. Nicastri E, Brucato A, Petrosillo N, Biava G, Uyeki TM, Ippolito G, INMI’s Ebola
+Team. Acute rhabdomyolysis and delayed pericardial effusion in an Italian
+patient with Ebola virus disease: a case report. BMC Infect Dis. 2017;17(1):597.
+54. Dufour-Gaume F, Delaune D, Martinaud C, Sailliol A. Early and repeated use
+of plasma for the management of Ebola patients: reflection around a case.
+Transfus Clin Biol. 2017;24(1):5–8.
+55. Groger M, Pasteiner W, Ignatyev G, Matt U, Knapp S, Atrasheuskaya A, Bukin
+E, Friedl P, Zinkl D, Hofer-Warbinek R, et al. Peptide Bbeta(15-42) preserves
+endothelial barrier function in shock. PLoS One. 2009;4(4):e5391.
+56. Noera G, Lamarra M, Guarini S, Bertolini A. Survival rate after early treatment for
+acute type-a aortic dissection with ACTH-(1-24). Lancet. 2001;358(9280):469–70.
+57. Madrid PB, Chopra S, Manger ID, Gilfillan L, Keepers TR, Shurtleff AC, Green
+CE, Iyer LV, Dilks HH, Davey RA, et al. A systematic screen of FDA-approved
+drugs for inhibitors of biological threat agents. PLoS One. 2013;8(4):e60579.
+58. Sweiti H, Ekwunife O, Jaschinski T, Lhachimi SK. Repurposed therapeutic
+agents targeting the Ebola virus: a systematic review. Curr Ther Res Clin Exp.
+2017;84:10–21.
+59. Cardile AP, Warren TK, Martins KA, Reisler RB, Bavari S. Will there be a cure
+for Ebola? Annu Rev Pharmacol Toxicol. 2017;57:329–48.
+60. Liu G, Wong G, Su S, Bi Y, Plummer F, Gao GF, Kobinger G, Qiu X. Clinical
+evaluation of Ebola virus disease therapeutics. Trends Mol Med. 2017;23(9):820–30.
+61. Corti D, Misasi J, Mulangu S, Stanley DA, Kanekiyo M, Wollen S, Ploquin A,
+Doria-Rose NA, Staupe RP, Bailey M, et al. Protective monotherapy against
+lethal Ebola virus infection by a potently neutralizing antibody. Science.
+2016;351(6279):1339–42.
+62. Notes for the record: Consultation on Monitored Emergency Use of
+Unregistered and Investigational Interventions for Ebola Virus Disease (EVD). 
+ http://www.who.int/emergencies/ebola/MEURI-Ebola.pdf?ua=1. Accessed 25
+Apr 2019.
+63. Barry A, Ahuka-Mundeke S, Ali Ahmed Y, Allarangar Y, Anoko J, Archer BN,
+Aruna Abedi A, Bagaria J, Belizaire MRD, Bhatia S, et al. Outbreak of Ebola
+virus disease in the Democratic Republic of the Congo, April-May, 2018: an
+epidemiological study. Lancet. 2018;392(10143):213–21.
+64. Table: Chronology of previous Ebola virus disease outbreaks, in Ebola visus
+disease: fact sheet. [URL: "https://www.who.int/en/news-room/fact-sheets/detail/ebola-virus-disease"] https://www.who.int/en/news-room/fact-sheets/detail/
+ ebola-virus-disease. Accessed 25 Apr 2019.
+65. Outbreaks Chronology: Ebola Virus Disease. [URL: "https://www.cdc.gov/vhf/ebola/outbreaks/history/chronology.html"] https://www.cdc.gov/vhf/ebola/
+ outbreaks/history/chronology.html. Accessed 25 Apr 2019.
+66. Bah EI, Lamah MC, Fletcher T, Jacob ST, Brett-Major DM, Sall AA, Shindo N,
+Fischer WA 2nd, Lamontagne F, Saliou SM, et al. Clinical presentation of
+patients with Ebola virus disease in Conakry, Guinea. N Engl J Med. 2015;
+372(1):40–7.
+67. Lamontagne F, Fowler RA, Adhikari NK, Murthy S, Brett-Major DM, Jacobs M,
+Uyeki TM, Vallenas C, Norris SL, Fischer WA 2nd, et al. Evidence-based
+guidelines for supportive care of patients with Ebola virus disease. Lancet.
+2018;391(10121):700–8.

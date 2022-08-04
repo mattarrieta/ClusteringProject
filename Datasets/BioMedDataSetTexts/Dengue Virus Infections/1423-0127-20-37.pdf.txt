@@ -1,0 +1,1097 @@
+BOOKMARKS:
+Abstract
+Review
+  Introduction
+  Characteristics of dengue virus
+  Dengue disease manifestation and classification
+  Dengue virus pathogenesis
+    Viral pathogenesis
+    Immunopathogenesis
+  Protective immune responses
+  The challenges of dengue vaccine development
+  Current vaccine progress
+    Live attenuated virus vaccines
+    Live chimeric virus vaccines
+    Inactivated virus vaccines
+    Live recombinant, DNA and subunit vaccines
+Conclusions
+Competing interests
+Authors’ contributions
+Acknowledgements
+Author details
+References
+Page 1
+Wan et al. Journal of Biomedical Science 2013, 20:37
+http://www.jbiomedsci.com/content/20/1/37
+REVIEW  Open Access
+Current progress in dengue vaccines
+Shu-Wen Wan1,2, Chiou-Feng Lin1,2,3, Shuying Wang1,2, Yu-Hung Chen4, Trai-Ming Yeh2,5, Hsiao-Sheng Liu1,2,
+Robert Anderson1,2,6 and Yee-Shin Lin1,2*
+Abstract
+Dengue is one of the most important emerging vector-borne viral diseases. There are four serotypes of dengue
+viruses (DENV), each of which is capable of causing self-limited dengue fever (DF) or even life-threatening dengue
+hemorrhagic fever (DHF) and dengue shock syndrome (DSS). The major clinical manifestations of severe DENV
+disease are vascular leakage, thrombocytopenia, and hemorrhage, yet the detailed mechanisms are not fully
+resolved. Besides the direct effects of the virus, immunopathological aspects are also involved in the development
+of dengue symptoms. Although no licensed dengue vaccine is yet available, several vaccine candidates are under
+development, including live attenuated virus vaccines, live chimeric virus vaccines, inactivated virus vaccines, and
+live recombinant, DNA and subunit vaccines. The live attenuated virus vaccines and live chimeric virus vaccines are
+undergoing clinical evaluation. The other vaccine candidates have been evaluated in preclinical animal models or
+are being prepared for clinical trials. For the safety and efficacy of dengue vaccines, the immunopathogenic
+complications such as antibody-mediated enhancement and autoimmunity of dengue disease need to be
+considered.
+Keywords: Dengue, Immunopathogenesis, Vaccine
+Review
+Introduction
+Dengue virus (DENV) is a member of the Flavivirus
+genus of the Flaviviriade family which also includes yel-
+low fever virus (YFV), West Nile virus (WNV), Japanese
+encephalitis virus (JEV) and tick-borne encephalitis
+virus. There are four antigenically distinct serotypes
+(DENV1-4) based on neutralization assay. DENV is
+transmitted to humans mainly by Aedes mosquitoes
+(Aedes aegypti and Aedes albopictus) [1]. The prevalence
+of dengue disease is high especially in the Asia-Pacific
+region and the Americas. All four DENV serotypes are
+now circulating in these areas. With increased inter-
+national travel and climate change, people are at risk of
+dengue infection beyond the traditional tropical and
+subtropical areas. Dengue disease is becoming one of
+the most important emerging vector-borne viral dis-
+eases. An estimated 50 million dengue infection cases
+* Correspondence: [URL: "mailto:yslin1@mail.ncku.edu.tw"] yslin1@mail.ncku.edu.tw
+1Department of Microbiology and Immunology, National Cheng Kung
+University Medical College, Tainan, Taiwan
+2Center of Infectious Disease and Signaling Research, National Cheng Kung
+University, Tainan, Taiwan
+Full list of author information is available at the end of the article 
+occur globally with around 500,000 cases of severe den-
+gue and 20,000 deaths per year [2].
+Characteristics of dengue virus
+DENV is a lipid-enveloped positive-strand RNA virus.
+The RNA genome of DENV is about 10.7 kb and encodes
+three structural proteins, namely capsid protein (C), pre-
+cursor membrane/membrane protein (PrM/M), and en-
+velope protein (E). Besides the structural proteins, there
+are seven nonstructural proteins (NS) which are associ-
+ated with viral replication and disease pathogenesis. The
+coding of the viral proteins is organized in the genome as
+C-prM-E-NS1-NS2A-NS2B-NS3-NS4A-NS4B-NS5 [3,4].
+The C protein stabilizes the viral RNA within the viral
+nucleocapsid. The N-terminus of the C protein encodes
+a nuclear localization sequence which allows C protein
+translocation into the nucleus and interaction with het-
+erogeneous nuclear ribonucleoprotein [5].  A recent re-
+port showed that DENV C protein may interact with
+human death domain-associated protein Daxx and in-
+duce apoptosis [6]. The prM protein acts as a chaperone
+that helps the folding of E protein. The M protein is a
+proteolytic fragment derived from its precursor form
+prM by furin cleavage in the trans-Golgi network. The E
+© 2013 Wan et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License ([URL: "http://creativecommons.org/licenses/by/2.0"] http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly cited.
+Page 2
+Wan et al. Journal of Biomedical Science 2013, 20:37
+http://www.jbiomedsci.com/content/20/1/37 
+Page 2 of 9
+protein is the major protein exposed on the virus surface
+and has three distinct structural domains. Domain I of
+the E protein is an eight-stranded β barrel and is struc-
+turally positioned between domain II and domain III.
+Domain II contains a dimerization region and a highly
+conserved fusion loop. Domain III consists of an
+immunoglobulin-like fold and is the proposed receptor
+binding domain [4,7].
+The NS1 protein is a glycoprotein and is expressed in
+three forms: an endoplasmic reticulum (ER)-resident
+form, a membrane-anchored form, and a secreted form.
+In DENV-infected mammalian cells, NS1 is synthesized
+as a soluble monomer and is dimerized after posttransla-
+tional modification in the ER where it plays an essential
+role in viral replication (ER-resident form) [8,9].  In
+infected mammalian cells, secreted NS1 (sNS1) exists as
+hexamers, and is another dominant target of humoral
+immunity [10]. Soluble NS1 binds to the plasma mem-
+brane of uninfected cells by interactions with heparin
+sulfate and chondroitin sulfate E [11]. NS1 is expressed
+on the surface of infected cells as membrane-anchored
+form, possibly by a glycosylphosphatidyl inositol (GPI)
+anchor [12] or lipid raft association [13]. The functions
+of surface expressed NS1 have been reported to include
+signal transduction [12] and complement activation [11].
+In addition, N-linked glycosylation of NS1 modulates its
+secretion, cell-surface expression, hexamer stability, and
+interaction with human complement [14].
+NS2A can cleave itself from NS1 by its protease activ-
+ity and at the same time properly processes NS1 in the
+ER [15].  NS2A is also capable of blocking interferon
+(IFN)-mediated signal transduction [16].  NS2B is a
+cofactor of NS3 which together form an active serine
+protease complex [17]. NS3 is a multifunctional protein
+with N-terminal protease domain, RNA 5′-triphos-
+phatase, RNA helicase and RNA-stimulated NTPase
+domain in the C-terminal region. Protease activity is
+required to process the polyprotein precursor and is es-
+sential for viral replication [18]. The helicase activity of
+NS3 is involved in viral replication and viral assembly
+[19,20].  Both NS4A and NS4B may be involved in
+blocking IFN-α/β-induced signal transduction [16,21].
+However, NS4B can modulate viral replication by its
+interaction with NS3 [22]. NS5 is the largest and most
+conserved DENV protein. It encodes two distinct en-
+zyme activities, i.e. S-adenosyl methyltransferase which
+can methylate the 5′end of viral RNA [23] and RNA-
+dependent RNA polymerase [24].
+Dengue disease manifestation and classification
+Infection with DENV may cause mild DF with an onset
+of fever accompanied by severe headache, retro-orbital
+pain, myalgia, arthralgia, abdominal pain, rash, and
+minor hemorrhage in the form of petechiae, epistaxis, or 
+gingival bleeding. Leukopenia and thrombocytopenia
+may occasionally be observed in DF patients [25]. Severe
+DHF/DSS generally occurs in those patients who are
+secondarily infected with a different DENV serotype.
+However, DHF/DSS may still occur in primary infection
+[26].  DHF is characterized by all the symptoms of DF
+but also shows severe bleeding, thrombocytopenia,
+plasma leakage and organ involvement. Traditionally,
+there are four grades for classifying DHF. Grades I and
+II of DHF represent relatively mild cases without shock,
+whereas grades III and IV of DHF are more severe and
+might develop to disseminated intravascular coagulation
+[27,28].  The WHO recently reclassified dengue due to
+difficulties in applying the old classification in the clin-
+ical situation [29,30]. The new guidelines focus on levels
+of disease severity and cases are classified as dengue
+without warning sign, dengue with warning sign, and se-
+vere dengue. Patients with severe plasma leakage, severe
+bleeding or severe organ involvement are defined as se-
+vere dengue. The new classification system emphasizes
+the early recognition of potential manifestations. There-
+fore, recent reports indicate higher sensitivity using the
+revised classification [31].  Early prediction is very im-
+portant to avoid unnecessary hospitalization, especially
+in hyper-endemic areas. However, whether the new
+guidelines reduce the specificity of dengue confirmation
+needs to be further evaluated.
+Dengue virus pathogenesis
+The complicated pathogenesis of DHF/DSS is not fully
+resolved. However, several hypotheses for the pathogen-
+esis of DENV infection have been proposed, including
+viral pathogenesis and immunopathogenesis, which play
+significant roles in major manifestations of DHF/DSS,
+such as hemorrhage, thrombocytopenia, plasma leakage
+and organ impairment [32-35].
+Viral pathogenesis
+Viral pathogenesis indicates the pathology directly
+caused by the virus which is subject to serotypic or
+genotypic differences. Differences in transmission effi-
+ciency and disease expression between the four serotypes
+are still uncertain, but DENV-2 and DENV-3 have been
+associated with an outbreak of severe dengue [36]. Viral
+genetic and structural differences might contribute to
+virus variation and influence human disease severity
+[37-40]. The affinity of DENV for host receptors might
+affect virus infectivity as well as virulence. Recent studies
+indicated that certain mutations in the E and NS3 pro-
+teins altered the virulence of DENV by enhancing bind-
+ing activity to host cells and increasing viral replication
+[41].
+Page 3
+Wan et al. Journal of Biomedical Science 2013, 20:37
+http://www.jbiomedsci.com/content/20/1/37 
+Page 3 of 9
+Immunopathogenesis
+The critical phase of dengue disease is not observed at
+the peak of viremia but rather when the viral burden has
+started to decline. This has led to the suggestion that
+immune responses are not only responsible for virus
+clearance but also contribute to pathogenesis. The
+adaptive immune responses, inflammatory mediators
+and autoimmunity are important factors involved in
+immunopathogenesis [34,42].
+The adaptive immune responses play important roles
+in the immunopathogenesis of dengue disease. Anti-
+body-dependent enhancement (ADE) is a well-known
+phenomenon of dengue pathogenesis. From epidemio-
+logical studies, the presence of preexisting heterologous
+antibodies (Abs) which fail to neutralize the current
+infecting serotype is a major factor for developing DHF/
+DSS in both infants and adults [43].  Those sub-
+neutralizing Abs enhance viral uptake by Fcγ receptor
+(FcγR)-dependent [43] or FcγR-independent mecha-
+nisms [44]. Recently, a new hypothesis (termed intrinsic
+ADE) postulates that FcγR-mediated DENV internaliza-
+tion suppresses innate immunity, increases interleukin-
+10 production and biases T-helper-1 (Th1) responses to
+Th2 responses, leading to both high levels of viral load
+and Abs in dengue patients [45-47]. In addition to neu-
+tralizing and infection-enhancing Abs, memory T cells
+which cross-react with heterologous viruses could pro-
+vide partial protective immunity, as well as cause immu-
+nopathology [48].  Secondary dengue infections show
+predominant expansion of T cells with low affinity for
+the current infecting serotype and high affinity for the
+previously infected DENV serotype (known as original
+antigenic sin) [49].  Numerous studies showed that the
+cross-reactive T cells produce high concentrations of in-
+flammatory cytokines which might correlate with plasma
+leakage in severe dengue [50-53]. DENV-specific human
+CD4+ cytotoxic T cell clones have been demonstrated to
+not only produce cytokines but also lyse bystander target
+cells in vitro [54].
+Several studies have shown that patients with severe
+dengue have elevated plasma markers, such as cytokines,
+chemokines, soluble receptors, coagulation and endothe-
+lial markers [27,55-57].  The abnormal production of
+plasma markers mainly comes from monocytes [58], T
+cells [50-53], mast cells [59], and neutrophils [60]. High
+levels of C3a and C5a have also been measured in den-
+gue patients’  plasma [11,61].  In addition, complement
+could be activated by soluble NS1 and anti-DENV NS1
+Abs on DENV-infected endothelial cells [61,62].
+Autoantibodies and molecular mimicry represent an-
+other contributory factor in dengue disease pathogen-
+esis. Autoantibodies against platelets [63-65], endothelial
+cells [66,67] and coagulatory molecules [66,68-70] have
+been observed in dengue patient sera and associated 
+with severe dengue. Molecular mimicry between plate-
+lets, endothelial cells or coagulatory molecules with
+NS1, prM and E proteins may explain the cross-
+reactivity of anti-NS1, anti-prM or anti-E Abs to host
+proteins. The consequences arising from these cross-
+reactive Abs include platelet dysfunction, endothelial cell
+apoptosis, coagulation defect, and macrophage activation
+[42,57,71,72]
+Protective immune responses
+Both humoral and cellular immunity contribute to
+DENV clearance and protection. The E protein is the
+major component on the surface of DENV virion and is
+a dominant target of Ab responses against DENV. E pro-
+tein binds to cellular receptors and mediates fusion be-
+tween viral envelope and cellular membrane during viral
+entry [55,73-75]. Passive immunization with anti-E Abs
+provides protection against DENV infection in mice
+[76].  Although the NS1 protein is not a component of
+the virion, the NS1 protein is expressed on the surface
+of infected cells [12] and is secreted into the circulation
+[10]. Abs against NS1 can trigger complement-mediated
+lysis of DENV-infected cells in vitro and protect mice
+from DENV challenge [77]. In addition, monoclonal Abs
+against prM/M have been shown to provide protection
+against DENV challenge [78].
+Infection with DENV results in the development of
+CD4+ and CD8+ T cell responses against multiple viral
+proteins, of which the NS3 protein appears to be
+immunodominant [79]. The effector functions of DENV-
+specific T cells include cytokine production and target
+cell lysis [55].  Both DENV-specific CD4+ and CD8+ T
+cells protect mice from DENV infection; however CD8+
+T cells are more efficient [80-83]. Recent studies further
+demonstrated that both cross-reactive B and T cells pro-
+vide protection against a secondary heterotypic DENV
+infection [84,85].
+The challenges of dengue vaccine development
+The ideal dengue vaccine should provide long-term
+homotypic and heterotypic protection. Therefore, there
+are several factors which require consideration. First, the
+vaccine must be protective against each of the four
+DENV serotypes to reduce the risk of ADE. Second, the
+immunization should be safe and not cause unacceptable
+side-effects caused by cross-reactive Abs or cross-
+reactive T cells. Third, the cost should be affordable to
+the individuals who most need the vaccines [86,87].
+There are still several obstacles for the development of
+dengue vaccines. One is that the complicated pathogen-
+esis is not fully understood. Another hindrance is
+the lack of suitable animal models. DENV can infect
+nonhuman primates but does not replicate well or cause
+marked disease. For reasons of cost and convenience,
+Page 4
+Wan et al. Journal of Biomedical Science 2013, 20:37
+http://www.jbiomedsci.com/content/20/1/37 
+Page 4 of 9
+mouse models have been used to test vaccine candidates
+prior to testing in nonhuman primates. In general, im-
+munocompetent mice are the more suitable models to
+test the immunogenicity of a vaccine. However, DENV
+replicates poorly in these mice. Recent progress has been
+made in modeling dengue in mice, using transgenic,
+knockout and humanized approaches [88]. One recently
+described mouse model explored the use of intravenous,
+intraperitoneal, intracerebal or intradermal inoculation
+of DENV, resulting in liver pathology, neurological
+symptoms, thrombocytopenia, or hemorrhage [89,90]. In
+addition, the SCID-tumor mouse model has been tested
+for live-attenuated dengue vaccine [91] and the im-
+munocompromised mouse model AG129 has been de-
+veloped for vaccine testing [92].
+Current vaccine progress
+Although no licensed dengue vaccine is yet available,
+several vaccine candidates are under development. These
+include live attenuated virus vaccines, live chimeric virus
+vaccines, inactivated virus vaccines, and live recombin-
+ant, DNA and subunit vaccines [93]. Live viral vaccines
+have advanced to clinical trials, but have shown prob-
+lems, such as unequal immunogenicity of the four sero-
+types and viral interference among the four serotypes in
+tetravalent formulations. Non-viral vaccines have also
+been proposed and developed for safety reasons. This in-
+cludes subunit vaccines that mostly focused on the E
+protein or its derivatives. However, the difficulty of
+eliciting balanced levels of neutralizing Abs to each of
+the four serotypes remains a major concern. NS1 is an-
+other subunit vaccine candidate that it is not a virion-
+associated protein and it has no ADE effects [30].
+Live attenuated virus vaccines
+Live attenuated virus vaccines contain weakened viruses
+that still can induce adaptive immune responses to both
+structural and nonstructural proteins. The replication of
+live attenuated viruses should be sufficiently restricted to
+avoid pathological effects. One of the most successful
+examples of a live attenuated virus vaccine is the 17D
+strain of YFV, another member of the flavivirus family
+[94]. Unfortunately the search for an equally successful
+attenuated dengue vaccine has proven more elusive. In
+pre-clinical study, live attenuated viruses derived from
+serially passaged DENV in primary dog kidney (PDK)
+cells were inoculated in rhesus monkeys to test for
+viremia and immune responses [95].  Investigators at
+Mahidol University in Bangkok, Thailand and the Walter
+Reed Army Research Institute (WRAIR) group in the
+USA independently developed attenuated DENV vaccine
+candidates by passage in tissue culture cells for each
+serotype of DENV [96,97].  Tetravalent dengue vaccine
+formulations produced by the Mahidol group were used 
+for Phase I and II clinical trials in Thai adults and chil-
+dren. Not all of the volunteers seroconverted to all four
+DENV serotypes and some showed unacceptable
+reactogenicity. Consequently, further clinical testing
+was stopped [98-100]. The WRAIR-produced tetravalent
+dengue vaccine formulation also showed problems of
+unbalanced immunogenicity and reactogenicity [97].
+New formulations seem to be safe and immunogenic in
+a Phase II study, however, the protective efficacy needs
+to be further evaluated [101].
+A more modern approach is based on site-directed
+mutagenesis of the viral genome to cause attenuation. A
+deletion of 30 nucleotides (Δ30) in the 3′-untranslated
+region of DENV4 was first demonstrated to attenuate
+DENV4, named as DEN4Δ30 [102], and used in Phase I
+clinical evaluation [103].  However, while this strategy
+resulted in attenuation for DENV1 and DENV4, with
+retained immunogenicity, it was less successful for
+DENV2 and DENV3 [102,104-106].  Hence, an alterna-
+tive chimeric strategy for DENV2 and DENV3 was
+designed using the Δ30DEN4 as genetic backbone for
+DENV2 and DENV3 (designated as DEN2/4Δ30
+and DEN3/4Δ30).  These monovalent DENV vaccines
+(DEN1Δ30, DEN2/4Δ30, DEN3/4Δ30 and DEN4Δ30)
+have been tested for attenuation and immunogenicity in
+animal models and humans, and the attenuated tetrava-
+lent DENV vaccine admixtures are currently in Phase I
+clinical studies [30,107].
+Live chimeric virus vaccines
+The most advanced product so far, Sanofi Pasteur’s
+ChimeriVax Dengue tetravalent vaccine (CVD1-4) uti-
+lized the licensed YFV 17D vaccine as backbone, each
+expressing the prM and E genes of one of the four
+DENV serotypes. Pre-clinical studies demonstrated that
+the tetravalent vaccine is genetically and phenotypically
+stable [108,109], less neurovirulent than YFV 17D [110],
+and immunogenic in monkeys [111]. In Phase I studies,
+the tetravalent CVD vaccine appeared safe with rela-
+tively low viremia [112-114]. Recently, however, Phase II
+study showed only 30 percent effectiveness and efficacies
+against only DENV1, 3 and 4 serotypes [115]. These re-
+sults indicate that the Sanofi dengue vaccine still carries
+the risk of ADE and needs more testing, modification
+and/or clinical trials especially in dengue-endemic coun-
+tries [116].
+Inactivated virus vaccines
+Inactivated virus vaccines have two advantages over live
+virus vaccines, i.e. no possibility of reverting to virulence
+(safety) and relative ease of inducing balanced immune
+responses (for tetravalent vaccines). However, some chal-
+lenges remain, such as lack of the immunity to NS
+proteins and a requirement of adjuvants for enhancing
+Page 5
+Wan et al. Journal of Biomedical Science 2013, 20:37
+http://www.jbiomedsci.com/content/20/1/37 
+Page 5 of 9
+immunogenicity. A purified, inactivated DENV2 vaccine
+has been shown to be immunogenic and protective in
+mice and rhesus monkeys [117] as well as formulated
+with adjuvants for inducing higher levels of neutralizing
+Abs and protection against viraemia [118].
+Live recombinant, DNA and subunit vaccines
+Recent advances in molecular biology have spurred den-
+gue vaccine efforts using live recombinant, DNA and
+subunit vaccines. Generally, the DENV E protein is used
+as the major immunogen. Certain live viral vectors, such
+as adenovirus, alphavirus and vaccinia virus are designed
+for direct administration to the host and have been
+engineered to express DENV E protein for further evalu-
+ation as vaccines [119-121]. In addition, recombinant E
+proteins expressed from yeast and insect cells have been
+used to test for immunogenicity [122-124] and protect-
+ive efficacy [124,125] in animal models. Truncated E
+proteins (DEN-8E) produced for all serotypes have been
+developed with aluminum hydroxide (adjuvant) as tetra-
+valent vaccine formulations [125].
+The domain III of the DENV E protein (EDIII) is the
+proposed receptor binding domain and elicits neutraliz-
+ing Abs [30]. It has been demonstrated that immuniza-
+tion with recombinant EDIII induces protective Abs
+against DENV in both mouse [126] and nonhuman pri-
+mate models [127]. To develop a tetravalent subunit vac-
+cine, Leng et al. have prepared a consensus EDIII
+(cEDIII) protein by aligning amino acid sequences from 
+different isolates of the four serotypes of DENV. They
+showed that the novel cEDIII successfully elicited cross-
+neutralizing Ab responses against four serotypes in a
+mouse model [128] and neutralizing Ab responses
+against DENV-2 in a nonhuman primate model [129].
+An engineered heterologous lipoprotein (recombinant
+lipo-EDIII) which is EDIII protein fused with lipid signal
+peptides was reported to induce higher levels of neutral-
+izing Abs than EDIII protein formulated with alum adju-
+vant [130].  Combining the tetravalent and adjuvant
+effects, a novel single-dose dengue subunit vaccine (lipo-
+cEDIII) was demonstrated to neutralize the four sero-
+types of DENV and induce memory immune responses
+[131].  However, recent studies indicated that EDIII-
+specific Abs do not constitute a large percentage in the
+dengue patient sera and only contribute to a small pro-
+portion of DENV neutralization in vitro [132-134]. Thus,
+the main epitope of DENV for neutralizing Abs in the
+human as well as the applicability of EDIII-based vac-
+cines remain to be defined.
+NS1 is not a structural component of the virion, and
+therefore, does not contribute to ADE. Anti-DENV NS1
+Abs are potentially protective antibodies since they trig-
+ger complement-mediated lysis of DENV-infected cells
+[77]. Several studies indicated that passive immunization
+with anti-NS1 Abs [131], DNA vaccine against NS1 pro-
+teins [135-138], or recombinant vaccinia virus expressing
+NS1 [139] and active immunization with NS1 proteins
+[77,140] could provide protection in mice against DENV
+Table 1 Summary of NS1 subunit vaccine applications in mouse models
+Approach  DENV inoculation Mouse
+Monoclonal anti-NS1 Abs  DENV2 (NGC) 100 IC50 
+i.c.  BALB/c
+DNA vaccine:
+pD2NS1 
+DENV2 (PL046)
+107 PFU i. p. 
+C3H/HeN
+pD2NS1 + pIL12
+DNA vaccine: pcTPANS1
+DNA vaccine: pcTPANS1*
+pcENS1** 
+DENV2 (NGC)
+4,32 log10
+PFU i.c.
+DENV2 (NGC)
+4,32 log10
+PFU i.c. 
+BALB/c
+BALB/c
+Vaccinia Virus:  DENV4 (H241)
+vNS1-15% NS2a
+rNS1 + CFA (adjuvant) 
+100IC50 
+i.c.
+DENV2 (NGC)
+Lethal dose i.c.
+rNS1 + LTG33D 
+(adjuvant)  DENV2 (NGC)
+4,32 log10
+PFU i.c.
+*TPA human tissue plasminogen activator, a secretory signal sequence.
+**pcENS1: encoding the C-terminal E protein plus the NS1 region.
+i.c intracerebal, i.p intraperitoneal. 
+BALB/c
+BALB/c
+BALB/c 
+Outcome
+50-93% Survival
+pD2NS1: 50% Survival
+50% Morbidity
+pD2NS1 + pIL12: 80% Survival
+20% Morbidity
+50% Survival
+pcTPANS1: 96.7% Survival
+10%Morbidity
+pcEN1: 86.7% Survival
+27% Morbidity
+67% Survival
+88% Survival
+18% morbidity
+50% Survival
+80% Morbidity 
+Reference
+[135]
+[136]
+[137]
+[138]
+[139]
+[77]
+[140]
+Page 6
+Wan et al. Journal of Biomedical Science 2013, 20:37
+http://www.jbiomedsci.com/content/20/1/37 
+Page 6 of 9
+challenge (Table 1).  However, anti-NS1 Abs still have
+some pathogenic effects as determined both in vitro and
+in vivo due to cross-reactivity with host proteins
+[57,71,141].  A safe dengue NS1-based vaccine would
+likely require the deletion or modification of cross-
+reactive epitopes. In our studies, we have tested the
+immunogenicity, pathogenic and protective effects of
+full-length DENV NS1 and NS1 lacking the C-terminal
+amino acid residues 271-352 (designated ΔC NS1). Re-
+sults showed that the immunogenicity of ΔC NS1 was
+similar to that of full-length DENV NS1 but, most im-
+portantly, ΔC NS1 did not induce pathogenic effects as
+assayed by cross-reactivity or bleeding tendency [142].
+In addition, passive immunization with anti-ΔC NS1
+Abs provides protection against DENV infection in a
+hemorrhagic mouse model (unpublished data).  We are
+currently evaluating the application of ΔC NS1 protein
+for vaccine development.
+Another alternative approach is the production of
+fusion proteins, such as E-NS1 proteins expressed by E
+coli [143] and prM-E-NS1 proteins encoded by DNA
+vaccine [144] which provide protection in mice. How-
+ever, the cross-protection against other serotypes needs
+to be further investigated.
+Conclusions
+Although no licensed dengue vaccine is yet available, the
+ever-increasing knowledge of dengue pathogenesis, is
+providing more insights into improved vaccine design.
+Important aspects of dengue vaccine development
+include common features such as immunogenicity,
+reactogenicity and protective efficacy but also dengue-
+unique features such as the heterotypic nature of the
+virus, the risk of ADE and cross-reactivity with host pro-
+teins. Furthermore, all of these aspects should ideally be
+tempered with considerations of cost and stability.
+Competing interests
+The authors declare that they have no competing interests.
+Authors’ contributions
+All authors discussed and designed the concept. SWW, CFL, RA and YSL
+collected information and prepared the manuscript. SWW wrote the
+manuscript. All authors read and approved the final manuscript.
+Acknowledgements
+This work was supported by Grants NSC101-2325-B-006-006, NSC101-2321-
+B-006-002 and NSC101-2321-B-006-031 from the National Science Council,
+Taiwan, and DOH102-TD-B-111-002 from Multidisciplinary Center of
+Excellence for Clinical Trial and Research, Department of Health, Taiwan.
+Author details
+1Department of Microbiology and Immunology, National Cheng Kung
+University Medical College, Tainan, Taiwan. 2Center of Infectious Disease and
+Signaling Research, National Cheng Kung University, Tainan, Taiwan.
+3Institute of Clinical Medicine, National Cheng Kung University Medical
+College, Tainan, Taiwan. 4Department of Biochemistry and Molecular Biology,
+National Cheng Kung University Medical College, Tainan, Taiwan.
+5Department of Medical Laboratory Science and Biotechnology, National
+Cheng Kung University Medical College, Tainan, Taiwan. 6Departments of 
+Microbiology & Immunology and Pediatrics, and Canadian Center for
+Vaccinology, Dalhousie University, Halifax, Nova Scotia, Canada.
+Received: 26 March 2013 Accepted: 13 May 2013
+Published: 13 June 2013
+References
+1.  Simmons CP, Farrar JJ, Nguyen vV, Wills B: Dengue. N Engl J Med 2012,
+366:1423–1432.
+2.  Guzman MG, Halstead SB, Artsob H, Buchy P, Farrar J, Gubler DJ,
+Hunsperger E, Kroeger A, Margolis HS, Martinez E, et al: Dengue: a
+continuing global threat. Nat Rev Microbiol 2010, 8:S7–S16.
+3.  Henchal EA, Putnak JR: The dengue viruses. Clin Microbiol Rev 1990,
+3:376–396.
+4.  Clyde K, Kyle JL, Harris E: Recent advances in deciphering viral and host
+determinants of dengue virus replication and pathogenesis. J Virol 2006,
+80:11418–11431.
+5.  Chang CJ, Luh HW, Wang SH, Lin HJ, Lee SC, Hu ST: The heterogeneous
+nuclear ribonucleoprotein K (hnRNP K) interacts with dengue virus core
+protein. DNA Cell Biol 2001, 20:569–577.
+6.  Netsawang J, Noisakran S, Puttikhunt C, Kasinrerk W, Wongwiwat W, Malasit
+P, Yenchitsomanus PT, Limjindaporn T: Nuclear localization of dengue
+virus capsid protein is required for DAXX interaction and apoptosis.
+Virus Res 2009, 147:275–283.
+7.  Kaufmann B, Rossmann MG: Molecular mechanisms involved in the early
+steps of flavivirus cell entry. Microbes Infect 2011, 13:1–9.
+8.  Winkler G, Maxwell SE, Ruemmler C, Stollar V: Newly synthesized dengue-2
+virus nonstructural protein NS1 is a soluble protein but becomes
+partially hydrophobic and membrane-associated after dimerization.
+Virology 1989, 171:302–305.
+9.  Welsch S, Miller S, Romero-Brey I, Merz A, Bleck CK, Walther P, Fuller SD,
+Antony C, Krijnse-Locker J, Bartenschlager R: Composition and three-
+dimensional architecture of the dengue virus replication and assembly
+sites. Cell Host Microbe 2009, 5:365–375.
+10. Flamand M, Megret F, Mathieu M, Lepault J, Rey FA, Deubel V: Dengue
+virus type 1 nonstructural glycoprotein NS1 is secreted from mammalian
+cells as a soluble hexamer in a glycosylation-dependent fashion. J Virol
+1999, 73:6104–6110.
+11. Avirutnan P, Punyadee N, Noisakran S, Komoltri C, Thiemmeca S,
+Auethavornanan K, Jairungsri A, Kanlaya R, Tangthawornchaikul N,
+Puttikhunt C, et al: Vascular leakage in severe dengue virus infections: a
+potential role for the nonstructural viral protein NS1 and complement.
+J Infect Dis 2006, 193:1078–1088.
+12. Jacobs MG, Robinson PJ, Bletchly C, Mackenzie JM, Young PR: Dengue virus
+nonstructural protein 1 is expressed in a glycosyl-phosphatidylinositol-linked
+form that is capable of signal transduction. FASEB J 2000, 14:1603–1610.
+13. Noisakran S, Dechtawewat T, Avirutnan P, Kinoshita T, Siripanyaphinyo U,
+Puttikhunt C, Kasinrerk W, Malasit P, Sittisombut N: Association of dengue
+virus NS1 protein with lipid rafts. J Gen Virol 2008, 89:2492–2500.
+14. Somnuke P, Hauhart RE, Atkinson JP, Diamond MS, Avirutnan P: N-linked
+glycosylation of dengue virus NS1 protein modulates secretion,
+cell-surface expression, hexamer stability, and interactions with human
+complement. Virology 2011, 413:253–264.
+15. Falgout B, Chanock R, Lai CJ: Proper processing of dengue virus
+nonstructural glycoprotein NS1 requires the N-terminal hydrophobic
+signal sequence and the downstream nonstructural protein NS2a. J Virol
+1989, 63:1852–1860.
+16. Munoz-Jordan JL, Sanchez-Burgos GG, Laurent-Rolle M, Garcia-Sastre A: Inhibition
+of interferon signaling by dengue virus. Proc Natl Acad Sci USA 2003,
+100:14333–14338.
+17. Niyomrattanakit P, Winoyanuwattikun P, Chanprapaph S,
+Angsuthanasombat C, Panyim S, Katzenmeier G: Identification of residues
+in the dengue virus type 2 NS2B cofactor that are critical for NS3
+protease activation. J Virol 2004, 78:13708–13716.
+18. Zhang L, Mohan PM, Padmanabhan R: Processing and localization of
+Dengue virus type 2 polyprotein precursor NS3-NS4A-NS4B-NS5. J Virol
+1992, 66:7549–7554.
+19. Matusan AE, Pryor MJ, Davidson AD, Wright PJ: Mutagenesis of the Dengue
+virus type 2 NS3 protein within and outside helicase motifs: effects on
+enzyme activity and virus replication. J Virol 2001, 75:9633–9643.
+Page 7
+Wan et al. Journal of Biomedical Science 2013, 20:37
+http://www.jbiomedsci.com/content/20/1/37 
+Page 7 of 9
+20. Benarroch D, Selisko B, Locatelli GA, Maga G, Romette JL, Canard B: The
+RNA helicase, nucleotide 5′-triphosphatase, and RNA 5′-triphosphatase
+activities of Dengue virus protein NS3 are Mg2+-dependent and require
+a functional Walker B motif in the helicase catalytic core. Virology 2004,
+328:208–218.
+21. Munoz-Jordan JL, Laurent-Rolle M, Ashour J, Martinez-Sobrido L, Ashok M,
+Lipkin WI, Garcia-Sastre A: Inhibition of alpha/beta interferon signaling by
+the NS4B protein of flaviviruses. J Virol 2005, 79:8004–8013.
+22. Umareddy I, Chao A, Sampath A, Gu F, Vasudevan SG: Dengue virus NS4B
+interacts with NS3 and dissociates it from single-stranded RNA. J Gen
+Virol 2006, 87:2605–2614.
+23. Egloff MP, Decroly E, Malet H, Selisko B, Benarroch D, Ferron F, Canard B:
+Structural and functional analysis of methylation and 5′-RNA sequence
+requirements of short capped RNAs by the methyltransferase domain of
+dengue virus NS5. J Mol Biol 2007, 372:723–736.
+24. Ackermann M, Padmanabhan R: De novo synthesis of RNA by the dengue
+virus RNA-dependent RNA polymerase exhibits temperature
+dependence at the initiation but not elongation phase. J Biol Chem 2001,
+276:39926–39937.
+25. Kittigul L, Pitakarnjanakul P, Sujirarat D, Siripanichgon K: The differences of
+clinical manifestations and laboratory findings in children and adults
+with dengue virus infection. J Clin Virol 2007, 39:76–81.
+26. Gubler DJ: Dengue and dengue hemorrhagic fever. Clin Microbiol Rev
+1998, 11:480–496.
+27. Srikiatkhachorn A, Green S: Markers of dengue disease severity. Curr Top
+Microbiol Immunol 2009, 338:67–82.
+28. Martina BE, Koraka P, Osterhaus AD: Dengue virus pathogenesis: an
+integrated view. Clin Microbiol Rev 2009, 22:564–581.
+29. Bandyopadhyay S, Lum LC, Kroeger A: Classifying dengue: a review of the
+difficulties in using the WHO case classification for dengue
+haemorrhagic fever. Trop Med Int Health 2006, 11:1238–1255.
+30. Murphy BR, Whitehead SS: Immune response to dengue virus and
+prospects for a vaccine. Annu Rev Immunol 2011, 29:587–619.
+31. Barniol J, Gaczkowski R, Barbato EV, da Cunha RV, Salgado D, Martinez E,
+Segarra CS, Pleites Sandoval EB, Mishra A, Laksono IS, et al: Usefulness
+and applicability of the revised dengue case classification by disease:
+multi-centre study in 18 countries. BMC Infect Dis 2011, 11:106.
+32. Lei HY, Yeh TM, Liu HS, Lin YS, Chen SH, Liu CC: Immunopathogenesis of
+dengue virus infection. J Biomed Sci 2001, 8:377–388.
+33. Green S, Rothman A: Immunopathological mechanisms in dengue and
+dengue hemorrhagic fever. Curr Opin Infect Dis 2006, 19:429–436.
+34. Whitehorn J, Simmons CP: The pathogenesis of dengue. Vaccine 2011,
+29:7221–7228.
+35. Yacoub S, Mongkolsapaya J, Screaton G: The pathogenesis of dengue.
+Curr Opin Infect Dis 2013, 26:284–289.
+36. Guzman A, Isturiz RE: Update on the global spread of dengue. Int J
+Antimicrob Agents 2010, 36(Suppl 1):S40–S42.
+37. Pandey BD, Morita K, Hasebe F, Parquet MC, Igarashi A: Molecular
+evolution, distribution and genetic relationship among the dengue 2
+viruses isolated from different clinical severity. Southeast Asian J Trop Med
+Public Health 2000, 31:266–272.
+38. Vaughn DW, Green S, Kalayanarooj S, Innis BL, Nimmannitya S, Suntayakorn
+S, Endy TP, Raengsakulrach B, Rothman AL, Ennis FA, Nisalak A: Dengue
+viremia titer, antibody response pattern, and virus serotype correlate
+with disease severity. J Infect Dis 2000, 181:2–9.
+39. Cologna R, Rico-Hesse R: American genotype structures decrease dengue virus
+output from human monocytes and dendritic cells. J Virol 2003, 77:3929–3938.
+40. Leitmeyer KC, Vaughn DW, Watts DM, Salas R, Villalobos I, de C, Ramos C,
+Rico-Hesse R: Dengue virus structural differences that correlate with
+pathogenesis. J Virol 1999, 73:4738–4747.
+41. de Borba L, Strottmann DM, de Noronha L, Mason PW, Dos Santos CN:
+Synergistic interactions between the NS3(hel) and E proteins contribute
+to the virulence of dengue virus type 1. PLoS Negl Trop Dis 2012, 6:e1624.
+42. Perng GC, Lei HY, Lin YS, Chokephaibulkit K: Dengue vaccines: challenge
+and confrontation. World J of Vaccines 2011, 1:109–130.
+43. Halstead SB: Neutralization and antibody-dependent enhancement of
+dengue viruses. Adv Virus Res 2003, 60:421–467.
+44. Huang KJ, Yang YC, Lin YS, Huang JH, Liu HS, Yeh TM, Chen SH, Liu CC, Lei
+HY: The dual-specific binding of dengue virus and target cells for the
+antibody-dependent enhancement of dengue virus infection. J Immunol
+2006, 176:2825–2832. 
+45. Ubol S, Phuklia W, Kalayanarooj S, Modhiran N: Mechanisms of immune
+evasion induced by a complex of dengue virus and preexisting
+enhancing antibodies. J Infect Dis 2010, 201:923–935.
+46. Ubol S, Halstead SB: How innate immune mechanisms contribute to antibody-
+enhanced viral infections. Clin Vaccine Immunol 2010, 17:1829–1835.
+47. Halstead SB, Mahalingam S, Marovich MA, Ubol S, Mosser DM: Intrinsic
+antibody-dependent enhancement of microbial infection in
+macrophages: disease regulation by immune complexes. Lancet Infect Dis
+2010, 10:712–722.
+48. Selin LK, Varga SM, Wong IC, Welsh RM: Protective heterologous antiviral
+immunity and enhanced immunopathogenesis mediated by memory T
+cell populations. J Exp Med 1998, 188:1705–1715.
+49. Mongkolsapaya J, Dejnirattisai W, Xu XN, Vasanawathana S,
+Tangthawornchaikul N, Chairunsri A, Sawasdivorn S, Duangchinda T, Dong
+T, Rowland-Jones S, Yenchitsomanus PT, McMichael A, Malasit P, Screaton G:
+Original antigenic sin and apoptosis in the pathogenesis of dengue
+hemorrhagic fever. Nat Med 2003, 9:921–927.
+50. Kurane I, Innis BL, Nimmannitya S, Nisalak A, Meager A, Janus J, Ennis FA:
+Activation of T lymphocytes in dengue virus infections. High levels of
+soluble interleukin 2 receptor, soluble CD4, soluble CD8, interleukin 2,
+and interferon-gamma in sera of children with dengue. J Clin Invest 1991,
+88:1473–1480.
+51. Mangada MM, Rothman AL: Altered cytokine responses of dengue-
+specific CD4+ T cells to heterologous serotypes. J Immunol 2005,
+175:2676–2683.
+52. Hatch S, Endy TP, Thomas S, Mathew A, Potts J, Pazoles P, Libraty DH,
+Gibbons R, Rothman AL: Intracellular cytokine production by dengue
+virus-specific T cells correlates with subclinical secondary infection.
+J Infect Dis 2011, 203:1282–1291.
+53. Malavige GN, Huang LC, Salimi M, Gomes L, Jayaratne SD, Ogg GS: Cellular
+and cytokine correlates of severe dengue infection. PLoS One 2012,
+7:e50387.
+54. Gagnon SJ, Ennis FA, Rothman AL: Bystander target cell lysis and cytokine
+production by dengue virus-specific human CD4(+) cytotoxic T-
+lymphocyte clones. J Virol 1999, 73:3623–3629.
+55. Rothman AL: Immunity to dengue virus: a tale of original antigenic sin
+and tropical cytokine storms. Nat Rev Immunol 2011, 11:532–543.
+56. Espada-Murao LA, Morita K: Dengue and soluble mediators of the innate
+immune system. Trop Med Health 2011, 39:53–62.
+57. Wan SW, Lin CF, Yeh TM, Liu CC, Liu HS, Wang S, Ling P, Anderson R, Lei
+HY, Lin YS: Autoimmunity in dengue pathogenesis. J Formos Med Assoc
+2013, 112:3–11.
+58. Anderson R, Wang S, Osiowy C, Issekutz AC: Activation of endothelial cells
+via antibody-enhanced dengue virus infection of peripheral blood
+monocytes. J Virol 1997, 71:4226–4232.
+59. King CA, Anderson R, Marshall JS: Dengue virus selectively induces human
+mast cell chemokine production. J Virol 2002, 76:8408–8419.
+60. Juffrie M, van Der Meer GM, Hack CE, Haasnoot K, Sutaryo J, Veerman AJ,
+Thijs LG: Inflammatory mediators in dengue virus infection in children:
+interleukin-8 and its relationship to neutrophil degranulation.
+Infect Immun 2000, 68:702–707.
+61. Nascimento EJ, Silva AM, Cordeiro MT, Brito CA, Gil LH, Braga-Neto U,
+Marques ET: Alternative complement pathway deregulation is correlated
+with dengue severity. PLoS One 2009, 4:e6782.
+62. Avirutnan P, Malasit P, Seliger B, Bhakdi S, Husmann M: Dengue virus
+infection of human endothelial cells leads to chemokine production,
+complement activation, and apoptosis. J Immunol 1998, 161:6338–6346.
+63. Lin CF, Lei HY, Liu CC, Liu HS, Yeh TM, Wang ST, Yang TI, Sheu FC, Kuo CF,
+Lin YS: Generation of IgM anti-platelet autoantibody in dengue patients.
+J Med Virol 2001, 63:143–149.
+64. Saito M, Oishi K, Inoue S, Dimaano EM, Alera MT, Robles AM, Estrella BD Jr,
+Kumatori A, Moji K, Alonzo MT, et al: Association of increased platelet-
+associated immunoglobulins with thrombocytopenia and the severity of
+disease in secondary dengue virus infections. Clin Exp Immunol 2004,
+138:299–303.
+65. Oishi K, Inoue S, Cinco MT, Dimaano EM, Alera MT, Alfon JA, Abanes F, Cruz
+DJ, Matias RR, Matsuura H, et al: Correlation between increased platelet-
+associated IgG and thrombocytopenia in secondary dengue virus
+infections. J Med Virol 2003, 71:259–264.
+66. Falconar AK: The dengue virus nonstructural-1 protein (NS1) generates
+antibodies to common epitopes on human blood clotting, integrin/
+Page 8
+Wan et al. Journal of Biomedical Science 2013, 20:37
+http://www.jbiomedsci.com/content/20/1/37 
+Page 8 of 9
+adhesin proteins and binds to human endothelial cells: potential
+implications in haemorrhagic fever pathogenesis. Arch Virol 1997,
+142:897–916.
+67. Lin CF, Lei HY, Shiau AL, Liu CC, Liu HS, Yeh TM, Chen SH, Lin YS:
+Antibodies from dengue patient sera cross-react with endothelial cells
+and induce damage. J Med Virol 2003, 69:82–90.
+68. Falconar AK: Antibody responses are generated to immunodominant
+ELK/KLE-type motifs on the nonstructural-1 glycoprotein during live
+dengue virus infections in mice and humans: implications for
+diagnosis, pathogenesis, and vaccine design. Clin Vaccine Immunol 2007,
+14:493–504.
+69. Markoff LJ, Innis BL, Houghten R, Henchal LS: Development of cross-
+reactive antibodies to plasminogen during the immune response to
+dengue virus infection. J Infect Dis 1991, 164:294–301.
+70. Chungue E, Poli L, Roche C, Gestas P, Glaziou P, Markoff LJ: Correlation
+between detection of plasminogen cross-reactive antibodies and
+hemorrhage in dengue virus infection. J Infect Dis 1994, 170:1304–1307.
+71. Lin YS, Yeh TM, Lin CF, Wan SW, Chuang YC, Hsu TK, Liu HS, Liu CC,
+Anderson R, Lei HY: Molecular mimicry between virus and host and its
+implications for dengue disease pathogenesis. Exp Biol Med (Maywood)
+2011, 236:515–523.
+72. Chuang YC, Lin YS, Liu CC, Liu HS, Liao SH, Shi MD, Lei HY, Yeh TM: Factors
+contributing to the disturbance of coagulation and fibrinolysis in
+dengue virus infection. J Formos Med Assoc 2013, 112:12–17.
+73. Rothman AL: Dengue: defining protective versus pathologic immunity.
+J Clin Invest 2004, 113:946–951.
+74. van der Schaar HM, Wilschut JC, Smit JM: Role of antibodies in controlling
+dengue virus infection. Immunobiology 2009, 214:613–629.
+75. Wahala WM, Silva AM: The human antibody response to dengue virus
+infection. Viruses 2011, 3:2374–2395.
+76. Kaufman BM, Summers PL, Dubois DR, Eckels KH: Monoclonal antibodies
+against dengue 2 virus E-glycoprotein protect mice against lethal
+dengue infection. Am J Trop Med Hyg 1987, 36:427–434.
+77. Schlesinger JJ, Brandriss MW, Walsh EE: Protection of mice against dengue
+2 virus encephalitis by immunization with the dengue 2 virus non-
+structural glycoprotein NS1. J Gen Virol 1987, 68(Pt 3):853–857.
+78. Kaufman BM, Summers PL, Dubois DR, Cohen WH, Gentry MK, Timchak RL,
+Burke DS, Eckels KH: Monoclonal antibodies for dengue virus prM
+glycoprotein protect mice against lethal dengue infection. Am J Trop
+Med Hyg 1989, 41:576–580.
+79. Duangchinda T, Dejnirattisai W, Vasanawathana S, Limpitikul W,
+Tangthawornchaikul N, Malasit P, Mongkolsapaya J, Screaton G:
+Immunodominant T-cell responses to dengue virus NS3 are associated
+with DHF. Proc Natl Acad Sci U S A 2010, 107:16922–16927.
+80. An J, Zhou DS, Zhang JL, Morida H, Wang JL, Yasui K: Dengue-specific CD8
++ T cells have both protective and pathogenic roles in dengue virus
+infection. Immunol Lett 2004, 95:167–174.
+81. Yauch LE, Zellweger RM, Kotturi MF, Qutubuddin A, Sidney J, Peters B,
+Prestwood TR, Sette A, Shresta S: A protective role for dengue virus-
+specific CD8+ T cells. J Immunol 2009, 182:4865–4873.
+82. Gil L, Lopez C, Lazo L, Valdes I, Marcos E, Alonso R, Gambe A, Martin J,
+Romero Y, Guzman MG, et al: Recombinant nucleocapsid-like particles
+from dengue-2 virus induce protective CD4+ and CD8+ cells against viral
+encephalitis in mice. Int Immunol 2009, 21:1175–1183.
+83. Gil L, Lopez C, Blanco A, Lazo L, Martin J, Valdes I, Romero Y, Figueroa Y,
+Guillen G, Hermida L: The cellular immune response plays an important
+role in protecting against dengue virus in the mouse encephalitis
+model. Viral Immunol 2009, 22:23–30.
+84. Zompi S, Santich BH, Beatty PR, Harris E: Protection from secondary
+dengue virus infection in a mouse model reveals the role of serotype
+cross-reactive B and T cells. J Immunol 2012, 188:404–416.
+85. Zompi S, Montoya M, Pohl MO, Balmaseda A, Harris E: Dominant cross-
+reactive B cell response during secondary acute dengue virus infection
+in humans. PLoS Negl Trop Dis 2012, 6:e1568.
+86. Whitehead SS, Blaney JE, Durbin AP, Murphy BR: Prospects for a dengue
+virus vaccine. Nat Rev Microbiol 2007, 5:518–528.
+87. Thomas SJ, Endy TP: Critical issues in dengue vaccine development.
+Curr Opin Infect Dis 2011, 24:442–450.
+88. Cassetti MC, Durbin A, Harris E, Rico-Hesse R, Roehrig J, Rothman A,
+Whitehead S, Natarajan R, Laughlin C: Report of an NIAID workshop on
+dengue animal models. Vaccine 2010, 28:4229–4234. 
+89. Yauch LE, Shresta S: Mouse models of dengue virus infection and disease.
+Antiviral Res 2008, 80:87–93.
+90. Zompi S, Harris E: Animal models of dengue virus infection. Viruses 2012,
+4:62–82.
+91. Blaney JE Jr, Sathe NS, Hanson CT, Firestone CY, Murphy BR, Whitehead SS:
+Vaccine candidates for dengue virus type 1 (DEN1) generated by
+replacement of the structural genes of rDEN4 and rDEN4Delta30 with
+those of DEN1. Virol J 2007, 4:23.
+92. Brewoo JN, Kinney RM, Powell TD, Arguello JJ, Silengo SJ, Partidos CD,
+Huang CY, Stinchcomb DT, Osorio JE: Immunogenicity and efficacy of
+chimeric dengue vaccine (DENVax) formulations in interferon-deficient
+AG129 mice. Vaccine 2012, 30:1513–1520.
+93. Murrell S, Wu SC, Butler M: Review of dengue virus and the development
+of a vaccine. Biotechnol Adv 2011, 29:239–247.
+94. Monath TP: Treatment of yellow fever. Antiviral Res 2008, 78:116–124.
+95. Eckels KH, Dubois DR, Putnak R, Vaughn DW, Innis BL, Henchal EA, Hoke CH
+Jr: Modification of dengue virus strains by passage in primary dog
+kidney cells: preparation of candidate vaccines and immunization of
+monkeys. Am J Trop Med Hyg 2003, 69:12–16.
+96. Bhamarapravati N, Sutee Y: Live attenuated tetravalent dengue vaccine.
+Vaccine 2000, 18(Suppl 2):44–47.
+97. Sun W, Edelman R, Kanesa-Thasan N, Eckels KH, Putnak JR, King AD, Houng
+HS, Tang D, Scherer JM, Hoke CH Jr, Innis BL: Vaccination of human
+volunteers with monovalent and tetravalent live-attenuated dengue
+vaccine candidates. Am J Trop Med Hyg 2003, 69:24–31.
+98. Sabchareon A, Lang J, Chanthavanich P, Yoksan S, Forrat R, Attanath P,
+Sirivichayakul C, Pengsaa K, Pojjaroen-Anant C, Chokejindachai W, et al:
+Safety and immunogenicity of tetravalent live-attenuated dengue
+vaccines in Thai adult volunteers: role of serotype concentration, ratio,
+and multiple doses. Am J Trop Med Hyg 2002, 66:264–272.
+99. Sabchareon A, Lang J, Chanthavanich P, Yoksan S, Forrat R, Attanath P,
+Sirivichayakul C, Pengsaa K, Pojjaroen-Anant C, Chambonneau L, et al:
+Safety and immunogenicity of a three dose regimen of two tetravalent
+live-attenuated dengue vaccines in five- to twelve-year-old Thai children.
+Pediatr Infect Dis J 2004, 23:99–109.
+100. Sanchez V, Gimenez S, Tomlinson B, Chan PK, Thomas GN, Forrat R,
+Chambonneau L, Deauvieau F, Lang J, Guy B: Innate and adaptive cellular
+immunity in flavivirus-naive human recipients of a live-attenuated
+dengue serotype 3 vaccine produced in Vero cells (VDV3). Vaccine 2006,
+24:4914–4926.
+101. Thomas SJ, Eckels KH, Carletti I, De La Barrera R, Dessy F, Fernandez S,
+Putnak R, Toussaint JF, Sun W, Bauer K, et al: A phase II, randomized, safety
+and immunogenicity study of a re-derived, live-attenuated dengue virus
+vaccine in healthy adults. Am J Trop Med Hyg 2013, 88:73–88.
+102. Men R, Bray M, Clark D, Chanock RM, Lai CJ: Dengue type 4 virus mutants
+containing deletions in the 3′ noncoding region of the RNA genome:
+analysis of growth restriction in cell culture and altered viremia pattern
+and immunogenicity in rhesus monkeys. J Virol 1996, 70:3930–3937.
+103. McArthur JH, Durbin AP, Marron JA, Wanionek KA, Thumar B, Pierro DJ,
+Schmidt AC, Blaney JE Jr, Murphy BR, Whitehead SS: Phase I clinical
+evaluation of rDEN4Delta30-200,201: a live attenuated dengue 4 vaccine
+candidate designed for decreased hepatotoxicity. Am J Trop Med Hyg
+2008, 79:678–684.
+104. Whitehead SS, Falgout B, Hanley KA, Blaney JE Jr, Markoff L Jr, Murphy BR: A
+live, attenuated dengue virus type 1 vaccine candidate with a 30-
+nucleotide deletion in the 3′ untranslated region is highly attenuated
+and immunogenic in monkeys. J Virol 2003, 77:1653–1657.
+105. Blaney JE Jr, Hanson CT, Hanley KA, Murphy BR, Whitehead SS: Vaccine
+candidates derived from a novel infectious cDNA clone of an American
+genotype dengue virus type 2. BMC Infect Dis 2004, 4:39.
+106. Blaney JE Jr, Hanson CT, Firestone CY, Hanley KA, Murphy BR, Whitehead SS:
+Genetically modified, live attenuated dengue virus type 3 vaccine
+candidates. Am J Trop Med Hyg 2004, 71:811–821.
+107. Durbin AP, Kirkpatrick BD, Pierce KK, Schmidt AC, Whitehead SS:
+Development and clinical evaluation of multiple investigational
+monovalent DENV vaccines to identify components for inclusion in a
+live attenuated tetravalent DENV vaccine. Vaccine 2011, 29:7242–7250.
+108. Barrett AD, Monath TP, Barban V, Niedrig M, Teuwen DE: 17D yellow fever
+vaccines: new insights. A report of a workshop held during the World
+Congress on medicine and health in the tropics, Marseille, France,
+Monday 12 September 2005. Vaccine 2007, 25:2758–2765.
+Page 9
+Wan et al. Journal of Biomedical Science 2013, 20:37
+http://www.jbiomedsci.com/content/20/1/37 
+Page 9 of 9
+109. Barban V, Girerd Y, Aguirre M, Gulia S, Petiard F, Riou P, Barrere B, Lang J:
+High stability of yellow fever 17D-204 vaccine: a 12-year restrospective
+analysis of large-scale production. Vaccine 2007, 25:2941–2950.
+110. Vlaycheva LA, Chambers TJ: Neuroblastoma cell-adapted yellow fever 17D
+virus: characterization of a viral variant associated with persistent
+infection and decreased virus spread. J Virol 2002, 76:6172–6184.
+111. Guirakhoo F, Pugachev K, Zhang Z, Myers G, Levenbook I, Draper K, Lang J,
+Ocran S, Mitchell F, Parsons M, et al: Safety and efficacy of chimeric yellow
+Fever-dengue virus tetravalent vaccine formulations in nonhuman
+primates. J Virol 2004, 78:4761–4775.
+112. Morrison D, Legg TJ, Billings CW, Forrat R, Yoksan S, Lang J: A novel
+tetravalent dengue vaccine is well tolerated and immunogenic against
+all 4 serotypes in flavivirus-naive adults. J Infect Dis 2010, 201:370–377.
+113. Poo J, Galan F, Forrat R, Zambrano B, Lang J, Dayan GH: Live-attenuated
+tetravalent fengue vaccine in dengue-naive children, adolescents, and
+adults in Mexico City: randomized controlled Phase 1 trial of safety and
+immunogenicity. Pediatr Infect Dis J 2011, 30:e9–e11.
+114. Capeding RZ, Luna IA, Bomasang E, Lupisan S, Lang J, Forrat R, Wartel A,
+Crevat D: Live-attenuated, tetravalent dengue vaccine in children,
+adolescents and adults in a dengue endemic country: randomized
+controlled phase I trial in the Philippines. Vaccine 2011, 29:3863–3872.
+115. Sabchareon A, Wallace D, Sirivichayakul C, Limkittikul K, Chanthavanich P,
+Suvannadabba S, Jiwariyavej V, Dulyachai W, Pengsaa K, Wartel TA, et al:
+Protective efficacy of the recombinant, live-attenuated, CYD tetravalent
+dengue vaccine in Thai schoolchildren: a randomised, controlled phase
+2b trial. Lancet 2012, 380:1559–1567.
+116. Halstead SB: Dengue vaccine development: a 75% solution? Lancet 2012,
+380:1535–1536.
+117. Putnak R, Barvir DA, Burrous JM, Dubois DR, D’Andrea VM, Hoke CH, Sadoff
+JC, Eckels KH: Development of a purified, inactivated, dengue-2 virus
+vaccine prototype in Vero cells: immunogenicity and protection in mice
+and rhesus monkeys. J Infect Dis 1996, 174:1176–1184.
+118. Robert Putnak J, Coller BA, Voss G, Vaughn DW, Clements D, Peters I,
+Bignami G, Houng HS, Chen RC, Barvir DA, et al: An evaluation of dengue
+type-2 inactivated, recombinant subunit, and live-attenuated vaccine
+candidates in the rhesus macaque model. Vaccine 2005, 23:4442–4452.
+119. Jaiswal S, Khanna N, Swaminathan S: Replication-defective adenoviral
+vaccine vector for the induction of immune responses to dengue virus
+type 2. J Virol 2003, 77:12907–12913.
+120. Men R, Wyatt L, Tokimatsu I, Arakaki S, Shameem G, Elkins R, Chanock R,
+Moss B, Lai CJ: Immunization of rhesus monkeys with a recombinant of
+modified vaccinia virus Ankara expressing a truncated envelope
+glycoprotein of dengue type 2 virus induced resistance to dengue type
+2 virus challenge. Vaccine 2000, 18:3113–3122.
+121. Konishi E, Fujii A: Dengue type 2 virus subviral extracellular particles
+produced by a stably transfected mammalian cell line and their
+evaluation for a subunit vaccine. Vaccine 2002, 20:1058–1067.
+122. Guzman MG, Rodriguez R, Hermida L, Alvarez M, Lazo L, Mune M, Rosario D,
+Valdes K, Vazquez S, Martinez R, et al: Induction of neutralizing antibodies
+and partial protection from viral challenge in Macaca fascicularis
+immunized with recombinant dengue 4 virus envelope glycoprotein
+expressed in Pichia pastoris. Am J Trop Med Hyg 2003, 69:129–134.
+123. Kelly EP, Greene JJ, King AD, Innis BL: Purified dengue 2 virus envelope
+glycoprotein aggregates produced by baculovirus are immunogenic in
+mice. Vaccine 2000, 18:2549–2559.
+124. Clements DE, Coller BA, Lieberman MM, Ogata S, Wang G, Harada KE,
+Putnak JR, Ivy JM, McDonell M, Bignami GS, et al: Development of a
+recombinant tetravalent dengue virus vaccine: immunogenicity and
+efficacy studies in mice and monkeys. Vaccine 2010, 28:2705–2715.
+125. Coller BA, Clements DE, Bett AJ, Sagar SL, Ter Meulen JH: The development
+of recombinant subunit envelope-based vaccines to protect against
+dengue virus induced disease. Vaccine 2011, 29:7267–7275.
+126. Chin JF, Chu JJ, Ng ML: The envelope glycoprotein domain III of dengue
+virus serotypes 1 and 2 inhibit virus entry. Microbes Infect 2007, 9:1–6.
+127. Hermida L, Bernardo L, Martin J, Alvarez M, Prado I, Lopez C, Sierra Bde L,
+Martinez R, Rodriguez R, Zulueta A, et al: A recombinant fusion protein
+containing the domain III of the dengue-2 envelope protein is
+immunogenic and protective in nonhuman primates. Vaccine 2006,
+24:3165–3171.
+128. Leng CH, Liu SJ, Tsai JP, Li YS, Chen MY, Liu HH, Lien SP, Yueh A, Hsiao KN,
+Lai LW, et al: A novel dengue vaccine candidate that induces cross- 
+neutralizing antibodies and memory immunity. Microbes Infect 2009,
+11:288–295.
+129. Chen HW, Liu SJ, Li YS, Liu HH, Tsai JP, Chiang CY, Chen MY, Hwang CS,
+Huang CC, Hu HM, et al: A consensus envelope protein domain III can
+induce neutralizing antibody responses against serotype 2 of dengue
+virus in non-human primates. Arch Virol 2013. Epub ahead of print
+PubMed PMID: 23456422.
+130. Chen HW, Liu SJ, Liu HH, Kwok Y, Lin CL, Lin LH, Chen MY, Tsai JP, Chang
+LS, Chiu FF, et al: A novel technology for the production of a
+heterologous lipoprotein immunogen in high yield has implications for
+the field of vaccine design. Vaccine 2009, 27:1400–1409.
+131. Chiang CY, Liu SJ, Tsai JP, Li YS, Chen MY, Liu HH, Chong P, Leng CH, Chen
+HW: A novel single-dose dengue subunit vaccine induces memory
+immune responses. PLoS One 2011, 6:e23319.
+132. Wahala WM, Kraus AA, Haymore LB, Accavitti-Loper MA, de Silva AM:
+Dengue virus neutralization by human immune sera: Role of envelope
+protein domain III-reactive antibody. Virology 2009, 392:103–113.
+133. Midgley CM, Bajwa-Joseph M, Vasanawathana S, Limpitikul W, Wills B,
+Flanagan A, Waiyaiya E, Tran HB, Cowper AE, Chotiyarnwong P, et al:
+An in-depth analysis of original antigenic sin in dengue virus infection.
+J Virol 2011, 85:410–421.
+134. Williams KL, Wahala WM, Orozco S, de Silva AM, Harris E: Antibodies
+targeting dengue virus envelope domain III are not required for
+serotype-specific protection or prevention of enhancement in vivo.
+Virology 2012, 429:12–20.
+135. Henchal EA, Henchal LS, Schlesinger JJ: Synergistic interactions of anti-NS1
+monoclonal antibodies protect passively immunized mice from lethal
+challenge with dengue 2 virus. J Gen Virol 1988, 69(Pt 8):2101–2107.
+136. Wu SF, Liao CL, Lin YL, Yeh CT, Chen LK, Huang YF, Chou HY, Huang JL,
+Shaio MF, Sytwu HK: Evaluation of protective efficacy and immune
+mechanisms of using a non-structural protein NS1 in DNA vaccine
+against dengue 2 virus in mice. Vaccine 2003, 21:3919–3929.
+137. Costa SM, Freire MS, Alves AM: DNA vaccine against the non-structural 1
+protein (NS1) of dengue 2 virus. Vaccine 2006, 24:4562–4564.
+138. Costa SM, Azevedo AS, Paes MV, Sarges FS, Freire MS, Alves AM: DNA
+vaccines against dengue virus based on the ns1 gene: the influence of
+different signal sequences on the protein expression and its correlation
+to the immune response elicited in mice. Virology 2007, 358:413–423.
+139. Falgout B, Bray M, Schlesinger JJ, Lai CJ: Immunization of mice with
+recombinant vaccinia virus expressing authentic dengue virus
+nonstructural protein NS1 protects against lethal dengue virus
+encephalitis. J Virol 1990, 64:4356–4363.
+140. Amorim JH, Diniz MO, Cariri FA, Rodrigues JF, Bizerra RS, Goncalves AJ, de
+Barcelos Alves AM, de Souza Ferreira LC: Protective immunity to DENV2
+after immunization with a recombinant NS1 protein using a genetically
+detoxified heat-labile toxin as an adjuvant. Vaccine 2012, 30:837–845.
+141. Lin CF, Wan SW, Cheng HJ, Lei HY, Lin YS: Autoimmune pathogenesis in
+dengue virus infection. Viral Immunol 2006, 19:127–132.
+142. Chen MC, Lin CF, Lei HY, Lin SC, Liu HS, Yeh TM, Anderson R, Lin YS:
+Deletion of the C-terminal region of dengue virus nonstructural protein
+1 (NS1) abolishes anti-NS1-mediated platelet dysfunction and bleeding
+tendency. J Immunol 2009, 183:1797–1803.
+143. Srivastava AK, Putnak JR, Warren RL, Hoke CH Jr: Mice immunized with a
+dengue type 2 virus E and NS1 fusion protein made in Escherichia coli
+are protected against lethal dengue virus infection. Vaccine 1995,
+13:1251–1258.
+144. Lu H, Xu XF, Gao N, Fan DY, Wang J, An J: Preliminary evaluation of DNA
+vaccine candidates encoding dengue-2 prM/E and NS1: their immunity
+and protective efficacy in mice. Mol Immunol 2013, 54:109–114.
+doi:10.1186/1423-0127-20-37
+Cite this article as: Wan et al.: Current progress in dengue vaccines.
+Journal of Biomedical Science 2013 20:37.

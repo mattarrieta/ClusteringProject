@@ -1,0 +1,766 @@
+BOOKMARKS:
+Abstract
+Review
+  Introduction
+  Signals for macrophage differentiation and activation
+  Role of M-CSF and GM-CSF in macrophage differentiation
+  Differential response of murine “inflammatory Mϕ” and “resting Mϕ” to lipopolysaccharide (LPS)
+  Inflammasome activation and viral infections
+  Distinct regulation of inflammasome activation by DV in human “inflammatory Mϕ” and “resting Mϕ”
+  Differential expression of innate immunity receptors and inflammasomes in human macrophage subsets
+Conclusions
+Abbreviations
+Competing interests
+Authors’ contributions
+Acknowledgements
+Author details
+References
+Page 1
+Wu et al. Journal of Biomedical Science 2013, 20:36
+http://www.jbiomedsci.com/content/20/1/36
+REVIEW  Open Access
+Distinct regulation of dengue virus-induced
+inflammasome activation in human macrophage
+subsets
+Ming-Fang Wu1, Szu-Ting Chen1 and Shie-Liang Hsieh1,2,3*
+Abstract
+Macrophages (Mϕ) are the major source of inflammatory cytokines and are target cells for dengue virus (DV)
+replication. However, Mϕ are heterogeneous and their phenotypic and functional diversities are influenced by
+cytokines that regulate their differentiation, tissue distribution, and defense against invading pathogens. In vitro,
+human primary macrophages are derived from peripheral blood CD14+ monocytes in the presence of macrophage
+colony-stimulating factor (M-CSF) or granulocyte macrophage colony-stimulating factor (GM-CSF). These are
+essential for developing tissue/resting macrophages (M-Mϕ) and inflammatory macrophages (GM-Mϕ), respectively.
+While IFN production is similar between M-Mϕ and GM-Mϕ, M-Mϕ cannot produce IL-1β after DV infection. In
+contrast, GM-Mϕ is more susceptible to DV infection and DV triggers CLEC5A in GM-Mϕ to activate NLRP3
+inflammasomes, which in turn release IL-18 and IL-1β that are critical for Th17 activation and contribute to disease
+severity. Thus, GM-Mϕ is more representative than M-Mϕ for investigating inflammasome activation in dengue
+infection, and is invaluable for revealing the molecular mechanism of pathogen-induced inflammatory reaction.
+Distinct phenotypes of macrophage subsets under the influence of M-CSF and GM-CSF raise the question of
+optimal conditions for culturing primary macrophages to study host-pathogen interaction.
+Keywords: Dengue Virus (DV), Inflammasomes, Macrophages (Mϕ), Resting macrophages (M- Mϕ), Inflammatory
+macrophages (GM- Mϕ), C-type lectin receptor (CLR), CLEC5A
+Review
+Introduction
+Dengue virus (DV) is a positive-sense, single-stranded
+RNA virus that belongs to the flavivirus genus of the
+Flaviviridae family. It is transmitted among humans by
+the Aedes mosquitoes and is prevalent in over 100 tropical
+and sub-tropical countries, with about 2.5 billion people at
+risk [1]. Infection causes a spectrum of illness ranging from
+sub-clinical and mild febrile illness to classical dengue fever
+(DF) to severe and sometimes fatal hemorrhagic disease
+[1].  Classical DF is an acute febrile illness that usually
+occurs in older children and adults and is often charac-
+terized by fever, frontal headache, myalgia, arthralgia,
+nausea, vomiting, and rash lasting 3–7 days [2]. While DF
+* Correspondence: [URL: "mailto:slhsieh@ym.edu.tw"] slhsieh@ym.edu.tw
+1Institute of Clinical Medicine & Infection and Immunity Center, National
+Yang-Ming University, Taipei 112, Taiwan
+2Genomics Research Center, Academia Sinica, Taipei 115, Taiwan
+Full list of author information is available at the end of the article 
+is self-limiting in most cases, it can progress into dengue
+hemorrhagic fever (DHF) or dengue shock syndrome
+(DSS). The signaling pathway leading to dengue infection
+had been unclear until the myeloid Syk-coupled C-type
+lectin CLEC5A was identified as the therapeutic target of
+DF/DHF [3].
+Macrophages (Mϕ) are thought to originate from
+hematopoietic stem cells (HSCs) during development
+and reside in various tissues such as Kupffer cells in
+the liver, microglia in the brain, alveolar macrophage
+in the lungs, osteoclast in the bone, and in lymph
+nodes and other tissues. Tissue macrophages play a
+broad role in maintaining tissue homeostasis via clear-
+ance of senescent cells and tissue remodeling and
+repair. While macrophage colony-stimulating factor
+(M-CSF) has been applied to induce monocyte differen-
+tiation into macrophages for host-pathogen interaction,
+recent studies reveal that granulocyte macrophage
+colony-stimulating factor (GM-CSF) is influential in
+© 2013 Wu et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License ([URL: "http://creativecommons.org/licenses/by/2.0"] http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly cited.
+Page 2
+Wu et al. Journal of Biomedical Science 2013, 20:36
+http://www.jbiomedsci.com/content/20/1/36 
+Page 2 of 9
+skewing macrophage differentiation into distinct phe-
+notypes. Hamilton [4] proposed that a constant M-CSF
+level is necessary to keep the Mϕ population in a resting
+and homeostatic situation (M-Mϕ or resting macrophage),
+while local GM-CSF elevation during infection triggers
+Mϕ into an inflammatory condition (GM-Mϕ or inflam-
+matory macrophage).
+While GM-Mϕ has condensed nuclei and relatively
+abundant cytoplasm rich in mitochondria, M-Mϕ has
+relatively smaller nuclei and less cytoplasm filled with ly-
+sosomes. Moreover, differential expression of Toll-like
+receptors (TLRs),  C-type lectin receptors (CLRs),  and
+cytosolic retinoid acid-inducible gene I (RIG-I)-like
+receptors (RLRs) have been observed [5]. While M-Mϕ
+is less sensitive to DV infection and do not produce
+interleukin-1beta (IL-1β) and IL-18, GM-Mϕ is highly
+susceptible to DV infection, release higher levels of tumor
+necrosis factor-alpha (TNF-α),  and activate NLR family
+PYD-containing protein 3 (NLRP3) inflammasome to se-
+crete IL-1β and IL-18 and become pyroptosis [5].
+Inflammasome is composed of three components:
+the nucleotide-binding domain and leucine-rich repeat
+containing (NLR) proteins or the pyrin and HIN domain
+containing family member (PYHIN), apoptosis-associated
+speck-like protein containing a CARD (Asc), and pro-
+caspase-1. Activation of TLRs and CLRs results in the
+assembling of inflammasome to activate caspase-1,
+which further processes pro-IL-1β and IL-18 into mature
+forms and induces pyroptosis. Since inflammasomes play
+critical roles in Th17 activation and tissue damage during
+acute and chronic inflammation, GM-Mϕ may be an ideal
+in vitro model system to investigate the regulation of
+inflammasome activation by pathogens [6].
+In addition to DV, the influenza virus elicits differ-
+ent responses from macrophage subsets, which is at-
+tributed to the distinct culture conditions in vitro.
+Cheung et al. demonstrated that H5N1 virus induced
+higher levels of TNF-α and interferon beta (IFNβ)
+than H1N1 and H3N2 in human macrophages differ-
+entiated by heat-inactivated autologous plasma [7].
+However, Friesenhagen et al. suggested that induction
+of pro-inflammatory cytokines and type I IFNs were
+significantly abolished in H5N1-infected macrophages
+differentiated by cultivating monocytes in Teflon bags
+with RPMI-1640 medium, supplemented by 10% hu-
+man AB serum than in H1N1-infected cells [8]. Thus,
+contradicting results seem come from distinct differen-
+tiation methods for macrophage subsets used in the
+study of host-pathogen interaction.
+To address this important issue, cytokines optimal for
+macrophage differentiation is discussed and the current
+strategy of using human M-CSF to drive monocyte differ-
+entiation in vitro models to study host-pathogen inter-
+action is re-visited. 
+Signals for macrophage differentiation and activation
+Macrophages can differentiate from either hematopoietic
+progenitor cells (HPC) or circulating monocytes, and dis-
+play distinct phenotypes in host-pathogen interaction
+and the resolution of inflammatory reactions. Various cyto-
+kines and stimulatory signals are involved in the process.
+Monocytes differentiate into resting or inflammatory mac-
+rophages under the influence of M-CSF and GM-CSF, re-
+spectively [9], or into M1 and M2 by interferon-gamma
+(IFN-γ) and IL-4 priming, respectively [10-12]. Stimulation
+of macrophage subsets by pathogen-associated molecular
+patterns (PAMPs),  damage-associated molecular patterns
+(DAMPs), or distinct resolution signal like IL-10, TGF-β
+and glucocorticoids, determine the consequence of host
+immune responses [12,13].
+The M1 macrophages are responsible for the high
+levels of pro-inflammatory cytokines (i.e., TNF-α, IL-1β,
+and IL-6),  IL-12 and IL-23, chemokines (Chemokine
+[C-C motif] ligand 5, CCL5, and C-X-C motif chemokine,
+CXCL10), and low levels of IL-10. As a result, M1 macro-
+phages express strong anti-microbial activity and contrib-
+ute to Th1 response. In contrast, M2 macrophages can be
+further classified into three major groups: M2a (induced by
+IL-4 or IL-13), M2b (induced by immune complexes and
+agonists of IL-1 receptors or TLRs), and M2c (induced by
+glucocorticoids or IL-10 or transforming growth factor
+beta, TGF-β). The M2 macrophages are characterized by
+low IL-12 and high IL-10 production. They are also re-
+sponsible for resolving Th1 response and modulating tissue
+repair and remodeling [10,11,13].
+Role of M-CSF and GM-CSF in macrophage differentiation
+The M-CSF controls the primary regulator of mononuclear
+phagocyte production in vivo and plays an essential role in
+the survival, proliferation, differentiation, and maturation
+of the macrophage myeloid lineage [14]. Mutation of M-
+CSF results in profound macrophage deficiency [15,16]
+similar to that observed in M-CSF receptor knock-out
+mice [17]. In contrast, disturbed hematopoiesis and defi-
+cient macrophages are not observed in GM-CSF knockout
+mice, even though GM-CSF-deficient mice develop ab-
+normal lungs, including peri-brochovascular lymphocyte
+infiltration and surfactant accumulation in the alveoli.
+Moreover, opportunistic bacterial and fungal infections in
+lung tissue are the significant features of GM-CSF-deficient
+mice [18].  The GM-CSF−/− mice is less able to control
+influenza virus infection than WT mice, and GM-CSF
+over-expression in lung epithelial cells in GM-CSF−/− mice
+enhance mice survival after influenza virus infection [19].
+This suggests that GM-CSF is necessary for host defense
+against pathogen invasion, while M-CSF is essential for
+driving monocyte differentiation into macrophage in vivo.
+The M-CSF circulates at detectable levels in a steady
+state (<60 μg/animal) in normal healthy individuals. It is
+Page 3
+Wu et al. Journal of Biomedical Science 2013, 20:36
+http://www.jbiomedsci.com/content/20/1/36 
+Page 3 of 9
+constitutively produced in vitro by several cell types, in-
+cluding fibroblasts, endothelial cells, stromal cells, mac-
+rophages, smooth muscle cells, and osteoblasts [20]. On
+the other hand, GM-CSF expression is spatially regu-
+lated and dramatically up-regulated at inflammation or
+infection sites [4], suggesting that macrophage differen-
+tiation during inflammatory reactions is under the in-
+fluence of GM-CSF, which causes a massive increase in
+the macrophage population of the spleen and liver to
+induce hepato-splenomegaly [21].  Thus, the basal level
+of M-CSF is required to maintain the homeostasis of
+tissue macrophage through M-CSF signaling, while
+the local and temporal increase in GM-CSF, which in-
+hibits M-CSF signaling during inflammation, polarizes
+monocytes to differentiate into inflammatory Mϕ dur-
+ing the inflammatory reaction and shift back to resting
+macrophages after the infection-induced inflammation
+is removed [4].
+At present, inflammatory macrophages are considered
+to contribute to pathogen clearance by releasing many
+mediators like cytotoxic/pro-inflammatory/chemokine
+molecules, to eliminate pathogen infection and regulate
+other cell types while resting macrophages inhibit inflam-
+mation and initiate wound repair. Furthermore, excessive
+activation without resolution may result in tissue injury
+and even multisystem organ failure and death. The persist-
+ence of pro-inflammatory mediators may lead to the devel-
+opment of chronic inflammation. Therefore, the final
+outcome of the response of tissue injury or repair depends
+on the balance between two opposing forces affecting mac-
+rophages [4,13,22].
+Differential response of murine “inflammatory Mϕ” and
+“resting Mϕ” to lipopolysaccharide (LPS)
+Recently, Fleetwood et al. compared the different re-
+sponses of murine bone marrow-derived macrophages
+subsets GM-BMϕ and M-BMϕ to LPS stimulation. After
+LPS stimulation, GM-BMϕ preferentially produced TNF-α,
+IL-6, IL-12p70, and IL-23 whereas, while M-BMϕ gener-
+ated more IL-10 and CCL2 under similar conditions. Inter-
+estingly, phenotypes of GM-BMϕ and M-BMϕ adopt the
+phenotype of other populations if pre-treated with M-CSF
+and GM-CSF, respectively. This indicates the plasticity of
+GM-BMϕ and M-BMϕ by M-CSF and GM-CSF, and
+further supports the argument that GM-BMϕ may be
+the dominant macrophage subset during the inflamma-
+tory reaction [23].
+In addition to GM-CSF, type I IFN has crucial regula-
+tory function in M-BMϕ and GM-BMϕ.  Compared to
+GM-BMϕ,  M-BMϕ constitutively express higher levels
+of IFN-β to enhance type I IFN signaling-dependent
+gene expression, including Ccl5, Ccl12, Irf7, Stat1, Stat2
+and Cxcl10. The autocrine type I IFN signaling in GM-
+BMϕ and M-BMϕ differentially regulates the production 
+of M1 and M2 cytokines after LPS stimulation. These re-
+sults indicate that endogenous and LPS-induced type I
+IFNs participate in regulating the phenotype and func-
+tions of M-BMϕ and GM-BMϕ [24].
+Lacey et al. also revealed that IL-10−/− M-BMϕ pro-
+duced higher amounts of TNF, IL-6, IL-12p70, and IL-
+23p19 after LPS stimulation. Unlike M-BMϕ, GM-BMϕ
+has a similar response to LPS regardless of whether they
+are derived from wild type or IL-10−/− mice [25]. Since
+the phenotype of M-BMϕ reflects steady-state macro-
+phages, the selective influence of IFN-β and IL-10 is
+consistent with the concept that the micro-environment
+can influence the polarization of macrophage differenti-
+ation at the start of immune response, while GM-BMϕ
+in the inflammatory sites are resistant to the influence of
+exogenous cytokines such as IFN-β and IL-10. This
+partly explains the failure of IL-10 to suppress inflamma-
+tory reaction in vivo, where most activated macrophages
+behave as GM-BMϕ resistant to IL-10-mediated immuno-
+suppression in mouse models.
+Inflammasome activation and viral infections
+Unlike other pro-inflammatory cytokines, the production
+of IL-1β and IL-18 is tightly controlled by the activation of
+inflammasome. External signals induce the assembling of
+inflammasome to activate caspase-1, which further pro-
+cesses pro-IL-1β and pro-IL-18 into mature cytokines and
+induce pyroptosis [6]. Three inflammasomes of the NLR
+family (NLRP1, NLR family CARD-containing protein
+[NLRC4],  and NLRP3) and one PYHIN family member
+(absent in melanoma 2 [AIM2]) have been clearly identi-
+fied to regulate IL-1β and IL-18 secretion in macrophages.
+The NLRP1 inflammasome senses anthrax lethal toxin
+while NLRC4 recognizes flagellin delivered through bac-
+terial type III (T3SS) or type IV secretion systems (T4SS).
+The AIM2 inflammasome responds to cytosolic double-
+stranded DNA contributed by bacteria or virus. To
+date, the NLRP3 inflammasome is the well-characterized
+inflammasome that can sense many stimuli, including mi-
+crobial stimuli (i.e., microbial lipopeptide, bacterial RNA,
+dsRNA) and particular molecules (e.g., amyloid deposit, sil-
+ica, and aluminum salts) [26].
+A recent study indicates that inflammasome activa-
+tion plays critical roles in virus infections. Compared
+to the wild-type mice, IL-1RI−/− mice have higher mortality
+after influenza virus infection [27]. IL-1β−/− mice also ex-
+press decreased immune response and increased viral load
+compared to wild-type mice after herpes simplex virus 1
+(HSV-1) infection [28]. Like IL-1RI−/− mice, IL-18−/− mice
+have increased viral load and mortality after influenza virus
+infection compared to the wild-type mice [29].  In other
+study, administration of IL-18 before HSV-1 infection
+raises the survival rates of HSV-1-infected mice [30]. These
+indicate that IL-1β and IL-18 supports immune control
+Page 4
+Wu et al. Journal of Biomedical Science 2013, 20:36
+http://www.jbiomedsci.com/content/20/1/36 
+Page 4 of 9
+against the influenza virus and protects against HSV-
+1-induced encephalitis.
+To escape from host immunity, viruses also evolve dis-
+tinct mechanisms to evade inflammasome activation, in-
+cluding 1) inhibiting inflammasome assembly (i.e., Kaposi's
+sarcoma-associated herpes virus and measles virus [MV]),
+2) blocking caspase-1 function (e.g., orthopoxviruses and
+influenza virus),  and 3) neutralizing IL-1β and IL-18
+(e.g.,  vaccinia virus and cytoplasmic polyhedrosis virus)
+[31].  Thus, understanding of different activations of
+inflammasome in macrophage subsets may help illustrate
+the pathogenesis of dengue fever and dengue virus-
+induced lethal diseases.
+Distinct regulation of inflammasome activation by DV in
+human “inflammatory Mϕ” and “resting Mϕ”
+Human M-Mϕ and dendritic cells (DCs) are the primary
+targets of DV infections [32-35].  Unlike DCs, which
+undergo apoptosis upon DV infection [35], human M-Mϕ
+survive for at least 45 days after DV infection, suggesting
+that M-Mϕ may be regarded as major sources of pro-
+inflammatory cytokines in vivo [32].  Chen et al. fur-
+ther demonstrated that DV activates M-Mϕ to secrete
+pro-inflammatory cytokines via CLEC5A, a DNAX-
+activating protein (DAP12)-associated C-type lectin,
+that is expressed on human M-Mϕ.  Furthermore, an-
+tagonistic mAb against murine CLEC5A can prevent
+DV-induced pro-inflammatory cytokine release and lethal
+diseases in vivo [3].  This demonstrates that CLEC5A is
+crucial for the onset of DF and DHF/DSS, and M-Mϕ may
+be the most important cell subset in dengue infection.
+However, whether or not human inflammatory macro-
+phage subsets display distinct reactions to dengue virus
+infection has not been systemically addressed. In the
+study by Wu et al. [5], GM-Mϕ is more susceptible to
+DV infection than M-Mϕ (100-fold difference) and super-
+natant from DV-infected GM-Mϕ is more potent in in-
+creasing the permeability of endothelia cells, HMEC-1.
+While both cell types produce similar amounts of IFN-α,
+both IL-1β and IL-18 are undetectable in DV-infected
+M-Mϕ.  In contrast, GM-Mϕ produces much higher
+amounts of TNF-α, IL-1β, and IL-18, and less IL-10. Fur-
+thermore, DV-infected GM-Mϕ can become pyroptosis
+due to caspase-1 activation. It is interesting to note that
+DV up-regulates NLRP3 expression without affecting
+NLRC4 and NLRP1, whereas NLRP3 siRNA inhibits DV-
+induced IL-1β and IL-18 secretion specifically in GM-Mϕ.
+Since LPS-priming reportedly induce IL-1β transcription
+and enhance IL-1β production, Wu et al. further compared
+LPS-primed M-Mϕ and GM-Mϕ to DV infection. While
+LPS-priming dramatically increased production of IL-1β
+(25-fold), LPS-primed M-Mϕ still failed to produce detect-
+able IL-1β and IL-18. Since IL-1β and IL-18 production is
+under the control of inflammasomes, this clearly shows the 
+distinct regulation of inflammasomes in M-Mϕ and GM-
+Mϕ. Wu et al. further demonstrated that DV can trigger
+CLEC5A on GM-Mϕ to activate NLRP3 inflammasome,
+leading to the secretion of IL-1β and IL-18 [5]. This obser-
+vation further indicates CLEC5A may play a critical role in
+DV-induced inflammasome activation.
+Supernatants from DV-infected GM-Mϕ are more po-
+tent than that from DV-infected M-Mϕ in increasing the
+permeability change of endothelial cells. As such, GM-
+Mϕ seems more critical than M-Mϕ in the pathogenesis
+of dengue fever, dengue hemorrhagic fever, and dengue
+shock syndrome. The DV-induced inflammasome activa-
+tion pathways in GM-Mϕ and M-Mϕ are summarized in
+Figures 1 and 2 [5].
+In addition to different responses of human M-Mϕ
+and GM-Mϕ to DV, Verreck et al. [36] cultured human
+GM-Mϕ and M-Mϕ to study their distinct roles in
+mycobacteria. They found that GM-Mϕ secreted high
+levels of IL-23 (p40/p19) but not IL-12 (p40/p35) after
+mycobacterial infection, while a secondary signal, IFN-γ,
+induced IL-12p35 transcription and IL-12 production. In
+contrast to GM-Mϕ,  M-Mϕ predominantly produced
+IL-10, but not IL-12 and IL-23. Also, only GM-Mϕ, not
+M-Mϕ, supported Th1 response after mycobacterial in-
+fection. These results indicate that IL-23, but not IL-12,
+is the major type 1 cytokine produced by mycobacteria-
+stimulated GM-Mϕ, and that GM-Mϕ and M-Mϕ also
+play essential roles in anti-mycobacterial immunity.
+Differential expression of innate immunity receptors and
+inflammasomes in human macrophage subsets
+Recently, a comprehensive study was conducted to shed
+light on the expression of TLRs, CLRs, and inflammasome
+components involved in recognizing DV in human M-Mϕ
+and GM-Mϕ. Before incubation with DV, baseline levels of
+TLRs (TLR 3, 7, and 8), Dendritic Cell-Specific Inter-
+cellular adhesion molecule-3-Grabbing Non-integrin
+(DC-SIGN), and most of the inflammasomes receptors
+(except AIM-2 and NLRP12) were higher in M-Mϕ.
+Higher expression levels of CLEC5A and MR were found
+in GM-Mϕ (Figure 3).
+Infection with DV up-regulated the expression levels
+of pro-inflammatory cytokines, chemokines, TLRs, and
+most members of NLRs. In contrast, the expressions of
+CLEC5A, MR, ASC, mitochondrial antiviral signaling pro-
+tein (MAVS),  and members of NLRs (including NLRP1,
+NLRP12, NLRC4, and the NLR family member X1
+[NLRX1]) were down-regulated in both M-Mϕ and
+GM-Mϕ (Figures 4 and 5).
+Although the expression profiling of CLRs, TLRs,
+inflammasomes, pro-inflammatory cytokines, and chemo-
+kines modulated by DV is similar, the relative expression
+levels of genes between M-Mϕ and GM-Mϕ are enormous
+after DV infection (Figure 6). The expressions of CLEC5A,
+Page 5
+Wu et al. Journal of Biomedical Science 2013, 20:36
+http://www.jbiomedsci.com/content/20/1/36 
+Page 5 of 9
+Figure 1 Activation of NLRP3 inflammasome in DV-infected GM-Mϕ. GM-Mϕ is infected with DV directly (A),  or after LPS priming
+(B).  DV binding to CLEC5A recruits DAP12, which is phosphorylated by Src, and then activates Syk. Activated Syk induces the transcription of
+IL-1β,  IL-18, and NLRP3 to activate inflammasome and caspase-1, leading to cell death (pyroptosis) and cleavage of pro-IL-1β and pro-IL-18.
+Secondary signaling, potassium efflux, and lysosome cathepsin B are also involved in NLRP3 inflammasome activation and the release of
+IL-1β and-IL-18 from DV–infected GM-Mϕ.  LPS priming further enhances the transcription of IL-1β (significantly),  IL-18 (slightly),  and NLRP3
+(slightly),  and further increases the secretion of IL-1β.  DV, dengue virus; NLRP, NLR family PYD-containing protein; LPS, lipopolysaccharides;
+IL-1β,  interleukin -1beta.
+MR, NLRP1, and NLRC4 in GM-Mϕ are also higher (2- to
+20-fold) than in M-Mϕ.  It is surprising that NLRP12
+expression is much higher (30-fold) in GM-Mϕ than
+in M-Mϕ.  In addition, although NLRP3 gene expres-
+sion in DV-infected GM-Mϕ is slightly higher than 
+in M-Mϕ (Figure 6), DV infection induces NLRP3 gene
+up-regulation (Figure 4). This effect is not observed in
+M-Mϕ (Figure 5).
+In contrast, expressions of TLR8, melanoma differ-
+entiation-associated antigen 5 (MDA5), NLPRP6, NLRP10,
+Figure 2 Activation of NLRP3 inflammasome in DV–infected M-Mϕ. M-Mϕ is incubated with DV directly (A), or after LPS priming (B). DV
+activates Syk via CLEC5A to up-regulate the transcription of IL-1β (slightly) and IL-18 (significantly), but is unable to induce NLRP3 transcription.
+LPS priming further up-regulates the transcription of IL-1β, but down-regulates IL-18 transcription. LPS priming cannot enhance the transcription
+of NLRP3. NLRP3 inflammasome is not activated in DV-infected M-Mϕ, and thus, is unable to activate caspase-1 to process pro- IL-1β and pro-IL-18. NLRP,
+NLR family PYD-containing protein; DV, dengue virus; LPS, lipopolysaccharides; IL-1β, interleukin -1beta.
+Page 6
+Wu et al. Journal of Biomedical Science 2013, 20:36
+http://www.jbiomedsci.com/content/20/1/36 
+Page 6 of 9
+Figure 3 Relative expression levels of TLRs, CLRs, and
+inflammasome components between GM-Mϕ and M-Mϕ.
+Expression levels of these genes are determined by real time PCR
+and the differential expression levels between GM-Mϕ and M-Mϕ
+are indicated in color: blue (<2 fold), green (2–5 fold), blue (6–20
+fold), brown (21–50 fold), and red (>50 fold). *Indicates the protein
+expression level for the indicated receptor as confirmed by flow
+cytometry. TLR, Toll-like receptor; CLR, C-type lectin receptor. 
+Figure 5 Expression levels of TLRs, CLRs, and inflammasome
+components in M-Mϕ after DV infection. After incubation with
+DV for 24 hours, the expression levels of each gene were determined
+by real-time PCR. The difference in expression levels between mock and
+DV are indicated in color: blue (<2 fold), green (2–5 fold), blue (6–20
+fold), brown (21–50 fold), and red (>50 fold). TLR, Toll-like receptor; CLR,
+C-type lectin receptor; DV, dengue virus.
+Figure 4 Expression levels of TLRs, CLRs, and inflammasome
+components in GM-Mϕ after DV infection. After incubation with
+DV for 24 hours, the expression levels of each gene were determined
+by real-time PCR. The difference in expression levels between mock and
+DV is indicated in color: blue (<2 fold), green (2–5 fold), blue (6–20 fold),
+brown (21–50 fold),  and red (>50 fold).  TLR, Toll-like receptor;
+CLR, C-type lectin receptor; DV, dengue virus. 
+IL-18, IL-25, and CXCL10 (Interferon gamma-induced
+protein 10, IP-10) is higher (2- to 20-fold) in M-Mϕ than
+in GM-Mϕ.  It is interesting to note that expressions of
+TLR7, DC-SIGN, IL-6, and CCL2 (monocyte chemotactic
+protein-1, MCP-1) are up-regulated by more than 30-fold
+in DV-infected M-Mϕ (Figure 6).  The IL-18 mRNA ex-
+pression is higher in DV-infected M-Mϕ, but IL-18 is still
+not detectable in DV-infected M-Mϕ supernatant. This
+suggests the presence of a negative regulator controlling
+NLRP3 activation in DV-infected M-Mϕ.  The different
+expression profiling of cytokines and innate immunity
+receptors/sensors between M-Mϕ and GM-Mϕ further
+supports the notion that these two subsets have distinct
+functions in DV infection.
+Aside from mediating immune response to pathogen
+infection, IL-1β and IL-18 play an important role in
+driving adaptive immunity during infection. The collab-
+oration of IL-1β, IL-18, and IL-23 triggers the secretion
+of IL-17 from Th17 cells and IL-17-secreting γδ T cells.
+As a result, regulation for the synthesis and production
+of IL-1β and IL-18 is the key point for modulating
+IL-17-associated diseases. Recent studies have shown that
+IL-1β can induce the expression of IL-23 and the secretion
+of IL-6, which is essential for Th17 cells differentiation
+[37-39].  The potential role of IL-1β and IL-18 released
+from DV-infected GM-Mϕ in the Th17 differentiation is
+shown in Figure 7.
+Page 7
+Wu et al. Journal of Biomedical Science 2013, 20:36
+http://www.jbiomedsci.com/content/20/1/36 
+Page 7 of 9
+Figure 6 Relative expression levels of TLRs, CLRs, inflammasome components, cytokines, and chemokines between GM-Mϕ and M-Mϕ
+after DV infection. The difference in gene expression levels between GM-Mϕ and M-Mϕ are indicated in color: blue (<2 fold), green (2–5 fold),
+blue (6–20 fold), brown (20–50 fold), and red (>50 fold). TLR, Toll-like receptor; CLR, C-type lectin receptor; DV, dengue virus.
+Conclusions
+IL-1β is the most potent endogenous pyrogen [40,41] and
+is essential for the differentiation of Th17 and other cell
+subsets to fight pathogens [42]. IL-18 serum level corre-
+lates with thrombocytopenia and dengue hemorrhage [43]. 
+Recent studies further demonstrates that serum IL-1β and
+IL-18 levels correlate with susceptibility to dengue [44,45].
+Thus, GM-Mϕ seems to be crucial in understanding the
+pathogenesis of DV-induced lethal diseases. In our recent
+study [5], we observed the differential responses of M-Mϕ
+Figure 7 The combination of NLRP3 inflammasome-processed cytokines and IL-23 during DV infection induced the production of IL-17
+from Th17/γδ Tcells. Stimulation of TLRs in GM-Mϕ with DV can induce the activation of NF-κB and MAPK, which promotes the transcription of
+a range of pro-inflammatory cytokines. NLRP3 inflammasome-activated caspase-1 further processes the pro-IL-1β and pro-IL-18 into their mature
+cytokine form, IL-1β and IL-18. IL-1β can also enhance the production of IL-23 and IL-6. The released IL-1β, IL-18, and IL-23 induce Th17/γδ T cells
+to produce pro-inflammatory cytokines which are responsible for host immune responses against DV infection.
+Page 8
+Wu et al. Journal of Biomedical Science 2013, 20:36
+http://www.jbiomedsci.com/content/20/1/36 
+Page 8 of 9
+and GM-Mϕ to DV, such as infection rate, and the poten-
+tial ability for IL-1β and IL-18 production. The differential
+expression level of MR may determine the differential in-
+fection rate because of its strong binding to DV, while the
+distinct regulation of inflammasome activation in M-Mϕ
+and GM-Mϕ contribute to the differential production of
+IL-1β and IL-18. In GM-Mϕ,  activation of Syk-coupled
+CLEC5A induces the transcription of pro-IL-1β and
+NLRP3 as well as the activation of caspase-1 during DV in-
+fection. Moreover, LPS priming further enhances IL-1β
+production by increasing pro-IL-1β transcription and
+translation (Figure 1). In contrast, transcription of pro-
+IL-1β, NLRP3 and caspase-1 activation are not observed in
+M-Mϕ, thus fails to produce mature IL-1β/IL-18 even with
+LPS priming (Figure 2).
+In contrast, avian influenza virus (HPAIV)-infected
+macrophages can escape inflammasome activation and
+IL-1β production because of the lack of viral M2 protein
+required for NLRP3 inflammasome activation in other
+influenza virus stains [8,46]. This escape mechanism for
+HPAIV may affect the immune response of human mac-
+rophages and enhance the possibility for HPAIV causing
+systemic infection and a cytokine storm in the later stage
+of infection.
+Aside from DV and the influenza virus, intracellular
+bacteria (like Mycobacterium, Salmonella,  and Listeria
+monocytogenes) and fungi (such as Candida albicans
+and Aspergillus fumigatus) also invade and replicate in
+macrophages [26]. However, most studies incubate path-
+ogens with M-Mϕ in vitro and do not compare the dif-
+ferent responses of GM-Mϕ and M-Mϕ.  Whether the
+phenomenon observed in vitro reflects event in vivo
+need to be re-evaluated.
+Inflammasome activation is crucial for starting innate
+immunity and controlling host immune response to
+PAMPs and DAMPs [47].  GM-Mϕ is invaluable for
+the identification of novel genes involved in regulat-
+ing inflammasome activation. By comparing the gene
+expression profiling in GM-Mϕ and M-Mϕ using micro-
+array, it becomes possible to find positive and negative reg-
+ulators to control inflammasome activation and inhibition,
+and help identify novel therapeutic targets for treating hu-
+man diseases due to exaggerated activation or inhibition in
+the future.
+Abbreviations
+M-CSF: Macrophage colony-stimulating factor; GM-CSF: Granulocyte macrophage
+colony-stimulating factor; DF: Dengue fever; DHF: Dengue hemorrhagic fever;
+DSS: Dengue shock syndrome; HSCs: Hematopoietic stem cells; TLR: Toll-like
+receptor; RLR: Retinoid acid-inducible gene I (RIG-I)-like receptors; CLR: C-type
+lectin receptor; MR: Mannose receptor; DC-SIGN: Dendritic Cell-Specific
+Intercellular adhesion molecule-3-Grabbing Non-integrin; RIG-I: Retinoic acid
+inducible gene-I; MDA5: Melanoma differentiation-associated antigen 5;
+AIM2: Absent in melanoma 2; MAVS: Mitochondrial anti-viral signaling protein;
+ASC: Apoptosis-associated speck-like protein containing a CARD;
+NLR: Nucleotide-binding domain leucine-rich repeat; PYHIN: Pyrin and HIN
+domain containing; NLRP: NLR family PYD-containing protein; NLRC: NLR family 
+CARD-containing protein; NLRX1: NLR family member X1; DAP12: DNAX-
+activating protein 12; TNF-α: Tumor necrosis factor; IL-1β: Interleukin-1 beta;
+IFNβ: Interferon beta; IFN-γ: Interferon-gamma; PAMPs: Pathogen-associated
+molecular patterns; DAMPs: Damage-associated molecular patterns; Th1: T-helper
+type 1; LPS: Lipopolysaccharides; CCL5: (Chemokine [C-C motif] ligand 5;
+CXCL10: C-X-C motif chemokine 10; TGF-β:  Transforming growth factor beta;
+IP-10: Interferon gamma-induced protein 10; MCP-1: Monocyte chemotactic
+protein-1; NF-κB: Nuclear factor-κB; HSV-1: Herpes simplex virus 1; KSHV: Kaposi's
+sarcoma-associated herpes virus; MV: Measles virus; CPV: Cytoplasmic
+polyhedrosis virus.
+Competing interests
+The authors declare that they have no competing interests.
+Authors’ contributions
+MFW and STC were involved in literature review, discussion, and drafting of
+the manuscript. SLH initiated the concept and wrote the draft of this
+manuscript. All of the authors read and approved the final manuscript.
+Acknowledgements
+The authors thank I-Shuen Tsai and Wan-Chen Wu for their technical
+support. This work was supported by the National Science Council (NSC 101-
+2325-B-010-006 and NSC 101-2321-B-010-003), Academia Sinica, Thematic
+Research Project (AS-101-TP-B06-2), the Infection and Immunity Center,
+National Yang-Ming University, Taiwan (a grant from the Ministry of
+Education, Aim for the Top University Plan), Taipei Veterans General Hospital
+(V102E4-003), Cheng Hsin General Hospital (102F218C13), Veterans General
+Hospitals, and the University System of Taiwan Joint Research Program
+(VGHUST102-G6-2-1).
+Author details
+1Institute of Clinical Medicine & Infection and Immunity Center, National
+Yang-Ming University, Taipei 112, Taiwan. 2Genomics Research Center,
+Academia Sinica, Taipei 115, Taiwan. 3Immunology Center, Taipei Veterans
+General Hospital, Taipei 112, Taiwan.
+Received: 22 February 2013 Accepted: 27 May 2013
+Published: 7 June 2013
+References
+1.  World Health Organization: Dengue and severe dengue. [URL: "http://http://www.who.int/mediacentre/factsheets/fs117/en/"] http://www.who.
+ int/mediacentre/factsheets/fs117/en/.
+2.  Mackenzie JS, Gubler DJ, Petersen LR: Emerging flaviviruses: the spread
+and resurgence of Japanese encephalitis, West Nile and dengue viruses.
+Nat Med 2004, 10:S98–S109.
+3.  Chen ST, Lin YL, Huang MT, Wu MF, Cheng SC, Lei HY, Lee CK, Chiou TW,
+Wong CH, Hsieh SL: CLEC5A is critical for dengue-virus-induced lethal
+disease. Nature 2008, 453:672–676.
+4.  Hamilton JA: Colony-stimulating factors in inflammation and autoimmunity.
+Nat Rev Immunol 2008, 8:533–544.
+5.  Wu MF, Chen ST, Yang AH, Lin WW, Lin YL, Chen NJ, Tsai IS, Li L, Hsieh SL:
+CLEC5A is critical for dengue virus-induced inflammasome activation in
+human macrophages. Blood 2013, 121:95–106.
+6.  Rathinam VA, Vanaja SK, Fitzgerald KA: Regulation of inflammasome signaling.
+Nat Immunol 2012, 13:333.
+7.  Cheung CY, Poon LL, Lau AS, Luk W, Lau YL, Shortridge KF, Gordon S, Guan Y,
+Peiris JS: Induction of proinflammatory cytokines in human macrophages by
+influenza A (H5N1) viruses: a mechanism for the unusual severity of human
+disease? Lancet 2002, 360:1831–1837.
+8.  Friesenhagen J, Boergeling Y, Hrincius E, Ludwig S, Roth J, Viemann D: Highly
+pathogenic avian influenza viruses inhibit effective immune responses of
+human blood-derived macrophages. J Leukoc Biol 2012, 92:11–20.
+9.  Sieff CA: Hematopoietic growth factors. J Clin Invest 1987, 79:1549–1557.
+10. Chinetti-Gbaguidi G, Staels B: Macrophage polarization in metabolic
+disorders: functions and regulation. Curr Opin Lipidol 2011, 22:365–372.
+11. Liu G, Yang H: Modulation of macrophage activation and programming
+in immunity. J Cell Physiol 2013, 228:502–512.
+12. Gordon S, Martinez FO: Alternative activation of macrophages:
+mechanism and functions. Immunity 2010, 32:593–604.
+13. Laskin DL: Macrophages and inflammatory mediators in chemical
+toxicity: a battle of forces. Chem Res Toxicol 2009, 22:1376–1385.
+Page 9
+Wu et al. Journal of Biomedical Science 2013, 20:36
+http://www.jbiomedsci.com/content/20/1/36 
+Page 9 of 9
+14. Wiktor-Jedrzejczak W, Gordon S: Cytokine regulation of the macrophage
+(M phi) system studied using the colony stimulating factor-1-deficient
+op/op mouse. Physiol Rev 1996, 76:927–947.
+15. Naito M, Hayashi S, Yoshida H, Nishikawa S, Shultz LD, Takahashi K: Abnormal
+differentiation of tissue macrophage populations in 'osteopetrosis' (op) mice
+defective in the production of macrophage colony-stimulating factor. Am J
+Pathol 1991, 139:657–667.
+16. Wiktor-Jedrzejczak W, Ratajczak MZ, Ptasznik A, Sell KW, Ahmed-Ansari A,
+Ostertag W: CSF-1 deficiency in the op/op mouse has differential effects
+on macrophage populations and differentiation stages. Exp Hematol
+1992, 20:1004–1010.
+17. Dai XM, Ryan GR, Hapel AJ, Dominguez MG, Russell RG, Kapp S, Sylvestre V,
+Stanley ER: Targeted disruption of the mouse colony-stimulating factor 1
+receptor gene results in osteopetrosis, mononuclear phagocyte deficiency,
+increased primitive progenitor cell frequencies, and reproductive defects.
+Blood 2002, 99:111–120.
+18. Stanley E, Lieschke GJ, Grail D, Metcalf D, Hodgson G, Gall JA, Maher DW,
+Cebon J, Sinickas V, Dunn AR: Granulocyte/macrophage colony-stimulating
+factor-deficient mice show no major perturbation of hematopoiesis but
+develop a characteristic pulmonary pathology. Proc Natl Acad Sci U S A 1994,
+91:5592–5596.
+19. Sever-Chroneos Z, Murthy A, Davis J, Florence JM, Kurdowska A, Krupa A,
+Tichelaar JW, White MR, Hartshorn KL, Kobzik L, et al: GM-CSF modulates
+pulmonary resistance to influenza A infection. Antiviral Res 2011, 92:319–328.
+20. Fixe P, Lorgeot V, Le Meur Y, Coupey L, Heymann D, Godard A, Praloran V:
+Development of enzymo-immunoassays (EIA) for macrophage colony-
+stimulating factor (M-CSF) and leukaemia inhibitory factor (LIF) by using
+the same capture and signal generating polyclonal antibody. Cytokine
+1996, 8:586–591.
+21. Krakowski M, Abdelmalik R, Mocnik L, Krahl T, Sarvetnick N: Granulocyte
+macrophage-colony stimulating factor (GM-CSF) recruits immune cells to the
+pancreas and delays STZ-induced diabetes. J Pathol 2002, 196:103–112.
+22. Valledor AF, Comalada M, Santamaria-Babi LF, Lloberas J, Celada A:
+Macrophage proinflammatory activation and deactivation: a question of
+balance. Adv Immunol 2010, 108:1–20.
+23. Fleetwood AJ, Lawrence T, Hamilton JA, Cook AD: Granulocyte-macrophage
+colony-stimulating factor (CSF) and macrophage CSF-dependent
+macrophage phenotypes display differences in cytokine profiles and
+transcription factor activities: implications for CSF blockade in inflammation.
+J Immunol 2007, 178:5245–5252.
+24. Fleetwood AJ, Dinh H, Cook AD, Hertzog PJ, Hamilton JA: GM-CSF- and
+M-CSF-dependent macrophage phenotypes display differential dependence
+on type I interferon signaling. J Leukoc Biol 2009, 86:411–421.
+25. Lacey DC, Achuthan A, Fleetwood AJ, Dinh H, Roiniotis J, Scholz GM, Chang
+MW, Beckman SK, Cook AD, Hamilton JA: Defining GM-CSF- and macrophage-
+CSF-dependent macrophage responses by in vitro models. J Immunol 2012,
+188:5752–5765.
+26. Franchi L, Munoz-Planillo R, Nunez G: Sensing and reacting to microbes
+through the inflammasomes. Nat Immunol 2012, 13:325–332.
+27. Schmitz N, Kurrer M, Bachmann MF, Kopf M: Interleukin-1 is responsible
+for acute lung immunopathology but increases survival of respiratory
+influenza virus infection. J Virol 2005, 79:6441–6448.
+28. Sergerie Y, Rivest S, Boivin G: Tumor necrosis factor-alpha and interleukin-
+1 beta play a critical role in the resistance against lethal herpes simplex
+virus encephalitis. J Infect Dis 2007, 196:853–860.
+29. Liu B, Mori I, Hossain MJ, Dong L, Takeda K, Kimura Y: Interleukin-18
+improves the early defence system against influenza virus infection by
+augmenting natural killer cell-mediated cytotoxicity. J Gen Virol 2004,
+85:423–428.
+30. Fujioka N, Akazawa R, Ohashi K, Fujii M, Ikeda M, Kurimoto M: Interleukin-18
+protects mice against acute herpes simplex virus type 1 infection. J Virol
+1999, 73:2401–2409.
+31. Gram AM, Frenkel J, Ressing ME: Inflammasomes and viruses: cellular
+defence versus viral offence. J Gen Virol 2012, 93:2063–2075.
+32. Chen YC, Wang SY: Activation of terminally differentiated human monocytes/
+macrophages by dengue virus: productive infection, hierarchical production
+of innate cytokines and chemokines, and the synergistic effect of
+lipopolysaccharide. J Virol 2002, 76:9877–9887.
+33. Jessie K, Fong MY, Devi S, Lam SK, Wong KT: Localization of dengue virus
+in naturally infected human tissues, by immunohistochemistry and in
+situ hybridization. J Infect Dis 2004, 189:1411–1418. 
+34. Balsitis SJ, Coloma J, Castro G, Alava A, Flores D, McKerrow JH, Beatty PR,
+Harris E: Tropism of dengue virus in mice and humans defined by viral
+nonstructural protein 3-specific immunostaining. Am J Trop Med Hyg
+2009, 80:416–424.
+35. Ho LJ, Wang JJ, Shaio MF, Kao CL, Chang DM, Han SW, Lai JH: Infection of
+human dendritic cells by dengue virus causes cell maturation and
+cytokine production. J Immunol 2001, 166:1499–1506.
+36. Verreck FA, de Boer T, Langenberg DM, Hoeve MA, Kramer M, Vaisberg E,
+Kastelein R, Kolk A, de Waal-Malefyt R, Ottenhoff TH: Human IL-23-producing
+type 1 macrophages promote but IL-10-producing type 2
+macrophages subvert immunity to (myco)bacteria. Pro Natl Acad Sci U S
+A 2004, 101:4560–4565.
+37. Dungan LS, Mills KH: Caspase-1-processed IL-1 family cytokines play a
+vital role in driving innate IL-17. Cytokine 2011, 56:126–132.
+38. Mills KH, Dungan LS, Jones SA, Harris J: The role of inflammasome-derived
+IL-1 in driving IL-17 responses. J Leukoc Biol 2013, 93:489–497.
+39. Peral de Castro C, Jones SA, Ni Cheallaigh C, Hearnden CA, Williams L,
+Winter J, Lavelle EC, Mills KH, Harris J: Autophagy regulates IL-23 secretion
+and innate T cell responses through effects on IL-1 secretion. J Immunol
+2012, 189:4144–4153.
+40. Netea MG, Kullberg BJ, Van der Meer JW: Circulating cytokines as mediators of
+fever. Clin Infect Dis 2000, 31(Suppl 5):S178–S184.
+41. Dinarello CA: Infection, fever, and exogenous and endogenous pyrogens:
+some concepts have changed. J Endotoxin Res 2004, 10:201–222.
+42. Mills KH: Induction, function and regulation of IL-17-producing T cells.
+Eur J Immunol 2008, 38:2636–2649.
+43. Martina BE, Koraka P, Osterhaus AD: Dengue virus pathogenesis: an
+integrated view. Clin Microbiol Rev 2009, 22:564–581.
+44. Mustafa AS, Elbishbishi EA, Agarwal R, Chaturvedi UC: Elevated levels of
+interleukin-13 and IL-18 in patients with dengue hemorrhagic fever.
+FEMS Immunol Med Microbiol 2001, 30:229–233.
+45. Bozza FA, Cruz OG, Zagne SM, Azeredo EL, Nogueira RM, Assis EF, Bozza PT,
+Kubelka CF: Multiplex cytokine profile from dengue patients: MIP-1beta and
+IFN-gamma as predictive factors for severity. BMC Infect Dis 2008, 8:86.
+46. Ichinohe T, Pang IK, Iwasaki A: Influenza virus activates inflammasomes
+via its intracellular M2 ion channel. Nat Immunol 2010, 11:404–410.
+47. Lamkanfi M: Emerging inflammasome effector mechanisms. Nat Rev
+Immunol 2011, 11:213–220.
+doi:10.1186/1423-0127-20-36
+Cite this article as: Wu et al.: Distinct regulation of dengue virus-
+induced inflammasome activation in human macrophage subsets.
+Journal of Biomedical Science 2013 20:36.
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color ﬁgure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at
+www.biomedcentral.com/submit

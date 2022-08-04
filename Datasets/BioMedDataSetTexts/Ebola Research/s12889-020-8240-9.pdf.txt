@@ -1,0 +1,1320 @@
+Creator: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+Producer: Acrobat Distiller 10.0.0 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)
+Title: Hygiene programming during outbreaks: a qualitative case study of the humanitarian response during the Ebola outbreak in Liberia
+Keywords: Ebola,Liberia,Hygiene,Behaviour change,Programme design,Theory,Outbreak
+ModDate: 2020/01/31 20:27:18+01'00'
+Subject: BMC Public Health, 2020, doi:10.1186/s12889-020-8240-9
+Author: Alexandra Czerniewska
+CreationDate: 2020/01/30 12:44:49+08'00'
+xmp:pdf:Keywords: Ebola,Liberia,Hygiene,Behaviour change,Programme design,Theory,Outbreak
+xmp:pdf:Producer: Acrobat Distiller 10.0.0 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)
+xmp:dc:format: application/pdf
+xmp:dc:identifier: 10.1186/s12889-020-8240-9
+xmp:dc:publisher: BMC Public Health
+xmp:dc:description: BMC Public Health, 2020, doi:10.1186/s12889-020-8240-9
+xmp:dc:subject: Ebola; Liberia; Hygiene; Behaviour change; Programme design; Theory; Outbreak
+xmp:dc:title: Hygiene programming during outbreaks: a qualitative case study of the humanitarian response during the Ebola outbreak in Liberia
+xmp:dc:creator: Alexandra Czerniewska; Sian White
+xmp:xmp:ModifyDate: 2020-01-31T20:27:18+01:00
+xmp:xmp:MetadataDate: 2020-01-31T20:27:18+01:00
+xmp:xmp:CreateDate: 2020-01-30T12:44:49+08:00
+xmp:xmp:CreatorTool: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+xmp:xmpMM:DocumentID: uuid:4721781c-0e9c-455b-bd8e-fbdb880195df
+xmp:xmpMM:InstanceID: uuid:a9fafc51-dca5-456c-805e-bd5ebf996c17
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:4721781c-0e9c-455b-bd8e-fbdb880195df
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2020-01-31T03:02:10+08:00
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:author:name: Alexandra Czerniewska
+xmp:author:orcid: http://orcid.org/0000-0001-8370-879X
+xmp:pdfaSchema:schema: Springer Nature ORCID Schema
+xmp:pdfaSchema:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/
+xmp:pdfaSchema:prefix: sn
+xmp:pdfaProperty:name: authorInfo
+xmp:pdfaProperty:valueType: Bag AuthorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Author information: contains the name of each author and his/her ORCID (ORCiD: Open Researcher and Contributor ID). An ORCID is a persistent identifier (a non-proprietary alphanumeric code) to uniquely identify scientific and other academic authors.
+xmp:pdfaProperty:name: editorInfo
+xmp:pdfaProperty:valueType: Bag EditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Editor information: contains the name of each editor and his/her ORCID identifier.
+xmp:pdfaProperty:name: seriesEditorInfo
+xmp:pdfaProperty:valueType: Bag SeriesEditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Series editor information: contains the name of each series editor and his/her ORCID identifier.
+xmp:pdfaType:type: AuthorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/authorInfo/
+xmp:pdfaType:prefix: author
+xmp:pdfaType:description: Specifies the types of author information: name and ORCID of an author.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an author.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an author.
+xmp:pdfaType:type: EditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/editorInfo/
+xmp:pdfaType:prefix: editor
+xmp:pdfaType:description: Specifies the types of editor information: name and ORCID of an editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an editor.
+xmp:pdfaType:type: SeriesEditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/seriesEditorInfo/
+xmp:pdfaType:prefix: seriesEditor
+xmp:pdfaType:description: Specifies the types of series editor information: name and ORCID of a series editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of a series editor.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of a series editor.
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdf/1.3/
+xmp:pdfaSchema:prefix: pdf
+xmp:pdfaSchema:schema: Adobe PDF Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A name object indicating whether the document has been modified to include trapping information
+xmp:pdfaProperty:name: Trapped
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/mm/
+xmp:pdfaSchema:prefix: xmpMM
+xmp:pdfaSchema:schema: XMP Media Management Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: UUID based identifier for specific incarnation of a document
+xmp:pdfaProperty:name: InstanceID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: The common identifier for all versions and renditions of a document.
+xmp:pdfaProperty:name: OriginalDocumentID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A reference to the original document from which this one is derived. It is a minimal reference; missing components can be assumed to be unchanged. For example, a new version might only need to specify the instance ID and version number of the previous version, or a rendition might only need to specify the instance ID and rendition class of the original.
+xmp:pdfaProperty:name: DerivedFrom
+xmp:pdfaProperty:valueType: ResourceRef
+xmp:pdfaType:description: Identifies a portion of a document. This can be a position at which the document has been changed since the most recent event history (stEvt:changed). For a resource within an xmpMM:Ingredients list, the ResourceRef uses this type to identify both the portion of the containing document that refers to the resource, and the portion of the referenced resource that is referenced.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Part#
+xmp:pdfaType:prefix: stPart
+xmp:pdfaType:type: Part
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/t/pg/
+xmp:pdfaSchema:prefix: xmpTPg
+xmp:pdfaSchema:schema: XMP Paged-Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A structure containing the characteristics of a font used in a document
+xmp:pdfaProperty:name: Fonts
+xmp:pdfaProperty:valueType: Bag Font
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: XMP08 Spec: An ordered array of plate names that are needed to print the document (including any in contained documents).
+xmp:pdfaProperty:name: PlateNames
+xmp:pdfaProperty:valueType: Seq Text
+xmp:pdfaType:description: A structure containing the characteristics of a font used in a document.
+xmp:pdfaType:namespaceURI: http://ns.adobe.com/xap/1.0/sType/Font#
+xmp:pdfaType:prefix: stFnt
+xmp:pdfaType:type: Font
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdfx/1.3/
+xmp:pdfaSchema:prefix: pdfx
+xmp:pdfaSchema:schema: PDF/X ID Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: ID of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXVersion
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Conformance level of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXConformance
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Company creating the PDF
+xmp:pdfaProperty:name: Company
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Date when document was last modified
+xmp:pdfaProperty:name: SourceModified
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://www.aiim.org/pdfa/ns/id/
+xmp:pdfaSchema:prefix: pdfaid
+xmp:pdfaSchema:schema: PDF/A ID Schema
+BOOKMARKS:
+Abstract
+  Background
+  Methods
+  Results
+  Conclusions
+Background
+  Ebola virus disease (EVD) in Liberia
+  Changing hygiene behaviours
+  Aims and objectives for the current study
+Methods
+  Sample selection
+  Data collection
+  Data analysis
+  Ethics
+Results
+  Stage one and two: assessment and understanding behaviour
+  Stage three: Programme design
+    The intervention components
+  Decisions and processes affecting how interventions were designed
+  Stage 4: Programme delivery: humanitarian perspectives about what worked and was acceptable
+  Stage 5: evaluation
+Discussion
+  Limited attention to behavioural determinants
+  Limited questioning of assumptions
+  Difficulty of monitoring and evaluation
+  Limitations and reflexivity
+Conclusions
+Supplementary information
+Abbreviations
+Acknowledgments
+Authors’ contributions
+Funding
+Availability of data and materials
+Ethics approval and consent to participate
+Consent for publication
+Competing interests
+References
+Publisher’s Note
+Page 1
+Czerniewska and White BMC Public Health
+https://doi.org/10.1186/s12889-020-8240-9 
+(2020) 20:154
+RESEARCH ARTICLE  Open Access
+Hygiene programming during outbreaks: a
+qualitative case study of the humanitarian
+response during the Ebola outbreak in
+Liberia
+Alexandra Czerniewska*  and Sian White
+Abstract
+Background: Hygiene promotion is a cornerstone of humanitarian response during infectious disease outbreaks.
+Despite this, we know little about how humanitarian organisations design, deliver or monitor hygiene programmes, or
+about what works to change hygiene behaviours in outbreak settings. This study describes humanitarian perspectives
+on changing behaviours in crises, through a case study of hygiene promotion during the 2014–2016 Liberian Ebola
+outbreak. Our aim was to aid better understanding of decision making in high-stress situations where there is little
+precedent or evidence, and to prompt reflection within the sector around how to improve and support this.
+Methods: We conducted in-depth, semi-structured interviews with fourteen purposively-sampled individuals (key
+informants) from international organisations involved in hygiene behaviour change during the outbreak. Through
+thematic analysis we identified the decisions that were made and processes that were followed to design, deliver and
+monitor interventions. We compared our findings with theory-driven processes used to design behaviour change
+interventions in non-outbreak situations.
+Results: Humanitarians predominantly focussed on providing hygiene products (e.g. buckets, soap, gloves) and
+delivering messages through posters, radio and community meetings. They faced challenges in defining which
+hygiene behaviours to promote. Assessments focused on understanding infrastructural needs, but omitted systematic
+assessments of hygiene behaviours or their determinants. Humanitarians assumed that fear and disease awareness
+would be the most powerful motivators for behaviour change. They thought that behaviour change techniques used
+in non-emergency settings were too ‘experimental’, and were beyond the skillset of most humanitarian actors.
+Monitoring focussed on inputs and outputs rather than behavioural impact.
+Conclusions: The experiences of humanitarians allowed us to identify areas that could be strengthened when
+designing hygiene programmes in future outbreaks. Specifically, we identified a need for rapid research methods to
+explore behavioural determinants; increased skills training for frontline staff, and increased operational research to
+explore behaviour change strategies that are suited to outbreak situations.
+Keywords: Ebola, Liberia, Hygiene, Behaviour change, Programme design, Theory, Outbreak
+* Correspondence: [URL: "mailto:Alexandra.czerniewska@lshtm.ac.uk"] Alexandra.czerniewska@lshtm.ac.uk
+Department of Disease Control, Faculty of Infectious and Tropical Diseases,
+London School of Hygiene and Tropical Medicine, London, UK
+© The Author(s). 2020 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License ([URL: "http://creativecommons.org/licenses/by/4.0/"] http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+([URL: "http://creativecommons.org/publicdomain/zero/1.0/"] http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Page 2
+Czerniewska and White BMC Public Health (2020) 20:154  Page 2 of 13
+Background
+In recent decades, a number of factors have led to a rise in
+the rate of emerging infections with the potential to cause
+internationally significant epidemics [1–3]. The outbreak
+of Ebola Virus Disease (the Ebola outbreak) in West Af-
+rica between 2014 and 2016 is perhaps the most pertinent
+recent example of this. Hygiene promotion is a corner-
+stone of humanitarian response during outbreaks. How-
+ever, at the start of the Ebola outbreak in 2014, there was
+limited evidence about what types of hygiene promotion
+activities were effective in outbreaks generally [4, 5], and
+almost no evidence about the effectiveness of hygiene pro-
+motion in Ebola outbreaks. Despite a lack of evidence and
+guidance, humanitarians were under pressure to act. This
+dilemma is not new - the challenges of making critical
+programmatic decisions with imperfect information has
+been documented as an area of concern in many humani-
+tarian responses [6–8]. Our aim in this study was to aid
+better understanding of, and ultimately better support for,
+decision making in high-stress situations where there is
+little precedent or evidence.
+Ebola virus disease (EVD) in Liberia
+Ebola virus enters the body through orifices, mucous
+membrane or breaks in the skin. The greatest risk is from
+direct contact with bodily fluids of a symptomatic or de-
+ceased patient, namely blood, vomit, excreta, sweat, saliva,
+semen, or breast milk. Direct contact with an infected 
+person’s skin is believed to be lower risk, and transmission
+by contact with the virus on environmental surfaces is rare
+[9, 10].  The virus is not transmitted through food or
+water, and is not airborne [10].
+The 2014 Ebola outbreak was classified as a ‘Public
+Health Emergency of International Concern’  because of
+its high caseload, mortality rates of nearly 40%, and geo-
+graphical spread (World Health Organisation, 2016b).
+Previous Ebola outbreaks (in West and Central Africa)
+have occurred in rural populations and declined relatively
+quickly. By contrast, in September 2014, the number of
+new Ebola cases in Liberia was doubling every 10–15 days
+[11].  With no cure or vaccine yet available, preventing
+transmission was crucial. The altered ‘F Diagram’ in Fig. 1
+depicts the known viral transmission routes from an in-
+fected (symptomatic) person/animal to a new (in this case,
+human) host, based on limited evidence from previous
+outbreaks with comparable strains [10, 12], laboratory and
+non-human testing, and biologically plausible evidence
+from testing on similar viruses [13]. Thicker arrows indi-
+cate greater likelihood of transmission through this route.
+The vertical boxes -show the ‘barriers’,  or interventions
+that can be put in place to stop or minimise transmission.
+Handwashing with soap is normally considered the main
+‘hygiene barrier’ for infection control, but in the context of
+Ebola, hygiene interventions can be much more wide-
+reaching, including avoidance of skin-to skin contact with
+the sick; ‘safe’  burials, cleaning surfaces that could be
+Fig. 1 Ebola Virus Disease transmission diagram (author’s diagram, images free to use under creative commons license - CC0 1.0)
+Page 3
+Czerniewska and White BMC Public Health (2020) 20:154  Page 3 of 13
+contaminated by infected human fluids (at home or in
+health facilities), and properly cooking bush meat.
+Before the Ebola outbreak nearly a quarter of Liberia’s
+population did not have access to water sources that were
+safe from contamination, half practised open defecation
+(rising to 68% in rural areas),  and only 1% of the total
+population had access to a handwashing facility at home
+with soap and water [14].
+Changing hygiene behaviours
+Behaviour change is necessary for most public health in-
+terventions. Until quite recently the status quo in public
+health interventions has been to educate populations
+about the health risks and benefits of different behav-
+iours. A growing number of studies now suggest that
+there is little association between knowledge of health
+benefits and actual performance of a behaviour [15–19],
+especially when compared to other factors that deter-
+mine behaviour [20, 21].
+A contrasting approach to behaviour change program-
+ming is to create an intervention that targets key determi-
+nants to shift behaviour. This is done after thoroughly
+assessing all of the factors that positively or negatively influ-
+ence behaviours in a particular context (hereafter we call
+these behavioural determinants).  Instead of improving
+knowledge, this approach might highlight the need to
+change social norms, appeal to specific personal motiva-
+tions, or introduce behavioural cues into the environment.
+Michie et al. [22] identify 93 distinct techniques like these,
+which can be used to cause a change in behaviour. Inter-
+ventions designed in this way are often called ‘theory-
+driven’ since they draw upon a theoretical understanding of
+how behaviour is determined and changed. They are usu-
+ally accompanied by a testable hypothesis of the precise
+mechanisms by which behaviour is expected to change (a
+theory of change). Interventions developed through theory-
+driven approaches have been able to demonstrate substan-
+tial shifts in observed hygiene behaviour in non-outbreak
+settings [23–27], but we know little about whether theory-
+driven approaches are feasible or effective in emergency
+settings, or how similar or different the determinants of be-
+haviour change are. For example, communicating health
+risks during infectious disease outbreaks may be more ef-
+fective than in non-outbreak settings [28, 29], but may only
+have short term effects [30].  Using motives like disgust,
+shame or nurture (the desire to do what is best for your
+child) might be just as relevant in emergencies, but there
+may also be additional ethical considerations of using such
+motivators with vulnerable communities [31, 32].
+Frameworks and processes exist to help programme de-
+signers to select the most appropriate behaviour change
+approaches for each problem and context. Within the
+water, sanitation and hygiene (WASH) sector the follow-
+ing frameworks provide both definitions of determinants 
+and a process for programme design: RANAS (Risks, Atti-
+tudes, Norms, Abilities, and Self-regulation) [33]; Design-
+ing for Behaviour Change [34],  and Behaviour Centred
+Design [35].  There is increasing interest in designing
+theory-driven and evidence-based interventions to im-
+prove hygiene promotion in major disease outbreaks or
+other emergency settings [30, 32],  but so far there has
+been little attempt to translate existing approaches. The
+exception is the RANAS questionnaire, which has been
+used to identify behavioural determinants (retrospectively)
+during the 2010 Haitian earthquake, in drought-affected
+Ethiopia, and with the aim of preventing an Ebola out-
+break in Guinea-Bissau [36–38].
+Although the terminology and methods vary, the process
+for designing interventions is relatively similar across these
+frameworks. Each proposes a five-stage, theory-driven
+programme design process. The first stage typically involves
+programme designers gathering existing knowledge about
+the target behaviours, audience, and context (in this paper
+we call this stage ‘assessment’).  Deeper insights are then
+gathered by carrying out formative research to assess the
+behavioural determinants for that context (here called ‘un-
+derstanding behaviour’). The third stage involves iteratively
+creating and pre-testing the intervention package (here
+called ‘programme design’).  ‘programme delivery’  and
+‘evaluation’ are stages four and five. Utilisation of an inter-
+vention design process, like this, is becoming increasingly
+commonplace in the development sector.
+Aims and objectives for the current study
+Our study aimed to understand decision making in
+high-stress situations where there is little precedent or
+evidence, and ultimately prompt reflection within the
+sector around how to improve and support this. Our
+study objective was to describe humanitarian perspec-
+tives on changing behaviours in crises, through a case
+study of hygiene promotion during the Liberian Ebola
+outbreak. This study does not attempt to answer the
+question of what worked or did not work to change hy-
+giene behaviours, but we do report participants’ percep-
+tions of successes, constraints, and the feasibility of
+alternative approaches.
+Methods
+Sample selection
+We conducted in-depth, semi-structured, key informant
+interviews during July and August 2016. Participants
+were individuals from international organisations that
+implemented, funded or were otherwise involved in in-
+terventions to change hygiene behaviours in communi-
+ties or in healthcare settings during the Ebola outbreak
+in Liberia (2014–16).  We included bilateral donors,
+implementing partners and technical experts.
+Page 4
+Czerniewska and White BMC Public Health (2020) 20:154  Page 4 of 13
+Participants were purposively sampled. We contacted all
+organisations from an initial list of 22 organisations identi-
+fied through a review of minutes of the WASH Cluster
+and Case Management committee meetings of the Na-
+tional Ebola Taskforce in Liberia (organisations working
+in Liberia typically attended these meetings).  Interviews
+were requested by email, with three unanswered emails
+considered as a refusal. Participants were asked for further
+recommendations of organisations and individuals to ap-
+proach. Eligible participants had worked on the Ebola re-
+sponse for all or part of the time between March 2014 and
+the outbreak’s declared end in June 2016 [39]. Eligible or-
+ganisations had to be involved in designing or delivering
+hygiene interventions in programmes in the community
+or in routine health facilities.
+Data collection
+We prepared a list of interview questions to guide our inter-
+views, which could be adapted flexibly during each interview
+(see Additional file 1). We asked participants to describe the
+interventions they were involved with, and how decisions
+were made during the design, delivery, and monitoring of
+interventions, i.e. across the five stages of the theory-driven
+programme design process described above. We also asked
+participants about their perceived program constraints and
+successes. All interviews were conducted by the lead re-
+searcher (AC) in English, recorded and transcribed.
+Data analysis
+We analysed data concurrently with collection, using a the-
+matic, six-stage approach suggested by Braun and Clarke
+[40]. Concurrent analysis of the transcripts helped us to
+identify when we had reached a point of saturation. We
+coded transcripts inductively using NVivo 11 software, and
+themes were grouped under headings based on the five
+stages of theory-driven programme design process. In the
+discussion, we reflect on the differences between the ap-
+proach described to us, and approaches taken in non-
+emergency settings, and make recommendations about
+how we can more effectively design, deliver and monitor
+hygiene programmes during outbreaks and crises, when
+compromises have to be made.
+Ethics
+Participants were provided with an information sheet
+explaining the purpose of the study, the voluntary nature
+of participation, and our commitment to preserving confi-
+dentiality and anonymity of individuals and organisations
+in reporting. All participants were adults who gave written
+consent after an opportunity to ask any questions they
+had. Ethical approval was obtained from the London
+School of Hygiene and Tropical Medicine (Ref. 11,349)
+and the National Review Ethics Board of Liberia (Ref.
+NREB-015.06). 
+Results
+We conducted in-depth interviews with 14 individuals
+from 12 international organisations. Nine were from
+international non-Governmental organisations (iNGOs)
+three from organisations in the United Nations (UN)
+system and two from bilateral donor agencies. Three or-
+ganisations agreed to interviews but responded too late
+for inclusion and six organisations did not respond
+(Fig. 2).  These organisations were not further pursued
+because the authors felt that a degree of saturation had
+been reached through the initial 14 interviews.
+All participants were at a senior level (Programme Man-
+ager or higher) and had between six and 24 months’ experi-
+ence working on the Ebola response in Liberia. Seven
+participants described themselves as Water Hygiene and
+Sanitation (WASH) or Infection Prevention and Control
+(IPC) specialists, one as a communications specialist, and
+six had oversight over several different areas. Twelve inter-
+views were conducted by telephone or Skype, one face-to-
+face and one participant requested to respond by email. On
+average, interviews lasted around 1 h (range 45–90 min).
+Four participants focused on behaviour change within rou-
+tine health facilities (named H1 - H4) and ten in community
+settings (C1- C10). All but one participant stated changing
+hygiene behaviours as a key organisational priority.
+Handwashing was the most commonly mentioned hy-
+giene behaviour, but emic definitions of ‘hygiene interven-
+tions’ were much wider-ranging than we had anticipated.
+Participants often described behaviours such as reducing
+general physical contact (e.g. not shaking hands); keeping
+a distance from sick or deceased individuals (and their
+bodily fluids),  and ensuring burials were conducted by
+trained burial teams. Wider aspects of infection control,
+water provision and sanitation were also described as be-
+ing part of hygiene programming. We therefore include
+these elements in our analysis. Our results are structured
+according to the five stage, theory-driven programme de-
+sign process employed in non-emergency settings.
+Stage one and two: assessment and understanding
+behaviour
+The main focus of early assessments carried out in commu-
+nities or health facilities was to identify gaps in infrastructure
+(e.g. wells, or road access) and to make contact with local
+leaders who could facilitate access to communities. None of
+the participants reported systematically collecting informa-
+tion about current hygiene behaviours. One participant re-
+ported that emergency responders did not attempt to learn
+from existing hygiene promotion interventions in Liberia.
+A whole raft of new emergency staff entered Liberia
+and tried to work in an emergency vacuum. They as-
+sumed there was no existing data and did little to
+try and understand the previous situation […] it
+Page 5
+Czerniewska and White BMC Public Health (2020) 20:154  Page 5 of 13
+Fig. 2 Description of sampling and participation rates
+could have been very useful to look at existing re-
+search and materials that had been developed. No
+emergency staff from INGO emergency teams or gov-
+ernment staff showed any interest in that. [C7].
+Several participants explained that it was seen as a low pri-
+ority to understand psychological or social determinants of
+hygiene behaviour determinants, because it was decided early
+on that hardware and infrastructure would take precedence
+over behaviour change ‘software’ (e.g. training or messaging):
+It’s all very well going in and doing [hygiene] train-
+ing but if they haven’t got pit latrines and they
+haven’t got a clean water source it’s a bit like Marie
+Antoinette and ‘let them eat cake.’ [C2].
+I always get frustrated with social and behavioural
+sciences […] the idea that people aren’t doing things
+because they are not educated or they lack 
+information […] behaviour change sinks in when the
+materials are actually there. [C3].
+Many of the hygiene behaviours recommended were not
+precisely defined, i.e. in terms of who should perform the
+behaviour, when it should be performed, or how. Some
+participants felt that this resulted in weak messages:
+The handwashing messages were terrible. ‘Wash your
+hands all the time’  seemed to be the primary mes-
+sage. There was no information about when, or how
+to wash hands or who should be doing it. [C7].
+The lack of evidence and precedent in the early stage
+of the outbreak made it particularly difficult for re-
+sponders to be more precise about the behaviours re-
+quired to reduce disease transmission. For example, one
+major point of contention early on was whether to ad-
+vise handwashing with soap or handwashing with a
+chlorine solution:
+Page 6
+Czerniewska and White BMC Public Health (2020) 20:154  Page 6 of 13
+We were so worried that we didn’t have any evi-
+dence; we didn’t know whether hand washing with
+soap or chlorine was better...Technical experts were
+going in circles because they didn’t have [academic]
+papers to look at, and the ones that were there were
+fuzzy. [C4].
+Stage three: Programme design
+The intervention components
+Providing water, buckets with taps, soap/chlorine, gloves
+and other protective clothing in communities and health
+facilities was reported as the biggest component of the
+hygiene interventions. Hygiene messages were delivered
+alongside this on posters, billboards, on radio programmes,
+and face-to-face, by local Community Health Workers
+(CHWs) and local volunteers across the country through-
+out the outbreak. The nature, intensity and coverage of this
+community engagement varied across the country. This
+depended on the effectiveness of existing community health
+systems and county-level emergency operations centre, as
+well as the strategy of the different international organisa-
+tions supporting the government in that area.
+The messages evolved over the course of the outbreak,
+and broadly aligned with the headline messages chosen by
+the government and key media partners. The first headline
+message - ‘Ebola Kills’  – ran from March 2014 until
+around June. Hygiene messages in this phase aimed to
+amplify a feeling of fear and risk of death if you did not
+perform the recommended hygiene behaviours. This was
+replaced by ‘Ebola is Real’ from approximately July to Oc-
+tober 2014, where hygiene messages still focussed on
+amplifying perceived risks of transmission but with more 
+of a focus on understanding the disease without evoking
+fear. Finally, the ‘Ebola must Go’ message encouraged the
+maintenance of behaviours to protect family and country.
+Figure 3 describes the phasing of these messages through-
+out the outbreak. The creative process by which the
+slogans, images and hygiene messages were chosen and
+produced was reportedly driven by the Government of
+Liberia with support from a small number of other organi-
+sations. Most participants were positive about the cam-
+paigns created and the delivery channels used to
+disseminate them.
+Two training packages were targeted at health workers in
+routine health facilities. The ‘Keep Safe, Keep Serving’ train-
+ing package was developed in early September 2014 to ad-
+dress issues related to triage and isolation, cleaning and
+waste management, protective clothing, and handwashing.
+From August 2015, the ‘Safe and Quality Services’ training
+package replaced this – emphasising that health workers
+should understand general infection control and hygiene
+principles and be able to apply them to protect themselves
+and patients against many diseases. This package also intro-
+duced psychosocial training modules. Both were developed
+by small working groups of partners.
+Decisions and processes affecting how interventions were
+designed
+Participants described the compromises that were made
+to a typical intervention design process due to the nature
+of the emergency context:
+The typical approach is you scope it, you have your
+concept, your expert panel groups, you create it, you
+Fig. 3 Timeline of national community campaigns and health worker training packages (author’s diagram, the images are photographs of
+billboards developed by the Liberian Ministry of Health and other Non-Government actors)
+Page 7
+Czerniewska and White BMC Public Health (2020) 20:154  Page 7 of 13
+pilot it, and then disseminate it. 5 stage approach.
+When you think about the Ebola context, the [health
+worker training package] was literally made in a couple
+of days by three people locked in a room [...] The biggest
+difference [in a non-emergency setting] is the time they
+have to create this and the loops and hoops they jump
+through to make sure it is relevant, acceptable, and en-
+dorsed. With the epidemic stuff it was very much ‘who
+cares? Roll it out, looks good on paper, go.’ [H1].
+It was a true time of crisis and it got out of control
+before they knew it and there was not a lot of time
+to think about the approach to how to get people to
+do the right behaviour. It became ‘this is what you
+have to do’; it was not ‘how do we do this together to
+get the right outcome’. […] Right or wrong, that’s just
+what happened. [H3].
+These compromises reportedly led to some issues with
+implementation. For example, the messages delivered on
+posters and by health workers aimed to improve biomed-
+ical knowledge and understanding of transmission path-
+ways, based on an assumption that people would modify
+their behaviour once they knew what was ‘best’ for them.
+In an emergency, information is probably the most
+important thing you can give people because then
+you can make a well-informed decision […] people
+will generally act in their own best interest. [C9].
+However, some participants reported that this medica-
+lised view of disease was at odds with the way many
+communities conceptualised health and the body:
+In some of the extremely remote settings, those mes-
+sages of ‘Ebola is Real’  might not have even been
+internalised and understood because of really strong
+traditional beliefs in other spiritual things. [C3].
+[Liberian people] have a huge element of understanding
+a disease to be spiritual. You have to come in with
+some kind of understanding. [...] You can’t go in with a
+biological teaching because they have no basic concept
+of biology. [C2].
+All emergency responders were expected to use the
+same, approved hygiene messages in their promotional
+materials. These were decided by the Government of
+Liberia with selected international partners who would
+instruct other organisations at a weekly ‘messaging and
+media’  working group. Most participants agreed it was
+important that key national messages changed simultan-
+eously across the country. 
+We don’t want everybody doing something different
+because that will just breed confusion. [C4].
+We had to change at the same time […] The old
+messages and jingles had to be removed so we are
+all on the same planet, same page. [C8].
+Others reflected that the decision to take a standar-
+dised approach had hampered the effectiveness of the
+messaging in some areas where it was not reflective of
+the local situation and needs:
+I don’t think the messages, as they were, were really
+that effective. Different pockets of the population had
+different exposure to Ebola. In Lofa [county] you
+could say ‘Ebola is real, don’t touch dead bodies’,
+right, yeah. I’ve seen that happen. But there are vil-
+lages down in Rivercess [county] that have never had
+any cases. [C9].
+When it came to deciding on emotional or psychological
+elements of hygiene messaging, the fear of contracting
+Ebola was assumed to be the most powerful motivator of
+behaviour change:
+Fear played a very big role. Everyone was afraid; if I
+don’t do it [handwashing] I’m going to die. [C1].
+As people and communities came round to the under-
+standing that Ebola was real … and they saw people
+getting sick then they did start to change their practices.
+So I think there was a level of fear that drove that. [C2].
+However, participants noted that motivation via fear
+sometimes produced behaviour change that was unex-
+pected, unproductive or even dangerous:
+At first the message was ‘Ebola Kills’ so everybody was
+… waking up saying ‘oh my god - there is no alterna-
+tive so why are you telling me even to wash my hands?’
+So we had to change after listening to the communities
+and realising that they had understood the message
+but the fear feeling was not going to work because it
+was not supporting the follow up actions. [C8].
+Because of the fear, people were putting a lot in the
+water – Dettol, chlorine, soap because they knew this
+would stop the virus. The outcome was people get-
+ting their hands irritated and that was going to
+cause more problems. [C8].
+Messages rarely went beyond increasing perception of
+risk and the motivation of fear. In retrospect, some par-
+ticipants reported this as a  missed opportunity,
+Page 8
+Czerniewska and White BMC Public Health (2020) 20:154  Page 8 of 13
+suggesting that factors such as peer pressure or shame
+may have also been important:
+I think there was a huge missed opportunity to use
+other determinants and messages, considering that
+we know fear only works when there is a threat of
+the public health issue. [C7].
+‘I think the best way to reach [health workers] is by
+speaking a language they’re going to understand and
+connecting a message that actually tugs at their
+heartstrings. Otherwise I don’t see why anyone would
+be motivated to do anything differently. [H7].
+I think there’s strong human behaviour of peer pres-
+sure and if you see everybody else doing it then you’re
+going to be like, ok well I should do this too. [C3]. 
+For example, there was a belief that hygiene messages would
+be more effective if the ‘right’ people delivered the messages
+and interventions. They avoided deploying ‘outsiders’  for
+this task, who would not have the communities’ trust, and
+instead used locally known and trusted messengers:
+One thing that was critical was having Liberian
+healthcare workers talking to Liberian healthcare
+workers, and they said ‘look, we went through the
+same thing you’re going through, you almost died, we
+almost died, if we all just do this together and do
+what we’re supposed to do, we won’t get Ebola.’ [H4].
+We had about 450 staff and they were local staff. It
+was them that did all the training so that it was cul-
+turally appropriate, language appropriate and the
+community was receptive to it. [C7].
+However, two organisations were reluctant to use
+negatively framed motivators like shame:
+The public shaming piece is not something we would
+ever want to condone; however, we have seen that
+there is a lot of evidence that it is successful in many
+settings including here in Liberia. We would usually
+take more of a compassionate approach. [C3]. 
+Senior leaders from local and central government, and re-
+ligious institutions, were also seen as very important agents
+to create change. Some participants attributed this to the
+strong culture of ‘top-down’ authority systems in Liberia.
+We worked through community leaders, religious
+leaders, and traditional leaders because the community
+tends to listen more to its community leaders. [C6].
+When asked about the processes used to design the
+behaviour change components of hygiene programs, par-
+ticipants answered with less fluency (and more pauses)
+than in other parts of the interviews. Behaviour change
+as was generally perceived as a specialised skill:
+I by no means claim to be an expert on any of this. [H3].
+I’m not a specialist in this area. [C9].
+I don’t know in terms of individual behaviour change
+theories. We do have a cadre of workers who are be-
+haviour scientists. […]  but I’m just not engaged
+enough. [H1].
+Employing alternative behaviour change techniques
+(other than improving knowledge and increasing percep-
+tion of risk) was considered to be too ‘experimental’ by
+some respondents:
+It was all about saving lives. There wasn’t much
+time to do a lot of experiments. [C1].
+Stage 4: Programme delivery: humanitarian perspectives
+about what worked and was acceptable
+Participants felt strongly that the way interventions were de-
+livered was the key to their success in changing behaviours. 
+If the chiefs are saying ‘you need to do this’ it’s more
+likely that people will do it. If the chiefs and MOH
+were saying the same thing that was the double
+whammy. [C9].
+Several participants said that an approach of engaging
+audiences in a ‘dialogue’, or two-way conversation, about
+hygiene behaviours was important for creating behaviour
+change because this increased acceptability and helped
+humanitarian actors to adjust messaging to local
+circumstances:
+The whole idea was not to go in with a pre-
+established mechanism or approach. It was more to
+listen to the community, try to pick out the things that
+they’re most concerned with … this is probably the
+best way to do it. [C4].
+Lots of alterations were made along the way as the
+[NGO] staff interacted in the communities, with re-
+actions to the messages. Adjustments were made in
+the language, adjustments were made in the ap-
+proach and so on. [C10].
+Stage 5: evaluation
+Monitoring and evaluation were primarily designed to
+identify regions of particular concern – for example
+Page 9
+Czerniewska and White BMC Public Health (2020) 20:154  Page 9 of 13
+Table 1 Description of the 5 theory-based steps used in standard programme design compared to our findings of what was done
+during the Liberian Ebola outbreak
+Theory-based steps for designing a
+hygiene behaviour change programme 
+Process of designing hygiene behaviour change
+programmes in Liberia during the Ebola outbreak.
+Assessment - programme designers gathering existing knowledge
+about the target behaviours, audience, and context 
+Existing research and resources on hygiene behaviour were not utilised.
+In the absence of clear evidence humanitarians struggled to define
+key hygiene behaviours.
+Understanding behaviour – formative research is undertaken to
+develop a deeper understanding of behaviour at the current time 
+Assessments focused on the availability of infrastructure rather than
+behavioural barriers or determinants.
+Programme design - iteratively creating and pre-testing the
+intervention package with your target audience. 
+The design process was rushed with actors feeling the need to act.
+Programmes primarily focused on providing hygiene products and
+teaching people about Ebola transmission and preventative behaviours.
+Hygiene messages were standardised across the country. This was
+viewed as minimising risk and confusion but it also meant that
+messaging was often not contextualised to different experiences
+within the country.
+Opportunities may have been missed to utilise alternative behaviour
+change techniques, particularly emotional or psychological determinants
+of behaviour.
+Programme delivery – training and supporting staff as
+they delivering activities as intended. 
+Programmes were seen as more successful when they used ‘trusted
+messengers’ and created a dialogue with community members.
+Evaluation – process and impact evaluation of the project.  Monitoring primarily focused on identifying regions where there was
+community denial or health facilities infection control.
+Organisations monitored inputs and activities rather than outcomes
+or impact.
+There was no systematic monitoring of hygiene knowledge, awareness,
+or behaviour
+communities where there was resistance and denial, or
+health facilities with very poor capacity for infection
+control.
+Organisations monitored inputs and activities rather than
+outcomes or impact. In communities and health facilities
+indicators were collected on provision (e.g. numbers of
+buckets distributed) and reach (e.g. estimations of those at-
+tending awareness events). Other data was anecdotal, e.g.
+through observing training sessions or collecting ad-hoc
+feedback from communities. None of the organisations
+interviewed systematically monitored outcomes related to
+hygiene knowledge, awareness, or behaviour.
+We generally have some basic M&E from the begin-
+ning in terms of how much we have distributed be-
+cause that’s easy to record, number of buckets. We
+were able to estimate the number of people we
+reached with Ebola messaging, how well that worked
+I have no idea. [C2].
+[We were] not watching healthcare workers for X
+number of hours interact with people […] I think
+that’s a big weakness, it turns into an anecdotal situ-
+ation, which is very common in the response
+throughout. [H1]. 
+In Table 1 we summarise our key findings to the
+theory-based model of hygiene programme design.
+Discussion
+The Ebola outbreak of 2014–16 was unique in its scale
+and complexity. There was no ‘roadmap’  for the design
+of hygiene behaviour change interventions in such a
+context. However, the decisions made during this out-
+break have informed the humanitarian response to the
+subsequent 2018/19 Ebola outbreak in the Democratic
+Republic of the Congo and have had wide-reaching im-
+pacts on global public health landscape [41]. As with any
+emergency of this significance there has also been sub-
+stantial criticism of decision making during the outbreak
+and identification of areas where learning could have
+been enhanced [42, 43].
+We did not set out to criticise the interventions cre-
+ated, but to understand how hygiene promotion inter-
+ventions were designed, delivered and monitored by
+humanitarian response organisations in a difficult situ-
+ation with limited evidence or precedent. This was done
+with the aim of prompting greater reflection within the
+emergency response sector about how hygiene pro-
+grammes can be designed and delivered more effectively,
+and meet the challenges of future disease outbreaks with
+improved tools and approaches.
+Page 10
+Czerniewska and White BMC Public Health (2020) 20:154  Page 10 of 13
+By coding the results under the five stages of ‘theory-
+driven’  programme design, we identified differences
+between the processes used during this Ebola outbreak and
+the methods developed for designing, implementing and
+evaluating behaviour change interventions in non-outbreak
+settings. Vujcic et.al [44].  documented humanitarian per-
+spectives on the design of hygiene programs for displaced
+and refugee populations. Among other things they identi-
+fied challenges in the contextualisation of programming,
+limited local capacity on behaviour change and poor moni-
+toring of hygiene behaviour change programs. We also
+identified significant barriers to implementing theory-
+driven behaviour change interventions in outbreaks. Three
+barriers in particular are discussed here, each highlighting
+the need for sector wide reflection and discussion:
+Limited attention to behavioural determinants
+Criticism of the international response to the Ebola out-
+break frequently focused on the failure to engage commu-
+nities early on, and poor alignment to local context and
+culture [45–47]. We found that participants had given this
+a lot of thought in the delivery phase, but not in the design
+phase. There was no systematic attempt to collate existing
+knowledge on behavioural determinants or build on this
+knowledge through further research. Consequently, the
+interventions that emerged focused relatively narrowly on
+the provision of ‘hardware’, improving knowledge, and in-
+creasing fear. These interventions might have been effect-
+ive at reducing transmission [48].  Evidence from stable
+settings certainly supports the initial choice among many
+humanitarian organisations to prioritise infrastructure
+[49–52]. Provision of handwashing infrastructure has also
+proved effective in protracted crises and cholera out-
+breaks, but in these contexts was strengthened by a ‘soft’
+behaviour change-focused intervention [53, 54].
+Interventions emphasising the biomedical risk and
+amplifying fear appeared to be poorly accepted by some
+communities - in certain cases leading to harm e.g. skin
+irritation caused by excessive use of chlorine. The au-
+thors of the RANAS theory of behaviour argue that it is
+common for health promotion messages in emergency
+settings to focus on increasing the ‘perceived susceptibil-
+ity and perceived severity of contracting a disease, and
+factual knowledge about the possibility of being affected’
+[33] p.561, forgetting other behavioural factors that are
+also important predictors of behaviour. Other studies
+have even shown that behaviour can change during dis-
+ease outbreaks without people feeling any increased
+sense of infection risk [55].
+Some participants felt there had been a missed opportun-
+ity to explore a wider range of social determinants of be-
+haviour, particularly social pressure and social norms.
+Reviewing posters and radio messages from the outbreak
+suggests that these determinants were already being 
+targeted to some extent (for example: ‘Ebola must Go. Stop-
+ping the spread of Ebola is everybody’s business’) [56], but
+that they could have been utilised more effectively.
+Formative research tools to help responders to identify
+a wider range of behavioural determinants could be de-
+veloped for emergency settings. Participants in this study
+felt that behaviour change was beyond their remit and
+skills, suggesting that new tools should be accessible to
+non-specialised practitioners. Vujcic, Ram [32] identified
+a similar knowledge gap in humanitarian emergencies
+and recommended training in behaviour change theory
+for staff at every level.
+There was huge international pressure to respond rap-
+idly at the start of the Ebola outbreak, which prevented
+the often lengthy process of collecting and analysing for-
+mative research data. New formative research tools must
+also be able to generate results quickly, and must be use-
+able at any stage of an outbreak, for example to allow
+emergency responders to adjust their programmes based
+on the findings once the initial emergency infrastructure
+is in place in the acute phase of an outbreak.
+Participants expressed wariness to ‘experiment’  with
+new types of interventions, or use motivators like shame
+or disgust to encourage behaviour change, both of which
+have proven useful for behaviour change in non-
+emergency contexts [57–60]. DuBois et.al [45]. argue that
+responders to the Ebola outbreak were disincentivised to
+test novel behaviour change interventions because ‘ra-
+tional’ education and information campaigns are easier for
+donors and the international press to understand [45]. A
+possible way to incentivise or create demand for new in-
+terventions is to change perceptions around ‘experiment-
+ing’ e.g. using methods that have already gained traction
+such as ‘social learning’ methods [61], or approaches that
+involve working more closely with communities [62–64].
+Small scale pilots of different approaches are needed to
+generate more evidence of what works in emergencies and
+outbreaks. Such initiatives should involve donors and
+practitioners who can translate experiments into scalable
+interventions if successful.
+Limited questioning of assumptions
+We identified assumptions about the design and delivery
+of behaviour change interventions in this emergency set-
+ting, which are not based on evidence and could benefit
+from further research. For example, most participants be-
+lieved firmly that nationwide uniformity of key messages
+(on posters and radio) was important to avoid confusion
+and encourage behaviour change. Similar findings have
+been reported in other emergency settings [44]. We sug-
+gest that the real reasons might be related to a desire to
+demonstrate strong leadership in a time of crises, and that
+more research is needed into uniform versus tailored
+Page 11
+Czerniewska and White BMC Public Health (2020) 20:154  Page 11 of 13
+messaging before this becomes accepted as standard prac-
+tice in future outbreak emergencies.
+A second example is the assumption about local cap-
+acity. Participants indicated a preference for messages or
+other interventions to be delivered by local staff who had
+a deeper knowledge of the local context. However, being
+local does not necessarily mean you have the natural abil-
+ity to promote behaviour change effectively, or to make
+the best decisions about how to tailor interventions on the
+ground. We suggest that interventions that rely on inter-
+personal communication need to build in measures to
+train staff at all levels, and to monitor, document and
+share field-based changes to improve practice.
+Difficulty of monitoring and evaluation
+Participants described the monitoring of inputs (e.g.
+numbers of buckets purchased) or outputs (e.g. meeting
+attendance or communities visited).  However, most re-
+spondents felt unable to assess the impact of their
+programme on behaviour. We were unable to identify
+other literature documenting the impact of Ebola hy-
+giene programming on behavioural outcomes, but there
+is some evidence from other studies that hygiene promo-
+tion efforts were successful in increasing knowledge
+about Ebola symptoms, transmission and ideal hygiene
+practice [65–67]. However, we know that knowledge is
+rarely sufficient to change hygiene behaviour [57, 68,
+69], and these studies document that hygiene programs
+were less effective in changing deep seated beliefs or sus-
+taining change over the full course of the outbreak [70].
+It is difficult to get valid and reliable health or behav-
+iour change outcomes in emergency settings [5]. How-
+ever, a first step would be to align emergency response
+work with standardised indicators used in the develop-
+ment sector e.g. the Joint Monitoring Programmes’
+handwashing proxy indicator [71]. Programs could also
+include other impact measures, such as behavioural ob-
+servations, at a small scale. This would help build a
+stronger picture of intervention effectiveness and the
+mechanisms of change. 
+Most participants were willing to discuss their ap-
+proaches to behaviour change openly during the inter-
+view, but some seemed less comfortable to express
+personal views that deviated from the ‘official’  position
+of their organisation. Most interviews were conducted
+by Skype call, but the one participant who answered via
+email will have had more time to reflect on the ques-
+tions. Responses may be biased due to recall, or shaped
+by the large amount of analysis, commentary and criti-
+cism the subject had already received.
+The lead researcher had existing professional relation-
+ships with 10 of the 14 participants, and this ‘insider’
+status will have affected the collection, analysis and in-
+terpretation of the data.
+Conclusions
+This study describes humanitarian perspectives on chan-
+ging behaviours in crises, through a case study of hy-
+giene promotion during the Liberian Ebola outbreak.
+We documented how hygiene promotion interventions
+were designed, delivered and monitored by humanitarian
+response organisations during the Ebola outbreak in
+Liberia. We aimed to prompt greater reflection within
+the emergency response sector about how hygiene pro-
+grams can be designed and delivered more effectively
+during major outbreaks. We identified several important
+practice and knowledge gaps, including the need for
+rapid research methods to explore behavioural determi-
+nants, and increased skills training for frontline staff. We
+highlighted a number of unchallenged assumptions
+which act as barriers to exploring alternative behaviour
+change strategies. Sector-wide reflection and discussion
+is needed to examine the assumptions and choices that
+are made by emergency responders, along with increased
+operational research to ensure we have the right tools
+and approaches to meet the growing challenges of emer-
+ging disease outbreaks.
+Supplementary information
+Supplementary information accompanies this paper at [URL: "https://doi.org/10.1186/s12889-020-8240-9"] https://doi.org/10.
+ 1186/s12889-020-8240-9.
+Limitations and reflexivity
+Interviews were conducted with a small number of mid-
+and senior-level staff from international organisations.
+Results therefore omit important local voices from gov-
+ernment, or staff more heavily involved in day-to-day
+engagement with communities. Approval to interview
+representatives of the Liberian government or local
+NGOs was granted too late, and therefore these import-
+ant voices were omitted from this research. The opin-
+ions of Liberians in relation to both the outbreak and
+the mode of international response have been reported
+elsewhere [61]. 
+Additional file 1. The interview guide used for the semi-structured in-
+terviews conducted.
+Abbreviations
+(i)NGO: (International) non-Governmental organisation; CHW: Community
+Health Worker; EVD: Ebola Virus Disease; IPC: Infection Prevention and
+Control; WASH: Water Hygiene and Sanitation
+Acknowledgments
+The authors would like to thank Dr. Moses Massaquoi for his help with
+applying for local ethical approval, Ms. Jessica Petz and Dr. Jennifer Palmer
+for their comments, and all of the participants involved in the study who
+gave their valuable time to speak openly and honestly with us. The authors
+alone are responsible for the views expressed in the article, and they do not
+necessarily represent the views of their affiliated institution.
+Page 12
+Czerniewska and White BMC Public Health (2020) 20:154  Page 12 of 13
+Authors’ contributions
+AC conceived of the study, conducted the interviews, analysed the data and
+led the writing of the manuscript. SW supervised AC during the study and
+was a major contributor to writing the manuscript. All authors have read and
+approved the manuscript.
+Funding
+The authors received no specific funding for this work.
+Availability of data and materials
+The datasets generated and analysed during the current study are not
+publicly available because this could result in identification of participants
+who gave interviews on the condition of anonymity. Data are available from
+the corresponding author on reasonable request for researchers who meet
+the criteria for access to confidential data.
+Ethics approval and consent to participate
+All participants were adults who gave written consent and understood the
+voluntary nature of participation. Confidentiality and anonymity of
+individuals and their organisations was preserved. Ethical approval was
+obtained from the London School of Hygiene and Tropical Medicine (Ref.
+11349) and the National Review Ethics Board of Liberia (Ref. NREB-015.06).
+Consent for publication
+All participants gave consent for anonymised quotes to be included in
+reports and publications.
+Competing interests
+The authors declare that they have no competing interests.
+Received: 27 March 2019 Accepted: 20 January 2020
+References
+1.  WHO. The World Health Report 2007 - A safer future: global public health
+security in the 21st century. Geneva: World Health Organisation; 2007.
+2.  WHO. Blueprint for R&D preparedness and response to public health
+emergencies due to highly infectious pathogens. Workshop on prioritization
+of pathogens. Geneva: World Health Organisation; 2015.
+3.  Smith KF, Goldberg M, Rosenthal S, Carlson L, Chen J, Chen C, et al. Global
+rise in human infectious disease outbreaks. J R Soc Interface. 2014;11(101):
+20140950.
+4.  Taylor DL, Kahawita TM, Cairncross S, Ensink JHJ. The impact of water,
+sanitation and hygiene interventions to control cholera: a systematic review.
+PLoS One. 2015;10(8):e0135676.
+5.  Ramesh A, Blanchet K, Ensink JHJ, Roberts B. Evidence on the effectiveness
+of water, sanitation, and hygiene (WASH) interventions on health outcomes
+in humanitarian crises: a systematic review. PLoS One. 2015;10(9):e0124688.
+6.  Colombo S, Checchi F. Decision-making in humanitarian crises: politics, and
+not only evidence, is the problem. Epidemiol Prev. 2018;42(3–4):214–25.
+7.  Campbell LaKC P. Making operational decisions in humanitarian response: a
+literature review. London: ALNAP/ODI; 2018.
+8.  Tipper J. Humanitarian Practice Network website. 2016. [cited 2019].
+Available from: [URL: "https://odihpn.org/blog/decision-making-in-disaster-response-strategies-for-frontline-humanitarian-workers/"] https://odihpn.org/blog/decision-making-in-disaster-
+[URL: "https://odihpn.org/blog/decision-making-in-disaster-response-strategies-for-frontline-humanitarian-workers/"] response-strategies-for-frontline-humanitarian-workers/.
+9.  Bausch DG, Towner JS, Dowell SF, Kaducu F, Lukwiya M, Sanchez A, et al.
+Assessment of the Risk of Ebola Virus Transmission from Bodily Fluids and
+Fomites. J Infectious Dis. 2007;196(Supplement_2):S142–S7.
+10. Centres for Disease Control and Prevention. Review of Human-to-Human
+Transmission of Ebola Virus 2015 [cited 2017 18 December]. Available from:
+ https://www.cdc.gov/vhf/ebola/transmission/human-transmission.html.
+11. Meltzer M, Atkins C, Santibanez S, Knust B, Petersen B, Ervin E, et al.
+Estimating the Future Number of Cases in the Ebola Epidemic — Liberia
+and Sierra Leone, 2014–2015. Morbidity Mortality Weekly Report (MMWR).
+2014;63(Suppl-3):1–14.
+12. WHO & UNICEF. Ebola Virus Disease (EVD). Key questions and answers
+concerning water, sanitation and hygiene 2014 [cited 2017 18 December].
+Available from: [URL: "http://www.who.int/water_sanitation_health/WASH_and_Ebola.pdf"] http://www.who.int/water_sanitation_health/WASH_and_
+ Ebola.pdf. 
+13. WHO. Hand hygiene in health care in the context of Filovirus disease
+outbreak response. Rapid advice guideline 2014. [URL: "http://www.who.int/csr/resources/publications/ebola/hand-hygiene/en/:"] http://www.who.int/csr/
+ resources/publications/ebola/hand-hygiene/en/.
+14. UNICEF & WHO. Progress on sanitation and drinking water – 2015 update
+and MDG assessment. Geneva: Joint Monitoring Programme; 2015.
+15. Pinfold JV, Horan NJ. Measuring the effect of a hygiene behaviour
+intervention by indicators of behaviour and diarrhoeal disease. Trans R Soc
+Trop Med Hyg. 1996;90(4):366–71.
+16. Seimetz E, Kumar S, Mosler HJ. Effects of an awareness raising campaign on
+intention and behavioural determinants for handwashing. Health Educ Res.
+2016;31(2):109–20.
+17. Clayton DA, Price P, Griffith CJ. An investigation of the factors underlying
+consumers’ implementation of specific food safety practices. Br Food J.
+2003;105(7):434–53.
+18. Phillips RM, Vujcic J, Boscoe A, Handzel T, Aninyasi M, Cookson ST, et al.
+Soap is not enough: handwashing practices and knowledge in refugee
+camps, Maban County, South Sudan. Confl Health. 2015;9(1):39.
+19. De Buck E, Van Remoorte IH, Hannes K, Govender T, Naidoo S, Avau B, et al.
+Approaches to promote handwashing and sanitation behaviour change in
+low- and middle-income countries: a mixed method systematic review.
+Campbell Systematic Reviews; 2017. p. 1891–03.
+20. Hirai M, Graham JP, Mattson KD, Kelsey A, Mukherji S, Cronin AA. Exploring
+Determinants of Handwashing with Soap in Indonesia: A Quantitative
+Analysis. Int J Environ Res Public Health. 2016;13(9):868–83.
+21. Chow S, Mullan B. Predicting food hygiene. An investigation of social
+factors and past behaviour in an extended model of the health action
+process approach. Appetite. 2010;54(1):126–33.
+22. Michie S, Richardson M, Johnston M, Abraham C, Francis J, Hardeman W,
+et al. The behavior change technique taxonomy (v1) of 93 hierarchically
+clustered techniques: building an international consensus for the reporting
+of behavior change interventions. Ann Behav Med. 2013;46(1):81–95.
+23. Biran A, Schmidt W-P, Varadharajan KS, Rajaraman D, Kumar R, Greenland K,
+et al. Effect of a behaviour-change intervention on handwashing with soap
+in India (SuperAmma): a cluster-randomised trial. Lancet Glob Health. 2014;
+2(3):e145–e54.
+24. Gautam OP, Schmidt W-P, Cairncross S, Cavill S, Curtis V. Trial of a novel
+intervention to improve multiple food hygiene behaviors in Nepal. Am J
+Trop Med Hyg. 2017;96(6):1415–26.
+25. Dreibelbis R, Kroeger A, Hossain K, Venkatesh M, Ram PK. Behavior change
+without behavior change communication: nudging Handwashing among
+primary school students in Bangladesh. Int J Environ Res Public Health.
+2016;13(1):129.
+26. Inauen J, Mosler HJ. Developing and testing theory-based and evidence-
+based interventions to promote switching to arsenic-safe wells in
+Bangladesh. J Health Psychol. 2014;19(12):1483–98.
+27. Greenland K, Chipungu J, Chilengi R, Curtis V. Theory-based formative
+research on oral rehydration salts and zinc use in Lusaka, Zambia. BMC
+Public Health. 2016;16(1):312.
+28. Fleischman DS, Webster GD, Judah G, de Barra M, Aunger R, Curtis VA.
+Sensor recorded changes in rates of hand washing with soap in response
+to the media reports of the H1N1 pandemic in Britain. BMJ Open. 2011;1(2):
+e000127.
+29. George CM, Jung DS, Saif-Ur-Rahman KM, Monira S, Sack DA, Mahamud-ur R,
+et al. Sustained uptake of a hospital-based Handwashing with soap and water
+treatment intervention (cholera-hospital-based intervention for 7 days [CHoBI7]):
+a randomized controlled trial. Am J Trop Med Hyg. 2016;94(2):428–36.
+30. Ramos M, Benelli P, Irvine E, Watson J. Handwashing. ELRHA: Cardiff; 2016.
+31. REDR UK, Focus on Handwashing: a one day event organised by the
+Hygiene Promotion Group: Conference Report.2012.
+32. Vujcic J, Ram PK, Blum L. Strategies and challenges to Handwashing
+promotion in humanitarian emergencies: key information interviews with
+agency experts. New York: University and Buffalo; 2014.
+33. Mosler HJ. A systematic approach to behavior change interventions for the
+water and sanitation sector in developing countries: a conceptual model, a
+review, and a guideline. Int J Environ Health Res. 2012;22(5):431–49.
+34. CORE Group Social and Behavioural Change Working Group. Designing for
+Behaviour Change Curriculum 2017 [cited 2018 3 September]. Available
+from: [URL: "https://coregroup.org/wp-content/uploads/2017/09/dbc_curriculum_final_2008.pdf"] https://coregroup.org/wp-content/uploads/2017/09/dbc_curriculum_
+ final_2008.pdf.
+35. Aunger R, Curtis V. Behaviour Centred design: towards an applied science of
+behaviour change. Health Psychol Rev. 2016;10(4):425–46.
+Page 13
+Czerniewska and White BMC Public Health (2020) 20:154  Page 13 of 13
+36. Contzen N, Mosler H-J. Impact of different promotional channels on
+handwashing behaviour in an emergency context: Haiti post-earthquake
+public health promotions and cholera response. J Public Health. 2013;21(6):
+559–73.
+37. Contzen N, Mosler HJ. Identifying the psychological determinants of
+handwashing: results from two cross-sectional questionnaire studies in Haiti
+and Ethiopia. Am J Infect Control. 2015;43(8):826–32.
+38. Gamma AE, Slekiene J, von Medeazza G, Asplund F, Cardoso P, Mosler HJ.
+Contextual and psychosocial factors predicting Ebola prevention behaviours
+using the RANAS approach to behaviour change in Guinea-Bissau. BMC
+Public Health. 2017;17(1):446.
+39. WHO. End of the most recent Ebola virus disease outbreak in Liberia 2016
+[cited 2017 18 December]. Available from: [URL: "http://www.who.int/mediacentre/news/releases/2016/ebola-liberia/en/"] http://www.who.int/mediacentre/
+ news/releases/2016/ebola-liberia/en/.
+40. Braun V, Clarke V. Using thematic analysis in psychology. Qual Res Psychol.
+2006;3(2):77–101.
+41. Michaud J, Kates J. Global Health Policy [Internet]: Henry J Kaiser Family
+Foundation website. 2018. [cited 2019].
+42. CEM C, Lindsey B, Ghinai I, Johnson AM, Heymann DL. The Ebola outbreak,
+2013–2016: old lessons for new epidemics. Philos Transactions R Soc Lond B
+Biol Sci. 2017;372(1721):20160297.
+43. Walsh S, Johnson O. Getting to zero: a doctor and a diplomat on the Ebola
+frontline. London: Zed Books Ltd.; 2018.
+44. Vujcic J, Ram PK, Blum LS. Handwashing promotion in humanitarian
+emergencies: strategies and challenges according to experts. J Water Sanit
+Hyg Dev. 2015;5(4):574–85.
+45. DuBois M, Wake C, Sturridge S, Bennett C. The Ebola Response in West
+Africa: Exposing the politics and culture of international aid. London:
+Overseas Development Institute (ODI). Humanitarian Policy Group; 2015.
+46. Chandler C, Fairhead J, Kelly A, Leach M, Martineau F, Mokuwa E, et al. Ebola:
+limitations of correcting misinformation. Lancet. 2014;385(9975):1275–7.
+47. de Vries DH, Rwemisisi JT, Musinguzi LK, Benoni TE, Muhangi D, de Groot M,
+et al. The first mile: community experience of outbreak control during an
+Ebola outbreak in Luwero District, Uganda. BMC Public Health. 2016;16:161.
+48. Shin YA, Yeo J, Jung K. The Effectiveness of International Non-Governmental
+Organizations' Response Operations during Public Health Emergency:
+Lessons Learned from the 2014 Ebola Outbreak in Sierra Leone. Int J
+Environ Res Public Health. 2018;15(4):650–63.
+49. Biran A, Tabyshalieva A, Salmorbekova Z. Formative research for hygiene
+promotion in Kyrgyzstan. Health Policy Plan. 2005;20(4):213–21.
+50. Biswas D, Nizame FA, Sanghvi T, Roy S, Luby SP, Unicomb LE. Provision
+versus promotion to develop a handwashing station: the effect on desired
+handwashing behavior. BMC Public Health. 2017;17(1):390.
+51. Nizame FA, Leontsini E, Luby SP, Nuruzzaman M, Parveen S, Winch PJ, et al.
+Hygiene practices during food preparation in rural Bangladesh:
+opportunities to improve the impact of handwashing interventions. Am J
+Trop Med Hyg. 2016;95(2):288–97.
+52. Ashraf S, Nizame FA, Islam M, Dutta NC, Yeasmin D, Akhter S, et al.
+Nonrandomized trial of feasibility and acceptability of strategies for
+promotion of soapy water as a Handwashing agent in rural Bangladesh. Am
+J Trop Med Hyg. 2017;96(2):421–9.
+53. George CM, Monira S, Sack DA, Rashid M-u, Saif-Ur-Rahman KM, Mahmud T,
+et al. Randomized Controlled Trial of Hospital-Based Hygiene and Water
+Treatment Intervention (CHoBI7) to Reduce Cholera. Emerg Infect Dis. 2016;
+22(2):233–41.
+54. Contzen N, Meili IH, Mosler H-J. Changing handwashing behaviour in
+southern Ethiopia: a longitudinal study on infrastructural and commitment
+interventions. Soc Sci Med. 2015;124:103–14.
+55. George CM, Biswas S, Jung D, Perin J, Parvin T, Monira S, et al. Psychosocial
+factors mediating the effect of the CHoBI7 intervention on Handwashing with
+soap: a randomized controlled trial. Health Educ Behav. 2017;44(4):613–25.
+56. The Liberia Ministry of Health. Radio Spot on Preventing the Spread of
+Ebola (link to) 2014-2015 [cited 2016 June 17th]. Available from: [URL: "http://ebolacommunicationnetwork.org/ebolacomresource/radio-spot-on-preventing-the-spread-of-ebola/"] http://
+ ebolacommunicationnetwork.org/ebolacomresource/radio-spot-on-
+ preventing-the-spread-of-ebola/.
+57. Curtis VA, Danquah LO, Aunger RV. Planned, motivated and habitual hygiene
+behaviour: an eleven country review. Health Educ Res. 2009;24(4):655–73.
+58. Kar K, Chambers R. Handbook on community-led Total sanitation. Sussex:
+Plan UK and Institute of Development Studies; 2008.
+59. Skolnick AJ, Dzokoto VA. Disgust and contamination: a cross-national
+comparison of ghana and the United States. Front Psychol. 2013;4:91. 
+60. Curtis V, de Barra M, Aunger R. Disgust as an adaptive system for disease
+avoidance behaviour. Philos Trans R Soc B Biol Sci. 2011;366(1563):389–401.
+61. Abramowitz SA, McLean KE, McKune SL, Bardosh KL, Fallah M, Monger J,
+et al. Community-centered responses to Ebola in urban Liberia: the view
+from below. PLoS Negl Trop Dis. 2015;9(4):e0003706.
+62. The Princeton-Fung Global Forum. Modern plagues: lessons learned from
+the Ebola crisis 2016 [cited 2016 June 14]. Available from: [URL: "https://issuu.com/woodrowwilsonschool/docs/monograph_final_issuuSversion1"] https://issuu.com/
+ woodrowwilsonschool/docs/monograph_final_issuuSversion1.
+63. Caleo G, Duncombe J, Jephcott F, Lokuge K, Mills C, Looijen E, et al. The
+factors affecting household transmission dynamics and community
+compliance with Ebola control measures: a mixed-methods study in a rural
+village in Sierra Leone. BMC Public Health. 2018;18(1):248.
+64. Gray N, Stringer B, Bark G, Heller Perache A, Jephcott F, Broeder R, et al.
+‘When Ebola enters a home, a family, a community’: A qualitative study of
+population perspectives on Ebola control measures in rural and urban areas
+of Sierra Leone. PLOS Neglected Tropical Diseases. 2018;12(6):e0006461.
+65. Jalloh MF, Sengeh P, Monasch R, Jalloh MB, DeLuca N, Dyson M, et al. National
+survey of Ebola-related knowledge, attitudes and practices before the outbreak
+peak in Sierra Leone: August 2014. BMJ Glob Health. 2017;2(4):e000285.
+66. Jalloh MF, Robinson SJ, Corker J, Li W, Irwin K, Barry AM, et al. Knowledge,
+attitudes, and practices related to Ebola virus disease at the end of a
+National Epidemic - Guinea, august 2015. MMWR Morb Mortal Wkly Rep.
+2017;66(41):1109–15.
+67. Ministry of Health. National Knowledge, attitudes and practices (KAP) study
+on Ebola virus disease in Liberia Monrovia. LIberia: Ministry of Health and
+UNCIEF; 2015.
+68. Biran A, Schmidt WP, Wright R, Jones T, Seshadri M, Isaac P. The effect of a
+soap promotion and hygiene education campaign on handwashing
+behaviour in rural India: a cluster randomised trial. Tropical Med Int Health.
+2009;14:1303–14.
+69. Scott E, Herbold N. An in-home video study and questionnaire survey of
+food preparation, kitchen sanitation, and hand washing practices. J Environ
+Health. 2010;72(10):8–13.
+70. Collaborative HCC. Government of Liberia MoH. National Knowledge,
+attitudes and practices (KAP) survey on Ebola virus disease in Liberia - final
+report. Baltimore: Johns Hopkins Center for Communication Programs; 2017.
+71. WHO & UNICEF. JMP Methodology: 2017 Update and SDG Baselines 2018.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.

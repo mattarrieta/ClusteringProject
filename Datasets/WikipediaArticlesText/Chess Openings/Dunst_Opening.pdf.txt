@@ -1,0 +1,251 @@
+Page 1
+Dunst Opening
+The Dunst Opening is a [URL: "https://en.wikipedia.org/wiki/Chess_opening"] chess opening in which White opens
+with the move:
+1. [URL: "https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._Nc3"] Nc3
+This fairly uncommon opening may have more names than any
+other: it is also called the Heinrichsen Opening,  Baltic
+Opening,  Van Geet Opening, Sleipnir Opening,  Kotrč's
+Opening, Meštrović Opening, Romanian Opening, Queen's
+Knight Attack,  Queen's  Knight Opening,  Millard's
+Opening,  Knight on the Left,  and (in German) der
+Linksspringer.
+Contents 
+Dunst Opening
+abcdefgh
+8  8
+7  7
+6  6
+5  5
+4  4
+3  3
+2  2
+1  1
+abcdefgh
+Origin of names
+General remarks
+Possible continuations
+1...d5
+1...c5
+1...Nf6
+1...e5
+Transpositions to other openings
+Sample games
+See also
+Notes
+References
+External links
+Origin of names 
+Moves 1.Nc3
+ ECO  A00
+Origin Blackburne–Noa,
+London 1883
+Named after Ted A. Dunst
+Synonym(s) Heinrichsen Opening
+Baltic Opening
+Van Geet Opening
+Sleipnir Opening
+Kotrč's Opening
+Meštrović Opening
+Romanian Opening
+Queen's Knight Attack
+Queen's Knight Opening
+Millard's Opening
+Knight on the Left
+der Linksspringer
+The names Heinrichsen and Baltic derive from [URL: "https://en.wikipedia.org/wiki/Lithuania"] Lithuanian chess player [URL: "https://en.wikipedia.org/wiki/Arved_Heinrichsen"] Arved Heinrichsen (1879–1900).
+The opening was analyzed and played by the [URL: "https://en.wikipedia.org/wiki/New_York_(state)"] New York master Ted A. Dunst (1907–1985), giving the
+opening its most popular name in the United States. The Dutch [URL: "https://en.wikipedia.org/wiki/International_Master"] International Master and [URL: "https://en.wikipedia.org/wiki/Correspondence_chess"] correspondence
+ grandmaster Dirk Daniel ("Dick D.") van Geet (1932–2012) frequently played 1.Nc3, so it is often called
+the Van Geet Opening in the Netherlands. The appellation [URL: "https://en.wikipedia.org/wiki/Sleipnir"] Sleipnir seems to come from Germany. Sleipnir
+is [URL: "https://en.wikipedia.org/wiki/Odin"] Odin's (Wotan in German) magical eight-legged horse, and chess [URL: "https://en.wikipedia.org/wiki/Knight_(chess)"] knights are horses with up to eight
+different possible moves each turn. [URL: "https://en.wikipedia.org/wiki/Czechoslovakia"] Czech [URL: "https://en.wikipedia.org/wiki/Jan_Kotr%C4%8D"] Jan Kotrč (1862–1943), editor and publisher of the magazine
+České Listy,  said the opening was analyzed by [URL: "https://en.wikipedia.org/wiki/England"] English players. Zvonimir Meštrović (b. 1944) is a
+ Slovenian International Master who often adopts this opening. [URL: "https://en.wikipedia.org/wiki/Tim_Harding_(chess)"] Tim Harding refers to it as the "Queen's
+Page 2
+Knight Attack" (Harding 1974:8). [URL: "https://en.wikipedia.org/wiki/Chess_master"] National Master [URL: "https://en.wikipedia.org/wiki/Hugh_Myers"] Hugh Myers called it "Millard's Opening" after Henry
+ Millard (1824–1891), a blind correspondence chess player who drew with the opening in a simultaneous
+ exhibition against Joseph Henry Blackburne. Blackburne later played the opening himself against Josef
+Noa in the London 1883 international chess tournament (Myers 2002:24–25).[1] The German [URL: "https://en.wikipedia.org/wiki/FIDE_Master"] FIDE Master
+Harald Keilhack in his 2005 book on the opening states that it has also been referred to as the Romanian
+Defense, and that he prefers the neutral appellation "Der Linksspringer" or, in English, "the Knight on the
+Left" (Keilhack 2005:7).
+General remarks
+The opening move 1.Nc3 develops the [URL: "https://en.wikipedia.org/wiki/Knight_(chess)"] knight to a good square where it attacks the central e4 and d5
+squares. Although quite playable, 1.Nc3 is rarely seen; it is only the eighth most popular of the 20 possible
+first moves, behind 1.e4, 1.d4, 1.Nf3, 1.c4, 1.g3, 1.f4, and 1.b3. As of February 6, 2009, out of the over
+500,000 games in [URL: "https://en.wikipedia.org/wiki/ChessGames.com"] ChessGames.com's database, only 644—about 1 out of every 780—begins with
+1.Nc3.[2] The third-ranking 1.Nf3 is 66 times as popular.[2] Some very strong [URL: "https://en.wikipedia.org/wiki/Correspondence_chess"] correspondence chess players
+employ 1.Nc3 frequently, and it is occasionally seen over-the-board.
+The reasons for 1.Nc3's lack of popularity are that it does not stop Black from occupying the center (while
+1.Nf3 prevents 1...e5, 1.Nc3 does not prevent 1...d5 because the d-pawn is guarded by the queen), and it
+blocks White's c-pawn from moving, thus making it impossible to play c3 or c4 (which are often desirable
+moves) without moving the knight first. In addition, after 1...d5, the knight's position is unstable because
+Black may attack it with ...d4. Although 1.Nc3 develops a piece to a good square (unlike 1.Na3 or 1.Nh3),
+and does not weaken White's position (unlike, e.g., 1.g4 or 1.f3) or waste time (unlike, e.g., 1. c3), the
+above-stated drawbacks make it an inferior way of attempting to exploit White's [URL: "https://en.wikipedia.org/wiki/First-move_advantage_in_chess"] first-move advantage. Of
+the 644 games with 1.Nc3 in [URL: "https://en.wikipedia.org/wiki/ChessGames.com"] ChessGames.com's database, White won 34.8%, drew 23.9%, and lost
+41.3%, for a total winning percentage of only 46.75%.[2][3] White scores much better with the more
+popular 1.e4 (54.25%), 1.d4 (55.95%), 1.Nf3 (55.8%), 1.c4 (56.3%), and 1.g3 (55.8%).[2] However, as of
+October 2018, for the 38,043 games with 1.Nc3 in [URL: "https://en.wikipedia.org/wiki/Lichess.org"] Lichess.org's database, White has a total winning
+percentage of 57.25% (55% won, 5% drawn, 40% lost), although it is still only the tenth most popular first
+move for White.
+Possible continuations
+1...d5
+This is one of Black's best replies, occupying the center and undermining the unsettled position of White's
+knight. White can prevent 2...d4 by playing 2.d4 himself, but he then obtains a somewhat inflexible
+position in the [URL: "https://en.wikipedia.org/wiki/Queen%27s_Pawn_Game"] Queen's Pawn Game with his knight blocking the c-pawn (Kaufman 2004:469, 473). Also
+possible is 2.Nf3 (and if 2...d4, 3.Ne4), a sort of [URL: "https://en.wikipedia.org/wiki/Black_Knights%27_Tango"] Black Knights' Tango with an extra move (Harding
+1974:10). A third line is 2.e3, which Keilhack calls "the Müller game," when White hopes for 2...e5 (other
+moves are also playable, of course) 3.Qh5!?, e.g. 3...Nc6 4.Bb5 Qd6 5.d4 exd4 6.exd4 Nf6 7.Qe5+! Be6?!
+(Keilhack recommends 7...Kd8!! 8.Bxc6 bxc6 9.Nf3 Bg4) 8.Bf4 0-0-0 9.Bxc6 Qxc6? 10.Nb5!, when
+White wins at least a pawn (Keilhack 2005:307–11).
+White's most common response to 1...d5 is 2.e4. This is the same position as 1.e4 d5 2.Nc3, an obscure
+branch of the [URL: "https://en.wikipedia.org/wiki/Scandinavian_Defense#Alternatives_to_2.exd5"] Scandinavian Defense. Black has five plausible responses to 2.e4: 2...e6 and 2...c6 transpose
+to the [URL: "https://en.wikipedia.org/wiki/French_Defence"] French and [URL: "https://en.wikipedia.org/wiki/Caro-Kann_Defense"] Caro–Kann Defenses, and 2...Nf6 to a variation of [URL: "https://en.wikipedia.org/wiki/Alekhine%27s_Defence"] Alekhine's Defence. The move 2...d4
+gives Black a [URL: "https://en.wikipedia.org/wiki/List_of_chess_terms#Spatial_advantage"] spatial advantage, which White may work to undermine along the lines of hypermodernism.
+Keilhack writes, "2...d4 is chosen either by somewhat naive players who are attracted by the fact that Black
+wins time and space ... or by strong players who are aware of the strategic risks but are striving for a
+Page 3
+complex battle." (Keilhack 2005:44) He considers the Van Geet Attack, 2...d4 3.Nce2 followed by 4.Ng3,
+to be "the core of the 1.Nc3 opening," "a fully independent entity which strives for early knight activity on
+the kingside," usually with Ng3, Nf3, Bc4 or Bb5, 0-0, and d3 (Keilhack 2005:44). Alternative lines for
+White include the unusual 3.Nb1!?, with which van Geet once drew Spassky, and, after 3.Nce2, playing a
+sort of [URL: "https://en.wikipedia.org/wiki/King%27s_Indian_Attack"] King's Indian Attack with d3, g3, Bg2, f4, Nf3, and 0-0 – a line Keilhack calls the "Lizard Attack"
+(Keilhack 2005:125).
+The fifth alternative, 1...d5 2.e4 dxe4, leads to more open play. After 3.Nxe4, Black has a number of
+playable moves, including 3...e5, 3...Nc6, 3...Bf5, 3...Nd7, 3...Nf6, and even 3...Qd5!?, when 4.Nc3
+transposes to the [URL: "https://en.wikipedia.org/wiki/Scandinavian_Defense"] Scandinavian Defense (Keilhack 2005:131, 144, 146, 158, 172, 176).  After 3...e5,
+White's thematic move is 4.Bc4, when several of Black's plausible moves lead to disaster, e.g. 4...Be7?
+5.Qh5! and White wins at least a pawn after 5...g6 6.Qxe5 or 5...Nh6 6.d3; or 4...Nf6? 5.Ng5! Nd5 and
+ now 6.d4!, 6.Qf3!, and 6.Nxf7!? Kxf7 7.Qf3+ are all possible, with positions similar to the line of the Two
+Knights Defense beginning 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nxd5?! (Keilhack 2005:133–
+34). However, 3...e5 4.Bc4 Nc6! is playable (Keilhack 2005:135–43).
+International Master Richard Palliser, in his 2006 book Beating Unusual Chess Openings, recommends
+1...d5 2.e4 dxe4 3.Nxe4 Nd7 for Black. He explains, "Black doesn't attempt to refute White's opening or to
+gain lots of space (as with 2...d4), but simply settles for sensible development. The position should be
+compared to both a [URL: "https://en.wikipedia.org/wiki/Caro-Kann_Defense"] Caro-Kann Defense and a French Rubinstein. Black will hope to demonstrate that he
+has gained from the omission of an early ...c6 or ...e6, while White will generally omit d4, preferring a
+setup with Bc4 and d3" (Palliser 2006:143). After 4.Bc4, the natural move 4...Ngf6!? leads to very sharp
+and unclear play if White responds with 5.Bxf7+!? Kxf7 6.Ng5+ Kg8 7.Ne6 Qe8 8.Nxc7 (Keilhack
+2005:158–63) (Palliser 2006:144–46).  More solid is 4...e6 ("!" – Keilhack) (Keilhack 2005:164–70)
+(Palliser 2006:144–48).
+1...c5
+1...c5 is often played by devotees of the [URL: "https://en.wikipedia.org/wiki/Sicilian_Defence"] Sicilian Defence, into which the game often transposes, either
+immediately after 2.e4 or at a later point. Alternatively, White can remain in independent 1.Nc3 lines, at
+least for the time being, with 2.Nf3 followed by 3.d4, which gives Black a large choice of possible
+responses. One line Palliser recommends for Black is 2.Nf3 Nf6 3.d4 (3.e4 transposes to a Sicilian) cxd4
+4.Nxd4 d5!? (seizing the center) 5.Bg5 Nbd7! 6.e4 (more critical than the passive 6.e3?!) dxe4 7.Qe2 e6!?
+8.0-0-0 Be7 9.Nxe4 0-0 when "White doesn't appear to have any advantage" (Palliser 2006:154–56).
+If White chooses to transpose to standard Sicilian lines, the fact that his knight is committed to c3 may be a
+disadvantage in certain lines. The Closed Sicilian, commonly reached by 1.e4 c5 2.Nc3, without an early
+d4 by White, gives Black few [URL: "https://en.wikipedia.org/wiki/Chess_theory"] theoretical difficulties (de Firmian 2008:346). If White instead chooses to
+play an Open Sicilian with 2.e4 and 3.Nf3 or Nge2, followed by d4, the knight's placement on c3 prevents
+White from playing the [URL: "https://en.wikipedia.org/wiki/Mar%C3%B3czy_Bind"] Maróczy Bind with c4. This makes the [URL: "https://en.wikipedia.org/wiki/Sicilian_Defence,_Accelerated_Dragon"] Accelerated Dragon Variation with 2...Nc6
+and 3...g6 particularly attractive (Gallagher 1994:146). Black may also stop White's intended d4 by playing
+an early ...e5, e.g. 1.Nc3 c5 2.e4 Nc6 3.Nf3 e5 (Gallagher 1994:151–55) or 3.Nge2 e5 (Gallagher
+1994:148–51).
+1...Nf6
+ Grandmaster [URL: "https://en.wikipedia.org/wiki/Larry_Kaufman"] Larry Kaufman recommends 1...Nf6, intending to meet 2.e4 with 2...e5 or 2.d4 with 2...d5
+(Kaufman 2004:484). Keilhack writes that "1...Nf6 is one of the most unpleasant replies for the 1.Nc3
+player. Black keeps all options open, he can choose between a central (...d5, possibly followed by ...c5)
+and an Indian (...g6, ...Bg7) setup. ... Among the many possible [second] moves [for White], none really
+stands out." (Keilhack 2005:338). The most straightforward moves for White are 2.d4 and 2.e4, but neither
+Page 4
+promises White a significant advantage. After 2.d4, 2...d5 leads to the [URL: "https://en.wikipedia.org/wiki/Richter-Veresov_Attack"] Richter-Veresov Attack (3.Bg5) or
+another type of [URL: "https://en.wikipedia.org/wiki/Queen%27s_Pawn_Game"] Queen's Pawn Game such as a Jobava London System, where White, having blocked his c-
+pawn, has little chance for an advantage (Kaufman 2004:469, 473). After 2.e4, Black can again play 2...d5
+ with a variation of the Alekhine's Defense; or 2...d6 3.d4 g6 with a Pirc Defense or 3...e5 with a Philidor's
+ Defense. The most solid response to 2.e4 is 2...e5, leading to a Vienna Game or, after 3.Nf3 Nc6, to a Four
+Knights Game—neither of which offers White an appreciable advantage (Kaufman 2004:364–65) (de
+Firmian 2008:121). Keilhack also analyzes a number of offbeat possibilities, including 2.b3, 2.Nf3, 2.f4 (an
+unusual form of [URL: "https://en.wikipedia.org/wiki/Bird%27s_Opening"] Bird's Opening that Keilhack calls the "Aasum System"), 2.g3, and even the gambit 2.g4?!
+Palliser writes that none of the alternatives to 2.e4 "really convince or should greatly trouble Black over the
+board" (Palliser 2006:142).
+1...e5
+This natural move is probably playable, but already a slight inaccuracy as White maintains an opening
+advantage in all lines. It is also particularly dangerous if Black does not know what he is doing, with
+numerous traps and knight tactics which Black must avoid. One of the main lines is 1...e5 2.Nf3 Nc6 3.d4,
+known as the Napoleon Attack, with poor chances for Black, continued by 3...exd4 4.Nxd4 Nf6 5.Bg5.
+Keilhack writes that this variation "occurs rather often and offers excellent chances for an early knockout"
+by White and that "only two [moves] (5...Bb4 and 5...Bc5) do not immediately ruin Black's game"
+(Keilhack 2005:26). (See, e.g., the Dunst–Gresser game given below.)
+Additionally, White can opt to immediately transpose into mainstream opening territory with 2.e4, leading
+the game into [URL: "https://en.wikipedia.org/wiki/King%27s_Pawn_Game"] King's Pawn Openings such as the [URL: "https://en.wikipedia.org/wiki/Vienna_Game"] Vienna Game, or [URL: "https://en.wikipedia.org/wiki/Four_Knights_Game"] Four Knights Game, however, it is
+thought that 2.Nf3 followed by 3.d4 is White's best chance of gaining an advantage out of the opening.
+Transpositions to other openings
+The move 1.Nc3 is considered an [URL: "https://en.wikipedia.org/wiki/Irregular_openings_(chess)"] irregular opening, so it is classified under the A00 code in the
+ Encyclopaedia of Chess Openings (also see [URL: "https://en.wikipedia.org/wiki/List_of_chess_openings"] List of chess openings). [URL: "https://en.wikipedia.org/wiki/Transposition_(chess)"] Transpositions to more common
+openings are possible, many of which are discussed in the preceding section. In addition, 1.Nc3 d5 2.e4
+reaches a position in the Scandinavian Defense; 1.Nc3 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.e4 leads to a
+[URL: "https://en.wikipedia.org/wiki/Four_Knights_Game"] Scotch Four Knights Game; 1.Nc3 e5 2.Nf3 Nc6 3.e4 Bc5 or 3...g6 gives a [URL: "https://en.wikipedia.org/wiki/Three_Knights_Game"] Three Knights Game; 1.Nc3
+Nc6 2.d4 d5 3.e4, or 2...e5 and now 3.d5 Nce7 4.e4 or 3.dxe5 Nxe5 4.e4, yields a [URL: "https://en.wikipedia.org/wiki/Nimzowitsch_Defense"] Nimzowitsch Defense;
+and 1.Nc3 b6 2.e4 Bb7 3.d4 is an [URL: "https://en.wikipedia.org/wiki/Owen%27s_Defense"] Owen's Defense. Transposition to a [URL: "https://en.wikipedia.org/wiki/Dutch_Defense"] Dutch Defense is also possible after
+ 1.Nc3 f5 2.d4, but Keilhack considers 2.e4! more dangerous, intending 2...fxe4 3.d3, a reversed From's
+Gambit (Keilhack 2005:369–70). Black alternatives to 2...fxe4 include 2...d6, when 3.d4 transposes to the
+ Balogh Defense; and 2...e5?!, when 3.Nf3 produces a [URL: "https://en.wikipedia.org/wiki/Latvian_Gambit"] Latvian Gambit, but 3.exf5!, as in a game between
+ Steinitz and [URL: "https://en.wikipedia.org/wiki/Sam_Loyd"] Sam Loyd, may be stronger.[4]
+Sample games
+ Here is a quick victory by Dunst himself against nine-time U.S. Women's Champion Gisela
+Gresser. It illustrates the problems that White's rapid development can pose if Black is not
+careful:
+Dunst–Gresser, New York 1950
+1. Nc3 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Bg5 d5? (better is 5...Bb4 6.Nxc6 bxc6
+7.Qd4 Be7 8.e4 0-0 9.Bd3 h6 10.Bf4 d5 11.0-0 dxe4 and the game was soon [URL: "https://en.wikipedia.org/wiki/Draw_(chess)"] drawn in
+Ekebjaerg–Oim, 14th World Correspondence Chess Championship) 6. e4! Be7 7. Bb5
+Bd7 8. exd5 Nxd5 9. Nxd5 Bxg5 10. Qe2+ Ne7? (Losing at once. 10...Be7 11.0-0-0 is
+also very awkward. Although it's unpleasant, Black should have tried 10...Kf8.) 11. Qe5!
+Page 5
+Bxb5? (11...0-0! 12.Qxg5 Nxd5 13.Qxd5 c6 and Black wins a piece back) 12. Nxc7+ Kf8
+13. Nde6+ (now 13...fxe6 14.Ne6+ wins Black's queen) 1–0 (notes based on those by Tim
+Harding)[5]
+Van Geet, another champion of the opening, routs his opponent almost as quickly:
+Van Geet–Guyt, Paramaribo 1967
+1. Nc3 d5 2. e4 d4 3. Nce2 e5 4. Ng3 g6 5. Bc4 Bg7 6. d3 c5 7. Nf3 Nc6 8. c3 Nge7 9.
+Ng5 0-0 (Now White has a surprising attacking move.) 10. Nh5! Bh8 (10...gxh5 11.Qxh5
+h6 12.Nxf7 is disastrous; 10...Na5 11.Nxg7 Nxc4! 12.dxc4 Kxg7 is forced.) 11. Qf3 Qe8 12.
+Nf6+ Bxf6 13. Qxf6 dxc3 (This loses by force. Again it was necessary to harass the
+bishop at c4 by ... Na5.) 14. Nxf7 Rxf7 15. Bh6 1–0 (notes based on those by [URL: "https://en.wikipedia.org/wiki/Eric_Schiller"] Eric Schiller
+at Chessgames.com)[6]
+See also
+ List of chess openings
+ List of chess openings named after people
+Notes
+1. [URL: "http://www.chessgames.com/perl/chessgame?gid=1001989"] Blackburne–Noa, London 1883 (http://www.chessgames.com/perl/chessgame?gid=100198
+9). ChessGames.com. Retrieved on 2009-02-06.
+2. [URL: "http://www.chessgames.com/perl/explorer"] Opening Explorer (http://www.chessgames.com/perl/explorer). ChessGames.com. Retrieved
+on 2009-02-06.
+3. White's overall winning percentage is derived by taking the percentage of games won by
+White and adding half of the percentage of drawn games, in this case 34.8 plus half of 23.9.
+4. [URL: "http://www.chessgames.com/perl/chessgame?gid=1228240"] Steinitz–Loyd, London 1867 (http://www.chessgames.com/perl/chessgame?gid=1228240)
+5. [URL: "http://www.chesscafe.com/text/kibitz25.txt"] Who Dunst It? (http://www.chesscafe.com/text/kibitz25.txt)
+6. [URL: "http://www.chessgames.com/perl/nph-chesspgn?text=1&gid=1335774"] http://www.chessgames.com/perl/nph-chesspgn?text=1&gid=1335774
+References
+[URL: "https://en.wikipedia.org/wiki/Nick_de_Firmian"] de Firmian, Nick (2008), Modern Chess Openings (15th ed.), Random House Puzzles &
+Games, ISBN 978-[URL: "https://en.wikipedia.org/wiki/Special:BookSources/978-0-8129-3682-7"] 0-8129-3682-7
+ Dunnington, Angus (2000), Winning Unorthodox Openings, Everyman Chess, ISBN 978-1-
+85744-285-4
+ Gallagher, Joe (1994), Beating the Anti-Sicilians, Henry Holt, ISBN 0-[URL: "https://en.wikipedia.org/wiki/Special:BookSources/0-8050-3575-3"] 8050-3575-3
+ Harding, T. D. (1974), Irregular Openings, Chess Digest Magazine
+ Hooper, David; [URL: "https://en.wikipedia.org/wiki/Kenneth_Whyld"] Whyld, Kenneth (1996), [URL: "https://en.wikipedia.org/wiki/The_Oxford_Companion_to_Chess"] The Oxford Companion to Chess (2nd ed.), Oxford:
+Oxford University, ISBN 0-[URL: "https://en.wikipedia.org/wiki/Special:BookSources/0-19-280049-3"] 19-280049-3
+ Kaufman, Larry (2004), The Chess Advantage in Black and White, David McKay, ISBN 0-
+8129-3571-3
+ Keilhack, Harald (2005), Knight on the Left: 1.Nc3, Russell Enterprises, ISBN 1-888690-19-
+4
+ Myers, Hugh (2002), A Chess Explorer, Myers Opening Bulletin
+ Palliser, Richard (2006), Beating Unusual Chess Openings, Everyman Chess, ISBN 1-
+85744-429-9
+Page 6
+ Schiller, Eric (2002), Unorthodox Chess Openings (Second ed.), Cardoza, pp. 280–81, 471–
+82, ISBN 1-[URL: "https://en.wikipedia.org/wiki/Special:BookSources/1-58042-072-9"] 58042-072-9
+Wall, Bill (2002), 1. Nc3 Dunst Opening, Chess Enterprises, ISBN 0-[URL: "https://en.wikipedia.org/wiki/Special:BookSources/0-945470-48-7"] 945470-48-7
+External links
+ Harding, Tim (June 1998), Who Dunst It (https://web.archive.org/web/20110717061208/htt
+ p://www.chesscafe.com/text/kibitz25.txt), ChessCafe.com, archived from the original (http://w
+ww.chesscafe.com/text/kibitz25.txt) on 2011-07-17
+Retrieved from "[URL: "https://en.wikipedia.org/w/index.php?title=Dunst_Opening&oldid=1079727851"] https://en.wikipedia.org/w/index.php?title=Dunst_Opening&oldid=1079727851"
+This page was last edited on 28 March 2022, at 09:10 (UTC).
+Text is available under the [URL: "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"] Creative Commons Attribution-ShareAlike License 3.0;additional terms may apply. By
+using this site, you agree to the [URL: "https://foundation.wikimedia.org/wiki/Terms_of_Use"] Terms of Use and [URL: "https://foundation.wikimedia.org/wiki/Privacy_policy"] Privacy Policy. Wikipedia® is a registered trademark of the
+ Wikimedia Foundation, Inc., a non-profit organization.

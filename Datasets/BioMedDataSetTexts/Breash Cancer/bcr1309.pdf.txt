@@ -1,0 +1,841 @@
+BOOKMARKS:
+Abstract
+History of magnetic resonance imaging of the breast
+Breast MRI acquisition techniques
+Breast MR image interpretation
+Clinical applications of breast MRI
+Conclusion
+Competing interests
+Acknowledgements
+References
+Page 1
+Available online http://breast-cancer-research.com/contents/7/5/215
+Review
+Imaging in breast cancer: Magnetic resonance imaging
+Constance D Lehman1 and Mitchell D Schnall2
+1Department of Radiology, University of Washington, Seattle Cancer Care Alliance, Seattle, WA, USA
+2Department of Radiology, University of Pennsylvania, Philadelphia, PA, USA
+Corresponding author: Constance D Lehman, lehman@seattlecca.org
+Published: 5 August 2005
+This article is online at http://breast-cancer-research.com/content/7/5/215
+© 2005 BioMed Central Ltd 
+Breast Cancer Research 2005, 7:215-219 (DOI 10.1186/bcr1309)
+Abstract
+Over the past 5 years there has been a marked increase in the use
+of magnetic resonance imaging (MRI) of the breast. Multiple
+research studies have confirmed improved cancer detection,
+diagnosis, and evaluation of response to therapy with breast MRI
+compared with mammography and ultrasound. As this exciting new
+technology advances, focused work in optimal scan protocols,
+appropriate clinical applications, and image interpretation are
+needed. Both the potential benefits and harms need to be
+evaluated to guide optimal use of this imaging modality in select
+patient populations.
+History of magnetic resonance imaging of the
+breast
+Some of the first images of the body produced with magnetic
+resonance imaging (MRI) were of the breast [1]. However, by
+the mid-1980s most investigators had concluded that there
+was little clinical utility for MRI in detecting or diagnosing
+breast cancer. The application of contrast agents to breast
+imaging, first published by Heywang and colleagues [2],
+changed that thinking and revealed that breast cancers, in
+comparison with normal breast tissue, were enhanced
+significantly with standard gadolinium contrast agents.
+Heywang’s reports were followed closely by those of Kaiser
+and Zeitler [3], who also found contrast-enhanced magnetic
+resonance images useful in breast cancer diagnosis but by
+using a very different technique. Whereas Heywang and
+colleagues acquired one pre-contrast and two post-contrast
+sequences of a single breast, permitting high spatial
+resolution with a three-dimensional gradient echo technique,
+Kaiser and Zeitler obtained one pre-contrast and multiple
+post-contrast images of both breasts, permitting high
+temporal resolution.
+This work by Heywang and Kaiser in the 1980s established
+that contrast-enhanced MRI could distinguish benign from
+malignant breast tissue; additional reports, including those by
+Harms and Kuhl in the 1990s [4,5],  contributed to our 
+understanding of the optimal methods of image acquisition.
+Two basic camps were established, one focusing on the
+rapid acquisition of images of both breasts after contrast
+injection (high temporal resolution of the ‘dynamic’ school)
+and the other focusing on three-dimensional gradient echo
+imaging with thin slices through one breast (high spatial
+resolution of the ‘static’ school). The dynamic school tended
+to use image subtraction to suppress the high signal from fat,
+whereas the static school tended to eliminate the fat signal by
+more time-consuming methods of suppression. The dynamic
+school, more popular in Europe, helped to develop methods
+to evaluate various enhancement profiles over time, and the
+static school, more popular in the USA, helped to develop
+methods to distinguish morphologic features of malignant
+and benign lesions [6]. By 2000, most agreed that both high
+temporal and high spatial resolution were important in gaining
+information about both the pharmacokinetics and morphology
+of breast lesions. Importantly, current technology permits
+acquisition protocols that provide both high spatial resolution
+(≤3mm slices with ≤1mm in-plane spatial resolution) and
+high temporal resolution (fat-suppressed T
+1 
+acquisitions
+covering both breasts in ≤2 min).
+Breast MRI acquisition techniques
+There are numerous acceptable methods of image
+acquisition, and no single method has proven superior to
+another. However, there are guidelines considered by most
+experts to be reasonable minimum requirements for achieving
+acceptable image quality.
+A dedicated breast surface coil should always be used. Both
+unilateral and bilateral coils are available. Bilateral imaging
+has obvious advantages of cost, time, and patient
+convenience. Most coils sold today are for bilateral imaging
+and most are open, allowing for access to the breast tissue
+for MRI-guided interventions. The vast majority of published
+studies of breast MRI have been conducted on 1.5T
+magnets, but there are some reports from 1.0 T scanners.
+MRI = magnetic resonance imaging.  215
+Page 2
+Breast Cancer Research October 2005 Vol 7 No 5 Lehman and Schnall
+In 2003, the 4th edition of the manual for the American College
+of Radiology Breast Imaging Reporting and Data System (BI-
+RADS®) included a section dedicated to the performance and
+reporting of breast MRI [7]. The committee acknowledged that
+no single method of image acquisition had been proven
+superior to others, but that reporting of breast MRI should
+include field strength, pre-contrast and post-contrast
+sequences used, method of fat suppression, and post-
+processing performed (subtractions, axial, sagittal, coronal
+reconstructions, and/or maximum intensity projections).
+Breast MR image interpretation
+The American College of Radiology BI-RADS MRI lexicon for
+breast imaging includes detailed language for describing
+morphology and kinetics of lesions. All suspicious enhancing
+areas should be described as a focus or foci, mass or non-
+mass-like enhancement. Foci are typically less than 5mm in
+diameter, whereas masses have defined convex margins. All
+mass descriptions should include reporting of mass shape,
+margin and internal enhancement. Non-mass-like
+enhancement descriptions should include distribution,
+internal enhancement and symmetry. Associated findings
+(such as edema, adenopathy, cysts, and skin or chest wall
+involvement) should be reported and kinetic curve
+assessment of all lesions described. Kinetic curve
+assessment should include initial peak enhancement (slow,
+medium, or rapid) and delayed-phase (persistent, plateau, or
+washout) analyses.
+Clinical applications of breast MRI
+Numerous reports evaluating the potential role of breast MRI
+in defined patient populations have been published. These
+studies cover the spectrum of cancer detection, diagnosis,
+and response to treatment evaluation, and include women
+with a mammographic or palpable abnormality, axillary
+adenopathy but unknown primary, current cancer diagnosis,
+and women at high risk for breast cancer.
+Further evaluation of mammographic or palpable
+abnormality
+Initially, clinical studies of breast MRI focused on the potential
+role of MRI in further evaluation of a mammographic or
+palpable lesion. It was proposed that MRI could reduce the
+number of unnecessary biopsies recommended from
+traditional work-ups of mammographic or palpable lesions.
+However, although MRI was shown to have very high
+sensitivity it was not 100% sensitive and it demonstrated only
+moderate specificity. In 2004 the International Breast MRI
+Consortium published the largest (n = 821) multicenter study
+so far of patients recommended for biopsy based on
+abnormal mammogram, ultrasound, or clinical breast exam
+[8]. This study demonstrated that although MRI had very high
+sensitivity, 12% of cancers identified by mammography or
+clinical breast exam were negative on MRI. The authors
+concluded that MRI should not be used to overrule a
+216 recommendation for biopsy. It was also interesting that the 
+use of dynamic MRI in this patient population did not improve
+accuracy compared with high-spatial-resolution three-
+dimensional MRI alone.
+Evaluation of extent of disease
+Although negative or benign MRI findings cannot replace a
+recommendation for biopsy based on traditional methods,
+MRI does seem to be important in the assessment of extent
+of disease in patients with a recent diagnosis of breast
+cancer. This application was pioneered by Harms and
+colleagues [9] and confirmed by multiple reports over the
+past 15years including that by Bedrosian and colleagues
+[10], all demonstrating that MRI can identify otherwise occult
+multicentric and multifocal disease in women with breast
+cancer. Harms compared results from in vivo MR images with
+serially sectioned pathologic analyses in 30 mastectomy
+specimens. MRI detected additional disease in 37% of
+specimens. Several subsequent reports confirmed the
+findings of Harms and colleagues, including a report from the
+University of Pennsylvania [11] that MRI changed manage-
+ment of 23% of patients scheduled for breast conserving
+therapy. In the largest multisite study so far, the International
+Breast MRI Consortium reported on 426 women with a current
+cancer diagnosis. MRI identified additional disease at least
+2 cm from the index malignant lesion in 18% of patients [12].
+The advantage of MRI in determining the extent of disease
+has also been demonstrated in studies evaluating the
+contralateral breast. In a recent study of 239 women with a
+breast cancer diagnosis who underwent prophylactic
+contralateral mastectomy (no known disease in the
+contralateral breast), 4.6% of women had cancer identified by
+pathology [13]. Interestingly, seven clinical studies of women
+with a recent cancer diagnosis have found that, on average,
+4% of women will have otherwise occult contralateral
+cancers identified by MRI at the time of the initial breast
+cancer diagnosis [14].  These data suggest that most
+contralateral cancers can be detected at the time of the initial
+breast cancer diagnosis (Fig. 1).
+Malignant adenopathy, unknown primary
+A small percentage (1 to 2%) of breast cancer patients
+present with axillary adenopathy, unknown primary. Current
+treatment recommendations for these patients is mastectomy.
+However, MRI will detect the occult cancer in 75 to 85% of
+patients, allowing many of these to have lumpectomy rather
+than mastectomy [15].
+Evaluation of response to neoadjuvant chemotherapy
+In the mid-1990s, Gilles and colleagues [16] reported that
+MRI was superior to mammography and clinical breast exam
+in evaluating response to neoadjuvant chemotherapy.
+Subsequent studies supported these findings but cautioned
+that the false negative rate of MRI is increased after
+chemotherapy and MRI cannot exclude microscopic disease
+[17,18].
+Page 3
+Figure 1 
+Available online http://breast-cancer-research.com/contents/7/5/215
+MRI results in a woman 52 years old with recent diagnosis of right breast cancer. Left mammogram negative. Pre-contrast (a) and post-contrast (b)
+enhanced sagittal MR images reveal an 8 mm enhancing mass at 12 o’clock in the left breast (arrowed). Core needle biopsy confirmed infiltrating
+ductal carcinoma. Final pathology from lumpectomy demonstrated an 8 mm infiltrating ductal carcinoma; sentinel lymph node negative.
+Figure 2
+MRI results in a 46 year old woman at high risk for breast cancer. Sagittal pre-contrast T
+2 
+(a), post-contrast T
+1 
+(b) and magnified view (c) of
+8 × 3 × 3 linear focus of enhancement in left breast at six o’clock (arrowed). The lesion was negative on mammography and screening ultrasound.
+Pathology proved infiltrating ductal carcinoma.
+Screening women at high risk for breast cancer
+Although all women are at risk for developing breast cancer,
+there are subgroups of women who can be identified by
+genetic testing or by risk modeling who are at significantly
+increased risk for breast cancer. For example, women who
+are carriers of the BRCA1 mutation have an approximately
+85% lifetime risk of developing breast cancer. In addition,
+women at increased risk tend to develop breast cancer at a
+younger age when mammography is less sensitive, probably
+because of increased mammographic density and increased
+growth rates of tumors in women of younger age (Fig. 2).
+Multiple studies published since 2000 demonstrate that
+screening MRI can detect otherwise occult breast cancers in 
+women at high risk (Table1) [19-25].  The first study
+published on screening MRI in high-risk women was by Kuhl
+and colleagues [19],  who screened 192 women with
+mammography, MRI, and ultrasound. In that study, MRI
+detected 6 cancers in 192 women (3%) that were occult on
+both mammography and ultrasound. The largest screening
+MRI study so far [24] reported on 1,909 women at increased
+risk in the Netherlands, with 51 women diagnosed with
+cancer. The sensitivities of clinical breast examination,
+mammography, and MRI were 17.9%,  33%,  and 79.5%,
+respectively. The overall discriminating capacity of MRI was
+significantly better than mammography as assessed by
+receiver operator curves (area under the curve: 0.83 for MRI
+versus 0.69 for mammography).  217
+Page 4
+P,
+prospective
+;
+PPV
+,
+positive 
+predictive 
+value
+;
+R,
+retrospective
+.
+a
+Exact 
+binomial 
+confidence 
+intervals
+.
+b
+Reported 
+median
+.
+c
+To 
+be 
+included 
+in 
+this 
+study
+,
+subjects 
+had 
+to 
+have 
+a
+negative 
+mammogram
+.
+d
+One 
+patient 
+who 
+had 
+an 
+MRI
+-only 
+cancer 
+in 
+this 
+study 
+did 
+not 
+receive 
+ultrasound
+.
+e
+Comparable 
+sensitivity 
+reported 
+on 
+45 
+of 
+51 
+cancers 
+in 
+this 
+study
+. 
+3
+/367 
+(0
+.8
+)
+[0
+.2
+–2
+.4
+]
+23
+/367 
+(6
+.3
+)
+17 
+22
+/1
+,909 
+(1
+.2
+)
+[1
+.1
+–2
+.4
+]
+56
+/1
+,909 
+(2
+.9
+)
+57 24 
+59
+/367 
+(15
+.8
+) 
+3
+/109 
+(2
+.8
+)
+[0
+.6
+–7
+.8
+]
+5
+/109 
+(4
+.6
+)
+60
+89
+46 
+9
+/105 
+(8
+.6
+) 
+37
+/236 
+(15
+.7
+) 
+6
+/192 
+(3
+.1
+)
+[0
+.9
+–6
+.0
+]
+14
+/192 
+(7
+.3
+)
+64 
+of 
+MRI
+,
+%
+basis 
+of 
+MRI
+,
+% 
+as 
+a
+result 
+performed 
+on 
+recommended 
+biopsies  PPV 
+of 
+Biopsies 
+14
+/367 
+(3
+.8
+)
+[2
+.1
+–6
+.3
+] 
+7
+/105 
+(6
+.7
+)
+[2
+.7
+–13
+.3
+] 
+7
+/236 
+(3
+.0
+)
+d
+[1
+.7
+–7
+.1
+] 
+Cancer yield 
+from 
+MRI 
+alone 
+(
+%)
+[95
+%
+CI
+]
+a 
+– – – – 
+13 
+(1
+/8
+) 
+33 
+(7
+/21
+) 
+33 
+(3
+/9
+) 
+Ultrasound 
+100 
+(4
+/4
+) 
+40 
+(18
+/45
+)
+71 
+(32
+/45
+) 
+100 
+(14
+/14
+) 
+100 
+(3
+/3
+) 
+100 
+(8
+/8
+) 
+36 
+(8
+/22
+)
+77 
+(17
+/22
+) 
+100 
+(9
+/9
+) 
+Sensitivity 
+(
+%) 
+Mammography 
+MRI
+Breast Cancer Research October 2005 Vol 7 No 5 Lehman and Schnall
+Although in all studies so far MRI sensitivity has been
+uniformly high, the specificity and positive predictive value of
+biopsies vary widely. The rates of biopsies performed in
+women undergoing screening MRI have ranged from 2.9% to
+16%, with positive predictive value of those biopsies ranging
+from 17% to 89%. It is interesting that MRI specificity seems
+to improve after the first round of screening. Warner and
+colleagues [20] reported recall rates decreasing during the
+first, second and third rounds of MRI screening from 17% to
+10% to 7%.
+MRI has not been studied in the general population as a
+screening tool, and the results from MRI screening of high-
+risk women may not apply to women at average risk. The high
+cost of MRI (about 10 times the cost of mammography) and
+its variable specificity currently prohibit its routine use for
+screening general populations.
+Two specific populations of women are considered to have
+relative contraindications to contrast-enhanced MRI:
+pregnant and nursing women. Other than early animal studies
+showing adverse effects on embryo development, there is
+little information about the risks of contrast-enhanced imaging
+during pregnancy. Little is also known about the transfer and
+effects of this agent on nursing infants. Makers of the agent
+gadodiamide (Omniscan; Amersham Health) identify it as a
+Category C drug and recommend caution in its use in these
+two specific populations, noting that contrast-enhanced
+imaging should be conducted on pregnant women only when
+the benefits of the exam are considered to outweigh the risks
+to the fetus. For nursing mothers, the current recommendation
+is to wait 24 hours after injection before resuming nursing.
+Conclusion
+The use of breast MRI is increasing rapidly as this exciting
+technology improves and as data continue to become
+available supporting the value of this tool in select patient
+populations. Breast MRI is highly sensitive, with an
+acceptable specificity compared with other imaging
+modalities. Although MRI clearly detects cancers occult to
+mammography, ultrasound, and clinical breast exam, the
+impact of MRI on breast cancer recurrence or mortality has
+not been studied. Analyses of cost-effectiveness of MRI in
+distinct patient populations need to be performed. There is
+significant work to be done to optimize the application and
+performance of breast MRI. Research to clarify optimal
+acquisition protocols is needed. Recent work in breast MRI in
+3T magnets is very exciting and holds promise for even
+higher spatial and temporal resolution by providing a better
+signal : noise ratio. MRI spectroscopy, reviewed in another
+article in this series [26], may improve the specificity of MRI
+and might possibly predict the response to therapy and/or
+evaluate the very early response to chemotherapy. Novel
+contrast agents are being developed that may provide more
+sensitive and more specific discrimination of benign from
+218  malignant lesions. These rapidly advancing areas of research
+25
+(1
+/4
+) 
+0
+c
+0 
+13 
+(1
+/8
+) 
+33 
+(3
+/9
+) 
+None 
+45 
+(26
+–86
+)
+1.1 
+(4
+/367
+) 
+33 
+40 
+(19
+–72
+)
+2.4 
+(45
+/1
+,909
+)
+e 
+None 
+50
+b
+(23
+–82
+)
+3.8 
+(14
+/367
+) 
+12 
+42 
+(22
+–68
+)
+2.8 
+(3
+/109
+) 
+24 
+46 
+(25
+–77
+)
+7.6 
+(8
+/105
+) 
+36 
+47 
+(26
+–65
+)
+9.3 
+(22
+/236
+) 
+12 
+39 
+(18
+–65
+)
+4.7 
+(9
+/192
+) 
+Cancers detected
+/ 
+screened
+, 
+(
+%) 
+Comparative 
+sensitivity 
+of 
+screening 
+methods 
+in 
+women 
+at 
+increased 
+risk 
+for 
+breast 
+cancer 
+Mean age
+, 
+years (range
+) 
+Follow
+- 
+up
+, 
+months 
+International 
+[25
+]
+P 
+Netherlands 
+[24
+]
+P 
+United 
+States 
+[23
+]
+R 
+Netherlands 
+[22
+]
+P P 
+Canada 
+[20
+]
+P 
+Germany 
+[19
+]
+P 
+Study design 
+Italy 
+[21
+] 
+Study 
+site 
+and reference  Table 
+1
+Page 5
+Available online http://breast-cancer-research.com/contents/7/5/215
+This article is part of a review series on
+Imaging in breast cancer,
+edited by David A Mankoff.
+Other articles in the series can be found online at
+http://breast-cancer-research.com/articles/
+review-series.asp?series=BCR_Imaging
+hold great promise for continued improvements in the earlier
+and more accurate diagnosis of breast cancer.
+Competing interests
+CL has a consultant agreement with General Electric
+Company, for which her duties include giving lectures and
+developing teaching programs in breast imaging. MS serves
+as a consultant to Ethicon and to MedRad. He is also the
+recipient of grant and research support from Siemens
+Medical Solutions, royalties from USA Instruments, and past
+honoraria from GE Healthcare for work related to breast
+imaging.
+Acknowledgements
+We thank Sue Peacock and Tamara Fernando for their assistance in
+manuscript preparation.
+References
+1. Mansfield P, Morris P, Ordidge R, Coupland R, Bishop H, Blamey
+R: Carcinoma of the breast imaged by nuclear magnetic reso-
+nance (NMR). Br J Radiol 1979, 52:242-243.
+2. Heywang S, Fenzl G, Hahn D, Krischke I, Edmaier M, Eiermann
+W, Bassermann R: MR imaging of the breast: comparison with
+mammography and ultrasound. J Comput Assist Tomogr 1986,
+10:615-620.
+3. Kaiser W, Zeitler E: MR imaging of the breast: fast imaging
+sequences with and without Gd-DTPA. Preliminary observa-
+tions. Radiology 1989, 170:681-686.
+4. Harms SE, Flamig DP: MR imaging of the breast: technical
+approach and clinical experience. Radiographics 1993, 13:905-
+912.
+5. Kuhl CK, Mielcareck P, Klaschik S, Leutner C, Wardelmann E,
+Gieseke J, Schild HH: Dynamic breast MR imaging: are signal
+intensity time course data useful for differential diagnosis of
+enhancing lesions? Radiology 1999, 211:101-110.
+6. Kuhl CK, Schild HH: Dynamic image interpretation of MRI of
+the breast. J Magn Reson Imaging 2000, 12:965-974.
+7. American College of Radiology: ACR BI-RADS® – MRI. ACR
+Breast Imaging Reporting and Data System. In Breast Imaging
+Atlas. Reston, VA: American College of Radiology; 2003.
+8. Bluemke D, Gatsonis C, Chen M, DeAngelis G, DeBruhl N, Harms
+S, Heywang-Kobrunner S, Hylton N, Kuhl C, Lehman C, et al.:
+Magnetic resonance imaging of the breast prior to biopsy.
+JAMA 2004, 292:2735-2742.
+9. Harms SE, Flamig DP, Hesley KL, Meiches MD, Jensen RA, Evans
+WP, Savino DA, Wells RV: MR imaging of the breast with rotat-
+ing delivery of excitation off resonance: clinical experience
+with pathologic correlation. Radiology 1993, 187:493-501.
+10. Bedrosian I, Mick R, Orel SG, Schnall M, Reynolds C, Spitz FR,
+Callans LS, Buzby GP, Rosato EF, Fraker DL, et al.: Changes in
+the surgical management of patients with breast carcinoma
+based on preoperative magnetic resonance imaging. Cancer
+2003, 98:468-473.
+11. Tan JE OS, Schnall MD, Schultz DJ, Solin LJ: Role of magnetic
+resonance imaging and magnetic resonance imaging –
+guided surgery in the evaluation of patients with early-stage
+breast cancer for breast conservation treatment.  Am J Clin
+Oncol 1999, 22:414-418. 
+12. Schnall MD, Blume J, Bluemke D, Smazal S, Deangelis G, Harms
+S, Kuhl C, Hylton N, Gatsonis C, International Breast MRI Consor-
+tium: MRI detection of multi focal breast carcinoma: report
+from the International Breast MRI Consortium. J Clin Oncol
+2004, 22 (Suppl):14S.
+13. Goldflam K, Hunt KK, Gershenwald JE, Singletary SE, Mirza N,
+Kuerer HM, Babiera GV, Ames FC, Ross MI, Feig BW, et al.: Con-
+tralateral prophylactic mastectomy. Predictors of significant
+histologic findings. Cancer 2004, 101:1977-1986.
+14. Lehman CD, Blume JD, Thickman D, Bluemke DA, Pisano E, Kuhl
+K, Julian T, Hylton N, Weatherall P, O’Loughlin M, et al.: The
+added cancer yield of MRI in screening the contralateral
+breast of women recently diagnosed with breast cancer:
+results from the International Breast Magnetic Resonance
+Consortium (IBMC) trial. J Surg Oncol 2005, in press.
+15. Orel S, Weinstein S, Schnall M, Reynolds C, Schuchter L, Fraker
+D, Solin L: Breast MR imaging in patients with axillary node
+metastases and unknown primary malignancy. Radiology
+1999, 212:543-549.
+16. Gilles R, Guinebretiere JM, Toussaint C, Spielman M, Rietjens M,
+Petit JY, Contesso G, Masselot J, Vanel D: Locally advanced
+breast cancer: contrast-enhanced subtraction MR imaging of
+response to preoperative chemotherapy. Radiology 1994, 191:
+633-638.
+17. Rosen EL, Blackwell KL, Baker JA, Soo MS, Bentley RC, Yu D,
+Samulski TV, Dewhirst MW: Accuracy of MRI in the detection of
+residual breast cancer after neoadjuvant chemotherapy. AJR
+Am J Roentgenol 2003, 181:1275-1282.
+18. Partridge SC, Gibbs JE, Lu Y, Esserman LJ, Sudilovsky D, Hylton
+NM: Accuracy of MR imaging for revealing residual breast
+cancer in patients who have undergone neoadjuvant
+chemotherapy. AJR Am J Roentgenol 2002, 179:1193-1199.
+19. Kuhl CK, Schmutzler RK, Leutner CC, Kempe A, Wardelmann E,
+Hocke A, Maringa M, Pfeifer U, Krebs D, Schild HH: Breast MR
+imaging screening in 192 women proved or suspected to be
+carriers of a breast cancer susceptibility gene: preliminary
+results. Radiology 2000, 215:267-279.
+20. Warner E, Plewes DB, Hill KA, Causer PA, Zubovits JT, Jong RA,
+Cutrara MR, DeBoer G, Yaffe MJ, Messner SJ, et al.: Surveillance
+of BRCA1 and BRCA2 mutation carriers with magnetic reso-
+nance imaging, ultrasound, mammography, and clinical breast
+examination. JAMA 2004, 292:1317-1325.
+21. Podo F, Sardanelli F, Canese R, D’Agnolo G, Natali PG, Crecco
+M, Grandinetti ML, Musumeci R, Trecate G, Bergonzi S, et al.:
+The Italian multi-centre project on evaluation of MRI and other
+imaging modalities in early detection of breast cancer in sub-
+jects at high genetic risk. J Exp Clin Cancer Res 2002, 21
+(Suppl 3):115-124.
+22. Tilanus-Linthorst MM, Obdeijn IM, Bartels KC, de Koning HJ,
+Oudkerk M: First experiences in screening women at high risk
+for breast cancer with MR imaging. Breast Cancer Res Treat
+2000, 63:53-60.
+23. Morris EA, Liberman L, Ballon DJ, Robson M, Abramson AF,
+Heerdt A, Dershaw DD: MRI of occult breast carcinoma in a
+high-risk population. AJR Am J Roentgenol 2003, 181:619-
+626.
+24. Kriege M, Brekelmans CT, Boetes C, Besnard PE, Zonderland
+HM, Obdeijn IM, Manoliu RA, Kok T, Peterse H, Tilanus-Linthorst
+MM, et al.: Efficacy of MRI and mammography for breast-
+cancer screening in women with a familial or genetic predis-
+position. N Engl J Med 2004, 351:427-437.
+25. Lehman CD, Blume JD, Weatherall P, Thickman D, Hylton N,
+Warner E, Pisano E, Schnitt SJ, Gatsonis C, Schnall M: Screen-
+ing women at high risk for breast cancer with mammography
+and magnetic resonance imaging. Cancer 2005, 103:1898-
+1905.
+26. Bolan PJ, Nelson MT, Yee D, Garwood M: Imaging in breast
+cancer: magnetic resonance spectroscopy. Breast Cancer Res
+2005, 7:149-152. 
+219

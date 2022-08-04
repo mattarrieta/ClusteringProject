@@ -1,0 +1,1479 @@
+Creator: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+Producer: Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+Title: The infernal business of contract cheating: understanding the business processes and models of academic custom writing sites
+Keywords: Contract cheating,Business model and academic integrity
+ModDate: 2018/01/10 13:29:29+01'00'
+Subject: International Journal for Educational Integrity, 2018, doi:10.1007/s40979-017-0024-3
+CreationDate: 2018/01/09 13:00:35+08'00'
+Author: Cath Ellis
+xmp:pdf:Keywords: Contract cheating,Business model and academic integrity
+xmp:pdf:Producer: Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+xmp:dc:format: application/pdf
+xmp:dc:identifier: 10.1007/s40979-017-0024-3
+xmp:dc:publisher: International Journal for Educational Integrity
+xmp:dc:description: International Journal for Educational Integrity, 2018, doi:10.1007/s40979-017-0024-3
+xmp:dc:subject: Contract cheating; Business model and academic integrity
+xmp:dc:title: The infernal business of contract cheating: understanding the business processes and models of academic custom writing sites
+xmp:dc:creator: Cath Ellis; Ian Michael Zucker; David Randall
+xmp:xmp:MetadataDate: 2018-01-10T13:29:29+01:00
+xmp:xmp:CreateDate: 2018-01-09T13:00:35+08:00
+xmp:xmp:CreatorTool: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+xmp:xmp:ModifyDate: 2018-01-10T13:29:29+01:00
+xmp:xmpMM:DocumentID: uuid:7fd589a3-eede-4b72-946c-9499c72dbffd
+xmp:xmpMM:InstanceID: uuid:1f0f5566-4da3-4f88-9d00-2a1a3dff5cd5
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:b54f2f07-c404-4c99-ab49-0164de893bd9
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2018-01-09T13:05:04+08:00
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:7ea41118-ac16-456a-a63c-3d3fa325dce5
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2018-01-09T16:04:00+08:00
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:author:name: Cath Ellis
+xmp:author:orcid: http://orcid.org/0000-0003-1921-6226
+xmp:pdfaSchema:schema: Springer Nature ORCID Schema
+xmp:pdfaSchema:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/
+xmp:pdfaSchema:prefix: sn
+xmp:pdfaProperty:name: authorInfo
+xmp:pdfaProperty:valueType: Bag AuthorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Author information: contains the name of each author and his/her ORCID (ORCiD: Open Researcher and Contributor ID). An ORCID is a persistent identifier (a non-proprietary alphanumeric code) to uniquely identify scientific and other academic authors.
+xmp:pdfaProperty:name: editorInfo
+xmp:pdfaProperty:valueType: Bag EditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Editor information: contains the name of each editor and his/her ORCID identifier.
+xmp:pdfaProperty:name: seriesEditorInfo
+xmp:pdfaProperty:valueType: Bag SeriesEditorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Series editor information: contains the name of each series editor and his/her ORCID identifier.
+xmp:pdfaType:type: AuthorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/authorInfo/
+xmp:pdfaType:prefix: author
+xmp:pdfaType:description: Specifies the types of author information: name and ORCID of an author.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an author.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an author.
+xmp:pdfaType:type: EditorInformation
+xmp:pdfaType:namespaceURI: http://springernature.com/ns/xmpExtensions/2.0/editorInfo/
+xmp:pdfaType:prefix: editor
+xmp:pdfaType:description: Specifies the types of editor information: name and ORCID of an editor.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the namBOOKMARKS:
+Abstract
+Background
+Method
+Findings
+  Academic custom writing site structure
+  Academic custom writing site business processes
+    Administration roles
+    Order form
+    Order management
+    Bidding and writer status
+    Quality assurance
+Discussion
+  Business models
+  Site structure
+  Speed of production, and quality control and assurance
+Conclusions and recommendations
+Funding
+Authors’ contributions
+Competing interests
+Publisher’s Note
+Author details
+References
+Page 1
+Ellis et al. International Journal for Educational Integrity (2018) 14:1
+DOI 10.1007/s40979-017-0024-3 
+International Journal for
+Educational Integrity
+ORIGINAL ARTICLE  Open Access
+The infernal business of contract cheating:
+understanding the business processes and
+models of academic custom writing sites
+Cath Ellis1* [URL: "http://orcid.org/0000-0003-1921-6226"] , Ian Michael Zucker1 and David Randall2
+* Correspondence:
+ cath.ellis@unsw.edu.au
+1Faculty of Arts and Social Sciences,
+UNSW, Sydney, NSW 2052, Australia
+Full list of author information is
+available at the end of the article 
+Abstract
+While there is growing awareness of the existence and activities of Academic
+Custom Writing websites, which form a small part of the contract cheating industry,
+how they work remains poorly understood. Very little research has been done on
+these sites, probably because it has been assumed that it is impossible to see behind
+their firewalls and password protection. We have found that, with some close
+scrutiny, it is indeed possible to find some ‘cracks’ in these sites through which we
+can look to gain insights into the business processes that operate within them. We
+have reverse engineered the business processes that operate within some of these
+sites. From this we have also been able to identify three different business models
+that are supported by these sites. Our analysis supports important findings about
+how these sites operate that can be used to inform future strategies to detect and
+deter contract cheating.
+Keywords: Contract cheating, Business model and academic integrity
+Background
+Contract cheating occurs when a student procures a third party (who knows about and
+benefits from the transaction) to produce academic work (that is usually, but not al-
+ways assessable work) that the student then submits to an educational institution as if
+it were their own. It constitutes a form of plagiarism: presenting someone else’s words
+and/or ideas as your own without appropriate attribution. The contract can be either
+paid or unpaid; paid work obviously involves payment in money, but unpaid work
+could involve favours and other forms of mutual obligation (Lancaster and Clarke
+2014a).  While there is a widespread perception that contract cheating is a recent
+phenomenon, as Bertram Gallant points out in her history of academic misconduct, it
+is probably one of the oldest forms of cheating there is (Bertram Gallant 2008). The
+way that contract-cheating transactions occur, however, has changed over time. The
+most recent changes have been a result of emerging technologies that facilitate new
+ways to procure and produce bespoke academic work.
+It is likely that contract cheating is not well understood by many of the academic
+staff responsible for marking and administering student academic work in educational
+institutions. This is hardly surprising: contract cheating is, by its very nature, covert
+and duplicitous. Along side this low level of awareness, there are not, as yet, tools that
+© The Author(s). 2018 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International
+License ([URL: "http://creativecommons.org/licenses/by/4.0/"] http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and
+indicate if changes were made.
+Page 2
+Ellis et al. International Journal for Educational Integrity (2018) 14:1  Page 2 of 21
+can effectively and efficiently detect contract cheating at the point of submission. Most
+institutions will have had some experience of investigating and penalising students for
+contract cheating and in some instances these have been reported in the media (Jacks
+2016). There is a growing concern across the Higher Education sector that the number
+of instances being detected is considerably smaller than the volume of work being pro-
+cured, produced and submitted to institutions for assessment. Concomitantly, there is
+almost certainly a widespread perception amongst students who are currently or who
+are contemplating cheating in this way that the likelihood of their being caught and
+penalised is very small indeed. Rigby et al. make the important point that in the con-
+tract cheating market place ‘the demand for essays involves the interplay of risk, penal-
+ties and the payoffs and the ethics, norms and risk preferences of the individual facing
+the option to buy’ (Rigby et al. 2015 p23). A low risk of detection is, therefore, almost
+certainly an important influencing factor for at least some students. Macdonald and
+Carroll are at pains to point out that detection alone is not an adequate solution to the
+problem of academic misconduct (Macdonald and Carroll 2006). Detection, however,
+can contribute in useful ways to a holistic approach to deterrence and is therefore a
+critical part of the management of academic integrity in any educational institution.
+The premise of this paper is that in order to improve detection, it is first important to
+understand better how the business of contract cheating works.
+There are several ways in which contract cheating transactions take place. In his 2009
+paper “Contract Cheating: A New Phenomenon in Cyber-Plagiarism” Mahmood divides
+the contract cheating problem into five segments: bespoke essay sites, using friends and
+family, discussion sites, tutorial sites and auction sites (Mahmood 2009). In their more
+recent paper, Newton and Lang also divide the problem into five sections that are
+slightly different to Mahmood’s: academic custom writing, online labour markets, pre-
+written essay banks, file-sharing sites and paid exam takers (Newton and Lang 2015).
+This paper suggests that neither of these views provide a fully comprehensive descrip-
+tion of the different segments of contract cheating and that it is useful to combine
+them to identify instead six segments: family and friends; academic custom writing
+sites; legitimate learning sites (eg. file sharing, discussion and microtutoring sites); legit-
+imate non-learning sites (eg. freelancing sites and online auction sites);  paid exam
+takers; and pre-written essay banks. It is on the second of these segments – academic
+custom writing sites – that this paper focuses its attention.
+There is a growing body of scholarly work on contract cheating. To date the bulk of it has
+been undertaken by Clarke and Lancaster who have focussed their attention on the use of
+legitimate freelancing and auction sites for the purposes of contract cheating (see Clarke &
+Lancaster, 2006, 2007, 2013; Lancaster & Clarke, 2014a, 2014b). Wallace and Newtown have
+also investigated the speed of production of contract cheating procured and produced
+through these types of site (Wallace and Newton 2014). The scholarly work on academic
+custom writing sites has considered such things as the legality of the transactions (Newton
+and Lang 2015; Draper et al. 2017), the quality of work being produced (Lines 2016), the
+writers who produce the work (Bartlett 2009; Sivasubramaniam et al. 2016), the ability of
+markers to detect essays purchased from these sites (Dawson and Sutherland-Smith 2017)
+and the variety of features used by the sites to persuade students to use their services
+(Rowland et al. 2017). This paper offers some initial findings that have resulted from a close
+examination of a selection of sites associated with academic custom writing.
+Page 3
+Ellis et al. International Journal for Educational Integrity (2018) 14:1  Page 3 of 21
+This paper does not include any information that specifically identifies any of
+these sites in order to avoid promoting any individual companies (see Draper et al.
+2017).  Information relating to these sites has been made available to the reviewers
+and also to the Australian Tertiary Education Quality Standards Authority
+(TEQSA) and the Quality Assurance Agency (QAA) in the United Kingdom. The
+analysis is based on the examination of these sites in particular and this paper
+makes no claims that these findings represent the academic custom writing indus-
+try or the contract-cheating problem as a whole. The analysis does, however, offer
+a useful window into part of one segment of the industry.
+Method
+In May 2015 the authors discovered a small number of academic custom writing
+sites that were similar in appearance. While the site names, logos, images and
+colour schemes of these sites were different, the structure of the sites looked to be
+remarkably similar. We surmised that it was likely that these sites had something
+in common and that there might be more sites like them. A reverse Domain Name
+Server (rDNS) look up was used to see if there were other websites associated with
+the Internet Protocol (IP) numbers that were associated with the sites we had
+already found. An rDNS look up is a way of querying the domain name of an IP
+address, which is the reverse of how websites are usually accessed via a browser.
+The process can be used to reveal the Universal Resource Locators (URL) of other
+websites using the same IP numbers. Through this process other sites were identi-
+fied that clearly related to contract cheating.
+Through this process over 130 sites were found that are the type most obviously rec-
+ognisable as contract-cheating sites. These sites display the persuasive features that
+Rowland et al. have identified as being typical of academic custom writing sites sites.
+They divide these features into three categories: informativeness (eg information about
+services offered and terms of use), credibility (eg assurances of the quality of both the
+writers and the work produced, as well as of price, of privacy and of payment security)
+and involvement (eg offering customers 24/7 live text chat services, social media and
+personal accounts) (Rowland et al. 2017).  Many of the sites provide phone numbers
+with British, American and/or Australian area codes. Toll-free forwarding phone num-
+bers (that allow owners of online businesses to offer clients local phone numbers that
+are forwarded to a phone line in a different geographic location) make it likely that
+these sites are not necessarily operating out of one or any of these locations. We call
+these sites ‘client sites’  as they are where student ‘clients’  place orders for academic
+work to be produced for them.
+Through this rDNS process we were surprised to discover two other types of site that
+were clearly associated with the academic custom writing industry. These are markedly
+different to these client sites in the features they displayed. The first are sites that invite
+people to register as writers in order to work to produce custom written essays. We call
+these ‘writer sites’ and we found over 30 of these. The persuasive features of these sites
+typically include assurances of the quantity of work available, the ability for writers to
+work from home, generous pay (including bonuses) and the availability of a wide range
+of writing projects in different disciplines. The second are sites that offer to set up, in
+return for a fee, fully integrated academic writing websites. We call these ‘master sites’
+Page 4
+Ellis et al. International Journal for Educational Integrity (2018) 14:1  Page 4 of 21
+and we found four sites in total that are linked together as two pairs. These sites offer
+pricing structures, live demonstrations – what they call ‘live demos’ – and a list of fea-
+tures of the sites they offer to build. One of the key features listed on these sites is that
+they build two separate types of site: a writer site that also functions as an administra-
+tor site and one or more client sites that are linked together and to what they refer to
+as the ‘admin/writer’ site. This offered an indiciation that there may have been some
+kind of link between the client and writer sites already found. Indeed the two pairs of
+master sites are constructed and joined together in this way in order to demonstrate
+this structure to potential buyers. The two sites in one pair display identical contact
+phone numbers and email addresses while the two sites in the other pair display identi-
+cal email addresses only.
+The discovery of these three different types of sites indicate that the structure of aca-
+demic custom writing sites is potentially more complex and sophisticated than had
+been previously reported in the scholarly literature. There is a widespread assumption
+in the literature that what we call client sites constitute a single, self-contained aca-
+demic custom writing business. These initial findings indicated that this was not the
+case. Our hypothesis was that the main administrative component of these online busi-
+nesses is actually the writer sites and that in many instances multiple client sites were
+all part of the one company.
+To find evidence to support this hypothesis initial information was gathered from a
+variety of sources from the client and writer sites discovered through the rDNS look up
+within the time frame of a single week in December 2017. This short time frame was
+used because of the highly volatile nature of these sites; they have a tendency to go into
+and out of existence frequently. First IP numbers and Internet Service Provider (ISP)
+names were collected for all the sites. This information was used to identify a total of
+37 client sites and 10 writer sites that appeared to cluster around identical IP numbers
+and ISP names. Then, for each of the 37 client sites, the order process was initiated,
+stopping just prior to order submission to determine the identifier (eg PayPal identity)
+of the merchant that would receive payment (had the order been completed).  The
+phone numbers advertised on the sites were recorded. None of the writer sites advertise
+phone numbers and because they do not need to accept payment, it is also not possible
+to gather merchant identifiers from them.
+In addition, two sets of information from the two pairs of master sites were gathered.
+The first set was the features list that explains to potential buyers the nature of the
+products (i.e. separate ‘admin/writer’  and client sites) that are available for purchase
+from these sites. The second set was gathered by investigating the so-called ‘live demos’
+that are made available for the purposes of allowing guests to explore the functionality
+of the client and writer sites. These ‘demos’ gave access to the features that only the
+owners and the site administrators of these writer and client sites would normally see.
+The information gathered from these ‘demos’  enabled the reverse engineering of the
+business processes operating within the client and writer sites. This was done by using
+the guest login user names and passwords advertised on one of the master sites to enter
+the demonstration sites and then to observe, analyse and record the functions afforded,
+the business rules enforced and the business roles supported by the website. These
+were then compared with the features promoted by both master sites. While the fea-
+tures of the master sites differ slightly, the general nature of the functions and business
+Page 5
+Ellis et al. International Journal for Educational Integrity (2018) 14:1  Page 5 of 21
+processes observed are substantively similar. From this a single business process that
+operates within the client and writer sites offered for sale from these master sites was
+documented.
+Findings
+Academic custom writing site structure
+Our investigation has confirmed the basic structure of the academic custom writing
+businesses that we have discovered: at least one writer site accompanied by at least
+one, and in most instances several, client sites. Multiple client sites that share identical
+Paypal information, phone numbers, IP addresses and ISP names were found. This
+makes it highly likely that each of these clusters of client sites is operating as a single
+business. The fact that these sites all have different domain names but share identical
+IP addresses indicates that they are making use of shared web hosting, which is a cost
+effective way of making websites available online and is a further strong indicator of a
+relationship between these sites.
+While it is not possible to definitively prove which writer sites are linked to which
+clusters of client sites, the fact that the IP and ISP locations shared by these client sites
+are each shared with at least a single writer site indicates that they too are using the
+same shared web hosting as the client sites. While it is not possible to definitively prove
+from this information that the sites are interlinked, the alignment of all of these factors
+is highly unlikely to be coincidental (see Table 1 and Fig. 1). It is also not possible to
+definitively prove which, or indeed if any, of the client/writer site combinations have
+been built by either of the two master sites. However, the fact that the writer and client
+site structure that they offer to build is also reflected in the interrelationship of client
+and writer sites found adjacent to them via the rDNS look up corroborates that this is
+a viable, and probably prevalent, structure for these types of site.
+The relationships between the client sites and the writer sites all confirms the likeli-
+hood that one or multiple client sites are owned and/or maintained by the same person
+or company alongside at least one writer site and are operating as separate ‘shop win-
+dows’ for a single business. After all, the more client sites that are linked through to a
+writer site, the greater the potential for market exposure. This allows a single site
+owner to cater to distinct markets such as different discipline areas (for instance, sites
+specifically appealing to nursing or engineering students) or to geographic locations
+(for instance, sites specifically targeted to British or Australian students). This estab-
+lishes the illusion of choice and/or specialisation. The client interface allows students
+to place orders and to communicate with the site staff about their order. The writer
+sites provide an interface for the freelance writers to be allocated and/or to bid for
+available orders, and to submit and revise the work they have completed.
+Academic custom writing site business processes
+Administration roles
+As the features listed on the master sites explains, the writer sites also function as admin-
+istrator sites. The analysis of the features list and subsequent investigation of the ‘live
+demos’  confirm that these sites support multiple roles including order evaluation,
+payment processing, quality assurance, customer service and support, technical support,
+Page 6
+Table 1
+Academic 
+custom 
+writing 
+website 
+clusters 
+Site 
+cluster 
+Site 
+Identity
+IP 
+Group
+Paypal 
+Seller 
+Email
+ISP 
+Shared 
+United 
+States of 
+Shared 
+United 
+Kingdom 
+Shared 
+Australian 
+Shared 
+Kenyan 
+Shared 
+contact 
+America 
+phone 
+numbers 
+phone 
+numbers
+phone 
+numbers 
+phone 
+numbers 
+email 
+address 
+1
+Client 
+site 
+1
+IP 
+address 1
+Paypal 
+address 1
+ISP 
+1
+US 
+phone 1 
+Writer 
+site 
+1
+IP 
+address 2
+ISP 
+2 
+Client 
+site 
+2
+IP 
+address 2
+Paypal 
+address 1
+ISP 
+2
+US 
+phone 1
+UK 
+phone 1 
+Client 
+site 
+3
+IP 
+address 2
+Paypal 
+address 1
+ISP 
+2
+US 
+phone 1
+UK 
+phone 1 
+Client 
+site 
+4
+IP 
+address 2
+Paypal 
+address 1
+ISP 
+2
+US 
+phone 1
+UK 
+phone 1 
+Client 
+site 
+5
+IP 
+address 2
+Paypal 
+address 1
+ISP 
+2
+US 
+phone 1
+UK 
+phone 1 
+Client 
+site 
+6
+IP 
+address 2
+Paypal 
+address 1
+ISP 
+2
+US 
+phone 1
+UK 
+phone 1 
+2
+Client 
+site 
+7
+IP 
+address 3
+Paypal 
+address 2
+ISP 
+3
+US 
+phone 2
+UK 
+phone 2
+AUS 
+Phone 1 
+Client 
+site 
+8
+IP 
+address 4
+Paypal 
+address 2
+ISP 
+3
+US 
+phone 2
+UK 
+phone 2
+AUS 
+Phone 1 
+Client 
+site 
+9
+IP 
+address 3
+Paypal 
+address 2
+ISP 
+3
+US 
+phone 2 
+Client 
+site 
+10
+IP 
+address 4
+Paypal 
+address 2
+ISP 
+3
+US 
+phone 2
+UK 
+phone 2
+AUS 
+Phone 1 
+Writer 
+site 
+2
+IP 
+address 4
+ISP 
+3 
+Writer 
+site 
+3
+IP 
+address 3
+ISP 
+3 
+Client 
+site 
+11
+IP 
+address 5
+Paypal 
+address 2
+ISP 
+3
+UK 
+phone 2 
+Client 
+site 
+12
+IP 
+address 5
+Paypal 
+address 2
+ISP 
+3
+US 
+phone 2
+UK 
+phone 2
+AUS 
+phone 1 
+Client 
+site 
+13
+IP 
+address 5
+Paypal 
+address 2
+ISP 
+3
+US 
+phone 2
+UK 
+phone 2
+AUS 
+phone 1 
+Client 
+site 
+14
+IP 
+address 5
+Paypal 
+address 2
+ISP 
+3
+US 
+phone 2
+UK 
+phone 2
+AUS 
+phone 1 
+Writer 
+site 
+4
+IP 
+address 5
+ISP 
+3 
+3
+Client 
+site 
+15
+IP 
+address 6
+Paypal 
+address 3
+ISP 
+4
+US 
+Phone 3 
+Writer 
+site 
+5
+IP 
+address 6
+ISP 
+4 
+Client 
+site 
+16
+IP 
+address 6
+Paypal 
+address 4
+ISP 
+4
+US 
+Phone 3 
+Client 
+site 
+17
+IP 
+address 6
+Paypal 
+address 4
+ISP 
+4
+US 
+Phone 3
+Shared 
+RSS 
+feedsFeed 1 
+Feed 1 
+Feed 1 
+Feed 1 
+Feed 2 
+Feed 2
+Page 6 of 21 Ellis et al. International Journal for Educational Integrity (2018) 14:1
+Page 7
+Table 1
+Academic 
+custom 
+writing 
+website 
+clusters (
+Continued) 
+Site 
+cluster 
+Site 
+Identity
+IP 
+Group
+Paypal 
+Seller 
+Email
+ISP 
+Shared 
+United 
+States of 
+Shared 
+United 
+Kingdom 
+Shared 
+Australian 
+Shared 
+Kenyan 
+Shared 
+contact 
+America 
+phone 
+numbers 
+phone 
+numbers
+phone 
+numbers 
+phone 
+numbers 
+email 
+address 
+Client 
+site 
+18
+IP 
+address 6
+Paypal 
+address 3
+ISP 
+4
+US 
+Phone 3 
+Writer 
+site 
+6
+IP 
+address 6
+ISP 
+4 
+Client 
+site 
+19
+IP 
+address 6
+Paypal 
+address 3
+ISP 
+4
+US 
+Phone 3 
+Client 
+site 
+20
+IP 
+address 6
+Paypal 
+address 3
+ISP 
+4
+US 
+Phone 3 
+Client 
+site 
+21
+IP 
+address 6
+Paypal 
+address 3
+ISP 
+4
+US 
+Phone 3 
+Client 
+site 
+22
+IP 
+address 6
+Paypal 
+address 3
+ISP 
+4
+US 
+Phone 3 
+Client 
+site 
+23
+IP 
+address 6
+Paypal 
+address 3
+ISP 
+4
+US 
+Phone 3 
+4
+Writer 
+site 
+7
+IP 
+address 7
+ISP 
+4 
+Client 
+site 
+24
+IP 
+address 7
+Paypal 
+address 5
+ISP 
+4
+US 
+phone 4
+UK 
+phone 3 
+Client 
+site 
+25
+IP 
+address 7
+Paypal 
+address 5
+ISP 
+4
+UK 
+phone 3 
+Client 
+site 
+26
+IP 
+address 8
+Paypal 
+address 5
+ISP 
+4
+UK 
+phone 3 
+Client 
+site 
+27
+IP 
+address 7
+Paypal 
+address 5
+ISP 
+4
+US 
+phone 4
+UK 
+phone 3 
+Client 
+site 
+28
+IP 
+address 8
+Paypal 
+address 5
+ISP 
+4
+US 
+phone 4
+UK 
+phone 3 
+Client 
+site 
+29
+IP 
+address 8
+Paypal 
+address 5
+ISP 
+4
+US 
+phone 4
+UK 
+phone 3 
+Client 
+site 
+30
+IP 
+address 8
+Paypal 
+address 5
+ISP 
+4
+US 
+phone 4
+UK 
+phone 3 
+5
+Writer 
+site 
+8
+IP 
+address 9
+ISP 
+4 
+Client 
+site 
+31
+IP 
+address 9
+Paypal 
+address 6
+ISP 
+4
+US 
+phone 5
+UK 
+phone 4 
+Client 
+site 
+32
+IP 
+address 9
+Paypal 
+address 6
+ISP 
+4
+US 
+phone 5
+UK 
+phone 4 
+6
+Client 
+site 
+33
+IP 
+address 10 
+Paypal 
+address 7
+ISP 
+2
+AUS 
+phone 2 
+Client 
+site 
+34
+IP 
+address 10 
+Paypal 
+address 8
+ISP 
+2
+AUS 
+phone 2 
+Writer 
+site 
+9
+IP 
+address 10
+ISP 
+2 
+7
+Writer 
+site 
+10
+IP 
+address 11
+ISP 
+5
+Shared 
+RSS 
+feeds
+Page 7 of 21 Ellis et al. International Journal for Educational Integrity (2018) 14:1
+Page 8
+Ellis et al. International Journal for Educational Integrity (2018) 14:1
+Table 1
+Academic 
+custom 
+writing 
+website 
+clusters (
+Continued) 
+Site 
+cluster 
+Site 
+Identity
+IP 
+Group
+Paypal 
+Seller 
+Email
+ISP 
+Shared 
+United 
+States of 
+Shared 
+United 
+Kingdom 
+Shared 
+Australian 
+Shared 
+Kenyan 
+Shared 
+contact 
+America 
+phone 
+numbers 
+phone 
+numbers
+phone 
+numbers 
+phone 
+numbers 
+email 
+address
+Shared 
+RSS 
+feeds 
+Client 
+site 
+35
+IP 
+address 11 
+Paypal 
+address 9
+ISP 
+5 
+Client 
+site 
+36
+IP 
+address 11 
+Paypal 
+address 9
+ISP 
+5
+US 
+phone 6
+Feed 3 
+Client 
+site 
+37
+IP 
+address 11 
+Paypal 
+address 9
+ISP 
+5
+US 
+phone 6
+Feed 3 
+8
+Master 
+client 
+site 
+1
+IP 
+address 5
+ISP 
+4
+Kenyan 
+phone 1
+Email 
+address 1
+and 
+2 
+Master 
+writer 
+site 
+1
+IP 
+address 5
+ISP 
+4
+Kenyan 
+phone 1
+Email 
+address 1
+and 
+2 
+9
+Master 
+client 
+site 
+2
+IP 
+address 12
+ISP 
+4
+Email 
+address 3 
+Master 
+writer 
+site 
+2
+IP 
+address 12
+ISP 
+4
+Email 
+address 3
+Page 8 of 21
+Page 9
+Ellis et al. International Journal for Educational Integrity (2018) 14:1  Page 9 of 21
+Fig. 1 Alignment of multiple 'client' sites with a single 'admin/writer' site
+workforce management, and dispute resolution. In a section called ‘create new user’ the
+sites allow for each of these roles to be set up so that different people can undertake them
+separately. There is also an administrator role that is a kind of super-user role, incorporat-
+ing all of the other other roles into one (see Fig. 2). The fact that the web software enables
+these roles to be undertaken by one person or, alternatively, by different people in each of
+the roles indicates that the software has been specifically designed to scale with the
+owner’s business. This is almost certainly to accommodate increasingly higher volumes of
+orders and growing staff numbers. For the sake of simplicity, in the description of the
+Fig. 2 Screenshot of create new user function in the 'demo' site showing administrative roles
+Page 10
+Ellis et al. International Journal for Educational Integrity (2018) 14:1  Page 10 of 21
+business roles and processes below, the relevant staff member undertaking a task is re-
+ferred to as an ‘adminstrator’.
+Order form
+First this paper turns to explain the process of managing and completing orders as ob-
+served and experienced on the client site that is part of the master site that was ana-
+lysed. On the front page there is a large order button that links through to an order
+page. Clicking on this starts the process, which subsequently prompts clients to enter a
+range of information into an order form (see Fig. 3). The order form demonstrated on
+the two master sites shares many features with those on many but not all of the client
+sites. First it requires users to key in the topic for the order and then to select all or
+most of the following from a series of pull down menus and check boxes: the subject
+(discipline) area, the type of document (eg essay, term paper, dissertation chapter), the
+number of words which is also measured in pages, the line spacing, the urgency (mea-
+sured in time),  the academic level (ranging from High School to PhD),  the required
+number of sources, the referencing style and the preferred language style (US or UK
+English). Clients are invited to enter information into a window entitled ‘order descrip-
+tion’ which instructs them to ‘type your instructions here’. On the live sites, clients are
+required to enter in their names and contact information and to register with a pass-
+word for the site. Clients are also given the opportunity to upload additional files at a
+later stage of their order. The final stage of the ordering process adds up the costing of
+the variables for the academic work and requests payment from the customer.
+There are four variables that affect the price of the order: the discipline, the length of
+the paper, the urgency and the academic level. The cost variance by discipline on the
+actual client sites differs from one site to another. On some sites, all disciplines are
+available at the same rate while on others, some disciplines attract a higher per-page
+rate that on some sites is referred to as a ‘complex assignment charge’. Generally speak-
+ing, Science, Technology, Engineering and Mathematics (STEM) subjects like Physics,
+Chemistry, Aeronautics and Statistics are more expensive than Humanities, Arts and
+Social Sciences (HASS) subjects like English, History, Business and Sociology. Most
+sites also offer additional services such as ‘VIP support’  and ‘Written by Top 10
+Writers’ that incur an extra one-off or per-page fee. Many offer discount vouchers for
+return customers, for recommending a friend and/or for orders over a set amount that
+can reduce the final cost. The cost variance across these sites warrants further investi-
+gation but is outside the scope of this paper.
+Order management
+This paper now turns to explain what happens after the orders have been lodged. This
+workflow has been represented diagrammatically using a business process diagram that
+shows the major steps of the order completion from the point of view of the site owner
+(see Fig. 4). Administrators adjust the status of an order as it moves through the vari-
+ous stages of being filled. On the ‘demo’ site we analysed, the site administrators are
+able to adjust the status by selecting an order from a list using a check box and then
+clicking one of a number of different buttons which include: ‘make available’, ‘mark as
+done’, ‘return to editing’, ‘return to revision’, ‘un approve’, ‘remove’ and ‘delete’ (see Fig. 5).
+This is illustrated using a diagram that tracks each of the logical states that an order
+can take from first inquiry to completion (see Fig. 6).
+Page 11
+Ellis et al. International Journal for Educational Integrity (2018) 14:1  Page 11 of 21
+Fig. 3 Screenshot of order form in the 'demo' site
+Page 12
+Ellis et al. International Journal for Educational Integrity (2018) 14:1  Page 12 of 21
+Fig. 4 Business process diagram
+When orders are placed on the site they are automatically set to ‘pending.’  At
+this point an administrator vets the orders to ensure that they are legitimate and
+that they contain enough information for a writer to produce the work that is
+required. If it does not, the order’s status is changed to ‘rejected’. If it does the or-
+der’s status is changed to ‘available’.
+Fig. 5 Screenshot of order management function in the 'demo' site with order status buttons
+Page 13
+Ellis et al. International Journal for Educational Integrity (2018) 14:1  Page 13 of 21
+Fig. 6 State diagram
+Most client and writer sites have a publicly available Rich Site Summary (RSS) feed
+that is populated with information relating to orders placed on the site. This function is
+disabled on the ‘demo’ (presumably to avoid test orders from being publicly published).
+The RSS facility is nevertheless available on the master site albeit in an empty state (see
+Fig. 7). The existence of the RSS feed is not described in the features list of either mas-
+ter site so its precise purpose is not clear. We have inferred how it probably works and
+how it is populated.
+Fig. 7 Screenshot of RSS feed function in the 'demo' site
+Page 14
+Ellis et al. International Journal for Educational Integrity (2018) 14:1  Page 14 of 21
+RSS feeds emerged in 1999 as a means of publishing (through aggregation and syndi-
+cation) frequently updated online content so that readers can easily track it. The fact
+that the initials RSS are often taken to mean Really Simple Syndication gives an
+indication of the simple and interoperable format that these feeds take. The logical
+purpose of the RSS feeds emerging from these sites is to allow writers to maintain easy
+and immediate access to new orders as they become available, particularly if they are
+working for multiple companies.
+It is possible to be confident that the content emerging from these sites via the RSS
+feeds relates to orders placed by student clients. There are, however, many aspects of
+these feeds about which it is not possible to be certain. Prime amongst these is the fact
+that RSS feeds from a particular site can contain orders that are duplicated in feeds
+from other sites. There are at least three different possible reasons for these duplica-
+tions. The first is a result of the interlinked nature of the websites, whereby the one
+order is distributed (or syndicated) to multiple feeds, presumably in order to make it
+visible to the largest possible number of available writers (see Table 1). The second is
+when multiple students in the same course order the same piece of academic work
+from one or multiple sites. The third is when unclaimed orders (i.e. orders for which a
+writer has not yet been allocated) and work that has not been started or satisfactorily
+completed by a previously allocated writer are readvertised via the feed. These orders
+then become available for reallocation to another writer.
+Another thing that cannot be known for certain about these RSS feeds is whether the
+orders emerging from a site are all the orders that are placed on that site. The date
+stamps of the feeds cluster closely together which indicates that a staff member work-
+ing for the site publishes them manually rather than being generated automatically
+when an order is placed. The most logical moment in the workflow for this to happen
+is after an order has been vetted and before it has been assigned. It is possible, there-
+fore, that in practice the orders that are pushed to the RSS feeds represent only a sub-
+set of the orders that come into the site. This may be because site owners and a select
+group of writers give themselves the first option to complete orders as they come into
+the site and it is only the residue of unclaimed orders that is subsequently sent through
+the RSS feed. From the information contained in these feeds it is not possible to ascer-
+tain who has placed the order, exactly when they placed it, at which institution they are
+studying, whether the order has been filled and, if so, whether it was subsequently sub-
+mitted to an institution for assessment. What it does make certain is that a student has
+placed an order for the work to be done.
+Bidding and writer status
+As explained on the features list of the master sites, writers are given different levels of
+access to orders. An administrator can enter an area called ‘writers administration page’
+and select a writer or writers from a list using a check box and then choose the relevant
+status from a pull down menu. In one master site the writer statuses are set as ‘silver’,
+‘gold’ and ‘platinum’ and on the other they are ‘normal’, ‘silver’ and ‘advanced’. In this
+same area of the site, the administrator is also able to select writers and click buttons
+entitled ‘approve’, ‘ban’, ‘de activate’, ‘delete’ and ‘reset password’ to manage other aspects
+of a writer’s work status and access to the site (see Fig. 8). The features list of both
+master sites explain that the different status levels are awarded once writers prove the
+Page 15
+Ellis et al. International Journal for Educational Integrity (2018) 14:1  Page 15 of 21
+Fig. 8 Screenshot of writers administration page in the 'demo' site showing writer status
+quality of their work. The ‘site settings’ section allows an administrator to adjust the
+number of orders for which a writer at each status level is entitled to claim and bid
+using an edit function (see Fig. 9).  Once an order is allocated to a writer its status
+changes to ‘assigned’.
+Quality assurance
+Once the writers have completed the work, the writers upload the orders back to the sites.
+The orders are then put through a quality control process overseen by an administrator.
+At this point an administrator changes the order’s status to ‘editing’. If through this quality
+control process it is deemed that the work requires further revisions it is sent back to the
+writer for adjustment. At this point its status is changed to ‘revision’. If an order is claimed
+by a writer but not filled on time or to an appropriate level of quality, an administrator
+can make it available for reallocation to other writers. At this point its status reverts to
+‘unconfirmed’. Once the completed work has been approved through the quality control
+process the order’s status is changed to ‘completed.’ At this point it is made available to
+the client who has ordered the work. If the client is happy with the quality of the work
+provided, they can confirm the order as completed. At this point its status changes to ‘ap-
+proved’. If they are not happy, they can ask for a revision. At this point the order’s status
+reverts to ‘revision’. If they remain unsatisfied after the revision process, they can further
+escalate their concerns at which point the order’s status changes to ‘dispute’.
+It is useful to note at this point two particularly striking features of these sites. The
+first is the sophisticated nature of the workflows that operate within them. The second
+is the meticulous nature of the quality assurance and dispute resolution mechanisms
+built into the workflow.
+Page 16
+Ellis et al. International Journal for Educational Integrity (2018) 14:1  Page 16 of 21
+Fig. 9 Screenshot of set writers levels function in the 'demo' site
+Discussion
+Business models
+As George and Bock point out, ‘definitions for business models vary widely’  (George
+and Bock 2011 p. 83). For the purposes of this paper we use a definition offered by
+Amit and Zott: ‘A business model depicts the design of transaction content, structure
+and governance so as to create value through the exploitation of business opportunities’
+(Amit and Zott 2001 p. 495). There are three different business models at work within
+this particular set of academic custom writings sites.
+The first, and simplest, business model is that of the writers are working as self-
+employed freelancers. Dave Tomar – who is probably better known by his original
+pseudonym Ed Dante and by the moniker the Shadow Scholar – has described this
+business model in some detail in an article (Dante 2010) and subsequent book
+(Tomar 2012).  His choice of the pseudonym ‘Dante’  is apt as he refers to the
+working life he experienced as a writer for academic custom writing companies as
+being his ‘personal hell’  (Tomar 2012 p. 157).  A Chronicle of Higher Education re-
+port by Xian Bu has identified some of these writers as graduates living in Kenya
+who report earning between USD5000 and USD14 000 per month (which Bu re-
+ports compares very favourably to their public service salaries of USD500 per
+month and against the per capita gross national income of Kenya which is around
+USD1300) (Bu 2016).  Bu’s article also reports on a subsidiary aspect to this
+business model: the onselling of writers’  accounts. The fact that the writers are
+given different status levels, with attendant privileges as outlined above, explains
+how there is value in an established writing profile once a certain status level has
+been obtained.
+Page 17
+Ellis et al. International Journal for Educational Integrity (2018) 14:1  Page 17 of 21
+The second business model – that builds on and amplifies the first – is that of the aca-
+demic custom writing business owner. This business model creates value by establishing a
+marketable web presence and then benefits by taking a portion of the revenue generated
+by client orders. A report in the Chronicle of Higher Education by Brad Wolverton quotes
+a site owner explaining that he takes 50% of the revenue and pays the writers the rest
+(Wolverton 2016). Tomar also reports: ‘Almost universally, wherever I have worked, you
+collect half the money and the company collects the other half’ (Tomar 2012 p. 141).
+The third and final business model is that of the master site owners who build aca-
+demic custom writing sites – that is both the admin/writer and client sites – for a fee.
+This business model – that builds on and amplifies the first and second models – cre-
+ates value by selling pre-designed, proven and tested web applications with all the busi-
+ness processes built in and the instructions on how to use them for a one-off payment.
+These master sites design the logos and brands for these websites and also offer web-
+hosting and application management.
+Site structure
+Clearly these sites are clustered together with one or multiple client sites linked to-
+gether with a writer site using the same shared web hosting, PayPal addresses and
+phone numbers. The fact that these match what is being advertised on the master sites
+makes it likely that the same person or people built them using the same template. If
+so, they will also have similar or identical business processes operating within them.
+This is an example of business process isomorphism, which Masini defines as a
+‘phenomenon whereby organizations tend to display similar business processes [which]
+can be associated with the adoption of similar software packages containing similar
+process templates’  (Masini 2009 p. 109). It is possible that the owners of the master
+sites have designed the software that they sell based on their own experiences as writers
+within the academic custom writing industry and have modelled their sites on the expe-
+riences they have had. It is also likely that people who have previously worked as
+writers move on to establishing their own businesses (client and writer sites). This en-
+ables them to take on a role that may be both less labour intensive and more lucrative.
+In this role, the site owners probably earn on average 50% of the revenue for orders
+completed by other writers. They are also able to reserve easy and lucrative writing or-
+ders for themselves for which they earn all of the revenue. These master sites, there-
+fore, cater to individuals who aspire to establish businesses of their own but do not
+have the skills or time to design and build their own websites.
+Speed of production, and quality control and assurance
+A core component of the business model of these sites is their ability to link clients’ or-
+ders with as many writers possible. From the site owner’s point of view, this is desirable
+because it makes it more likely that the order will be filled in the required time frame,
+thereby satisfying the client. The exposure of each order to as many writers as possible
+also increases the competition for the orders amongst the writers. This reduces the cost
+of production, thereby making the commodity more affordable and attractive to poten-
+tial clients. Because of the fixed pricing model, the site administrators are able to secure
+the bulk of the revenue regardless of where the bidding lands amongst writers.
+Page 18
+Ellis et al. International Journal for Educational Integrity (2018) 14:1  Page 18 of 21
+The extensive quality control and assurance processes built into the workflows of
+these businesses indicates how important it is for these sites to produce work to a level
+of quality that satisfies their clients. The specialised roles of quality assurance, customer
+service and support, and dispute resolution that are provided for in these sites are fur-
+ther indications of the importance of customer satisfaction for this business model. As
+Lines confirms, the quality of the work being produced by the sites she investigates is
+literally of a passable standard (Lines 2016 p. 18). Ensuring the quality of work being
+produced by these sites is crucial to maintaining two of the most important sources of
+new work: return customers and their personal recommendation to new clients.
+From the writers’  point of view, it is in their best interests to seek out orders that
+they find easy to fill (which will vary depending on their disciplinary expertise and pre-
+vious writing experience) and which will be lucrative. In his book Tomar describes his
+approach to stockpiling orders:
+I would grab up the paper, and it would go on top of the huge, miserable pile of shit
+that I had to shovel through. […] As soon as I finished one paper, I started another.
+As soon as I submitted an assignment, I went to the writers’ board and picked up
+another one to take its place. (Tomar 2012 p. 174–5).
+Bu also offers a description of the stockpiling approach taken by ‘Solomon’, one of
+the Kenyan writers he interviewed for his article. It is strikingly similar to Tomar’s de-
+scription: ‘Orders come through the companies’  websites, and sometimes a dozen
+writers will vie for one. Whoever acts fastest gets it’ (Bu 2016 np). This practice is illus-
+trated by an image in Wolverton’s article of a handwritten list of orders ‘stockpiled’ by
+a writer, with the caption: ‘a professional cheater’s little black book of assignments’
+(Wolverton 2016 np). It is clear from these descriptions that the practice of stockpiling
+orders by writers to secure a reliable stream of income is fairly standard. As explained
+earlier, in the sites examined in this paper, the writers have to earn their right to claim
+and stockpile work in this way. For the writers to have the best chance of spotting and
+claiming the orders that best suit their skills they need to maintain easy, constant ac-
+cess to orders as they become available. This is the role of the RSS feed.
+The feed saves writers the time and trouble of regularly logging in to one or multiple
+writers’ sites to check for new orders. Instead, the writers probably subscribe to the
+feeds and use an RSS reader to keep track of new orders as they become available in
+real time. Being able to access these feeds makes it much easier for writers to work for
+multiple sites. The feed, therefore, provides site owners with a quick, easy and cheap
+mechanism for advertising available orders to a wide pool of writers. It also provides
+writers with a quick, easy and cheap mechanism for monitoring orders and claiming
+them as quickly as possible. Wallace and Newton found that “requested turnaround
+times for contract cheating are, on average 5 days, and there appears to be a large cap-
+acity for shorter turnaround times to be achieved” (Wallace and Newton 2014 p. 235).
+The fact that orders with short ‘urgency’ times are the most lucrative and the existence
+of these RSS feeds that allow writers to bid quickly for orders together offer a compel-
+ling explanation as to why the turnaround times can be so short.
+In the first decade of the twenty-first Century when Tomar was working as a writer
+in the academic custom writing industry the barriers to entering the market as a site
+Page 19
+Ellis et al. International Journal for Educational Integrity (2018) 14:1  Page 19 of 21
+owner were higher than they are now. The technical expertise required to establish a
+website and manage the eCommerce of such an enterprise meant that the sector prob-
+ably had a much smaller number of sites. Now, as explained above, the master sites will
+set up the complete package thus eliminating the need to have any coding skills. These
+sites also facilitate web hosting and management services alongside a tried and tested
+set of business processes. The skills required to operate and administer these sites once
+they are established require only basic computer literacy and business acumen. Com-
+panies like PayPal have also made it much easier for clients and site owners to manage
+foreign currency transactions.
+Conclusions and recommendations
+As indicated at the outset of this paper, in order to improve the deterrence and detec-
+tion of contract cheating, it is important to understand better the problem. To that
+end, the information and findings offered in this paper provide new information to aca-
+demics and institutions about the business processes and models that sit behind some
+academic custom writing sites. These sites make up one part of one segment of the
+contract-cheating problem as a whole.
+The business models that are supported by the sites investigated here appear to be
+well established and mature. This indicates that there is a substantial market that is
+feeding this industry. The sophisticated quality assurance processes built into the work-
+flows supported by these sites indicate how important the quality of the work produced
+within them is to all three business models. This shows how important return business
+and word-of-mouth recommendations are but also how likely it is that the quality of
+the work being produced by the sites is, at least, of a passable standard. Alongside this,
+the existence of the RSS feeds indicates the importance of speed and efficiency to the
+industry. Together, these confirm that the priority for both the site owners and their
+student clients is for the orders to be filled on time and to good enough quality. For fu-
+ture research on these sites, it is important to be careful not to assume that different
+sites are running as separate businesses; in some instances this may be the case but in
+other instances they may simply be different ‘shop windows’ for the same company.
+Finally, this paper offers some advice about practical things every academic and insti-
+tution can do to improve their chances of both detecting and deterring contract cheat-
+ing. In terms of detection, the fact that the RSS feeds that come out of the client sites
+are publicly available means that they can be picked up by a web search. The RSS feeds
+frequently contain text provided by students, which is often the exact wording of as-
+sessment briefs that have been copied by them directly onto the order forms. Aca-
+demics who routinely undertake a web search using text taken from their assessment
+briefs are likely to be able quickly and easily to identify if orders for work have been
+placed on these academic custom writing sites. While this will rarely provide enough
+information to identify any one particular student who has ordered the work, it will
+alert academics to be vigilant for it amongst the work that they are marking. This sug-
+gests that to be effective as a deterrence tool, academic staff responsible for marking
+student work could benefit from information, support and training on what to look out
+for and how act to on anything that raises their suspicions (see Dawson and
+Sutherland-Smith 2017).
+Page 20
+Ellis et al. International Journal for Educational Integrity (2018) 14:1  Page 20 of 21
+In the, albeit limited, literature on contract cheating, one proposed solution to the
+problem is to limit the time span between releasing the assessment brief and the due
+date (Mahmood 2009; O’Malley and Roberts 2011). Even though students who are pro-
+curing work with days or even hours to spare are spending more money than their bet-
+ter organised peers who place orders weeks in advance, there is evidence that writers
+seek these orders out and compete with other writers for them because they provide
+the more lucrative work. The sad reality is that a lot of the work that is being produced
+by academic custom writing sites is being churned out very quickly indeed. As noted
+by Wallace and Newton (2014) reducing the turnaround time is unlikely to prevent or
+deter contract cheating using these sites and may even encourage it by placing extra
+pressures on students.
+The covert nature of this industry means that their advertising outlets are relatively
+limited. It is clear from our analysis that the sites investigated here rely heavily on re-
+turn business but also from word-of-mouth recommendations from their clients. As a
+result, it is likely that students (including those who have not used and never intend to
+use the services of these sites) are very aware of contract cheating being undertaken via
+academic custom writing sites. Institutions need to consider making it easier for stu-
+dents to report any concerns they have about the behaviours of their peers. It might
+also be wise to provide mechanisms and support for students undertaking group work
+to report any suspicions they have of someone in their group using an academic cus-
+tom writing site, and to remind them of the potential damage it could do to all of them.
+It is also important that academic staff take responsibility for having conversations with
+their students about the problem of contract cheating. The topic of one such conversa-
+tion may be to let students know that the privacy and security of these sites is not as
+robust as they may imagine, given that the RSS feeds routinely post publicly available
+information about orders made to the site.
+In order to have these conversations, it is first vital that all academic staff and the in-
+stitutions for which they work become aware of and better understand the problem.
+We all need to be more vigilant in our efforts and that means acknowledging that it is
+happening and making serious efforts to socialise this knowledge and talk about it with
+our teaching colleagues.
+Acknowledgements
+The authors would like to acknowledge Yan Liu who identified some investigative strategies early in our analysis, Nick
+Wailes and Alex Steele who offered advice in the early drafting of this paper, David Tittle who provided advice on
+data management and Scott McBride who assisted with the collection of PayPal and phone number information.
+Funding
+There are no sources of funding for this research.
+Authors’ contributions
+CE is an Associate Professor in the Faculty of Arts and Social Sciences at UNSW, Sydney. She analysed the content and
+structure of the websites and wrote the manuscript with IZ and DR. IZ is an Educational Developer who undertook a
+research assistant role in the Faculty of Arts and Social Sciences at UNSW, Sydney. He undertook the rDNS look up to
+find the sites, has collected and analysed the RSS data. He also wrote the manuscript with CE. DR is a freelance
+Business Analyst who is currently working for Transport NSW. He collected the ISP and IP information, analysed the
+business processes in the master sites and constructed the business process diagrams. All authors read and approved
+the final manuscript.
+Competing interests
+The authors declare that they have no competing interests.
+Page 21
+Ellis et al. International Journal for Educational Integrity (2018) 14:1  Page 21 of 21
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Author details
+1Faculty of Arts and Social Sciences, UNSW, Sydney, NSW 2052, Australia. 2Freelance Business Analyst, Sydney, NSW,
+Australia.
+Received: 8 September 2017 Accepted: 26 December 2017
+References
+Amit R, Zott C (2001) Value creation in E-business. Strateg Manag J 22:493–520. [URL: "http://dx.doi.org/10.1002/smj.187"] https://doi.org/10.1002/smj.187
+Bartlett T (2009) Cheating Goes Global as Essay Mills Multiply. Chron High Educ Wash 55(A1):A22+
+Bertram Gallant T (2008) Academic integrity in the twenty-first century: a teaching and learning imperative. ASHE High
+Educ Rep 33:1–143. [URL: "http://dx.doi.org/10.1002/aehe.3305"] https://doi.org/10.1002/aehe.3305
+Bu X (2016) Contract Cheating’s African labor. Chron High Educ Wash
+Clarke R, Lancaster T (2006) Eliminating the successor to plagiarism? Identifying the usage of contract cheating sites. In:
+proceedings of 2nd international plagiarism conference
+Clarke R, Lancaster T (2007) Establishing a systematic six-stage process for detecting contract cheating. In: 2nd
+international conference on pervasive computing and applications, pp 342–347
+Clarke R, Lancaster T (2013) Commercial aspects of contract cheating. In: proceedings of the 18th ACM conference on
+innovation and technology in Comput Sci Educ, pp 219–224
+Dante E (2010) The shadow scholar: the man who writes your students’ papers tells his story. Chron High Educ Wash
+Dawson P, Sutherland-Smith W (2017) Can markers detect contract cheating? Results from a pilot study. Assess Eval
+High Educ 43:286–293. [URL: "http://dx.doi.org/10.1080/02602938.2017.1336746"] https://doi.org/10.1080/02602938.2017.1336746
+Draper MJ, Ibezim V, Newton PM (2017) Are essay Mills committing fraud? An analysis of their behaviours vs the 2006
+fraud act (UK). Int J Educ Integr 13:3. [URL: "http://dx.doi.org/10.1007/s40979-017-0014-5"] https://doi.org/10.1007/s40979-017-0014-5
+George G, Bock AJ (2011) The business model in practice and its implications for entrepreneurship research. Entrep
+Theory Pract 35:83–111. [URL: "http://dx.doi.org/10.1111/j.1540-6520.2010.00424.x"] https://doi.org/10.1111/j.1540-6520.2010.00424.x
+Jacks T (2016) Deakin University students kicked out for “contract cheating”. The Age
+Lancaster T, Clarke R (2014a) An initial analysis of the contextual information available within auction posts on contract
+cheating agency websites. In: Advanced information networking and applications workshops (WAINA), 2014 28th
+international conference on. IEEE, Los Alamitos, pp 548–553
+Lancaster T, Clarke R (2014b) An observational analysis of the range and extent of contract cheating from online
+courses found on agency websites. In: complex, intelligent and software intensive systems (CISIS), 2014 eighth
+international conference on. IEEE, pp 56–63
+Lines L (2016) Ghostwriters guaranteeing grades? The quality of online ghostwriting services available to tertiary
+students in Australia. Teach High Educ 0:1–26. [URL: "http://dx.doi.org/10.1080/13562517.2016.1198759"] https://doi.org/10.1080/13562517.2016.1198759
+Macdonald R, Carroll J (2006) Plagiarism—a complex issue requiring a holistic institutional approach. Assess Eval High
+Educ 31:233–245. [URL: "http://dx.doi.org/10.1080/02602930500262536"] https://doi.org/10.1080/02602930500262536
+Mahmood Z (2009) Contract cheating: a new phenomenon in cyber-plagiarism. Commun IBIMA 10:93–97
+Masini A (2009) ERP-driven performance changes and process isomorphism. In: Handbook of research on Enterprise
+systems, pp 96–109
+Newton PM, Lang C (2015) Custom Essay Writers, Freelancers and Other Paid Third Parties, pp 1–16.
+ https://doi.org/10.1007/978-981-287-079-7_38-1
+O’Malley M, Roberts TS (2011) Plagiarism in science education: preventing cheating via online auctions. In: Proceedings
+of the Australian conference on science and mathematics education (formerly UniServe science conference)
+Rigby D, Burton M, Balcombe K et al (2015) Contract cheating & the market in essays. J Econ Behav Organ 111:23–37.
+ https://doi.org/10.1016/j.jebo.2014.12.019
+Rowland S, Slade C, Wong K-S, Whiting B (2017) “Just turn to us”: the persuasive features of contract cheating websites.
+Assess Eval High Educ:1–14. [URL: "http://dx.doi.org/10.1080/02602938.2017.1391948"] https://doi.org/10.1080/02602938.2017.1391948
+Sivasubramaniam S, Kostelidou K, Ramachandran S (2016) A close encounter with ghost-writers: an initial exploration
+study on background, strategies and attitudes of independent essay providers. Int J Educ Integr 12:1.
+ https://doi.org/10.1007/s40979-016-0007-9
+Tomar D (2012) The shadow scholar: how I made a living helping college kids cheat. Bloomsbury, New York
+Wallace MJ, Newton PM (2014) Turnaround time and market capacity in contract cheating. Educ Stud 40:233–236.
+ https://doi.org/10.1080/03055698.2014.889597
+Wolverton B (2016) The new cheating economy. Chron High Educ Wash

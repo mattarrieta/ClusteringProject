@@ -1,0 +1,85 @@
+Page 1
+Technology Resume Edric Kilimann
+EdricK@000Montgomery.Com
+San Francisco, California, USA
+415-834-9481 ext. 8777
+OBJECTIVE
+<Primary> Work on an interesting and challenging Internet or Client/Server application development project
+<Secondary> Serve as an on-call resource for remote Internet or Client/Server application development projects
+PROFILE
+<Experience> Senior Application Development: 17+ yr developing, 12+ yr contracting, Microsoft centric
+<Status> Available for onsite or remote development. Travel under certain circumstances
+<Studying> LINQ, WPF, Silverlight, ADO Entity Framework, XAML, ORM, CRM, AJAX, Design Patterns
+<Resume> Resume has been condensed and optimized for faster reading and automatic processing
+Older experience and contract information has been removed to focus on current relevant technologies
+SKILLS HIGHLIGHT
+<MS .NET> C#, VB.NET, VS.NET, ADO.NET, ASP.NET, XML, XSD, Win Forms, Web Server/User Controls, Namespaces, Mail,
+Web Forms, Collections, Threading, Remoting, IO, Security, Mail, HTTP Classes, Serialization, Regex, Debugging, Interfaces, Events, Delegation, Streams, Windows Services,
+Exceptions, Deployment, Obfuscation, Caching, Custom Session Objects, BLOB, Impersonation, Assemblies, GAC, GUID, Providers, Membership, GUI Form Design, Class
+Objects, Data Access, Win32 API , DLL Creation, Third Party Objects, Iprincipal
+<MS SQL Server> SQL, T-SQL, PK-FK, Triggers, Views, Stored Procedures, Cursors, @variables, @@functions, SQL-Mail, Functions, DBA (45%)
+<MS MTS/COM+> N-Tier, Transactions, DTC, DLL, In-Process/Out-of-Process Servers, Threads, Versioning, Proxy/Stub, Connection Pooling
+<MS Access> Table Design, Form Design, Query Design, Report Design, Modules, Access Basic, Properties, Methods, Events
+<MS Object Models> ADO, ASP, CDO, DAO, MAPI, TAPI, RDO, IE5, WinSock, Access, Excel, Word, Outlook, various Third Party Object Models
+<Internet> DOM, ASP, HTML, DHTML, XML, XSTL, CSS, JavaScript, VBScript, Active-X, SSL, IIS, Database
+<Database Design> Needs assessment, conceptual design, complex RDBMS architectures, normalization
+SKILLS GENERAL
+<Systems> Novell, OS/2,CPM, DOS, Windows 98 / NT / 2000 / 2003 / Vista , IIS, Exchange, Terminal, ISA, SQL Server, DNS, VPN, Remote Access, Televantage
+<Programming> .NET, Visual Basic, MS Access, MS Excel, SQL Server, Interdev, Superbase, DBase, Paradox, Install Shield, FoxPro, Btrieve
+<Concepts> VBA, DDE, DNS, CRM, ERP, CDO, LDAP, SMTP, OLE, SQL, ODBC, RDBMS, EDI, MDI, OOP, ISP, INI, DLL, TCP-IP, FTP, HTML, DHTML, DOM, COM, ASP,
+RDO, ADO, DAO, API, MAPI, TAPI, GUI, Registry, Class Objects, Automation Objects, Database Design, Client/Server, Application Frameworks
+<Security> Firewall, Bastion Hosts, Router Configuration, Packet Filtering, Virus Protection, MS ISA Server, NT Domains, VPN, IPSEC, Remote Access
+<Business> Trustmark, Axys, Advent, Morning Star, Pentabs, Pentax, Pearl, Schwab Gateway/Link, CCH Pension Library, CPMS, Odis, PACS, Edify, Crystal Reports,
+Quickbooks, Tkr, SAP, Kronos, Sheridan, Ghost, PDS, Sterling Gentran, IPNet, EBridge, Great Plains DETAIL
+CONTRACT DETAIL
+<Software Consulting Company> ASP.NET / C# / SQL 2005 / XML / XSD , create architecture and coding of large scale custom BI web application. Code generation techniques
+used to create DAL, Business Object Classes, Entity Object Classes, and Custom Web Controls. Many namespaces in the .NET framework used in the app, including [System.Data
+/.Globalization /.IO /.Text /.Threading /.Security /.XML /.Web]. System has all major expected site functionality such as login, profile, and admin management, also contains CRM
+,CMS and web data aggregation functionality. Data access includes XML data to/from SQL, BLOB data, and Entity Relationship Models
+<Advertising Agency> ASP.NET / WSDL / JavaScript small website fixes and additions to existing major food chain website. Changes and additions to client login and profile
+<Advertising Agency> C# / MS Vista / Ant Profiler, find and document any memory leaks in Microsoft Vista Kiosk application using WPF, setup testing environment to test and
+analyze future development. This was to support the actual developers in the design of the application to take into account any potential memory issues under heavy usage
+<Psychology Organization> Created MS Access database to record and report on client test scores. Admin forms, client test input forms, reporting forms, custom client reports
+<Advertising Agency> ASP.NET /C# /SQL 2005 ,resource files, globalization, custom web controls, CDO /SMTP email templates, configuration files. Served as part of development
+team in rebuilding of a major hotel chain website. Analyze legacy ASP.NET and TSQL code to implement existing functionality into new site architecture. Analyze new site architecture
+for potential security issues from cross site scripting, validation errors, malicious user input. Create and test custom application error pages and complex 404 page navigation
+<Biometrics Hardware Company> ASP.NET / C# / SQL 2005 / IIS 6.0 / Clients Custom COM Objects, Custom intranet portal to interact with COM. Manage users,
+customers, customer Domain files, produce License files to distribute back to customers, Admin management, transaction logging and reporting. All customer files stored in
+SQL database tables as BLOB. Various validation methods of user input as well as error checking
+<National Recruitment Network> ASP.NET / VB.NET / SQL / XML, Custom portal to manage multiple client databases during conversion from existing external ASP
+provider to internal systems. Multiple client user management, client database analysis and custom mappings of field conversions
+<Employment Agency> Analysis and consultation on upgrade paths for internal CRM conversions. Review of SalesForce.Com, MS CRM 3.0, as well as many other
+custom ASP model apps including HRXML compliancy. Conversions of internal resume and client data for potential upgrade paths
+<Software Consulting Company> MS Access, Project {1} Create tenant management database {2} complex conversion and migration of sales data
+<Software Consulting Company> VB.NET /  Win Forms / SQL, Automated Internet Spider app to scrub Internet documents and resources. Exchange / CDO / LDAP /
+Outlook / VB.NET / SQL, Automated e-mail processing app to process e-mail, client and project database access inside Outlook and Exchange. MS.NET / XML / XSLT, Create
+.NET website with data access and form handling. .NET / SQL, Creation of CRM database
+<Network Service Provider> MS Access, Time management application, multi level rate schedule per project, reporting. VB / SQL/ ASP, analysis of Paradigm Medical app
+to create wireless web PDA tool for doctor scheduling
+<Product Manufacturing Company> EDI setup, Sterling Commerce Gentran Director, 810, 850, 852, 997. Create database driven store locator in .ASP. General LAN
+support. Implementation of new EDI system, IPNET data transport to Ebridge conversion for Great Plains accounting. Modification of existing SQL Enterprise apps.
+Creation of intranet with ASP.NET to connect Enterprise apps, automated processes, windows service with VB.NET
+<Software Media Company> SQL / ASP, Modified existing website for 3rd party client. Added pages and routines for client permissions, user permissions, document
+permissions, client management, user management, document management, document uploads, logging
+<Commercial Mortgage Company> VB / SQL, Setup in-house development environment and gave assessment on further in-house development of unfinished Enterprise
+Client/Server app. Developed Loan Pricing application using Excel object model
+<Online Media Server Company> MS Access, Tool for custom reporting of web server logs, batch mode for complex reports
+<Online Music Support Company> VB / MS Access / Custom Active-X, Version 1.0 of desktop data entry tool for the entry of music album information by record
+companies, data is updated via internet through custom Active-X control
+<Online Mortgage Company> ASP / SQL, Small fixes and addition of functionality to various parts of the site. Creation of affiliate sites based on current templates,
+creation of new templates. Analysis of database structures and complicated sections of the site
+<Software Consulting Company> Building of NT Web Server, NTFS, IIS4, SQL Server, Real Media Server. Created Web app with MS InterDev, HTML, DHTML, ASP,
+JavaScript, graphics, layouts, ect. Members Area, Premium Content, Live Web Casting, Order Fulfillment, Client Maintenance
+<Software Media Company> ASP / SQL / Site Server / IIS / SA Fileup, Assisted building of Internet Auction Site. Buyer registration, seller profile, seller product manage-
+ment, admin management
+<Medical Establishment> MS Access, Project {1}:Data entry app for collection and management of medical orders, accounting, reporting, archival, maintenance. {2}:For-
+matting and manipulation of member Medi/Medi data and government HCFA data for import into custom sales tracking app
+<Materials Manufacturing Company> MS Access / VB / Access, Project {1} 401(k) management app for the conversion of payroll data from VAX PDS accounting system
+to Vanguard format. {2}:SAP & Kronos Interface Control Manager, allows creation & control of data transfer interfaces
+<Employee Benefits, Administration & Actuaries Company> LAN support & systems programming. Projects:>> Pentabs Certificates, Trustmark Certificate upgrades,
+various VB4 Web fixes, Web Reports, Budget Reallocation, Annual Budget Conversion to new accounting system, PACS Database System, Broker Dealer Reconciliation,
+Network File Analysis and Reporting, CSTS Loan Distribution Merge, CMS Scheduling, Convert.mdb - many small conversion programs
+<Continue ......>
+resume has been condensed and optimized for faster reading and automatic processing
+supplement resume with complete client info upon request 
+rev.(11/2007)

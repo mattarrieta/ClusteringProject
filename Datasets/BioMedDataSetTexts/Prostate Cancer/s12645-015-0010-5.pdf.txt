@@ -1,0 +1,1425 @@
+Producer: Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+CrossmarkMajorVersionDate: 2015-07-01
+Keywords: Prostate cancer,DNA vaccine,Prophylactic,Therapeutic,Tumour associated antigens
+CrossMarkDomains[1]: springer.com
+ModDate: 2015/07/01 15:44:38+02'00'
+Subject: Cancer Nanotechnology, 2015, doi:10.1186/s12645-015-0010-5
+Creator: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+Title: DNA vaccination for prostate cancer: key concepts and considerations
+CrossMarkDomains[2]: springerlink.com
+doi: 10.1186/s12645-015-0010-5
+CrossmarkDomainExclusive: true
+Author: Grace Cole
+CreationDate: 2015/07/01 18:24:24+08'00'
+xmp:crossmark:DOI: 10.1186/s12645-015-0010-5
+xmp:crossmark:MajorVersionDate: 2015-07-01
+xmp:crossmark:CrossmarkDomainExclusive: true
+xmp:crossmark:CrossMarkDomains: springer.com; springerlink.com
+xmp:pdf:Keywords: Prostate cancer,DNA vaccine,Prophylactic,Therapeutic,Tumour associated antigens
+xmp:pdf:Producer: Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)
+xmp:pdfx:CrossmarkMajorVersionDate: 2015-07-01
+xmp:pdfx:CrossmarkDomainExclusive: true
+xmp:pdfx:doi: 10.1186/s12645-015-0010-5
+xmp:pdfx:CrossMarkDomains: springer.com; springerlink.com
+xmp:prism:url: http://dx.doi.org/10.1186/s12645-015-0010-5
+xmp:prism:doi: 10.1186/s12645-015-0010-5
+xmp:prism:issn: 1868-6958
+xmp:prism:aggregationType: journal
+xmp:prism:publicationName: Cancer Nanotechnology
+xmp:prism:copyright: Cole et al.
+xmp:dc:format: application/pdf
+xmp:dc:identifier: 10.1186/s12645-015-0010-5
+xmp:dc:publisher: Cancer Nanotechnology
+xmp:dc:description: Cancer Nanotechnology, 2015, doi:10.1186/s12645-015-0010-5
+xmp:dc:subject: Prostate cancer; DNA vaccine; Prophylactic; Therapeutic; Tumour associated antigens
+xmp:dc:title: DNA vaccination for prostate cancer: key concepts and considerations
+xmp:dc:creator: Grace Cole; Joanne McCaffrey; Ahlam A. Ali; Helen O. McCarthy
+xmp:xmp:CreatorTool: Arbortext Advanced Print Publisher 9.1.440/W Unicode
+xmp:xmp:ModifyDate: 2015-07-01T15:44:38+02:00
+xmp:xmp:CreateDate: 2015-07-01T18:24:24+08:00
+xmp:xmp:MetadataDate: 2015-07-01T15:44:38+02:00
+xmp:xmpMM:DocumentID: uuid:bed6ee3e-302e-4eb5-b751-72e7839589bf
+xmp:xmpMM:InstanceID: uuid:cecb7865-df9b-4f22-aa73-ff9bc518ccc1
+xmp:xmpMM:RenditionClass: default
+xmp:xmpMM:VersionID: 1
+xmp:stEvt:action: converted
+xmp:stEvt:instanceID: uuid:193750ca-e85f-4d83-99b1-726ec73f3a23
+xmp:stEvt:parameters: converted to PDF/A-2b
+xmp:stEvt:softwareAgent: pdfToolbox
+xmp:stEvt:when: 2015-07-01T19:04:14+08:00
+xmp:pdfaid:part: 2
+xmp:pdfaid:conformance: B
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdf/1.3/
+xmp:pdfaSchema:prefix: pdf
+xmp:pdfaSchema:schema: Adobe PDF Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: A name object indicating whether the document has been modified to include trapping information
+xmp:pdfaProperty:name: Trapped
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/xap/1.0/mm/
+xmp:pdfaSchema:prefix: xmpMM
+xmp:pdfaSchema:schema: XMP Media Management Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: UUID based identifier for specific incarnation of a document
+xmp:pdfaProperty:name: InstanceID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: The common identifier for all versions and renditions of a document.
+xmp:pdfaProperty:name: DocumentID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: The common identifier for all versions and renditions of a document.
+xmp:pdfaProperty:name: OriginalDocumentID
+xmp:pdfaProperty:valueType: URI
+xmp:pdfaSchema:namespaceURI: http://www.aiim.org/pdfa/ns/id/
+xmp:pdfaSchema:prefix: pdfaid
+xmp:pdfaSchema:schema: PDF/A ID Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Part of PDF/A standard
+xmp:pdfaProperty:name: part
+xmp:pdfaProperty:valueType: Integer
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Amendment of PDF/A standard
+xmp:pdfaProperty:name: amd
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Conformance level of PDF/A standard
+xmp:pdfaProperty:name: conformance
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:schema: Springer ORCiD Schema
+xmp:pdfaSchema:namespaceURI: http://springer.com/ns/xmpExtensions/1.0/
+xmp:pdfaSchema:prefix: springer
+xmp:pdfaProperty:name: authorInfo
+xmp:pdfaProperty:valueType: AuthorInformation
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Author information: contains the name of each author and his/her ORCiD (ORCiD: Open Researcher and Contributor ID). An ORCiD is a persistent identifier (a non-proprietary alphanumeric code) to uniquely identify scientific and other academic authors.
+xmp:pdfaType:type: AuthorInformation
+xmp:pdfaType:namespaceURI: http://springer.com/ns/xmpExtensions/1.0/authorinfo/
+xmp:pdfaType:prefix: author
+xmp:pdfaType:description: Specifies the types of author information: name and ORCID of an author.
+xmp:pdfaField:name: name
+xmp:pdfaField:valueType: Text
+xmp:pdfaField:description: Gives the name of an author.
+xmp:pdfaField:name: orcid
+xmp:pdfaField:valueType: URI
+xmp:pdfaField:description: Gives the ORCID of an author.
+xmp:pdfaSchema:namespaceURI: http://ns.adobe.com/pdfx/1.3/
+xmp:pdfaSchema:prefix: pdfx
+xmp:pdfaSchema:schema: PDF/X ID Schema
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: ID of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXVersion
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Conformance level of PDF/X standard
+xmp:pdfaProperty:name: GTS_PDFXConformance
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Company creating the PDF
+xmp:pdfaProperty:name: Company
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Date when document was last modified
+xmp:pdfaProperty:name: SourceModified
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Mirrors crossmark:CrosMarkDomains
+xmp:pdfaProperty:name: CrossMarkDomains
+xmp:pdfaProperty:valueType: Seq Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Mirrors crossmark:CrossmarkDomainExclusive
+xmp:pdfaProperty:name: CrossmarkDomainExclusive
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: Mirrors crossmark:MajorVersionDate
+xmp:pdfaProperty:name: CrossmarkMajorVersionDate
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Mirrors crossmark:DOI
+xmp:pdfaProperty:name: doi
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://crossref.org/crossmark/1.0/
+xmp:pdfaSchema:prefix: crossmark
+xmp:pdfaSchema:schema: crossmark
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: CrossMarkDomains
+xmp:pdfaProperty:name: CrossMarkDomains
+xmp:pdfaProperty:valueType: Seq Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: CrossmarkDomainExclusive
+xmp:pdfaProperty:name: CrossmarkDomainExclusive
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: internal
+xmp:pdfaProperty:description: Usual same as prism:doi
+xmp:pdfaProperty:name: DOI
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: The date when a publication was published.
+xmp:pdfaProperty:name: MajorVersionDate
+xmp:pdfaProperty:valueType: Text
+xmp:pdfaSchema:namespaceURI: http://prismstandard.org/namespaces/basic/2.0/
+xmp:pdfaSchema:prefix: prism
+xmp:pdfaSchema:schema: Prism
+xmp:pdfaProperty:category: external
+xmp:pdfaProperty:description: The aggregation type specifies the unit of aggregation for a content collection. 
+Comment 
+PRISM recommends that the PRISM Aggregation Type Controlled Vocabulary be used to provide values for this element. 
+Note: PRISM recommends against the use of the #other value currently allowed in this controlled vocabulary. In lieu of using #other please reach out to thBOOKMARKS:
+Abstract
+Introduction
+  DNA vaccines
+  Strategies to improve DNA vaccine efficacy
+    Physical delivery methods
+    Electroporation
+    The gene gun
+    Ultrasound
+    Conclusions and future considerations
+    DNA delivery vector
+    Viral vectors
+    Non-viral vectors
+    Lipid/liposome delivery systems
+    Polymer delivery systems
+    Peptide delivery systems
+  Conclusions
+  Co-stimulatory adjuvants
+  Xenogeneic DNA
+  Prime / boost strategies
+  Multivalent strategies
+Conclusions
+Abbreviations
+Competing interests
+Authors’ contributions
+Acknowledgements
+References
+Page 1
+Cole et al. Cancer Nanotechnology (2015) 6:2
+DOI 10.1186/s12645-015-0010-5
+REVIEW  Open Access
+DNA vaccination for prostate cancer: key
+concepts and considerations
+Grace Cole, Joanne McCaffrey, Ahlam A. Ali and Helen O. McCarthy*
+* Correspondence:
+ h.mccarthy@qub.ac.uk
+School of Pharmacy, Queen’s
+University Belfast, 97 Lisburn Road,
+Belfast BT9 7BLNorthern Ireland, UK 
+Abstract
+While locally confined prostate cancer is associated with a low five year mortality
+rate, advanced or metastatic disease remains a major challenge for healthcare
+professionals to treat and is usually terminal. As such, there is a need for the
+development of new, efficacious therapies for prostate cancer. Immunotherapy
+represents a promising approach where the host’s immune system is harnessed to
+mount an anti-tumour effect, and the licensing of the first prostate cancer specific
+immunotherapy in 2010 has opened the door for other immunotherapies to gain
+regulatory approval. Among these strategies DNA vaccines are an attractive option in
+terms of their ability to elicit a highly specific, potent and wide-sweeping immune
+response. Several DNA vaccines have been tested for prostate cancer and while they
+have demonstrated a good safety profile they have faced problems with low efficacy
+and immunogenicity compared to other immunotherapeutic approaches. This review
+focuses on the positive aspects of DNA vaccines for prostate cancer that have been
+assessed in preclinical and clinical trials thus far and examines the key considerations
+that must be employed to improve the efficacy and immunogenicity of these vaccines.
+Keywords: Prostate cancer; DNA vaccine; Prophylactic; Therapeutic; Tumour associated
+antigens
+Introduction
+Prostate cancer represents a major challenge to healthcare and accounts for 25 %
+of all new diagnoses in males in the UK annually [1].  Localised prostate cancer
+may be treated with prostatectomy or radiotherapy, which aims to remove or re-
+duce the tumour load and is associated with favourable overall survival [2, 3].
+However, typically anywhere from 20–30 % of patients experience a recurrence or
+present with locally advanced or metastatic disease [4]. The first line treatment for
+these patients is androgen deprivation therapy (ADT) which is associated with un-
+pleasant side-effects such as urinary and erectile dysfunction [1, 3],  and after an
+initial response, the majority of cases eventually progress to castration resistant
+prostate cancer (CRPC). Docetaxel is the gold standard treatment for CRPC but is
+not curative and is associated with only a moderate (2.4 months) survival advan-
+tage [5, 6].  As such, there is a clinical need for newer, highly effective treatment
+options for patients with CRPC.
+Immunotherapy is a strategy for cancer treatment that has received increasing at-
+tention over the last few decades. The goal of immunotherapy is to harness the
+© 2015 Cole et al. This is an Open Access article distributed under the terms of the Creative Commons Attribution License ([URL: "http://creativecommons.org/licenses/by/4.0"] http://
+ creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the
+original work is properly credited.
+Page 2
+Cole et al. Cancer Nanotechnology (2015) 6:2  Page 2 of 23
+immune system to mount a response against tumour associated antigens (TAAs),
+normal proteins expressed by or upregulated in cancer cells [7]. In order to be suc-
+cessful the vaccine must be capable of generating a tumour specific T cell response to
+weakly immunogenic “self-antigens” [7, 8].  The vaccine must also overcome the
+mechanisms of immune evasion employed by cancer cells, such as, the immunosup-
+pressive microenvironment, downregulation of major histocompatibility complex
+(MHC) antigen presentation, upregulation of regulatory T cells and co-inhibitory sig-
+nalling pathways [8, 9].
+Prostate cancer is an ideal candidate for immunotherapy for a number of reasons.
+For example, the slow growing nature of cancer within the prostate [10] allows suffi-
+cient time for the immune system to mount an anti-tumour response following a
+prime/boost or multiple immunisation strategy. In addition, prostate cancer expresses
+numerous TAAs which include the Prostate Specific Antigen (PSA) [11, 12], Prostatic
+Acid Phosphatase (PAP) [13],  Prostate Specific Membrane Antigen (PSMA) [12, 14],
+Prostate Stem Cell Antigen (PSCA) [15] and Six Transmembrane Epithelial Antigen of
+the Prostate (STEAP) [16]. All of these TAA’s provide multiple potential immunological
+targets [17] and indeed the ideal combination of antigens has yet to be elucidated. Fur-
+thermore, the presence of PSA in patient serum enables the malignancy to be detected
+early and in some cases even before tumours are radiologically detectable [9]. This in
+turn facilitates earlier treatment [18]. Circulating T cells that react with prostate TAAs
+have previously been detected, which suggests that self-tolerance towards these anti-
+gens can be overcome [18]. The prostate is considered to be a non-essential organ and
+therefore immunological treatments utilising prostate TAAs will not cause acute off-
+target toxicity [9, 18]. Finally and perhaps most importantly, the first prostate cancer
+specific immunotherapy, Sipuleucel-T (Provenge®,  Dendreon Corporation, Seattle,
+WA), has recently been licensed by the US Food and Drug Administration (FDA) in
+2010 for asymptomatic or minimally symptomatic CRPC [19]. Sipuleucel-T consists of
+autologous peripheral blood mononuclear cells with antigen presenting dendritic cells
+that have been activated ex vivo with a recombinant fusion protein (PA2024) consist-
+ing of PAP linked to granulocyte-macrophage colony stimulating factor (GM-CSF)
+[19]. In a phase III trial, CPRC patients receiving Sipuleucel-T had a 22 % reduction in
+mortality [20].  The success of the therapeutic Sipuleucel–T has paved the way for
+other immunotherapeutic prostate cancer vaccines to be granted regulatory approval
+and enter the market.
+Other immunotherapeutic cancer vaccine approaches which have been clinically
+investigated for prostate cancer include the administration of whole tumour cells
+[21],  dendritic cells (DCs) loaded with peptides or tumour cell lysate [22],  peptide
+vaccines [23] and the administration of antibodies [24].  This review examines the
+progress of DNA vaccines specifically for prostate cancer and focuses on the key
+considerations required for successful development. Only the most recent studies
+are included in this review to bring the reader up to date with the field. Clinical
+trials that utilise DNA vaccines in prostate cancer therapeutically are summarised
+in Table 1, while DNA vaccines administered prophylactically in preclinical models
+prior to tumour challenge are summarised in Table 2. In addition, ongoing Phase
+II or III clinical trials utilising DNA vaccines in prostate cancer are detailed in
+Table 3.
+Page 3
+Cole et al. Cancer Nanotechnology (2015) 6:2  Page 3 of 23
+Table 1 Summary of therapeutic clinical trials utilising DNA vaccines for prostate cancer
+Vaccine/ targeted
+antigen 
+Phase trial/ number Delivery
+of patients route 
+Immunological response/ clinical outcome/ Ref
+PSA DT
+PAP: pTVG-HP (100 μg) Phase II
+with rhGM-CSF (200 μg) (NCT00849121)
+N = 17 
+i.d  No. with tripling of T-Cell
+specific antibodies- Group
+1: 3/8 Group 2: 6/8 
+[99]
+No. with doubling of PSA
+DT- Group 1: 3/8 Group 2: 4/9
+PAP: pTVG-HP (100 μg,  Phase I/IIa
+500 μg or 1500 μg) with (NCT00582140)
+GM-CSF (200 μg)  N = 22 
+i.d.  No. with PAP-specific IFNγ-secreting
+CD8+ T-cells- 3/22
+No. with tripling of CD4+ and/or 
+[31]
+CD8+ T-cell proliferation – 9/22
+No. with doubling of PSA DT- 7/22
+PSA: PROSTVAC with
+GM-CSF (100 μg) 
+Phase II
+(NCT00078585)
+N = 125 
+s.c.
+PSA: Ad/PSA (106, 107,  Phase I (IND #9706) s.c.
+108pfu)  N = 32 
+Overall survival- PROSTVAC group:
+25/82 Control: 7/40
+Median survival- PROSTVAC group:
+25.1 months Control: 16.6 months
+No. with anti-PSA T cell responses-
+15/28 
+[75]
+[74]
+No. with increased PSA-DT- 13/28
+PSA: pVAXrcPSAv531
+(rhPSA) (50–1600 μg) 
+Phase I
+(NCT00859729)
+N = 15 
+i.d. with EP No. with prolongation of PSA-DT
+(DERMAVAX) by at least 50 % during study- 4/15 
+[47]
+PSMA: DOM-PSMA27
+(800–3200 μg) 
+Phase I/II N = 30  i.m. with or No. with detectable anti-PSMA27
+without EP CD8+ T cells response- 16/30 
+[48]
+No. with doubling of PSA-DT- 14/30
+DNA vaccines
+One of the key goals in a cancer vaccine is to induce a cell-mediated immune response,
+primarily through the activation of TAA-specific cytotoxic T lymphocytes (CTLs).
+Therapeutic responses arise from activation of these antigen specific CTLs which cause
+destruction of TAA expressing cells. This could potentially eradicate disseminated de-
+posits of prostate cancer for which current treatment options are limited following the
+Table 2 Summary of preclinical prophylactic prostate cancer tumour challenge studies utilising
+DNA vaccines
+Vaccine/ targeted antigen Model  Delivery route Clinical outcome Ref
+PSCA/STEAP: pCI-neo-mPSCA
+and/or pCI-neo-mSTEAP1
+(100 μg) prime plus MVA-mPSCA
+and/or MVA-mSTEAP1 (1X107
+pfu) boost 
+C57 BL/6
+TRAMP C-1 
+i.m. prime
+i.p. boost 
+Significant reduction in
+tumour volume
+Significant delay in time to
+form tumours 
+[17]
+hPSA: phPSA (50 μg) with or
+without CpG 
+C57 BL/6  i.m. with EP  Significant delay in appearance [46]
+of tumours
+TRAMP C-1/hPSA  Significantly prolonged survival
+PSMA/PSCA/STEAP: rAd/PSMA,
+rAD/PSCA, rAd/STEAP prime
+(1X108 PFU); TRAMP C-1 pulsed
+DCs (2X106 cells) boost 
+C57 BL/6
+TRAMP C-1 
+i.v. prime
+s.c. boost 
+Tumour Growth Significantly
+delayed 
+[112]
+STEAP: mSTEAP DN A (2 μg)
+prime with: mSTEAP DN A (2 μg)
+or mSTEAP-VRP (106 IU) boost;
+or mSTEAP-VRP (106 IU) prime
+and boost 
+C57 BL/6
+TRAMP C-2 
+i.d. (gene gun) Significantly prolonged survival [56]
+s.c.  Significantly delayed tumour
+growth
+Page 4
+Cole et al. Cancer Nanotechnology (2015) 6:2  Page 4 of 23
+Table 3 Summary of ongoing or unpublished clinical trials utilising DNA vaccines for prostate
+cancer
+Vaccine/ targeted antigen Phase trial/ estimated
+enrolment 
+Delivery Primary objectives
+route 
+Ref
+PAP: Sipuleucel-T with or without
+pTVG-HP (100 μg)/ rhGM-CSF
+(200 μg) 
+Phase II (NCT01706458)
+N = 30 
+i.d.  PAP-specific Immunological [113]
+response
+PAP: rhGM-CSF (200 μg) with or
+without pTVG-HP (100 μg) 
+Phase II (NCT01341652) i.d.
+N = 56 
+Metastasis-free survival [114]
+PSA: PROSTVAC with or without
+GM-CSF (100 μg) 
+Phase III (NCT01322490) s.c.
+N = 1200 
+Overall Survival  [77]
+PSA: Flutamide with or without
+PROSTVAC 
+Phase II (NCT00450463) s.c.
+N = 53 
+Time to Treatment Failure [115]
+PSA: Adenovirus/PSA (1X108 pfu
+in gelfoam) 
+Phase II (NCT00583024) s.c.
+N = 66 
+PSA-DT Response [76]
+PSA: Adenovirus/PSA (1X108 pfu Phase II (NCT00583752) s.c.
+in gelfoam) with or without ADT N = 70 
+PSA-DT Response [116]
+onset of castrate resistance. It has been well documented that DNA vaccination is a
+highly potent strategy for inducing both prophylactic and therapeutic responses [25].
+However, in order for the desired antigen to be expressed the plasmid DNA needs to
+be delivered to the nucleus of the cell. There is also a need to ensure that the DNA is
+delivered to antigen-presenting cells (APCs), so that the antigen expressed in the cyto-
+plasm can be presented via the MHC class I complex [26]. Presentation via the MHC
+class I complex will result in a much more potent cell-mediated therapeutic immune
+response. Additionally, APCs are capable of internalising and processing exogenous an-
+tigens from neighbouring apoptotic cells that have been transfected. Such antigens are
+again presented via the MHC class I pathway and this process is known as cross-
+presentation [26]. DNA that is delivered to non-APCs will give rise to exogenous anti-
+gens that activate the more common MHC class II pathway which is characterised by a
+humoral response and a subsequent prophylactic action (Fig. 1).
+DNA vaccines confer many advantages over conventional treatments: (1) DNA vac-
+cines are capable of eliciting host humoral and cellular immunity, leading to a potent,
+wide-sweeping immune response to TAAs [25]; (2) Genes encoding the full length of
+the TAA can be introduced, ensuring that the correct post-translational modifications
+occur in the cell, thus presenting multiple potential antigenic epitopes to the immune
+system [27, 28]; (3) The TAAs confer high specificity which renders DNA vaccines safe
+compared to conventional treatments [29] and safety has been demonstrated in animals
+and in several clinical trials [30, 31]; (4) DNA is relatively easy to produce and purify
+and is highly reproducible, therefore DNA vaccines should be cost-effective for large
+scale manufacture [27, 29]; (5) Lastly, in contrast to conventional live attenuated vac-
+cines there is no reversion risk to pathogenicity in vivo.
+The worldwide DNA vaccine market is projected to increase to $2.7 billion by 2019,
+yet there are only four commercially available DNA vaccines licensed for use and these
+are in animals. Licensed vaccines include the West Nile-Innovator® DNA (Pfizer),
+Apex®-IHN (Novartis Aqua Health),  ONCEPT™ (Vical) and LifeTide® SW 5 (VGX
+Animal Health). Of these DNA vaccines only ONCEPT™ has been licensed (2007) for
+use in cancer, specifically for the treatment of malignant melanoma in dogs [32]. Des-
+pite the promise shown by DNA vaccines in preclinical models, success has proven
+Page 5
+Cole et al. Cancer Nanotechnology (2015) 6:2  Page 5 of 23
+Fig. 1 Schematic representation of immune responses elicited following DNA vaccination. DNA may be
+taken up by bystander cells (e.g., muscle cells, keratinocytes) or APCs at the site of immunisation resulting in
+production of host-synthesised antigens capable of eliciting immune responses via both MHC‐I and MHC‐II
+pathways. APCs have a central role in the induction of immunity following vaccination, either by direct
+transfection of the APCs or cross-presentation through bystander cell associated exogenous antigens resulting
+in presentation of antigen on MHC class-I molecules, eliciting CD8+ T cell expansion. Additionally, exogenous
+antigens, secreted from bystander cells, captured and processed by APCs are presented via MHC class‐II
+molecules resulting in CD4+ T cell expansion resulting in a cascade of cellular responses and B cell activation
+and antibody production
+difficult to reproduce in larger animals and clinical trials [33]. This lack of efficacy is
+thought to be due to low immunogenicity and cellular uptake of DNA. Nevertheless, if
+the barriers preventing the translation of this therapy to humans can be overcome, the
+impact of DNA vaccination on the treatment of cancer could be revolutionary.
+In order to be efficacious, DNA must reach the cell nucleus in quantities sufficient to
+produce enough antigen to overcome self-tolerance. After introduction to the host
+there are a number of biological barriers to nuclear delivery that contribute to a low
+clinical success rate. At the cell surface DNA must undergo internalisation across the
+cell membrane, which frequently results in endosomal entrapment. In the endosome,
+DNA is vulnerable to degradation by intracellular nucleases and must escape into the
+cytoplasm. From the cytoplasm, the DNA must be actively transported into the cell nu-
+cleus where the cell can begin to transcribe and translate the DNA to produce the anti-
+gen of interest [34–36]. Vectors can be utilised to improve DNA delivery. Such vectors
+can be employed to condense and protect DNA from clearance and degradation in
+addition to overcoming the extra and intracellular barriers (Fig. 2).
+Strategies to improve DNA vaccine efficacy
+A number of factors contribute to the overall transfection rate and therefore efficacy of
+each DNA vaccine. With a plethora of delivery platforms and strategies designed to im-
+prove the potency of DNA vaccines, it is difficult to elucidate the optimum delivery
+strategy for the “best” TAA. Few studies include a direct comparison between the effi-
+cacy of a delivery system against the current gold standard, with most studies examin-
+ing a new delivery vehicle against control groups receiving “naked” DNA or no
+Page 6
+Cole et al. Cancer Nanotechnology (2015) 6:2  Page 6 of 23
+Fig. 2 Schematic representation of extracellular and intracellular barriers to DNA delivery. DNA and DNA
+complexes delivered in vivo must overcome a number of barriers to achieve successful gene expression in
+the cell nucleus: (i) Endo and exonuclease degradation of DNA; (ii) Migration of DNA from the target tissue
+into systemic circulation; (iii) Binding and aggregation of DNA via serum protein complexation; (iv) Immune
+activation to delivered DNA; (v) Interaction and binding with erythrocytes; (vi) Clearance of DNA via spleen,
+renal and hepatic systems; (vii) Migration of DNA through extracellular matrix in target organ; (viii) Cellular
+uptake, mediated via endocytosis or passive entry; (ix) enzymatic degradation of DNA in lysosome;
+(x) Nuclear localization of DNA for protein expression
+treatment. This makes it particularly difficult to evaluate the true potential of any new
+delivery strategies. This is further complicated by discrepancies in experimental design
+and evaluation, which render it almost impossible to directly compare the variety of
+approaches employed.
+Injection of “naked” DNA is the simplest delivery strategy and has been shown to in-
+duce humoral and cellular immune responses when administered to mouse models
+[37]. However, this strategy offers little protection to DNA and transfection rates are
+significantly reduced when upscaled to human studies [30]. Several delivery approaches
+are undergoing investigation to improve DNA vaccine efficacy. Delivery platforms can
+be broadly classified as physical or non-physical (vector-based) methods, which can be
+further subcategorised to either viral or non-viral. In addition to the DNA delivery plat-
+form, consideration must be given to the immunisation protocol, the co-administration
+of adjuvants, which may be used to modify the cellular environment, and to the origin
+and combination of DNA delivered which may play a central role in the induction of a
+potent immune response. This review shall introduce and provide a brief discussion of
+the most recent developments in each field, but shall focus on the strategies that are
+most applicable to prostate cancer.
+Physical delivery methods
+Physical delivery methods act to overcome the extracellular barriers to gene delivery
+and/or to temporarily disrupt the membrane of target cells, allowing DNA entry. Tat-
+tooing [38],  micro-injection [39],  gene gun [40],  ultrasound [41] and electroporation
+(EP) [42] have been described as physical methods for gene delivery. Of these, EP, gene
+gun and ultrasound have been used for gene delivery in prostate cancer models.
+Page 7
+Cole et al. Cancer Nanotechnology (2015) 6:2  Page 7 of 23
+Electroporation
+EP is a technique whereby DNA is delivered intradermally (i.d.) or intramuscularly (i.m.)
+to the target site and a short electrical pulse or series of electrical pulses are applied locally
+to the area. This results in a transient destabilisation of cell membranes in the target tissue
+[35]. EP has been well documented as a potent means of enhancing transgene delivery,
+with antigen expression reported to increase up to 1000 fold [28, 43, 42]. Antigen specific
+responses have also been detected 25 weeks post immunisation [44]. A favourable safety
+profile also makes EP an attractive option for in vivo immunisation.
+EP has been used to enhance DNA vaccine immunogenicity in several prostate cancer
+preclinical models. For example, Roos et al. demonstrated a significant increase in PSA
+specific CD8+ T cells circulating in peripheral blood following i.d. injection of only
+10 μg pVax-PSA accompanied by EP compared to those receiving no EP in C57 BL/6
+mice following 2 immunisations [45]. EP has also demonstrated efficacy and safety in a
+number of clinical trials [12, 46, 47]. For example, in a phase I/II dose escalation trial,
+patients with biochemically recurrent prostate cancer were immunised i.m. with
+pDOM-PSMA, a DNA fusion vaccine encoding a PSMA epitope, PSMA27
+, and DOM,
+a domain of fragment C a tetanus toxin, without (Arm I) or with (Arm II) EP [48].
+Patients received a total of five immunisations at weeks 0, 4, 8, 24 and 48, with follow-
+up recorded up to week 72. At week 24, 11 of the 15 patients from Arm I switched to
+Arm II due to a significantly higher anti-DOM antibody response in patients receiving
+EP [48]. Vaccination with or without EP was associated with significant increases in de-
+tectable DOM-specific CD4+ and PSMA27
+-specific CD8+ T cells compared to baseline,
+with a significant trend towards higher responses in those treated with EP up to week
+24 [48].  Treatment was associated with a significant increase in PSA doubling time
+(PSA-DT), an indication of disease progression, from 11.98 months pre-treatment to
+16.82 months at 72 week follow-up, independent of whether the patient had received
+EP or not. While the authors found in this case that vaccination and EP were well toler-
+ated by patients, other reports have found that EP is associated with pain, inflammation
+and bleeding, especially when given i.m. which could decrease clinical acceptability [49,
+50]. It is likely that the delivery site (whether i.d. or i.m.) is key to the generation of the
+immune response. For example, the high population of resident APCs in the skin have
+increased the number of EP plus i.d. studies [42]. Eriksson et al. delivered pVAX plas-
+mid encoding rhesus macaque PSA (rhPSA), pVAX/rhPSA, to patients with biochem-
+ical evidence of prostate cancer relapse i.d. followed by EP with the DermaVax device
+(BTX/Harvard Appartus) and monitored patients for evidence of decrease in PSA-DT
+or generation of PSA-specific T cells [47]. However, no significant changes in PSA kin-
+etics were observed in any patients and increased PSA-specific T cell reactivity was only
+observed in patients in the highest dose cohorts (4 of 15) [47]. The authors speculated
+that i.m. delivery elicits a more potent immunological response. However, as this is
+more invasive it may be desirable to increase the potency of i.d. vaccination with higher
+vaccine doses or with the use of adjuvants [47].
+To conclude, EP is a well established means of enhancing transgene expression and
+acts as an immune adjuvant [42] due to the inflammation and recruitment of DCs fol-
+lowing application, largely due to local tissue damage. Damage is directly related to the
+intensity of EP and higher intensities are associated with higher transfection efficacies
+[42].  As such, there is a trade-off between increased efficacy and discomfort to the
+Page 8
+Cole et al. Cancer Nanotechnology (2015) 6:2  Page 8 of 23
+patient, with the latter being the rate-limiting factor [42]. Despite these concerns EP
+has been used safely in a number of key prostate cancer clinical trials [47, 48], provid-
+ing an encouraging platform for DNA vaccine delivery. The availability of commercially
+produced EP devices also provides a convenient, reproducible means for researchers to
+administer their vaccines in preclinical and clinical trials.
+The gene gun
+A second physical delivery strategy is the use of the “gene gun”, whereby naked DNA is
+adhered to the surface of gold particles, which are accelerated under high pressure by a
+ballistic device into the target tissue. Such high pressure is necessary to ensure penetra-
+tion of cell membranes which is vital for intracellular DNA delivery [40]. The gene gun
+has demonstrated superior gene expression compared to injection of naked DNA [51],
+and is capable of enhancing specific humoral and cellular immunity [51]. In preclinical
+trials the gene gun has also demonstrated comparable efficacy to EP in inducing a po-
+tent cellular immune response following i.m. injection [52]. As such, the gene gun has
+been used to induce antigen specific responses in several clinical trials [53, 54], most
+notably to protect humans from influenza challenge [54]. However, its use as a delivery
+agent in clinical trials for cancer treatment has been less successful, perhaps due to lim-
+ited gene carrying capacity (~2 μg per dose), which often necessitates multiple immuni-
+sations at different sites in the body, reducing patient compliance [52–54]. Despite this
+dose limitation the gene gun is a simple and flexible device for in vivo gene delivery
+and has been used for the delivery of prostate TAAs in several preclinical studies.
+Gregor et al. [55] and Garcia-Hernandez et al. [56] have used the gene gun to deliver
+prostate TAAs in murine preclinical studies and these are discussed subsequently.
+To conclude, the gene gun is a flexible, fast and highly reproducible option for
+in vivo gene delivery due to the availability of a commercial device (Helios Gene Gun,
+Bio-Rad). The gene gun is however limited by the DNA carrying capacity, as well the
+degree of tissue penetration, with penetration depths limited to 0.1 mm [40]. Therefore,
+moving to larger animal models and humans may prove impractical.
+Ultrasound
+Although EP and gene gun have good efficacy in vivo there are newer, less invasive
+physical delivery systems being developed. One such delivery enhancement strategy is
+ultrasound. DNA is injected into the target tissue and ultrasonic waves are applied ex-
+ternally, continually or in pulses, causing a transient, reversible increase in cell mem-
+brane permeability, thus facilitating cellular entry of the DNA [41, 57].  Transfection
+efficacy varies according to a number of factors including frequency, intensity and dur-
+ation of application. However, optimal conditions have not yet been established and the
+risk of cellular damage to the host tissue has not been fully elucidated [41]. Although
+ultrasound has been shown to increase gene expression 10–15 fold in vivo compared to
+“naked” DNA [39],  levels of gene expression are still considerably lower than that
+which can be achieved using either EP or gene gun approaches [39].  Nevertheless,
+Yoshida et al. [58] utilised ultrasound to enhance delivery of mannose-modified bubble
+lipoplexes containing ubiquitylated melanoma-related antigen (pUb-M) to APCs. In
+combination with doxorubicin, this produced a robust CTL response following one im-
+munisation and was able to significantly prolong the survival of C57 BL/6 mice with
+Page 9
+Cole et al. Cancer Nanotechnology (2015) 6:2  Page 9 of 23
+established solid B16 tumours [58]. This study highlights the potential of ultrasound to
+improve the therapeutic response to TAAs in cancer models in vivo. To date, ultra-
+sound has not been used to deliver TAAs in a preclinical prostate cancer model, how-
+ever, several authors have employed ultrasound to enhance gene delivery to prostate
+cancer tumours in vivo.
+Duvshani-Eshet et al. utilised ultrasound to enhance delivery of anti-angiogenic
+hemopexin-like domain fragment (PEX) genes to prostate tumours in vivo [59].  The
+group inoculated C57 BL/6 mice with PC-3 tumour cells and when the tumours
+reached 100 mm3 treatment was initiated with intratumoural (i.t.) injection of naked
+PEX expressing plasmid (pPEX) with or without therapeutic ultrasound (TUS). Tumour
+burden was monitored every 2 days for 28 days. Following a single application TUS
+significantly decreased tumour weight and volume compared to control (no treatment),
+0.65 ± 0.15 g compared to 1.05 ± 0.25 g and 1300 ± 250 mm3 compared to 2000 ±
+300 mm3, respectively. This effect was significantly improved by the addition of an ultra-
+sound contrast agent, Optison. Optison is a microbubble composed of an albumin shell
+with a gas core used to enhance the ultrasound backscatter in the target tissue. Subse-
+quent studies involved tumour implantation followed by weekly treatment for four weeks
+with pPEX and Optison with or without TUS. Repeated treatments of both pPEX or
+pPEX + Optison alongside TUS significantly reduced prostate tumour burden and growth
+by 80 % compared to a single treatment and control (no TUS). This study demonstrated
+the promise of ultrasound as a gene delivery strategy in cancer. However, while ultrasound
+can be easily directed towards specific tissues it is not always possible to inject therapy i.t.
+This limitation needs to be overcome before clinical translation of this delivery system
+can be achieved.
+To conclude, ultrasound is a promising delivery option for the future, particularly for
+use in combination with other immunotherapeutic approaches. The non-invasive nature
+of ultrasound makes it an ideal candidate as a physical delivery system. At present the
+higher efficacy of other systems, such as EP, make them more appealing to researchers. EP
+and the gene gun have been used for DNA vaccination in numerous clinical trials and
+have well established safety profiles, however, ultrasound has not been evaluated to the
+same extent and the long term toxicity and efficacy still require elucidation.
+Conclusions and future considerations
+Physical delivery systems use the application of force to overcome the extra- and intra-
+cellular barriers to gene delivery. In the majority of systems this enables the bypassing
+of endocytosis and allows cellular entry of DNA through physically formed pores in the
+cell membrane. This leads to a rapid and sustained gene expression, thus, physical de-
+livery systems represent a convenient and efficacious method for gene delivery in vivo.
+The advantages and disadvantages of these systems are summarised in Table 4. Delivery
+methods such as EP and the gene gun are well established in terms of efficacy, but are
+invasive and require the need for specialist equipment and training. This makes them
+less desirable for widespread vaccination use in a clinical setting. Ultrasound, while less
+invasive, suffers from a lack of efficacy compared to these established techniques and
+also requires specialist equipment. Further optimisation and investigation into the effi-
+cacy and cytotoxicity of this technique is required before it can be considered for rou-
+tine use in gene delivery trials. However, ultrasound may have a role in enhancing the
+Page 10
+Cole et al. Cancer Nanotechnology (2015) 6:2  Page 10 of 23
+Table 4 Summary of advantages and disadvantages of physical delivery strategies used in DNA
+vaccination
+Physical delivery strategy Advantages  Disadvantages
+Electroporation • High levels of transgene
+expression 
+• Invasive
+• Long-lasting gene expression • Need for specialist equipment and training
+• Safety demonstrated in numerous • Potential for tissue damage
+clinical trials
+• Commercially available delivery
+devices 
+• Two-step delivery process
+Gene Gun  • High levels of transgene
+expression 
+• Invasive
+• Long-lasting gene expression • Limited DNA carrying capacity
+• Safety demonstrated in clinical
+trials 
+• Need for specialist equipment and
+training
+• Commercially available delivery
+devices 
+• Often need for multiple administrations
+• One-step delivery process • Low tissue penetration
+Ultrasound • Non-invasive  • Low levels of transgene expression
+• Can be targeted to specific
+organs easily 
+• Need for specialist equipment and training
+• Two-step delivery process
+• Safety not yet widely demonstrated in gene
+therapy clinical trials
+efficacy of gene delivery protocols when used in combination with other techniques.
+For example, Yamashita et al. [60] used a combination of EP and ultrasound, termed
+electro-sonoporation, to deliver plasmid DNA coding the luciferase reporter gene and
+mouse Interleukin-12 (mIL-12) to the quadriceps of mice. The group found that two
+days post delivery, mice that had undergone electro-sonoporation demonstrated lucifer-
+ase expression levels two-fold higher than those that had received electroporation alone
+[60]. Likewise, levels of serum mIL-12 were found to be two-fold higher in mice treated
+with electro-sonoporation, with gene expression still detectable 28 days post adminis-
+tration [60].
+This study highlights the potential in using a combination of delivery strategies to im-
+prove gene expression. While it is commonplace to enhance the immune response
+through the administration of biological or chemical adjuvants, new strategies are
+emerging using a combination of physical delivery systems to synergistically increase
+gene delivery [61–63]. These two-tier or combinational approaches are likely to yield a
+more efficacious gene delivery and thus, may prove necessary in larger animal models
+to produce sufficient amounts of antigen to overcome self-tolerance to TAAs.
+DNA delivery vector
+DNA delivery vectors can be broadly classified as viral or non-viral. DNA delivery vec-
+tors enhance the uptake of DNA and protect it from the intracellular barriers to gene
+delivery. This process involves condensing the DNA to facilitate endocytosis, masking
+the negative charge of the DNA and protecting it from degradation by nucleases. In
+addition, several delivery vectors are capable of directly trafficking DNA to the nucleus
+thus enhancing gene expression.
+Page 11Cole et al. Cancer Nanotechnology (2015) 6:2  Page 11 of 23
+Viral vectors
+Several types of viruses have been utilised as delivery vectors for DNA vaccines includ-
+ing adenoviruses (Ad) [64], adeno-associated viruses (AAVs) [65, 66], herpes simplex vi-
+ruses (HSV) [67, 68],  retroviruses [69],  lentiviruses [70] and poxviruses [71].  Viruses
+have specifically evolved to overcome the barriers presented to gene delivery and as
+such, they are associated with high transfection efficacy and are the current gold stand-
+ard for gene delivery [72]. A number of DNA vaccines using viral vectors have been
+used in prostate cancer preclinical and clinical trials and have proven safe and effica-
+cious [67, 73–75].
+Lubaroff et al. [74] recently reported encouraging results from a Phase I trial utilising
+an adenoviral vector to deliver DNA coding human PSA (Ad/PSA). Patients with evi-
+dence of metastatic castrate resistant disease received 1 × 106, 1 × 107 or 1 × 108 CFU of
+Ad/PSA subcutaneously (s.c.) either as an aqueous suspension or as a Gelfoam collagen
+matrix [74]. Patients were then observed for adverse effects, and at days 14, 21 and 2,
+4, 8 and 12 months returned for assessment and to allow evaluation of antibody or T
+cell specific responses to PSA. The group reported that 34 % of patients experienced an
+increase in detectable anti-PSA antibodies, while 68 % of patients developed anti-PSA
+T cells [74]. In addition, 46 % of patients experienced an increase in PSA-DT. The re-
+sults of this small but encouraging study resulted in the commencement of a Phase II
+trial to assess the benefit of Ad/PSA in patients with recurrent prostate cancer [76], al-
+though results have yet to be published.
+To date, perhaps the most successful prostate cancer DNA vaccination platform
+is that of the PSA-targeting vaccine, PROSTVAC, consisting of a prime-boost strat-
+egy with recombinant vaccinia virus and fowlpox virus vectors expressing PSA and
+a triad of co-stimulatory molecules, B7.1, ICAM-1 and LFA-3, known as TRICOM
+[71].  The success of a phase II clinical trial in men with metastatic CRPC demon-
+strated a survival benefit of 8.5 months in patients who received PROSTVAC-VF
+plus GM-CSF [75].  This has now led to a randomised double-blind phase III
+clinical trial [77].
+Despite this success, a number of limitations have been highlighted with these
+vectors including time-consuming production, uncertain reproducibility, limited car-
+rying capacity of transgenes, safety concerns such as toxicity, dose-dependent im-
+munogenicity and potential integration into the host genome causing oncogene
+activation [36, 72]. Many groups continue to develop recombinant viral vectors due
+to their efficacy in vivo, and many DNA vaccines with these vectors continue to be
+brought to trial. However, there has been a shift towards creating new, non-viral vec-
+tors for DNA vaccination.
+Non-viral vectors
+Non-viral vectors, while attractive in terms of reproducibility and safety, are limited by
+low transfection efficacy in vivo. Existing vectors include cationic lipids, polymers and
+peptides [72]. Due to their cationic charge these vectors often spontaneously condense
+DNA to form smaller cationic nanoparticles in addition to enhancing endocytosis and
+protecting DNA from degradation. Despite ease of production, these vectors continue
+to suffer from a lack of efficacy compared to viral vectors in vivo and so the challenge
+is to improve non-viral characteristics to overcome the barriers to gene delivery.
+Page 12
+Cole et al. Cancer Nanotechnology (2015) 6:2  Page 12 of 23
+Lipid/liposome delivery systems
+Cationic lipids are capable of condensing DNA through electrostatic interactions into
+small lipoplexes. These lipoplexes carry a positive surface charge which aids internalisa-
+tion through cell membrane binding. However, highly charged particles have been dem-
+onstrated to cause significant toxicity and aggregation with serum proteins which can
+hinder efficacy in vivo. Some of these limitations have been addressed through the func-
+tionalisation of liposomes by the addition of Poly-ethylene-glycol (PEG). PEG shields the
+liposome, increases the circulation time and facilitates the addition of ligands to improve
+targeting [78]. The addition of Mannose to liposomes has led to significant increases in
+transfection of DCs and macrophages through targeting of the mannose receptor [79–81].
+Targeting of APCs makes these vectors ideal for DNA vaccination, and mannosylated li-
+posomes have been demonstrated to enhance gene expression and the antigen specific
+immune response compared to non-mannosylated vectors [78, 79].  Liposome vectors
+have not been used for DNA vaccination purposes with prostate TAAs to date.
+Allen et al. [82] delivered lipoplexes containing the gene coding for the p75 neurotro-
+phin receptor (p75NTR) i.t. to PC-3 xenografts implanted on SCID mice. p75NTR is a
+known tumour suppressor gene in prostate cancer and therefore it was hypothesised
+that transfection of established PC-3 tumours would result in an increase in cell apop-
+tosis and a decrease in cell proliferation. The authors implanted SCID mice with 1x106
+PC-3 cells s.c. and 5 days post implantation injected i.t. with Lipofectamine/ p75NTR
+cDNA (1 μg, 5 μg or 10 μg) or Lipofectamine 3 times weekly for 5 weeks [82]. Tu-
+mours treated with lipoplexes containing p75NTR cDNA were significantly smaller than
+those treated with Lipofectamine or control (no treatment). In addition, tumour size
+was reduced in a dose dependent manner with 5 μg or 10 μg of DNA decreasing
+tumour volume significantly more than 1 μg of DNA [82].  The authors successfully
+demonstrated the feasibility of this approach for gene therapy for prostate cancer. How-
+ever, while it was demonstrated that the lipoplexes were capable of transfecting prostate
+cancer cells in this model it is not always possible to administer i.t. in vivo, especially in
+diseases such as prostate cancer where there may be disseminated disease. Therefore,
+DNA vaccination protocols targeting prostate TAAs may be more relevant clinically,
+and do not require systemic delivery.
+In conclusion, liposomes enable enhanced transfection through complexation with
+DNA, circumvent the tissue damage associated with physical delivery systems and do
+not require additional specialist equipment. Liposomes can be modified to enhance sta-
+bility, improve circulation times and target APCs, making them good candidates for
+in vivo gene delivery. However, liposome vectors also continue to suffer from a lack of
+efficacy compared to viral vectors and cellular toxicity remains an on-going problem. At-
+tempts to reduce the limitations of unspecific cellular transfection and poor circulation
+time through incorporation of PEG have also been undermined by the formation of PEG-
+specific antibodies upon repeat administration [72]. Liposome vectors still require further
+refinement before they become mainstream vectors for use in DNA vaccination.
+Polymer delivery systems
+Cationic polymers are also capable of condensing anionic DNA through electrostatic
+interaction to form particles known as polyplexes, and have been extensively studied as
+non-viral gene delivery agents. These synthetic polymers provide a simple method of
+Page 13
+Cole et al. Cancer Nanotechnology (2015) 6:2  Page 13 of 23
+gene delivery and are easily modified to accommodate other stabilising polymers, tar-
+geting ligands or drug conjugates [83]. Polyethylenimine (PEI) and poly (L-lysine) (PLL)
+have been the most widely studied cationic polymers. Although both PLL and PEI en-
+hance DNA transfection, PEI is most effective. The large buffering capacity of PEI enables
+efficient endosomal escape via the ‘proton sponge effect’ [83]. However, the main limita-
+tion of these cationic polymers is that increased transfection efficacy is correlated to a
+higher molecular weight that results in a substantial increase in toxicity [83–85]. Attempts
+to reduce the toxicity of these polymers while maintaining the transfection efficacy are on-
+going with varying success [86–88]. Polyplexes have not yet been used as non-viral vectors
+for DNA vaccine delivery in prostate cancer models, however several polyplexes have
+been used to deliver gene therapy to tumours in clinical and preclinical trials [89, 90].
+Hence prostate cancer may benefit from gene therapy delivered in this manner.
+Similar to liposomes, polymer carriers may be modified to contain mannose moieties
+that mediate delivery to APCs [61, 91]. Kim et al. [61] described a novel, two-tiered de-
+livery system designed to enhance gene delivery to DCs in the dermal layer for DNA
+vaccination. The system utilised solid microneedles coated with a pH-responsive layer
+designed to release polyplexes when inserted into skin. Following insertion and release
+into the skin uptake to APCs may be accommodated by mannosylated polyplexes en-
+coding an antigenic amyloid beta monomer, Aβ 1–42, which enhances APC uptake
+through interaction with mannose receptors. A single immunisation of BALB/c mice
+with 10 μg of DNA was sufficient to induce detectable Aβ-specific antibodies one-week
+post immunisation. Five weeks following immunisation mice challenged with Aβ 1–42
+peptide produced a rapid and robust Aβ-specific humoral response, demonstrating the
+ability of this approach to induce a long-lasting antigen specific humoural response.
+This type of approach may prove beneficial in DNA vaccines for prostate cancer, where
+targeted transfection of APCs is key for the development of a robust cellular response
+to eradicate antigen expressing tumour cells.
+In conclusion, while polymers provide a stable, efficacious vector for targeted gene
+delivery, further development is still required. Although unspecific cell targeting, poor
+circulation time and non-specific interaction of polyplexes with serum proteins have
+been largely improved through the incorporation of PEG and targeting ligands, cytotox-
+icity remains the rate limiting factor in vivo. Further development of newer polymers,
+not limited by a trade-off between efficacy and cytotoxicity is required before these vec-
+tors can be used widely in clinical trials for DNA vaccination.
+Peptide delivery systems
+In 1988 it was discovered that HIV TAT trans-activating factor was able to traverse the
+cell membrane and be taken up by a wide variety of cells [92]. This revelation led to
+the development of a whole class of natural and synthetic peptides capable of delivering
+cargo to a variety of cell types, known as cell penetrating peptides (CPPs) [93]. Further-
+more, peptides are being developed that mimic viral sequences. These include peptides
+that facilitate internalisation [94], endosomal escape [95], and nuclear localisation [96].
+Such peptides are often rich in basic amino acids such as lysine and arginine which are
+essential to condense DNA into nanoparticles via electrostatic interaction [95, 97]. The
+advantages of these viral mimetic peptides include biocompatibility, low cytotoxicity
+and versatility with respect to rational design resulting in tailored systems.
+Page 14
+Cole et al. Cancer Nanotechnology (2015) 6:2  Page 14 of 23
+Zhang et al. recently demonstrated the feasibility of this approach in a mouse pros-
+tate cancer model where an in-house cationic peptide [K] 18P9, composed of 18 lysine
+residues and a human CTL PSCA epitope, was used to condense a plasmid encoding
+the full-length human PSCA (hPSCA) gene for immunisation. HLA-A2.1/Kb Tg mice
+were immunized with 25 nmol of DNA 3 times at 2 weekly intervals. Effector cells
+from the immunised mice were subsequently intravenously (i.v.) injected into tumour
+bearing nude mice once per week and tumour growth monitored. These results showed
+significant retardation in tumour growth in those receiving cells from peptide/DNA
+vaccinated animals compared to those immunised with DNA alone, thus confirming
+administration of the DNA vaccine complexed with this peptide elicited superior im-
+mune responses in vivo [98].
+Peptide delivery systems confer a level of targeting and safety profile that is far super-
+ior to any other non-viral vehicle. Perhaps the drawback of peptide delivery systems lies
+in systemic administration where accumulation in the liver is a frequent event. How-
+ever, given that most DNA vaccination strategies require either i.m. or i.d. injection,
+peptides are ideally placed to deliver their cargo to APCs and have the potential to fill
+that delivery void.
+Conclusions
+Non-physical delivery methods carry the advantage of enhancing gene delivery in a
+non-invasive means to patients without requiring specialist equipment. Amongst the
+non-physical delivery systems viral vectors remain the gold standard in terms of effi-
+cacy. For DNA vaccination in larger animals and humans high transfection rates are es-
+sential, and as such, the extensive use and success of viral vectors for gene delivery in
+clinical trials makes them the most attractive vector for in vivo protocols. This success
+has led to the PSA-targeting DNA vaccine PROSTVAC entering Phase III clinical trials,
+the first prostate cancer specific DNA vaccine to do so. Despite these advantages there
+continues to be limitations over the safety, immunogenicity and carrying capacity of
+these vectors. Thus, there is a need to develop new, non-viral vectors capable of produ-
+cing similar transfection efficacies. Unfortunately these vectors suffer from high toxicity
+and poor transfection rates in vivo, though modification with ligands to improve APC
+uptake is promising for DNA vaccination. Peptide delivery vectors hold promise in
+terms of being able to mimic viral characteristics for DNA delivery. However, there is
+still a significant gap in acquiring the necessary pre-clinical data to validate the peptide
+delivery of DNA TAAs.
+Co-stimulatory adjuvants
+Co-administering immune enhancing molecules at the site of DNA vaccination either
+directly or encoded in plasmids is primarily designed to improve vaccine immunogen-
+icity. Few studies directly compare the efficacy of DNA vaccines with and without adju-
+vant making it difficult to deduce the benefits of co-administration. In addition, there is
+little consensus as to whether these adjuvants should be delivered as soluble protein or
+as plasmids, making direct comparison between studies examining the effect of adju-
+vant problematic. The most commonly co-administered molecules include chemokines,
+cytokines and bacterial toxins [48].
+Page 15
+Cole et al. Cancer Nanotechnology (2015) 6:2  Page 15 of 23
+GM-CSF is a cytokine commonly used as an adjuvant for DNA vaccination and has
+been used in numerous clinical trials [30, 31, 73, 99].  In a Phase I/II trial, Mincheff
+et al. demonstrated that 50 % of patients vaccinated i.d. at one weekly intervals with
+100 μg of PSMA and CD86 encoding plasmid(s) showed signs of immunisation in the
+form of delayed-type hypersensitivity (DTH). In contrast, 100 % of patients vaccinated
+with PSMA and CD86 plasmids also receiving 40,000 IU of soluble GM-CSF i.d. showed
+signs of DTH upon challenge [100]. While this study demonstrated that GM-CSF was
+capable of enhancing the general immune response to DNA vaccination, it is unclear as to
+whether GM-CSF enhanced the antigen specific response or improved patient outcomes.
+As such, more studies directly comparing the effect of GM-CSF on the antigen-specific
+cellular and humoral immune responses induced by prostate cancer DNA vaccines are ne-
+cessary. Indeed, current studies with the PROSTVAC vaccine include a phase III random-
+ized, double-blind trial to examine the effect with and without GM-CSF [77].
+Several preclinical studies have demonstrated the benefits of the co-expression of
+GM-CSF with DNA vaccines for tuberculosis [101], encephalitis [102], and melanoma
+[103].  However, these studies highlighted that co-inoculation with plasmid GM-CSF
+did not confer the same benefits, possibly due to unpredictable GM-CSF expression
+and competition with plasmid DNA encoding antigens for cellular uptake. Therefore,
+when considering the benefit of GM-CSF as an adjuvant it is crucial to consider the
+mode of GM-CSF delivery and demonstrate a clear benefit of inclusion.
+Xenogeneic DNA
+A number of TAAs possess functional homologues in other animal species, where the
+expression patterns and functions are similar to those of their human counterparts
+[104, 105]. As well as providing suitable preclinical models for DNA vaccines in a “self”
+model of prostate cancer, these xenoantigens have been used by groups in an effort to
+increase the immunogenicity of DNA vaccines. As xenoantigens are highly homologous
+to native peptides, they can be capable of eliciting a specific cross-reactive response to-
+wards the host self-antigen that can overcome tolerance issues.
+Johnson et al. immunised Lewis rats with naked pTVG-HP, a DNA plasmid encoding
+full length human PAP (hPAP), at 2 weekly intervals, for up to six i.d. immunisations
+with doses of 100 μg, 500 μg or 1500 μg of pTVG-HP [37]. Immunisation with pTVG-
+HP elicited hPAP-specific CD4+ and CD8+ T cells at the lowest dose following two
+immunisations. PAP-specific IgG antibodies were also detectable in all pTVG-HP
+treated animals and levels increased with increasing DNA dose and frequency of immuni-
+sations [37]. Further work from this group immunising rats with pTVG-RP, encoding rat
+PAP (rPAP) elicited hPAP-specific T cell responses following 6 immunisations indicating a
+larger number of immunisations are necessary to elicit a cross-reactive immune response
+in this model [106].
+To confirm the animals immunised with pTVG-RP elicited a rPAP specific response
+in addition to hPAP specific responses splenocytes were isolated from the animals and
+restimulated in vitro with hPAP or rPAP expressing DCs and the resultant levels of
+interferon gamma (IFN-ϒ) were analysed. Immunisation with pTGV-RP did elicit a
+rPAP-specific T cell response and a cross-reactive hPAP immune response. This indi-
+cates that autologous PAP antigen is capable of overcoming tolerance to autologous
+Page 16
+Cole et al. Cancer Nanotechnology (2015) 6:2  Page 16 of 23
+PAP [106]. Based on these preclinical data, and using the same immunisation schedule,
+the group carried out a Phase I/IIa clinical trial in 22 patients with D0 prostate cancer
+[31].  Patients were immunised with pTVG-HP, a self-antigen in humans. Responses
+were found in 9 of the 22 patients with a tripling in PAP-specific CD4+ or CD8+ T cell
+responses, and 7 of the 22 patients experienced at least doubling of the PSA-DT [31].
+Upon completion of the initial study, two patients who had developed CD8+ T-cell
+responses to PAP received monthly booster vaccinations of 100 μg pTVG-HP to deter-
+mine whether this could augment the initial immune response [107]. Prior to continu-
+ation of treatment neither patient had residual, detectable PAP-specific T cells, and
+upon only two booster immunisations one patient developed detectable levels of CD4+
+and CD8+ PAP-specific T cells suggesting that further immunisations could indeed
+prove beneficial [107].
+The group hypothesised that immunisation with a xenoantigen may require lower
+numbers of immunisations to elicit immune responses against the host antigen, and
+carried out immunisation of Lewis rats with pTVG-HP to determine whether rPAP
+could be targeted through a cross-reactivity to immunisation with the human antigen
+[108]. The group found that despite the high homology between rat and human PAP
+peptides the xenoantigen was not capable of eliciting a cross-reactive immune response
+to native rPAP [108],  suggesting that vaccination of humans with xenoantigens may
+not produce an advantageous immune response against the native antigen. The authors
+suggested that this may not be the case with all xenoantigens, as the major determinant
+of whether a foreign peptide is capable of inducing a cross-reactive immune response
+may not be the overall homology of the foreign and self peptides, but the homology of
+the epitopes presented to the immune system [108].
+Following the promising results of their Phase I/IIa clinical trial and to evaluate the
+benefit of further “booster” immunisations, 17 patients were recruited into a Phase II
+clinical trial to assess the safety, immunological impact and clinical outcome of pTVG-
+HP, administered with rhesus macaque GM-CSF (rhGM-CSF) as an adjuvant, in
+patients with non-metastatic castrate resistant disease [99]. Patients were randomised
+to receive 100 μg pTVG-HP with 200 μg rhGM-CSF i.d. biweekly for 12 weeks and
+then subsequent boosters every 12 weeks until radiographic progression (Group 1) or
+boosters every 2, 4 or 12 weeks depending on cellular immune response (Group 2).
+From Group 1, 3 of 8 patients experienced at least a tripling in PAP-specific T cells
+compared to 6 of 8 participants from Group 2 [99]. Additionally, 3 of 8 patients from
+Group 1 and 4 of 9 patients from Group 2 experienced at least a doubling in their
+PSA-DT [99]. Taken together these results suggest that further periodic booster immu-
+nisations are of benefit to develop an immunological response and do not result in tol-
+erance to the targeted antigen.
+Several other groups have reported encouraging results using xenoantigens, Castelo-
+Blano et al. treated mice bearing TRAMP-C2 prostate tumours over 10 days with 4
+intraneoplastic injections of 1x107 PFU of oncolytic herpes simplex virus (oHSV) con-
+structs expressing human PAP or mouse PAP (mPAP).  Mice immunised with oHSV
+expressing hPAP had significantly reduced tumour growth and prolonged survival com-
+pared to those treated with oHSV expressing mPAP (p = 0.01) or control (p = 0.0008),
+with a 10 day prolongation of survival to 39 days compared to the latter [67]. Further-
+more Gregor et al. demonstrated that 5 intraperitoneal (i.p.) immunisations of mice
+Page 17
+Cole et al. Cancer Nanotechnology (2015) 6:2  Page 17 of 23
+with human PSMA (hPSMA) encoding DNA vaccine or protein was capable of indu-
+cing autoantibodies against native mouse PSMA (mPSMA) as demonstrated by ELISA.
+However, immunisation with native PSMA encoding DNA vaccine elicited no detect-
+able increase in immune response to human or murine PSMA [55]. Moving from this
+preclinical study Slovin et al. carried out a Phase I trial immunising patients with meta-
+static prostate cancer at 3 week intervals i.m. with 100 μg, 1500 μg or 4000 μg of xeno-
+geneic or homologous DNA vaccine coding PSMA [109].  Patients received three
+immunisations and subsequently patients who had received homologous vaccination
+were immunised a further three times with xenogeneic DNA The vaccine has proven
+safe, however, no high titer antibodies specific to PSMA were produced by any patients,
+though further analysis of T cell reactivity is ongoing but has yet to be published. As
+such, further studies are required to elucidate whether xenogeneic or autologous DNA
+is optimal in the clinical setting.
+Prime / boost strategies
+Many DNA vaccines have proven efficient at elicitation of immune responses, however,
+in some cases these responses are suboptimal to provide protection against the antigen.
+Thus, a number of immunisation regimens involving “priming” with DNA and subse-
+quently “boosting” with a heterologous agent such as a different antigen delivery plat-
+form or protein with the aim of improving immunogenicity have been investigated.
+This approach has recently been explored using murine STEAP1 (mSTEAP1) and
+murine PSCA (mPSCA) in mice for prophylaxis of prostate cancer [17].  The group
+primed mice with recombinant DNA (mSTEAP1 and/or mPSCA) and boosted with
+modified vaccinia virus ankara (MVA) vector expressing the same antigen(s). The group
+found that in a tumour challenge study, mice immunised against either antigen using
+this protocol demonstrated significantly inhibited tumour growth compared to control,
+49.8 % following immunisation against mPSCA and 41.7 % against mSTEAP1 [17]. An-
+other group immunised mice against mSTEAP using several vaccination protocols in-
+cluding a gene gun mSTEAP prime/ s.c. mSTEAP-Virus Replicon Particle (VRP) boost;
+gene gun mSTEAP prime/ s.c. mSTEAP DNA boost and mSTEAP-VRP prime and
+boost [56]. Mice were then challenged 10 days post boost with TRAMP C-2 prostate
+cancer cells. Tumour growth was monitored twice weekly and survival followed until
+tumours reached volumes over 1000 mm3. While survival was significantly increased
+with all mSTEAP vaccination protocols, the most significant effect was seen in mice
+vaccinated with mSTEAP DNA and boosted with mSTEAP-VRP. In a phase I/II trial
+Mincheff et al. found that all patients immunised with a replication deficient adenoviral
+vector expressing PSMA and later boosted with plasmid PSMA showed signs of
+immunisation (by DTH), while only 50 % of patients vaccinated with plasmid PSMA/
+CD86 alone showed signs of immunisation [100]. Indeed PROSTVAC employs two dif-
+ferent viral vectors, upon priming with the recombinant vaccinia virus expressing PSA,
+neutralizing antibodies are formed to the vector, making subsequent boosting doses un-
+feasible. However, boosting with a fowlpox vector overcomes this limitation [71] and
+similar strategies should be implemented in the design of new DNA vaccines.
+Priming with DNA and boosting with protein has also proven successful. Gregor
+et al. immunised C57 BL/6 mice with a DNA vaccine encoding hPSMA once weekly
+Page 18
+Cole et al. Cancer Nanotechnology (2015) 6:2  Page 18 of 23
+for 5 weeks. Sera from these animals was subsequently analysed for affinity to mPSMA.
+The mouse with the best response was subsequently boosted with 10 μg hPSMA pro-
+tein and found resultant antibody specificity for hPSMA and cross-reactivity for
+mPSMA [55]. A preclinical study carried out by Yong et al. demonstrated that C57 BL/
+6 mice immunised with a DNA vaccine encoding gastrin-releasing peptide (GRP) (three
+doses of 50 μg DNA), followed by boosting with HSP65-GRP6 protein resulted in in-
+creased immunogenicity as compared to those receiving DNA vaccination alone, as in-
+dicated by an increased titre of anti-GRP antibodies and inhibition of prostate tumour
+growth (tumour weight 0.962 ± 0.462 and 1.536 ± 0.497 g respectively) [110].
+Multivalent strategies
+Several recent preclinical studies in rodents have focused on the effects of DNA vac-
+cines coding multiple TAAs, the authors hypothesise that delivering multiple TAAs will
+result in a wider and more potent immune response, targeting tumour cells with a syn-
+ergistic effect [12]. Ferraro et al. used a dual antigen approach to immunise mice, PSA
+and PSMA were co-delivered i.m. followed by EP. The immunisation elicited a robust
+vaccine-specific CD4+ and CD8+ T cell response, indicating that the approach may
+hold clinical promise [12]. In the tumour challenge study carried out by Krupa et al.
+described previously [17],  the DNA prime/MVA boost strategy significantly delayed
+tumour growth upon challenge with TRAMP C-1 tumours. At day 55, the most signifi-
+cant effect was seen in mice immunised with both mSTEAP1 and mPSCA, with
+tumour volume 76.5 % lower than control mice vaccinated with empty plasmid vectors.
+The group chose to immunise TRAMP mice (a more relevant and aggressive prostate
+cancer model) using this prime/boost strategy. The vaccinated mice had significantly
+reduced primary tumour burden and at 24 weeks showed lower histological grade tu-
+mours, indicating that this approach is capable of breaking tolerance to self-antigens
+[17]. While these preclinical data demonstrate promise for this strategy an earlier pre-
+clinical study by Kim et al. primed mice with recombinant adenoviruses expressing
+mSTEAP, mPSCA and mPSMA and then boosted with DCs pulsed with tumour lysate
+[111]. This prime/boost strategy effectively delayed tumour growth following TRAMP
+C-1 tumour challenge, however, only high levels of mSTEAP-specific CD8+ T cells were
+found in the blood and spleens indicating that the anti-tumour effect was predominantly
+due to mSTEAP vaccination. Furthermore, it was found that vaccinating against mSTEAP
+alone was as effective as the triple antigen approach [112]. These results suggest that the
+use of multiple TAAs, while demonstrating promise in some studies is not generalisable,
+and in vitro and preclinical models should be used to determine the most effective com-
+bination of TAAs for each individual delivery platform.
+Conclusions
+As discussed, DNA vaccination represents a promising platform capable of offering
+both prophylactic protection and therapeutic treatment of prostate cancer. Currently
+there are a significant number of pre-clinical and clinical trials underway utilising a
+range of DNA plasmids, encoding a variety of TAAs and being delivered by an array of
+delivery methods. However, there are a number of questions still to be answered in
+order to achieve optimal immune responses clinically following vaccination. Primarily,
+Page 19
+Cole et al. Cancer Nanotechnology (2015) 6:2  Page 19 of 23
+is there an optimal dose of DNA and dosing regimen capable of provoking strong cellu-
+lar and humoural responses to the antigens produced while avoiding exacerbation of
+pro-inflammatory responses to the vaccine and delivery vehicles utilised themselves.
+Additionally, improved formulation and superior delivery technologies are essential
+for the enhancement of clinical data which has thus far proved disappointing when
+compared to the promising results elicited in vitro and in rodent models in vivo. It is
+becoming increasingly common for researchers to use a combination of delivery strat-
+egies to achieve higher transfection rates in vivo. These two-tier delivery systems enable
+synergy between the delivery systems and may prove necessary to achieve sufficient
+gene expression to provoke robust cellular and humoral immune responses [58,
+61–63]. Among these strategies the use of microneedles to localise DNA delivery into
+the APC rich dermal layer has been commonly reported [61–63]. These devices provide
+a non-invasive means of overcoming the Stratum Corneum and do not require special-
+ist training for use. This provides a significant benefit over other delivery platforms,
+especially where repeated administration or large scale vaccination is required. In con-
+clusion, further investigation and advancement in the use of DNA vaccination for the
+protection against, and treatment of prostate cancer is necessary before a fully validated
+prostate cancer vaccine is clinically available.
+Abbreviations
+AAV: Adeno-associated viruses; Ad: Adenovirus; APC: Antigen-presenting cell; CRPC: Castration resistant prostate
+cancer; CTLs: Cytotoxic T lymphocytes; DNA: Deoxyribonucleic acid; DOM: Domain of fragment C tetanus toxin;
+DTH: Delayed-type hypersensitivity; EP: Electroporation; FDA: US food and drug administration; GM-CSF: Granulocyte
+macrophage- colony stimulating factor; GRP: Gastrin-releasing peptide; hPSA: Human prostate specific antigen;
+hPSMA: Human prostate specific membrane antigen; HSV: Herpes simplex virus; I.D.: Intradermal; IFN-γ: Interferon
+gamma; I.M.: Intramuscular; I.P.: Intraperitoneal; I.T.: Intratumoural; hPAP: Human prostatic acid phosphatase;
+MHC: Major histocompatibility complex; mPSCA: Murine prostate stem cell antigen; mPSMA: Murine prostate specific
+membrane antigen; mSTEAP: Murine six transmembrane epithelial antigen of the prostate; MVA: Modified Vaccinia
+virus ankara; oHSV: Oncolytic herpes simplex virus; p75NTR: p75 neurotrophin receptor; PAP: Prostatic acid phosphatase;
+PEG: Poly-ethylene-glycol; PEX: Antiangiogenic hemopexin-like domain fragment; PSA: Prostate specific antigen; PSA-
+DT: Prostate specific antigen doubling time; PSCA: Prostate stem cell antigen; PSMA: Prostate specific membrane
+antigen; rhGM-CSF: Rhesus macaque granulocyte macrophage- colony stimulating factor; rPAP: Rat prostatic acid
+phosphatase; rhPSA: Rhesus macaque prostate specific acid; S.C.: Subcutaneous; STEAP: Six transmembrane epithelial
+antigen of the prostate; STEAP1: Six transmembrane epithelial antigen of the prostate 1; TAAs: Tumour associated
+anitgens; TRAMP: Transgenic adenocarcinoma of the mouse prostate; TUS: Therapeutic ultrasound; VRP: Virus replicon
+particle.
+Competing interests
+The authors declare that they have no competing interests.
+Authors’ contributions
+GC drafted the manuscript, tables and aided with the figures. JMcC drafted the manuscript and amended figures. AA
+drafted the figures and aided with the manuscript. HMcC conceived and helped to draft the manuscript and was
+responsible for design and co-ordination. All authors read and approved the final manuscript.
+Acknowledgements
+Prostate Cancer UK funds GC on a PhD studentship.
+Received: 29 December 2014 Accepted: 16 May 2015
+References
+1.  C. R. UK (2014) Cancer incidence for common cancers. Cancer Research, UK
+2.  Horwich A, Parker C, Bangma C, Kataja V (2010) Prostate cancer: ESMO Clinical Practice Guidelines for diagnosis,
+treatment and follow-up. Ann Oncol 21(Suppl 5):v129–33
+3.  Saad F, Miller K (2014) Treatment options in castration-resistant prostate cancer: current therapies and emerging
+docetaxel-based regimens. Urol Oncol 32(2):70–9
+4.  Rosenbaum E, Partin A, Eisenberger MA (2004) Biochemical relapse after primary treatment for prostate cancer:
+studies on natural history and therapeutic considerations. J Natl Compr Canc Netw 2(3):249–56
+5.  Schurko B, Oh WK (2008) Docetaxel chemotherapy remains the standard of care in castration-resistant prostate
+cancer. Nat Clin Pract Oncol 5(9):506–7
+6.  Schietinger A, Philip M, Schreiber H (2008) Specificity in cancer immunotherapy. Semin Immunol 20(5):276–85
+Page 20
+Cole et al. Cancer Nanotechnology (2015) 6:2  Page 20 of 23
+7.  Thakur A, Vaishampayan U, Lum LG (2013) Immunotherapy and immune evasion in prostate cancer. Cancers
+(Basel) 5(2):569–90
+8.  Agarwal N, Padmanabh S, Vogelzang NJ (2012) Development of novel immune interventions for prostate cancer.
+Clin Genitourin Cancer 10(2):84–92
+9.  Coffey DS, Isaacs JT (1981) Prostate tumor biology and cell kinetics–theory. Urology 17(Suppl 3):40–53
+10. Cunha AC, Weigle B, Kiessling A, Bachmann M, Rieber EP (2006) Tissue-specificity of prostate specific antigens:
+comparative analysis of transcript levels in prostate and non-prostatic tissues. Cancer Lett 236(2):229–38
+11. Balk SP, Ko Y-J, Bubley GJ (2003) Biology of prostate-specific antigen. J Clin Oncol 21(2):383–91
+12. Ferraro B, Cisper NJ, Talbott KT, Philipson-Weiner L, Lucke CE, Khan AS, Sardesai NY, Weiner DB (2011) Co-delivery
+of PSA and PSMA DNA vaccines with electroporation induces potent immune responses. Hum Vaccin 7:120–7
+13. Graddis TJ, McMahan CJ, Tamman J, Page KJ, Trager JB (2011) Prostatic acid phosphatase expression in human
+tissues. Int J Clin Exp Pathol 4(3):295–306
+14. Ghosh A, Heston WDW (2004) Tumor target prostate specific membrane antigen (PSMA) and its regulation in
+prostate cancer. J Cell Biochem 91(3):528–39
+15. Raff AB, Gray A, Kast WM (2009) Prostate stem cell antigen: a prospective therapeutic and diagnostic target.
+Cancer Lett 277(2):126–32
+16. Hubert RS, Vivanco I, Chen E, Rastegar S, Leong K, Mitchell SC, Madraswala R, Zhou Y, Kuo J, Raitano AB,
+Jakobovits A, Saffran DC, Afar DE (1999) STEAP: a prostate-specific cell-surface antigen highly expressed in human
+prostate tumors. Proc Natl Acad Sci U S A 96(25):14523–8
+17. Krupa M, Canamero M, Gomez CE, Najera JL, Gil J, Esteban M (2011) Immunization with recombinant DNA and
+modified vaccinia virus Ankara (MVA) vectors delivering PSCA and STEAP1 antigens inhibits prostate cancer
+progression. Vaccine 29(7):1504–13
+18. McNeel DG, Nguyen LD, Ellis WJ, Higano CS, Lange PH, Disis ML (2001) Naturally occurring prostate cancer antigen-
+specific T cell responses of a Th1 phenotype can be detected in patients with prostate cancer. Prostate 47(3):222–9
+19. Sims RB (2012) Development of sipuleucel-T: autologous cellular immunotherapy for the treatment of metastatic
+castrate resistant prostate cancer. Vaccine 30(29):4394–7
+20. Kantoff PW, Higano CS, Shore ND, Berger ER, Small EJ, Penson DF, Redfern CH, Ferrari AC, Dreicer R, Sims RB, Xu Y,
+Frohlich MW, Schellhammer PF (2010) Sipuleucel-T immunotherapy for castration-resistant prostate cancer. N Engl
+J Med 363(5):411–22
+21. Simons JW, Sacks N. Granulocyte-macrophage colony-stimulating factor-transduced allogeneic cancer cellular
+immunotherapy: the GVAX vaccine for prostate cancer. Urol Oncol. 24(5):419–24.
+22. Fong L, Brockstedt D, Benike C, Breen JK, Strang G, Ruegg CL, Engleman EG (2001) Dendritic Cell-Based Xenoantigen
+Vaccination for Prostate Cancer Immunotherapy. J Immunol 167(12):7150–6
+23. Noguchi M, Moriya F, Suekane S, Matsuoka K, Arai G, Matsueda S, Sasada T, Yamada A, Itoh K (2012) Phase II study
+of personalized peptide vaccination for castration-resistant prostate cancer patients who failed in docetaxel-based
+chemotherapy. Prostate 72(8):834–45
+24. Milowsky MI, Nanus DM, Kostakoglu L, Sheehan CE, Vallabhajosula S, Goldsmith SJ, Ross JS, Bander NH (2007)
+Vascular targeted therapy with anti-prostate-specific membrane antigen monoclonal antibody J591 in advanced
+solid tumors. J Clin Oncol 25(5):540–7
+25. Rice J, Ottensmeier CH, Stevenson FK (2008) DNA vaccines: precision tools for activating effective immunity
+against cancer. Nat Rev Cancer 8(2):108–20
+26. Fehres CM, Unger WWJ, Garcia-Vallejo JJ, van Kooyk Y (2014) Understanding the biology of antigen cross-presentation
+for the design of vaccines against cancer. Front Immunol 5:149
+27. Wolchok JD, Gregor PD, Nordquist LT, Slovin SF, Scher HI (2003) DNA vaccines: an active immunization strategy
+for prostate cancer. Semin Oncol 30(5):659–66
+28. Sardesai NY, Weiner DB (2011) Electroporation delivery of DNA vaccines: prospects for success. Curr Opin
+Immunol 23(3):421–9
+29. Moss RB (2009) Prospects for control of emerging infectious diseases with plasmid DNA vaccines. J Immune
+Based Ther Vaccines 7(1):3
+30. Pavlenko M, Roos A-K, Lundqvist A, Palmborg A, Miller AM, Ozenci V, Bergman B, Egevad L, Hellström M, Kiessling
+R, Masucci G, Wersäll P, Nilsson S, Pisa P (2004) A phase I trial of DNA vaccination with a plasmid expressing
+prostate-specific antigen in patients with hormone-refractory prostate cancer. Br J Cancer 91(4):688–94
+31. McNeel DG, Dunphy EJ, Davies JG, Frye TP, Johnson LE, Staab MJ, Horvath DL, Straus J, Alberti D, Marnocha R,
+Liu G, Eickhoff JC, Wilding G (2009) Safety and immunological efficacy of a DNA vaccine encoding prostatic acid
+phosphatase in patients with stage D0 prostate cancer. J Clin Oncol 27(25):4047–54
+32. Ottnod JM, Smedley RC, Walshaw R, Hauptman JG, Kiupel M, Obradovich JE (2013) A retrospective analysis of the
+efficacy of Oncept vaccine for the adjunct treatment of canine oral malignant melanoma. Vet Comp Oncol
+11(3):219–29
+33. Kutzler MA, Weiner DB (2008) DNA vaccines: ready for prime time? Nat Rev Genet 9(10):776–88
+34. Brown MD, Schätzlein AG, Uchegbu IF (2001) Gene delivery with synthetic (non viral) carriers. Int J Pharm
+229(1–2):1–21
+35. Pouton CW, Seymour LW (2001) Key issues in non-viral gene delivery. Adv Drug Deliv Rev 46(1–3):187–203
+36. Douglas KL. Toward development of artificial viruses for gene therapy: a comparative evaluation of viral and
+non-viral transfection. Biotechnol. Prog. 24(4):871–83.
+37. Johnson LE, Frye TP, Arnot AR, Marquette C, Couture LA, Gendron-Fitzpatrick A, McNeel DG (2006) Safety and
+immunological efficacy of a prostate cancer plasmid DNA vaccine encoding prostatic acid phosphatase (PAP).
+Vaccine 24(3):293–303
+38. Oosterhuis K, van den Berg JH, Schumacher TN, Haanen JBAG (2012) DNA vaccines and intradermal vaccination
+by DNA tattooing. Curr Top Microbiol Immunol 351:221–50
+39. K. Jinturkar, M. Rathi, A. N. Misra, “Gene Delivery using Physical Methods,” in Challenges in Delivery of Therapeutic
+Genomics and Proteomics, A. Misra, Ed. Elsevier, London, 2010, pp. 83–126.
+Page 21
+Cole et al. Cancer Nanotechnology (2015) 6:2  Page 21 of 23
+40. Lin MT, Pulkkinen L, Uitto J, Yoon K (2000) The gene gun: current applications in cutaneous gene therapy. Int J
+Dermatol 39(3):161–70
+41. Suzuki R, Oda Y, Utoguchi N, Maruyama K (2011) Progress in the development of ultrasound-mediated gene
+delivery systems utilizing nano- and microbubbles. J Control Release 149(1):36–41
+42. Bolhassani A, Khavari A, Orafa Z (2014) “Electroporation-Advantages and Drawbacks for Delivery of Drug, Gene
+and Vaccine,” in Application of Nanotechnology in Drug Delivery, Sezer AD, Ed. InTech, London, p. 369–398.
+43. Drunen Littel-van den Hurk S (2010) Electroporation for DNA immunization: clinical application. Expert Rev
+Vaccines 9(5):503–17
+44. van Drunen Littel-van S, den Hurk A, Luxembourg B, Ellefsen D, Wilson A, Ubach DH, van den Hurk JV (2008)
+Electroporation-based DNA transfer enhances gene expression and immune responses to DNA vaccines in cattle.
+Vaccine 26(43):5503–9
+45. Roos A-K, Moreno S, Leder C, Pavlenko M, King A, Pisa P (2006) Enhancement of cellular immune response to a
+prostate cancer DNA vaccine by intradermal electroporation. Mol Ther 13(2):320–7
+46. Ahmad S, Casey G, Sweeney P, Tangney M, O’Sullivan GC (2010) Optimised electroporation mediated DNA
+vaccination for treatment of prostate cancer. Genet Vaccines Ther 8(1):1
+47. Eriksson F, Tötterman T, Maltais A-K, Pisa P, Yachnin J (2013) DNA vaccine coding for the rhesus prostate specific
+antigen delivered by intradermal electroporation in patients with relapsed prostate cancer. Vaccine 31(37):3843–8
+48. Chudley L, McCann K, Mander A, Tjelle T, Campos-Perez J, Godeseth R, Creak A, Dobbyn J, Johnson B, Bass P,
+Heath C, Kerr P, Mathiesen I, Dearnaley D, Stevenson F, Ottensmeier C (2012) DNA fusion-gene vaccination in
+patients with prostate cancer induces high-frequency CD8(+) T-cell responses and increases PSA doubling time.
+Cancer Immunol Immunother 61(11):2161–70
+49. Daud AI, DeConti RC, Andrews S, Urbas P, Riker AI, Sondak VK, Munster PN, Sullivan DM, Ugen KE, Messina JL,
+Heller R (2008) Phase I trial of interleukin-12 plasmid electroporation in patients with metastatic melanoma. J Clin
+Oncol 26(36):5896–903
+50. Durieux A-C, Bonnefoy R, Busso T, Freyssenet D (2004) In vivo gene electrotransfer into skeletal muscle: effects of
+plasmid DNA on the occurrence and extent of muscle damage. J Gene Med 6(7):809–16
+51. Yoshida A, Nagata T, Uchijima M, Higashi T, Koide Y (2000) Advantage of gene gun-mediated over intramuscular
+inoculation of plasmid DNA vaccine in reproducible induction of specific immune responses. Vaccine 18(17):1725–9
+52. Davtyan H, Ghochikyan A, Movsesyan N, Ellefsen B, Petrushina I, Cribbs DH, Hannaman D, Evans CF, Agadjanyan
+MG (2012) Delivery of a DNA vaccine for Alzheimer’s disease by electroporation versus gene gun generates
+potent and similar immune responses. Neurodegener Dis 10(1–4):261–4
+53. Boudreau EF, Josleyn M, Ullman D, Fisher D, Dalrymple L, Sellers-Myers K, Loudon P, Rusnak J, Rivard R, Schmaljohn C,
+Hooper JW (2012) A Phase 1 clinical trial of Hantaan virus and Puumala virus M-segment DNA vaccines for
+hemorrhagic fever with renal syndrome. Vaccine 30(11):1951–8
+54. Jones S, Evans K, McElwaine-Johnn H, Sharpe M, Oxford J, Lambkin-Williams R, Mant T, Nolan A, Zambon M, Ellis J,
+Beadle J, Loudon PT (2009) DNA vaccination protects against an influenza challenge in a double-blind randomised
+placebo-controlled phase 1b clinical trial. Vaccine 27(18):2506–12
+55. Gregor PD, Wolchok JD, Turaga V, Latouche J-B, Sadelain M, Bacich D, Heston WDW, Houghton AN, Scher HI
+(2005) Induction of autoantibodies to syngeneic prostate-specific membrane antigen by xenogeneic vaccination.
+Int J Cancer 116(3):415–21
+56. Garcia-Hernandez MDLL, Gray A, Hubby B, Kast WM (2007) In vivo effects of vaccination with six-transmembrane
+epithelial antigen of the prostate: A candidate antigen for treating prostate cancer. Cancer Res 67(3):1344–51
+57. Mehier-Humbert S, Bettinger T, Yan F, Guy RH (2005) Ultrasound-mediated gene delivery: kinetics of plasmid
+internalization and gene expression. J Control Release 104(1):203–11
+58. Yoshida M, Kawakami S, Kono Y, Un K, Higuchi Y, Maruyama K, Yamashita F, Hashida M (2014) Enhancement of
+the anti-tumor effect of DNA vaccination using an ultrasound-responsive mannose-modified gene carrier in
+combination with doxorubicin-encapsulated PEGylated liposomes. Int J Pharm 475(1–2):401–7
+59. Duvshani-Eshet M, Benny O, Morgenstern A, Machluf M (2007) Therapeutic ultrasound facilitates antiangiogenic
+gene delivery and inhibits prostate tumor growth. Mol Cancer Ther 6(8):2371–82
+60. Yamashita Y, Shimada M, Tachibana K, Harimoto N, Tsujita E, Shirabe K, Miyazaki J, Sugimachi K (2002) In vivo
+gene transfer into muscle via electro-sonoporation. Hum Gene Ther 13(17):2079–84
+61. Kim NW, Lee MS, Kim KR, Lee JE, Lee K, Park JS, Matsumoto Y, Jo D-G, Lee H, Lee DS, Jeong JH (2014)
+Polyplex-releasing microneedles for enhanced cutaneous delivery of DNA vaccine. J Control Release 179:11–7
+62. Zhang D, Das DB, Rielly CD (2014) Potential of microneedle-assisted micro-particle delivery by gene guns: a
+review. Drug Deliv 21(8):571–87
+63. Choi S-O, Kim YC, Park J-H, Hutcheson J, Gill HS, Yoon Y-K, Prausnitz MR, Allen MG (2010) An electrically active
+microneedle array for electroporation. Biomed Microdevices 12(2):263–73
+64. Tatsis N, Ertl HCJ (2004) Adenoviruses as vaccine vectors. Mol Ther 10(4):616–29
+65. Mahadevan M, Liu Y, You C, Luo R, You H, Mehta JL, Hermonat PL (2007) Generation of robust cytotoxic T
+lymphocytes against prostate specific antigen by transduction of dendritic cells using protein and recombinant
+adeno-associated virus. Cancer Immunol Immunother 56(10):1615–24
+66. Daya S, Berns KI (2008) Gene therapy using adeno-associated virus vectors. Clin Microbiol Rev 21(4):583–93
+67. Castelo-Branco P, Passer BJ, Buhrman JS, Antoszczyk S, Marinelli M, Zaupa C, Rabkin SD, Martuza RL (2010)
+Oncolytic herpes simplex virus armed with xenogeneic homologue of prostatic acid phosphatase enhances
+antitumor efficacy in prostate cancer. Gene Ther 17(6):805–10
+68. Glorioso JC (2014) Herpes simplex viral vectors: late bloomers with big potential. Hum Gene Ther 25(2):83–91
+69. Yi Y, Noh MJ, Lee KH (2011) Current advances in retroviral gene therapy. Curr Gene Ther 11(3):218–28
+70. Escors D, Breckpot K (2010) Lentiviral vectors in gene therapy: their current status and future potential. Arch
+Immunol Ther Exp (Warsz) 58(2):107–19
+71. Madan RA, Arlen PM, Mohebtash M, Hodge JW, Gulley JL (2009) Prostvac-VF: a vector-based vaccine targeting PSA
+in prostate cancer. Expert Opin Investig Drugs 18(7):1001–11
+Page 22
+Cole et al. Cancer Nanotechnology (2015) 6:2  Page 22 of 23
+72. McCarthy HO, Wang Y, Mangipudi SS, Hatefi A (2010) Advances with the use of bio-inspired vectors towards
+creation of artificial viruses. Expert Opin Drug Deliv 7(4):497–512
+73. Eder JP, Kantoff PW, Roper K, Xu GX, Bubley GJ, Boyden J, Gritz L, Mazzara G, Oh WK, Arlen P, Tsang KY, Panicali D,
+Schlom J, Kufe DW (2000) A phase I trial of a recombinant vaccinia virus expressing prostate-specific antigen in
+advanced prostate cancer. Clin Cancer Res 6(5):1632–8
+74. Lubaroff DM, Konety BR, Link B, Gerstbrein J, Madsen T, Shannon M, Howard J, Paisley J, Boeglin D, Ratliff TL,
+Williams RD (2009) Phase I clinical trial of an adenovirus/prostate-specific antigen vaccine for prostate cancer:
+safety and immunologic results. Clin Cancer Res 15(23):7375–80
+75. Kantoff PW, Schuetz TJ, Blumenstein BA, Glode LM, Bilhartz DL, Wyand M, Manson K, Panicali DL, Laus R, Schlom J,
+Dahut WL, Arlen PM, Gulley JL, Godfrey WR (2010) Overall survival analysis of a phase II randomized controlled
+trial of a Poxviral-based PSA-targeted immunotherapy in metastatic castration-resistant prostate cancer. J Clin
+Oncol 28(7):1099–105
+76. “Phase II Study of Adenovirus/PSA Vaccine in Men With Hormone-Refractory Prostate Cancer (APP22).” [Online].
+Available: [URL: "http://clinicaltrials.gov/show/NCT00583024"] http://clinicaltrials.gov/show/NCT00583024. [Accessed: 15-Dec-2014].
+77. “A Randomized, Double-blind, Phase 3 Efficacy Trial of PROSTVAC-V/F +/− GM-CSF in Men With Asymptomatic or
+Minimally Symptomatic Metastatic Castrate-Resistant Prostate Cancer (Prospect).” [Online]. Available:
+ https://clinicaltrials.gov/ct2/show/NCT01322490.
+78. Kong F, Zhou F, Ge L, Liu X, Wang Y (2012) Mannosylated liposomes for targeted gene delivery. Int J
+Nanomedicine 7:1079–89
+79. Vyas SP, Goyal AK, Khatri K (2010) Mannosylated liposomes for targeted vaccines delivery. Methods Mol Biol 605:177–88
+80. Jeong H-S, Na KS, Hwang H, Oh P-S, Kim DH, Lim ST, Sohn M-H, Jeong H-J (2014) Effect of space length of
+mannose ligand on uptake of mannosylated liposome in RAW 264.7 cells: In vitro and in vivo studies. J Biomed
+Mater Res A 102(12):4545–53
+81. Kawakami S, Sato A, Nishikawa M, Yamashita F, Hashida M (2000) Mannose receptor-mediated gene transfer into
+macrophages using novel mannosylated cationic liposomes. Gene Ther 7(4):292–9
+82. Allen J, Khwaja F, Djakiew D. Gene therapy of prostate xenograft tumors with a p75NTR lipoplex. Anticancer Res.
+24(5A):2997–3003.
+83. Hosseinkhani H, Abedini F, Ou K-L, Domb AJ (2015) Polymers in gene therapy technology. Polym Adv Technol
+26(2):198–211
+84. Lv H, Zhang S, Wang B, Cui S, Yan J (2006) Toxicity of cationic lipids and cationic polymers in gene delivery.
+J Control Release 114(1):100–9
+85. Godbey WT, Wu KK, Mikos AG (1999) Size matters: molecular weight affects the efficiency of poly(ethylenimine) as
+a gene delivery vehicle. J Biomed Mater Res 45(3):268–75
+86. Yuan T, Wang Y, Cao W, Sun Y, Liang J, Fan Y, Zhang X (2014) Reducible cationic PAA-g-PEI polymeric micelle/
+DNA complexes for enhanced gene delivery. J Bioact Compat Polym 29(5):458–73
+87. Breunig M, Lungwitz U, Liebl R, Goepferich A (2007) Breaking up the correlation between efficacy and toxicity for
+nonviral gene delivery. Proc Natl Acad Sci U S A 104(36):14454–9
+88. Min S-H, Park KC, Il Yeom Y (2015) Chitosan-mediated non-viral gene delivery with improved serum stability and
+reduced cytotoxicity. Biotechnol Bioprocess Eng 19(6):1077–82
+89. Coll JL, Chollet P, Brambilla E, Desplanques D, Behr JP, Favrot M (1999) In vivo delivery to tumors of DNA
+complexed with linear polyethylenimine. Hum Gene Ther 10(10):1659–66
+90. “Gene Therapy of Pancreatic Ductal Adenocarcinoma (TherGAP).” [Online]. Available: [URL: "https://clinicaltrials.gov/ct2/show/NCT01274455"] https://clinicaltrials.gov/ct2/
+ show/NCT01274455. [Accessed: 03-Mar-2015].
+91. Jiang H-L, Kang ML, Quan J-S, Kang SG, Akaike T, Yoo HS, Cho C-S (2008) The potential of mannosylated chitosan
+microspheres to target macrophage mannose receptors in an adjuvant-delivery system for intranasal
+immunization. Biomaterials 29(12):1931–9
+92. Frankel AD, Pabo CO (1988) Cellular uptake of the tat protein from human immunodeficiency virus. Cell 55(6):1189–93
+93. Copolovici DM, Langel K, Eriste E, Langel Ü (2014) Cell-penetrating peptides: design, synthesis, and applications.
+ACS Nano 8(3):1972–94
+94. Dom G (2003) Cellular uptake of Antennapedia Penetratin peptides is a two-step process in which phase transfer
+precedes a tryptophan-dependent translocation. Nucleic Acids Res 31(2):556–61
+95. McCarthy HO, McCaffrey J, McCrudden CM, Zholobenko A, Ali AA, McBride JW, Massey AS, Pentlavalli S, Chen K-H,
+Cole G, Loughran SP, Dunne NJ, Donnelly RF, Kett VL, Robson T (2014) Development and characterization of self-
+assembling nanoparticles using a bio-inspired amphipathic peptide for gene delivery. J Control Release 189:141–9
+96. Truant R, Cullen BR (1999) The Arginine-Rich Domains Present in Human Immunodeficiency Virus Type 1 Tat and
+Rev Function as Direct Importin beta -Dependent Nuclear Localization Signals. Mol Cell Biol 19(2):1210–7
+97. Martin ME, Rice KG (2007) Peptide-guided gene delivery. AAPS J 9(1):E18–29
+98. Zhang K, Yang F, Ye J, Jiang M, Liu Y, Jin F, Wu Y (2012) A novel DNA/peptide combined vaccine induces PSCA-
+specific cytotoxic T-lymphocyte responses and suppresses tumor growth in experimental prostate cancer. Urology
+79(6):1410.e7–13
+99. “Two-Arm Study of a DNA Vaccine Encoding Prostatic Acid Phosphatase (PAP) in Patients With Non-Metastatic
+Castrate-Resistant Prostate Cancer.” [Online]. Available: [URL: "https://clinicaltrials.gov/ct2/show/NCT00849121"] https://clinicaltrials.gov/ct2/show/NCT00849121. [Accessed:
+15-Dec-2014].
+100. Mincheff M, Tchakarov S, Zoubak S, Loukinov D, Botev C, Altankova I, Georgiev G, Petrov S, Meryman HT (2000) Naked
+DNA and adenoviral immunizations for immunotherapy of prostate cancer: a phase I/II clinical trial. Eur Urol 38(2):208–17
+101. Zhang X, Divangahi M, Ngai P, Santosuosso M, Millar J, Zganiacz A, Wang J, Bramson J, Xing Z (2007)
+Intramuscular immunization with a monogenic plasmid DNA tuberculosis vaccine: Enhanced immunogenicity by
+electroporation and co-expression of GM-CSF transgene. Vaccine 25(7):1342–52
+102. Gao N, Chen W, Zheng Q, Fan D, Zhang J, Chen H, Gao GF, Zhou D, An J (2010) Co-expression of Japanese
+encephalitis virus prM-E-NS1 antigen with granulocyte-macrophage colony-stimulating factor enhances humoral
+and anti-virus immunity after DNA vaccination. Immunol Lett 129(1):23–31
+Page 23
+Cole et al. Cancer Nanotechnology (2015) 6:2  Page 23 of 23
+103. Sun X, Hodge LM, Jones HP, Tabor L, Simecka JW (2002) Co-expression of granulocyte-macrophage colony-stimulating
+factor with antigen enhances humoral and tumor immunity after DNA vaccination. Vaccine 20(9–10):1466–74
+104. Aggarwal S, Ricklis RM, Williams SA, Denmeade SR (2006) Comparative study of PSMA expression in the prostate
+of mouse, dog, monkey, and human. Prostate 66(9):903–10
+105. Yang D, Holt GE, Velders MP, Kwon ED, Kast WM (2001) Murine six-transmembrane epithelial antigen of the
+prostate, prostate stem cell antigen, and prostate-specific membrane antigen: prostate-specific cell-surface
+antigens highly expressed in prostate cancer of transgenic adenocarcinoma mouse prostate mice. Cancer Res
+61(15):5857–60
+106. Johnson LE, Frye TP, Chinnasamy N, Chinnasamy D, McNeel DG (2007) Plasmid DNA vaccine encoding prostatic
+acid phosphatase is effective in eliciting autologous antigen-specific CD8+ T cells. Cancer Immunol Immunother
+56(6):885–95
+107. Becker JT, Olson BM, Johnson LE, Davies JG, Dunphy EJ, McNeel DG. DNA vaccine encoding prostatic acid
+phosphatase (PAP) elicits long-term T-cell responses in patients with recurrent prostate cancer. J Immunother.
+33(6):639–47.
+108. Johnson LE, Frye TP, McNeel DG (2012) Immunization with a prostate cancer xenoantigen elicits a xenoantigen
+epitope-specific T-cell response. Oncoimmunology 1(9):1546–56
+109. Slovin S, Gregor P, Wolchok J, Pedraza A, Orlandi F, Jefferson M, Fernandez C, Rudolph J, Houghton A, Scher H
+(2007) A xenogeneic PSMA DNA vaccine for patients (pts) with non-castrate metastatic (NCMPC) and castrate
+metastatic prostate cancer (CMPC)–A phase I trial of proof of principle. ASCO Meet Abstr 25(18_suppl):3073
+110. Lu Y, Ouyang K, Fang J, Zhang H, Wu G, Ma Y, Zhang Y, Hu X, Jin L, Cao R, Fan H, Li T, Liu J (2009) Improved
+efficacy of DNA vaccination against prostate carcinoma by boosting with recombinant protein vaccine and by
+introduction of a novel adjuvant epitope. Vaccine 27(39):5411–8
+111. Kim S, Lee JB, Geon KL, Chang J (2009) Vaccination with recombinant adenoviruses and dendritic cells expressing
+prostate-specific antigens is effective in eliciting CTL and suppresses tumor growth in the experimental prostate
+cancer. Prostate 69(9):938–48
+112. Kim S, Lee J-B, Chang J (2007) Vaccination with recombinant adenoviruses and dendritic cells expressing prostate-
+specific antigens is effective in eliciting CTL and suppresses tumor growth in the experimental prostate cancer.
+J Immunol 178:LB32, Meeting Abstracts
+113. “Provenge With or Without pTVG-HP DNA Booster Vaccine in Prostate Cancer.” [Online]. Available: [URL: "https://clinicaltrials.gov/ct2/show/NCT01706458"] https://clinical
+ trials.gov/ct2/show/NCT01706458. [Accessed: 15-Dec-2014].
+114. “Phase II PAP Plus GM-CSF Versus GM-CSF Alone for Non-metastatic Prostate Cancer.” [Online]. Available: [URL: "https://clinicaltrials.gov/ct2/show/NCT01341652"] https://
+ clinicaltrials.gov/ct2/show/NCT01341652. [Accessed: 15-Dec-2014].
+115. “Vaccine Therapy With PROSTVAC/TRICOM and Flutamide Versus Flutamide Alone to Treat Prostate Cancer.”
+[Online]. Available: [URL: "https://clinicaltrials.gov/ct2/show/NCT00450463"] https://clinicaltrials.gov/ct2/show/NCT00450463. [Accessed: 15-Dec-2014].
+116. “Phase II Study of Adenovirus/PSA Vaccine in Men With Recurrent Prostate Cancer After Local Therapy APP21.”
+[Online]. Available: [URL: "https://clinicaltrials.gov/ct2/show/NCT00583752"] https://clinicaltrials.gov/ct2/show/NCT00583752. [Accessed: 15-Dec-2014].
+Submit your manuscript to a
+journal and beneﬁ t from:
+7 Convenient online submission
+7 Rigorous peer review
+7 Immediate publication on acceptance
+7 Open access: articles freely available online
+7 High visibility within the ﬁeld
+7 Retaining the copyright to your article
+Submit your next manuscript at 7 springeropen.com
