@@ -1,3 +1,5 @@
+__Python 3.9.12__
+
 This is a package to cluster groups of data fast.
 
 The main function can be used to see a step by step process of how the algorithm works and all the parameters it takes. The path of a folder of files can be used to separate the documents into a distinguishable files. Additionally, if the files are already split into sub categories, the performance of clustering can be evaluated.
