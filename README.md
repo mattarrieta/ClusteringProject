@@ -1,4 +1,4 @@
-__Python 3.9.12__
+__Clustering Files__
 
 This is a package to cluster groups of data fast.
 
@@ -15,6 +15,8 @@ Keywords are extracted from the predicicted groupings with several keyword extra
 The files groups can then be saved on to a directory.
 
 Visualization of the model can be done with plotResults but a umap dimension reducation is recommended and may take more time than other dimension reductions. Several different plot types can be chosen from the libarary.
+
+__Python 3.9.12__
 
 __Package Versions:__ hdbscan 0.8.28, keybert 0.5.1, pandas 1.4.2, nltk 3.7, numpy 1.21.5,regex 2022.3.15, scikit-learn 1.02
 
